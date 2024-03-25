@@ -1,8 +1,8 @@
-# OS101 Module 4: Open Code
+# Introducción a la Ciencia Abierta Módulo 4: Código Abierto
 
-**Welcome to Open Science 101: Open Code**
+Bienvenidos y Bienvenidas a Introducción a la Ciencia Abierta: Código Abierto
 
-## About This Module
+## Acerca de este módulo
 
 This module focuses on the practice and application of open code as part of the open science workflow. It provides a 'how to' process that follows the code development lifecycle and "Use, Make, Share" framework. Some of the key topics discussed include: benefits and limitations of open code, how to discover and assess code, considerations and methods for programming following open principles, and finally when and how to share your code.
 
