@@ -1,17 +1,17 @@
-# Lesson 2: Why is Open Science Important?
+# Lección 2: ¿ Por qué es importante la Ciencia Abierta?
 
 ## Navigation
 
-- [Open Science Breaks Down Stovepipes and Increases Innovation](#open-science-breaks-down-stovepipes-and-increases-innovation)
-- [Benefits to You](#benefits-to-you)
-- [Benefits to Science](#benefits-to-science)
-- [Benefits to Society](#benefits-to-society)
-- [Lesson 2: Summary](#lesson-2-summary)
-- [Lesson 2: Knowledge Check](#lesson-2-knowledge-check)
+- [La Ciencia Abierta Rompe Barreras y Promueve la Innovación](#la-ciencia-abierta-rompe-barreras-y-promueve-la-innovación)
+- [Beneficios Personales](#beneficios-personales)
+- [Beneficios Para La Ciencia](#beneficios-para-la-ciencia)
+- [Beneficios Para La Sociedad](#beneficios-para-la-sociedad)
+- [Lección 2: Resumen](#lección-2-resumen)
+- [Lección 2: Revisión De Conocimientos](#lección-2-revisión-de-conocimientos)
 
-## Overview
+## Resumen
 
-In this lesson, you learn how adopting open science benefits you as a researcher and society. You also learn about some of the challenges and hurdles with using open science principles and how to navigate them.
+In this lesson, you learn how adopting open science benefits you as a researcher and society. También aprenderemos sobre algunos de los desafíos y obstáculos que se presentan al utilizar los principios de la ciencia abierta y cómo superarlos.
 
 ## Learning Objectives
 
