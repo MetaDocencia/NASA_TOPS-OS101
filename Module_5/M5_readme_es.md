@@ -23,57 +23,57 @@ Estos términos claves son temas importantes para este módulo. Seleccione el t�
 
 **Objeto de Investigación (OI)** - Un método para la identificación, agregación e intercambio de información científica en la Web. Esto puede incluir publicaciones en diferentes formatos, softwares, datos y medios.
 
-**Predatory Publishing** - For-profit publishers that charge a publishing fee but provide few quality checks on the quality of the publication that would be expected from scholarly publications such as peer review or type-setting.
+**Publicación depredadora** - Editores con fines de lucro que cobran una tarifa por publicación pero ofrecen pocos controles de calidad, como revisión por pares o composición tipográfica.
 
-**Preprint** - A version of a paper prior to the publication in a journal. This can be the author’s version of the accepted manuscript after peer review or a version prior to submission to a journal.
+**Preimpresión** - Versión de un artículo previa a su publicación en una revista. Puede tratarse de la versión del autor del documento aceptado después de la revisión por pares, o una versión anterior a su envío a una revista.
 
-**Preregistering** - A practice by researchers who determine their analysis plan and data collection procedure before a study begins.
+**Prerregistro** - Práctica por parte de quienes investigan en la cual determinan su plan de análisis y procedimiento de recolección de datos antes de que comience un estudio.
 
-**Persistent Identifiers** - Long lasting reference to a document, file, web page, or other digital object. It is usually used in the context of digital objects that are accessible over the internet. Most PIDs have a unique identifier which is linked to the current address of the metadata or content.
+**Identificadores persistentes** - Referencia duradera a un documento, archivo, página web u otro objeto digital. Generalmente se utiliza en el contexto de objetos digitales accesibles a través de Internet. La mayoría de los identificadores persistentes tienen un identificador único que está vinculado a la dirección actual de los metadatos o del contenido.
 
-**Reproducibility Crisis** - The 'reproducibility crisis' in science is a growing concern over several reproducibility studies where previous positive results were not reproduced.
+**Crisis de Reproducibilidad** - La 'crisis de reproducibilidad' de la ciencia es una preocupación creciente debido a varios estudios de reproducibilidad en los que resultados positivos previos no fueron reproducidos.
 
-**DOI** - A digital object identifier is a persistent identifier's handle used to uniquely identify various objects, standardized by the International Organization for Standardization (ISO).
+**DOI** - Es un identificador persistente estandarizado por la Organización Internacional para la Estandarización (ISO) y utilizado para identificar de forma única varios objetos.
 
-**Code of Conduct** - A collection of rules and policies that outline the standards, principles, expectations, and morals for a particular group or organization. It is considered binding on any person who is a member of that group or organization. It can help employees align their behavior with the company’s values, support decision-making, and foster retention and loyalty.
+**Código de conducta** - Un conjunto de reglas y políticas que describen las normas, principios, expectativas y valores de un grupo u organización en particular. Se considera obligatorio para cualquier persona que sea miembro de ese grupo u organización. Puede ayudar a miembros a alinear su conducta con los valores de la comunidad, apoyar la toma de decisiones y fomentar la retención y compromiso.
 
-## Navigation
+## Contenidos
 
-### [Lesson 1: Introduction to Open Results](./Lesson_1)
+### [Lección 1: Introducción a Resultados Abiertos](./Lección_1)
 
-- [What Research Objects are Created Throughout the Research Cycle?](./Lesson_1#what-research-objects-are-created-throughout-the-research-cycle)
-- [Examples of Open Results](./Lesson_1#examples-of-open-results)
-- [What is the Reproducibility Crisis?](./Lesson_1#what-is-the-reproducibility-crisis)
-- [Lesson 1: Summary](./Lesson_1#lesson-1-summary)
-- [Lesson 1: Knowledge Check](./Lesson_1#lesson-1-knowledge-check)
+- [¿Qué objetos de investigación se crean a lo largo del ciclo de investigación?](./Lesson_1#what-research-objects-are-created-throughhout-the-research-cycle)
+- [Ejemplos de resultados abiertos](./Lesson_1#ejemplos-de-resultados)
+- [¿Qué es la crisis de reproducibilidad?](./Lesson_1#what-is-the-reproducibility-crisis)
+- [Lección 1: Resumen](./Lección_1#lección-1-resumen)
+- [Lección 1: Comprobación del conocimiento](./Lección_1#comprobación del conocimiento-1)
 
-### [Lesson 2: Using Open Results](./Lesson_2)
+### [Lección 2: Usando Resultados Abiertos](./Lección 2)
 
-- [How to Discover Open Results](./Lesson_2#how-to-discover-open-results)
-- [How to Assess Open Results](./Lesson_2#how-to-assess-open-results)
-- [How to Use Open Results](./Lesson_2#how-to-use-open-results)
-- [How to Cite Open Results](./Lesson_2#how-to-cite-open-results)
-- [Lesson 2: Summary](./Lesson_2#lesson-2-summary)
-- [Lesson 2: Knowledge Check](./Lesson_2#lesson-2-knowledge-check)
+- [Cómo descubrir resultados abiertos](./Lesson_2#cómo descubrir-open-results)
+- [Cómo evaluar resultados abiertos](./Lesson_2#cómo evaluar-abrir)
+- [Cómo usar resultados abiertos](./Lesson_2#cómo usarlos-abiertos)
+- [Cómo citar resultados abiertos](./Lesson_2#cómo citar-open-results)
+- [Lección 2: Resumen](./Lección_2#resumen de lección-2-lección)
+- [Lección 2: Comprobación de conocimiento](./Lección_2#comprobación de conocimientos-de-la-lección-2)
 
-### [Lesson 3: Making Open Results](./Lesson_3)
+### [Lección 3: Haciendo Resultados Abiertos](./Lección_3)
 
-- [How to Make Open Results](./Lesson_3#how-to-make-open-results)
-- [Role of Contributors in Open Science](./Lesson_3#role-of-contributors-in-open-science)
-- [How to Give Open Recognition](./Lesson_3#how-to-give-open-recognition)
-- [Combining Open Results for Scientific Reporting and Publications](./Lesson_3#combining-open-results-for-scientific-reporting-and-publications)
-- [Lesson 3: Summary](./Lesson_3#lesson-3-summary)
-- [Lesson 3: Knowledge Check](./Lesson_3#lesson-3-knowledge-check)
+- [Cómo hacer resultados abiertos](./Lesson_3#cómo hacerlo-open-results)
+- [Rol de quienes contribuyen en Ciencia Abierta](./Lesson_3#role-of-Contributors-in-open-science)
+- [Cómo reconocer contribuciones en Ciencia Abierta](./Lesson_3#how-to-give-open-recognition)
+- [Combinar resultados abiertos para informes y publicaciones científicas](./Lesson_3#combining-open-results-for-scientific-reporting-and-publications)
+- [Lección 3: Resumen](./Lección_3#lección-3-resumen)
+- [Lección 3: Comprobación del conocimiento](./Lesson_3#comprobación del conocimiento-de-la-lección)
 
-### [Lesson 4: Sharing Open Results](./Lesson_4)
+### [Lección 4: Compartiendo Resultados Abiertos](./Lección 4)
 
-- [When to Share](./Lesson_4#when-to-share)
-- [How to Share](./Lesson_4#how-to-share)
-- [Other Considerations When Sharing](./Lesson_4#other-considerations-when-sharing)
-- [Lesson 4: Summary](./Lesson_4#lesson-4-summary)
-- [Lesson 4: Knowledge Check](./Lesson_4#lesson-4-knowledge-check)
+- [Cuándo compartir](./Lección_4#cuando-compartir)
+- [Cómo compartir](./Lección_4#como-compartir)
+- [Otras consideraciones cuando compartimos](./Lección_4#otras-consideraciones-cuando-compartimos)
+- [Lección 4: Resumen](./Lección_4#lección-4-resumen)
+- [Lección 4: Comprobación de conocimiento](./Lesson_4#check-de-conocimiento de lección)
 
-### [Lesson 5: From Theory to Practice](./Lesson_5)
+### [Lección 5: De la teoría a la prácitca](./Lección 5)
 
 - [Writing an OSDMP: What to Include in the OSDMP for Sharing Results Openly](./Lesson_5#writing-an-osdmp-what-to-include-in-the-osdmp-for-sharing-results-openly)
 - [Example Steps Toward More Open Results](./Lesson_5#example-steps-toward-more-open-results)
