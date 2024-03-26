@@ -1,14 +1,14 @@
-# OS101 Module 5: Open Results
+# Introducción a la Ciencia Abierta Módulo 5: Resultados Abiertos
 
-**Welcome to Open Science 101: Open Results**
+Te damos la bienvenida a Introducción a la Ciencia Abierta: Resultados Abiertos
 
-## About This Module
+## Acerca de este módulo
 
-Welcome to Open Results! This module focuses on giving you the tools you need to kick-start a scientific collaboration by creating contributor guidelines that ensure ethical contributorship. It starts out with a use case of open science in action, then a review of how to discover and assess open results. Next, the focus is on how to publish results which includes a task checklist. The module wraps up with specific guidance for writing the sharing results section of the Open Science and Data Management Plans (OSDMP). We will also reflect on how our society and technology are constantly evolving in the way we do science.
+¡Te damos la bienvenida a Resultados Abiertos! Este módulo se enfoca en brindarte las herramientas necesarias para iniciar una colaboración científica estableciendo pautas que garanticen a quienes colaboran, la posibilidad de generar una contribución ética. El módulo comienza con un caso de uso de la ciencia abierta en acción, seguido de una revisión sobre cómo descubrir y evaluar resultados abiertos. A continuación, se centra en cómo publicar resultados, lo que incluye una lista de verificación de tareas. El módulo concluye con orientación específica para escribir la sección de compartir resultados de los Planes de Gestión de Ciencia Abierta y Datos (PGCAD). También reflexionaremos sobre cómo nuestra sociedad y tecnología están en constante cambio en la forma en que hacemos ciencia.
 
-### Module Learning Objectives
+### Objetivos de aprendizaje del módulo
 
-After completing this module you should be able to:
+Al finalizar esta lección deberías ser capaz de:
 
 - Describe what constitutes an open result.
 - Explain what the reproducibility crisis is and how open science can help combat it.
