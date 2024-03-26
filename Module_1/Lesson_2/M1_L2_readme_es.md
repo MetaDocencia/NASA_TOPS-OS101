@@ -21,13 +21,13 @@ After completing this lesson, you should be able to:
 - Describe the ways in which open science can advance science.
 - List the benefits society receives when open science principles are adopted.
 
-## Open Science Breaks Down Stovepipes and Increases Innovation
+## La Ciencia Abierta Rompe Barreras e Impulsa la Innovación
 
 "We need more WE science rather than ME science."
 
 **Harlan Krumholz,**
 
-**Yale School of Medicine at 2022 CZI Meeting**
+\*\*Colegio de Medicina de Yale, Reunión CZI, 2022 \*\*
 
 <img src="../images/media/harlanquote.jpg">
 
@@ -43,7 +43,7 @@ This lesson highlights the benefits of open science to a wide range of stakehold
 
 <img src="../images/media/image377.jpg" style="width: 100%; height: auto;" />
 
-Figure: There are many benefits of open science. [CC-BY Danny Kingsley & Sarah Brown](https://blogs.uef.fi/ueflibrary-bors/benefits-and-challenges-of-open-science/).
+Imagen: Existen muchos beneficios en la Ciencia Abierta. [CC-BY Danny Kingsley & Sarah Brown](https://blogs.uef.fi/ueflibrary-bors/benefits-and-challenges-of-open-science/).
 
 ## Benefits to You
 
