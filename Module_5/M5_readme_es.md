@@ -44,26 +44,26 @@ Estos términos claves son temas importantes para este módulo. Seleccione el t�
 - [¿Qué objetos de investigación se crean a lo largo del ciclo de investigación?](./Lesson_1#what-research-objects-are-created-throughhout-the-research-cycle)
 - [Ejemplos de resultados abiertos](./Lesson_1#ejemplos-de-resultados)
 - [¿Qué es la crisis de reproducibilidad?](./Lesson_1#what-is-the-reproducibility-crisis)
-- [Lección 1: Resumen](./Lección_1#lección-1-resumen)
-- [Lección 1: Comprobación del conocimiento](./Lección_1#comprobación del conocimiento-1)
+- Lección 1: Resumen
+- Lección 1: Comprobación del conocimiento
 
-### [Lección 2: Usando Resultados Abiertos](./Lección 2)
+### Lección 2: Usando Resultados Abiertos
 
-- [Cómo descubrir resultados abiertos](./Lesson_2#cómo descubrir-open-results)
-- [Cómo evaluar resultados abiertos](./Lesson_2#cómo evaluar-abrir)
-- [Cómo usar resultados abiertos](./Lesson_2#cómo usarlos-abiertos)
-- [Cómo citar resultados abiertos](./Lesson_2#cómo citar-open-results)
+- Cómo descubrir resultados abiertos
+- Cómo evaluar resultados abiertos
+- Cómo usar resultados abiertos
+- Cómo citar resultados abiertos
 - [Lección 2: Resumen](./Lección_2#resumen de lección-2-lección)
 - [Lección 2: Comprobación de conocimiento](./Lección_2#comprobación de conocimientos-de-la-lección-2)
 
 ### [Lección 3: Haciendo Resultados Abiertos](./Lección_3)
 
 - [Cómo hacer resultados abiertos](./Lesson_3#cómo hacerlo-open-results)
-- [Rol de quienes contribuyen en Ciencia Abierta](./Lesson_3#role-of-Contributors-in-open-science)
+- Rol de quienes contribuyen en Ciencia Abierta
 - [Cómo reconocer contribuciones en Ciencia Abierta](./Lesson_3#how-to-give-open-recognition)
 - [Combinar resultados abiertos para informes y publicaciones científicas](./Lesson_3#combining-open-results-for-scientific-reporting-and-publications)
 - [Lección 3: Resumen](./Lección_3#lección-3-resumen)
-- [Lección 3: Comprobación del conocimiento](./Lesson_3#comprobación del conocimiento-de-la-lección)
+- Lección 3: Comprobación del conocimiento
 
 ### [Lección 4: Compartiendo Resultados Abiertos](./Lección 4)
 
@@ -73,12 +73,12 @@ Estos términos claves son temas importantes para este módulo. Seleccione el t�
 - [Lección 4: Resumen](./Lección_4#lección-4-resumen)
 - [Lección 4: Comprobación de conocimiento](./Lesson_4#check-de-conocimiento de lección)
 
-### [Lección 5: De la teoría a la prácitca](./Lección 5)
+### Lección 5: De la teoría a la práctica
 
-- [Writing an OSDMP: What to Include in the OSDMP for Sharing Results Openly](./Lesson_5#writing-an-osdmp-what-to-include-in-the-osdmp-for-sharing-results-openly)
-- [Example Steps Toward More Open Results](./Lesson_5#example-steps-toward-more-open-results)
-- [How Emerging Technology Like AI is Changing How We Do Science](./Lesson_5#how-emerging-technology-like-ai-is-changing-how-we-do-science)
-- [Lesson 5: Summary](./Lesson_5#lesson-5-summary)
-- [Lesson 5: Knowledge Check](./Lesson_5#lesson-5-knowledge-check)
-- [Open Results Summary](./Lesson_5#open-results-summary)
-- [Open Science 101 Summary](./Lesson_5#open-science-101-summary)
+- Escribiendo un OSDMP: Qué incluír en un OSDMP para compartir resultados abiertos
+- Ejemplo de pasos hacia resultados más abiertos
+- Cómo tecnologías emergentes como la IA están cambiando la forma en que hacemos ciencia
+- [Lección 5: Resumen](./Lección_5#lección-5-resumen)
+- [Lección 5: Comprobación de conocimiento](./Lección_5#comprobación de conocimientos-lección-5)
+- Resumen Resultados Abiertos
+- Resumen Introducción a la Ciencia Abierta
