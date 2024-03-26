@@ -10,18 +10,18 @@ Te damos la bienvenida a Introducción a la Ciencia Abierta: Resultados Abiertos
 
 Al finalizar esta lección deberías ser capaz de:
 
-- Describe what constitutes an open result.
-- Explain what the reproducibility crisis is and how open science can help combat it.
-- Use a process to discover, assess, and cite open results for reuse.
-- List the responsibilities of the following participants that are creating open results: open results user, project leader, collaborator, contributor and author.
-- List the tasks for creating reproducible results and the items to include in a manuscript to ensure reproducible results.
-- Define a strategy for sharing your results including selecting publishers, interpreting journal policies and licenses, and determining when to share your data or software with your manuscript.
+- Describa qué constituye un resultado abierto.
+- Explicar qué es la crisis de reproducibilidad y cómo la ciencia abierta puede ayudar a combatirla.
+- Llevar adelante un proceso para descubrir, evaluar y citar resultados abiertos que permitan su reutilización.
+- Listar las responsabilidades de quienes participan en la creación de resultados abiertos: personas usuarias de los resultados abiertos, líderes de proyectos, colaboradores, colaboradoras, autoras y autores.
+- Listar las tareas para crear resultados reproducibles y los elementos a incluir en un documento para garantizarlos.
+- Definir una estrategia para compartir resultados incluyendo la selección de editores, la interpretación de políticas de revistas y licencias, y determinando con tu documento cuándo compartir tus datos o software.
 
-# Key Terms
+# Términos clave
 
-These key terms are important topics for this module. Select the term to see the description.
+Estos términos claves son temas importantes para este módulo. Seleccione el término para ver la descripción.
 
-**Research Object (RO)** - A method for the identification, aggregation, and exchange of scholarly information on the Web. This can include publications in different forms, software, data, and media.
+**Objeto de Investigación (OI)** - Un método para la identificación, agregación e intercambio de información científica en la Web. Esto puede incluir publicaciones en diferentes formatos, softwares, datos y medios.
 
 **Predatory Publishing** - For-profit publishers that charge a publishing fee but provide few quality checks on the quality of the publication that would be expected from scholarly publications such as peer review or type-setting.
 
