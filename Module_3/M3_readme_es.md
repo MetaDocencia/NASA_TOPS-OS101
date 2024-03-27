@@ -1,26 +1,26 @@
-# OS101 Module 3: Open Data
+# Introducción a la Ciencia Abierta Módulo 3: Datos Abiertos
 
-**Welcome to Open Science 101: Open Data**
+**Te damos la bienvenida a Introducción a la Ciencia Abierta: Datos Abiertos**
 
-## About This Module
+## Acerca de este módulo
 
-This module focuses on the practice and application of open science for data. It provides a 'how to' process for finding and assessing open data for use, for making open data and for sharing open data. The step-by-step flows are easy to follow and can be used as checklists after you complete the module. Some of the key topics discussed include: data management plans, the process for assessing data for reuse, creating a plan for making data including choosing open formats and adding documentation, and the considerations for sharing data and making your data citable.
+Este módulo se centra en la práctica y la aplicación de la ciencia abierta para los datos. Proporciona el proceso a seguir para encontrar y evaluar datos abiertos para su uso, para construir datos abiertos y para compartir datos abiertos. Los protocolos paso a paso son fáciles de seguir y pueden usarse como listas de verificación después de que completes el módulo. Algunos de los temas clave que discutimos incluyen: planes de gestión de datos, el proceso de evaluación de datos para su reutilización, la creación de un plan para hacer datos incluyendo la elección de formatos abiertos y el agregado de documentación, y las consideraciones para compartir datos y hacer a tus datos citables.
 
-### Module Learning Objectives
+### Objetivos de Aprendizaje del Módulo
 
-After completing this module you should be able to:
+Después de completar este módulo deberías ser capaz de:
 
-- Describe the meaning and purpose of open data, its benefits, and how FAIR principles are used.
-- Recall methods to assess the reusability of data based on its documentation, and cite the data as instructed.
-- Implement an open data management plan, select open data formats, add the needed documentation, including metadata, README files and version control, to make the data reusable and findable.
-- Evaluate whether your data should and can be shared.
-- Recall practices to make data more accessible, including the registration of an affiliated DOI and the inclusion of citation instructions in documentation.
+- Describir el significado y el propósito de los datos abiertos, sus beneficios, y cómo se usan los principios FAIR.
+- Recordar métodos para evaluar la reusabilidad de los datos sobre la base de su documentación, y citar los datos según se indica.
+- Implementar un plan de gestión de datos abierto, seleccionar formatos de datos abiertos, agregar la documentación necesaria, incluyendo metadatos, archivos README y control de versiones, para hacer a los datos reutilizables y encontrables.
+- Evaluar si tus datos deben y pueden ser compartidos.
+- Recordar prácticas para hacer los datos más accesibles, incluyendo el registro de un DOI afiliado y la inclusión de instrucciones sobre cómo citarlos en la documentación.
 
-## Key Terms
+## Términos Clave
 
-These key terms are important topics for this module. Select the term to see the description.
+Estos términos clave son tópicos importantes para este módulo. Selecciona el término para ver la descripción.
 
-**Copyright** – A type of intellectual property that protects original works of authorship as soon as an author fixes the work in a tangible form of expression. Many different types of works are covered by copyright law including data products and software. (As well as books, poems, paintings, photographs, illustrations, musical compositions, and many more.)
+**Copyright** – Un tipo de propiedad intelectual que protege la autoría de obras originales apenas la persona que es autora las fija en una forma tangible de expresión. Muchos tipos diferentes de obras están cubiertos por la ley de derechos de autor, incluyendo productos de datos y software. (Además de libros, poemas, pinturas, fotografías, ilustraciones, composiciones musicales y mucho más).
 
 **Data** – Any type of information, recordable, or observable facts. Data are now most commonly stored electronically.
 
