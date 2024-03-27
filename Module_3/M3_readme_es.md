@@ -34,71 +34,71 @@ Estos términos clave son tópicos importantes para este módulo. Selecciona el 
 
 **Identificadores persistentes de lectura automática (PID)** – Un identificador persistente (PID, por las siglas en inglés de _Persistent Identifier_) es una cadena única que identifica a un objeto, como por ejemplo a un conjunto de datos. Aunque la ubicación en línea del objeto podría cambiar, el PID no lo hará y seguirá conduciendo a los datos, asegurando que las citas que hacen referencia al PID siempre sean válidas.
 
-**Encontrables (datos)** – Datos que son fáciles de descubrir tanto para personas humanas como para máquinas. It should include a unique persistent identifier and rich metadata describing the data and context and be registered in an index that is searchable.
+**Encontrable (dato)** – Dato que es fácil de descubrir tanto para personas humanas como para máquinas. Debe incluir un identificador persistente único y metadatos ricos, que describan el dato y su contexto y que puedan ser registrados en un índice sobre el que se puedan hacer búsquedas.
 
-**Accessible (data)** – Data that can be accessed over standard communication protocols, with metadata that can be accessed even if the data itself is no longer available.
+**Accesible (dato)** – Dato al que se puede acceder a través de protocolos de comunicación estándar, con metadatos a los que se puede acceder incluso si el dato en sí ya no está disponible.
 
-**Interoperable** (data) – Data that uses controlled ontologies and vocabularies so that it can be used and/or combined with other relevant data sets in different applications.
+**Interoperable (dato)** – Dato que utiliza ontologías y vocabularios controlados para que pueda ser utilizado y/o combinado con otros conjuntos de datos relevantes en diferentes aplicaciones.
 
-**Reusable (data)** – Data that has a clear license, detailed provenance, adequate description/definition and meets community/domain standards, and can be replicated or combined with other data.
+**Reutilizable (dato)** – Dato que tiene una licencia clara, procedencia detallada, una descripción o definición adecuada, que cumple con los estándares de la comunidad o el dominio, y que puede ser replicado o combinado con otros datos.
 
-**Dataﬂow** – The data workflow that includes how data are used, made, and shared. Different actors will have different (or multiple) roles in this workflow.
+**Flujo de datos** – El flujo de trabajo con datos que incluye cómo se utilizan, se crean y se comparten esos datos. Diferentes participantes tendrán roles diferentes (o múltiples) en este flujo de trabajo.
 
-## Navigation
+## Contenidos
 
-### [Lesson 1: Introduction to Open Data](./Lesson_1)
+### [Lección 1: Introducción a Datos Abiertos](./Lesson_1)
 
-- [Overview](./Lesson_1#overview)
-- [Learning Objectives](./Lesson_1#learning-objectives)
-- [Introduction](./Lesson_1#introduction)
-- [Definition and Considerations of Open Data](./Lesson_1#definition-and-considerations-of-open-data)
-- [Benefits of Open Data](./Lesson_1#benefits-of-open-data)
-- [Challenges of Open Data](./Lesson_1#challenges-of-open-data)
-- [Applying FAIR Principles](./Lesson_1#applying-fair-principles)
-- [Planning for Openness: Using the Use, Make, Share Framework for Open Data](./Lesson_1#planning-for-openness-using-the-use-make-share-framework-for-open-data)
-- [Lesson 1: Summary](./Lesson_1#lesson-1-summary)
-- [Lesson 1: Knowledge Check](./Lesson_1#lesson-1-knowledge-check)
+- [Resumen](./Lesson_1#overview)
+- [Objetivos de Aprendizaje](./Lesson_1#learning-objectives)
+- [Introducción](./Lesson_1#introduction)
+- [Definiciones y Consideraciones sobre los Datos Abiertos](./Lesson_1#definition-and-considerations-of-open-data)
+- [Beneficios de los Datos Abiertos](./Lesson_1#benefits-of-open-data)
+- [Desafíos de los Datos Abiertos](./Lesson_1#challenges-of-open-data)
+- [Aplicando Principios FAIR](./Lesson_1#applying-fair-principles)
+- [Planificando la Apertura: Uso del sistema Usar, Hacer, Compartir para los Datos Abiertos](./Lesson_1#planning-for-openness-using-the-use-make-share-framework-for-open-data)
+- [Lección 1: Resumen](./Lesson_1#lesson-1-summary)
+- [Lección 1: Comprobación de Conocimiento](./Lesson_1#lesson-1-knowledge-check)
 
-### [Lesson 2: Using Open Data](./Lesson_2)
+### [Lección 2: Usando Datos Abiertos](./Lesson_2)
 
-- [Overview](./Lesson_2#overview)
-- [Learning Objectives](./Lesson_2#learning-objectives)
-- [Introduction](./Lesson_2#introduction)
-- [Discovering Open Data](./Lesson_2#discovering-open-data)
-- [Assessing Open Data](./Lesson_2#assessing-open-data)
-- [Using Open Data](./Lesson_2#using-open-data)
-- [Lesson 2: Summary](./Lesson_2#lesson-2-summary)
-- [Lesson 2: Knowledge Check](./Lesson_2#lesson-2-knowledge-check)
+- [Resumen](./Lesson_2#overview)
+- [Objetivos de Aprendizaje](./Lesson_2#learning-objectives)
+- [Introducción](./Lesson_2#introduction)
+- [Descubriendo los Datos Abiertos](./Lesson_2#discovering-open-data)
+- [Evaluando los Datos Abiertos](./Lesson_2#assessing-open-data)
+- [Usando los Datos Abiertos](./Lesson_2#using-open-data)
+- [Lección 2: Resumen](./Lesson_2#lesson-2-summary)
+- [Lección 2: Comprobación de conocimiento](./Lesson_2#lesson-2-knowledge-check)
 
-### [Lesson 3: Making Open Data](./Lesson_3)
+### [Lección 3: Haciendo Datos Abiertos](./Lesson_3)
 
-- [Overview](./Lesson_3#overview)
-- [Learning Objectives](./Lesson_3#learning-objectives)
-- [Planning for Open Data](./Lesson_3#planning-for-open-data)
-- [Selecting Data Formats and Tools for Interoperability](./Lesson_3#selecting-data-formats-and-tools-for-interoperability)
-- [Making the Data Reusable Through Documentation](./Lesson_3#making-the-data-reusable-through-documentation)
-- [Making the Data Reusable Through Licensing](./Lesson_3#making-the-data-reusable-through-licensing)
-- [Lesson 3: Summary](./Lesson_3#lesson-3-summary)
-- [Lesson 3: Knowledge Check](./Lesson_3#lesson-3-knowledge-check)
+- [Resumen](./Lesson_3#overview)
+- [Objetivos de Aprendizaje](./Lesson_3#learning-objectives)
+- [Planificando para los Datos Abiertos](./Lesson_3#planning-for-open-data)
+- [Seleccionando Formatos y Herramientas de Datos para la Interoperabilidad](./Lesson_3#selecting-data-formats-and-tools-for-interoperability)
+- [Haciendo los Datos Reusables Mediante la Documentación](./Lesson_3#making-the-data-reusable-through-documentation)
+- [Haciendo los Datos Reusables Mediante la Licencia](./Lesson_3#making-the-data-reusable-through-licensing)
+- [Lección 3: Resumen](./Lesson_3#lesson-3-summary)
+- [Lección 3: Comprobación de conocimiento](./Lesson_3#lesson-3-knowledge-check)
 
-### [Lesson 4: Sharing Open Data](./Lesson_4)
+### [Lección 4: Compartiendo Datos Abiertos](./Lesson_4)
 
-- [Overview](./Lesson_4#overview)
-- [Learning Objectives](./Lesson_4#learning-objectives)
-- [When and If to Share Data](./Lesson_4#when-and-if-to-share-data)
-- [Where to Share Data](./Lesson_4#where-to-share-data)
-- [How to Enable Reuse of Data](./Lesson_4#how-to-enable-reuse-of-data)
-- [Who is Responsible for Sharing Data](./Lesson_4#who-is-responsible-for-sharing-data)
-- [Lesson 4: Summary](./Lesson_4#lesson-4-summary)
-- [Lesson 4: Knowledge Check](./Lesson_4#lesson-4-knowledge-check)
+- [Resumen](./Lesson_4#overview)
+- [Objetivos de Aprendizaje](./Lesson_4#learning-objectives)
+- [Compartir o No Compartir Datos, y Cuándo](./Lesson_4#when-and-if-to-share-data)
+- [Dónde Compartir Datos](./Lesson_4#where-to-share-data)
+- [Cómo Habilitar la Reutilización de Datos](./Lesson_4#how-to-enable-reuse-of-data)
+- [Quién es Responsable de Compartir Datos](./Lesson_4#who-is-responsible-for-sharing-data)
+- [Lección 4: Resumen](./Lesson_4#lesson-4-summary)
+- [Lección 4: Comprobación de Conocimiento](./Lesson_4#lesson-4-knowledge-check)
 
-### [Lesson 5: From Theory to Practice](./Lesson_5)
+### [Lección 5: De la Teoría a la Práctica](./Lesson_5)
 
-- [Overview](./Lesson_5#overview)
-- [Learning Objectives](./Lesson_5#learning-objectives)
-- [Writing an Open Science and Data Management Plan](./Lesson_5#writing-an-open-science-and-data-management-plan)
-- [Open Data Communities and You](./Lesson_5#open-data-communities-and-you)
-- [Additional Resources](./Lesson_5#additional-resources)
-- [Lesson 5: Summary](./Lesson_5#lesson-5-summary)
-- [Lesson 5: Knowledge Check](./Lesson_5#lesson-5-knowledge-check)
-- [Open Data Summary](./Lesson_5#open-data-summary)
+- [Resumen](./Lesson_5#overview)
+- [Objetivos de Aprendizaje](./Lesson_5#learning-objectives)
+- [Escribiendo un Plan de Gestion De Datos y Ciencia Abierta](./Lesson_5#writing-an-open-science-and-data-management-plan)
+- [Las Comunidades de Datos Abiertos y Tú](./Lesson_5#open-data-communities-and-you)
+- [Recursos Adicionales](./Lesson_5#additional-resources)
+- [Lección 5: Resumen](./Lesson_5#lesson-5-summary)
+- [Lección 5: Comprobación de Conocimiento](./Lesson_5#lesson-5-knowledge-check)
+- [Resumen de Datos Abiertos](./Lesson_5#open-data-summary)
