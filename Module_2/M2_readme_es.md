@@ -4,75 +4,75 @@ Te damos la bienvenida a Introducción a la Ciencia Abierta: Herramientas y Recu
 
 ## Acerca de este modulo
 
-This module is designed to help you get started on your journey to practicing open science. It offers an introductory view of the concepts and resources that are fundamental to open science. The bridge between the concepts and the practice of the concepts is something called the use, make, share framework. There are many methods and models that define how to get started with open science. The use, make, share framework was constructed to help you immediately assign purpose to the concepts and tools that are covered in this module as well as in the entire Open Science 101 curriculum. All of the information that you learn here will be addressed in more detail as you participate in other modules but can also be applied immediately after completing this module.
+Este módulo está diseñado para ayudarte a comenzar tu camino hacia la práctica de la ciencia abierta. Ofrece una visión introductoria de los conceptos y los recursos que son fundamentales para la ciencia ciencia. El puente entre los conceptos y la práctica de los conceptos es algo llamado usar, hacer, compartir la estructura. Hay muchos métodos y modelos que definen cómo empezar con la ciencia abierta. El usar, hacer, compartir la estructura fue creado para ayudarte a asignar de inmediato el propósito a los conceptos y herramientas que se cubren en este módulo, así como en todo el currículum Open Science 101. Toda la información que conozca aquí será tratada con más detalle a medida que participe en otros módulos, pero también puede ser aplicada inmediatamente después de completar este módulo.
 
-### Module Learning Objectives
+### Objetivos de Aprendizaje del Módulo
 
-- Define the foundational elements of open science, which includes research products, the "use, make, share" framework, and the role of an Open Science and Data Management Plan.
-- List and explain the purpose of resources used to discover and assess research products for reuse, including repositories, search portals, publications, documentation such as README files, metadata, and licensing.
-- Develop a high-level strategy for making and sharing data that employs the FAIR principles, incorporates a data management plan, tracks data and authors with persistent identifiers and citations, and utilizes the appropriate data formats and tools for making data and sharing results.
-- Describe the software lifecycle and design a high-level strategy for making and sharing software that considers the the use of a software management plan, the tools needed for development including source code, kernels, programming languages, third-party software and version control, and the tools and documentation used for publishing and curating open software.
-- List the resources for sharing research products including preprints, open access publications, reference management systems, and resources to support reproducibility.
+- Definir los elementos fundamentales de la ciencia abierta, que incluye los productos de la investigación, el marco de "usar, hacer, compartir" y el papel de un Plan de Gestión de Ciencia y Datos Abiertos.
+- Listar y explicar el propósito de los recursos utilizados para descubrir y evaluar los productos de investigación para reutilización incluyendo repositorios, portales de búsqueda, publicaciones, documentación como archivos README, metadatos y licencia.
+- Desarrollar una estrategia de alto nivel para crear y compartir datos que emplee los principios FAIR, incorporando un plan de gestión de datos, rastreo de datos y autores con identificadores y citas persistentes, y utilizar los formatos y herramientas de datos apropiados para generar datos y compartir los resultados.
+- Describir el ciclo de vida del software y diseñar una estrategia de alto nivel para crear y compartir software que considere el uso de un plan de gestión de software, las herramientas necesarias para el desarrollo incluyendo código fuente, Kernels, lenguajes de programación, software y control de versiones de terceros, y las herramientas y documentación utilizadas para publicar y curacion de software abierto.
+- Listar los recursos para compartir productos de investigación incluyendo preprints, publicaciones de acceso abierto, sistemas de administración de referencias y recursos para apoyar la reproducibilidad.
 
-## Key Terms
+## Términos clave
 
-These key terms are important topics for this module. Select the term to see the description.
+Estos términos clave son tópicos importantes para este módulo. Seleccione el término para ver la descripción.
 
-**Virtual Machine** – A computing environment that replicates the functionality of a physical machine but at a higher level of abstraction on a computer. This allows the specified virtual machine’s resources to be more flexible and compartmentalized.
+**Máquina Virtual** – Un entorno informático que replica la funcionalidad de una máquina física pero a un nivel superior de abstracción en una computadora. Esto permitira que los recursos de la máquina virtual sean más flexibles y compartimentados.
 
-**Metadata** – Information about the data that provides additional details and context.
+**Metadata** – Información sobre los datos que proporcione detalles adicionales y contexto.
 
-**Data Repository** – An enterprise data storage entity (or sometimes entities) into which data has been specifically partitioned for an analytical or reporting purpose.
+**Repositorio de datos**: Una entidad de almacenamiento de datos de empresa (o a veces entidades) en la que los datos han sido específicamente particionados para un propósito analítico o de reporte.
 
-**Computing Environment** – A platform that provides necessary software dependencies, a development area, and connections to computational resources to facilitate running code.
+**Entorno de computación** – una plataforma que proporciona dependencias de software necesarias, una área de desarrollo y conexiones a recursos computacionales para facilitar la ejecución de código.
 
-**ORCiD** – A numeric code used to uniquely identify authors and contributors of scholarly communication. Researchers provide an ORCiD for publications and association memberships. ORCiD is also an international, interdisciplinary, open, non-proprietary, and not-for-profit organization created by the research community for the benefit of all stakeholders including ours and the organizations that support the research ecosystem.
+**ORCiD** – Un código numérico utilizado para identificar de forma única a los autores y colaboradores de comunicación científica. Los investigadores proporcionan un ORCiD para sus publicaciones y membresía de asociaciones. ORCiD también es una organizacion internacional, interdisciplinaria, abierta, no propietaria, y sin fines de lucro creada por la comunidad de investigación para el beneficio de todas las partes interesadas, incluyendo las nuestras y las organizaciones que apoyan el ecosistema de investigación.
 
-**Persistent Identifiers (PIDs)** - A long-lasting digital reference to an entity.
+**Identificadores persistentes (PIDs)** - Una referencia digital de larga duración para una entidad.
 
-**Digital Object Identifiers (DOIs)** – A string of characters standardized by the International Organization for Standardization, assigned to a piece of digital content, that points to the digital location of the content.
+**Identificadores de objetos digitales (DOIs)** – Una cadena de caracteres estandarizada por la Organización Internacional para la Estandarización asignada a una pieza de contenido digital, que señala la ubicación digital del contenido.
 
-## Navigation
+## Contenidos
 
-### [Lesson 1: Introduction to the Process of Open Science](./Lesson_1)
+### [Lección 1: Introducción al Proceso de la Ciencia Abierta](./Lección 1)
 
-- [Definition of Open Science and Research Products](./Lesson_1#definition-of-open-science-and-research-products)
-- [Using Tools for Open Science in Practice](./Lesson_1#using-tools-for-open-science-in-practice)
-- [Lesson 1: Summary](./Lesson_1#lesson-1-summary)
-- [Lesson 1: Knowledge Check](./Lesson_1#lesson-1-knowledge-check)
+- [Definición de Productos de Ciencia y Investigación Abiertas](./Lesson_1#definition-of-open-science-and-research-products)
+- [Utilizando Herramientas para Ciencia Abierta en la práctica](./Lesson_1#using-tools-for-open-science-in-practice)
+- [Lección 1: Resúmen](./Lección_1#lección-1-summary)
+- [Lección 1: Comprobación de Conocimiento](./Lesson_1#lesson-1-knowledge-check)
 
-### [Lesson 2: General Tools for Open Science](./Lesson_2)
+### [Lección 2: Herramientas Generales para la Ciencia Abierta](./Module_2/Lesson_2)
 
-- [Introduction to Open Science Tools](./Lesson_2#introduction-to-open-science-tools)
-- [Persistent Identifiers](./Lesson_2#persistent-identifiers)
-- [Useful Open Science Tools](./Lesson_2#useful-open-science-tools)
-- [Open Science and Data Management Plans](./Lesson_2#open-science-and-data-management-plans)
-- [Lesson 2: Summary](./Lesson_2#lesson-2-summary)
-- [Lesson 2: Knowledge Check](./Lesson_2#lesson-2-knowledge-check)
+- [Introducción a las herramientas de Ciencia Abierta (./Lesson_2#introduccion-to-open-science-tools)
+- [Identificadores persistentes](./Lesson_2#persistent-identifers)
+- [Herramientas útiles de Open Science-tools](./Lesson_2#useful-open-science-tools)
+- [Planes de Ciencia Abierta y Gestión de Datos](./Lesson_2#planes-open-science-and-data-management-plans)
+- [Lección 2: Resumen](./Lesson_2#lesson-2-summary)
+- [Lección 2: Comprobación de conocimiento](./Lesson_2#lesson-2-knowledge-check)
 
-### [Lesson 3: Tools for Open Data](./Lesson_3)
+### [Lección 3: Herramientas para Datos Abiertos](./Lesson_3)
 
-- [Introduction to Open Data](./Lesson_3#introduction-to-open-data)
-- [FAIR Principles](./Lesson_3#fair-principles)
-- [Tools to Help with Planning For Open Data Creation](./Lesson_3#tools-to-help-with-planning-for-open-data-creation)
-- [Tools to Help with Using and Making Open Data](./Lesson_3#tools-to-help-with-using-and-making-open-data)
-- [Lesson 3: Summary](./Lesson_3#lesson-3-summary)
-- [Lesson 3: Knowledge Check](./Lesson_3#lesson-3-knowledge-check)
+- [Introducción a Datos Abiertos](./Lesson_3#introducción-to-open-data)
+- [Principios FAIR](./Lección_3#fair-principles)
+- [Herramientas para ayudar a la creación de datos abiertos](./Lesson_3#tools-to-help-with-planning-for-open-data-creation)
+- [Herramientas para ayudar con el uso y creación de datos abiertos](./Lesson_3#tools-to-help-with-using-and-making-open-data)
+- [Lección 3: Resumen](./Lesson_3#lesson-3-summary)
+- [Lección 3: Comprobación de conocimiento](./Lesson_3#lesson-3-knowledge-check)
 
-### [Lesson 4: Tools for Open Code](./Lesson_4)
+### [Lección 4: Herramientas para Datos Abiertos](./Lesson_4)
 
-- [Introduction to Open Code](./Lesson_4#introduction-to-open-code)
-- [Tools for Version Control](./Lesson_4#tools-for-version-control)
-- [Tools for Editing Code](./Lesson_4#tools-for-editing-code)
-- [Additional Tools](./Lesson_4#additional-tools)
-- [Lesson 4: Summary](./Lesson_4#lesson-4-summary)
-- [Lesson 4: Knowledge Check](./Lesson_4#lesson-4-knowledge-check)
+- [Introducción al código abierto](./Lesson_4#introduction-to-open-code)
+- [Herramientas para Control de Version](./Lesson_4#tools-for-version-control)
+- [Herramientas para editar código](./Lesson_4#tools-for-editing-code)
+- [Herramientas adicionales](./Lesson_4#additional-tools)
+- [Lección 4: Resumen](./Lesson_4#lesson-4-summary)
+- [Lección 4: Comprobación de Conocimiento](./Lesson_4#lesson-4-knowledge-check)
 
-### [Lesson 5: Tools for Open Results](./Lesson_5)
+### [Lección 5: Herramientas para Datos Abiertos](./Lesson_5)
 
-- [Tools for Open Publications](./Lesson_5#tools-for-open-publications)
-- [Tools for Reproducibility](./Lesson_5#tools-for-reproducibility)
-- [Additional Tools for Open Results](./Lesson_5#additional-tools-for-open-results)
-- [Lesson 5: Summary](./Lesson_5#lesson-5-summary)
-- [Lesson 5: Knowledge Check](./Lesson_5#lesson-5-knowledge-check)
-- [Open Tools and Resources Summary](./Lesson_5#open-tools-and-resources-summary)
+- [Herramientas para publicaciones abiertas](./Lesson_5#tools-for-open-publications)
+- [Herramientas para reproducibilidad](./Lesson_5#tools-for-reproducibility)
+- [Herramientas adicionales para resultados abiertos](./Lesson_5#additional-tools-for-open-results)
+- [Lección 5: Resumen](./Lesson_5#lesson-5-summary)
+- [Lección 5: Comprobación de Conocimiento](./Lesson_5#lesson-5-knowledge-check)
+- [Resumen de Herramientas y Recursos](./Lesson_5#open-tools-and-resources-summary)
