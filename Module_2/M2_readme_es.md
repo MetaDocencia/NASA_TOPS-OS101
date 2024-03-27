@@ -1,8 +1,8 @@
-# OS101 Module 2: Open Tools and Resources
+# Módulo 2: Herramientas abiertas y recursos
 
-**Welcome to Open Science 101: Open Tools and Resources**
+Te damos la bienvenida a Introducción a la Ciencia Abierta: Herramientas y Recursos abiertos
 
-## About This Module
+## Acerca de este modulo
 
 This module is designed to help you get started on your journey to practicing open science. It offers an introductory view of the concepts and resources that are fundamental to open science. The bridge between the concepts and the practice of the concepts is something called the use, make, share framework. There are many methods and models that define how to get started with open science. The use, make, share framework was constructed to help you immediately assign purpose to the concepts and tools that are covered in this module as well as in the entire Open Science 101 curriculum. All of the information that you learn here will be addressed in more detail as you participate in other modules but can also be applied immediately after completing this module.
 
