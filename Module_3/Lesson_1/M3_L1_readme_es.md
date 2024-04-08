@@ -51,7 +51,7 @@ Mitochondria are components within our cells that affect respiratory and energy 
 
 The Turing Way Community. This illustration is created by Scriberia with The Turing Way community, used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807
 
-***
+---
 
 Data are any type of information that is collected, observed, or created in the context of research. Today, data are increasingly stored electronically in a digital format.
 
@@ -78,7 +78,7 @@ The term open data are defined in the open data handbook from the Open Knowledge
 
 **Open Data Handbook from the Open Knowledge Foundation**
 
-***
+---
 
 When talking about data in the context of this module, we focus on the data that you are preparing to share, such as data affiliated with a scientific publication, regardless of what type that is. While you could share (and many do) laboratory notebooks, preliminary analyses, intermediate data products, drafts of scientific papers, plans for future research and similar items, these aren't usually required by funding agencies or institutions and thus won’t be in focus for this module.
 
@@ -97,7 +97,7 @@ Not all data may be shared or shared with all this information. There are differ
 
 Data underpins almost all of science. Openly sharing data with others enables reproducibility, transparency, validation, reuse, and collaborations. Data plays a significant role in our day-to-day lives. Open data, in particular, plays a key role. Open data are only common in our society and you have likely already benefited from this form in some way. The impacts of open data include facilitating:
 
-***
+---
 
 **Greater Good** – Data plays a significant role in our day-to-day lives. Open data, in particular, has played a key role. If you pause and think about it, you may realize that open data are not only common in our society, but you might have benefited from and used open data yourself.
 
@@ -143,7 +143,7 @@ During the West African Ebola outbreak from 2014-2016, West African researchers 
 
 By fostering a global research culture of transparency and validation, where the work of underrepresented groups is celebrated and compensated, we will create a sustainable model that ensures under-represented communities (such as women, under-represented communities, indigenous scholars, non- Anglophone scholars) a voice in how the global and nuanced narrative of science is developed.
 
-***
+---
 
 Open data that are purposefully inclusive and open to scrutiny, benefit scientific innovation by allowing for a more diverse and robust scientific process that draws from multiple perspectives. This openness also allows for the early identification of mistaken insights as well as early intervention for unforeseen harms to impacted communities.
 
@@ -171,7 +171,7 @@ Take a moment to reflect on what data sharing means to you.
 
 Image source: CC-by [openaire](https://www.openaire.eu/blogs/open-research-data-the-fairest-data-is-the-future-of-science-estonia-national-openaire-event-1)
 
-***
+---
 
 The word cloud showcases the variety of meanings and interpretations that people have about open data. How many terms in the word cloud do you
 recognize? Are any of them new to you?
@@ -199,13 +199,13 @@ It is important to be familiar with the policies around sharing of your data and
 
 #### <img style="width:20px;height:auto;" src="../images/media/image7.png"> NOTE: We will discuss many of the concepts mentioned in the discussion/mitigation column later in this module.
 
-|                                                                                       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                                                                                                                       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Fear: Scooping: What if someone re-uses my data to publish a result I was working on? | Yes, this can happen. But, in many fields, if it is clear that someone is actively working on a problem, the decision by another to scoop may have a short term gain but long-term loss. In science, reputations are very important and being collaborative generally leads to increased career successes. If you are sharing your data, ensure it has a digital object identifier (DOI). This does not prevent someone from using your data without attribution, but it helps make it easy for others to cite your data. There is a nice article about this [here](https://datascience.codata.org/articles/10.5334/dsj-2017-029). |
-| Fear: Misinterpretation or Misuse                                                     | Provide sufficient contextual information (documentation) to allow others to understand your data fully to reduce this risk.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| Fear: My data will be used but not cited                                              | While it is not common for researchers to cite data, science ethics dictates that you should be cited if your work is used. And remember to cite others' data, so you’re not adding to the problem!                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| Fear: Data are too sensitive to share                                                 | Use controlled access to help maintain sensitivity and security.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| Fear: My data won't be useful to anyone else                                          | You never know how materials might be used! [Sailors in the 1800s collected temperature data](https://www.npr.org/templates/story/story.php?storyId=113916471) that is an important part of our ocean climate record today!                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Fear: Misinterpretation or Misuse                                                                     | Provide sufficient contextual information (documentation) to allow others to understand your data fully to reduce this risk.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Fear: My data will be used but not cited                                                              | While it is not common for researchers to cite data, science ethics dictates that you should be cited if your work is used. And remember to cite others' data, so you’re not adding to the problem!                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Fear: Data are too sensitive to share                                                                 | Use controlled access to help maintain sensitivity and security.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Fear: My data won't be useful to anyone else                                                          | You never know how materials might be used! [Sailors in the 1800s collected temperature data](https://www.npr.org/templates/story/story.php?storyId=113916471) that is an important part of our ocean climate record today!                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 
 These are all valid concerns when sharing data openly, but as indicated by the global move towards open science, the overall benefits outweigh the concerns.
 
@@ -217,7 +217,7 @@ Ultimately, you are free to deploy the open data principles and resources in you
 
 Image by Patrick Hochstenbach, CC0 1.0; image illustrates the each FAIR principle
 
-***
+---
 
 ### FAIR: Findable, Accessible, Interoperable, Reusable
 
@@ -352,8 +352,8 @@ Most scientific funding agencies and organizations ask for a plan for sharing yo
 
 A best practice when beginning your open data journey is to create a Data Management Plan, or DMP which goes within the OSDMP. This describes how you will manage, preserve, and release data, during and after a research project. Common elements of DMPs relevant to open data include a description of the following:
 
-|        |                                                                                 |
-| ------ | ------------------------------------------------------------------------------- |
+|        |                                                                                                 |
+| ------ | ----------------------------------------------------------------------------------------------- |
 | What?  | Data types, volume, formats, and (where relevant) standards. |
 | When?  | The schedule for data archiving and sharing.                                    |
 | Where? | The intended repositories for archived data.                                    |
