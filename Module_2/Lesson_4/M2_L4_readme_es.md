@@ -108,7 +108,7 @@ The most popular version control system for software development is Git. Git is 
 
 [https://xkcd.com/1597/](https://xkcd.com/1597/)
 
-***
+---
 
 Git is very powerful and widely used (according to a Stack Overflow [ developer survey](https://survey.stackoverflow.co/2022), over 87% of developers use Git), but that doesn’t mean it is straightforward to learn. There are many good resources for learning Git (see below). If you find Git confusing at first, know that you are not alone! (There’s even an XKCD comic about it!). For in-depth training on Git, please see the Software Carpentry lesson, listed below: [ Version Control with Git: Summary and Setup (swcarpentry.github.io)](https://swcarpentry.github.io/git-novice/)
 
@@ -292,7 +292,7 @@ Researchers conducting statistical analysis tend to use the coding languages of 
 
  <img src="../images/media/image36.jpeg" style="width:100%;height:auto;" />
 
-Source:  https\://en.wikipedia.org/wiki/File:RStudio_IDE_screenshot.png
+Source:  https://en.wikipedia.org/wiki/File:RStudio_IDE_screenshot.png
 
 ### Plain Text Editors for Coding
 
@@ -347,9 +347,9 @@ This screenshot shows an example of a Jupyter Notebook that integrates rich text
 
 <img src="../images/media/image38.png" style="width:100%;height:auto;" />
 
-[Project Jupyter | Home](https://jupyter.org/)
+[Project Jupyter \| Home](https://jupyter.org/)
 
-***
+---
 
 Many programming languages are supported by Jupyter. Fun fact: the name "Jupyter" refers to the three core languages supported by Jupyter: Julia, Python, and R.
 
@@ -367,13 +367,13 @@ If you want to dive in, check out Project Pythia's "Getting Started with Jupyter
 
 Let's use an example from Project Pythia to showcase how computational notebooks can be used in science. Project Pythia is an education Hub for the geoscientific community. They have some great learning resources and example research notebooks that are developed and maintained by the community, and are freely available.
 
-In this activity, you will run pre-written Python code in a Jupyter Notebook from your browser to make plots related to the El-Niño Southern Oscillation (or ENSO). You will use the open-source software package called Xarray to read in sea surface temperature data from a global climate model (the Community Earth System Model - CESM), and create some visualizations of ENSO events across the last 20 or so years. The goal is to recreate the plot below for the last \~20 years. This figure shows the years and magnitude of the El Niño events in red and of the La Niña events in blue.
+In this activity, you will run pre-written Python code in a Jupyter Notebook from your browser to make plots related to the El-Niño Southern Oscillation (or ENSO). You will use the open-source software package called Xarray to read in sea surface temperature data from a global climate model (the Community Earth System Model - CESM), and create some visualizations of ENSO events across the last 20 or so years. The goal is to recreate the plot below for the last ~20 years. This figure shows the years and magnitude of the El Niño events in red and of the La Niña events in blue.
 
 ![](../images/media/image39.jpeg)
 
 Source:  [https://climatedataguide.ucar.edu/climate-data/nino-sst-indices-nino-12-3-34-4-oni-and-tni](https://climatedataguide.ucar.edu/climate-data/nino-sst-indices-nino-12-3-34-4-oni-and-tni)
 
-***
+---
 
 Follow These Steps:
 
@@ -385,7 +385,7 @@ Follow These Steps:
 4. You can take a little time to breeze through the text and code in the Notebook, but keep in mind that this lesson assumes a lot of prior knowledge, so it’s ok if you don’t understand everything. You can still appreciate the nice plots you’re about to make!
 5. You are now ready to run the notebook yourself! To do that, you can go to the "Run" menu in the upper left of the JupyterLab window and choose "Run All Cells":
    ![](../images/media/calculatingenso3.jpg)
-6. This should only take a few seconds, and if you scroll down, you can view a couple nice visualizations that you just created:<br>_Use the "<" and ">" buttons to navigate between the images._
+6. This should only take a few seconds, and if you scroll down, you can view a couple nice visualizations that you just created:<br>_Use the "\<" and "\>" buttons to navigate between the images._
 
 ![](../images/media/calculatingenso4.jpg)
 
