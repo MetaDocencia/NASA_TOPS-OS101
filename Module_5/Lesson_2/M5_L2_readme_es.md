@@ -289,7 +289,7 @@ Sadly, many times contributor guidelines do not exist and it is not clear what i
 - **Licensing Policies:** Understand and abide by the license(s) associated with the open results materials being used.
 - **Attribution and Contribution:** Provide appropriate attribution for the open results used and contribute to the open results community.
 
-Additionally, give credit to repositories that provide open source materials in the acknowledgement section of your paper. If the repository provides an acknowledgments template in their “About” link, follow that suggestion. Otherwise, a generic "This research has made use of \<insert repository name>." will be sufficient.
+Additionally, give credit to repositories that provide open source materials in the acknowledgement section of your paper. If the repository provides an acknowledgments template in their “About” link, follow that suggestion. Otherwise, a generic "This research has made use of \\<insert repository name\>." will be sufficient.
 
 ### Avoid Plagiarism When Using Open Results
 
@@ -322,13 +322,13 @@ Take the time to locate the originating journal to provide an accurate citation.
 
 Preprint Server (Cite only if journal publication not available)
 
-***
+---
 
 <img src="../images/media/image32.png" style="width:100%;height:auto;" />
 
 Source Publication (Always cite)
 
-***
+---
 
 If a paper that you wish to cite is not yet accepted for publication, you should follow the guidelines of the journal to which you are submitting your paper. A preprint reference citation typically includes author name(s), date of the most recent version posted, paper title, name of the preprint server, object type ("preprint"), and the DOI.
 
@@ -338,7 +338,7 @@ At the time of the Lesson preparation, the following paper did not yet appear as
 
 Jin, H., et al. 2023, "Optical color of Type Ib and Ic supernovae and implications for their progenitors," ApJ, preprint, arXiv:2304.10670.
 
-***
+---
 
 <table>
   <thead>
