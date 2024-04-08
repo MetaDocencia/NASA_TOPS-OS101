@@ -78,8 +78,8 @@ Some examples of open data formats include:
 
 _Select each card to find out more information._
 
-|                                                                                    |                                                                                                                                                                         |
-| ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                                                                                    |                                                                                                                                                                                         |
+| ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Comma Separated Values (CSV)                                    | For simplicity, readability, compatibility, easy data exchange.                                                                                                         |
 | Hierarchical Data Format (HDF)                                  | For efﬁcient storing and retrieving data, compression, multi-dimensional support.                                                                                       |
 | Network Common Data Form (NetCDF)                               | For self-describing and portability, efﬁcient data subsetting (extract speciﬁc portions of large datasets), standardization and interoperability.    |
@@ -186,7 +186,7 @@ Proper versioning preserves data quality and provenance (the origin, history, an
 
 Image source: [xkcd.com](https://www.explainxkcd.com/wiki/index.php/File:copyright.jpg)
 
-***
+---
 
 Data is the intellectual property of the researcher(s), or possibly of their funder(s) or supporting institution(s). Data is intellectual property, but that does not mean it cannot be used by other researchers (with appropriate attribution).
 
@@ -196,7 +196,7 @@ Data is the intellectual property of the researcher(s), or possibly of their fun
 
 **[Open Science Knowledge Base](https://www.cos.io/)**
 
-***
+---
 
 If you don't license your work, others can’t/shouldn’t re-use it - even if you want them to. As mentioned previously in this module, a license is a legal document that tells users how they can use the dataset. It is important to understand the licensing conditions of a dataset before data reuse to avoid any copyright infringement or other intellectual property issues.
 
@@ -216,7 +216,7 @@ Here is an example of how a data license can affect reuse. Coupled Model Interco
 
 Figure citation: IPCC "[Framing and Context in : In: Global warming of 1.5°C. An IPCC Special Report](https://www.researchgate.net/publication/369301788_Framing_and_Context_in_In_Global_warming_of_15C_An_IPCC_Special_Report?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoiX2RpcmVjdCJ9fQ)" 2020
 
-***
+---
 
 This meant that any commercial use was restricted. Insurance companies, global corporations, and any type of organization that wanted to use them for commercial use - were having to do their own modeling or just deciding to not develop resources related to climate projections (such as fire risk, flooding risk, and how that may affect transportation, commerce, and where we live). This directly impacted the reuse of this data and created additional work. The [latest version of CMIP data is moving to CC-BY](https://pcmdi.llnl.gov/CMIP6/TermsOfUse/TermsOfUse6-2.html) because of the negative impacts from the -NC-SA restrictions.
 
