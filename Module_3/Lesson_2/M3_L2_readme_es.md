@@ -27,7 +27,7 @@ After completing this lesson, you should be able to:
 
 Open data isn't always simple to use in your research. Sometimes there are multiple versions of the same dataset, so learning how to discover and assess and then use open data will help you save time.
 
-As an example, look at the monthly average carbon dioxide data from Mauna Loa Observatory in Hawaii. This is a foundational dataset for climate change. Not only is it one of the first observational datasets that clearly showed anthropogenic impacts on the Earth's atmosphere, it constitutes the longest record of direct measurements of carbon dioxide in the atmosphere. These observations were started by C. David Keeling of the Scripps Institution of Oceanography in March of 1958 at a facility of the National Oceanic and Atmospheric Administration [Keeling, 1976].
+As an example, look at the monthly average carbon dioxide data from Mauna Loa Observatory in Hawaii. This is a foundational dataset for climate change. Not only is it one of the first observational datasets that clearly showed anthropogenic impacts on the Earth's atmosphere, it constitutes the longest record of direct measurements of carbon dioxide in the atmosphere. These observations were started by C. David Keeling of the Scripps Institution of Oceanography in March of 1958 at a facility of the National Oceanic and Atmospheric Administration \[Keeling, 1976\].
 
 <img src="../images/media/image19.jpeg" style="width:100%;height:auto;" />
 
@@ -39,7 +39,7 @@ If you start with Google and search for "Mauna Loa carbon dioxide data" you will
 
 How do you decide which one to use? In this lesson we will cover how to find, assess relevance, and use open data.
 
-***
+---
 
 ## Discovering Open Data
 
@@ -61,7 +61,7 @@ What is the first and best way to find research data? Ask your community, includ
 
 Image source: NASA, Dominic Hart 2023
 
-***
+---
 
 ### Publications
 
@@ -336,7 +336,7 @@ Many datasets and repositories explain how they’d prefer to be cited. The cita
 
 This is an example of a simple CITATION.cff file. Source: [GitHub](https://github.com/)
 
-***
+---
 
 Most datasets require (at a minimum) that you list the data’s producers, name of the archive hosting the data, dataset name, dataset date, and DOI when citing data.
 
