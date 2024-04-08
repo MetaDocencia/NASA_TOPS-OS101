@@ -75,7 +75,7 @@ There are several examples (discussed in these lessons) that demonstrate how we 
 
 Publishing work in a peer-reviewed journal forms the traditionally written basis of how we share our science, and is important for communicating scientific detail and rigor to colleagues. Academic journals also act as a long-term archive of scientific research papers. For many scientists, publishing in peer-reviewed journals and receiving citations are key factors in how they are evaluated for career advancement, positions appointments, committee memberships, and honors.
 
-Traditionally, authors pay an Article Processing Charge (APC) that can range from $200-$12000 USD. Higher profile journals often charge higher fees to authors. Accessing articles has traditionally been restricted by pay-walls that require a subscription or charge per article. Journals have different options for making your published work accessible to various communities.
+Traditionally, authors pay an Article Processing Charge (APC) that can range from \$200-\$12000 USD. Higher profile journals often charge higher fees to authors. Accessing articles has traditionally been restricted by pay-walls that require a subscription or charge per article. Journals have different options for making your published work accessible to various communities.
 
 **Who Has Access to Journal Subscriptions?**
 
@@ -190,7 +190,7 @@ Your institutions, funding agency, or research proposal may require use of a spe
 
 Routes to publishing openly. The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 license. Original version on Zenodo. [http://doi.org/10.5281/zenodo.5706310](http://doi.org/10.5281/zenodo.5706310)
 
-***
+---
 
 The most common types of open access publishing are Green, Gold, and Diamond.
 
@@ -253,7 +253,7 @@ When publishing in a peer-reviewed journal, you can decide to share a pre-print.
 
 <img src="../images/media/image57.png" style="width:20px;height:auto;" /> **The accepted manuscript is the final, peer-reviewed version of the article that has been accepted for publication by a publisher. The accepted manuscript includes all changes made during the peer review process and contains the same content as the ﬁnal published article, but it does not include the publisher’s copyediting, stylistic, or formatting edits that will appear in the ﬁnal journal publication (i.e., the version of record).**
 
-**Source: https\://science.nasa.gov/researchers/sara/faqs/osdmp.**
+**Source: https://science.nasa.gov/researchers/sara/faqs/osdmp.**
 
 Many journals provide preprint services. If they don’t, there are many public preprint servers available. Often the funding agency will have a preferred public preprint server.
 
