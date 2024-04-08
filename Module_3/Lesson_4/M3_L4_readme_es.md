@@ -126,7 +126,7 @@ Data may be subject to intellectual property, copyright, and licensing concerns.
 
 [NASA FAR Supplement 1852.227](https://prod.nais.nasa.gov/far/far0595-nfs012617/5227.htm), which outlines patent and data rights for government contracts.
 
-***
+---
 
 Many research institutions have resident experts in intellectual property, copyright, and patent law. They can be a great resource if you have any questions or concerns.
 
