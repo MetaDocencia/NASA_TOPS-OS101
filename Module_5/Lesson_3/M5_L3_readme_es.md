@@ -155,7 +155,7 @@ New ways of working with creative approaches for collaboration and communication
 
 Image credit: The Turing Way project illustration by Scriberia. Zenodo.
 
-***
+---
 
 You have already come across some of these in the previous lessons, and hopefully, you could already identify which of these or additional outputs you are generating in your work. To make them part of your open results, it's important that they are shared openly with appropriate licensing and documentation so that others can read, investigate and when possible, reuse or build upon them.
 
@@ -169,7 +169,7 @@ Open science ultimately informs our decisions as scientists and guides the selec
 
 **Stodden (2015)**
 
-***
+---
 
 Using this definition, results that can be computationally reproduced by others would be called Reproducible Results. The EHTC case studies present open results as collections of research objects created at different stages of the research process. They also provide documentation and resources that allow reanalysis and reproduction of the original results.
 
@@ -273,9 +273,9 @@ Involving and recognizing the roles of all contributors in making open results i
 
 <img src="../images/media/image52.jpeg" style="width:100%;height:auto;" />
 
-A map of the EHT. Stations active in 2017 and 2018 are shown with connecting lines and labeled in yellow, sites in commission are labeled in green, and legacy sites are labeled in red. From Paper II (Figure 1). IOPscience. https\://iopscience.iop.org/journal/2041-8205/page/Focus_on_EHT
+A map of the EHT. Stations active in 2017 and 2018 are shown with connecting lines and labeled in yellow, sites in commission are labeled in green, and legacy sites are labeled in red. From Paper II (Figure 1). IOPscience. https://iopscience.iop.org/journal/2041-8205/page/Focus_on_EHT
 
-***
+---
 
 The Event Horizon Telescope (EHT) team involved 200 members from 59 institutes in 20 countries, from undergraduates to senior members of the field. They used an array that included eight radio telescopes at six geographic locations across the USA, Latin America, Europe and the South Pole. All collaborators were located in different geographic locations, had access to different instruments, collected data generated from telescopes in different locations and applied skills from across different teams to create groundbreaking results. Each contributor was acknowledged across different communication channels and given authorships in publications. EHTC also supports the "critical, independent analysis and interpretation" of their published results to facilitate transparency, rigor, and reproducibility ([EHTC website](https://eventhorizontelescope.org/blog/imaging-reanalyses-eht-data)).
 
@@ -518,7 +518,7 @@ If working with online repositories such as GitHub, an app like '[all-contributo
 
 More systematic work is being undertaken by [hidden REF](https://hidden-ref.org/) who constructed a broad set of [categories](https://hidden-ref.org/categories) that can be used for celebrating everyone who contributes to the research.
 
-There are several [infrastructure roles](https://the-turing-way.netlify.app/collaboration/research-infrastructure-roles.html) like community managers, data stewards, product managers, ethicists and science communicators, who are also being recognized as valued members in research projects with an intention to provide leadership paths for technical and subject matter experts, even when their contributions can’t always be assessed in tangible or traditional outputs [[Mazumdar et al. 2015](https://journals.lww.com/academicmedicine/fulltext/2015/10000/evaluating_academic_scientists_collaborating_in.14.aspx), [Bennett et al., 2023](https://journal.trialanderror.org/pub/manifesto-rewarding-recognizing/release/1)].
+There are several [infrastructure roles](https://the-turing-way.netlify.app/collaboration/research-infrastructure-roles.html) like community managers, data stewards, product managers, ethicists and science communicators, who are also being recognized as valued members in research projects with an intention to provide leadership paths for technical and subject matter experts, even when their contributions can’t always be assessed in tangible or traditional outputs \[[Mazumdar et al. 2015](https://journals.lww.com/academicmedicine/fulltext/2015/10000/evaluating_academic_scientists_collaborating_in.14.aspx), [Bennett et al., 2023](https://journal.trialanderror.org/pub/manifesto-rewarding-recognizing/release/1)\].
 
 [The Declaration on Research Assessment](https://sfdora.org/) (DORA) is also a good resource to understand what researchers, institutions, funders and publishers can do to improve the ways in which researchers and the outputs of scholarly research are evaluated.
 
@@ -532,7 +532,7 @@ Scientific publications have traditionally remained one of the most popular mode
 
 The polarized image of the M87 black hole shadow as observed on 2017 April 11 by the EHT (left panel) and an image from the EHT Model Library with a MAD magnetic configuration (right pane), with a list of papers describing different sets of results.
 
-***
+---
 
 Across [several preprints](https://arxiv.org/search/astro-ph?searchtype=author\&query=Event%2BHorizon%2BTelescope%2BCollaboration) and [eight peer-reviewed letters](https://iopscience.iop.org/journal/2041-8205/page/Focus_on_EHT), EHTC presented open results issued from different teams on instrumentation, observation, algorithm, software, modeling, and data management, providing the full scope of the project and the conclusions drawn to date.
 
