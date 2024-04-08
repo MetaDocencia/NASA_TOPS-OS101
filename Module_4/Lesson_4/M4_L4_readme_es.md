@@ -300,7 +300,7 @@ Adding CITATION, CONTRIBUTING, and CODE_OF_CONDUCT files
 - Who will respond to community input (e.g. via GitHub issues)?
 - Who will be responsible for making decisions about which code to add/update from other contributors? (e.g. via GitHub pull requests)
 
-***
+---
 
 All of these roles may or may not be needed, depending on the size of your project. Have a transparent process for assigning any roles to community members.
 
