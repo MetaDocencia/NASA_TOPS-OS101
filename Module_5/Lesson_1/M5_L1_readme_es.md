@@ -98,13 +98,13 @@ Overall, the YouTube channel serves as an important tool for Wu to disseminate r
 
 ### New Media for Science Products
 
-"A new method reduced the compute time for this image from \~30 minutes to <1 minute". In 2021, Lucas Sterzinger spent one summer of his PhD on an internship. During that summer, he wrote a blog post to explain and demonstrate a game-changing technology called Kerchunk – a software package that makes accessing scientific data in the cloud much faster.
+"A new method reduced the compute time for this image from ~30 minutes to \<1 minute". In 2021, Lucas Sterzinger spent one summer of his PhD on an internship. During that summer, he wrote a blog post to explain and demonstrate a game-changing technology called Kerchunk – a software package that makes accessing scientific data in the cloud much faster.
 
 <img src="../images/media/image10.jpeg" style="width:350px;height:auto;" />
 
 Source: [https://medium.com/pangeo/fake-it-until-you-make-it-reading-goes-netcdf4-data-on-aws-s3-as-zarr-for-rapid-data-access-61e33f8fe685](https://medium.com/pangeo/fake-it-until-you-make-it-reading-goes-netcdf4-data-on-aws-s3-as-zarr-for-rapid-data-access-61e33f8fe685)
 
-***
+---
 
 Alongside the blog post, he also created a tutorial as a Jupyter Notebook – both of these resources and associated code are freely accessible to the public, allowing for rapid adoption and iteration by other developers and scientists. He posted the blog on Medium and posted about it to Twitter. The blog got a lot of attention on a newly developed technology as it was being developed! This is starkly different from the slow and complicated world of academic publishing where this result would not have been shared for about a year (writing it up, the review process, publication process). He said, "Working on Kerchunk and sharing it widely using open science principles greatly expanded my professional connections and introduced me to the field of research software engineering. The connections I made from this led me directly to my current role as a Scientific Software Developer at NASA."
 
@@ -114,9 +114,9 @@ Alongside the blog post, he also created a tutorial as a Jupyter Notebook – bo
 
 Image credit: OpenStreetMap 2011, Ken Vermette. CC BY-SA 3.0
 
-***
+---
 
-From '2003: let's map the UK to 2023:>1.5M contributors, 100M+ edits, using the data to map the world with applications ranging from Uber to mapping UN Sustainable Development Goals." [OpenStreetMaps is being used for GIS analysis](https://welcome.openstreetmap.org/about-osm-community/consumers/), such as planning or logistics for humanitarian groups, utilities, governments and more. This was only possible because it was set up and shared openly and built by a community devoted to improving it. You never know where your personal project might go or who might be interested in collaborating!
+From '2003: let's map the UK to 2023:\>1.5M contributors, 100M+ edits, using the data to map the world with applications ranging from Uber to mapping UN Sustainable Development Goals." [OpenStreetMaps is being used for GIS analysis](https://welcome.openstreetmap.org/about-osm-community/consumers/), such as planning or logistics for humanitarian groups, utilities, governments and more. This was only possible because it was set up and shared openly and built by a community devoted to improving it. You never know where your personal project might go or who might be interested in collaborating!
 
 ### New Visualizations to Share Results
 
@@ -126,7 +126,7 @@ Matplotlib was developed around 2002 by post-doc John Hunter to visualize some n
 
 Source: [https://medium.com/dataseries/mastering-matplotlib-part-1-a480109171e3](https://medium.com/dataseries/mastering-matplotlib-part-1-a480109171e3)
 
-***
+---
 
 Matplotlib is now the most widely used plotting library for the Python programming language and a core component of the scientific Python stack, along with NumPy, SciPy and IPython. Matplotlib was used for data visualization during the 2008 landing of the Phoenix spacecraft on Mars and for the creation of the first image of a black hole.
 
@@ -138,9 +138,9 @@ Open communication platforms furthered the reach and audience of results.
 
 <img src="../images/media/image13.jpeg" style="width:100%;height:auto;" />
 
-Figure Credit: https\://arxiv.org/abs/2208.11692
+Figure Credit: https://arxiv.org/abs/2208.11692
 
-***
+---
 
 The public is interested in what you are doing, and reaching them can involve communication through traditional and new platforms. Publishing results on platforms such as Twitter/X, Youtube, TikTok, blogs, websites, and other social media platforms is becoming more common. Awareness through social media drastically increases the reach and audience of your work. There have been studies on how this impacts citation rates. For example, The Journal of Medical Internet Research (JMIR) conducted a three-year [study](https://www.jmir.org/) of the relative success of JMIR articles in both Twitter and academic worlds. They found that highly tweeted articles were 11 times more likely to be highly cited than less tweeted articles.
 
@@ -148,15 +148,15 @@ Open communication platforms noticeably furthered the reach and audience of resu
 
 <img src="../images/media/image14.jpeg" style="width:100%;height:auto;" />
 
-Twitter #1: https\://twitter.com/cornerof_thesky/status/1595086671275589632?s=20
+Twitter \#1: https://twitter.com/cornerof_thesky/status/1595086671275589632?s=20
 
-Twitter #2: https\://twitter.com/V_Parmentier/status/1595127493199302656?s=20
+Twitter \#2: https://twitter.com/V_Parmentier/status/1595127493199302656?s=20
 
-TikTok: https\://www\.tiktok.com/@astrojaket/video/7168878696906886405
+TikTok: https://www.tiktok.com/@astrojaket/video/7168878696906886405
 
-YouTube: https\://www\.youtube.com/watch?v=cI-kM_wPbbQ
+YouTube: https://www.youtube.com/watch?v=cI-kM_wPbbQ
 
-***
+---
 
 ## What is the Reproducibility Crisis?
 
