@@ -85,8 +85,8 @@ In this activity, you will search for a DOI for a data set or piece of software 
 
 1. Find the DOI for a dataset or software you use often.
    1. This should be listed either in the citation file, or in the website where that data/software is published.
-   2. If you can’t find a DOI, you can instead locate the DOI listed on this page: https\://asdc.larc.nasa.gov/project/CERES/CERES_EBAF-TOA_Edition4.1
-2. Go to https\://www\.doi.org/ and scroll down to the bottom of the page to "TRY
+   2. If you can’t find a DOI, you can instead locate the DOI listed on this page: https://asdc.larc.nasa.gov/project/CERES/CERES_EBAF-TOA_Edition4.1
+2. Go to https://www.doi.org/ and scroll down to the bottom of the page to "TRY
    RESOLVING A DOI NAME".
 3. Copy and paste the DOI you found into the form called "TRY RESOLVING A DOI
    NAME".
@@ -97,7 +97,7 @@ In this activity, you will search for a DOI for a data set or piece of software 
 
 This activity will vary depending on which DOI you choose to use. However, if you used the example presented, you should find the DOI: 10.5067/TERRA-AQUA/CERES/EBAF-TOA_L3B004.1
 
-And after step 5, you should end up back on the page https\://asdc.larc.nasa.gov/project/CERES/CERES_EBAF-TOA_Edition4.1
+And after step 5, you should end up back on the page https://asdc.larc.nasa.gov/project/CERES/CERES_EBAF-TOA_Edition4.1
 
 This is how easy it should be for your readers to find and use your citation information.
 
