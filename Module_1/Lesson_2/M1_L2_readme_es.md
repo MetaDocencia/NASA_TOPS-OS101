@@ -31,7 +31,7 @@ After completing this lesson, you should be able to:
 
 <img src="../images/media/harlanquote.jpg">
 
-***
+---
 
 As NASA looks outward, we face both known and unforeseen challenges. These dynamic challenges will demand a new approach to science that achieves success through a responsive and inclusive scientific ecosystem. This requires more diverse teams - teams with more hands, eyes, and brains that have diverse experiences to participate.
 
@@ -69,7 +69,7 @@ In addition to documenting your own research, the practice of giving credit to e
 
 The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 license. DOI: 10.5281/zenodo.3332807.
 
-***
+---
 
 ### More Visibility and Impact
 
@@ -81,7 +81,7 @@ In addition to improved scientific accuracy, adhering to open science practices 
 
 Publishing open access increases citation count by 18%, according to a 2018 [study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7176083/).
 
-Articles that make their data openly accessible via a direct link to a repository see \~25% higher citation impact, according to a 2020 study.
+Articles that make their data openly accessible via a direct link to a repository see ~25% higher citation impact, according to a 2020 study.
 
 Publishing as open access may have prohibitive costs for some researchers depending on the venue. There are often other options that allow authors to share their work freely and openly. In Module 5 on Open Results, we discuss some of these other options including preprints and diamond open access.
 
@@ -199,7 +199,7 @@ Through open science practices, research waste can be avoided, such as unintenti
 
 Image credit: Andy Brunning/Compound Interest. **CC BY-NC-ND 4.0 DEED**
 
-***
+---
 
 The open sharing of scientific products and processes makes science accessible to everyone. This allows full participation from everyone, and also maximizes the number of people who can benefit from the work.
 
