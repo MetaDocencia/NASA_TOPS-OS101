@@ -48,7 +48,7 @@ For these examples, what other information or details could be added? If you wer
 
 Image credit: NASA Earth Observatory/Lauren Dauphin.
 
-***
+---
 
 When results and research objects are published openly, anyone can reproduce the scientific result. For topics like climate change, the transparency of results helps reduce misinformation and increases public trust in results.
 
@@ -199,7 +199,7 @@ Furthermore, there are numerous examples of generative AI (for both code and con
 
 At this time, and for these reasons, AI tools are generally not allowed in grant applications or in peer- review or proposal review activities.
 
-The National Institutes of Health (NIH) has prohibited "scientific peer reviewers from using natural language processors, large language models, or other generative Artificial Intelligence (AI) technologies for analyzing and formulating peer review critiques for grant applications and R\&D contract proposals." Utilizing AI in the peer review process is a breach of confidentiality because these tools "have no guarantee of where data is being sent, saved, viewed or used in the future." Using AI tools to help draft a critique or to assist with improving the grammar and syntax of a critique draft are both considered breaches of confidentiality. Read [NIH's AI policy](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-23-149.html) here.
+The National Institutes of Health (NIH) has prohibited "scientific peer reviewers from using natural language processors, large language models, or other generative Artificial Intelligence (AI) technologies for analyzing and formulating peer review critiques for grant applications and R&D contract proposals." Utilizing AI in the peer review process is a breach of confidentiality because these tools "have no guarantee of where data is being sent, saved, viewed or used in the future." Using AI tools to help draft a critique or to assist with improving the grammar and syntax of a critique draft are both considered breaches of confidentiality. Read [NIH's AI policy](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-23-149.html) here.
 
 AI tools for science are developing rapidly. The science community's understanding of how to ethically and safely use AI is just developing as its use in research expands rapidly. The guidelines above offer a snapshot in time and will likely continue to evolve. If you choose to use these tools for scientific research, carefully consider how much to rely on them and how their biases may impact results, as cautioned in [this Nature article](https://www.nature.com/articles/d41586-023-02980-0). The internet has transformed the world and AI tools are likely to do the same. As with any tool, it is important they are used for the appropriate purpose and in an ethical manner.
 
@@ -264,9 +264,9 @@ Science is meant to benefit society. Sharing our science helps ensure that it be
 "Open Science is the principle and practice of making research products and
 processes available to all, while respecting diverse cultures, maintaining security and privacy, and fostering collaborations, reproducibility, and equity"
 
-**https\://open.science.gov/**
+**https://open.science.gov/**
 
-***
+---
 
 Throughout this curriculum, we have focused on skills needed to make research products and processes available to all. The traditional practice of only sharing results limits insight into how science is done and may act to limit who can participate in science. By sharing your scientific process and working openly, you advance all of science in a more rapid and inclusive way. This curriculum will continue to evolve as science evolves and we welcome your contributions!
 
