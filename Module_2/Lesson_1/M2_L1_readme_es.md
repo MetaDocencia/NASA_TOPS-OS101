@@ -28,7 +28,7 @@ After completing this lesson, you should be able to:
 
 **The White House Ofﬁce of Science and Technology Policy (OSTP) and the National Science and Technology Council (NSTC)**
 
-***
+---
 
 ### Open Research Products
 
@@ -123,7 +123,7 @@ Here is an example of how one group openly shared their data, results, software,
 
 <img src="../images/media/image10.jpeg" style="width:100%;height:auto;" />
 
-Here, you can review the separate elements of the image above. Select "<" and ">" buttons to navigate.
+Here, you can review the separate elements of the image above. Select "\<" and "\>" buttons to navigate.
 
 <img src="../images/media/image11.jpeg" style="width:100%;height:auto;" />
 
