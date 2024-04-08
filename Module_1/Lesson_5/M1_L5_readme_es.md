@@ -108,7 +108,7 @@ Research materials are valuable and reusable long after the project's financial 
 
 Open Science Workflow Phases Source: Opensciency
 
-***
+---
 
 Regardless of your science discipline or the methodology that you use, the workflow remains relatively the same. It has a planning phase, an implementation phase and a release phase. Within these phases, there are milestones that vary depending on the workflow you follow. For the purpose of our discussion in this lesson, and the other modules in the curriculum, we have adopted the scientific workflow with general milestones described in the [Opensciency](https://opensciency.github.io/sprint-content/) curriculum. The details in your workflow may vary, but the overall concepts are the same. What is relevant here is that when adopting open science, it permeates all phases of the workflow. You prepare for it in the planning phase but then continue to integrate the principles of it throughout the implementation and release phases.
 
@@ -118,7 +118,7 @@ Products created throughout the scientific process are needed to enable others t
 
 Open Science Workflow Products Source: Opensciency
 
-***
+---
 
 Continuing through the workflow, this updated diagram now shows the types of scientific products that are created at each milestone. The specialized products that you create may vary or be completely different, but the focus on discovery for the public remains the same. Any type of products you create can be modified to support the principles and concepts of open science. Where and how to integrate open science concepts into your products is the purpose of this Open Science 101 curriculum.
 
@@ -176,7 +176,7 @@ Take a moment, to answer the following questions on your current research or on 
 
 **Co-author Dr. Natasha Batalha**
 
-***
+---
 
 One of the first discoveries from the James Webb Space Telescope
 was the first detection of Carbon Dioxide in the atmosphere of a planet orbiting another star. This discovery was enabled through the open science principles adopted both by the project and the team.
@@ -189,7 +189,7 @@ Image Credit: @AdobeStock 2023, dimazel
 
 Figure Credit: NASA, ESA, CSA, Joseph Olmsted (STScI)
 
-***
+---
 
 This was conducted as part of the JWST’s Early Release Science (ERS) Program as part of the JWST ERS Exoplanet Transiting Community program (ERS-TRANSIT). This is some of the earliest science data taken with the facility that was made openly available. The team, though, began their work years before the observations and included open science into every step of the process. The team worked in an open format from ideation, to analysis, through to publication and communication.
 
