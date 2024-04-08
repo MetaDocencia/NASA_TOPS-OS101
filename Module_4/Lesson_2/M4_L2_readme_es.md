@@ -30,11 +30,11 @@ Many people discover code through discussions with their colleagues or by readin
 
 What other ways can someone search for open code? As a first step, look for code that already exists because chances are that someone else has already had a similar problem and published their code online. A common way to search for existing code is with a general search engine. Search engines offer one indicator of a code’s relevancy, how recently it was updated, and how frequently others reference it.
 
-|          |                                                                                                                                                                                                                                                                                                       |
-| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|          |                                                                                                                                                                                                                                                                                                                       |
+| -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Example  | I'm a new graduate student starting to work on modeling turbulence in the Southern Ocean to better understand sea surface temperature (or ocean heat uptake) and climate change. Is there some software available to model how eddies in the ocean affect sea-surface temperature? |
-| Exercise | General Search on the term "Software for ocean turbulence modeling"                                                                                                                                                                                                                                   |
-| Result   | General Ocean Turbulence Model (GOTM)                                                                                                                                                                                                                                              |
+| Exercise | General Search on the term "Software for ocean turbulence modeling"                                                                                                                                                                                                                                                   |
+| Result   | General Ocean Turbulence Model (GOTM)                                                                                                                                                                                                                                                              |
 
 This successful search is predicated on the developers of GOTM making their code open.
 
@@ -114,7 +114,7 @@ Screenshot of the repositories returned from our search
 
 Screenshot of the code snippets returned from our search
 
-***
+---
 
 With open software, knowing where to search and what to search for can be a challenging problem. You can always start with a Google Search. However, it can be valuable to think through some of the questions that guide the discovery process. If the user lacks relevant experience, it can also be helpful to engage experienced colleagues at this stage.
 
@@ -276,11 +276,11 @@ If you simply intend to reuse a code snippet, continuously test that your select
 
 Consider the following when selecting among multiple versions of open source software.
 
-|                                                       |                                                                                                                                                                                                                                                                                                                                  |
-| ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                                                       |                                                                                                                                                                                                                                                                                                                                                                                  |
+| ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Use the latest stable release when possible           | Just like software updates to your phone or computer’s operating system or apps, it is important to use the latest stable release. Developers often release developmental versions that include new features or bug ﬁxes that are not fully tested. For this reason, using a developmental release is generally not recommended. |
-| Determine the origin of the version you intend to use | Determine whether the version you intend to use comes from a modified open-source project or from its original source project. With this information, determine which source is more appropriate for your project.                                                                                                               |
-| Check for issues and bugs                             | Check for any known issues or bugs with your selected version that could cause problems. Find current information on issues or bugs by checking release notes, issue trackers, and developer forums.                                                                                                                             |
+| Determine the origin of the version you intend to use | Determine whether the version you intend to use comes from a modified open-source project or from its original source project. With this information, determine which source is more appropriate for your project.                                                                                                                               |
+| Check for issues and bugs                             | Check for any known issues or bugs with your selected version that could cause problems. Find current information on issues or bugs by checking release notes, issue trackers, and developer forums.                                                                                                                                             |
 
 ### Resolve Problems in Reusing Software
 
