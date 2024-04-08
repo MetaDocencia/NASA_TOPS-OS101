@@ -163,7 +163,7 @@ Open science tools such as data repositories should implement FAIR principles, e
 
 [The Open Science Framework](https://osf.io/) is an open source platform for sharing, managing, and collaborating research.
 
-***
+---
 
 Data services and resources for supporting research require robust infrastructure which relies on collaboration. An example of an initiative on the infrastructures of data services comes from the [EUDAT Collaborative Data Infrastructure](https://www.eudat.eu/), a sustained network of more than 20 European research organizations.
 
