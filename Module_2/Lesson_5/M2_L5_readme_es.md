@@ -118,7 +118,7 @@ The OSF is designed to be a collaborative platform where users can share researc
 
 **[Center for Open Science](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5370619/)**
 
-***
+---
 
 ### Best Practices for a Project Registry
 
