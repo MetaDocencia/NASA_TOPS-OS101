@@ -122,7 +122,7 @@ In this activity, reflect on your answers to the questions and then compare your
 
 ### Transparent Science is Reproducible Science
 
-When computers are used to produce scientific research, the code is considered a "method". Much like a lab research setting, a set of instructions for working with cells or agar plates can be considered a method. Peer-reviewed methods are an essential step in the scientific process. When these steps are not shared, no-one else can reproduce the work or build upon it for future scientific endeavors. Open methods allow people to judge whether or not the methods are trustworthy. In Lesson 1, the story of the Global Cooling Error presented a poignant example of science that was not reproducible because of a lack of data transparency.
+Cuando las computadoras se utilizan para producir investigaciones científicas, el código se considera un "método". Much like a lab research setting, a set of instructions for working with cells or agar plates can be considered a method. Peer-reviewed methods are an essential step in the scientific process. When these steps are not shared, no-one else can reproduce the work or build upon it for future scientific endeavors. Open methods allow people to judge whether or not the methods are trustworthy. In Lesson 1, the story of the Global Cooling Error presented a poignant example of science that was not reproducible because of a lack of data transparency.
 
 ### Open Science Can Improve Accuracy
 
