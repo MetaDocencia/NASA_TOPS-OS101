@@ -1,10 +1,10 @@
-# OS101 Module 1: The Ethos of Open Science
+# Módulo 1: Damos la Bienvenida al Ethos de la Ciencia Abierta
 
 **Welcome to The Ethos of Open Science**
 
-## About This Module
+## Acerca de este modulo
 
-Welcome to this introductory module on open science. Open Science is the principle and practice of making research products and processes available to all, while respecting diverse cultures, maintaining security and privacy, and fostering collaborations, reproducibility, and equity. In this module, you take a closer look at what open science is, the current landscape as well as the benefits and challenges. You then get a glimpse into the practice of open science including a case study. To start your journey with open science, you are presented with actions that you can take starting today, such as exploring communities that you can engage with.
+Bienvenido/a a este módulo introductorio sobre ciencia abierta. La ciencia abierta es el principio y la práctica de hacer que los productos y procesos de investigación estén disponibles para todas las personas, respetando la diversidad cultural, manteniendo la seguridad y la privacidad y fomentando la colaboración, la reproducibilidad y la equidad. En este módulo, analizaremos más en profundidad lo que es la ciencia abierta, el panorama actual, así como los beneficios y desafíos que atraviesa. You then get a glimpse into the practice of open science including a case study. To start your journey with open science, you are presented with actions that you can take starting today, such as exploring communities that you can engage with.
 
 ### Target Audience
 
