@@ -5,16 +5,16 @@
 - [Planificando para la Ciencia Abierta](#planificando-para-la-ciencia-abierta)
 - [Diseñando para la Apertura](#diseñando-para-la-apertura)
 - [Caso de Estudio: Los Resultados de un Plan Abierto](#caso-de-estudio-los-resultados-de-un-plan-abierto)
-- [Pasos para Continuar con tu Camino en Ciencia Abierta](#pasos-para-continuar-con-tu-camino-en-ciencia-abierta)
+- [Pasos para Continuar con tu Viaje en Ciencia Abierta](#pasos-para-continuar-con-tu-viaje-en-ciencia-abierta)
 - [Lección 5: Resumen](#leccion-5-resumen)
 - [Lección 5: Revisión De Conocimientos](#leccion-5-revision-de-conocimientos)
 - [The Ethos of the Open Science Summary](#the-ethos-of-the-open-science-summary)
 
 ## Resumen
 
-Este módulo está casi terminado pero hay mucha más información disponible sobre la ciencia abierta, así que nuestra última lección es para quienes quieran aprender más. In this lesson, you review ways to start your journey with open science including a list of resources that you can use now.
+Este módulo está casi terminado pero hay mucha más información disponible sobre la ciencia abierta, así que nuestra última lección es para quienes quieran aprender más. En esta lección revisaremos formas de comenzar nuestro viaje con la ciencia abierta, incluyendo una lista de recursos que se pueden usar ahora.
 
-## Learning Objectives
+## Objetivos de aprendizaje
 
 After completing this lesson, you should be able to:
 
