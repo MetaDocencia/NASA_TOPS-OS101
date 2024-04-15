@@ -1,18 +1,18 @@
-# Lesson 5: Planning for Open Science: From Theory to Practice
+# Lección 5: Planificando para la Ciencia Abierta: De la teoría a la práctica
 
-## Navigation
+## Contenidos
 
-- [Planning for Open Science](#planning-for-open-science)
-- [Designing for Openness](#designing-for-openness)
-- [Case Study: The Outcomes of an Open Plan](#case-study-the-outcomes-of-an-open-plan)
-- [Steps to Continue Your Open Science Journey](#steps-to-continue-your-open-science-journey)
-- [Lesson 5: Summary](#lesson-5-summary)
-- [Lesson 5: Knowledge Check](#lesson-5-knowledge-check)
+- [Planificando para la Ciencia Abierta](#planificando-para-la-ciencia-abierta)
+- [Diseñando para la Apertura](#diseñando-para-la-apertura)
+- [Caso de Estudio: Los Resultados de un Plan Abierto](#caso-de-estudio-los-resultados-de-un-plan-abierto)
+- [Pasos para Continuar con tu Camino en Ciencia Abierta](#pasos-para-continuar-con-tu-camino-en-ciencia-abierta)
+- [Lección 5: Resumen](#leccion-5-resumen)
+- [Lección 5: Revisión De Conocimientos](#leccion-5-revision-de-conocimientos)
 - [The Ethos of the Open Science Summary](#the-ethos-of-the-open-science-summary)
 
-## Overview
+## Resumen
 
-This module is nearly over, but there's so much more information available about open science – so our last lesson is for everyone who wants to learn more. In this lesson, you review ways to start your journey with open science including a list of resources that you can use now.
+Este módulo está casi terminado pero hay mucha más información disponible sobre la ciencia abierta, así que nuestra última lección es para quienes quieran aprender más. In this lesson, you review ways to start your journey with open science including a list of resources that you can use now.
 
 ## Learning Objectives
 
