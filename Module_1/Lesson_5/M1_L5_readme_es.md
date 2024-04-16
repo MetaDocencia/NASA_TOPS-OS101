@@ -8,7 +8,7 @@
 - [Pasos para Continuar con tu Viaje en Ciencia Abierta](#pasos-para-continuar-con-tu-viaje-en-ciencia-abierta)
 - [Lección 5: Resumen](#leccion-5-resumen)
 - [Lección 5: Revisión De Conocimientos](#leccion-5-revision-de-conocimientos)
-- [The Ethos of the Open Science Summary](#the-ethos-of-the-open-science-summary)
+- [Resumen de El Ethos de la Ciencia Abierta](#resumen-de-el-ethos-de-la-ciencia-abierta)
 
 ## Resumen
 
@@ -21,7 +21,7 @@ Al finalizar esta lección deberías ser capaz de:
 - Reconocer los temas a incluir en una planificación para ciencia abierta y definir un plan de ciencia abierta y gestión de datos (PCAGD) (en inglés, open science and data management plan, OSDMP).
 - Describir las distintas partes del flujo de un trabajo científico y cómo la ciencia abierta puede integrarse a él.
 - Diferenciar ejemplos del mundo real sobre cómo un equipo puede usar ciencia abierta.
-- List four steps that anyone can take to be more open.
+- Enumerar cuatro pasos que cualquiera puede tomar para tener un enfoque más abierto.
 
 ## Planning for Open Science
 
