@@ -45,9 +45,9 @@ Es importante discutir regularmente sobre ciencia abierta con tu equipo de inves
 
 ### Ciencia Abierta y Planes de Gestión de Datos
 
-Los organismos de financiamiento y patrocinadores consideran que la gestión de los datos es crucial para la ciencia abierta porque asegura que los datos de la investigación están bien organizados, accesibles y conservados. In recent years, many have included a requirement as part of proposals or projects plans for an Open Science and Data Management Plan (OSDMP). The OSDMP includes a description of the resources to be used, the products that will be created, how they will be shared, and who will be responsible. These plans can include the data, software, publications, and project governance.
+Los organismos de financiamiento y patrocinadores consideran que la gestión de los datos es crucial para la ciencia abierta porque asegura que los datos de la investigación están bien organizados, accesibles y conservados. Durante los últimos años, muchos han incluído un Plan de Ciencia Abierta y Gestión de Datos (PCAGD) como requerimiento para las presentaciones de proyectos. El PCAGD incluye una descripción de los recursos que se van a utilizar, los productos que se van a crear, cómo se compartirán y quién/quiénes serán las personas responsables. Estos planes pueden incluir datos, software, publicaciones y proyectos de gobernanza.
 
-Open science and data management plans are essential because they enhance the credibility and reproducibility of research by ensuring that data is well-documented, organized, and preserved over time. Effective OSDMPs can have the following benefits:
+Los planes de ciencia abierta y gestión de datos son esenciales porque mejoran la credibilidad y reproducibilidad de la investigación al garantizar que los datos están bien documentados, organizados y conservados en el tiempo. Los PCAGD bien hechos pueden traer beneficios como:
 
 <table>
 <colgroup>
@@ -56,33 +56,33 @@ Open science and data management plans are essential because they enhance the cr
 </colgroup>
 <tbody>
     <tr>
-        <td>Transparency</td>
-        <td>Not only builds trust in scientific findings but also allows other researchers to validate and build upon them, fostering a culture of openness and cooperation.</td>
+        <td>Transparencia</td>
+        <td>No sólo genera confianza en los descubrimientos científicos, sino que también permite que otras personas que investigan los validen y construyan sobre ellos, fomentando una cultura de apertura y cooperación.</td>
     </tr>
     <tr>
-        <td>Effective</td>
-        <td>Data management can lead to more efficient and cost-effective research processes. By reducing the time spent searching for and organizing data, researchers can dedicate more time to analysis and interpretation, potentially accelerating the pace of discovery and innovation.</td>
+        <td>Eficiencia</td>
+        <td>La gestión de datos puede llevar a procesos de investigación más eficientes y económicamente eficaces. Al reducir el tiempo que se gasta en buscar y organizar los datos, las personas que investigan pueden dedicar más tiempo al análisis y la interpretación, acelerando potencialmente el ritmo de descubrimiento e innovación.</td>
     </tr>
     <tr>
-        <td>Reproducibility</td>
-        <td>A key tenet of the scientific method is reproducibility and a well developed OSDMP helps ensure that others are able to validate your results.</td>
+        <td>Reproducibilidad</td>
+        <td>Un principio clave del método científico es la reproducibilidad y un PCAGD bien desarrollado facilita que otras personas puedan validar tus resultados.</td>
     </tr>
     <tr>
-        <td>Preservation</td>
-        <td>The research produced by federal funding represents a significant investment and it is important that research is saved for future generations to access and understand.</td>
+        <td>Conservación</td>
+        <td>La investigación producida por fondos públicos representa una gran inversión y es importante que esa investigación se conserve para que las generaciones futuras puedan acceder a ella y comprenderla.</td>
     </tr>
     <tr>
-        <td>Inclusive</td>
-        <td>OSDMPs can include research tools and processes that can significantly improve research outcomes through collaboration and consultation.</td>
+        <td>Inclusividad</td>
+        <td>Los PCAGD pueden incluir herramientas y procesos que mejoren significativamente los productos de la investigación a través de colaboraciones.</td>
     </tr>
 </tbody>
 </table>
 
-Learn more about OSDMPs in Module 2.
+Aprende más sobre los PCAGD en el Módulo 2.
 
-### An Open Strategy
+### Una Estrategia Abierta
 
-In today's world, many foundations and agencies that award research grants increasingly expect proposals to include an open science strategy. By including an open science strategy document in your scientific plan, you ensure accessibility and openness in each step of your workflow. Conclude your comprehensive plan with clearly defined steps to make research outputs easily accessible and openly available. The steps identified in your strategy should be integrated into your everyday scientific processes and practices.
+Hoy en día, cada vez son más las fundaciones y agencias que esperan que las propuestas para subsidios de investigación incluyan una estrategia de ciencia abierta. Al incluir un documento de estrategia de ciencia abierta en tu proyecto, aseguras la accesibilidad y apertura en cada paso de tu flujo de trabajo. Conclude your comprehensive plan with clearly defined steps to make research outputs easily accessible and openly available. The steps identified in your strategy should be integrated into your everyday scientific processes and practices.
 
 #### Requirements
 
@@ -172,9 +172,9 @@ Take a moment, to answer the following questions on your current research or on 
 
 <img style="width:100%;height:auto;" src="../images/media/natashaquote.jpg">
 
-"NASA's open science guiding principles are centered in our Early Release Science work, supporting an inclusive, transparent, and collaborative scientific process."
+Los principios rectores de ciencia abierta de la NASA están centrados en nuestro trabajo de lanzamiento temprano de la ciencia (Early Release Science), apoyando un proceso científico inclusivo, transparente y colaborativo
 
-**Co-author Dr. Natasha Batalha**
+**Coautora Dra. Natasha Batalha**
 
 ---
 
