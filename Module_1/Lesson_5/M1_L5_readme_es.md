@@ -27,17 +27,17 @@ Al finalizar esta lección deberías ser capaz de:
 
 <img src="../images/media/image329.png" style="width: 100%; height: auto;" />
 
-Es importante pensar, discutir y planificar los resultados y procesos deseados cuando comiences tu investigación. Investiga cuáles son los mejores repositorios para tus materiales, discute sobre créditos y autorías para cada uno de los productos y comienza a usar herramientas de ciencia abierta para organizar tu trabajo. Ponte en contacto con repositorios de tu área e institución (como la biblioteca) en caso de que necesites ayuda. Si incluyes esta información en tus planes tendrás más probabilidades de recibir fondos.
+Es importante pensar, discutir y planificar los productos y procesos deseados cuando comiences tu investigación. Investiga cuáles son los mejores repositorios para tus materiales, discute sobre créditos y autorías para cada uno de los productos y comienza a usar herramientas de ciencia abierta para organizar tu trabajo. Ponte en contacto con repositorios de tu área e institución (como la biblioteca) en caso de que necesites ayuda. Si incluyes esta información en tus planes tendrás más probabilidades de recibir fondos.
 
-Planning for outputs in advance includes:
+Planificar con anticipación los productos de tu trabajo implica:
 
-- Speaking about it and organizing with your research team
-- Deciding which tools to use
-- Thinking about authorship and credit
-- Engaging with relevant stakeholders and research partners, for example, industry, around open science
-- Identifying repositories for software and data
-- Identifying journals (or other outlets) for publications
-- Highlighting these approaches in your grant and much more
+- Hablar sobre estos productos y organizarlos con tu grupo de investigación
+- Decidir qué herramientas usar
+- Pensar en autorías y créditos
+- Ponerse en contacto con las partes interesadas y equipos de investigación relevantes para la ciencia abierta como, por ejemplo, la industria
+- Identificar repositorios de software y datos
+- Identificar revistas (u otros medios) para publicaciones
+- Resaltar estos elementos en tus presentaciones y mucho más
 
 In reality, there is an exploratory stage where sharing one’s product may not be part of the plan. During active research and data exploration, data, code, and ideas may be created and deleted even daily. It may not be efficient to spend time making these fully open (eg. creating DOIs, documentation) because you are just exploring! Still, one may choose to make their code public through this process (it should be in some version control repository anyway, no harm in making it public). Part of this planning is beginning to think about what would be valuable to science and figuring out how you might share it.
 
@@ -110,9 +110,9 @@ Open Science Workflow Phases Source: Opensciency
 
 ---
 
-Regardless of your science discipline or the methodology that you use, the workflow remains relatively the same. It has a planning phase, an implementation phase and a release phase. Within these phases, there are milestones that vary depending on the workflow you follow. For the purpose of our discussion in this lesson, and the other modules in the curriculum, we have adopted the scientific workflow with general milestones described in the [Opensciency](https://opensciency.github.io/sprint-content/) curriculum. The details in your workflow may vary, but the overall concepts are the same. What is relevant here is that when adopting open science, it permeates all phases of the workflow. You prepare for it in the planning phase but then continue to integrate the principles of it throughout the implementation and release phases.
+Independientemente de tu disciplina científica o de la metodología que utilices, el flujo de trabajo sigue siendo relativamente el mismo. Cuenta con una fase de planificación, una fase de implementación y una fase de lanzamiento. Dentro de estas fases, hay hitos que varían en función del flujo de trabajo que sigas. Para el propósito de nuestra discusión en esta lección, y los otros módulos en este currículum, hemos adoptado el flujo de trabajo científico con hitos generales descritos en el currículum de [Opensciency](https://opensciency. ithub.io/sprint-content/). Los detalles de tu flujo de trabajo pueden variar, pero los conceptos generales son los mismos. Lo importante aquí es que cuando se adopta la ciencia abierta, ésta impregna todas las etapas del flujo de trabajo. Te preparas para ello en la fase de planificación, pero luego continúa integrando los principios de la misma a lo largo de las fases de implementación y de lanzamiento.
 
-Products created throughout the scientific process are needed to enable others to reproduce the findings. Researchers who wish to make their results reproducible must make key elements of their study openly available for others to test.
+Los productos creados a lo largo del proceso científico son necesarios para que otros puedan reproducir los hallazgos. Researchers who wish to make their results reproducible must make key elements of their study openly available for others to test.
 
 <img src="../images/media/image130.jpg" style="width: 100%; height: auto;" />
 
