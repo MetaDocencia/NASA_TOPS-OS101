@@ -133,11 +133,11 @@ The [DMPTool](https://dmptool.org/) in the US helps researchers by featuring a t
 
 ### Data Repositories
 
-A data repository is a digital space to house, curate, and share research outputs. Data repositories were originally used to support the needs of research communities. Examples of data repositories include:
+A data repository is a digital space to house, curate, and share research outputs. Data repositories were originally used to support the needs of research communities. Ejemplos de repositorios de datos incluyen:
 
-- [**Protein Data Bank**](https://www.rcsb.org/) uses a data repository to catalog 3D structures of proteins and nucleic acids.
-- [**Genbank**](https://www.ncbi.nlm.nih.gov/genbank/) of the National Institutes of Health uses a genetic sequence database that contains annotated publicly available nucleic acid sequences.
-- [**The Image Data Resource**](https://idr.openmicroscopy.org/) is a public repository of microscopy bio-image datasets from published studies.
+- [**Banco de Datos de Proteina**](https://www.rcsb.org/) utiliza un repositorio de datos para catalogar estructuras 3D de proteínas y ácidos nucleólicos.
+- [**Genbank**](https://www.ncbi.nlm.nih.gov/genbank/) de los Institutos Nacionales de Salud utiliza una base de datos de secuencias genéticas que contiene secuencias anotadas de ácidos nucleicos disponibles públicamente.
+- [**Recurso de datos de imágenes**](https://idr.openmicroscopy.org/) es un repositorio público de conjuntos de datos que contiene bioimágenes de microscopía procedentes de estudios publicados.
 - [**The Electron Microscopy Public Image Archive**](https://www.ebi.ac.uk/empiar/) is a public resource for raw cryo-EM images.
 - [**OpenNeuro**](https://openneuro.org/) is an open platform for validating and sharing brain imaging data. The tools featured in Open Neuro enable easy access, search, and analysis of annotated datasets.
 
