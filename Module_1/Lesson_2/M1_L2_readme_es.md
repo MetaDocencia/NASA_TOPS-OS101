@@ -147,7 +147,7 @@ El gran éxito de SOHO como buscador de cometas depende, por supuesto, de las pe
 
 <img src="../images/media/image268.jpg" style="width: 350px; height: auto;" />
 
-A cadre of volunteer amateur astronomers dedicate themselves to searching this data via the NASA-funded Sungrazer Project. While scientists often search the imagery for very specific events, various members of the astronomy community choose to comb through all available imagery in fine detail. Over 2,300 comets have been found, 75% by citizen scientists. This created a great training dataset for algorithms. NASA scientists had algorithms to find comets that they felt that were sufficiently accurate.
+Un grupo de astrónomos voluntarios aficionados se dedican a buscar estos datos a través del Proyecto Sungrazer, financiado por la NASA. While scientists often search the imagery for very specific events, various members of the astronomy community choose to comb through all available imagery in fine detail. Over 2,300 comets have been found, 75% by citizen scientists. This created a great training dataset for algorithms. NASA scientists had algorithms to find comets that they felt that were sufficiently accurate.
 
 In 2022 though, NASA decided to fund a challenge open to the public to develop new algorithms and guess what? New algorithms were discovered along with two new comets!
 
