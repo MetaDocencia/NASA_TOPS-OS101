@@ -135,13 +135,13 @@ The [DMPTool](https://dmptool.org/) in the US helps researchers by featuring a t
 
 A data repository is a digital space to house, curate, and share research outputs. Data repositories were originally used to support the needs of research communities. Ejemplos de repositorios de datos incluyen:
 
-- [**Banco de Datos de Proteina**](https://www.rcsb.org/) utiliza un repositorio de datos para catalogar estructuras 3D de proteínas y ácidos nucleólicos.
+- [**Protein Data Bank**(Banco de Datos de Proteina)](https://www.rcsb.org/) utiliza un repositorio de datos para catalogar estructuras 3D de proteínas y ácidos nucleólicos.
 - [**Genbank**](https://www.ncbi.nlm.nih.gov/genbank/) de los Institutos Nacionales de Salud utiliza una base de datos de secuencias genéticas que contiene secuencias anotadas de ácidos nucleicos disponibles públicamente.
 - [**Recurso de datos de imágenes**](https://idr.openmicroscopy.org/) es un repositorio público de conjuntos de datos que contiene bioimágenes de microscopía procedentes de estudios publicados.
-- [**The Electron Microscopy Public Image Archive**](https://www.ebi.ac.uk/empiar/) is a public resource for raw cryo-EM images.
-- [**OpenNeuro**](https://openneuro.org/) is an open platform for validating and sharing brain imaging data. The tools featured in Open Neuro enable easy access, search, and analysis of annotated datasets.
+- [**The Electron Microscopy Public Image Archive**(Archivo de Imagen Pública de Microscopía)](https://www.ebi.ac.uk/empiar/) es un recurso público para las imágenes cryo-EM.
+- [**OpenNeuro**](https://openneuro.org/) es una plataforma abierta para validar y compartir datos de imágenes cerebrales. Las herramientas de Open Neuro permiten un acceso fácil, la búsqueda y el análisis de conjuntos de datos.
 
-Open science tools such as data repositories should implement FAIR principles, especially in the case of attribution of persistent identifiers (e.g., DOI), metadata annotation, and machine-readability.
+Las herramientas de ciencia abierta, como los repositorios de datos, deben implementar los principios FAIR, especialmente en lo que respecta a la atribución de identificadores persistentes (por ejemplo, DOI), la anotación de metadatos y la capacidad de ser leídos por ordenadores.
 
 **ZENODO**
 
