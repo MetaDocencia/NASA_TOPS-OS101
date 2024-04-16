@@ -89,17 +89,17 @@ Apertura - Un concepto o rasgo de personalidad que implica transparencia, colabo
 
 ### [Lección 4: Cuando no debe ser "Abierta"](./Module_1/Lesson_4)
 
-- [Common Fears Around Openness](./Lesson_4#common-fears-around-openness)
-- [Misaligned Incentives](./Lesson_4#misaligned-incentives)
-- [Social Barriers](./Lesson_4#social-barriers)
+- [Temores usuales en torno a la Apertura](./Lección_4#temores-usuales-en-torno-a-la-apertura)
+- [Incentivos inadecuados](./Lección_4#incentivos inadecuados)
+- [Barreras sociales](./Lección_4#barreras sociales)
 - [Institutional and Infrastructure Barriers](./Lesson_4#institutional-and-infrastructure-barriers)
-- [Lesson 4: Summary](./Lesson_4#lesson-4-summary)
-- [Lesson 4: Knowledge Check](./Lesson_4#lesson-4-knowledge-check)
+- [Lección 4: Resumen](./Lección_4#lección-4-resumen)
+- [Lección 4: Comprobación del conocimiento](./Lección_4#comprobación del conocimiento-4)
 
-### [Lesson 5: Planning for Open Science: From Theory to Practice](./Lesson_5)
+### [Lección 5: Planificando para la Ciencia Abierta: De la teoría a la práctica](./Módulo_1/Lección_5)
 
-- [Planning for Open Science](./Lesson_5#planning-for-open-science)
-- [Designing for Openness](./Lesson_5#designing-for-openness)
+- [Planificando para la Ciencia Abierta](#planificando-para-la-ciencia-abierta)
+- [Diseñando para la Apertura](./Lección_5#diseñando-para-la-apertura)
 - [Case Study: The Outcomes of an Open Plan](./Lesson_5#case-study-the-outcomes-of-an-open-plan)
 - [Steps to Continue Your Open Science Journey](./Lesson_5#steps-to-continue-your-open-science-journey)
 - [Lesson 5: Summary](./Lesson_5#lesson-5-summary)
