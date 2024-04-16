@@ -41,53 +41,53 @@ Selecciona el término para ver la descripción.
 
 **Investigación abierta** - Término amplio que engloba el intercambio rápido y generalizado de una serie de actividades y resultados académicos en múltiples disciplinas. Más información [aquí].(https://www.heliosopen.org/about)
 
-**Reproducibility and Replicability** – Reproducibility is defined as obtaining consistent results using the same data and code as an original study (synonymous with computational reproducibility). Replicability means obtaining consistent results across studies aimed at answering the same scientific question using new data or other new computational methods. Learn more [here.](https://www.nationalacademies.org/news/2019/09/reproducibility-and-replicability-in-research)
+**Reproducibilidad y replicabilidad** - La reproducibilidad se define como la obtención de resultados consistentes utilizando los mismos datos y el mismo código que en un estudio original (sinónimo de reproducibilidad computacional). Replicabilidad refiere a obtener resultados coherentes en todos los estudios destinados a responder a la misma pregunta científica utilizando nuevos datos u otros métodos computacionales. Más información [aquí].(https://www.nationalacademies.org/news/2019/09/reproducibility-and-replicability-in-research)
 
-**Peer Review** – The evaluation of work by one or more people with similar competencies as the producers of the work - that is, the authors' peers. Learn more [here.](https://en.wikipedia.org/wiki/Peer_review)
+**Revisión por pares** - Evaluación de un trabajo por parte de una o varias personas con competencias similares a las de los autores del documento, es decir, los pares de los autores. Más información [aquí].(https://en.wikipedia.org/wiki/Peer_review)
 
-**FAIR principles** – Principles to improve the Findability, Accessibility, Interoperability, and Reuse of digital assets. The principles emphasize machine- actionability (i.e., the capacity of computational systems to find, access, interoperate, and reuse data with none or minimal human intervention) because humans increasingly rely on computational support to deal with data as a result of the increase in volume, complexity, and creation speed of data.
+**Principios FAIR** – Principios para mejorar la Hallabilidad, Accesibilidad, Interoperabilidad y Reutilización de activos digitales. Los principios hacen hincapié en la capacidad de acción de las computadoras (es decir, la capacidad de los sistemas informáticos para encontrar, acceder, interoperar y reutilizar datos sin intervención humana o con una intervención humana mínima) porque las personas dependen cada vez más del apoyo informático para tratar los datos como consecuencia del aumento de su volumen, complejidad y velocidad de creación.
 
-**Metrics (in context of scientiﬁc merit)** – Quantitative tools used to help assess the quality and impact of research outputs (eg. scientific articles, researchers, and more). Learn more [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8397294/) and [here.](https://editorresources.taylorandfrancis.com/understanding-research-metrics/)
+**Métricas (en el contexto del mérito científico)** – Herramientas cuantitativas que se utilizan para ayudar a evaluar la calidad y el impacto de los resultados de la investigación (por ejemplo. artículos científicos, investigadores y mucho más). Más información [aquí].(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8397294/) y [here.](https://editorresources.taylorandfrancis.com/understanding-research-metrics/)
 
-**Altmetrics** – Alternative tools to assess the impact of a scientific article that do not involve journal-level usage information like impact factors.
-Learn more [here.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3792863/)
+Herramientas alternativas para evaluar el impacto de un artículo científico que no involucran información de uso a nivel de revista, como los factores de impacto.
+Más información [aquí].(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3792863/)
 
-**Openness** – A concept or personality trait that involves transparency, collaboration, honesty, and receptivity to new ideas and experiences.
+Apertura - Un concepto o rasgo de personalidad que implica transparencia, colaboración, honestidad y receptividad a nuevas ideas y experiencias.
 
-**Transparency** – The quality of being easy to perceive or detect.
+**Transparencia** - Cualidad de ser fácil de percibir o detectar.
 
-**Rigor** – Widely used by educators to describe instruction, schoolwork, learning experience, and educational expectations that are academically, intellectually, and personally challenging.
+**Rigor** - Ampliamente utilizado por los educadores para describir la instrucción, el trabajo áulico, la experiencia de aprendizaje y las expectativas educativas que suponen un reto académico, intelectual y personal.
 
-**Computational Provenance** - Seeks to develop systematic, computationally-based processes and standards for capturing, and making available for us, information about who created an object, when it was created or modified, and the process or procedure that modified the object.
+**Procedencia Computacional** - Busca desarrollar procesos sistemáticos y estándares basados en la informática, para capturar y poner a disposición información sobre quién creó un objeto, cuándo fue creado o modificado, y el proceso o procedimiento que modificó el objeto.
 
 ## Navigation
 
-### [Lesson 1: What is Open Science?](./Lesson_1)
+### [Lección 1: ¿Qué es la Ciencia Abierta?](./Lección_1)
 
-- [Motivation for Open Science](./Lesson_1#motivation-for-open-science)
+- [Motivación por la ciencia abierta](./Lesson_1#motivation-for-open-science)
 - [What is Open Science?](./Lesson_1#what-is-open-science)
-- [Who Does Open Science?](./Lesson_1#who-does-open-science)
-- [Lesson 1: Summary](./Lesson_1#lesson-1-summary)
-- [Lesson 1: Knowledge Check](./Lesson_1#lesson-1-knowledge-check)
+- [¿Quién practica la ciencia abierta?](./Lección_1#quién-ciencia-abierta)
+- [Lección 1: Resumen](./Lección_1#lección-1-resumen)
+- [Lección 1: Comprobación del conocimiento](./Lección_1#comprobación del conocimiento-1)
 
-### [Lesson 2: Why is Open Science Important?](./Lesson_2)
+### [Lección 2: ¿Por qué es Importante la Ciencia Abierta?](./Module_1/Lesson_2)
 
-- [Open Science Breaks Down Stovepipes and Increases Innovation](./Lesson_2#open-science-breaks-down-stovepipes-and-increases-innovation)
-- [Benefits to You](./Lesson_2#benefits-to-you)
-- [Benefits to Science](./Lesson_2#benefits-to-science)
-- [Benefits to Society](./Lesson_2#benefits-to-society)
-- [Lesson 2: Summary](./Lesson_2#lesson-2-summary)
-- [Lesson 2: Knowledge Check](./Lesson_2#lesson-2-knowledge-check)
+- [La Ciencia Abierta Rompe Barreras y Promueve la Innovación](#la-ciencia-abierta-rompe-barreras-y-promueve-la-innovación)
+- [Beneficios particulares](./Lección_2#beneficios particulares)
+- [Beneficios Para La Ciencia](#beneficios-para-la-ciencia)
+- [Beneficios Para La Sociedad](#beneficios-para-la-sociedad)
+- [Lección 2: Resumen](./Lesson_2#lesson-2-summary)
+- [Lección 2: Comprobación del conocimiento](./Lección_2#comprobación del conocimiento-2)
 
-### [Lesson 3: How to do Open Science](./Lesson_3)
+### [Lección 3: Cómo hacer Ciencia Abierta](./Module_1/Lesson_3)
 
-- [Maintaining Security and Protecting Privacy](./Lesson_3#maintaining-security-and-protecting-privacy)
-- [Intellectual Property](./Lesson_3#intellectual-property)
-- [Policies and Practices around Open Science](./Lesson_3#policies-and-practices-around-open-science)
-- [Lesson 3: Summary](./Lesson_3#lesson-3-summary)
-- [Lesson 3: Knowledge Check](./Lesson_3#lesson-3-knowledge-check)
+- [Manteniendo la seguridad y protegiendo la privacidad](./Lección_3#manteniendo la seguridad-y-protegiendo la privacidad)
+- [Propiedad Intelectual](./Lección_3#Propiedad intelectual)
+- [Políticas y Prácticas en torno a la Ciencia Abierta](./Lección_3#políticas-y-prácticas-around-open-science)
+- [Lección 3: Resumen](./Lección_3#lección-3-resumen)
+- [Lección 3: Comprobación del conocimiento](./Lección_3#comprobación del conocimiento-3)
 
-### [Lesson 4: When Not to be Open](./Lesson_4)
+### [Lección 4: Cuando no debe ser "Abierta"](./Module_1/Lesson_4)
 
 - [Common Fears Around Openness](./Lesson_4#common-fears-around-openness)
 - [Misaligned Incentives](./Lesson_4#misaligned-incentives)
