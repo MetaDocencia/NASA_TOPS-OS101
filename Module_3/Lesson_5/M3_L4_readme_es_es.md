@@ -1,14 +1,14 @@
-# Lesson 5: From Theory to Practice
+# Lección 5: De la teoría a la práctica
 
-## Navigation
+## Navegación
 
-- [Overview](#overview)
-- [Learning Objectives](#learning-objectives)
-- [Writing an Open Science and Data Management Plan](#writing-an-open-science-and-data-management-plan)
-- [Open Data Communities and You](#open-data-communities-and-you)
-- [Additional Resources](#additional-resources)
-- [Lesson 5: Summary](#lesson-5-summary)
-- [Lesson 5: Knowledge Check](#lesson-5-knowledge-check)
+- [Overview](#resumen)
+- [Objetivos de Aprendizaje](./Lesson_5#learning-objectives)
+- Escribir un Plan de Ciencia Abierta y Gestión de Datos
+- Las comunidades de datos abiertos
+- [Recursos adicionales](#adicional-recursos)
+- [Lección 5: Resumen](./Lesson_5#lesson-5-summary)
+- Evaluación de Conocimientos de la Lección 5
 - [Open Data Summary](#open-data-summary)
 
 ## Overview
