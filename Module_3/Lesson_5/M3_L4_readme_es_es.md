@@ -9,23 +9,23 @@
 - [Recursos adicionales](#adicional-recursos)
 - [Lección 5: Resumen](./Lesson_5#lesson-5-summary)
 - Evaluación de Conocimientos de la Lección 5
-- [Open Data Summary](#open-data-summary)
+- [Resumen de datos abiertos](#open-data-Resumen)
 
-## Overview
+## Descripción General
 
-In this lesson, you will get some practice writing a data management plan. You will then learn how you can get involved in open data communities. You will also learn about resources you can start to use and training you can take to start your journey with open data.
+En esta lección, practicarás escribir un plan de gestión de datos. Luego aprenderás cómo puedes involucrarte en las comunidades que los emplean. También conocerás recursos que puedes empezar a utilizar y entrenarte para iniciar tu camino con datos abiertos.
 
-## Learning Objectives
+## Objetivos de aprendizaje
 
-After completing this lesson, you should be able to:
+Después de completar este módulo, deberías poder:
 
-- Describe the steps toward writing a data management plan.
-- List opportunities for involvement in the open data communities.
-- Identify additional open science resources and list ways to continue training.
+- Describir los pasos para escribir un plan de gestión de datos.
+- Enumerar oportunidades para participar en las comunidades de datos abiertos.
+- Identificar recursos adicionales de ciencia abierta y listar formas de continuar entrenándote.
 
-## Writing an Open Science and Data Management Plan
+## Escribir un Plan de Ciencia Abierta y Gestión de Datos
 
-The process, responsibilities, and factors to consider when creating an open science and data management plan have been presented throughout this module. Common elements of DMPs relevant to open data include a description of the following:
+El proceso, las responsabilidades y los factores a considerar al crear un plan de ciencia abierta y gestión de datos se han presentado a lo largo de este módulo. Common elements of DMPs relevant to open data include a description of the following:
 
 |        |                                                                        |
 | ------ | ---------------------------------------------------------------------- |
