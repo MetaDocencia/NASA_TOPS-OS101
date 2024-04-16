@@ -145,7 +145,7 @@ Las herramientas de ciencia abierta, como los repositorios de datos, deben imple
 
 **ZENODO**
 
-[Zenodo](https://zenodo.org/) is an example of a data repository that allows the upload of research data and creates DOIs. Its popularity among the research community is due to its simplified interface, support of community curation, and feature that enables researchers to deposit diverse types of research outputs; from datasets and reports to publications, software, multimedia content.
+[Zenodo](https://zenodo.org/) es un ejemplo de un repositorio de datos que permite la carga de datos de investigación y la creación de un DOI. Su popularidad entre la comunidad investigadora se debe a la simpleza de su interfaz, el apoyo a la gestión comunitaria y la función que permite a los investigadores depositar diversos tipos de resultados de investigación, desde conjuntos de datos e informes hasta publicaciones, software y contenidos multimedia.
 
 **DATAVERSE**
 
