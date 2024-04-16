@@ -1,8 +1,8 @@
-# Lesson 3: Making Open Data
+# Haciendo datos abiertos (open data, en inglés)
 
-## Navigation
+## Índice
 
-- [Overview](#overview)
+- [Descripción general](#resumen)
 - [Learning Objectives](#learning-objectives)
 - [Planning for Open Data](#planning-for-open-data)
 - [Selecting Data Formats and Tools for Interoperability](#selecting-data-formats-and-tools-for-interoperability)
@@ -11,31 +11,31 @@
 - [Lesson 3: Summary](#lesson-3-summary)
 - [Lesson 3: Knowledge Check](#lesson-3-knowledge-check)
 
-## Overview
+## Descripción general
 
-In this lesson, you learn the criteria and tasks needed to ensure that the datasets you make are open and reusable. The lesson starts with a discussion on creating a data management plan and then continues with topics on selecting open data formats and how to include metadata, readme files, and version control for your data. It wraps up with a discussion on open licenses for data.
+En esta lección, aprendes los criterios y las tareas necesarias para asegurar que los conjuntos de datos que creas sean abiertos y reutilizables. La lección comienza con una discusión sobre la creación de un plan de gestión de datos, continúa con temas sobre la selección de formatos de datos abiertos y cómo incluir metadatos, archivos Readme y control de versiones para sus datos. Se completa con una discusión sobre licencias abiertas para datos.
 
-## Learning Objectives
+## Objetivos de aprendizaje
 
-After completing this lesson, you should be able to:
+Después de completar este módulo, deberías poder:
 
-- Evaluate and select open data formats.
-- Add documentation that enables other researchers to assess the relevance of the data. This includes metadata, README files, and version control.
-- List two common open licenses used for datasets.
+- Evaluar y seleccionar formatos de datos abiertos.
+- Añadir documentación que permita a otros investigadores evaluar la relevancia de los datos. Esto incluye metadatos, archivos README y control de versiones.
+- Listar dos licencias abiertas comunes utilizadas para conjuntos de datos.
 
-## Planning for Open Data
+## Planificación de datos abiertos
 
-A best practice when beginning your open data journey is to create a Data Management Plan (DMP). This describes how you will manage, preserve, and release your data during and after a research project. Common elements of DMPs relevant to open data include a description of the following:
+La mejor práctica al comenzar su viaje de datos abiertos es crear un Plan de Gestión de Datos (PGD). Esto describe cómo administrará, preservará y publicará sus datos durante y después de un proyecto de investigación. Elementos comunes en los PGD relevantes para datos abiertos incluyen una descripción de lo siguiente:
 
-|        |                                                                        |
-| ------ | ---------------------------------------------------------------------- |
-| What?  | Data formats and (where relevant) standards         |
-| When?  | When and if to share data                                              |
-| Where? | The intended repositories for archived data                            |
-| How?   | How the plan enables reuse of the data                                 |
-| Who?   | Roles and responsibilities of the team members in implementing the DMP |
+|          |                                                                                   |
+| -------- | --------------------------------------------------------------------------------- |
+| ¿Qué?    | Formatos de datos y (cuando sea relevante) estándares          |
+| ¿Cuándo? | Cuando y si compartir datos                                                       |
+| ¿Dónde?  | Los repositorios previstos para archivar los datos                                |
+| ¿Cómo?   | Cómo permite el plan la reutilización de datos                                    |
+| ¿Quién?  | Roles y responsabilidades de los miembros del equipo en la implementación del PGD |
 
-In this lesson, we will cover some commonly practiced steps to make data. Specifically, we will focus on the "what" of making data. This covers what data formats you should use and what standards to follow to make the data as open and as readily usable as possible.
+En esta lección, abordaremos algunas pasos comunes para generar datos. Específicamente, nos centraremos en el "qué" de hacer datos. This covers what data formats you should use and what standards to follow to make the data as open and as readily usable as possible.
 
 As a first step, check if your home institution or funding source has guidance, standards, or templates for DMPs.
 
