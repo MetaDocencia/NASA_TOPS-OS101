@@ -23,11 +23,11 @@ Al finalizar esta lección deberías ser capaz de:
 - Diferenciar ejemplos del mundo real sobre cómo un equipo puede usar ciencia abierta.
 - Enumerar cuatro pasos que cualquiera puede tomar para tener un enfoque más abierto.
 
-## Planning for Open Science
+## Planificando para Ciencia Abierta
 
 <img src="../images/media/image329.png" style="width: 100%; height: auto;" />
 
-It is important to think about, discuss, and plan for desired outcomes and processes when you begin your research. Learn about where the best repositories are for your materials; discuss credit and authorship for each separate open science output, and start using open science tools to organize your work. Reach out to repositories in your discipline and institution (usually library) for help. Including this information in your plans will make you more likely to receive funding.
+Es importante pensar, discutir y planificar los resultados y procesos deseados cuando comiences tu investigación. Investiga cuáles son los mejores repositorios para tus materiales, discute sobre créditos y autorías para cada uno de los productos y comienza a usar herramientas de ciencia abierta para organizar tu trabajo. Ponte en contacto con repositorios de tu área e institución (como la biblioteca) en caso de que necesites ayuda. Si incluyes esta información en tus planes tendrás más probabilidades de recibir fondos.
 
 Planning for outputs in advance includes:
 
