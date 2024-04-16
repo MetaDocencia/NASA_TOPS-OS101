@@ -35,31 +35,31 @@ La mejor práctica al comenzar su viaje de datos abiertos es crear un Plan de Ge
 | ¿Cómo?   | Cómo permite el plan la reutilización de datos                                    |
 | ¿Quién?  | Roles y responsabilidades de los miembros del equipo en la implementación del PGD |
 
-En esta lección, abordaremos algunas pasos comunes para generar datos. Específicamente, nos centraremos en el "qué" de hacer datos. This covers what data formats you should use and what standards to follow to make the data as open and as readily usable as possible.
+En esta lección, abordaremos algunas pasos comunes para generar datos. Específicamente, nos centraremos en el "qué" de hacer datos. Esto incluye, qué formatos de datos deben utilizarse y los estándares a seguir para que los datos sean tan abiertos y tan fáciles de usar como sea posible.
 
-As a first step, check if your home institution or funding source has guidance, standards, or templates for DMPs.
+Como primer paso, compruebe si su institución o fuente de financiamiento tiene guías, estándares o plantillas para PGDs.
 
-## Selecting Data Formats and Tools for Interoperability
+## Selección de Formatos de Datos y Herramientas para Interoperabilidad
 
-### Data Format Considerations
+### Consideraciones de Formato de Datos
 
-Preferred data formats are community supported, machine-readable, non- proprietary, modifiable, and open. It might seem like there are as many data formats as there are different types of data. When you think about selecting a data format, consider the following:
+Son preferibles los formatos de datos que son compatibles con los usados por la comunidad, legibles por computadora, libres, modificables y abiertos. Puede parecer que hay tantos formatos de datos como diferentes tipos de datos. Cuando piense en seleccionar un formato de datos, considere lo siguiente:
 
-- Is the format compatible with your data type, shape, and size?
-- Does the data format have adequate metadata support?
-- Are there tools readily available or any specialized tools are required for reading the data format?
-- Is the data format routinely used in your field? Community standards ensure compatibility, interoperability, and ease of use when exchanging or sharing data among researchers or organizations of the same community.
+- ¿Es el formato compatible con el tipo, forma y tamaño de los datos?
+- ¿El formato de datos tiene soporte adecuado para metadatos?
+- ¿Hay herramientas disponibles para leer fácilmente el formato de los datos o se necesitan herramientas especializadas?
+- ¿Se utiliza el formato de datos de forma rutinaria en su disciplina? Los estándares comunitarios garantizan compatibilidad, interoperabilidad y facilidad de uso al intercambiar o compartir datos entre investigadores u organizaciones de la misma comunidad.
 
 <img src="../images/media/image31.png" style="width:100%;height:auto;" />
 
-Investigate if your funding agency, institutions, and/or data repository has additional requirements for or guidance on data formats.
+Investiga si tu agencia de financiación, instituciones y/o repositorio de datos tiene requisitos adicionales o alguna guía sobre los formatos de datos.
 
-### Non-Open Data Formats
+### Formatos de datos no abiertos
 
-A non-open (unsupported and closed/proprietary) data format refers to a file format that is not freely accessible, standardized, or widely supported by different software applications. Here are some examples of closed/proprietary data formats:
+Un formato de datos cerrado (sin soporte y con derechos de propiedad) se refiere a un formato de archivo al que no se puede acceder libremente, no está estandarizado o ampliamente soportado por diferentes aplicaciones de software. Aquí hay algunos ejemplos de formatos de datos cerrados/con derechos de propiedad:
 
-- **Adobe Photoshop (.psd):** The default proprietary file format for Adobe Photoshop, a popular image editing software.
-- **Microsoft Word (.doc/.docx):** A proprietary file format used to store word processing data.
+- **Adobe Photoshop (.psd):** El formato de archivo es propiedad de Adobe Photoshop, un popular software de edición de imágenes.
+- **Microsoft Word (.doc/.docx):** Un formato de archivo con derechos de propiedad usado para almacenar datos de procesamiento de texto.
 - **AutoCAD Drawing (.dwg):** A proprietary data format used for computer-aided design (CAD).
 
 Software applications that can read but not create DOC, PSD, or DWG formatted data usually do not fully support all the features, layers, specifications, and inner workings of the original file.
