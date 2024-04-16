@@ -149,44 +149,44 @@ Las herramientas de ciencia abierta, como los repositorios de datos, deben imple
 
 **DATAVERSE**
 
-[The Dataverse Project](https://dataverse.org/) is an open source online application to share, preserve, cite, explore, and analyze research data, available to researchers of all disciplines worldwide for free.
+[The Dataverse Project](https://dataverse. rg/) es una aplicación en línea de código abierto para compartir, preservar, citar, explorar y analizar datos de investigación, disponible gratuitamente para investigadores de todas las disciplinas del mundo.
 
 **DRYAD**
 
-[The Dryad Digital Repository](https://datadryad.org/) is a curated online resource that makes research data discoverable, freely reusable, and citable. Unlike previously mentioned tools, it operates on a membership scheme for organizations such as research institutions and publishers.
+[The Dryad Digital Repository](https://datadryad.org/) es un recurso en línea organizado que hace que los datos de investigación sean descubribles, reutilizables libremente y citables. A diferencia de las herramientas mencionadas anteriormente, opera en un esquema de membresía para organizaciones como instituciones de investigación y editores.
 
 **DATACITE**
 
-[Datacite](https://datacite.org/) is a global non-profit organization that provides DOIs for research data and other research outputs, on a membership basis.
+[Datacite](https://datacite.org/) es una organización global sin fines de lucro que proporciona DOI para datos de investigación y otros resultados de investigación, mediante una membresía.
 
 **OSF**
 
-[The Open Science Framework](https://osf.io/) is an open source platform for sharing, managing, and collaborating research.
+[The Open Science Framework](https://osf.io/) es una plataforma de código abierto para compartir, administrar y colaborar en investigación.
 
 ---
 
-Data services and resources for supporting research require robust infrastructure which relies on collaboration. An example of an initiative on the infrastructures of data services comes from the [EUDAT Collaborative Data Infrastructure](https://www.eudat.eu/), a sustained network of more than 20 European research organizations.
+Los servicios de datos y los recursos de apoyo a la investigación requieren una infraestructura sólida basada en la colaboración. Un ejemplo de iniciativa sobre infraestructuras de servicios de datos procede de la [EUDAT Collaborative Data Infrastructure- infraestructura de datos colaborativa](https://www.eudat.eu/), una red sostenida de más de 20 organizaciones europeas de investigación.
 
-Private companies also host and maintain online tools for sharing research data and files. For example, [Figshare](https://figshare.com/) is one example of a free and open access service operated by private companies. It provides DOIs for all types of files and recently developed a restricted publishing model to accommodate intellectual property (IP) rights requirements. It allows sharing the outputs only within a customized Figshare group (could be your research team) or with users in a specific IP range. Additional advances include integration with code repositories, such as GitHub, GitLab, and Bitbucket.
+Las empresas privadas también alojan y mantienen herramientas en línea para compartir datos y archivos de investigación. Por ejemplo, [Figshare](https://figshare.com/) es un ejemplo de un servicio de acceso libre y abierto operado por empresas privadas. Proporciona DOI para todo tipo de archivos y recientemente desarrolló un modelo de publicación restringido para adaptarse a los requisitos de derechos de propiedad intelectual (IP). Permite compartir las salidas sólo dentro de un grupo Figshare personalizado (podría ser su equipo de investigación) o con usuarios en un rango de IP específico. Los avances adicionales incluyen la integración con repositorios de código, como GitHub, GitLab, y Bitbucket.
 
-Additional research data repositories can be found in the publicly available [ Registry of Research Data Repositories. ](https://www.re3data.org/) [OpenAire](https://explore.openaire.eu/search/find/dataproviders), a hosted search engine, also provides a powerful search function of data and repositories. It features a filter for country, type, and thematic area, as well as enables the download of data.
+Puede encontrar más repositorios de datos de investigación en el Registry of Research Data Repositories (Registro de Repositorios de Datos de Investigación), de acceso público. ](https://www.re3data.org/) [OpenAire](https://explore.openaire.eu/search/find/dataproviders), un motor de búsqueda alojado, que también ofrece una potente función de búsqueda de datos y repositorios. Dispone de un filtro por país, tipo y área temática, además de permitir la descarga de datos.
 
-The amount of data, repositories, and different policies can be overwhelming. When in doubt of determining which repository is right for you, consult librarians, data managers and/or data stewards in your institution, or check within your discipline-specific or other community of practice.
+La cantidad de datos, repositorios y políticas diferentes puede resultar abrumadora. Si tiene dudas sobre qué repositorio es el más adecuado para usted, consulte a los bibliotecarios, gestores de datos y/o administradores de datos de su institución, o consulte en su disciplina específica u otra comunidad de práctica.
 
-### Activity 3.1: Explore Zenodo and Sign Up!
+### Actividad 3.1: Explore Zenodo y Regístrese!
 
-Explore open repositories to familiarize yourself with their structure and available product information. The most popular repository at the moment is Zenodo. Review the following 4.5-minute video to get an overview of Zenodo and then sign up for an account. You can use your ORCID to sign up if you have one or made one in the previous lesson.
+Explore los repositorios abiertos para familiarizarse con su estructura y la información disponible sobre sus productos. El repositorio más popular actualmente es Zenodo. Vea el siguiente vídeo de 4,5 minutos para obtener una visión general de Zenodo y, a continuación, regístrese para obtener una cuenta. Puede utilizar su ORCID para inscribirse si tiene uno o lo ha creado en la lección anterior.
 
 [Watch Video](https://www.youtube.com/watch?v=BPVSErzNtME\&embeds_referring_euri=https%3A%2F%2Fopenscience101.org%2F\&feature=emb_imp_woyt)
 
-## Tools to Help with Using and Making Open Data
+## Herramientas para ayudar con el uso y la creación de datos abiertos
 
-### Data Formats
+### Formato de los datos
 
-A useful file format can be read into memory by some software. Think of the format as a tool for making data accessible. Easy to use formats feature:
+Un formato de archivo útil puede ser leído en memoria por algún software. Piense en el formato como una herramienta para hacer accesibles los datos. Formatos fáciles de usar:
 
-- A simple, easy to understand structure.
-- A clear and open specification for the format that is ideally not tied to a specific software product.
+- Una estructura simple y fácil de entender.
+- Una especificación clara y abierta del formato que, idealmente, no esté vinculada a un producto de software específico.
 - Open software libraries and APIs that can parse the format.
 
 The formats that are considered the most interoperable against the criteria above include Comma Separated Values (CSV), Extensible Markup Language (XML), and JavaScript Object Notation (JSON). Other common formats for researchers include binary array-based formats like Network Common Data Form (NetCDF), Hierarchical Data Format (HDF), Geotiff, Flexible Image Transport System (FITS), and other formats designed for cloud storage and access like [Zarr](https://zarr.dev/), [Cloud Optimized GeoTIFF](https://www.cogeo.org/), and [Parquet](https://parquet.apache.org/). Many of these formats have tools that check datasets for compliance and readability.
