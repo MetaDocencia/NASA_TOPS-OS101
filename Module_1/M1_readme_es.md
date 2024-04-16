@@ -1,6 +1,6 @@
 # Módulo 1: Damos la Bienvenida al Ethos de la Ciencia Abierta
 
-**Welcome to The Ethos of Open Science**
+**Bienvenidos y Bienvenidas al Ethos de la Ciencia Abierta**
 
 ## Acerca de este modulo
 
@@ -8,38 +8,38 @@ Bienvenido/a a este módulo introductorio sobre ciencia abierta. La ciencia abie
 
 ### Público objetivo
 
-Este módulo es para cualquier persona que tenga interés en las prácticas de ciencia abierta y que quisiera aprender acerca de los beneficios y cuáles son las mejores prácticas para comenzar hoy mismo.
+Este módulo es para cualquier persona que tenga interés en conocer las prácticas de ciencia abierta, sus beneficios y cuáles son las mejores prácticas para comenzar a implementarlas rápidamente.
 
 ### Objetivos de aprendizaje
 
 Después de completar este módulo, deberías poder:
 
-- Explicar qué es la ciencia abierta, por qué es algo positivo y deberás poder enumerar algunos de los beneficios y desafíos de la adopción de las prácticas en ciencia abierta.
-- Describir las prácticas de la ciencia abierta, incluídas las consideraciones a la hora de redactar un plan de gestión y las tareas dentro del marco "Usar, Hacer, Compartir".
-- Evaluate available options when determining whether research products should or should not be open.
-- List ways to connect with others who are part of the open science community.
+- Explicar qué es la ciencia abierta y por qué se la entiende como una práctica positiva.También deberás poder enumerar algunos de los beneficios y los desafíos que supone la adopción de las prácticas en ciencia abierta.
+- Describir las prácticas de la ciencia abierta, incluídos los puntos más importantes que se deben tener en cuenta a la hora de redactar un plan de gestión así como también las tareas enmarcadas en el enfoque de "Usar, Hacer, Compartir".
+- Evaluar las diferentes opciones disponibles a la hora de determinar si los productos de investigación deben o no estar abiertos.
+- Listar formas de conectarse con otras comunidades que forman parte de la comunidad científica abierta.
 
-## Key terms
+## Términos clave
 
-Select the term to see the description.
+Selecciona el término para ver la descripción.
 
-**Open Science** – The principle and practice of making research products and processes available to all, while respecting diverse cultures, maintaining security and privacy, and fostering collaborations, reproducibility and equity.
+**Ciencia Abierta** – La ciencia abierta es el principio y la práctica que se llevan adelante para que los productos y procesos de investigación estén disponibles para todas las personas, respetando la diversidad cultural, manteniendo la seguridad y la privacidad y fomentando la colaboración, la reproducibilidad y la equidad.
 
-**Open Data** – Data that can be freely used, re-used and redistributed by anyone. Learn more [here](https://opendatahandbook.org/guide/en/what-is-open-data/).
+**Datos abiertos** – Datos que pueden ser libremente utilizados, reutilizados y redistribuidos por cualquier persona. Más información [aquí].(https://opendatahandbook.org/guide/es/what-is-open-data/).
 
-**Open Source** – Computer programs in which the source code is available to the general public for use or modification from its original design. Learn more [here.](https://en.wikipedia.org/wiki/Open_source)
+**Código abierto** - Programas informáticos cuyo código fuente está a disposición del público en general para su uso o modificación a partir de su diseño original. Más información [aquí](https://en.wikipedia.org/wiki/Open_source)
 
-**Open Access** – Free access to information and unrestricted use of electronic resources for everyone. Learn more [here.](https://en.unesco.org/open-access/what-open-access)
+**Acceso abierto** - Acceso gratuito para todas las personas y uso sin restricciones de  la información y de los recursos.  Más información [aquí].
 
-**Interdisciplinary** – Combining multiple [academic disciplines](https://en.wikipedia.org/wiki/Academic_discipline) into one activity, such as a research project. Learn more [here.](https://en.wikipedia.org/wiki/Interdisciplinarity)
+**Interdisciplinario** – Combinar múltiples [disciplinas académicas](https://en.wikipedia.org/wiki/Academic_discipline) en  una misma actividad, como, por ejemplo, un proyecto de investigación. Más información [aquí].(https://en.wikipedia.org/wiki/Interdisciplinarity)
 
-**Equitable** – Indicates the absence of unfair, avoidable or remediable differences among groups of people, whether those groups are defined socially, economically, demographically, or geographically or by other dimensions of inequality (e.g. sex, gender, ethnicity, disability, or sexual orientation). Learn more [here.](https://www.who.int/health-topics/health-equity)
+**Equitativo** -  Más información [aquí].(https://www.who.int/health-topics/health-equity)
 
-**Citizen Science or Community Science** – The practice of public participation and collaboration in scientific research to increase scientific knowledge. Learn more [here.](https://education.nationalgeographic.org/resource/citizen-science/)
+**Ciencia ciudadana o ciencia comunitaria** - La práctica de la participación ciudadana y la colaboración comunitaria en la investigación para aumentar el conocimiento científico. Más información [aquí].(https://education.nationalgeographic.org/resource/citizen-science/)
 
-**Open Research** – How research is performed and how knowledge is shared based on the principle that research should be as open as possible. Learn more [here.](https://www.ukri.org/what-we-do/supporting-healthy-research-and-innovation-culture/open-research/)
+**Investigación abierta** - Cómo se lleva a cabo la investigación y cómo se comparten los conocimientos basándose en el principio de que la investigación debe ser lo más abierta posible. Más información [aquí].(https://www.ukri.org/what-we-do/supporting-healthy-research-and-innovation-culture/open-research/)
 
-**Open Scholarship** – An expansive term meant to encompass the rapid and widespread sharing of a range of scholarly activities and outputs across multiple disciplines. Learn more [here.](https://www.heliosopen.org/about)
+**Investigación abierta** - Término amplio que engloba el intercambio rápido y generalizado de una serie de actividades y resultados académicos en múltiples disciplinas. Más información [aquí].(https://www.heliosopen.org/about)
 
 **Reproducibility and Replicability** – Reproducibility is defined as obtaining consistent results using the same data and code as an original study (synonymous with computational reproducibility). Replicability means obtaining consistent results across studies aimed at answering the same scientific question using new data or other new computational methods. Learn more [here.](https://www.nationalacademies.org/news/2019/09/reproducibility-and-replicability-in-research)
 
