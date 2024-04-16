@@ -63,86 +63,87 @@ Los productos de investigación bien documentados también demuestran la calidad
 
 <img src="../images/media/image262.png" style="width: 350px; height: auto;" />
 
-Además de documentar tus propias investigaciones, la práctica de dar crédito a todos los que han contribuido fortalecerá su reputación en la comunidad científica y actualizará los valores compartidos de la ciencia abierta. A medida que las personas ganen confianza en los beneficios de la investigación cooperativa, también comenzarán a dar crédito a más contribuciones que antes podrían no haber sido reconocidas. Se puede dar un trabajo diferente como parte de un documento en una declaración de contribución del autor como el ejemplo compartido aquí.
+Además de documentar tus propias investigaciones, la práctica de dar crédito a todos los que han contribuido fortalecerá su reputación en la comunidad científica y actualizará los valores compartidos de la ciencia abierta. A medida que las personas ganen confianza en los beneficios de la investigación cooperativa, también comenzarán a dar crédito a más contribuciones que antes podrían no haber sido reconocidas. Se puede dar un trabajo diferente como parte de un artículo en una declaración de contribución del autor como el ejemplo que se comparte aquí.
 
 <img src="../images/media/image260.jpg" style="width: 100%; height: auto;" />
 
-The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 license. DOI: 10.5281/zenodo.3332807.
+La ilustración del proyecto Turing Way de Scriberia. Utilizada bajo una licencia CC-BY 4.0. DOI: 10.5281/zenodo.3332807.
 
 ---
 
-### More Visibility and Impact
+### Más visibilidad e impacto
 
-In addition to improved scientific accuracy, adhering to open science practices potentially offers personal career benefits to researchers. Openly published research has significantly more visibility and impact potential with large audiences across the internet, which can lead to more citations, like-minded collaborators, and career/funding opportunities, according to a 2016 [study](https://pubmed.ncbi.nlm.nih.gov/27387362/).
+Además de mejorar la precisión científica, adherirse a las prácticas científicas abiertas potencialmente ofrece beneficios personales para los investigadores. La investigación publicada abiertamente tiene mucho más visibilidad y potencial de impacto con grandes audiencias a través de Internet, que puede llevar a más citas, colaboradores de ideas afines y oportunidades de carrera/financiación, de acuerdo con un [estudio](https://pubmed. cbi.nlm.nih.gov/27387362/) del 2016.
 
 <img src="../images/media/image263.png" style="width:100%;height:auto;" />
 
-#### Emerging evidence that some aspects of open science can increase your citations.
+#### Emergente evidencia de que algunos aspectos de la ciencia abierta pueden aumentar sus citas.
 
-Publishing open access increases citation count by 18%, according to a 2018 [study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7176083/).
+Publicar acceso abierto incrementa el número de citas en un 18%, según un [estudio](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7176083/) del 2018.
 
-Articles that make their data openly accessible via a direct link to a repository see ~25% higher citation impact, according to a 2020 study.
+Los artículos que hacen que sus datos sean abiertamente accesibles a través de un enlace directo a un depósito hace aproximadamente 25% más de impacto en la cita, de acuerdo con un estudio de 2020.
 
-Publishing as open access may have prohibitive costs for some researchers depending on the venue. There are often other options that allow authors to share their work freely and openly. In Module 5 on Open Results, we discuss some of these other options including preprints and diamond open access.
+Publicar como acceso abierto puede tener costes prohibitivos para algunos investigadores dependiendo del lugar. A menudo hay otras opciones que permiten a los autores compartir su trabajo libre y abiertamente. En el Módulo 5 sobre Resultados Abiertos, discutimos algunas de estas otras opciones incluyendo preimpresiones y acceso abierto diamante.
 
-There are many different research outputs that can be openly shared and made citable:
+Hay muchos resultados de investigación diferentes que se pueden compartir abiertamente y hacer cítables:
 
-- Code
-- Data
-- Research talk slides
-- Lectures
-- Blog posts
-- And more!
+- Código
+- Datos
+- Diapositivas de charlas de investigación
+- Clases
+- Entradas de blog
+- ¡Y más!
 
-All of these are tangible, scientific outputs! Much of our time as researchers is spent writing code, collecting data, putting together lectures and not \*just\* publications. Publicly sharing materials publicly makes receiving a citation more likely.
+¡Todo esto son resultados concretos y científicos! Gran parte de nuestro tiempo como investigadores se dedica a escribir código, recopilar datos, reunir clases y no solo publicaciones. Compartir públicamente materiales hace más probable recibir una cita.
 
 <img src="../images/media/image269.png" style="width: 100%; height: auto;" />
 
-### More Collaborations
+### Más colaboraciones
 
-Open science practices can also enable stronger collaborations, both within and between disciplines, as evidenced by a 2016 [<u>study</u>](https://liberquarterly.eu/article/view/10819). The ease of access to open data brings new agents to the landscape that allow for broader and more diverse participation. Through open science practices, such as pre-registration where researchers document their research plan at the start of a study, one allows for a stronger research design because feedback from various collaborators and stakeholders can be solicited before data collection begins. Similarly, preprints allow for swifter feedback on conclusions drawn from data once it is collected.
+Las prácticas de ciencias abiertas también pueden permitir colaboraciones más fuertes, tanto dentro como entre disciplinas, como lo demuestra un [estudio]
+(https://liberquarterly.eu/article/view/10819) del 2016. La facilidad de acceso a los datos abiertos trae nuevos agentes al paisaje que permiten una participación más amplia y diversa. A través de prácticas científicas abiertas, como el pre-registro en el que los investigadores documentan su plan de investigación al comienzo de un estudio uno permite un diseño de investigación más fuerte porque se puede solicitar la retroalimentación de varios colaboradores y partes interesadas antes de que comience la recolección de datos. Similarmente, las preimpresiones permiten una retroalimentación más rápida sobre las conclusiones extraídas de los datos una vez que se recogen.
 
-### Activity 2.1: Benefits to You
+### Actividad 2.1: Beneficios para ti
 
-In this activity, reflect on your answers to the questions and then compare your thoughts to the key takeaways.
+En esta actividad, reflexiona sobre tus respuestas a las preguntas y luego compara tus pensamientos con las claves para llevarlos.
 
 <img style="width:350px;height:auto;" src="../images/media/lightbulb.png">
 
-- Can you find your own previous work, post-publication and/or pre-publication? Can you bring your research materials (data, code, results) with you if you change institutions?
-- Can you find the work of your collaborators? Of scientists in other fields that you find interesting? Have you reached out to others to collaborate with them after finding interesting results?
-- Are people in your field giving and getting credit for work done?
+- ¿Puedes encontrar tu propio trabajo, post publicación y/o prepublicación? ¿Puedes llevar tus materiales de investigación (datos, código, resultados) contigo si cambias de institucion?
+- ¿Puedes encontrar el trabajo de tus colaboradores? ¿De científicos de otros campos que usted encuentra interesante? ¿Te has acercado a otros para colaborar con ellos después de encontrar resultados interesantes?
+- ¿Están las personas en su campo dando y obteniendo crédito por el trabajo realizado?
 
-**Key Takeaways: Beneﬁts to You**
+**Claves para llevarse: Beneficios para ti**
 
-- Being more open encourages best research practices and makes it easier for you to build on your work.
-- Open results have more visibility and impact.
-- Open science encourages more collaborative science.
+- Ser más abierto fomenta las mejores prácticas de investigación y te facilita desarrollar tu trabajo.
+- Los resultados abiertos tienen más visibilidad e impacto.
+- La ciencia abierta fomenta más ciencia colaborativa.
 
-## Benefits to Science
+## Beneficios a la ciencia
 
-### Transparent Science is Reproducible Science
+### La ciencia transparente es ciencia reproducible
 
-Cuando las computadoras se utilizan para producir investigaciones científicas, el código se considera un "método". Much like a lab research setting, a set of instructions for working with cells or agar plates can be considered a method. Peer-reviewed methods are an essential step in the scientific process. When these steps are not shared, no-one else can reproduce the work or build upon it for future scientific endeavors. Open methods allow people to judge whether or not the methods are trustworthy. In Lesson 1, the story of the Global Cooling Error presented a poignant example of science that was not reproducible because of a lack of data transparency.
+Cuando las computadoras se utilizan para producir investigaciones científicas, el código se considera un "método". Al igual que un entorno de investigación de laboratorio, un conjunto de instrucciones para trabajar con células o placas de agar puede considerarse un método. Los métodos de revisión por pares son un paso esencial en el proceso científico. Cuando estas medidas no se compartan, nadie más puede reproducir el trabajo o construir sobre él para futuros esfuerzos científicos. Los métodos abiertos permiten que la gente juzgue si los métodos son o no dignos de confianza. En la lección 1, la historia del "Global Cooling Error" presentó un ejemplo conmovedor de ciencia que no era reproducible debido a la falta de transparencia de los datos.
 
-### Open Science Can Improve Accuracy
+### La ciencia abierta puede mejorar la precisión
 
 <img src="../images/media/image267.png" style="width: 350px; height: auto;" />
 
-A [study](https://www.nature.com/articles/s41562-021-01193-7) from 2022 found that researchers who practice transparency and promote verifiability benefit from readers and stakeholders who judge whether results presented are accurate and, according to a related [study](https://www.cmu.edu/dietrich/sds/docs/loewenstein/MeasPrevalQuestTruthTelling.pdf), that the results are not produced by questionable research practices that lead to misleading or unreliable results.
+Un [estudio](https://www.nature. om/articles/s41562-021-01193-7) de 2022 descubrió que los investigadores que practican la transparencia y promueven la verificabilidad se benefician de lectores e interesados que juzgan si los resultados presentados son exactos y, de acuerdo a un [estudio] relacionado (https://www. mu.edu/dietrich/sds/docs/loewenstein/MeasPrevalQuestTruthTelling.pdf), que los resultados no son producidos por prácticas de investigación cuestionables que conducen a resultados engañosos o poco fiables.
 
-Open science also allows others to scrutinize the analytic decisions of researchers, such as whether the analysis was planned before or after observing the data, according to a 2018 [study](https://www.pnas.org/doi/full/10.1073/pnas.1708274114).
+La ciencia abierta también permite a otros examinar las decisiones analíticas de los investigadores, por ejemplo si el análisis fue planeado antes o después de observar los datos, de acuerdo a un [estudio](https://www. nas.org/doi/full/10.1073/pnas.1708274114) del 2018.
 
-This allows others to check if they can arrive at the same conclusion as the original research team, and facilitates stronger public trust and support, according to a 2021 UNESCO [report](https://unesdoc.unesco.org/ark:/48223/pf0000379949).
+Esto permite a otros comprobar si pueden llegar a la misma conclusión que el equipo de investigación original, y facilita una mayor confianza y apoyo del público, de acuerdo con un [reporte](https://unesdoc. nesco.org/ark:/48223/pf0000379949) de la UNESCO de 2021.
 
 <img src="../images/media/image216.jpg" style="width: 350px; height: auto;" />
 
-Here is an example of open science that was able to correct errors in a healthcare study quickly, saving lives! In 2021, a [study](https://www.nature.com/articles/s41598-021-84092-1) was published that found that Covid stay-at-home policies did not stop transmission of the virus. The study was highlighted by prominent lockdown skeptics and news sites – swiftly gaining the attention of many people right at a critical time in the pandemic. Here was a scientific research article that said lockdowns don’t work! The authors of the study published source code and data with their paper. This allowed others to quickly look at how they arrived at their conclusion. Almost immediately, questions were raised about the paper and within nine months, two papers [here](https://www.nature.com/articles/s41598-021-02461-2) and [here](https://www.nature.com/articles/s41598-021-02096-3) pointed out major analysis method errors. The original paper was retracted. We all make mistakes. In this case, the paper had major policy implications and because the original authors had practiced open science, the error was rapidly corrected!
+He aquí un ejemplo de ciencia abierta que fue capaz de corregir errores en un estudio de salud rápidamente, salvando vidas! En 2021, se publicó un [estudio](https://www.nature.com/articles/s41598-021-84092-1) que descubrió que las políticas de Covid "quedarse en casa" no detuvieron la transmisión del virus. El estudio fue destacado por los prominentes escépticos y los sitios de noticias de bloqueo, lo que rápidamente aumentó la atención de muchas personas en un momento crítico en el pandemia. Aquí estaba un artículo de investigación científica que dijo que los bloqueos no funcionan! Los autores del estudio publicaron el código fuente y los datos con su artículo. Esto permitió que otros examinaran rápidamente cómo llegaron a su conclusión. Casi inmediatamente, se plantearon preguntas sobre el documento y en nueve meses, dos documentos [aqui](https://www.nature.com/articles/s41598-021-02461-2) y [aqui](https://www.nature.com/articles/s41598-021-02096-3) señalaron errores importantes en el método de análisis. El documento original fue retirado. Todos cometemos errores. En este caso, el documento tenía importantes implicaciones políticas y debido a que los autores originales habían practicado la ciencia abierta, el error se corrigió rápidamente!
 
-### Open Science Leads to More Discoveries
+### Abrir la ciencia conduce a más descubrimientos
 
-The Solar and Heliospheric Observatory (SOHO) has been sending home images of our dynamic sun, opening up a new era of solar observation. It was designed for heliophysics. However, planetary scientists found SOHO useful for its ability to spot comets that pass extremely close to the sun, known as sungrazers. To this day, SOHO is one of the best sources for views of the giant surface explosions regularly produced by the sun called coronal mass ejections, or CMEs, which can hurl a million tons of solar particles off into space. This field of view is large enough to see a sungrazing comet as it sling shots around the sun.
+El Observatorio Solar y Heliosférico (SOH) ha estado enviando imágenes de nuestro sol dinámico, abriendo una nueva era de observación solar. Fue diseñada para la heliofísica. Sin embargo, científicos planetarios encontraron que SOHO es útil por su habilidad para detectar cometas que pasan muy cerca del sol, conocidos como pastores solares. Hasta hoy SOHO es una de las mejores fuentes de vista de las extensiones de superficie gigante producidas regularmente por el sol llamado eyecciones de masa coronal, o CMEs, que pueden tener un millón de toneladas de partículas solares en el espacio. Este campo de visión es lo suficientemente grande como para ver un cometa rozando el sol mientras gira alrededor del sol.
 
-SOHO's great success as a comet finder is, of course, dependent on the people who sift through SOHO's data – a task made open to the world through real-time publicly available data.
+El gran éxito de SOHO como buscador de cometas depende, por supuesto, de las personas que examinan los datos de SOHO - una tarea que se abrio al mundo a través hacer publicos los datos en tiempo real.
 
 <img src="../images/media/image268.jpg" style="width: 350px; height: auto;" />
 
