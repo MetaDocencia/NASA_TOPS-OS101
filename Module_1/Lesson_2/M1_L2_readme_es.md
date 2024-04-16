@@ -1,6 +1,6 @@
 # Lección 2: ¿ Por qué es importante la Ciencia Abierta?
 
-## Navigation
+## Contenidos
 
 - [La Ciencia Abierta Rompe Barreras y Promueve la Innovación](#la-ciencia-abierta-rompe-barreras-y-promueve-la-innovación)
 - [Beneficios Personales](#beneficios-personales)
@@ -11,19 +11,19 @@
 
 ## Resumen
 
-In this lesson, you learn how adopting open science benefits you as a researcher and society. También aprenderemos sobre algunos de los desafíos y obstáculos que se presentan al utilizar los principios de la ciencia abierta y cómo superarlos.
+En esta lección aprendes cómo la adopción de la ciencia abierta te beneficia como investigador y sociedad. También aprenderemos sobre algunos de los desafíos y obstáculos que se presentan al utilizar los principios de la ciencia abierta y cómo superarlos.
 
-## Learning Objectives
+## Objetivos de aprendizaje
 
-After completing this lesson, you should be able to:
+Al finalizar esta lección deberías ser capaz de:
 
-- Describe the ways in which open science benefits your career with attribution, reach, and more collaborations.
-- Describe the ways in which open science can advance science.
-- List the benefits society receives when open science principles are adopted.
+- Describir las maneras en que la ciencia abierta beneficia su carrera con atribuciones, alcance y más colaboraciones.
+- Describir las formas en que la ciencia abierta puede promover la ciencia.
+- Listar los beneficios que la sociedad obtiene cuando se adoptan principios científicos abiertos.
 
 ## La Ciencia Abierta Rompe Barreras e Impulsa la Innovación
 
-"We need more WE science rather than ME science."
+"Necesitamos más ciencias "Nosotros" en lugar de ciencia "Yo".
 
 **Harlan Krumholz,**
 
@@ -33,37 +33,37 @@ After completing this lesson, you should be able to:
 
 ---
 
-As NASA looks outward, we face both known and unforeseen challenges. These dynamic challenges will demand a new approach to science that achieves success through a responsive and inclusive scientific ecosystem. This requires more diverse teams - teams with more hands, eyes, and brains that have diverse experiences to participate.
+A medida que la NASA mira hacia el exterior, nos enfrentamos a desafíos conocidos e inolvidables. Estos desafíos dinámicos exigirán un nuevo enfoque de la ciencia que logre el éxito a través de un ecosistema científico receptivo e inclusivo. Esto requiere equipos más diversos: equipos con más manos, ojos y cervezas que tengan diversas experiencias para participar.
 
-In the previous lesson, we learned about foundational concepts that define open science – its importance, its purpose, and its proven successes. In this lesson, we address key benefits and challenges of implementing open science principles in research activities.
+En la lección anterior, aprendimos sobre conceptos fundacionales que definen la ciencia abierta -su importancia, su propósito y sus éxitos probados-. En esta lección, abordamos los beneficios y retos clave de la implementación de principios científicos abiertos en las actividades de investigación.
 
-This lesson presents a perspective on the development of science that focuses on the intersection of scientific results, the process of creation, and the stakeholders that constitute the community.
+Esta lección presenta una perspectiva sobre el desarrollo de la ciencia que se centra en la intersección de los resultados científicos, el proceso de creación y las partes interesadas que constituyen la comunidad.
 
-This lesson highlights the benefits of open science to a wide range of stakeholder groups, along with examples that invite readers to investigate further. Additionally, this lesson explores common challenges to adopting open science practices.
+Esta lección destaca los beneficios de la ciencia abierta a una amplia gama de grupos de interesados, junto con ejemplos que invitan a los lectores a investigar más. Adicionalmente, esta lección explora los retos comunes para adoptar prácticas científicas abiertas.
 
 <img src="../images/media/image377.jpg" style="width: 100%; height: auto;" />
 
-Imagen: Existen muchos beneficios en la Ciencia Abierta. [CC-BY Danny Kingsley & Sarah Brown](https://blogs.uef.fi/ueflibrary-bors/benefits-and-challenges-of-open-science/).
+Imagen: Existen muchos beneficios en la Ciencia Abierta. [CC-BY Danny Kingsley y Sarah Brown](https://blogs.uef.fi/ueflibrary-bors/benefits-and-challenges-of-open-science/).
 
-## Benefits to You
+## Beneficios para ti
 
-### You are Your Best Future Collaborator!
+### ¡Eres tu Mejor Colaborador Futuro!
 
-Doing open science not only lets other people understand and reproduce your results, but lets you do so as well! Implementing open science principles such as good documentation and version control helps you, potential collaborators, and anyone else to understand your results.
+Hacer ciencia abierta no sólo permite que otras personas entiendan y reproduzcan tus resultados, sino que también te permite hacerlo! Implementar principios de ciencia abierta, tales como buena documentación y control de versiones, le ayuda, colaboradores potenciales y cualquier otra persona a entender sus resultados.
 
-If your work is shared publicly, you will never lose access even if you move institutes or change jobs. Many researchers move around institutions and organizations. By having your data and software and results in repositories, you will always have access to them.
+Si tu trabajo se comparte públicamente, nunca perderás el acceso incluso si tu te mueves de institución o cambias de empleo. Muchos investigadores se mueven por instituciones y organizaciones. Al tener sus datos y software y resultados en los repositorios, siempre tendrá acceso a ellos.
 
 <img src="../images/media/image261.png" style="width: 350px; height: auto;" />
 
-Implementing best practices for open science in your work not only helps you document, it could strengthen your funding proposals. Funding agencies have begun to realize that openly sharing research products can increase their citations received and uptake, resulting in a better return on investment.
+La implementación de las mejores prácticas para la ciencia abierta en su trabajo no sólo le ayuda a documentar, sino que podría fortalecer sus propuestas de financiación. Las agencias de financiación han comenzado a darse cuenta de que compartir abiertamente productos de investigación puede aumentar sus citas recibidas y aplicadas, lo que resulta en un mejor rendimiento de la inversión.
 
-Well-documented research products also demonstrate the quality of your work, which helps with public communication efforts and can also attract better collaborators. Reliability and a strong work ethic motivate others to want to work with you.
+Los productos de investigación bien documentados también demuestran la calidad de su trabajo, lo que ayuda en los esfuerzos de comunicación pública y también puede atraer mejores colaboradores. La fiabilidad y una ética de trabajo fuerte motivan a los demás a querer trabajar contigo.
 
-### Give and Get Credit When Using Results of Others
+### Dar y obtener crédito al usar los resultados de otros
 
 <img src="../images/media/image262.png" style="width: 350px; height: auto;" />
 
-In addition to documenting your own research, the practice of giving credit to everyone who has contributed will strengthen your scientific community reputation and actualize the shared values of open science. As people gain confidence in the benefits of cooperative research, they will also start giving credit to more contributions that might previously have gone unacknowledged. Different work performed as part of a paper can be given in an author contribution statement like the example shared here.
+Además de documentar tus propias investigaciones, la práctica de dar crédito a todos los que han contribuido fortalecerá su reputación en la comunidad científica y actualizará los valores compartidos de la ciencia abierta. A medida que las personas ganen confianza en los beneficios de la investigación cooperativa, también comenzarán a dar crédito a más contribuciones que antes podrían no haber sido reconocidas. Se puede dar un trabajo diferente como parte de un documento en una declaración de contribución del autor como el ejemplo compartido aquí.
 
 <img src="../images/media/image260.jpg" style="width: 100%; height: auto;" />
 
