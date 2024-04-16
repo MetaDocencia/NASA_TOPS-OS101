@@ -147,9 +147,9 @@ El gran éxito de SOHO como buscador de cometas depende, por supuesto, de las pe
 
 <img src="../images/media/image268.jpg" style="width: 350px; height: auto;" />
 
-Un grupo de astrónomos voluntarios aficionados se dedican a buscar estos datos a través del Proyecto Sungrazer, financiado por la NASA. While scientists often search the imagery for very specific events, various members of the astronomy community choose to comb through all available imagery in fine detail. Over 2,300 comets have been found, 75% by citizen scientists. This created a great training dataset for algorithms. NASA scientists had algorithms to find comets that they felt that were sufficiently accurate.
+Un grupo de astrónomos voluntarios aficionados se dedican a buscar estos datos a través del Proyecto Sungrazer, financiado por la NASA. Mientras que los científicos suelen buscar en las imágenes acontecimientos muy concretos, varios miembros de la comunidad astronómica optan por analizar con detalle todas las imágenes disponibles. Mas de 2.300 cometas han sido encontrados, 75% por ciudadanos científicos. Esto creó un gran conjunto de datos que sirven de entrenamiento para algoritmos. Los científicos de la NASA disponían de algoritmos para encontrar cometas que consideraban suficientemente precisos.
 
-In 2022 though, NASA decided to fund a challenge open to the public to develop new algorithms and guess what? New algorithms were discovered along with two new comets!
+Sin embargo, en 2022, la NASA decidió financiar un desafío abierto al público para desarrollar nuevos algoritmos y, ¿adivina qué? Dos nuevos algoritmos fueron descubiertos juntos con dos cometas nuevos!
 
 ### Quality and Diversity of Scholarly Communications
 
