@@ -65,8 +65,8 @@ Apertura - Un concepto o rasgo de personalidad que implica transparencia, colabo
 ### [Lección 1: ¿Qué es la Ciencia Abierta?](./Lección_1)
 
 - [Motivación por la ciencia abierta](./Lesson_1#motivation-for-open-science)
-- [What is Open Science?](./Lesson_1#what-is-open-science)
-- [¿Quién practica la ciencia abierta?](./Lección_1#quién-ciencia-abierta)
+- [¿Qué es la ciencia abierta?](./Lección_1# Qué-es-la-ciencia-abierta)
+- [¿Quién practica la ciencia abierta?](./Lección_1#¿-quién-practica-la-ciencia-abierta_?)
 - [Lección 1: Resumen](./Lección_1#lección-1-resumen)
 - [Lección 1: Comprobación del conocimiento](./Lección_1#comprobación del conocimiento-1)
 
