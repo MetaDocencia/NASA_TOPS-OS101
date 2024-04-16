@@ -16,11 +16,11 @@ Este módulo está casi terminado pero hay mucha más información disponible so
 
 ## Objetivos de aprendizaje
 
-After completing this lesson, you should be able to:
+Al finalizar esta lección deberías ser capaz de:
 
-- List considerations to include in a planning for open science and define an open science and data management plan (OSDMP).
-- Describe the different parts of the scientific workflow and how open science can be integrated into it.
-- Differentiate real world examples of how a team can use open science.
+- Reconocer los temas a incluir en una planificación para ciencia abierta y definir un plan de ciencia abierta y gestión de datos (PCAGD) (en inglés, open science and data management plan, OSDMP).
+- Describir las distintas partes del flujo de un trabajo científico y cómo la ciencia abierta puede integrarse a él.
+- Diferenciar ejemplos del mundo real sobre cómo un equipo puede usar ciencia abierta.
 - List four steps that anyone can take to be more open.
 
 ## Planning for Open Science
