@@ -4,7 +4,7 @@
 
 ## Acerca de este modulo
 
-Bienvenido/a a este módulo introductorio sobre ciencia abierta. La ciencia abierta es el principio y la práctica de hacer que los productos y procesos de investigación estén disponibles para todas las personas, respetando la diversidad cultural, manteniendo la seguridad y la privacidad y fomentando la colaboración, la reproducibilidad y la equidad. En este módulo, analizaremos más en profundidad lo que es la ciencia abierta, su panorama actual, así como los beneficios y desafíos que atraviesa. A continuación, echaremos un vistazo por las prácticas de la ciencia abierta, incluyendo un estudio de caso. Para comenzar tu recorrido en la ciencia abierta, te presentamos algunas acciones que puedes comenzar a realizar a partir de hoy, por ejemplo: explorar las comunidades con las que puedes trabajar colaborativamente.
+Bienvenido/a a este módulo introductorio sobre ciencia abierta. La ciencia abierta es el principio y la práctica que se llevan adelante para que los productos y procesos de investigación estén disponibles para todas las personas, respetando la diversidad cultural, manteniendo la seguridad y la privacidad y fomentando la colaboración, la reproducibilidad y la equidad. En este módulo, analizaremos más en profundidad lo que es la ciencia abierta, su panorama actual, así como los beneficios y desafíos que atraviesa. A continuación, comenzaremos a acercarnos a las prácticas de la ciencia abierta y conoceremos un estudio de caso. Para comenzar tu recorrido en la ciencia abierta, te presentamos algunas acciones que puedes comenzar a realizar a partir de hoy, por ejemplo: explorar las comunidades con las que puedes trabajar colaborativamente.
 
 ### Público objetivo
 
