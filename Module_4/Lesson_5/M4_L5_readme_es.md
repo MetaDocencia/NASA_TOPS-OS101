@@ -140,18 +140,18 @@ Initial simulation modeling and the development of Python analysis software will
 
 ## Engage and Build Communities
 
-Open software communities are social learning spaces where individuals come together to learn a new skill, exchange knowledge and experiences, and then apply what they've learned from the community in their day-to-day work.
+Las comunidades de software abierto son espacios de aprendizaje social donde las personas se reúnen para aprender una nueva habilidad, intercambiar conocimientos y experiencias, y luego aplicar lo que han aprendido de la comunidad en su trabajo diario.
 
-#### Communities offer:
+#### Las comunidades ofrecen:
 
-- A low entry point for learning and improving your use of software in research.
-- An opportunity to share individual experiences, identify common hurdles, and iteratively enhance knowledge and resolve problems.
-- A way to build the culture around open source software in science and a great way to keep updated on the latest tools and practices.
-- A non-hierarchical community of practice where all members of the community should be treated equally.
+- Un punto de entrada accesible para aprender y mejorar el uso del software en la investigación.
+- Una oportunidad para compartir experiencias individuales, identificar obstáculos comunes y mejorar de manera iterativa el conocimiento y resolver problemas.
+- Una forma de fomentar la cultura del software de código abierto en la ciencia y una excelente manera de mantenerse actualizado sobre las últimas herramientas y prácticas.
+- Una comunidad de prácticas no jerárquica donde todos los miembros de la comunidad deben ser tratados de manera igualitaria.
 
-### Connect with Communities
+### Conectarse con las comunidades
 
-Here are some communities that can help you get started:
+Aquí hay algunas comunidades que pueden ayudarte a comenzar:
 
 - [PyData](https://pydata.org/)
 - [SPEC](https://scientific-python.org/specs/)
@@ -166,25 +166,25 @@ Here are some communities that can help you get started:
 - [Pangeo](https://pangeo.io/)
 - [ObsPy](https://discourse.obspy.org/)
 
-Subscribe to and/or participate in forums (e.g., GitHub discussions, Stack Overflow, or discipline/software specific), in-person workshops, conferences, hackathons, etc., related to your discipline or software you contribute to or use. Connect on social media. And last but not least, talk with your colleagues!
+Subscríbete y/o participa en foros (por ejemplo, discusiones en GitHub, Stack Overflow, o específicos de tu disciplina/software), talleres presenciales, conferencias, encuentros de hackatón, etc., relacionados con tu disciplina o con el software al que contribuyes o utilizas. Conéctate en redes sociales. Y por último, pero no menos importante, ¡habla con tus colegas!
 
-**Explore: The Turing Way**
+**Explora: The Turing Way**
 
-**Hit the button to ﬁnd out more information on building a community.**
+**Pulsa el botón para obtener más información sobre la construcción de una comunidad.**
 
-[CLICK TO LEARN](https://the-turing-way.netlify.app/collaboration/new-community.html)
+[HAZ CLIC PARA APRENDER MÁS](https://the-turing-way.netlify.app/collaboration/new-community.html)
 
-### Activity 5.2: Browse Through Some of the Communities of Practice
+### Actividad 5.2: Navega por Algunas Comunidades de Práctica
 
 <img style="width:350px;height:auto;" src="../images/media/lightbulb.png">
 
-- Find and browse through the websites associated with two communities of practice listed on the previous section "Connecting with Communities".
-- Identify at least two points of entry for engagement, e.g., an upcoming event (virtual or in person), how you could contribute, forums, etc.
+- Encuentra y navega por los sitios web asociados con dos comunidades de práctica enumeradas en la sección anterior "Conectando con Comunidades".
+- Identifica al menos dos puntos de entrada para participar, por ejemplo, un evento próximo (virtual o presencial), cómo podrías contribuir, foros, etc.
 
-#### Key takeaways: Browse through some of the communities of practice
+#### Puntos clave: Navega por algunas de las comunidades de práctica
 
-- There are many opportunities to engage with communities working on open software.
-- Engaging with open software communities can enrich and improve your software.
+- Hay muchas oportunidades para involucrarse con comunidades que trabajan en software abierto.
+- Involucrarse con comunidades de software abierto puede enriquecer y mejorar tu software.
 
 ## Contribute to Open-Source Software
 
