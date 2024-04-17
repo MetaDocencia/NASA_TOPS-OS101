@@ -326,13 +326,13 @@ Al hacer que tus resultados estén disponiblesde forma abierta, también accedes
 
 ## Pasos para continuar con tu trayecto en las ciencias abiertas
 
-Aquí vamos a explorar los siguientes pasos para abrir la ciencia que todo el mundo puede dar. La idea de que la ciencia abierta puede afectar a todo tu flujo de trabajo científico puede parecer abrumadora e inalcanzable, pero no es así. Tu puedes comenzar lentamente y poco a poco aumentar su adopción en función de la naturaleza y el alcance de tu proyecto. Here are a few immediate ways that you can start engaging in open science.
+Aquí vamos a explorar los siguientes pasos para abrir la ciencia que todo el mundo puede dar. La idea de que la ciencia abierta puede afectar a todo tu flujo de trabajo científico puede parecer abrumadora e inalcanzable, pero no es así. Tu puedes comenzar lentamente y poco a poco aumentar su adopción en función de la naturaleza y el alcance de tu proyecto. Aquí hay algunas maneras para empezar a participar, de forma inmediata, en ciencia abierta.
 
-### Where to Go From Here
+### A dónde ir desde aquí
 
-- Get involved: Become part of an open science community in your sector.
-- Start using/sharing the open science tools of your community.
-- Learn how to use/archive data in repositories and community tools and resources.
+- Participa: Forma parte de una comunidad científica abierta en tu sector.
+- Empieza a usar/compartir las herramientas de ciencia abierta de tu comunidad.
+- Aprende cómo utilizar/archivar datos en repositorios, herramientas comunitarias y recursos.
 - Concise statement of the Ethos of Open Science: Find, collaborate, and share!
 
 ### Identify Your Open Science Communities
