@@ -467,30 +467,30 @@ Los pasos para cada una de estas secciones deben incluir:
 
 Las principales fundaciones y agencias de gobierno exigen en la actualidad que los científicos presenten un Plan de Gestión de Datos (PGD) junto con la propuesta de su plan de investigación. Los datos y otros elementos, como el código y las publicaciones, tienen su propio ciclo de vida y flujo de trabajo, que deben estar incluidos en el plan. Los PGD son un aspecto crítico de la ciencia abierta y ayudan a mantener a otros investigadores informados y encaminados durante todo el ciclo de vida de la gestión de datos.
 
-DMPs that are successful typically include a clear terminology about FAIR and CARE principles and how they will be applied.
+Los DMP que tienen éxito suelen incluir una terminología clara sobre los principios FAIR y CARE y cómo se aplicarán.
 
-The data management lifecycle is typically circular. Research data are valuable and reusable long after the project's financial support ends. Data reuse can extend beyond our own lifetimes. Therefore, when designing a project or supporting an existing corpus of data, we need to remain cognizant of what happens to the data after our own research interaction ends.
+El ciclo de vida de la gestión de datos es típicamente circular. Los datos de la investigación son valiosos y reutilizables mucho después de que finaliza el apoyo financiero del proyecto. La reutilización de datos puede extenderse más allá de nuestra propia vida. Por lo tanto, al diseñar un proyecto o respaldar un corpus de datos existente, debemos ser conscientes de lo que sucede con los datos una vez finalizada nuestra propia interacción de investigación.
 
-Data management plans typically include the following:
+Los planes de gestión de datos suelen incluir lo siguiente:
 
-- Descriptions of the data expected to be produced from the proposed activities, including types of data to be produced, the approximate amount of each data type expected, the machine-readable format of the data, data file format, and any applicable standards for the data or associated metadata.
-- The repository (or repositories) that will be used to archive data and metadata arising from the activities and the schedule for making data publicly available.
-- Description of data types that are subject to relevant laws, regulations, or policies that exclude them from data sharing requirements.
-- Roles and responsibilities of project personnel who will ensure implementation of the data management plans.
+- Descripciones de los datos que se esperan producir a partir de las actividades propuestas, incluidos los tipos de datos que se producirán, la cantidad aproximada de cada tipo de datos esperado, el formato legible por máquina de los datos, el formato del archivo de datos y cualquier estándar aplicable a los datos o metadatos asociados.
+- El repositorio (o repositorios) que se utilizará para archivar los datos y metadatos que surjan de las actividades y el cronograma para poner los datos a disposición del público.
+- Descripción de los tipos de datos que están sujetos a leyes, regulaciones o políticas relevantes que los excluyen de los requisitos de intercambio de datos.
+- Roles y responsabilidades del personal del proyecto que garantizará la implementación de los planes de gestión de datos.
 
-### Software Management Plan
+### Plan de Gestión de Software
 
-Software management plans describe how software will be managed, preserved, and released as part of the scientific process. This helps ensure transparency and reproducibility in the scientific process. Module 4 on Open Code shares more details about the importance of sharing code as part of the scientific process.
+Los planes de gestión de software describen cómo se gestionará, preservará y publicará el software como parte del proceso científico. Esto ayuda a garantizar la transparencia y la reproducibilidad en el proceso científico. El Módulo 4 sobre Código Abierto incluye más detalles sobre la importancia de compartir código como parte del proceso científico.
 
-General components of a software management plan:
+Componentes generales de un plan de gestión de software:
 
-- Description of the software.
-- Repository(ies) and archive(s) in which software will be shared.
-- Sharing guidelines.
-- Personnel roles and responsibilities.
-- Any community-specific information of note.
+- Descripción del software.
+- Repositorio(s) y archivo(s) en los que se compartirá el software.
+- Pautas para compartir.
+- Roles y responsabilidades del personal.
+- Cualquier información destacable específica de la comunidad.
 
-At a minimum, a software management plan for SMD-funded research should include:
+Como mínimo, un plan de gestión de software para investigaciones financiadas debe incluir:
 
 - Description of the software expected to be produced from the proposed activities, including types of software to be produced, how the software will be developed, and the addition of new features or updates to existing software. This can include the platforms used for development, project management, and community-based best practices to be included such as documentation, testing, dependencies, and versioning.
 - The repository(ies) that will be used to archive software arising from the activities and the schedule for making the software publicly available.
