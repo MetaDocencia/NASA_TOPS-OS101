@@ -157,25 +157,25 @@ Además, la ciencia abierta mejora la situación de la literatura científica. S
 
 <img src="../images/media/image254.png" style="width: 350px; height: auto;" />
 
-By using openly available tools and making our scientific process and products more openly available, we can ensure that all who wish to involve themselves can take part in the global scientific community.
+Utilizando herramientas de libre acceso y haciendo más accesibles nuestro proceso cientifico y lo que produzcamos, podemos garantizar que todos los que lo deseen puedan participar en la comunidad científica mundial.
 
-### Key Takeaways: Beneﬁts to Science
+### Conclusiones principales: Beneficios para la ciencia
 
-- Open science can accelerate scientific discovery. Collective knowledge is not only faster, but more effective than individual efforts.
-- Open science allows for errors to be quickly corrected, making science more accurate.
-- Open science practices, such as registered reports, mitigate publication bias and improve the trustworthiness of scientific literature.
+- La ciencia abierta puede acelerar los descubrimientos científicos. El conocimiento colectivo no sólo es más rápido, sino que es ademas más eficaz que los esfuerzos individuales.
+- La ciencia abierta permite que los errores sean corregidos rapidamente, lo que hace que la ciencia sea más precisa.
+- Las prácticas de ciencia abierta, como los informes registrados, mitigan el sesgo de publicación y mejoran la fiabilidad de la literatura científica.
 
-## Benefits to Society
+## Beneficios para la sociedad
 
-The mainstream adoption of open science began relatively recently. The potential benefits of open science extend beyond research through contributions to society and policy.
+La uso generalizado de la ciencia abierta comenzó hace relativamente poco. Los beneficios potenciales de la ciencia abierta se extienden más allá de la investigación a través de contribuciones a la sociedad y la política.
 
-Collaboration, innovation, education, technology advancement, and science-based public policy are all improved by the open availability of research products. Sharing all research products (eg. data, code, results) makes the scientific process more transparent which may help increase public trust in science. Also, open science encourages IDEA (Inclusion, Diversity, Equity, Accessibility), and increases involvement of citizen-scientists and non-experts in the research process. The inclusion of diverse perspectives from an open community invites unique perspectives that contribute to a more robust and often more accurate scientific outcome.
+La colaboración, la innovación, la educación, el avance tecnológico y las políticas públicas basadas en la ciencia mejoran gracias a la disponibilidad abierta de los productos de investigación. Compartir todos los productos derivados de la investigación (datos, códigos, resultados, etc.) hace más transparente el proceso científico, lo que puede contribuir a aumentar la confianza del público en la ciencia. Además, la ciencia abierta fomenta IDEA (Inclusión, Diversidad, Equidad, Accesibilidad) y aumenta la participación de ciudadanos-científicos y no expertos en el proceso de investigación. La inclusión de diversos puntos de vista de una comunidad abierta invita a perspectivas únicas que contribuyen a un resultado científico más sólido y, a menudo, más preciso.
 
 <img src="../images/media/image264.png" style="width: 350px; height: auto;" />
 
-Scientists study issues that affect every aspect of life. Yet, public interest in science remains low due to a lack of trust, understanding, and sociocultural factors. How can scientists expect the public to trust science about complex and often contentious issues, whether it is vaccine development or landing on the moon, if they don’t allow the public to see the process and results? Building trust in science is essential to a well-informed society. Open science provides a pathway to do this.
+Los científicos estudian cuestiones que afectan a todos los aspectos de la vida. Sin embargo, el interés del público general por la ciencia sigue siendo bajo debido a la falta de confianza, comprensión asi como también, factores socioculturales. ¿Cómo pueden esperar los científicos que el público general confíe en la ciencia sobre cuestiones complejas y a menudo polémicas, ya sea el desarrollo de vacunas como la llegada a la luna, si no permiten que vean el proceso y los resultados obtenidos? Generar confianza en la ciencia es esencial para una sociedad bien informada. La ciencia abierta ofrece una vía para ello.
 
-The public who funds government research through taxes should be entitled to its results and data, as long as safety and security are not an issue. Science should be more open to ensure its insights benefit the public who enables it.
+El público general que financia la investigación gubernamental a través de los impuestos debería tener derecho a sus resultados y sus datos, siempre que la seguridad y la protección no sean un problema. La ciencia debe ser más abierta para garantizar que sus conocimientos beneficien al público que la hace posible.
 
 Open science introduces more scrutiny into research that helps ensure accuracy and encourages efficiency through open discourse. This approach accelerates the pace of discovery and subsequently the dissemination of results to the public and policymakers.
 
