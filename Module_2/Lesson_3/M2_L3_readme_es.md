@@ -187,60 +187,61 @@ Un formato de archivo útil puede ser leído en memoria por algún software. Pie
 
 - Una estructura simple y fácil de entender.
 - Una especificación clara y abierta del formato que, idealmente, no esté vinculada a un producto de software específico.
-- Open software libraries and APIs that can parse the format.
+- Bibliotecas de software abiertas y APIs que pueden analizar el formato.
 
-The formats that are considered the most interoperable against the criteria above include Comma Separated Values (CSV), Extensible Markup Language (XML), and JavaScript Object Notation (JSON). Other common formats for researchers include binary array-based formats like Network Common Data Form (NetCDF), Hierarchical Data Format (HDF), Geotiff, Flexible Image Transport System (FITS), and other formats designed for cloud storage and access like [Zarr](https://zarr.dev/), [Cloud Optimized GeoTIFF](https://www.cogeo.org/), and [Parquet](https://parquet.apache.org/). Many of these formats have tools that check datasets for compliance and readability.
+Los formatos que se consideran más interoperables según los criterios anteriores son los valores separados por comas (CSV), el lenguaje de marcado extensible (XML) y la notación de objetos JavaScript (JSON). Otros formatos habituales para los investigadores son los basados en matrices binarias, como Network Common Data Form (NetCDF), Hierarchical Data Format (HDF), Geotiff, Flexible Image Transport System (FITS) y otros formatos diseñados para el almacenamiento y el acceso en la nube, como [Zarr](https://zarr.dev/), [Cloud Optimized GeoTIFF](https://www.cogeo.org/) y [Parquet](https://parquet.apache.org/). Muchos de estos formatos cuentan con herramientas que verifican conjuntos de datos para cumplir con estándares y asegurar su legibilidad.
 
-### Inspecting Data
+### Inspección de datos
 
-Modern data formats allow the storage of much more than mere data points. Once one adopts these standards (e.g. NetCDF), the discovery of the contents on each file can be aided by a variety of tools which together help map primary data and/or display the associated metadata. Several tools exist for inspecting data, too numerous for all to be mentioned here. Notable tools to start with include:
+Los formatos de datos modernos permiten almacenar mucho más que simples puntos de datos. Una vez que se adoptan estos estándares (por ejemplo, NetCDF), la búsqueda de los contenidos en cada archivo puede ser asistida por una variedad de herramientas que juntas ayudan a mapear los datos primarios y/o mostrar los metadatos asociados. Existen varias herramientas para inspeccionar datos, siendo demasiadas para mencionarlas todas aquí. Las herramientas destacables con las que comenzar incluyen:
 
 **CSV, XML, JSON** -
-These files can all be opened with most common text editors. There are some tools that can create views of the files that are more user-friendly, such as:
+Todos estos archivos se pueden abrir con los editores de texto más comunes. Hay algunas herramientas que pueden crear vistas de los archivos más fáciles de usar, como:
 
-- csv: Microsoft Excel and Google Sheets
-- xml: Most internet browsers and with any text editor like Notepad or Microsoft Word or Google Docs
-- json: [http://json.parser.online.fr/](http://json.parser.online.fr/) and [https://jsonformatter.org/json-pretty-print](https://jsonformatter.org/json-pretty-print)
+- csv: Hojas de Microsoft Excel y Google
+- xml: La mayoría de los navegadores de Internet y con cualquier editor de texto como el Bloc de notas o Microsoft Word o Google Docs
+- json: [http://json.parser.online.fr/](http://json.parser.online.fr/) y [https://jsonformatter.org/json-Chanty-print](https://jsonformatter.org/json-monety-print)
 
 **NetCDF, HDF, FITS** -
-These files require special software tools to view their contents. Many of these tools will also visualize the data as well.
+Estos archivos requieren herramientas de software especiales para ver sus contenidos. Muchas de estas herramientas también visualizarán los datos.
 
-- NetCDF and HDF: Most files are easily viewed using the [Xarray](https://docs.xarray.dev/en/stable/) open-source software library in Python or the [ncdf4](https://cran.r-project.org/web/packages/ncdf4/index.html) library in R.
-- FITS: There are many options, a list is provided at [https://fits.gsfc.nasa.gov/fits_viewer.html](https://fits.gsfc.nasa.gov/fits_viewer.html)
+- NetCDF y HDF: La mayoría de los archivos se visualizan fácilmente usando la librería de software de código abierto [Xarray](https://docs.xarray.dev/en/stable/) en Python o la biblioteca de software de código abierto [ncdf4](https://cran.r-project.org/web/packages/ncdf4/index.html) en R.
+- FITS: Hay muchas opciones, hay una lista en [https://fits.gsfc.nasa.gov/fits_viewer.html](https://fits.gsfc.nasa.gov/fits_viewer.html)
 
-**ZARR, COG, PARQUET** -
-These files require special software tools to view their contents. Many of these tools will also visualize the data as well.
+**ZARR, COG, PARQUETO** -
+Estos archivos requieren herramientas de software especiales para ver su contenido. Muchas de estas herramientas también visualizan los datos.
 
-- Zarr: Files are easily viewed using the [Xarray](https://docs.xarray.dev/en/stable/) open-source software library in Python or the [Pizzar](https://github.com/keller-mark/pizzarr) library in R.
-- COG: Files are viewed using the [rioXarray](https://corteva.github.io/rioxarray/html/index.html) open-source software library in Python or the [terra](https://cran.r-project.org/web/packages/terra/index.html) library in R.
-- Parquet: Files are viewed using the [Pandas](https://pandas.pydata.org/) open-source software library in Python or the [Arrow](https://arrow.apache.org/docs/r/reference/read_parquet.html) library in R.
+- Zarr: Los archivos se visualizan fácilmente utilizando la biblioteca de software de código abierto [Xarray](https://docs.xarray.dev/en/stable/) en Python o la biblioteca [Pizzar](https://github.com/keller-mark/pizzarr) en R.
+- COG: Los archivos se visualizan utilizando la biblioteca de software de código abierto [rioXarray](https://corteva.github.io/rioxarray/html/index.html) en Python o la biblioteca [terra](https://cran.r-project.org/web/packages/terra/index.html) en R.
+- Parquet: Los archivos se visualizan utilizando la biblioteca de software de código abierto [Pandas](https://pandas.pydata.org/) en Python o la biblioteca [Arrow](https://arrow.apache.org/docs/r/reference/read_parquet.html) en R.
 
-### FAIR Assessment
+### Evaluación FAIR
 
-How 'FAIR' is your data? Two groups - [ FAIRsharing.org](https://fairsharing.org/) and the Research Data Alliance ([RDA](https://www.rd-alliance.org/)) - have developed the [ FAIR Metrics](https://www.nature.com/articles/sdata2018118) and [ FAIR Data Maturity Model](https://www.rd-alliance.org/group/fair-data-maturity-model-wg/outcomes/fair-data-maturity-model-specification-and-guidelines-0) to help assess the 'FAIR'-ness of a dataset. There are open-source tools that help researchers assess their data:
+¿Qué tan "FAIR" son tus datos? Dos grupos, FAIRsharing.org (https://fairsharing.org/) y la Alianza para los Datos de Investigación (RDA (https://www.rd-alliance.org/)), han desarrollado las Métricas FAIR (https://www.nature.com/articles/sdata2018118) y el Modelo de Madurez de Datos FAIR (https://www.rd-alliance.org/group/fair-data-maturity-model-wg/outcomes/fair-data-maturity-model-specification-and-guidelines-0) para ayudar a evaluar el grado de 'FAIR'-ness de un conjunto de datos.
+Existen herramientas de código abierto para ayudar a los investigadores a evaluar sus datos:
 
 **AUSTRALIAN RESEARCH DATA COMMONS (ARDC)**
 
-Online questionnaire (manual) Best for:
+Cuestionario en línea (manual) - Ideal para:
 
-- Triggering discussions at the initial stages of considering FAIR implementation
-- Identifying areas for improvement
+- Desencadenar debates en las fases iniciales de estudio de la aplicación de FAIR
+- Identificar áreas de mejora
 
-Outputs include:
+Las salidas incluyen:
 
-- Progress bar for each FAIR principle
-- Aggregate bar for all
+- Barra de progreso para cada principio FAIR
+- Barra de progreso para cada principio FAIR
 
 **FAIR-CHECKER**
 
-Automated via website or API
+Automatizado a través del sitio web o API
 
-Best for:
+Mejor para:
 
-- Scalability to many datasets
-- Identifying areas for improvement
+- Escalabilidad a muchos conjuntos de datos
+- Identificar áreas de mejora
 
-Outputs include:
+Las salidas incluyen:
 
 - A chart with scores and details
 
