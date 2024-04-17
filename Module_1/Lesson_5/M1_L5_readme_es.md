@@ -165,10 +165,10 @@ Para obtener resultados, las publicaciones de acceso abierto y los servidores de
 Tómate un momento para responder las siguientes preguntas sobre tu investigación actual o sobre la investigación que te gustaría hacer:
 
 - ¿Qué datos, software o publicaciones utiliza actualmente o desearía utilizar? ¿Son abiertos o cerrados?
-- What are the tools and processes that you currently use? Is it easy to include others in collaboration?
-- How is your work shared or planned to be shared? Can anyone access your results?
+- ¿Cuáles son las herramientas y los procesos que actualmente utilizas? ¿Es fácil incluir a otras personas en la colaboración?
+- ¿Cómo se comparte o se planea compartir tu trabajo? ¿Puede alguien acceder a tus resultados?
 
-## Case Study: The Outcomes of an Open Plan
+## Estudio de Caso: Los resultados de un Plan Abierto
 
 <img style="width:100%;height:auto;" src="../images/media/natashaquote.jpg">
 
