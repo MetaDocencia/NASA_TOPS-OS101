@@ -60,7 +60,7 @@ Apertura - Un concepto o rasgo de personalidad que implica transparencia, colabo
 
 **Procedencia Computacional** - Busca desarrollar procesos sistemáticos y estándares basados en la informática, para capturar y poner a disposición información sobre quién creó un objeto, cuándo fue creado o modificado, y el proceso o procedimiento que modificó el objeto.
 
-## Navigation
+## Contenidos
 
 ### [Lección 1: ¿Qué es la Ciencia Abierta?](./Lección_1)
 
@@ -100,8 +100,8 @@ Apertura - Un concepto o rasgo de personalidad que implica transparencia, colabo
 
 - [Planificando para la Ciencia Abierta](#planificando-para-la-ciencia-abierta)
 - [Diseñando para la Apertura](./Lección_5#diseñando-para-la-apertura)
-- [Case Study: The Outcomes of an Open Plan](./Lesson_5#case-study-the-outcomes-of-an-open-plan)
-- [Steps to Continue Your Open Science Journey](./Lesson_5#steps-to-continue-your-open-science-journey)
-- [Lesson 5: Summary](./Lesson_5#lesson-5-summary)
-- [Lesson 5: Knowledge Check](./Lesson_5#lesson-5-knowledge-check)
-- [The Ethos of the Open Science Summary](./Lesson_5#the-ethos-of-the-open-science-summary)
+- [Estudio de Caso: Los resultados de un Plan Abierto](./Lección_5#los-resultados-de-un-plan-abierto)
+- [Pasos para Continuar con tu Viaje por la Ciencia Abierta](./Lección_5#pasos-para-continuar-con-tu-viaje-por-la-ciencia-abierta)
+- [Lección 5: Resumen](./Lección_5#lección-1-resumen)
+- [Lección 5: Comprobación del conocimiento](./Lección_5#comprobación del conocimiento-5)
+- [Resumen de El Ethos de la Ciencia Abierta](#resumen-de-el-ethos-de-la-ciencia-abierta)
