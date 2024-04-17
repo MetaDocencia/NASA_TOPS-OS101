@@ -137,8 +137,8 @@ A data repository is a digital space to house, curate, and share research output
 
 - [**Protein Data Bank**(Banco de Datos de Proteina)](https://www.rcsb.org/) utiliza un repositorio de datos para catalogar estructuras 3D de proteínas y ácidos nucleólicos.
 - [**Genbank**](https://www.ncbi.nlm.nih.gov/genbank/) de los Institutos Nacionales de Salud utiliza una base de datos de secuencias genéticas que contiene secuencias anotadas de ácidos nucleicos disponibles públicamente.
-- [**Recurso de datos de imágenes**](https://idr.openmicroscopy.org/) es un repositorio público de conjuntos de datos que contiene bioimágenes de microscopía procedentes de estudios publicados.
-- [**The Electron Microscopy Public Image Archive**(Archivo de Imagen Pública de Microscopía)](https://www.ebi.ac.uk/empiar/) es un recurso público para las imágenes cryo-EM.
+- [**Recurso de datos de imágenes (The Image Data Resource)**](https://idr.openmicroscopy.org/) es un repositorio público de conjuntos de datos que contiene bioimágenes de microscopía procedentes de estudios publicados.
+- [**Archivo de Imagen Pública de Microscopía (The Electron Microscopy Public Image Archive)**](https://www.ebi.ac.uk/empiar/) es un recurso público para las imágenes cryo-EM.
 - [**OpenNeuro**](https://openneuro.org/) es una plataforma abierta para validar y compartir datos de imágenes cerebrales. Las herramientas de Open Neuro permiten un acceso fácil, la búsqueda y el análisis de conjuntos de datos.
 
 Las herramientas de ciencia abierta, como los repositorios de datos, deben implementar los principios FAIR, especialmente en lo que respecta a la atribución de identificadores persistentes (por ejemplo, DOI), la anotación de metadatos y la capacidad de ser leídos por ordenadores.
