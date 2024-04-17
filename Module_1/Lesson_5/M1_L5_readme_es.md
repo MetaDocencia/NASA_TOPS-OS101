@@ -281,9 +281,9 @@ Como la mayoría de los datos, JWST es complicado y necesita procesamiento y cad
 Durante la fase de implementación, el equipo colaboró en la creación del software de procesamiento de datos, para que todos se beneficiaran. Imagínese el esfuerzo malgastado si las 400 personas hubieran escrito el software ellos mismos. El beneficio y el resultado fue que gracias a este esfuerzo de colaboración, el equipo disminuyó los esfuerzos duplicados, los colaboradores obtuvieron crédito por su trabajo, el software fue más preciso, y se aceleró el proceso de generación de datos. ¡EUREKA!, el software fue [creado de forma abierta](https://github.com/kevin218/Eureka)
 con [documentación](https://eurekadocs.readthedocs.io/en/latest/) y publicado con una [revision por pares del paquete de software.](https://joss.theoj.org/papers/10.21105/joss.04503)
 
-¡Pero no tuvieron que empezar de cero! The ERS-TRANSIT team was able to build on the work of others. The software built on the [JWST pipeline software](https://github.com/spacetelescope/jwst) developed openly by the JWST mission team. Furthermore, they were able to build on a much larger open source software ecosystem using python and Astropy.
+¡Pero no tuvieron que empezar de cero! El equipo ERS-TRANSIT fue capaz de construir sobre el trabajo de otros. El software construido con la [cadena de producción de software JWST](https://github.com/spacetelescope/jwst) fue desarrollado de forma abierta por el equipo de la misión JWST. Además, fueron capaces de construir un ecosistema de software de código abierto mucho más grande usando Python y Astropy.
 
-### Open Access to Results
+### Del Acceso Abierto a los Resultados
 
 <img src="../images/media/image244.jpg" style="width: 100%; height: auto;" />
 
@@ -295,38 +295,38 @@ con [documentación](https://eurekadocs.readthedocs.io/en/latest/) y publicado c
     </colgroup>
     <tbody>
         <tr>
-            <td>Opportunity</td>
-            <td>Research products recorded in public archives and made openly available</td>
+            <td>Oportunidad</td>
+            <td>Productos de investigación registrados en archivos públicos y disponibles abiertamente</td>
         </tr>
         <tr>
-            <td>Benefit</td>
-            <td>Allows collaborators to receive individual credit for their contributions, which provided greater incentive for participation</td>
+            <td>Beneficios</td>
+            <td>Permite que los colaboradores reciban crédito individual por sus contribuciones, lo que proporciona un mayor incentivo para su participación</td>
         </tr>
         <tr>
-            <td>Result</td>
-            <td>Intermediate products, models, and final data</td>
+            <td>Resultados</td>
+            <td>Productos intermedios, modelos y datos finales</td>
         </tr>
         <tr>
-            <td>Availability</td>
+            <td>Disponibilidad</td>
             <td>
-                <p>All aggregated into <a href="https://zenodo.org/communities/ers-transit">Zenodo Community</a> with individual contributing authors and DOIs</p>
+                <p>Todos recopilados en la <a href="https://zenodo.org/communities/ers-transit">Comunidad de Zenodo</a> con los autores que contribuyeron y los DOIs</p>
                 <p><img src="../images/media/zenodojwst.jpg" style="width: 100%; height: auto;" /></p>
             </td>
         </tr>
     </tbody>
 </table>
 
-During the release phase, the team labeled research products adequately for reuse and reproducibility and published in public forums/repositories. The outcome and benefits included collaborators receiving credit for data, software, and other digital research products that benefit the scientific community. Data and software were archived openly on the general data repository [Zenodo](https://zenodo.org/communities/ers-transit) and the publication was made available as a [preprint](https://arxiv.org/abs/2208.11692) and an [open access publication](https://www.nature.com/articles/s41586-022-05269-w).
+Durante la fase de lanzamiento, el equipo etiquetó de forma adecuada productos de investigación para su reutilización y reproducibilidad, también se publicaron en foros y repositorios públicos. Los beneficios y resultados incluyeron que los colaboradores que recibieran crédito por los datos, software y otros productos de investigación digital que benefician a la comunidad científica. Los datos y el software fueron archivados abiertamente en el repositorio general de datos [Zenodo](https://zenodo.org/communities/ers-transit) y la publicación quedó disponible como [preprint](https://arxiv. rg/abs/2208.11692) y en una [publicación de acceso abierto](https://www.nature.com/articles/s41586-022-05269-w).
 
-Making your results open also opens you up to clearer ways of receiving credit and can also reduce the risk of scooping (each result can be individually referenced as soon as it is made available). Applying reproducibility practices separately on different parts of the project such as preparation documents, datasets, software, and reporting allows other researchers to test and reuse your work in their research, and your research will be cited more often, thus bringing fair recognition for your work. Collaborators can get more motivated to contribute because they can easily get recognition in terms of authorship for their contributions made for each one of the research outputs generated.
+Al hacer que tus resultados estén disponiblesde forma abierta, también accedes a formas más claras de obtener reconocimiento y puede reducir el riesgo de 'scooping' (que alguien se te adelante con una publicación similar) ya que cada resultado puede ser referenciado individualmente tan pronto como esté disponible. Aplicar prácticas de reproducibilidad por separado en diferentes partes del proyecto como documentos de preparación, conjuntos de datos, software, y reportes permite a otros investigadores probar y reutilizar tu trabajo en su investigación, de esta forma se citarán más a menudo tus investigaciones, aportando así un reconocimiento justo a tu trabajo. Los colaboradores pueden estar más motivados para contribuir porque pueden obtener fácilmente reconocimiento en términos de autoría por sus contribuciones hechas para cada uno de los resultados obtenidos en la investigación.
 
-**Read more about making results open throughout the research process on OpenSciency.**
+**Más información sobre cómo abrir los resultados a lo largo del proceso de investigación en OpenSciency**
 
-[CLICK TO LEARN](https://opensciency.github.io/sprint-content/open-results/lesson2-results-and-open-science.html#what-are-the-advantages-of-making-results-open-throughout-the-research-process)
+[HAZ CLIC PARA APRENDER MÁS](https://opensciency.github.io/sprint-content/open-results/lesson2-results-and-open-science.html#what-are-the-advantages-of-making-results-open-throughout-the-research-process)
 
-## Steps to Continue Your Open Science Journey
+## Pasos para continuar con tu trayecto en las ciencias abiertas
 
-Here we will explore the next steps to open science that everybody can take. The thought that open science can impact your entire scientific workflow may seem overwhelming and unachievable, but this is not the case. You can start slowly and gradually increase your adoption depending on the nature and scope of your project. Here are a few immediate ways that you can start engaging in open science.
+Aquí vamos a explorar los siguientes pasos para abrir la ciencia que todo el mundo puede dar. La idea de que la ciencia abierta puede afectar a todo tu flujo de trabajo científico puede parecer abrumadora e inalcanzable, pero no es así. Tu puedes comenzar lentamente y poco a poco aumentar su adopción en función de la naturaleza y el alcance de tu proyecto. Here are a few immediate ways that you can start engaging in open science.
 
 ### Where to Go From Here
 
