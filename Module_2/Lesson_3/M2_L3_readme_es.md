@@ -1,15 +1,15 @@
-# Lesson 3: Tools for Open Data
+# Lección 3: Herramientas para datos abiertos
 
-## Navigation
+## Índice
 
-- [Introduction to Open Data](#introduction-to-open-data)
-- [FAIR Principles](#fair-principles)
-- [Tools to Help with Planning For Open Data Creation](#tools-to-help-with-planning-for-open-data-creation)
-- [Tools to Help with Using and Making Open Data](#tools-to-help-with-using-and-making-open-data)
-- [Lesson 3: Summary](#lesson-3-summary)
-- [Lesson 3: Knowledge Check](#lesson-3-knowledge-check)
+- [Introducción a Datos Abiertos](#introduction-to-open-data)
+- [Principios FAIR](#fair-principles)
+- [Herramientas para ayudar a planificar la creación de datos abiertos](#tools-to-help-with-planning-for-open-data-creation)
+- [Herramientas para ayudar con el uso y la creación de datos abiertos](#tools-to-help-with-using-and-making-open-data)
+- [Lección 3: Resumen](#lesson-3-summary)
+- [Lección 3: Revisión De Conocimientos](#lesson-3-knowledge-check)
 
-## Overview
+## Descripción general
 
 This lesson discusses the concepts, considerations, and tools for making data and results. It starts with a closer look at the FAIR principles and how they apply to data. The lesson includes an introduction to plans, tools, data formats, and other considerations that are related to making data and sharing the results related to that data.
 
