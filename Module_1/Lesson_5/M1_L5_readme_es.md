@@ -110,9 +110,9 @@ Fuente para las Fases del Flujo de Trabajo de la Ciencia Abierta: Opensciency
 
 ---
 
-Independientemente de tu disciplina científica o de la metodología que utilices, el flujo de trabajo sigue siendo relativamente el mismo. Cuenta con una fase de planificación, una fase de implementación y una fase de lanzamiento. Dentro de estas fases, hay hitos que varían en función del flujo de trabajo que sigas. Para el propósito de nuestra discusión en esta lección, y los otros módulos en este currículum, hemos adoptado el flujo de trabajo científico con hitos generales descritos en el currículum de [Opensciency](https://opensciency. ithub.io/sprint-content/). Los detalles de tu flujo de trabajo pueden variar, pero los conceptos generales son los mismos. Lo importante aquí es que cuando se adopta la ciencia abierta, ésta impregna todas las etapas del flujo de trabajo. Te preparas para ello en la fase de planificación, pero luego continúa integrando los principios de la misma a lo largo de las fases de implementación y de lanzamiento.
+Independientemente de tu disciplina científica o de la metodología que utilices, el flujo de trabajo sigue siendo relativamente el mismo. Cuenta con una fase de planificación, una fase de implementación y una fase de lanzamiento. Dentro de estas fases, hay hitos que varían en función del flujo de trabajo que sigas. Para el propósito de nuestra discusión en esta lección, y los otros módulos en este programa, hemos adoptado el flujo de trabajo científico con hitos generales descritos en el programa de [Opensciency](https://opensciency. ithub.io/sprint-content/). Los detalles de tu flujo de trabajo pueden variar, pero los conceptos generales son los mismos. Lo importante aquí es que cuando se adopta la ciencia abierta, ésta impregna todas las etapas del flujo de trabajo. Te preparas para ello en la fase de planificación, pero luego continúa integrando los principios de la misma a lo largo de las fases de implementación y de lanzamiento.
 
-Los productos creados a lo largo del proceso científico son necesarios para que otros puedan reproducir los hallazgos. Researchers who wish to make their results reproducible must make key elements of their study openly available for others to test.
+Los productos creados a lo largo del proceso científico son necesarios para que otros puedan reproducir los hallazgos. Quienes investigan y deseen hacer que sus resultados sean reproducibles deben poner los elementos clave de su estudio abiertamente a disposición de los demás.
 
 <img src="../images/media/image130.jpg" style="width: 100%; height: auto;" />
 
@@ -237,13 +237,13 @@ Básicamente, pueden trabajar con nosotros, pero aquí están nuestras normas. Y
 
 El resultado y el beneficio de publicar esta información fue la adición de nuevos miembros al equipo, y una cultura colaborativa e inclusiva acordada y establecida entre el equipo.
 
-The team grew to almost 400 people, all working together, all knowing what to expect and this created trust.
+El equipo creció hasta casi 400 personas, todos trabajando juntos, todos sabiendo qué esperar y esto creó confianza.
 
-**Read more about collaboration documents and credit on OpenSciency.**
+**Lee más sobre documentos de colaboración y reconocimiento de autoría en OpenSciency**
 
-[CLICK TO LEARN](https://opensciency.github.io/sprint-content/open-results/lesson4-opportunities-and-credits.html)
+[HAZ CLIC PARA APRENDER MÁS](https://opensciency.github.io/sprint-content/open-results/lesson4-opportunities-and-credits.html)
 
-### Open-Source Software\*\*
+### Software de Código Abierto\*\*
 
 <img src="../images/media/image6.jpg" style="width: 100%; height: auto;" />
 
@@ -255,15 +255,15 @@ The team grew to almost 400 people, all working together, all knowing what to ex
     </colgroup>
     <tbody>
         <tr>
-            <td>Opportunity</td>
-            <td>Collaboration on an open software data-processing pipeline</td>
+            <td>Oportunidad</td>
+            <td>Colaboración en una cadena de producción de software abierto para procesamiento de datos</td>
         </tr>
         <tr>
-            <td>Benefit</td>
-            <td>Decreased duplicative efforts, contributors get credit for their work, and accelerated the data wrangling process</td>
+            <td>Beneficios</td>
+            <td>Disminución de esfuerzos duplicados, los colaboradores reciben reconocimiento por su trabajo y se acelera el proceso de preparación de datos</td>
         </tr>
         <tr>
-            <td>Result</td>
+            <td>Resultados</td>
             <td>Data processing pipeline</td>
         </tr>
         <tr>
