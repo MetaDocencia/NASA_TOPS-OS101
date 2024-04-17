@@ -1,4 +1,4 @@
-# Haciendo datos abiertos (open data, en inglés)
+# Haciendo datos abiertos (open data)
 
 ## Índice
 
@@ -56,11 +56,11 @@ Investiga si tu agencia de financiación, instituciones y/o repositorio de datos
 
 ### Formatos de datos no abiertos
 
-Un formato de datos cerrado (sin soporte y con derechos de propiedad) se refiere a un formato de archivo al que no se puede acceder libremente, no está estandarizado o ampliamente soportado por diferentes aplicaciones de software. Aquí hay algunos ejemplos de formatos de datos cerrados/con derechos de propiedad:
+Un formato de datos cerrado (sin soporte y o de propiedad privada) se refiere a un formato de archivo al que no se puede acceder libremente, no está estandarizado o ampliamente soportado por diferentes aplicaciones de software. Aquí hay algunos ejemplos de formatos de datos cerrados/con derechos de propiedad:
 
 - **Adobe Photoshop (.psd):** El formato de archivo es propiedad de Adobe Photoshop, un popular software de edición de imágenes.
 - **Microsoft Word (.doc/.docx):** Un formato de archivo con derechos de propiedad usado para almacenar datos de procesamiento de texto.
-- **AutoCAD Drawing (.dwg):** A proprietary data format used for computer-aided design (CAD).
+- **Dibujo automático (.dwg):** Un formato de datos con derechos de propiedad utilizado para el diseño asistido por ordenador (CAD).
 
 Software applications that can read but not create DOC, PSD, or DWG formatted data usually do not fully support all the features, layers, specifications, and inner workings of the original file.
 
@@ -108,24 +108,24 @@ Metadata can facilitate the assessment of dataset quality and data sharing by an
 
 - How data were collected and processed
 - What variables/parameters are included in the dataset
-- What variables are included and what variables are related to
-- Who collected the data (science team, organization, etc.)
-- How and where to find the data (e.g., DOI)
-- How to cite the data
-- Which spatio-temporal region/time the data covers
-- Any legal, guideline, or standard information about the data
+- Qué variables están incluidas y con qué variables están relacionadas
+- Quién recopiló los datos (equipo científico, organización, etc.)
+- Cómo y dónde encontrar los datos (p. ej., DOI)
+- Cómo citar los datos
+- Qué región espacio-temporal / tiempo cubren los datos
+- Toda información legal, directriz o estándar sobre los datos
 
-### Why Add Metadata?
+### ¿Por qué añadir metadatos?
 
-Metadata enhances searchability and findability of the data by potentially allowing both humans and machines to read and interpret datasets. Benefits to creating metadata about your data include:
+Los metadatos mejoran la búsqueda y la accesibilidad de los datos permitiendo potencialmente tanto a los humanos como a las computadoras leer e interpretar los conjuntos de datos. Los beneficios de crear metadatos sobre tus datos incluyen:
 
-- Helps users understand what the data are and if/how they can use/cite it.
-- Helps users find the data, particularly when metadata is machine- readable and standardized.
-- Can make analysis easier with software tools that interpret standardized metadata (e.g. Xarray).
+- Ayuda a los usuarios a entender los datos y si/cómo pueden ser usados/citados.
+- Ayuda a los usuarios a ubicar los datos, especialmente cuando los metadatos son legibles y están estandarizados para ser interpretados por aplicaciones.
+- Puede facilitar el análisis con herramientas de software que interpretan metadatos estandarizados (por ejemplo, Xarray).
 
-To be machine readable, the metadata needs to be standardized. See an example of a community-accepted standard for labeling climate datasets with the [CF Conventions](http://cfconventions.org/).
+Para ser legibles por las computadoras, los metadatos deben haber sido estandarizados. Un ejemplo de un estándar aceptado por la comunidad para etiquetar conjuntos de datos climáticos son las [Convenciones de CF](http://cfconventions.org/).
 
-There are also software packages that can read metadata and enhance the user experience significantly as a result. For instance, [Xarray](https://docs.xarray.dev/en/stable/index.html) is an open-source, community developed software package that is widely used in the climate and biomedical fields, among many others. According to their website, "Xarray makes working with labeled multi-dimensional arrays in Python simple, efficient, and fun!". It's the "labeled" part where standardized metadata comes in! Xarray can interpret variable and dimension names without user input, making the workflow easier and less prone to making mistakes (e.g. users don’t have to remember which axis is "time" - they just need to call the axis with the label "time").
+También hay paquetes de software que pueden leer metadatos y mejorar la experiencia del usuario de manera significativa. Por ejemplo, [Xarray](https://docs.xarray.dev/en/stable/index.html) es un paquete de software desarrollado por la comunidad de código abierto que se utiliza ampliamente en la climatología y la biomédicina, entre muchas otras disciplinas. Según su sitio web, "¡Xarray hace que trabajar con matrices multidimensionales con etiquetas en Python sea simple, eficiente y divertido!". ¡Es la parte "etiquetada" donde entran los metadatos estandarizados! Xarray can interpret variable and dimension names without user input, making the workflow easier and less prone to making mistakes (e.g. users don’t have to remember which axis is "time" - they just need to call the axis with the label "time").
 
 Many standards exist for metadata fields and structure to describe general data information. Use a standard from your domain when applicable, or one that is requested by your data repository.
 
