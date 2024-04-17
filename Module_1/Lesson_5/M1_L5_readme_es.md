@@ -82,31 +82,31 @@ Aprende más sobre los PCAGD en el Módulo 2.
 
 ### Una Estrategia Abierta
 
-Hoy en día, cada vez son más las fundaciones y agencias que esperan que las propuestas para subsidios de investigación incluyan una estrategia de ciencia abierta. Al incluir un documento de estrategia de ciencia abierta en tu proyecto, aseguras la accesibilidad y apertura en cada paso de tu flujo de trabajo. Conclude your comprehensive plan with clearly defined steps to make research outputs easily accessible and openly available. The steps identified in your strategy should be integrated into your everyday scientific processes and practices.
+Hoy en día, cada vez son más las fundaciones y agencias que esperan que las propuestas para subsidios de investigación incluyan una estrategia de ciencia abierta. Al incluir un documento de estrategia de ciencia abierta en tu proyecto, aseguras la accesibilidad y apertura en cada paso de tu flujo de trabajo. Concluye tu plan integral con pasos claros para que tus productos de investigación se encuentren fácilmente accesibles y abiertamente disponibles. Los pasos definidos en tu estrategia deberían estar integrados en tus procesos y prácticas científicas cotidianas.
 
-#### Requirements
+#### Requerimientos
 
-Every major research foundation and federal government agency now requires scientists to file a data management plan (DMP) along with their proposed scientific research plan. Some ask for additional details on software/code and publications.
+Cada gran fundación para la investigación y agencia gubernamental actualmente requiere que las personas solicitantes envíen un plan de gestión de datos (PGD) junto con su proyecto científico y plan de investigación. Algunas piden detalles adicionales sobre software/código y publicaciones.
 
-#### Include Entire Data Workﬂow Details in the Plan
+#### Incluye Detalles de los Flujos de Trabajo de Datos en el Plan
 
-Describe your management workflow for data and related research. Other elements, such as code or a publication, have their own lifecycle and workflow which needs to be in the plan.
+Describe tu gesitón de flujo de trabajo para datos e investigación relacionada. Otros elementos, como código o una publicación, tienen su propio ciclo de vida y flujo de trabajo que debe estar presente en el plan.
 
-#### Include Open Terminology and Concepts
+#### Incluye Terminología y Conceptos Abiertos
 
-Plans that are successful typically include clear terminology about how information is made findable, accessible, interoperable, and reusable. This can include licenses, repositories, formats, and governance of the project.
+Los planes exitosos tipicamente incluyen terminología clara sobre cómo la información se hace encontrable, accesible, interoperable y reutilizable. Esto puede incluir licencias, repositorios, formatos y la gobernanza del proyecto.
 
-#### Preservation
+#### Conservación
 
-Research materials are valuable and reusable long after the project's financial support ends. Reuse can extend beyond our own lifetimes. Therefore, researchers must arrange steps for preservation and accessibility to ensure work is not lost after a research interaction ends.
+Los materiales de investigación son valiosos y reutilizables por un largo período de tiempo luego de que el apoyo financiero del proyecto termina. La reutilización puede extenderse más allá de nuestra vida. Por lo tanto, las personas que investigan deben tomar medidas para la conservación y accesibilidad que aseguren que el trabajo no se pierda cuando termine la interacción con una investigación.
 
-## Designing for Openness
+## Diseñando para la Apertura
 
-### Open Science Applies to the Entire Workﬂow
+### La Ciencia Abierta Aplica a Todo el Flujo de Trabajo
 
 <img src="../images/media/image402.jpg" style="width: 100%; height: auto;" />
 
-Open Science Workflow Phases Source: Opensciency
+Fuente para las Fases del Flujo de Trabajo de la Ciencia Abierta: Opensciency
 
 ---
 
@@ -178,8 +178,8 @@ Los principios rectores de ciencia abierta de la NASA están centrados en nuestr
 
 ---
 
-One of the first discoveries from the James Webb Space Telescope
-was the first detection of Carbon Dioxide in the atmosphere of a planet orbiting another star. This discovery was enabled through the open science principles adopted both by the project and the team.
+Uno de los primeros [descubrimientos del telescopio espacial James Webb
+fue la primera detección de dióxido de carbono en la atmósfera de un planeta que orbitaba a otra estrella](https://www. asa.gov/feature/goddard/2022/nasa-s-webb-detects-carbon-dioxide-in-exoplanet-atmosphere). This discovery was enabled through the open science principles adopted both by the project and the team.
 
 <img src="../images/media/image255.jpg" style="width: 100%; height: auto;" />
 
