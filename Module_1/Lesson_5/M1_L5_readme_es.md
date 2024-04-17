@@ -179,23 +179,24 @@ Los principios rectores de ciencia abierta de la NASA están centrados en nuestr
 ---
 
 Uno de los primeros [descubrimientos del telescopio espacial James Webb
-fue la primera detección de dióxido de carbono en la atmósfera de un planeta que orbitaba a otra estrella](https://www. asa.gov/feature/goddard/2022/nasa-s-webb-detects-carbon-dioxide-in-exoplanet-atmosphere). This discovery was enabled through the open science principles adopted both by the project and the team.
+fue la primera detección de dióxido de carbono en la atmósfera de un planeta que orbitaba a otra estrella](https://www. asa.gov/feature/goddard/2022/nasa-s-webb-detects-carbon-dioxide-in-exoplanet-atmosphere). Este descubrimiento fue posible gracias a los principios ciencia abierta adoptados tanto por el proyecto como por el equipo.
 
 <img src="../images/media/image255.jpg" style="width: 100%; height: auto;" />
 
-Image Credit: @AdobeStock 2023, dimazel
+Crédito de la imagen: @AdobeStock 2023, dimazel
 
 <img src="../images/media/atmocomp.jpg" style="width: 100%; height: auto;" />
 
-Figure Credit: NASA, ESA, CSA, Joseph Olmsted (STScI)
+Crédito de la Figura: NASA, ESA, CSA, Joseph Olmsted (STScI)
 
 ---
 
-This was conducted as part of the JWST’s Early Release Science (ERS) Program as part of the JWST ERS Exoplanet Transiting Community program (ERS-TRANSIT). This is some of the earliest science data taken with the facility that was made openly available. The team, though, began their work years before the observations and included open science into every step of the process. The team worked in an open format from ideation, to analysis, through to publication and communication.
+Esto se llevó a cabo como parte del Programa JWST Early Release Science (ERS) como parte del programa JWST ERS Exoplanet Transiting Community program (ERS-TRANSIT). Se trata de algunos de los primeros datos científicos que se tomaron con las instalaciones
+y que se pusieron disponibles de forma abierta. Sin embargo, el equipo comenzó su trabajo años antes de las observaciones e incluyó la ciencia abierta en cada etapa del proceso. El equipo trabajó en un formato abierto desde la ideación hasta el análisis, pasando por la publicación y la comunicación.
 
-Let's walk through and see what open results were in fact produced. While doing so, let’s take a look at what the advantages of doing so at each stage were.
+Veamos qué resultados abiertos fueron producidos , y mientras lo hacemos, echemos un vistazo a las ventajas de hacerlo en cada etapa.
 
-### Planning for Open Science
+### Planificando para hacer Ciencia Abierta
 
 <img src="../images/media/image193.png" style="width: 100%; height: auto;" />
 
@@ -207,32 +208,32 @@ Let's walk through and see what open results were in fact produced. While doing 
     </colgroup>
     <tbody>
         <tr>
-            <td>Opportunity</td>
-            <td>Create a Governance Plan: An open code of conduct and publication policy highlights the rules of engagement of the final result.</td>
+            <td>Oportunidad</td>
+            <td>Crear un Plan de "Gobernanza": Un código abierto de conducta y una política de publicación que resalten las reglas de compromiso con el resultado final.</td>
         </tr>
         <tr>
-            <td>Benefit</td>
-            <td>Onboarding of new members and facilitated collaboration.</td>
+            <td>Beneficios</td>
+            <td>Incorporación de nuevos miembros y facilitación de la colaboración.</td>
         </tr>
         <tr>
-            <td>Result</td>
-            <td>Code of Conduct and Publication Policy.</td>
+            <td>Resultados</td>
+            <td>Código de conducta y política de publicación.</td>
         </tr>
         <tr>
-            <td>Availability</td>
+            <td>Disponibilidad</td>
             <td>
-                <p>On team webpage and GitHub.</p>
+                <p>En la página web del equipo y GitHub.</p>
                 <p><img src="../images/media/image219.jpg" style="width: 100%; height: auto;" /></p>
             </td>
         </tr>
     </tbody>
 </table>
 
-One of the most important parts of starting a project is thinking about who is going to be working on it and how they will work together. Before samples are collected, before data is downloaded, before code is written – how will you all work together, what are the roles and responsibilities, and how and when will you share any materials. That was a key part that this JWST project got right.
+Una de las partes más importantes de la puesta en marcha de un proyecto es pensar quién va a trabajar en él y cómo trabajarán juntos los participantes. Antes de que se recojan las muestras, antes de que se descarguen los datos, antes de que se escriba el código - ¿cómo trabajarán todos juntos, cuáles son los roles y responsabilidades, y cómo y cuándo se compartirán los materiales. Esa fue una parte clave que acertó. este proyecto del JWST.
 
-The initial team, during the planning phase, developed and openly published information in the form of the [code of conduct](https://ers-transit.github.io/code-of-conduct.html) and the [publication policy](https://ers-transit.github.io/documents/publication-policy-v1.0.pdf).
+El equipo inicial, durante la fase de planificación, desarrolló y publicó abiertamente información en forma del [código de conducta](https://ers-transit.github.io/code-of-conduct.html) y la [política de publicación](https://ers-transit.github.io/documents/publication-policy-v1.0.pdf).
 
-Basically, you are welcome to work with us, but here are our rules. And then the lead scientists regularly talked about this with the team, especially as it expanded so everyone knew what was expected of them and what they got in return (credit!).
+Básicamente, pueden trabajar con nosotros, pero aquí están nuestras normas. Y luego los científicos líderes hablaron de esto regularmente con el equipo, especialmente a medida que este se expandió para que todo el mundo supiera lo que se esperaba de ellos y lo que obtendrían a cambio (¡crédito!).
 
 The outcome and benefit of publishing this information was the addition of new members to the team, and an agreed to and established collaborative and inclusive culture among the team.
 
