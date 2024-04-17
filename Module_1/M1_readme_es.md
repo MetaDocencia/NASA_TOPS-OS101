@@ -92,7 +92,7 @@ Apertura - Un concepto o rasgo de personalidad que implica transparencia, colabo
 - [Temores usuales en torno a la Apertura](./Lección_4#temores-usuales-en-torno-a-la-apertura)
 - [Incentivos inadecuados](./Lección_4#incentivos inadecuados)
 - [Barreras sociales](./Lección_4#barreras sociales)
-- [Institutional and Infrastructure Barriers](./Lesson_4#institutional-and-infrastructure-barriers)
+- [Barreras Institucionales y de Infraestructura](./Lesson_4#institutional-and-infrastructure-barriers)
 - [Lección 4: Resumen](./Lección_4#lección-4-resumen)
 - [Lección 4: Comprobación del conocimiento](./Lección_4#comprobación del conocimiento-4)
 
