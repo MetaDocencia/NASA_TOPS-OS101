@@ -1,6 +1,6 @@
 # Lección 2: ¿ Por qué es importante la Ciencia Abierta?
 
-## Navigation
+## Índice
 
 - [La Ciencia Abierta Rompe Barreras y Promueve la Innovación](#la-ciencia-abierta-rompe-barreras-y-promueve-la-innovación)
 - [Beneficios Personales](#beneficios-personales)
