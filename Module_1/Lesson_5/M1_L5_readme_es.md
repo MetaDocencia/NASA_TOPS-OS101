@@ -122,7 +122,7 @@ Fuente para las Fases del Flujo de Trabajo de la Ciencia Abierta: Opensciency
 
 Continuando con el flujo de trabajo, este diagrama actualizado muestra ahora los tipos de productos científicos que son creados en cada hito. Los productos especializados que usted crea pueden variar o ser completamente diferentes, pero el foco en el descubrimiento para el público sigue siendo el mismo. Cualquier tipo de productos que crees puede ser modificado para apoyar los principios y los conceptos de la ciencia abierta. Dónde y cómo integrar conceptos de ciencia abierta en tus productos es el propósito de este programa "Open Science 101".
 
-### Usar, Hacer, Compartir
+### Utilizar, Hacer, Compartir
 
 <img src="../images/media/image165.png" style="width: 100%; height: auto;" />
 
@@ -150,21 +150,21 @@ Los módulos 3, 4 y 5 abordarán cómo generar tus datos, código y resultados a
 
 Crédito de la imagen: Freepik.com
 
-Where you choose to share your research materials and results will have a large influence on its impact – how easy it is for others to find it, how long it is available, and how easy it is to reuse.
+Donde elijas compartir tus materiales y resultados de investigación tendrá una gran influencia en su impacto – cuán fácil sea para los demás encontrarlo, cuánto tiempo esté disponible, y lo fácil que sea reutilizarlo.
 
-Will you share data in a file filled with columns of unlabelled numbers without any units or explanations or will it be in an open, standard format and following the  [Findable, Accessible, Interoperable, Reusable (FAIR) principles](https://www.go-fair.org/fair-principles/)? Module 3 has more details to help you better understand how to share your data and explains ideas like FAIR and best practices in sharing data. This includes different considerations for where to share your data as well so that it is both accessible and preserved.
+¿Compartirás datos en un archivo rellenado con columnas de números no etiquetados sin niguna unidad o explicación o, en cambio, estará en un formato abierto y estándar, y siguiendo los [principios FAIR (Encontrable, Accesible, Interoperable y Reutilizable)](https://www. o-fair.org/f► principles/)? El módulo 3 cuenta con más detalles para ayudarte a entender mejor cómo compartir tus datos y explica las ideas como FAIR (Encontrable, Accesible, Interoperable y Reutilizable), y buenas prácticas a la hora de compartir datos. Esto incluye diferentes consideraciones sobre dónde compartir tus datos, así como para que sea de manera accesible y preservada.
 
-For software, since it is often updated and changed, many researchers first share it on a version control platform like GitHub or GitLab but then archive a version of it in a repository that has long-term preservation capabilities – more on this in Module 4!
+Para el software, ya que a menudo se actualiza y cambia, muchos investigadores lo comparten primero en una plataforma con control de versiones como GitHub o GitLab, pero luego archivan una versión de la misma en un repositorio que tiene capacidades de preservación a largo plazo – ¡aprendé más sobre esto en el Módulo 4!
 
-For results, open access publications and preprint servers are common locations to share. Module 5 discusses all these options.
+Para obtener resultados, las publicaciones de acceso abierto y los servidores de prepublicación son lugares comunes para compartirlos. El módulo 5 trata todas estas opciones.
 
-### Activity 5.1: Use, Make, Share
+### Actividad 5.1: Utilizar, Hacer, Compartir
 
 <img style="width:350px;height:auto;" src="../images/media/lightbulb.png">
 
-Take a moment, to answer the following questions on your current research or on research that you would like to do:
+Tómate un momento para responder las siguientes preguntas sobre tu investigación actual o sobre la investigación que te gustaría hacer:
 
-- What data, software, or publications do you currently use or would like to use? Are they open or closed?
+- ¿Qué datos, software o publicaciones utiliza actualmente o desearía utilizar? ¿Son abiertos o cerrados?
 - What are the tools and processes that you currently use? Is it easy to include others in collaboration?
 - How is your work shared or planned to be shared? Can anyone access your results?
 
@@ -333,17 +333,17 @@ Aquí vamos a explorar los siguientes pasos para abrir la ciencia que todo el mu
 - Participa: Forma parte de una comunidad científica abierta en tu sector.
 - Empieza a usar/compartir las herramientas de ciencia abierta de tu comunidad.
 - Aprende cómo utilizar/archivar datos en repositorios, herramientas comunitarias y recursos.
-- Concise statement of the Ethos of Open Science: Find, collaborate, and share!
+- Breve declaración del Ethos de la Ciencia Abierta: ¡Busca, colabora y comparte!
 
-### Identify Your Open Science Communities
+### Identifica tus comunidades de ciencia abierta
 
-Here are the steps you can take to find your own science community:
+Estos son los pasos que puedes dar para encontrar tu propia comunidad científica:
 
-- Talk with your colleagues.
-- Read your field’s literature.
-- Run searches, in general and discipline-specific areas.
-- Investigate online communities encouraging open science, such as:
-  - The EU's '[Foster Open Science](https://www.fosteropenscience.eu/)' program
+- Habla con tus colegas.
+- Lee literatura de tu campo.
+- Realiza búsquedas en áreas generales y específicas de la disciplina.
+- Investiga comunidades en línea que fomentan la ciencia abierta, como:
+  - El programa "[Foster Open Science](https://www.fosteropenscience.eu/)" de la Unión Europea
   - [The Turing Way online manual](https://the-turing-way.netlify.app/index.html)
   - [FORRT](https://forrt.org/)
 
