@@ -1,31 +1,31 @@
-# Lección 5: De la teoría a la práctica
+# Lesson 5: From Theory to Practice
 
-## Navegación
+## Navigation
 
-- [Overview](#resumen)
-- [Objetivos de Aprendizaje](./Lesson_5#learning-objectives)
-- Escribir un Plan de Ciencia Abierta y Gestión de Datos
-- Las comunidades de datos abiertos
-- [Recursos adicionales](#adicional-recursos)
-- [Lección 5: Resumen](./Lesson_5#lesson-5-summary)
-- Evaluación de Conocimientos de la Lección 5
-- [Resumen de datos abiertos](#open-data-Resumen)
+- [Overview](#overview)
+- [Learning Objectives](#learning-objectives)
+- [Writing an Open Science and Data Management Plan](#writing-an-open-science-and-data-management-plan)
+- [Open Data Communities and You](#open-data-communities-and-you)
+- [Additional Resources](#additional-resources)
+- [Lesson 5: Summary](#lesson-5-summary)
+- [Lesson 5: Knowledge Check](#lesson-5-knowledge-check)
+- [Open Data Summary](#open-data-summary)
 
-## Descripción General
+## Overview
 
-En esta lección, practicarás escribir un plan de gestión de datos. Luego aprenderás cómo puedes involucrarte en las comunidades que los emplean. También conocerás recursos que puedes empezar a utilizar y entrenarte para iniciar tu camino con datos abiertos.
+In this lesson, you will get some practice writing a data management plan. You will then learn how you can get involved in open data communities. You will also learn about resources you can start to use and training you can take to start your journey with open data.
 
-## Objetivos de aprendizaje
+## Learning Objectives
 
-Después de completar este módulo, deberías poder:
+After completing this lesson, you should be able to:
 
-- Describir los pasos para escribir un plan de gestión de datos.
-- Enumerar oportunidades para participar en las comunidades de datos abiertos.
-- Identificar recursos adicionales de ciencia abierta y listar formas de continuar entrenándote.
+- Describe the steps toward writing a data management plan.
+- List opportunities for involvement in the open data communities.
+- Identify additional open science resources and list ways to continue training.
 
-## Escribir un Plan de Ciencia Abierta y Gestión de Datos
+## Writing an Open Science and Data Management Plan
 
-El proceso, las responsabilidades y los factores a considerar al crear un plan de ciencia abierta y gestión de datos se han presentado a lo largo de este módulo. Common elements of DMPs relevant to open data include a description of the following:
+The process, responsibilities, and factors to consider when creating an open science and data management plan have been presented throughout this module. Common elements of DMPs relevant to open data include a description of the following:
 
 |        |                                                                        |
 | ------ | ---------------------------------------------------------------------- |
