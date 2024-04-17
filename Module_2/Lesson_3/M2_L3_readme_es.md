@@ -243,77 +243,77 @@ Mejor para:
 
 Las salidas incluyen:
 
-- A chart with scores and details
+- Un gráfico con puntuaciones y detalles
 
 **F-UJI**
 
-Automated via website or API
+Automatizado a través del sitio web o API
 
-Best for:
+Mejor para:
 
-- Scalability to many datasets
-- Detailed documentation of tool
+- Escalabilidad a muchos conjuntos de datos
+- Documentación detallada de la herramienta
 
-Outputs include:
+Las salidas incluyen:
 
-- A report and chart with scores and details
+- Un gráfico con puntuaciones y detalles
 
-**FAIR EVALUATION SERVICES**
+SERVICIOS DE EVALUACIÓN FAIR
 
-Automated via website or API
+Automatizado a través del sitio web o API
 
-Best for:
+Mejor para:
 
-- Scalability to many datasets
-- To generate a custom assessment
+- Escalabilidad a muchos conjuntos de datos
+- Para generar una evaluación personalizada
 
-Outputs include:
+Las salidas incluyen:
 
-- A detailed report and chart
+- Un informe detallado y un gráfico
 
-## Lesson 3: Summary
+## Lección 3: Resumen
 
-In this lesson you learned:
+En esta lección has aprendido:
 
-- The different types of scientific data, including primary, secondary, published, and metadata.
-- A list of open science practices to implement FAIR principles that make data and results easily accessible to a wide range of people.
-- Digital tools to help plan for making and sharing open data.
+- Los diferentes tipos de datos científicos, incluyendo datos primarios, secundarios, publicados y metadatos.
+- Una lista de prácticas de ciencia abierta para aplicar los principios FAIR que hacen que los datos y resultados sean fácilmente accesibles a un amplio abanico de personas.
+- Herramientas digitales para ayudar a planificar la creación y el intercambio de datos abiertos.
 
-## Lesson 3: Knowledge Check
+## Lección 3: Prueba de Conocimiento
 
-Answer the following questions to test what you have learned so far.
+Responda a las siguientes preguntas para probar lo que has aprendido hasta ahora.
 
-_Question_
+_Pregunta_
 
 **01/03**
 
-Choose the FAIR Principles from the list below. Select all that apply.
+Seleccione los principios FAIR de la siguiente lista. Seleccione todas las opciones que correspondan.
 
-- Reproducible
-- Reusable
-- Responsible
-- Findable
-- Interactive
+- Reproducibilidad
+- Reutilizable
+- responsable
+- Localizable
+- Interactivo
 - Interoperable
-- Interspersed
-- Accessible
-- Authorizable
+- Interpolado
+- Accesible
+- Autorizable
 
-_Question_
+_Pregunta_
 
 **02/03**
 
-Which of the following can help make your data FAIR? Select all that apply.
+¿Cuál de las siguientes opciones puede ayudar a que tus datos sean FAIR? Seleccione todas las opciones que correspondan.
 
-- Get a license for your data
-- Make sure you develop your own metadata
-- Obtain a PID for your data
+- Obtener una licencia para tus datos
+- Asegurarse de desarrollar tus propios metadatos
+- Obtener un PID para tus datos
 
-_Question_
+_Pregunta_
 
 **03/03**
 
-Which of the following are examples of repositories? Select all that apply.
+¿Cuáles de los siguientes son ejemplos de repositorios? Seleccione todas las opciones que correspondan.
 
 - Zenodo
 - Dataverse
