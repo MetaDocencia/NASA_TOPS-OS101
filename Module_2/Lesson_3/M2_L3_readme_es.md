@@ -11,7 +11,7 @@
 
 ## Descripción general
 
-This lesson discusses the concepts, considerations, and tools for making data and results. It starts with a closer look at the FAIR principles and how they apply to data. The lesson includes an introduction to plans, tools, data formats, and other considerations that are related to making data and sharing the results related to that data.
+Esta lección trata sobre los conceptos, consideraciones y herramientas para crear datos y resultados. Comienza con una mirada centrada en los principios FAIR y cómo se aplican a los datos. The lesson includes an introduction to plans, tools, data formats, and other considerations that are related to making data and sharing the results related to that data.
 
 ## Learning Objectives
 
