@@ -434,42 +434,38 @@ We'll discuss each component (data, software, & results) when we cover each topi
 
 ### Design Your Science to be Open
 
-Funding organizations and agencies around the world are beginning to require open science plans. In this curriculum, we will focus on the NASA Open Science and Data Management Plan. These plans are not unique to NASA. Knowing how to write one for NASA should prepare you for almost any funding opportunity.
+Funding organizations and agencies around the world are beginning to require open science plans. En este plan de estudios, nos centraremos en el Plan de Ciencia Abierta y Gestión de Datos de la NASA (PCAGD) (en inglés, Open Science and Data Management Plan, OSDMP). Los planes de ciencia abierta no son exclusivos de la NASA. Sin embargo, saber cómo escribir uno para esta agencia debería prepararte para casi cualquier oportunidad de financiamiento.
 
-The OSDMP describes how the scientific information that will be produced from scientific activities will be managed and made openly available. Specifically, a plan should include sections on data management, software management, and publication sharing. If your study has other types of outputs, such as physical samples, hardware, or anything else, you should include those in the plan. An OSDMP helps researchers think about the details of how they plan to share results.
+El PCAGD describe cómo se gestionará y se pondrá a disposición abiertamente la información científica que se producirá a partir de actividades científicas. Específicamente, un plan debe incluir secciones sobre gestión de datos, gestión de software y compartición de publicaciones. Si tu estudio tiene otros tipos de salidas, como muestras físicas, hardware o cualquier otra cosa, también debes incluirlas en el plan. Un PCAGD ayuda a los investigadores a pensar en los detalles de planificación para compartir resultados.
 
-A well written OSDMP can help you win funding because it demonstrates your skills at doing open science!
+¡Un PCAGD bien escrito puede ayudarte a obtener financiación porque demuestra tus habilidades para hacer ciencia abierta!
 
  <img src="../images/media/image24.png" style="width:100%;height:auto;" />
 
-Example sections to include in an OSDMP:
+Secciones de ejemplo para incluir en un PCAGD:
 
-1. Data Management Plan (DMP)
-2. Software Management Plan (SMP)
-3. Publication sharing
-4. Other open science activities
-5. Roles and responsibilities
+1. Plan de Gestión de Datos (PGD) (en inglés, Data Managemente Plan, DMP)
+2. Plan de Gestión de Software (PGS) (en inglés, Software Management Plan, SMP)
+3. Compartir publicaciones
+4. Otras actividades de ciencia abierta
+5. Roles y responsabilidades
 
-The steps for each of these sections should include:
+Los pasos para cada una de estas secciones deben incluir:
 
-- What?
-  - Description of types of materials that will be
-    produced
-- When?
-  - The schedule for archiving and sharing
-- Where?
-  - The repository(ies) and archives that will be
-    used to share materials
-- How?
-  - The details of how to enable reuse of
-    materials (eg. licensing, documentation,
-    metadata)
-- Who?
-  - Roles and responsibilities of the team members
+- ¿Qué?
+  - Descripción de los tipos de materiales que se producirán
+- ¿Cuando?
+  - El cronograma para archivar y compartir
+- ¿Dónde?
+  - Los repositorios y archivos que se utilizarán para compartir materiales
+- ¿Cómo?
+  - Los detalles de permiso para la reutilización de materiales (por ejemplo, licencias, documentación, metadatos)
+- ¿Quién?
+  - Roles y responsabilidades de los miembros del equipo
 
-### Data Management Plan
+### Plan de Gestión de Datos
 
-Every major research foundation and federal government agency now requires scientists to file a data management plan (DMP) along with their proposed research plan. Data and other elements such as code and publications have their own lifecycle and workflow, which need to be in the plan. DMPs are a critical aspect of open science and help keep other researchers informed and on track throughout the data management lifecycle.
+Las principales fundaciones y agencias de gobierno exigen en la actualidad que los científicos presenten un Plan de Gestión de Datos (PGD) junto con la propuesta de su plan de investigación. Los datos y otros elementos, como el código y las publicaciones, tienen su propio ciclo de vida y flujo de trabajo, que deben estar incluidos en el plan. Los PGD son un aspecto crítico de la ciencia abierta y ayudan a mantener a otros investigadores informados y encaminados durante todo el ciclo de vida de la gestión de datos.
 
 DMPs that are successful typically include a clear terminology about FAIR and CARE principles and how they will be applied.
 
