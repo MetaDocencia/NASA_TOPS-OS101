@@ -343,11 +343,11 @@ Estos son los pasos que puedes dar para encontrar tu propia comunidad científic
 - Lee literatura de tu campo.
 - Realiza búsquedas en áreas generales y específicas de la disciplina.
 - Investiga comunidades en línea que fomentan la ciencia abierta, como:
-  - El programa "[Foster Open Science](https://www.fosteropenscience.eu/)" de la Unión Europea
-  - [The Turing Way online manual](https://the-turing-way.netlify.app/index.html)
-  - [FORRT](https://forrt.org/)
+  - El programa "[Foster Open Science](https://www.fosteropenscience.eu/)" de la Unión Europea,
+  - [El manual online "The Turing Way"](https://book.the-turing-way.org/),
+  - [FORRT](https://forrt.org/).
 
-Join open science communities. There are generic ones as listed here or you can seek out communities that are not only within your domain but also within your geographical area.
+Únete a comunidades de ciencia abierta. There are generic ones as listed here or you can seek out communities that are not only within your domain but also within your geographical area.
 
 - [TOPS GitHub discussion board](https://github.com/nasa/Transform-to-Open-Science/discussions)
 - Opensciency online open science [community list](https://opensciency.github.io/sprint-content/open-tools-resources/lesson5-open-science-communities.html#communities-of-practice-list)
