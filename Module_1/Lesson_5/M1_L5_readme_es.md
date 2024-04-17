@@ -235,7 +235,7 @@ El equipo inicial, durante la fase de planificación, desarrolló y publicó abi
 
 Básicamente, pueden trabajar con nosotros, pero aquí están nuestras normas. Y luego los científicos líderes hablaron de esto regularmente con el equipo, especialmente a medida que este se expandió para que todo el mundo supiera lo que se esperaba de ellos y lo que obtendrían a cambio (¡crédito!).
 
-The outcome and benefit of publishing this information was the addition of new members to the team, and an agreed to and established collaborative and inclusive culture among the team.
+El resultado y el beneficio de publicar esta información fue la adición de nuevos miembros al equipo, y una cultura colaborativa e inclusiva acordada y establecida entre el equipo.
 
 The team grew to almost 400 people, all working together, all knowing what to expect and this created trust.
 
