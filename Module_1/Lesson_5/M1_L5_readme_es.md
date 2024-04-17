@@ -116,39 +116,39 @@ Los productos creados a lo largo del proceso científico son necesarios para que
 
 <img src="../images/media/image130.jpg" style="width: 100%; height: auto;" />
 
-Open Science Workflow Products Source: Opensciency
+Fuente para las Fases del Flujo de Trabajo de la Ciencia Abierta: Opensciency
 
 ---
 
-Continuing through the workflow, this updated diagram now shows the types of scientific products that are created at each milestone. The specialized products that you create may vary or be completely different, but the focus on discovery for the public remains the same. Any type of products you create can be modified to support the principles and concepts of open science. Where and how to integrate open science concepts into your products is the purpose of this Open Science 101 curriculum.
+Continuando con el flujo de trabajo, este diagrama actualizado muestra ahora los tipos de productos científicos que son creados en cada hito. Los productos especializados que usted crea pueden variar o ser completamente diferentes, pero el foco en el descubrimiento para el público sigue siendo el mismo. Cualquier tipo de productos que crees puede ser modificado para apoyar los principios y los conceptos de la ciencia abierta. Dónde y cómo integrar conceptos de ciencia abierta en tus productos es el propósito de este programa "Open Science 101".
 
-### Use, Make, Share
+### Usar, Hacer, Compartir
 
 <img src="../images/media/image165.png" style="width: 100%; height: auto;" />
 
-The idea that open science can impact your entire scientific workflow may seem overwhelming and unachievable, but remember, open science occurs across a spectrum – even small steps towards openness lead to more accessible, inclusive, and reproducible science. And the Open Science 101 curriculum is here to help lead through this process.
+La idea de que la ciencia abierta puede afectar a todo tu flujo de trabajo científico puede parecer abrumadora e inalcanzable, pero recuerda, la ciencia abierta se da a través de todo un espectro –incluso los pequeños pasos hacia la apertura conducen a una ciencia más accesible, inclusiva y reproducible. Y el programa Open Science 101 está aquí para ayudarte a atravesar este proceso.
 
-In this section, we introduce the "Use, Make, Share" framework that can start to gradually increase your adoption of open science depending on the nature and scope of your project. Throughout the course, we will explore how this framework can be used to make your science more open!
+En esta sección, presentamos el sistema "Usar, Hacer, Compartir" que puede empezar a aumentar gradualmente tu adopción de la ciencia abierta dependiendo de la naturaleza y el alcance de tu proyecto. ¡A lo largo del curso, exploraremos cómo puede ser utilizado este marco para hacer tu ciencia más abierta!
 
-### What Resources Will You Use?
+### ¿Qué recursos utilizarás?
 
-There are already many open science resources for you to use! Open science already has a long history. For example, the act that created NASA mandated sharing of its discoveries with all of humanity and NASA has been sharing its data openly on the internet since the 1980’s. Now, there are already over 100 Petabytes of openly available NASA data for you to search, download, and use and examples of these services are provided in Module 3. Technology and practices have been developed around code that make it easy to collaborate on building complex solutions, and examples are given in Module 4. A range of services make it easy to share and discover open access publications and these are discussed in Module 5.
+¡Ya existen muchos recursos de ciencia abierta para que los utilices! La ciencia abierta cuenta ya con una larga historia. Por ejemplo, el acto que creó la NASA estipula el compartir sus descubrimientos con toda la humanidad y la NASA ha estado compartiendo sus datos abiertamente en Internet desde la década de 1980. Ahora, ya hay más de 100 Petabytes de datos de la NASA abiertamente disponibles para que busques, descargues, y utilices, y ejemplos de estos servicios se proporcionan en el Módulo 3. Se han desarrollado tecnologías y prácticas alrededor del código que facilitan la colaboración en la construcción de soluciones complejas, y se dan ejemplos en el Módulo 4. Una serie de servicios facilitan el intercambio y el descubrimiento de publicaciones con acceso abierto, y que son discutidos en el Módulo 5.
 
-In Module 2, we will introduce you to some of the tools that not only make open science possible, but also easy.
+En el Módulo 2, te presentaremos algunas de las herramientas que no sólo hacen posible la ciencia abierta, sino que también son fáciles.
 
-### What Outputs Will You Make?
+### ¿Qué resultados obtendrás?
 
-Throughout the research process, there will be different products and results produced. These can range from data sets, samples, code, reports, manuscripts, conference proceedings, blog posts, and videos. Each of these have different considerations about how to make them including how they can be made in open and collaborative ways.
+A lo largo del proceso de investigación, habrá diferentes productos y resultados obtenidos. Estos pueden variar desde conjuntos de datos (en inglés, data sets), muestras, código, informes, manuscritos, actas de conferencia, entradas de blog y videos. Cada uno de ellos tiene diferentes consideraciones sobre cómo hacerlas incluyendo cómo pueden hacerse de formas abiertas y colaborativas.
 
-There are also different ways to run a scientific project. Is your project going to be open from inception or open at publication? There are valid reasons for both approaches, but generally the earlier you are open with data, code, and results, the more opportunities there are to grow collaboration networks and build with others (which is quite fun). Often researchers choose to be open within their project teams during development, exchanging data, code, and results, but then only sharing with the world once they feel they have a result they can trust. While this approach has been the cultural ‘norm’ within many communities, this is changing as groups grow more comfortable with openness earlier in projects and experience valuable contributions from others and build new collaboration networks.
+También hay diferentes maneras de dirigir un proyecto científico. ¿Su proyecto va a ser abierto desde el comienzo o abierto en la publicación? Hay razones válidas para ambas actitudes, pero generalmente lo antes que abras los datos, el código y los resultados, más oportunidades hay para hacer crecer las redes de colaboración y construir con otros (lo que es bastante divertido). A menudo los investigadores eligen ser abiertos dentro de sus equipos de proyecto durante el desarrollo, el intercambio de datos, el código, y los resultados, pero luego sólo comparten con el mundo una vez que sienten que tienen un resultado en que pueden confiar. Si bien este enfoque ha sido la “norma” cultural dentro de muchas comunidades, esto está cambiando a medida que los grupos se sienten más cómodos con la apertura temprana en los proyectos y experimentan contribuciones valiosas de otras personas y se construyen nuevas redes de colaboración.
 
-Modules 3, 4, and 5 will discuss how to make your data, code, and results open.
+Los módulos 3, 4 y 5 abordarán cómo generar tus datos, código y resultados abiertos.
 
-### How Will You Share?
+### ¿Cómo compartirás?
 
 <img src="../images/media/image257.png" style="width: 100%; height: auto;" />
 
-Image Credit: Freepik.com
+Crédito de la imagen: Freepik.com
 
 Where you choose to share your research materials and results will have a large influence on its impact – how easy it is for others to find it, how long it is available, and how easy it is to reuse.
 
@@ -264,24 +264,24 @@ El equipo creció hasta casi 400 personas, todos trabajando juntos, todos sabien
         </tr>
         <tr>
             <td>Resultados</td>
-            <td>Data processing pipeline</td>
+            <td>Cadena de producción de procesamiento de datos</td>
         </tr>
         <tr>
-            <td>Availability</td>
+            <td>Disponibilidad</td>
             <td>
-                <p>Code on <i>GitHub</i>, released on <i>Zenodo</i>, documents released in <i>Journal of Open Source Software</i> (an open access journal)</p>
+                <p>Código en <i>GitHub</i>, lanzamiento en <i>Zenodo</i>, documentos publicados en <i>Journal of Open Source Software</i> (una revista de acceso abierto)</p>
                 <p><img src="../images/media/image221.jpg" style="width: 100%; height: auto;" /></p>
             </td>
         </tr>
     </tbody>
 </table>
 
-Like most data, JWST is complicated and it needs processing and data pipelines. The precision needed to achieve this type of detection requires detailed analysis of the observations and a wide range of expertise.
+Como la mayoría de los datos, JWST es complicado y necesita procesamiento y cadenad de producción de datos. La precisión necesaria para lograr este tipo de detección requiere un análisis detallado de las observaciones y una amplia gama de conocimientos.
 
-During the implementation phase, the team collaborated on creating the data processing software together, so that everyone would benefit. Imagine the wasted effort if all 400 people had written the software themselves. The benefit and outcome was that by collaborating on this effort, the team decreased duplicative efforts, contributors got credit for their work, the software was more accurate, and this effort accelerated the data wrangling process. EUREKA!, the software created, was [created openly](https://github.com/kevin218/Eureka)
-with [documentation](https://eurekadocs.readthedocs.io/en/latest/) and published with [peer-review of the software package.](https://joss.theoj.org/papers/10.21105/joss.04503)
+Durante la fase de implementación, el equipo colaboró en la creación del software de procesamiento de datos, para que todos se beneficiaran. Imagínese el esfuerzo malgastado si las 400 personas hubieran escrito el software ellos mismos. El beneficio y el resultado fue que gracias a este esfuerzo de colaboración, el equipo disminuyó los esfuerzos duplicados, los colaboradores obtuvieron crédito por su trabajo, el software fue más preciso, y se aceleró el proceso de generación de datos. ¡EUREKA!, el software fue [creado de forma abierta](https://github.com/kevin218/Eureka)
+con [documentación](https://eurekadocs.readthedocs.io/en/latest/) y publicado con una [revision por pares del paquete de software.](https://joss.theoj.org/papers/10.21105/joss.04503)
 
-But they didn’t have to to start from scratch! The ERS-TRANSIT team was able to build on the work of others. The software built on the [JWST pipeline software](https://github.com/spacetelescope/jwst) developed openly by the JWST mission team. Furthermore, they were able to build on a much larger open source software ecosystem using python and Astropy.
+¡Pero no tuvieron que empezar de cero! The ERS-TRANSIT team was able to build on the work of others. The software built on the [JWST pipeline software](https://github.com/spacetelescope/jwst) developed openly by the JWST mission team. Furthermore, they were able to build on a much larger open source software ecosystem using python and Astropy.
 
 ### Open Access to Results
 
