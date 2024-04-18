@@ -412,102 +412,101 @@ Además de los recursos mencionados en otras partes de esta capacitación, los s
 
 ## Lección 5: Resumen
 
-There is no one way of doing open science, and any steps you take to make your science more open are extremely valuable, especially as we transition to a more open scientific ecosystem in the future. We want people to be able to identify the most important things they "can" openly share, but with the ultimate goal of complete openness.
+No hay una única forma de hacer ciencia abierta, y cualquier paso que se dé para hacer que la ciencia sea más abierta es extremadamente valioso, especialmente a medida que hacemos la transición a un ecosistema científico más abierto en el futuro. Queremos que las personas puedan identificar las cosas más importantes que "pueden" compartir abiertamente, pero con el objetivo final de una total apertura.
 
-### What Have We Covered in this Module?
+### ¿Qué hemos cubierto en este módulo?
 
-- Preparing and organizing in advance are crucial components for ensuring the effectiveness of open science work.
-- Open Science and Data Management Plans (OSDMP) provide a plan for how open science is integrated into a project including the sharing of data, software, and results.
-- Designing for openness is a critical aspect of making sure that open science is integrated into the entire scientific workflow from start to finish. This includes resources that can be used, products that will be made, and how the science will be shared.
-- Open Science is already happening - there are already teams conducting their research openly and many resources that can be used to make your research more open.
-- There are more opportunities to participate and learn about Open Science – this is just the start!
+- La preparación y la organización anticipadas son componentes cruciales para garantizar la eficacia del trabajo científico abierto.
+- Los Planes de Ciencia Abierta y Gestión de Datos (OSDMP, por sus siglas en inglés) proporcionan un plan sobre cómo se integra la ciencia abierta en un proyecto, incluido el intercambio de datos, software y resultados.
+- Diseñar para la apertura es un aspecto fundamental para garantizar que la ciencia abierta se integre en todo el flujo de trabajo científico, de principio a fin. Esto incluye desde los recursos que serán utilizados, los productos que serán fabricados y cómo se compartirá la ciencia.
+- La Ciencia Abierta ya está sucediendo - ya hay equipos que están llevando a cabo sus investigaciones de manera abierta y muchos recursos que pueden utilizarse para hacer que tu investigación sea más abierta.
+- Hay más oportunidades para participar y aprender acerca de Ciencia Abierta - ¡esto es sólo el comienzo!
 
-## Lesson 5: Knowledge Check
+## Lección 5: Evaluación
 
-Answer the following questions to test what you have learned so far.
+Responde las siguientes preguntas para probar lo que has aprendido hasta ahora.
 
-_Question_
+_Pregunta_
 
 **01/04**
 
-Applying reproducibility practices separately on different parts of the project allows other researchers to do what?
+Aplicar prácticas de reproducibilidad por separado en diferentes partes del proyecto, ¿qué les permite hacer a otros investigadores?
 
-Select all that apply.
+Seleccione todas las opciones que correspondan.
 
-- Expand research focus
-- Consider opportunities for more collaborative advantage
-- Test and reuse your work in their research
-- Cite your research more often to bring fair recognition to your work
-- Understand new discoveries
+- Ampliar el enfoque de investigación.
+- Considerar oportunidades para obtener mayor ventaja colaborativa.
+- Probar y reutilizar tu trabajo en sus investigaciones.
+- Citar tu investigación con más frecuencia para brindar un reconocimiento justo a tu trabajo.
+- Comprender nuevos descubrimientos.
 
-_Question_
+_Pregunta_
 
 **02/04**
 
-Read the statement and decide whether it's true or false.
+Lee la siguiente afirmación e indica si es Verdadera o Falsa.
 
-_The Open Science and Data Management Plan (OSDMP) describes how the scientific information that will be produced from scientific activities will be managed and made openly available._
+_El Plan de Ciencia Abierta y Gestión de Datos (OSDMP) describe cómo se gestionará y se pondrá a disposición de manera abierta la información científica que se producirá a partir de las actividades científicas._
 
-- True
-- False
+- Verdadero
+- Falso
 
-_Question_
+_Pregunta_
 
 **03/04**
 
-Read the statement and decide whether it's true or false.
+Lee la siguiente afirmación e indica si es Verdadera o Falsa.
 
-_Before starting a project, it is important for researchers to consider how they will collaborate with other researchers, what are the roles and responsibilities, and how and when they will share any materials._
+_Antes de comenzar un proyecto, es importante que los investigadores consideren cómo colaborarán con otros investigadores, cuáles son los roles y responsabilidades, y cómo y cuándo compartirán los materiales._
 
-- True
-- False
+- Verdadero
+- Falso
 
-_Question_
+_Pregunta_
 
 **04/04**
 
-Which item is NOT one of the four steps to open science that anyone can take?
+¿Qué ítem NO es uno de los cuatro pasos para abrir la ciencia que cualquiera puede dar?
 
-Select all that apply.
+Seleccione todas las opciones que correspondan.
 
-- Engage with underrepresented communities to ensure  science encourages a more equitable, impactful, and
-  positive future.
-- Ask colleagues about open science activities, and award credit for them in evaluations.
-- Think about all the different types of reviews you are involved with, and how to improve them with a goal of openness.
-- Create a new journal that requires an expensive subscription to read.
-- Keep seeking best practices for open science, and develop plans to be more open in your science or research.
+- Involúcrese con comunidades subrepresentadas para garantizar que la ciencia fomente un futuro más equitativo, impactante y positivo.
+- Pregunte a sus colegas sobre actividades científicas abiertas y otórgueles crédito en las evaluaciones.
+- Piense en los diferentes tipos de revisiones en las que participa y en cómo mejorarlas con el objetivo de apertura.
+- Cree una nueva revista que requiera una costosa suscripción para su lectura.
+- Continúe buscando las mejores prácticas para ciencia abierta y desarrolla planes para ser más abierto en tu ciencia o investigación.
 
-## The Ethos of the Open Science Summary
+## Resumen del Ethos de la Ciencia Abierta
 
-Congratulations! Now you should be able to:
+¡Felicitaciones! Ahora, deberías ser capaz de:
 
-- Explain what open science is, why it's a good thing to do, and list some of the benefits and challenges of open science adoption.
-- Describe the practice of open science, including considerations when writing a management plan and the tasks in the "Use, Make, Share" framework.
-- Evaluate available options when determining whether research products should or should not be open.
-- List ways to connect with others who are part of the open science community.
+- Explicar qué es la ciencia abierta y por qué se la entiende como una práctica positiva. También deberías poder enumerar algunos de los beneficios y los desafíos que supone la adopción de las prácticas de ciencia abierta.
+- Describir las prácticas de ciencia abierta, incluyendo las consideraciones que se deben tener a la hora de redactar un plan de gestión y las tareas enmarcadas en el enfoque de "Usar, Hacer, Compartir".
+- Evaluar las diferentes opciones disponibles al determinar si los productos de investigación deben estar o no abiertos.
+- Enumerar formas de conectarse con otras comunidades que forman parte de la comunidad científica abierta.
 
-### Further Resources
+### Recursos adicionales
 
-**Masuzzo and Martens (2017). Do you speak Open Science? Resources and tips to learn the language**
+**Masuzzo y Martens (2017). Do you speak Open Science? Resources and tips to learn the language**
 
-[CLICK TO LEARN](https://peerj.com/preprints/2689v1/)
+[HAZ CLIC PARA APRENDER MÁS](https://peerj.com/preprints/2689v1/) (en inglés)
 
-**Guiding Principles for Findable, Accessible, Interoperable and Re-usable Data. Publishing version B1.0, Force 11**
+**Guiding Principles for Findable, Accessible, Interoperable and Re-usable Data. Versión publicada B1.0, Force 11**
 
-[CLICK TO LEARN](https://www.force11.org/fairprinciples)
+[HAZ CLIC PARA APRENDER MÁS](https://www.force11.org/fairprinciples) (en inglés)
 
-**Fecher and Friesike (2014). Open Science: One Term, Five Schools of Thought**
+**Fecher y Friesike (2014). Open Science: One Term, Five Schools of Thought**
 
-[CLICK TO LEARN](http://doi.org/10.1007/978-3-319-00026-8_2)
+[HAZ CLIC PARA APRENDER MÁS](http://doi.org/10.1007/978-3-319-00026-8_2) (en inglés)
 
-**EC Working Group on Education and Skills under Open Science (2017). Providing researchers with the skills and competencies they need to practise Open Science**
+Grupo de Trabajo de la Comisión Europea sobre Educación y Habilidades en Ciencia Abierta (2017). Providing researchers with the skills and competencies they need to practise Open Science\*\*
 
-[CLICK TO LEARN](http://ec.europa.eu/)
+[HAZ CLIC PARA APRENDER MÁS](http://ec.europa.eu/) (en inglés)
 
-**"What is Open Science"**
+**"¿Qué es la ciencia abierta?"**
 
-[CLICK TO LEARN](https://blog.f1000.com/2014/11/11/what-is-open-science/)
+[HAZ CLIC PARA APRENDER MÁS](https://blog.f1000.com/2014/11/11/what-is-open-science/) (en inglés)
 
-**Resources for Earth Science**
+**Recursos para Ciencias de la Tierra**
 
-[CLICK TO LEARN](https://www.earthdatascience.org/)
+[HAZ CLIC PARA APRENDER MÁS](https://www.earthdatascience.org/) (en inglés)
