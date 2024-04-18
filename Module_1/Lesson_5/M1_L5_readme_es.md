@@ -359,20 +359,20 @@ Existen muchos repositorios que albergan datos abiertos, software y resultados. 
 - [Science Discovery Engine](http://science.data.nasa.gov/search)
 - [https://data.nasa.gov/](https://data.nasa.gov/)
 
-### Four Steps to Open Science that Anyone Can Take
+### Cuatro pasos para abrir la ciencia que cualquiera puede dar
 
-1. Keep seeking best practices for open science, and develop plans to be more open in your science or research.
-2. Think about all the different types of reviews you are involved with, and how to improve them with a goal of openness.
-3. Ask colleagues about open science activities, and award credit for them in evaluations.
-4. Engage with underrepresented communities to ensure science encourages a more equitable, impactful, and positive future.
+1. Continúe buscando las mejores prácticas para ciencia abierta y desarrolla planes para ser más abierto en tu ciencia o investigación.
+2. Piense en los diferentes tipos de revisiones en las que participa y en cómo mejorarlas con el objetivo de ser abiertos.
+3. Pregunte a sus colegas sobre actividades científicas abiertas y otórgueles crédito en las evaluaciones.
+4. Involúcrese con comunidades subrepresentadas para garantizar que la ciencia fomente un futuro más equitativo, impactante y positivo.
 
-### Continue Taking TOPS Open Science 101
+### Continúe tomando _TOPS Open Science 101_
 
 <img src="../images/media/image368.png" style="width: 100%; height: auto;" />
 
-The TOPS Open Science 101 curriculum is a good place to go for a more in-depth introduction to the various elements of Open Science – each of the next 4 modules provides details and practical exercises to help participants develop a better understanding of that specific topic.
+El plan de estudios de _TOPS Open Science 101_ es un buen lugar para una introducción más profunda a los diversos elementos de ciencia abierta – cada uno de los siguientes 4 módulos proporciona detalles y ejercicios prácticos para ayudar a los participantes a desarrollar una mejor comprensión de este tema específico.
 
-But, if you want to also do an in-person or virtual workshop, we got you!
+Pero, si quieres hacer también un taller presencial o virtual, ¡es posible!
 
 <table>
     <table>
@@ -387,30 +387,30 @@ But, if you want to also do an in-person or virtual workshop, we got you!
             <td><img src="../images/media/image34.jpg" style="width: 98%; height: auto;" /></td>
         </tr>
          <tr>
-            <td>Self-Paced Online Course</td>
-            <td>Online Workshops</td>
-            <td>In-person Workshops</td>
+            <td>Curso en línea autoadministrado</td>
+            <td>Talleres virtuales</td>
+            <td>Talleres presenciales</td>
         </tr>
     </tbody>
 </table>
 
-Images Credit: freepik.com
+Créditos de imágenes: freepik.com
 
-NASA TOPS is coordinating online and in-person open science workshops!
+¡NASA TOPS está coordinando talleres de ciencia abierta en línea y presenciales!
 
-These events provide an opportunity for you to take Open Science 101 with others and engage with members of the open science community! To learn more go [here](https://nasa.github.io/Transform-to-Open-Science/)!
+¡Estos eventos te brindan la oportunidad de realizar _Open Science 101_ con otras personas e interactuar con quienes forman parte de la comunidad de ciencia abierta! ¡Aprende más [aquí](https://nasa.github.io/Transform-to-Open-Science/)!
 
-### Additional Resources
+### Recursos adicionales
 
-In addition to the resources listed elsewhere in this training, the below community resources are excellent sources of information about Open Software.
+Además de los recursos mencionados en otras partes de esta capacitación, los siguientes recursos comunitarios ofrecen excelente información sobre software abierto.
 
-**References and Guides**
+**Referencias y Guías**
 
 - [OpenSciency](https://opensciency.github.io/sprint-content/)
-- NASA SMD's [Open-Source Science Guidance for researchers](https://smd-cms.nasa.gov/wp-content/uploads/2023/08/smd-open-source-science-guidance-v2-20230407.pdf)
-- Turing [Way handbook to reproducible, ethical and collaborative data science](https://the-turing-way.netlify.app/index.html)
+- [Guía de ciencia de código abierto para investigadores elaborada por NASA](https://smd-cms.nasa.gov/wp-content/uploads/2023/08/smd-open-source-science-guidance-v2-20230407.pdf).
+- [Manual de Turing Way para la ciencia de datos reproducible, ética y colaborativa](https://the-turing-way.netlify.app/index.html).
 
-## Lesson 5: Summary
+## Lección 5: Resumen
 
 There is no one way of doing open science, and any steps you take to make your science more open are extremely valuable, especially as we transition to a more open scientific ecosystem in the future. We want people to be able to identify the most important things they "can" openly share, but with the ultimate goal of complete openness.
 
