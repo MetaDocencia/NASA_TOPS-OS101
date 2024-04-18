@@ -275,24 +275,24 @@ Below is an example of a developer who accidentally typed an equal sign when the
 
  <img src="../images/media/image35.png" style="width:100%;height:auto;" />
 
-Otra característica útil en VS Code (así como muchos otros editores de código) es Git Integration. Instead of using a Terminal window, you can just make a few clicks and easily integrate Git into your workflow!
+Otra característica útil en VS Code (así como muchos otros editores de código) es Git Integration. En lugar de usar una ventana de Terminal, ¡puedes hacer unos pocos clics e integrar fácilmente Git en tu flujo de trabajo!
 
-From VS Code you can:
+Desde el VS Code puedes:
 
-- Easily see modifications to your code.
-- Create a branch.
-- Upload your changes directly to GitHub.
-- Download changes from other team members to your local system.
+- Ver fácilmente las modificaciones en tu código.
+- Crear una rama.
+- Subir tus cambios directamente a GitHub.
+- Descargar cambios de otros miembros del equipo a tu sistema local.
 
-**IDE Example: Rstudio – IDE**
+**Ejemplo IDE: Rstudio – IDE**
 
-While Visual Studio Code is a more generic IDE where you can use plugins to specialize it, there are also IDEs, such as RStudio, that have specialized features for specific languages right out of the gate.
+Mientras que Visual Studio Code es un entorno de desarrollo integrado (IDE) más genérico donde puedes utilizar complementos para especializarlo, también existen IDEs, como RStudio, que tienen características especializadas para lenguajes específicos desde el principio.
 
-Researchers conducting statistical analysis tend to use the coding languages of R and Python. RStudio has built-in tools for that very purpose, including data visualization.
+Los investigadores que realizan análisis estadísticos tienden a utilizar los lenguajes de codificación de R y Python. RStudio tiene herramientas integradas para ese mismo propósito, incluyendo la visualización de datos.
 
  <img src="../images/media/image36.jpeg" style="width:100%;height:auto;" />
 
-Source:  https://en.wikipedia.org/wiki/File:RStudio_IDE_screenshot.png
+Fuente: https://es.wikipedia.org/wiki/File:RStudio_IDE_screenshot.png
 
 ### Plain Text Editors for Coding
 
