@@ -95,14 +95,14 @@ Al incorporar estándares abiertos, los autores pueden evitar barreras innecesar
 
 Los metadatos y la documentación de datos describen los datos para que otros y nosotros podamos usarlos y entenderlos mejor. Aunque los metadatos y la documentación están relacionados, hay una distinción importante. Los metadatos están estructurados, estandarizados y son legibles por computadora. La documentación no está estructurada y puede ser cualquier formato (a menudo un archivo de texto que acompaña los datos).
 
-Para comprender mejor la documentación y los metadatos, tomemos un ejemplo de una receta de internet. Many online recipes start with a long description and history of the recipe, and perhaps cooking or baking tips for the dish, before listing ingredients and step-by-step cooking instructions.
+Para comprender mejor la documentación y los metadatos, tomemos un ejemplo de una receta de internet. Muchas de estas recetas comienzan con una larga descripción e historia de la receta, y tal vez consejos de cocina o repostería para el plato, antes de enumerar los ingredientes e instrucciones de cocción paso a paso.
 
-- The ingredients and instructions are like metadata. They can be indexed and searched via Google and other search engines.
-- The descriptive text that includes background and context for the recipe are like documentation. They are more free-form, and not standardized.
+- Los ingredientes e instrucciones son como los metadatas. Se pueden indexar y buscar a través de Google y otros motores de búsqueda.
+- El texto descriptivo que incluye el fondo y el contexto de la receta son como la documentación. Son más libres, y no estandarizados.
 
-We already discussed metadata earlier in this module, but it’s important enough that we will repeat ourselves a little bit! We will also discuss other types of documentation, like README files.
+Ya discutimos los metadatos antes en este módulo, ¡pero es lo suficientemente importante como para que nos repitamos un poco! También discutiremos otros tipos de documentación, como los archivos README.
 
-### Metadata: for Humans and Machines
+### Metadatos: para humanos y máquinas
 
 Metadata can facilitate the assessment of dataset quality and data sharing by answering key questions. It is also the primary way users will find information about your dataset. It includes key information on topics, such as:
 
