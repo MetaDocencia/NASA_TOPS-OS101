@@ -221,7 +221,7 @@ Hay diferentes tipos/categorías de metadatos que abordan diferentes propósitos
   <tbody>
     <tr>
         <td colspan="3">
-            <p>Structural metadata are used to describe the structure of the data (e.g., file format, the dataset hierarchy, and dimensions).</p>
+            <p>Los metadatos estructurales se utilizan para describir la estructura de los datos (por ejemplo, el formato de archivo, la jerarquía de datos y las dimensiones).</p>
         </td>
     </tr>
   </tbody>
@@ -230,44 +230,44 @@ Hay diferentes tipos/categorías de metadatos que abordan diferentes propósitos
  <table>
   <thead>
     <tr>
-        <th>Descriptive Metadata</th>
-        <th>Structural Metadata</th>
-        <th>Administrative Metadata ☑</th>
+        <th>Metadatos Descriptivos</th>
+        <th>Metadatos Estructurales</th>
+        <th>Metadatos Administrativos ☑</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>Administrative metadata explains the information used to manage the data (e.g., when and how it was created, which software and the version of the software used in data creation).</p>
+            <p>Los metadatos administrativos explican la información utilizada para administrar los datos (p. ej. cuándo y cómo fue creado, qué software y la versión del software utilizado en la creación de datos).</p>
         </td>
     </tr>
   </tbody>
 </table>
 
-### Documentation
+### Documentación
 
-Documenting the production and management of your science benefits both you and those that might use your data, code, or results in the future. You are your own best collaborator. Documentation can save you from a headache should you need to reference or reuse your work in six months or attempt to recall meticulous details about your process later on. Properly documented research products increase their usability.
+Documentar la producción y gestión de tu ciencia beneficia tanto a ti como a aquellos que puedan usar tus datos, código o resultados en el futuro. Tú eres tu mejor colaborador. La documentación puede salvarle de un dolor de cabeza si necesita hacer referencia o reutilizar su trabajo en seis meses o intentar recordar detalles meticulosos sobre su proceso más adelante. Los productos de investigación debidamente documentados incrementan su usabilidad.
 
-Types of documentation include (many of which will be expanded upon later in this curriculum):
+Los tipos de documentación incluyen (muchos de los cuales serán ampliados más adelante en este currículo):
 
  <table>
   <thead>
     <tr>
-        <th>Data ☑</th>
+        <th>Datos ☑</th>
         <th>Software</th>
-        <th>Results</th>
+        <th>Resultados</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-        <p>Summary of the data (e.g., as a README file or user guide) that answers questions such as:</p>
+        <p>Resumen de los datos (por ejemplo, como un archivo LÉAME o guía de usuario) que responde preguntas como:</p>
         <ul>
-            <li>What are known errors for these data?</li>
-            <li>How can this data be used?</li>
-            <li>How were the data collected?</li>
+            <li>¿Cuáles son los errores conocidos para estos datos?</li>
+            <li>¿Cómo se pueden utilizar estos datos?</li>
+            <li>¿Cómo se recolectaron los datos?</li>
         </ul>
-        <p>Associated publications – how did others use these data?</p>
+        <p>Publicaciones asociadas – ¿cómo utilizaron otros estos datos?</p>
         </td>
     </tr>
   </tbody>
@@ -276,18 +276,18 @@ Types of documentation include (many of which will be expanded upon later in thi
 <table>
   <thead>
     <tr>
-        <th>Data</th>
+        <th>Datos</th>
         <th>Software ☑</th>
-        <th>Results</th>
+        <th>Resultados</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>README files: Basic installation and usage instructions.</p>
-            <p>Inline comments in code: Annotations on code components.</p>
-            <p>Release notes: What is new in this version?</p>
-            <p>Associated publications: How did others use this software?</p>
+            <p>Archivos LÉAME: Instrucciones básicas de instalación y uso.</p>
+            <p>Comentarios en línea en el código: Anotaciones sobre componentes de código.</p>
+            <p>Notas de la versión: ¿Qué hay de nuevo en esta versión?</p>
+            <p>Publicaciones asociadas: ¿Cómo utilizaron otros este software?</p>
         </td>
     </tr>
   </tbody>
@@ -296,37 +296,37 @@ Types of documentation include (many of which will be expanded upon later in thi
 <table>
   <thead>
     <tr>
-        <th>Data</th>
+        <th>Datos</th>
         <th>Software</th>
-        <th>Results ☑</th>
+        <th>Resultados ☑</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>Associated publications: What was the research process?</p>
-            <p>Packages of data and software for regenerating results.</p>
+            <p>Publicaciones asociadas: ¿Cuál fue el proceso de investigación?</p>
+            <p>Paquetes de datos y software para la regeneración de resultados.</p>
         </td>
     </tr>
   </tbody>
 </table>
 
-### Repositories
+### Repositorios
 
-Repositories are storage locations for data, results, code and compiled software, providing the most common way to share and find each of these components. In general, you want to use a long term repository that will independently host and store your data making sure that it is both shared and preserved. Different kinds of repositories serve different purposes. For example, Zenodo acts as an archiving repository for individual version releases of data, software, and publications.
+Los repositorios son lugares de almacenamiento de datos, resultados, código y software compilado, proporcionando la forma más común de compartir y encontrar cada uno de estos componentes. En general, se desea utilizar un repositorio a largo plazo que alojará y almacenará sus datos de forma independiente, asegurándose de que se comparten y conservan. Los diferentes tipos de repositorios sirven para diferentes propósitos. Por ejemplo, Zenodo actúa como un repositorio de archivos para versiones individuales de datos, software y publicaciones.
 
-Different types of repositories:
+Diferentes tipos de repositorios:
 
-- General repositories
-- Domain-specific repositories
-- Institutional repositories
-- National repositories
+- Repositorios generales
+- Repositorios específicos de dominios
+- Repositorios institucionales
+- Repositorios nacionales
 
-Users should select repositories based on their needs. See the lessons in the rest of this module and Modules 3-5 for more details.
+Los usuarios deben seleccionar los repositorios basados en sus necesidades. Vea las lecciones del resto de este módulo y los módulos 3-5 para más detalles.
 
-### Pre-registration
+### Pre-registro
 
-Pre-registration is the process by which a researcher documents their research plans in an open access format prior to the start of a project. This provides a locked, time-stamped proof of the origin of a concept. Pre-registration is currently more widely adopted by certain disciplines, particularly the social sciences.
+El Pre-registro es el proceso mediante el cual un investigador documenta sus planes de investigación en un formato de acceso abierto antes del inicio de un proyecto. Esto proporciona una prueba bloqueada y fechada del origen de un concepto. Pre-registration is currently more widely adopted by certain disciplines, particularly the social sciences.
 
 Types of Pre-Registration Include:
 
@@ -436,9 +436,9 @@ We'll discuss each component (data, software, & results) when we cover each topi
 
 Funding organizations and agencies around the world are beginning to require open science plans. En este plan de estudios, nos centraremos en el Plan de Ciencia Abierta y Gestión de Datos de la NASA (PCAGD) (en inglés, Open Science and Data Management Plan, OSDMP). Los planes de ciencia abierta no son exclusivos de la NASA. Sin embargo, saber cómo escribir uno para esta agencia debería prepararte para casi cualquier oportunidad de financiamiento.
 
-El PCAGD describe cómo se gestionará y se pondrá a disposición abiertamente la información científica que se producirá a partir de actividades científicas. Específicamente, un plan debe incluir secciones sobre gestión de datos, gestión de software y compartición de publicaciones. Si tu estudio tiene otros tipos de salidas, como muestras físicas, hardware o cualquier otra cosa, también debes incluirlas en el plan. Un PCAGD ayuda a los investigadores a pensar en los detalles de planificación para compartir resultados.
+El PCAGD describe cómo se gestionará y se pondrá a disposición abiertamente la información que se producirá a partir de actividades científicas. Específicamente, un plan de estas características debe incluir secciones sobre gestión de datos, gestión de software y compartición de publicaciones. Si tu estudio tiene otros tipos de salidas, como muestras físicas, hardware o cualquier otra cosa, también debes incluirlas en el plan. Un PCAGD ayuda a los investigadores a pensar en los detalles de planificación para compartir resultados.
 
-¡Un PCAGD bien escrito puede ayudarte a obtener financiación porque demuestra tus habilidades para hacer ciencia abierta!
+¡Un PCAGD bien escrito puede ayudarte a obtener financiamiento porque demuestra tus habilidades para hacer ciencia abierta!
 
  <img src="../images/media/image24.png" style="width:100%;height:auto;" />
 
@@ -446,7 +446,7 @@ Secciones de ejemplo para incluir en un PCAGD:
 
 1. Plan de Gestión de Datos (PGD) (en inglés, Data Managemente Plan, DMP)
 2. Plan de Gestión de Software (PGS) (en inglés, Software Management Plan, SMP)
-3. Compartir publicaciones
+3. Publicaciones compartidas
 4. Otras actividades de ciencia abierta
 5. Roles y responsabilidades
 
@@ -536,76 +536,76 @@ Las organizaciones y agencias a nivel mundial están avanzando hacia la ciencia 
 
 INSTITUTOS GLOBALES
 
-- **Australian Research Council**
-  - [Data Management Plan](https://www.arc.gov.au/about-arc/strategies/research-data-management)
-- **EU Open Science Requirements**
-  - [https://openscience.eu/Open-Science-in-Horizon-Europe](https://openscience.eu/Open-Science-in-Horizon-Europe)
-- **UK Wellcome Trust**
-  - [(Output Management Plan)](https://wellcome.org/grant-funding/guidance/how-complete-outputs-management-plan)
-- **Korea's National Research Foundation (NRF)**
-  - [DMP Guideline](https://www.nrf.re.kr/cms/board/general/view?nts_no=124731&amp;menu_no=53&amp;nts_no&amp;search_type=ALL&amp;search_keyword=%EC%97%B0%EA%B5%AC%EB%8D%B0%EC%9D%B4%ED%84%B0&amp;page=90)
-- **Japan Science & Technology Agency (JST)**
-  - [Open Access to Research Publications and Research Data Management](https://www.jst.go.jp/EN/about/openscience/guideline_openscience_en_r4.pdf)
+- Consejo Australiano de Investigación
+  - [Plan de Gestión de Datos](https://www.arc.gov.au/about-arc/strategies/research-data-management)
+- Requerimientos de Ciencia Abierta de la Unión Europea
+  - [Ciencia Abierta en Horizonte Europeo](https://openscience.eu/Open-Science-in-Horizon-Europe)
+- Fideicomiso de Bienvenida del Reino Unido
+  - [Plan de Gestión de Resultados](https://wellcome.org/grant-funding/guidance/how-complete-outputs-management-plan)
+- Fundación Nacional de Investigación de Corea
+  - [Guía DMP](https://www.nrf.re.kr/cms/board/general/view?nts_no=124731&amp;menu_no=53&amp;nts_no&amp;search_type=ALL&amp;search_keyword=%EC%97%B0%EA%B5%AC%EB%8D%B0%EC%9D%B4%ED%84%B0&amp;page=90)
+- Agencia Japonesa de Ciencia y Tecnología
+  - [Acceso Abierto a Publicaciones de Investigación y Gestión de Datos de Investigación](https://www.jst.go.jp/EN/about/openscience/guideline_openscience_en_r4.pdf)
 
-And remember, open science is nuanced! Although one of the tenants of open science is to share your products, not all products can or should be shared. How you share them may be specified by your organization or funding agency. As you embark on adopting open science for a project, consider if the subject and approach to your project will allow for sharing. Think about the following questions:
+Y recuerda, ¡la ciencia abierta tiene matices! Aunque uno de los principios de la ciencia abierta es compartir sus productos, no todos los productos pueden o deben compartirse. Su organización o agencia de financiación puede especificar cómo los comparte. Al embarcarte en la adopción de la ciencia abierta para un proyecto, considera si el tema y el enfoque de tu proyecto permitirán compartirlo. Piensa en las siguientes preguntas:
 
-- Can the research products be shared?
-- Who helped you obtain your data?
-- Will they benefit from release?
-- Who has responsibility and/authority for what happens with the data?
-- Should the research products be shared?
+- ¿Se pueden compartir los productos de la investigación?
+- ¿Quién te ayudó a obtener tus datos?
+- ¿Ellos se beneficiarán de la liberación?
+- ¿Quién tiene la responsabilidad y autoridad de lo que sucede con los datos?
+- ¿Deberían compartirse los productos de la investigación?
 
-More details on how to write these plans for data, code, and results are in the following modules.
+En los siguientes módulos encontrarás más detalles sobre cómo escribir estos planes para datos, código y resultados.
 
-## Lesson 2: Summary
+## Lección 2: Resumen
 
-In this lesson, we learned:
+En esta lección aprendimos:
 
-- The definition of science tools, common examples, and which part of the scientific workflow they can support.
-- The definition and purpose of persistent identifiers. The usefulness of ORCIDs and DOIs in the scientific process.
-- Examples of useful and common open science tools such as metadata, documentation, repositories, and pre-registration.
-- The steps for writing an open science and data management plan.
+- La definición de herramientas científicas, ejemplos comunes y qué parte del flujo de trabajo científico pueden respaldar.
+- La definición y el propósito de los identificadores persistentes. La utilidad de ORCID y DOI en el proceso científico.
+- Ejemplos de herramientas científicas abiertas útiles y comunes, como metadatos, documentación, repositorios y prerregistro.
+- Los pasos para redactar un plan de gestión de datos y ciencia abierta.
 
-## Lesson 2: Knowledge Check
+## Lección 2: Evaluación
 
-Answer the following questions to test what you have learned so far.
+Responde las siguientes preguntas para poner a prueba lo que has aprendido hasta ahora.
 
-_Question_
+_Pregunta_
 
 **01/03**
 
-What can open science tools help with?
+¿En qué pueden ayudar las herramientas de ciencia abierta?
 
-- Discovery
-- Writing
-- Outreach
-- All of above
+- Descubrimiento
+- Escritura
+- Divulgación
+- Todas las anteriores
 
-_Question_
+_Pregunta_
 
 **02/03**
 
-Complete the statement:
+Completa la afirmación:
 
-_Good, clear Metadata _____._
+_Bien, metadatos claros _____._
 
-Select all that apply.
+Selecciona todas las que correspondan.
 
-- Improves findability
-- Improves accessibility
-- Improves interoperability
-- Improves reusability
-- Is a waste of time
+- Mejoran la capacidad de búsqueda
+- Mejoran la accesibilidad
+- Mejoran la interoperabilidad
+- Mejoran la reutilización
+- Son una pérdida de tiempo
 
-_Question_
+_Pregunta_
 
 **03/03**
 
-Which are the components of a Software Management Plan? Select all that apply.
+¿Cuáles son los componentes de un Plan de Gestión de Software? Selecciona todas las que correspondan.
 
-- Description of the software
-- Repository(ies) in which software will be archived
-- Sharing guidelines
-- Personnel roles and responsibilities
-- Any community-specific information of note
-- Creating a logo
+- Descripción del Software
+- Repositorio(s) en el que se archivará el software
+- Pautas para compartir
+- Roles y responsabilidades del personal
+- Cualquier información destacable específica de la comunidad
+- Creación de un logo
