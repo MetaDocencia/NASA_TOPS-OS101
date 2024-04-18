@@ -357,41 +357,41 @@ JupyterLab es un entorno de desarrollo interactivo basado en un navegador compat
 
 Dado que Jupyter Notebook permite integrar código con visualizaciones y texto, puede servir como herramienta para llevar a cabo proyectos de investigación y crear documentos computacionales fácilmente compartibles para la educación, la colaboración o la comunicación científica. Con capacidades de texto enriquecido, como el uso de cabeceras, cursivas, enlaces y muchas más, puedes crear un documento legible que contenga código ejecutable. Estas son sólo algunas de las razones por las que JupyterLab y Jupyter Notebooks son ampliamente utilizados en muchas disciplinas, incluyendo investigación computacional y ciencias de datos.
 
-#### For more information on Jupyter products and its community, check out their website.
+#### Para más información sobre los productos de Jupyter y su comunidad, consulte su sitio web.
 
-[CLICK TO LEARN](https://jupyter.org/)
+[HAZ CLIC PARA APRENDER MÁS](https://jupyter.org/) (en inglés)
 
-If you want to dive in, check out Project Pythia's "Getting Started with Jupyter" lesson, geared toward scientists without assumption of programming background.
+Si quieres sumergirte en el tema, consulta la lección "Primeros pasos con Jupyter" del Proyecto Pythia, orientada a científicos sin conocimientos previos de programación.
 
-### Activity 4.1: Run a Jupyter Notebook Yourself from the Browser
+### Actividad 4.1: Ejecuta un Notebook de Jupyter desde el navegador
 
-Let's use an example from Project Pythia to showcase how computational notebooks can be used in science. Project Pythia is an education Hub for the geoscientific community. They have some great learning resources and example research notebooks that are developed and maintained by the community, and are freely available.
+Usemos un ejemplo del Proyecto Pythia para mostrar cómo los cuadernos computacionales pueden ser usados en la ciencia. Proyecto Pythia es un centro educativo para la comunidad geoscientifica. Tienen algunos grandes recursos de aprendizaje y ejemplos de cuadernos de investigación, desarrollados y mantenidos por la comunidad, y de libre acceso.
 
-In this activity, you will run pre-written Python code in a Jupyter Notebook from your browser to make plots related to the El-Niño Southern Oscillation (or ENSO). You will use the open-source software package called Xarray to read in sea surface temperature data from a global climate model (the Community Earth System Model - CESM), and create some visualizations of ENSO events across the last 20 or so years. The goal is to recreate the plot below for the last ~20 years. This figure shows the years and magnitude of the El Niño events in red and of the La Niña events in blue.
+En esta actividad, ejecutarás código Python preescrito en un Jupyter Notebook, desde tu navegador, para hacer gráficos relacionados con el Niño-Oscilación del Sur (o ENSO). Utilizarás el paquete de software de código abierto llamado Xarray para leer los datos de temperatura de la superficie del mar de un modelo climático global (Modelo Comunitario de Sistema de la Tierra - CESM), y crear algunas visualizaciones de eventos ENSO a lo largo de los últimos 20 años. El objetivo es recrear el gráfico siguiente para los últimos ~20 años. Esta figura muestra los años y la magnitud de los eventos de El Niño en rojo y de los eventos de La Niña en azul.
 
 ![](../images/media/image39.jpeg)
 
-Source:  [https://climatedataguide.ucar.edu/climate-data/nino-sst-indices-nino-12-3-34-4-oni-and-tni](https://climatedataguide.ucar.edu/climate-data/nino-sst-indices-nino-12-3-34-4-oni-and-tni)
+Fuente: [https://climatedataguide.ucar.edu/climate-data/nino-sst-indices-nino-12-3-34-4-oni-and-tni](https://climatedataguide.ucar.edu/climate-data/nino-sst-indices-nino-12-3-34-4-oni-and-tni)
 
 ---
 
-Follow These Steps:
+Sigue estos pasos:
 
-1. Navigate to the “[Calculating ENSO with Xarray](https://foundations.projectpythia.org/core/xarray/enso-xarray.html)” lesson
-2. In the top right corner, hover your mouse over the rocket icon, and click on "Binder". This will open the lesson as an executable Jupyter Notebook that runs on the Cloud. Note that it may take several minutes for the Notebook to get set up.
+1. Navega a la lección “[Calculando ENSO con Xarray](https://foundations.projectpythia.org/core/xarray/en.Uxarray.html)”
+2. En la esquina superior derecha, pasa el ratón sobre el icono del cohete y haz clic en "Binder". Esto abrirá la lección como un Jupyter Notebook ejecutable que corre en la Nube. Ten en cuenta que el Cuaderno de Notas puede tardar varios minutos en configurarse.
    ![](../images/media/calculatingenso.jpg)
-3. After the Notebook loads, you should see something like the following. Note – this actually uses the JupyterLab view!
+3. Después de cargar el Cuaderno de Notas, deberías ver algo como lo siguiente. Nota – ¡Esto realmente utiliza la vista de JupyterLab!
    ![](../images/media/calculatingenso2.jpg)
-4. You can take a little time to breeze through the text and code in the Notebook, but keep in mind that this lesson assumes a lot of prior knowledge, so it’s ok if you don’t understand everything. You can still appreciate the nice plots you’re about to make!
-5. You are now ready to run the notebook yourself! To do that, you can go to the "Run" menu in the upper left of the JupyterLab window and choose "Run All Cells":
+4. Puedes tomarte un poco de tiempo para repasar el texto y el código del Cuaderno, pero ten en cuenta que esta lección presupone muchos conocimientos previos, por lo que está bien si no lo entiendes todo. ¡Aún puedes apreciar las bonitas gráficas que estás a punto de hacer!
+5. ¡Ahora tu estás listo para ejecutar el Cuaderno! Para hacer eso, puedes ir al menú "Ejecutar" en la parte superior izquierda de la ventana de JupyterLab y elegir "Ejecutar todas las celdas":
    ![](../images/media/calculatingenso3.jpg)
-6. This should only take a few seconds, and if you scroll down, you can view a couple nice visualizations that you just created:<br>_Use the "\<" and "\>" buttons to navigate between the images._
+6. Esto solo debería tomar unos pocos segundos, y si te desplazas hacia abajo, puedes ver un par de bonitas visualizaciones que acabas de crear:<br>_Usa los botones "\<" y "\>" para navegar entre las imágenes._
 
 ![](../images/media/calculatingenso4.jpg)
 
 ![](../images/media/image44.jpeg)
 
-7. Take some time to look through the Notebook a bit more closely. You will see that there is text (including headers, links, and even a table right at the start!), code, and figures integrated together. This is just one example of how scientists use computational notebooks for their research.
+7. Tómate algo de tiempo para mirar un poco más de cerca el Cuaderno. Verás que hay texto (incluyendo encabezados, enlaces ¡e incluso una tabla justo al principio!), código y figuras integradas juntos Este es sólo un ejemplo de cómo los científicos utilizan cuadernos computacionales para su investigación.
 
 Puedes examinar más recursos de aprendizaje del Proyecto Pythia Python a través de su [Libro de Fundamentos] (https://foundations.projectpythia.org/landing-page.html), puedes ver ejemplos de flujos de trabajo de investigación avanzados en las geociencias que utilizan la computación. Jupyter Notebooks (que ellos llaman "[CookBooks o Guias Rapidas](https://cookbooks.projectpythia.org/)") para ver más ejemplos de cómo se utilizan los Jupyter Notebooks en la ciencia. Si estás interesado en las geociencias, ¡puedes contribuir con tu propio Jupyter Notebook, si tienes uno que quisieras compartir!
 
