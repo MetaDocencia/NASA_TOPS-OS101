@@ -210,10 +210,10 @@ Existen varios tipos de contribuciones al software de código abierto. No todas 
 Además de los recursos mencionados en otras partes de esta capacitación, los siguientes recursos comunitarios son excelentes fuentes de información sobre software de código abierto.
 
 - [OpenSciency](https://zenodo.org/record/7662732)
-- [Dirección de Misiones Científicas de la NASA: Guía científica de código abierto](https://science.nasa.gov/science-red/s3fs-public/atoms/files/SMD%20Open-Source%20Science%20Guidance%20v1%2020221208.pdf)
-- [Guía práctica para la gestión de software](https://zenodo.org/record/7589725)
-- [Principios FAIR para el Software de Investigación (Principios FAIR4RS)](https://zenodo.org/record/6623556)
-- [Opciones de Política de Software de Código Abierto para Ciencias de la Tierra y del Espacio de la NASA](https://doi.org/10.17226/25217)
+- [Dirección de Misiones Científicas de la NASA: Guía científica de código abierton (NASA SMD's Open-Source Science Guidance)](https://science.nasa.gov/science-red/s3fs-public/atoms/files/SMD%20Open-Source%20Science%20Guidance%20v1%2020221208.pdf)
+- [Guía práctica para la gestión de software (Practical Guide to Software Management)](https://zenodo.org/record/7589725)
+- [Principios FAIR para el Software de Investigación (Principios FAIR4RS - FAIR Principles for Research Software)](https://zenodo.org/record/6623556)
+- [Opciones de Política de Software de Código Abierto para Ciencias de la Tierra y del Espacio de la NASA (Open Source Software Policy Options for NASA Earth and Space Sciences)](https://doi.org/10.17226/25217)
 - [Manual de Turing Way para la ciencia de datos reproducible, ética y colaborativa](https://the-turing-way.netlify.app/index.html)
 - [Diez reglas simples para documentar software científico](https://doi.org/10.1371/journal.pcbi.1006561)
 - [Journal of Open Source Software](https://joss.theoj.org/)
