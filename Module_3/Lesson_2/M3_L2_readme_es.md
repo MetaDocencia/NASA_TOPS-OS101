@@ -200,8 +200,8 @@ _Select each tab to find out more information._
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Specialized repositories (typically for specific data subject matter) provide support and information on required standards for metadata and more.</p>
-            <p>Some examples are:</p>
+            <p>Los repositorios especializados (típicamente para asuntos específicos de datos) proporcionan soporte e información sobre los estándares requeridos para metadatos y más.</p>
+            <p>Algunos ejemplos son:</p>
             <ul>
                 <li>Astronomy: <a href="https://archive.stsci.edu/">Hubble data</a></li>
                 <li>Space Biology: <a href="https://genelab.nasa.gov/">NASA GeneLab: Open Science for Life in Space</a></li>
