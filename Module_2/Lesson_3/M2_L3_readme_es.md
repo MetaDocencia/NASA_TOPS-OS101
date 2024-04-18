@@ -89,15 +89,15 @@ Ten en cuenta que Microsoft Exchange Server y Skype son ejemplos de protocolos p
 Para ser [interoperable:](https://www.go-fair.org/fair-principles/i1-metadata-use-formal-accessible-shared-broadly-applicable-language-knowledge-representation/)
 
 - Los datos usan un lenguaje formal, accesible, compartido y ampliamente aplicable para la representación del conocimiento.
-- Data uses a known, standardized data format.
-- Data use vocabularies that follow FAIR principles.
-- Data include qualified references to other (meta)data.
+- Los datos usan un formato de datos conocido y estandarizado.
+- Los datos utilizan vocabularios que siguen principios FAIR.
+- Los datos incluyen referencias calificadas a otros (meta)datos.
 
-Current Enabling Tech:
+Tecnología actual que lo permite:
 
-- [Zenodo](https://zenodo.org/) uses [JSON Schema](https://json-schema.org/) as internal representation of metadata and offers export to other popular formats such as [Dublin Core](https://www.dublincore.org/) or [MARCXML](https://www.loc.gov/marc/marcxml.html).
-- For certain terms we refer to open, external vocabularies, e.g.: license ([Open Definition](https://opendefinition.org/)), funders ([FundRef](https://www.crossref.org/services/funder-registry/)) and grants ([OpenAIRE](https://api.openaire.eu/)).
-- Each referenced external piece of data is qualified by a resolvable URL.
+- [Zenodo](https://zenodo.org/) usa [JSON Schema](https://json-schema.org/) como representación interna de los metadatos y permite exportar a otros formatos populares como [Dublin Core](https://www.dublincore.org/) o [MARCXML](https://www.loc.gov/marc/marcxml.html).
+- Para ciertos términos hacemos referencia a vocabularios externos abiertos, por ejemplo: licencia ([Open Definition](https://opendefinition.org/)), financiadoras ([FundRef](https://www.crossref.org/services/funder-registry/)) y subsidios ([OpenAIRE](https://api.openaire.eu/)).
+- Cada referencia a una pieza de datos externos es calificada por una URL que puede ser resuelta.
 
 **Reusable**
 
