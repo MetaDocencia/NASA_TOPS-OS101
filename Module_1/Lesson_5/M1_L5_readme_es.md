@@ -356,7 +356,7 @@ Estos son los pasos que puedes dar para encontrar tu propia comunidad científic
 
 Existen muchos repositorios que albergan datos abiertos, software y resultados. Compartiremos muchos de estos recursos en módulos posteriores, pero aquí hay dos repositorios de NASA que te permiten buscar colecciones de datos existentes que pueden ser relevantes para tus intereses:
 
-- [Science Discovery Engine](http://science.data.nasa.gov/search)
+- Buscador de descubrimientos científicos ([_Science Discovery Engine_](http://science.data.nasa.gov/search))
 - [https://data.nasa.gov/](https://data.nasa.gov/)
 
 ### Cuatro pasos para abrir la ciencia que cualquiera puede dar
