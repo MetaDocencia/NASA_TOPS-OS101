@@ -166,45 +166,45 @@ Los metadatos son esenciales para la implementación de los principios FAIR porq
 
 Los metadatos se pueden compartir más fácilmente que los datos: normalmente no contienen información restringida y son mucho más pequeños que el conjunto de datos completo.
 
-### El propósito de los metadatos
+### Propósito de los Metadatos
 
 Los metadatos pueden facilitar la evaluación de la calidad del conjunto de datos y el intercambio de datos respondiendo preguntas clave, como información sobre:
 
-- How data were collected and processed.
-- What variables/parameters are included in the dataset.
-- What variables are and what variables are related to.
-- Who collected the data (science team, organization, etc.).
-- How and where to find the data (e.g., DOI).
-- How to cite the data.
-- Which spatio-temporal region/time the data covers.
-- Any legal, guideline, or standard information about the data.
+- Cómo se recolectaron y procesaron los datos.
+- Qué variables/parámetros se incluyen en el conjunto de datos.
+- Qué variables son y con qué variables están relacionadas.
+- Quién recolectó los datos (equipo científico, organización, etc.).
+- Cómo y dónde encontrar los datos (por ejemplo, DOI).
+- Cómo citar los datos.
+- Qué región espacio-temporal / tiempo cubren los datos.
+- Toda información legal, directriz o estándar sobre los datos.
 
-Metadata enhances searchability and findability of the data by potentially allowing other machines to read and interpret datasets.
+Los metadatos mejoran la búsqueda y la accesibilidad de los datos permitiendo potencialmente que otras máquinas lean e interpreten los conjuntos de datos.
 
-According to  [The University of Pittsburgh](https://pitt.libguides.com/metadatadiscovery/metadata-standards), "A metadata standard is a high level document which establishes a common way of structuring and understanding data, and includes principles and implementation issues for utilizing the standard."
+De acuerdo con [La Universidad de Pittsburgh](https://pitt.libguides. om/metadatadiscovery/metadata-standards), "Un estándar de metadatos es un documento de alto nivel que establece una manera común de estructurar y entender los datos, e incluye principios y problemas de implementación para utilizar el estándar."
 
-Many standards exist for metadata fields and structures to describe general data information. It is a best practice to use a standard that is commonly used in your domain, when applicable, or that is requested by your data repository. Examples of metadata standards for different domains include:
+Existen muchos estándares para los campos y estructuras de metadatos para describir la información general de los datos. Es una buena práctica usar un estándar que se utiliza comúnmente en tu dominio, cuando sea aplicable, o que sea solicitado por su repositorio de datos. Algunos ejemplos de estándares de metadatos para diferentes dominios incluyen:
 
-- [CF Metadata Conventions](https://cfconventions.org/)
-- [World Meteorological Organization WIS 2.0](https://community.wmo.int/en/activity-areas/wis/wis2-implementation)
-- [GeneLab Working Group](https://genelab.nasa.gov/awg/members)
+- [Convenciones de metadatos de CF](https://cfconventions.org/)
+- [Organización Meteorológica Mundial WIS 2.0](https://community.wmo.int/es/activity-areas/wis/wis2-implementation)
+- [Grupo de trabajo de GeneLab](https://genelab.nasa.gov/awg/members)
 
-### Types of Metadata
+### Tipos de Metadatos
 
-There are different types/categories of metadata addressing different purposes:
+Hay diferentes tipos/categorías de metadatos que abordan diferentes propósitos:
 
  <table>
   <thead>
     <tr>
-        <th>Descriptive Metadata ☑</th>
-        <th>Structural Metadata</th>
-        <th>Administrative Metadata</th>
+        <th>Metadatos Descriptivos ☑</th>
+        <th>Metadatos Estructurales</th>
+        <th>Metadatos Administrativos</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>Descriptive metadata can contain information about the context and content of your data, such as variable definition, data limitation, measurement/ sampling description, abstract, title, and subject keywords.</p>
+            <p>Los metadatos descriptivos pueden contener información sobre el contexto y el contenido de sus datos, tales como la definición de variables, limitación de datos, descripción de medición/muestreo, resumen, título y palabras claves del tema.</p>
         </td>
     </tr>
   </tbody>
@@ -213,9 +213,9 @@ There are different types/categories of metadata addressing different purposes:
  <table>
   <thead>
     <tr>
-        <th>Descriptive Metadata</th>
-        <th>Structural Metadata ☑</th>
-        <th>Administrative Metadata</th>
+        <th>Metadatos Descriptivos</th>
+        <th>Metadatos estructurales ☑</th>
+        <th>Metadatos Administrativos</th>
     </tr>
   </thead>
   <tbody>
@@ -492,49 +492,49 @@ Componentes generales de un plan de gestión de software:
 
 Como mínimo, un plan de gestión de software para investigaciones financiadas debe incluir:
 
-- Description of the software expected to be produced from the proposed activities, including types of software to be produced, how the software will be developed, and the addition of new features or updates to existing software. This can include the platforms used for development, project management, and community-based best practices to be included such as documentation, testing, dependencies, and versioning.
-- The repository(ies) that will be used to archive software arising from the activities and the schedule for making the software publicly available.
-- Description of software that are subject to relevant laws, regulations, or policies that exclude them from software sharing requirements.
-- Roles and responsibilities of project personnel who will ensure implementation of the software management plan.
+- Descripción del software que se espera producir a partir de las actividades propuestas, incluidos los tipos de software que se producirán, cómo se desarrollará el software y el agregado de nuevas funciones o actualizaciones al software existente. Esto puede incluir las plataformas utilizadas para el desarrollo, la gestión de proyectos y las mejores prácticas basadas en la comunidad, como documentación, pruebas, dependencias y control de versiones.
+- El(los) repositorio(s) que se utilizarán para archivar el software que surja de las actividades y el cronograma para poner el software a disposición del público.
+- Descripción del software que está sujeto a leyes, regulaciones o políticas relevantes que los excluyen de los requisitos para compartir software.
+- Roles y responsabilidades del personal del proyecto que garantizará la implementación del plan de gestión de software.
 
-### Open Science Plan
+### Plan de Ciencia Abierta
 
-The OSDMP should also describe other open processes as part of the plan. This includes the types of publications that are expected to be produced from the activities, including peer reviewed manuscripts, technical reports, conference materials, and books. The plan should also outline the methods expected to be used to make the publications publicly accessible.
+El PCAGD también debería describir otros procesos abiertos como parte del plan. Esto incluye los tipos de publicaciones que se espera producir a partir de las actividades, incluidos manuscritos revisados por pares, informes técnicos, materiales de conferencias y libros. El plan también debe describir los métodos que se espera utilizar para hacer las publicaciones accesibles al público.
 
-This section may also include a description of additional open science activities associated with the project. This may include:
+Esta sección también puede incluir una descripción de actividades de ciencia abierta adicionales asociadas con el proyecto. Esto puede incluir:
 
-- Holding scientific workshops and meetings openly to enable broad participation.
-- Pre-registering research plans in advance of conducting scientific activities.
-- Providing project personnel with open science training or enablement (if not described elsewhere in a proposal).
-- Implementing practices that support the inclusion of broad, diverse communities in the scientific process as close to the start of research activities as possible (if not described elsewhere in a proposal).
-- Integrating open science practices into citizen science activities.
-- Contributions to or involvement in open-science communities.
+- Celebrar talleres y reuniones científicas de forma abierta para permitir una amplia participación.
+- Prerregistro de planes de investigación con antelación a la realización de actividades científicas.
+- Proporcionar al personal del proyecto capacitación o entrenamiento en ciencia abierta (si no se describe en otra parte de la propuesta).
+- Implementar prácticas que apoyen la inclusión de comunidades amplias y diversas en el proceso científico lo más cerca posible del inicio de las actividades de investigación (si no se describen en otra parte de una propuesta).
+- Integrar prácticas de ciencia abierta en las actividades de ciencia ciudadana.
+- Contribuir o participar en comunidades de ciencia abierta.
 
-### Publications Plan
+### Plan de Publicaciones
 
-A plan for publications is a crucial piece of the OSDMP. A publications plan should include the following features:
+Un plan de publicaciones es una pieza crucial del PCAGD. Dicho plan debe incluir las siguientes características:
 
-- Describes how results will be managed, preserved, and released - in other words, how you will communicate your findings.
-- Includes plans for conference talks, whitepapers, peer reviews journal articles, books, and other such documents.
-- Written in compliance with any rules and regulations within your organization, as well as from your funding source.
-- As with the data and software plans, it serves as a foundational framework for your project from start to finish.
+- Describe cómo se gestionarán, publicarán y conservarán los resultados; en otras palabras, cómo comunicará sus hallazgos.
+- Incluye planes para charlas en conferencias, documentos técnicos, artículos de revistas revisados por pares, libros y otros documentos similares.
+- Está escrito de conformidad con las normas y reglamentos de su organización, así como de su fuente de financiación.
+- Al igual que los planes de datos y software, sirve como marco fundamental para su proyecto de principio a fin.
 
-### Examples of Requirements for Open Science Management Plans
+### Ejemplos de Requerimientos para Planes de Gestión de Ciencia Abierta
 
-Globally, organizations and agencies are moving towards open science and beginning to require plans as part of funding. Here are just some of them:
+Las organizaciones y agencias a nivel mundial están avanzando hacia la ciencia abierta y comienzan a exigir planes como parte de la financiación. Aquí se presentan algunos de ellos:
 
-**USA**
+**Estados Unidos**
 
-- **NASA**
-  - [Open Science and Data Management Plan](https://science.nasa.gov/researchers/sara/faqs/osdmp/)
+- NASA
+  - [Plan de Ciencia Abierta y Gestión de Datos](https://science.nasa.gov/researchers/sara/faqs/osdmp/)
 - **NSF**
-  - [Data Management Plan](https://new.nsf.gov/funding/data-management-plan#%3A~%3Atext%3DThe%20two-page%20data%20management%20plan%20is%20a%20required%2Coverview%20of%20requirements%20for%20the%20data%20management%20plan)
+  - [Plan de Gestión de Datos](https://new.nsf.gov/funding/data-management-plan#%3A~%3Atext%3DThe%20two-page%20data%20management%20plan%20is%20a%20required%2Coverview%20of%20requirements%20for%20the%20data%20management%20plan)
 - **NIH**
-  - [Data Management and Sharing Plan](https://sharing.nih.gov/data-management-and-sharing-policy/planning-and-budgeting-for-data-management-and-sharing/writing-a-data-management-and-sharing-plan)
+  - [Plan de Gestión y Uso Compartido de Datos](https://sharing.nih.gov/data-management-and-sharing-policy/planning-and-budgeting-for-data-management-and-sharing/writing-a-data-management-and-sharing-plan)
 - **NOAA**
-  - [Data and Information Sharing Plan (DISP)](https://oceanexplorer.noaa.gov/about/funding-opps/media/fy23-data-management-plan.pdf)
+  - [Plan de Datos e Información Compartidos](https://oceanexplorer.noaa.gov/about/funding-opps/media/fy23-data-management-plan.pdf)
 
-**GLOBAL INSTITUTES**
+INSTITUTOS GLOBALES
 
 - **Australian Research Council**
   - [Data Management Plan](https://www.arc.gov.au/about-arc/strategies/research-data-management)
