@@ -16,7 +16,7 @@ En esta lección revisaremos la definición de ciencia abierta y algunos otros t
 Al completar este módulo, serás capaz de:
 
 - Definir los tipos comunes de productos de investigación incluyendo datos, software y resultados.
-- List common ways to share data, code, and results while practicing open science.
+- Enumerar formas comunes de compartir datos, código y resultados al practicar la ciencia abierta.
 
 ## Definition of Open Science and Research Products
 
