@@ -1,21 +1,21 @@
-# Lesson 1: Introduction to the Process of Open Science
+# Lección 1: Introducción al Proceso de la Ciencia Abierta
 
-## Navigation
+## Contenidos
 
-- [Definition of Open Science and Research Products](#definition-of-open-science-and-research-products)
-- [Using Tools for Open Science in Practice](#using-tools-for-open-science-in-practice)
-- [Lesson 1: Summary](#lesson-1-summary)
-- [Lesson 1: Knowledge Check](#lesson-1-knowledge-check)
+- [Definición de Ciencia Abierta y Productos de Investigación](#definición-de-ciencia-abierta-y-productos-de-investigación)
+- [Utilizando Herramientas para Ciencia Abierta en la Práctica](#usando-herramientas-para-ciencia-abierta-en-la-práctica)
+- [Lección 1: Resumen](#lección-1-resumen)
+- [Lección 1: Revisión De Conocimientos](#lección-1-revisión-de-conocimientos)
 
-## Overview
+## Descripción general
 
-In this lesson you review the definition of open science and several other common terms including research products, data, software, and results. In addition, you will read examples that demonstrate how these open science tools are used in practice. The lesson wraps up with an example of how one group openly shared their data, results, software, and paper.
+En esta lección revisaremos la definición de ciencia abierta y algunos otros términos comunes, incluyendo productos de investigación, datos, software y resultados. Además, veremos ejemplos del uso en la práctica estas herramientas científicas abiertas. Para terminar, veremos el ejemplo de un grupo que compartió abiertamente sus datos, resultados, software y publicación científica.
 
-## Learning Objectives
+## Objetivos de aprendizaje
 
-After completing this lesson, you should be able to:
+Al completar este módulo, serás capaz de:
 
-- Define common types of research products including data, software, and results.
+- Definir los tipos comunes de productos de investigación incluyendo datos, software y resultados.
 - List common ways to share data, code, and results while practicing open science.
 
 ## Definition of Open Science and Research Products
