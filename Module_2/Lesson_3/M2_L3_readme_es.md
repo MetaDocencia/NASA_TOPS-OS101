@@ -28,32 +28,32 @@ Los datos son una parte importante de la investigación científica y ¿por qué
 
 Por ejemplo, el [Servicio de Gestión de Emergencias de Copernicus](https://emergency.copernicus. u/) (en inglés, _Copernicus Emergency Management Service_), de acceso abierto e implementado por la Comisión Europea, produce datos de acceso abierto 24/7, que son recogidos por los satélites de la Agencia Espacial Europea (ESA, por las siglas en inglés de _European Space Agency_) y la NASA para producir mapas que den información para los esfuerzos en la preparación y la respuesta a desastres en todo el mundo. Este es sólo un ejemplo entre muchos otros que demuestran el valor de los datos, particularmente los datos públicos y abiertos, en nuestra vida cotidiana y por el bien público.
 
-Los datos compartidos abiertamente en la investigación científica aportan un valor enorme a la comunidad científica y más allá, desde las comunidades indígenas hasta las poblaciones urbanas. Before understanding the broad based impact of data, let’s first look at what is data in the context of scientific research. Specifically, we will discuss the definition and characteristics of open data?
+Los datos compartidos abiertamente en la investigación científica aportan un valor enorme a la comunidad científica y más allá, desde las comunidades indígenas hasta las poblaciones urbanas. Antes de entender el impacto general de los datos, veamos primero qué son los datos en el contexto de la investigación científica. Específicamente, discutiremos la definición y las características de los datos abiertos.
 
-### What is Data?
+### ¿Qué son los datos?
 
-Scientific data is any type of information that is collected, observed, or created, in the context of research. It can be:
+Los datos científicos son cualquier tipo de información recopilada, observada o creada en un contexto de investigación. Pueden ser:
 
-- Primary – Raw from measurements or instruments
-- Secondary – Processed from secondary analysis and interpretations.
-- Published – Final format available for use and reuse.
-- Metadata – Data about your data.
+- Primarios – Sin procesar, de mediciones o instrumentos
+- Secundarios – Procesados a partir de análisis e interpretaciones secundarios.
+- Publicado – Formato final disponible para uso y reutilización.
+- Metadatos – Datos sobre tus datos.
 
-It is everything that you need to validate or reproduce your research findings, as well as what is required for the understanding and handling of the data.
+Es todo lo que necesitas para validar o reproducir los resultados de tu investigación, así como lo que se requiere para la comprensión y el manejo de los datos.
 
-The following sections discuss ways to ensure that data is fully utilized and accessible to the most amount of people. These best practices center around community frameworks and tools that help researchers manage and share open data.
+Las siguientes secciones discuten formas de asegurar que los datos sean totalmente utilizados y accesibles para la mayor cantidad de personas. Estas buenas prácticas se centran en marcos de trabajo comunitarios y herramientas que ayudan a quienes investigan a administrar y compartir datos abiertos.
 
-## FAIR Principles
+## Principios FAIR
 
 <img src="../images/media/image28.png" style="width:100%;height:auto;" />
 
-Just like driving on a road, if everyone follows agreed upon rules, everything goes much smoother. The rules don’t need to be exactly the same for every region, but share common practices based on insights about safety and efficiency.
+Al igual que al conducir en una carretera, si todo el mundo sigue las normas acordadas, todo va mucho mejor. Las reglas no necesitan ser exactamente las mismas en todas las regiones, sino compartir prácticas comunes basadas en información sobre seguridad y eficiencia.
 
-For example, maybe you drive on the left side of the road or the right side. Either is fine, those sort of details are for different communities to decide on. However, there are overarching guidelines shared by communities across the globe, such as the rule to drive on the road not the sidewalk, use a turn signal when appropriate, adhere to lights at intersections that direct traffic, and follow speed limits. Some communities may implement stricter rules than others, or practice them differently, but these guidelines help everyone move around safely through a common understanding of how to drive on roads. For scientific data, these guidelines are called the Findable, Accessible, Interoperable, Reusable or “FAIR” principles. They do to data what their title suggests. That is, these principles make it possible for others (and yourself) to find, get , understand, and use data correctly.
+Por ejemplo, puede que conduzcas en el lado izquierdo o en el lado derecho de la carretera. Los dos están bien, esos detalles deben decidirlos las diferentes comunidades. Sin embargo, existen pautas generales compartidas por comunidades de todo el mundo, como la regla de conducir en la carretera y no en la acera, usar una señal de giro cuando sea apropiado, respetar los semáforos que dirigen el tráfico en los cruces de calles y seguir los límites de velocidad. Algunas comunidades pueden aplicar reglas más estrictas que otras, o ponerlas en práctica de forma diferente, pero estas pautas ayudan a todo el mundo a moverse de forma segura a través de un acierdo común sobre cómo conducir por las carreteras. Para los datos científicos, estas pautas son los principios Encontrable (_Findable_), Accesible (_Accesible_), Interoperable (_Interoperable_) y Reutilizable (_Reusable_), llamados Principios FAIR por sus siglas en inglés. Hacen por los datos lo que su título sugiere. Es decir, estos principios permiten a las demás personas (y a ustedes) encontrar, obtener, entender y usar correctamente los datos.
 
-**Findable**:
+**Encontrable**:
 
-To be [Findable:](https://www.go-fair.org/fair-principles/f1-meta-data-assigned-globally-unique-persistent-identifiers/)
+Para ser [Encontrable:](https://www.go-fair.org/fair-principles/f1-meta-data-assigned-globally-unique-persistent-identifiers/)
 
 - Data and results are assigned a globally unique and persistent identifier.
 - Data are described with rich metadata.
