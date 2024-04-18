@@ -3,13 +3,13 @@
 ## Índice
 
 - [Descripción general](#resumen)
-- [Learning Objectives](#learning-objectives)
-- [Planning for Open Data](#planning-for-open-data)
-- [Selecting Data Formats and Tools for Interoperability](#selecting-data-formats-and-tools-for-interoperability)
-- [Making the Data Reusable Through Documentation](#making-the-data-reusable-through-documentation)
-- [Making the Data Reusable Through Licensing](#making-the-data-reusable-through-licensing)
-- [Lesson 3: Summary](#lesson-3-summary)
-- [Lesson 3: Knowledge Check](#lesson-3-knowledge-check)
+- [Objetivos de Aprendizaje](#learning-objectives)
+- [Planificando para los Datos Abiertos](#planning-for-open-data)
+- [Seleccionando Formatos y Herramientas de Datos para la Interoperabilidad](#selecting-data-formats-and-tools-for-interoperability)
+- [Haciendo los Datos Reusables Mediante la Documentación](#making-the-data-reusable-through-documentation)
+- [Haciendo los Datos Reusables Mediante Licencias](#making-the-data-reusable-through-licensing)
+- [Lección 3: Resumen](#lesson-3-summary)
+- [Lección 3: Revisión De Conocimientos](#lesson-3-knowledge-check)
 
 ## Descripción general
 
@@ -70,30 +70,30 @@ Algunos desafíos del uso de datos en formatos no abiertos incluyen:
 - La necesidad de instalar software o convertidores adicionales, lo que conduce a frustración y molestias.
 - El contratiempo inicial atenúa el entusiasmo por usar tus datos.
 - Convertir los datos a un formato universal puede llevar a un formato único o características que no se traducen bien, haciendo que los datos pierdan parte de su valor.
-- New open-data policies can limit the sharing of proprietary data as it is often non-compatible with the concept of easy distribution.
+- Las nuevas políticas de datos abiertos pueden limitar el intercambio de datos privados, ya que a menudo no es compatible con el concepto de fácil distribución.
 
-### Open Data Format Examples
+### Ejemplos de Formatos de Datos Abiertos
 
-Some examples of open data formats include:
+Algunos ejemplos de formatos de datos abiertos incluyen:
 
-_Select each card to find out more information._
+_Selecciona cada tarjeta para obtener más información._
 
-|                                                                                    |                                                                                                                                                                                         |
-| ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Comma Separated Values (CSV)                                    | For simplicity, readability, compatibility, easy data exchange.                                                                                                         |
-| Hierarchical Data Format (HDF)                                  | For efﬁcient storing and retrieving data, compression, multi-dimensional support.                                                                                       |
-| Network Common Data Form (NetCDF)                               | For self-describing and portability, efﬁcient data subsetting (extract speciﬁc portions of large datasets), standardization and interoperability.    |
-| Investigation-Study- Assay (ISA) model for life science studies | For structured data organization, data integration and interoperability among experiments, reproducibility and transparency.                                            |
-| Flexible Image Transport System (FITS)                          | As a standard for astronomical data, ﬂexible and extensible metadata and image headers, efﬁcient data compression and archiving of large datasets.                      |
-| Common Data Format (CDF)                                        | For self-describing format readable across multiple operating systems, programming languages, and software environments, multidimensional data, and metadata inclusion. |
+|                                                                                                       |                                                                                                                                                                                                                  |
+| ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Valores separados por comas (CSV)                                                  | Por simplicidad, legibilidad, compatibilidad, fácil intercambio de datos.                                                                                                                        |
+| Formato de datos jerárquicos (HDF)                                                 | Para almacenar y recuperar datos de forma eficiente, compresión y soporte multidimensional.                                                                                                      |
+| Formulario de datos comunes de red (NetCDF)                                        | Para autodescripción y portabilidad, subconjunto de datos eficiente (extracción de porciones específicas de conjuntos de datos grandes), estandarización e interoperabilidad. |
+| Modelo de investigación-estudio- ensayo (ISA) para estudios de ciencias de la vida | Para la organización estructurada de datos, integración de datos e interoperabilidad entre experimentos, reproducibilidad y transparencia.                                                       |
+| Sistema de transporte de imágenes flexible (FITS)                                  | Como estándar para datos astronómicos, metadatos y cabeceras de imagen flexibles y extenibles, compresión eficiente de datos y archivado de grandes conjuntos de datos.                          |
+| Formato común de datos (CDF)                                                       | Para un formato auto-descriptivo legible en múltiples sistemas operativos, lenguajes de programación y entornos de software, datos multidimensionales e inclusión de metadatos.                  |
 
-By embracing open standards, authors can avoid unnecessary barriers and maximize their chances of making data useful to their communities.
+Al incorporar estándares abiertos, los autores pueden evitar barreras innecesarias y maximizar sus posibilidades de hacer que los datos sean útiles para sus comunidades.
 
-## Making the Data Reusable Through Documentation
+## Hacer los datos reutilizables a través de la documentación
 
-### Adding Documentation and Metadata for Reusability
+### Incorporación de documentación y metadatos para facilitar la reutilización
 
-Metadata and data documentation describe data so that we and others can use and better understand data. While metadata and documentation are related, there is an important distinction. Metadata are structured, standardized, and machine readable. Documentation is unstructured and can be any format (often a text file that accompanies the data).
+Los metadatos y la documentación de datos describen los datos para que otros y nosotros podamos usarlos y entenderlos mejor. Aunque los metadatos y la documentación están relacionados, hay una distinción importante. Metadata are structured, standardized, and machine readable. Documentation is unstructured and can be any format (often a text file that accompanies the data).
 
 To better understand documentation and metadata, let’s take an example of an online recipe. Many online recipes start with a long description and history of the recipe, and perhaps cooking or baking tips for the dish, before listing ingredients and step-by-step cooking instructions.
 
