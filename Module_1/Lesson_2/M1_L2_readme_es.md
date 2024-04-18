@@ -177,91 +177,90 @@ Los científicos estudian cuestiones que afectan a todos los aspectos de la vida
 
 El público general que financia la investigación gubernamental a través de los impuestos debería tener derecho a sus resultados y sus datos, siempre que la seguridad y la protección no sean un problema. La ciencia debe ser más abierta para garantizar que sus conocimientos beneficien al público que la hace posible.
 
-Open science introduces more scrutiny into research that helps ensure accuracy and encourages efficiency through open discourse. This approach accelerates the pace of discovery and subsequently the dissemination of results to the public and policymakers.
+La ciencia abierta incrementa el escrutinio en la investigación lo que ayuda a garantizar la precisión y fomenta la eficiencia a través de un discurso abierto. Este enfoque acelera el ritmo de los descubrimientos y, posteriormente, la difusión de los resultados al público y a los responsables políticos.
 
-### Open Science Can Accelerate the Pace of Science
+### La ciencia abierta puede acelerar el ritmo al que avanza la ciencia
 
-Open science practices accelerate the pace of scientific discovery by involving ideas and labor from the broader community. The rapid response to the
-[Covid-19 Pandemic showed Open Science in action to accelerate discovery.](https://www.nejm.org/doi/full/10.1056/NEJMp2034518)
+Las prácticas de ciencia abierta aceleran el ritmo de los descubrimientos científicos al introducir ideas y mano de obra de la comunidad en general. La pandemia de Covid-19 mostró a la ciencia abierta en acción para acelerar los descubrimientos y asi dar una respuesta rapida. (https://www.nejm.org/doi/full/10.1056/NEJMp2034518)
 
 <img src="../images/media/image41.png" style="width: 350px; height: auto;" />
 
-Researchers uploaded the initial genome sequence of SARS-CoV-2 into an open-access database in January 2020, creating a data-sharing precedent and metadata that would later enable insights about new Covid-19 variants. The NIH developed a dedicated platform for sharing research tools for Covid-19 and encouraged investigators to expedite reporting to ClinicalTrials.gov ahead of requirements. Open-science publishing agreements that support evidence dissemination have complemented these practices and policies. One day after the World Health Organization declared Covid-19 a public health emergency, more than 50 academic publishers issued a joint statement committing to open-access policies for Covid-19 research. Support for preprint servers has promoted awareness of research successes and failures, and journals have helped accelerate the distribution of actionable information, including by means of dedicated Covid-19 web pages, endorsement of preprints, and an emphasis on sharing data with public health authorities.
+En enero de 2020, los investigadores hicieron publica la secuencia inicial del genoma del SARS-CoV-2 a través de una base de datos de libre acceso, creando así un precedente de intercambio de datos y metadatos que más tarde permitiría conocer nuevas variantes de Covid-19. En el NIH crearon una plataforma específica para compartir herramientas de investigación para Covid-19 y animaron a los investigadores a acelerar el reporte a ClinicalTrials.gov antes de lo exigido. Los acuerdos de publicación de ciencia abierta que apoyan la difusión de pruebas han complementado estas prácticas y políticas. Un día después de que la Organización Mundial de la Salud declarara el Covid-19 emergencia de salud pública, más de 50 editoriales académicas emitieron una declaración conjunta en la que se comprometían a aplicar políticas de acceso abierto a la investigación sobre el Covid-19. El apoyo a los servidores de pre-impresión ha fomentado el conocimiento de los éxitos y fracasos de la investigación, y las revistas han contribuido a acelerar la distribución de información procesable, entre otras cosas mediante páginas web dedicadas a Covid-19, la aprobación de articulos pre-impresos y el énfasis en compartir datos con las autoridades de salud pública.
 
-### Open Science is Efﬁcient Science
+### La ciencia abierta es una ciencia eficiente
 
-Open science reciprocates the benefits it provides to researchers onto the communities that scientists hope to serve. Data from one observation or science experiment can have unanticipated uses. In Lesson 1, we discussed an example where the use of radar data for tracking the effect of climate change was used to track bird migration.
+La ciencia abierta hace recíprocos los beneficios que proporciona a los investigadores con las comunidades a las que los científicos esperan servir. Los datos de una observación o un experimento científico pueden tener usos imprevistos. En la Lección 1, analizamos un ejemplo en el que el uso de datos de radar para rastrear el efecto del cambio climático se utilizaba para seguir la migración de las aves.
 
-Through open science practices, research waste can be avoided, such as unintentional and costly repetition of previous studies, according to a 2020 European Commission [report](https://op.europa.eu/en/publication-detail/-/publication/6bc538ad-344f-11eb-b27b-01aa75ed71a1). In the human sciences, this also reduces participant fatigue in the long term. By maximizing what is learned from publicly available data, one does not need to test repeatedly, especially on already vulnerable communities. By “giving away” science, individuals, communities and organizations can more easily adopt research results to inform interventions for their own needs without the knowledge being gatekept by the original researchers and organizations involved. In this way, open science can strengthen the social and economic impacts of scientific results.
+Según un [informe] de la Comisión Europea de 2020, gracias a las prácticas de ciencia abierta se pueden evitar los residuos de la investigación, como la repetición involuntaria y costosa de estudios anteriores.(https://op.europa.eu/en/publication-detail/-/publication/6bc538ad-344f-11eb-b27b-01aa75ed71a1). En las ciencias humanas, esto también reduce la fatiga de los participantes a largo plazo. Al maximizar lo que se aprende de los datos disponibles públicamente, no es necesario realizar pruebas repetidamente, especialmente en comunidades ya vulnerables. Al " donar " la ciencia, los individuos, las comunidades y las organizaciones pueden adoptar más fácilmente los resultados de la investigación para orientar las intervenciones a sus propias necesidades sin que los conocimientos queden en manos de los investigadores originales y las organizaciones implicadas. De este modo, la ciencia abierta puede reforzar el impacto social y económico de los resultados científicos.
 
-### Open Science Attracts a Diverse Set of Participant
+### La ciencia abierta atrae a un conjunto diverso de participantes
 
 <img src="../images/media/image265.jpg" style="width: 350px; height: auto;" />
 
-Image credit: Andy Brunning/Compound Interest. **CC BY-NC-ND 4.0 DEED**
+Crédito de la imagen: Andy Brunning/Compound Interest. **CC BY-NC-ND 4.0 DEED**
 
 ---
 
-The open sharing of scientific products and processes makes science accessible to everyone. This allows full participation from everyone, and also maximizes the number of people who can benefit from the work.
+El intercambio abierto de productos y procesos científicos pone la ciencia al alcance de todos. Esto permite la plena participación de todos y también maximiza el número de personas que pueden beneficiarse del trabajo.
 
-The best ways to include a diverse group of open science practitioners and stakeholders are to remove existing barriers and design for inclusion. Beyond this, it is important to learn how to communicate effectively with diverse collaborators, people at different skill levels, career levels, backgrounds, and areas of expertise. The ability to build diverse teams is a skill that everyone can learn.
+La mejor manera de incluir a un grupo diverso de profesionales y partes interesadas en la ciencia abierta es eliminar las barreras existentes y diseñar para la inclusión. Más allá de esto, es importante aprender a comunicarse eficazmente con diversos colaboradores, personas con distintos niveles de formación, carreras, antecedentes y áreas de especialización. La capacidad de crear equipos diversos es una habilidad que todo el mundo puede aprender.
 
-### Key Takeaways: Beneﬁts to Society
+### Conclusiones principales: Beneficios para la ciencia
 
-- The public who funds government research through taxes should be entitled to its results and data, as long as safety and security are not an issue.
-- Open science allows for errors to be quickly corrected and accurate results to be built upon by others, impacting policies.
-- Open science decreases the unintentional and costly repetition of previous studies, accelerating science that benefits society.
+- El público general que financia la investigación gubernamental a través de los impuestos debería tener derecho a sus resultados y sus datos, siempre que la seguridad y la protección no sean un problema.
+- La ciencia abierta permite que los errores sean corregidos rápidamente y que otros se basen en resultados precisos e impacten en las politicas publicas.
+- La ciencia abierta disminuye la repetición involuntaria y costosa de estudios anteriores, acelerando la ciencia que beneficia a la sociedad.
 
-## Lesson 2: Summary
+## Lección 2: Resumen
 
-The following are the key takeaways from this lesson:
+A continuación se exponen las conclusiones principales de esta lección:
 
-- Citing the work of other scientists whose work you build upon or reuse supports the community-minded open science practice of using, making, and sharing.
-- Doing science openly can boost the visibility of research and lead to more meaningful collaborations.
-- Science quality and efficiency is improved when open science best practices are followed.
-- Open science helps society by allowing more people to participate in science, which increases the accuracy and impact of results.
+- Citar el trabajo de otros científicos en el que basamos nuestro trabajo o que reutilizamos apoya la práctica de la ciencia abierta orientada a la comunidad de usar, hacer y compartir.
+- Hacer ciencia abiertamente puede aumentar la visibilidad de la investigación y dar lugar a colaboraciones más significativas.
+- La calidad y la eficiencia de la ciencia mejoran cuando se siguen las mejores prácticas de la ciencia abierta.
+- La ciencia abierta ayuda a la sociedad al permitir que más personas participen en la ciencia, lo que aumenta la precisión y el impacto de los resultados.
 
-## Lesson 2: Knowledge Check
+## Lección 2: Prueba de Conocimiento
 
-Answer the following questions to test what you have learned so far.
+Responde a las siguientes preguntas para comprobar lo que has aprendido hasta ahora.
 
-_Question_
+_Pregunta_
 
 **01/03**
 
-What benefits do the individual researchers gain when practicing open science?
+¿Qué beneficios obtienen los investigadores individuales al practicar la ciencia abierta?
 
-Select all that apply.
+Seleccione todas las opciones que correspondan.
 
-- Documenting work
-- Receiving credit
-- Finding collaborators
-- Priority access to international scientific conferences
-- Securing a higher position in the academic hierarchy irrespective of their publication record
+- Documentar el trabajo
+- Recibir credito
+- Buscar colaboradores
+- Acceso prioritario a conferencias científicas internacionales
+- Asegurarse una posición más alta en la jerarquía académica independientemente de su historial de publicaciones
 
-_Question_
+_Pregunta_
 
 **02/03**
 
-How does openness improve science?
+¿Cómo mejora la ciencia hacerla abierta?
 
-Select all that apply.
+Seleccione todas las opciones que correspondan.
 
-- Accelerated pace of science
-- Improved accuracy
-- Reduced publication bias
-- Fewer discoveries
+- Ritmo acelerado de la ciencia
+- Mayor precisión
+- Menor sesgo en las publicaciones
+- Menos descubrimientos
 
-_Question_
+_Pregunta_
 
 **03/03**
 
-What benefits to society does open science bring?
+¿Qué beneficios aporta a la sociedad la ciencia abierta?
 
-Select all that apply.
+Seleccione todas las opciones que correspondan.
 
-- Wider use of results increases return on investments in science.
-- Open distribution of accurate results reduces misinformation.
-- Open Science facilitates a greater understanding and acceptance of pseudoscientific theories.
-- It creates more job opportunities in science-related fields, irrespective of the relevance or quality of the research.
-- Promotes the commercialization of academic research, leading to increased product advertisements in scientific literature.
+- Un uso más amplio de los resultados aumenta las inversiones en ciencia.
+- La distribución abierta de resultados precisos reduce la desinformación.
+- La ciencia abierta facilita una mayor comprensión y aceptación de las teorías pseudocientíficas.
+- Crea más oportunidades de empleo en campos relacionados con la ciencia, independientemente de la relevancia o la calidad de la investigación.
+- Promueve la comercialización de la investigación académica, lo que se traduce en un aumento de la publicidad de productos en la literatura científica.
