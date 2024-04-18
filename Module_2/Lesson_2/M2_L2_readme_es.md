@@ -360,7 +360,7 @@ Los tipos de Pre-Registro incluyen:
   <tbody>
     <tr>
         <td colspan="4">
-            <p>An investigator writes a manuscript describing the motivation for a study and a detailed description of the methods, and submits it to a journal for peer review prior to undertaking the research. The manuscript is reviewed based on the importance of the research question and the quality of the methods. If accepted, the journal agrees to publish the paper regardless of the results, assuming that there are no problems with the implementation of the methods.</p>
+            <p>El equipo investigador escribe un manuscrito que describe la motivación para un estudio y una descripción detallada de los métodos, y lo envía a una revista para la revisión por pares antes de emprender la investigación. El manuscrito es revisado en base a la importancia de la pregunta de investigación y la calidad de los métodos. Si se acepta, la revista acuerda publicar el artículo sin importar los resultados, suponiendo que no haya problemas con la implementación de los métodos.</p>
         </td>
     </tr>
   </tbody>
@@ -369,16 +369,16 @@ Los tipos de Pre-Registro incluyen:
 <table>
   <thead>
     <tr>
-        <th>Standard Pre-registration</th>
-        <th>Registered Reports</th>
-        <th>Registered Replication Report ☑</th>
-        <th>Sharing Grant Proposals</th>
+        <th>Pre-registro Estándar</th>
+        <th>Reportes Registrados</th>
+        <th>Reporte de Replicación Registrado ☑</th>
+        <th>Compartiendo Propuestas de Subsidios</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="4">
-            <p>A type of registered report in which the investigators wish to attempt to replicate a particular published finding, usually involving multiple research sites.</p>
+            <p>Un tipo de reporte registrado en el que el equipo investigador desea intentar replicar un hallazgo publicado en particular, generalmente involucrando múltiples sitios de investigación.</p>
         </td>
     </tr>
   </tbody>
@@ -387,54 +387,54 @@ Los tipos de Pre-Registro incluyen:
 <table>
   <thead>
     <tr>
-        <th>Standard Pre-registration</th>
-        <th>Registered Reports</th>
-        <th>Registered Replication Report</th>
-        <th>Sharing Grant Proposals ☑</th>
+        <th>Pre-registro Estándar</th>
+        <th>Reportes Registrados</th>
+        <th>Reporte de Replicación Registrado</th>
+        <th>Compartiendo Propuestas de Subsidios ☑</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Another way to document and timestamp research plans and concepts is to share funded grant proposals publicly. This has the added benefit of making the funding process more transparent, and providing examples of successful grant proposals for other researchers, particularly those in their early career stage.</p>
+            <p>Otra forma de documentar y fechar los planes de investigación y conceptos es compartir públicamente las propuestas de subsidios financiadas. Esto tiene el beneficio añadido de hacer que el proceso de financiación sea más transparente, y ofreciendo ejemplos de propuestas de subsidios exitosas para otros equipos investigadores, en particular los que se encuentran en su fase temprana de la carrera.</p>
         </td>
     </tr>
   </tbody>
 </table>
 
-### Why is Pre-Registration Important?
+### ¿Por qué es importante el pre-registro?
 
-- It forces the researcher to plan and think through both why and how they are pursuing their research question.
-- It provides the researcher with a way to determine whether a hypothesis was truly held a priori, versus relying upon memory.
-- It forces the researcher to think through their analysis plan in more detail, potentially surfacing issues that could influence the design of the study.
-- It helps prevent unethical manipulation of data analyses and project design to yield statistically relevant results.
-- Helps prevent selective reporting of measures.
+- Forza al equipo investigador a planificar y considerar detalladamente tanto por qué y cómo están llevando a cabo su pregunta de investigación.
+- Proporciona a la persona que investiga una manera de determinar si una hipótesis realmente se celebró a priori frente a confiar en la memoria.
+- Forza al equipo investigador a reflexionar sobre su plan de análisis con más detalle, potencialmente surgiendo cuestiones que podrían influir en el diseño del estudio.
+- Ayuda a prevenir la manipulación no ética de los análisis de datos y el diseño de proyectos para obtener resultados estadísticamente relevantes.
+- Ayuda a evitar la notificación selectiva de medidas.
 
-### When Can/Should One Pre-Register Their Research?
+### Cuándo Uno Puede/Debe Pre-Regristar Sus Investigaciones?
 
-A planned research activity can be pre-registered at any point, as long as the particular activity being registered has not started. However, there are several points at which registration is most common:
+Una actividad de investigación planificada puede ser pre-registrada en cualquier momento, siempre y cuando la actividad particular que se registra no haya comenzado. Sin embargo, existen varios puntos en los que el registro es más común:
 
-- Prior to the collection of data for a project
-- Prior to analysis of an existing or openly available dataset
+- Antes de la recolección de datos para un proyecto
+- Antes del analisis de un conjunto de datos existente o abiertamente disponible
 
-Source: [ Registration — Stanford Psychology Guide to Doing Open Science (poldrack.github.io)](https://poldrack.github.io/psych-open-science-guide/1_preregistration.html)
+Fuente: [ Registration — Guía de Psicología de Stanford para Doing Open Science (poldrack.github.io)](https://poldrack.github.io/psych-open-science-guide/1_pregistration.html)[video]
 
-A 2023 [Nature survey](https://www.nature.com/articles/s41467-023-41111-1) on researcher attitudes towards open science practices found that about 88% of respondents favor sharing data or code online while only 58% support pre-registration. This moderate support for pre-registration among respondents suggests that awareness of its benefits and lingering concerns remain issues. In the next section, we introduce a method to strategize how to best implement open science from the beginning of a study to its end.
+[Encuesta sobre Naturaleza de 2023](https://www.nature. om/articles/s41467-023-41111-1) sobre actitudes de las personas que investigan hacia las prácticas científicas abiertas determinó que alrededor del 88% de las personas encuestadas están a favor de compartir datos o código en línea, mientras que sólo el 58% apoya el pre-registro. Este apoyo moderado al pre-registro entre las personas encuestadas sugiere que la conciencia de sus beneficios y preocupaciones persistentes sigue siendo un problema. En la siguiente sección, introducimos un método para elaborar estrategias sobre cómo implementar mejor la ciencia abierta desde el comienzo de un estudio hasta su fin.
 
-## Open Science and Data Management Plans
+## Ciencia Abierta y Planes de Gestión de Datos
 
-To successfully use, make, and share science openly, we need an open science and data management plan (OSDMP).
+Para usar, hacer y compartir con éxito la ciencia abiertamente, necesitamos un plan abierto de ciencia y gestión de datos (PACGD).
 
-- From day 1, establish a plan for management, preservation, and release of data, software, and results.
-- This plan is your blueprint for open science - refer to your plan often to ensure you succeed in your goal of openness.
+- Desde el día 1, establezca un plan para la gestión, conservación y publicación de datos, software y resultados.
+- Este plan es tu plano para la ciencia abierta - consulta tu plan a menudo para asegurarte de tener éxito en tu objetivo de apertura.
 
-We'll discuss each component (data, software, & results) when we cover each topic.
+Discutiremos cada componente (datos, software y resultados) cuando cubramos cada tema.
 
-**Note: Many funding opportunities (e.g., NASA ROSES) require an OSDMP as part of your proposal. For more information on NASA Science Mission Directorate’s (SMD's) policies, please [see NASA Guidance on Management Plans](https://smd-cms.nasa.gov/wp-content/uploads/2023/07/smd-open-source-science-guidance-v2-20230407.pdf) and [Open Source Science Guidance for Researchers.](https://smd-cms.nasa.gov/wp-content/uploads/2023/07/smd-open-source-science-guidance-v2-20230407.pdf)**
+**Nota: Muchas oportunidades de financiación (por ejemplo, NASA ROSES) requieren un PACGD como parte de su propuesta. Para obtener más información sobre las políticas del Directorio de Misión de Ciencia de la NASA (SMD's), por favor [vea la Guía de la NASA sobre Planes de Administración](https://smd-cms.nasa.gov/wp-content/uploads/2023/07/smd-open-source-science-guidance-v2-20230407.pdf) y [Guía de Ciencia de Código Abierto para Investigadores.](https://smd-cms.nasa.gov/wp-content/uploads/2023/07/smd-open-source-science-guidance-v2-20230407.pdf)**
 
-### Design Your Science to be Open
+### Diseña Tu Ciencia para que sea Abierta
 
-Funding organizations and agencies around the world are beginning to require open science plans. En este plan de estudios, nos centraremos en el Plan de Ciencia Abierta y Gestión de Datos de la NASA (PCAGD) (en inglés, Open Science and Data Management Plan, OSDMP). Los planes de ciencia abierta no son exclusivos de la NASA. Sin embargo, saber cómo escribir uno para esta agencia debería prepararte para casi cualquier oportunidad de financiamiento.
+Las organizaciones y agencias de financiación de todo el mundo están empezando a requerir planes científicos abiertos. En este plan de estudios, nos centraremos en el Plan de Ciencia Abierta y Gestión de Datos de la NASA (PCAGD) (en inglés, Open Science and Data Management Plan, OSDMP). Los planes de ciencia abierta no son exclusivos de la NASA. Sin embargo, saber cómo escribir uno para esta agencia debería prepararte para casi cualquier oportunidad de financiamiento.
 
 El PCAGD describe cómo se gestionará y se pondrá a disposición abiertamente la información que se producirá a partir de actividades científicas. Específicamente, un plan de estas características debe incluir secciones sobre gestión de datos, gestión de software y compartición de publicaciones. Si tu estudio tiene otros tipos de salidas, como muestras físicas, hardware o cualquier otra cosa, también debes incluirlas en el plan. Un PCAGD ayuda a los investigadores a pensar en los detalles de planificación para compartir resultados.
 
