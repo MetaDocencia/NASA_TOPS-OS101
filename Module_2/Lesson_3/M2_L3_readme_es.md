@@ -11,24 +11,24 @@
 
 ## Descripción general
 
-Esta lección trata sobre los conceptos, consideraciones y herramientas para crear datos y resultados. Comienza con una mirada centrada en los principios FAIR y cómo se aplican a los datos. The lesson includes an introduction to plans, tools, data formats, and other considerations that are related to making data and sharing the results related to that data.
+Esta lección trata sobre los conceptos, consideraciones y herramientas para crear datos y resultados. Comienza con una mirada centrada en los principios FAIR y cómo se aplican a los datos. La lección incluye una introducción a planes, herramientas, formatos de datos y otras consideraciones asociadas a la creación de datos y a compartir los resultados relacionados con esos datos.
 
-## Learning Objectives
+## Objetivos de aprendizaje
 
-After completing this lesson, you should be able to:
+Al finalizar esta lección deberías ser capaz de:
 
-- Define the different types of scientific data.
-- Define what the acronym FAIR means and explain how it supports the sharing of open data.
-- Identify data management practices and tools to locate data in repositories.
-- List and explain the purpose of the resources commonly used in making data including the data formats, inspecting data, and assessing 'FAIR'-ness of data.
+- Definir los diferentes tipos de datos científicos.
+- Definir qué significa el acrónimo FAIR y explicar cómo apoya a que se compartan datos abiertos.
+- Identificar prácticas de gestión de datos y herramientas para ubicar datos en repositorios.
+- Listar y explicar el propósito de los recursos usados comúnmente en la creación de datos, incluyendo los formatos de datos, la inspección de datos y la evaluación del ajuste de los datos a los principios FAIR.
 
-## Introduction to Open Data
+## Introducción a los datos abiertos
 
-Data is a major part of scientific research, and why wouldn’t it be? It informs tools that we use, stories that we read, and decisions that we make on a daily basis.
+Los datos son una parte importante de la investigación científica y ¿por qué no lo serían? Son información para las herramientas que usamos, las historias que leemos y las decisiones que tomamos a diario.
 
-For instance, the open access [Copernicus Emergency Management Service](https://emergency.copernicus.eu/) implemented by the European Commission produces 24/7 open access data collected by ESA and NASA satellites to produce maps that inform disaster preparedness and response efforts across the globe. This is only one example among many others demonstrating the value of data, particularly open and public data, in our daily life and for public good.
+Por ejemplo, el [Servicio de Gestión de Emergencias de Copernicus](https://emergency.copernicus. u/) (en inglés, _Copernicus Emergency Management Service_), de acceso abierto e implementado por la Comisión Europea, produce datos de acceso abierto 24/7, que son recogidos por los satélites de la Agencia Espacial Europea (ESA, por las siglas en inglés de _European Space Agency_) y la NASA para producir mapas que den información para los esfuerzos en la preparación y la respuesta a desastres en todo el mundo. Este es sólo un ejemplo entre muchos otros que demuestran el valor de los datos, particularmente los datos públicos y abiertos, en nuestra vida cotidiana y por el bien público.
 
-Data shared openly in scientific research brings tremendous value to the scientific community and beyond, from indigenous communities to urban populations. Before understanding the broad based impact of data, let’s first look at what is data in the context of scientific research. Specifically, we will discuss the definition and characteristics of open data?
+Los datos compartidos abiertamente en la investigación científica aportan un valor enorme a la comunidad científica y más allá, desde las comunidades indígenas hasta las poblaciones urbanas. Before understanding the broad based impact of data, let’s first look at what is data in the context of scientific research. Specifically, we will discuss the definition and characteristics of open data?
 
 ### What is Data?
 
