@@ -62,14 +62,14 @@ Un formato de datos cerrado (sin soporte y o de propiedad privada) se refiere a 
 - **Microsoft Word (.doc/.docx):** Un formato de archivo con derechos de propiedad usado para almacenar datos de procesamiento de texto.
 - **Dibujo automático (.dwg):** Un formato de datos con derechos de propiedad utilizado para el diseño asistido por ordenador (CAD).
 
-Software applications that can read but not create DOC, PSD, or DWG formatted data usually do not fully support all the features, layers, specifications, and inner workings of the original file.
+Las aplicaciones de software que pueden leer pero no crear datos con formato DOC, PSD o DWG normalmente no soportan todas las características, capas, especificaciones y el funcionamiento interno del archivo original.
 
-Some challenges of using data in non-open formats include:
+Algunos desafíos del uso de datos en formatos no abiertos incluyen:
 
-- Trouble opening the file due to compatibility issues.
-- The need to install additional software or converters, leading to frustration and inconvenience.
-- Initial setback dampens the enthusiasm for using your data.
-- Converting the data to a universal format can lead to unique formatting or features that do not translate well, making the data lose part of its value.
+- Problema al abrir el archivo debido a problemas de compatibilidad.
+- La necesidad de instalar software o convertidores adicionales, lo que conduce a frustración y molestias.
+- El contratiempo inicial atenúa el entusiasmo por usar tus datos.
+- Convertir los datos a un formato universal puede llevar a un formato único o características que no se traducen bien, haciendo que los datos pierdan parte de su valor.
 - New open-data policies can limit the sharing of proprietary data as it is often non-compatible with the concept of easy distribution.
 
 ### Open Data Format Examples
