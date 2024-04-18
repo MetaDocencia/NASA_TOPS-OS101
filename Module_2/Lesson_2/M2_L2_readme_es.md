@@ -177,7 +177,7 @@ Los metadatos pueden facilitar la evaluación de la calidad del conjunto de dato
 - Cómo y dónde encontrar los datos (por ejemplo, DOI).
 - Cómo citar los datos.
 - Qué región espacio-temporal / tiempo cubren los datos.
-- Toda información legal, directriz o estándar sobre los datos.
+- Toda información legal, pauta o estándar sobre los datos.
 
 Los metadatos mejoran la búsqueda y la accesibilidad de los datos permitiendo potencialmente que otras máquinas lean e interpreten los conjuntos de datos.
 
@@ -261,7 +261,7 @@ Los tipos de documentación incluyen (muchos de los cuales serán ampliados más
   <tbody>
     <tr>
         <td colspan="3">
-        <p>Resumen de los datos (por ejemplo, como un archivo LÉAME o guía de usuario) que responde preguntas como:</p>
+        <p>Resumen de los datos (por ejemplo, como un archivo LEEME o guía de usuario) que responde preguntas como:</p>
         <ul>
             <li>¿Cuáles son los errores conocidos para estos datos?</li>
             <li>¿Cómo se pueden utilizar estos datos?</li>
@@ -284,7 +284,7 @@ Los tipos de documentación incluyen (muchos de los cuales serán ampliados más
   <tbody>
     <tr>
         <td colspan="3">
-            <p>Archivos LÉAME: Instrucciones básicas de instalación y uso.</p>
+            <p>Archivos LEEME: Instrucciones básicas de instalación y uso.</p>
             <p>Comentarios en línea en el código: Anotaciones sobre componentes de código.</p>
             <p>Notas de la versión: ¿Qué hay de nuevo en esta versión?</p>
             <p>Publicaciones asociadas: ¿Cómo utilizaron otros este software?</p>
@@ -326,23 +326,23 @@ Los usuarios deben seleccionar los repositorios basados en sus necesidades. Vea 
 
 ### Pre-registro
 
-El Pre-registro es el proceso mediante el cual un investigador documenta sus planes de investigación en un formato de acceso abierto antes del inicio de un proyecto. Esto proporciona una prueba bloqueada y fechada del origen de un concepto. Pre-registration is currently more widely adopted by certain disciplines, particularly the social sciences.
+El Pre-registro es el proceso mediante el cual un investigador documenta sus planes de investigación en un formato de acceso abierto antes del inicio de un proyecto. Esto proporciona una prueba bloqueada y fechada del origen de un concepto. En la actualidad, el preregistro es más ampliamente adoptado por ciertas disciplinas, en particular las ciencias sociales.
 
-Types of Pre-Registration Include:
+Los tipos de Pre-Registro incluyen:
 
 <table>
   <thead>
     <tr>
-        <th>Standard Pre-registration ☑</th>
-        <th>Registered Reports</th>
-        <th>Registered Replication Report</th>
-        <th>Sharing Grant Proposals</th>
+        <th>Pre-registro estándar ☑</th>
+        <th>Reportes Registrados</th>
+        <th>Reporte de Replicación Registrado</th>
+        <th>Compartiendo Propuestas de Subsidios</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="4">
-            <p>An investigator documents their plans in writing and submits them to a pre-registration service. This documents the researcher’s plans prior to undertaking the research, and provides investigators and reviewers with a way to distinguish a priori hypotheses from post-hoc exploratory analyses. The document may be kept private for some period of time, but is usually made public upon submission of the manuscript for publication.</p>
+            <p>El equipo investigador documenta sus planes por escrito y los envía a un servicio de pre-registro. Esto documenta los planes del equipo investigador antes de llevar a cabo la investigación, y proporciona tanto a los equipos de investigadores como revisores, una manera de distinguir entre las hipótesis a priori y los análisis exploratorios post-hoc. El documento puede mantenerse privado durante algún tiempo, pero normalmente se hace público cuando se envía el manuscrito para su publicación.</p>
         </td>
     </tr>
   </tbody>
@@ -351,10 +351,10 @@ Types of Pre-Registration Include:
 <table>
   <thead>
     <tr>
-        <th>Standard Pre-registration</th>
-        <th>Registered Reports ☑</th>
-        <th>Registered Replication Report</th>
-        <th>Sharing Grant Proposals</th>
+        <th>Pre-registro Estándar</th>
+        <th>Reportes Registrados ☑</th>
+        <th>Reporte de Replicación Registrado</th>
+        <th>Compartiendo Propuestas de Subsidios</th>
     </tr>
   </thead>
   <tbody>
@@ -467,20 +467,20 @@ Los pasos para cada una de estas secciones deben incluir:
 
 Las principales fundaciones y agencias de gobierno exigen en la actualidad que los científicos presenten un Plan de Gestión de Datos (PGD) junto con la propuesta de su plan de investigación. Los datos y otros elementos, como el código y las publicaciones, tienen su propio ciclo de vida y flujo de trabajo, que deben estar incluidos en el plan. Los PGD son un aspecto crítico de la ciencia abierta y ayudan a mantener a otros investigadores informados y encaminados durante todo el ciclo de vida de la gestión de datos.
 
-Los DMP que tienen éxito suelen incluir una terminología clara sobre los principios FAIR y CARE y cómo se aplicarán.
+Los PGD que tienen éxito suelen incluir una terminología clara sobre los principios FAIR y CARE y cómo se aplicarán.
 
 El ciclo de vida de la gestión de datos es típicamente circular. Los datos de la investigación son valiosos y reutilizables mucho después de que finaliza el apoyo financiero del proyecto. La reutilización de datos puede extenderse más allá de nuestra propia vida. Por lo tanto, al diseñar un proyecto o respaldar un corpus de datos existente, debemos ser conscientes de lo que sucede con los datos una vez finalizada nuestra propia interacción de investigación.
 
 Los planes de gestión de datos suelen incluir lo siguiente:
 
 - Descripciones de los datos que se esperan producir a partir de las actividades propuestas, incluidos los tipos de datos que se producirán, la cantidad aproximada de cada tipo de datos esperado, el formato legible por máquina de los datos, el formato del archivo de datos y cualquier estándar aplicable a los datos o metadatos asociados.
-- El repositorio (o repositorios) que se utilizará para archivar los datos y metadatos que surjan de las actividades y el cronograma para poner los datos a disposición del público.
-- Descripción de los tipos de datos que están sujetos a leyes, regulaciones o políticas relevantes que los excluyen de los requisitos de intercambio de datos.
+- El repositorio (o repositorios) que se utilizará para archivar los datos y metadatos que surjan de las actividades y el cronograma para ponerlos a disposición del público.
+- Descripción de los tipos de datos que están sujetos a leyes, regulaciones o políticas relevantes que los excluyen de los requisitos de intercambio.
 - Roles y responsabilidades del personal del proyecto que garantizará la implementación de los planes de gestión de datos.
 
 ### Plan de Gestión de Software
 
-Los planes de gestión de software describen cómo se gestionará, preservará y publicará el software como parte del proceso científico. Esto ayuda a garantizar la transparencia y la reproducibilidad en el proceso científico. El Módulo 4 sobre Código Abierto incluye más detalles sobre la importancia de compartir código como parte del proceso científico.
+Los planes de gestión de software describen cómo se gestionará, publicará y preservará el software como parte del proceso científico. Esto ayuda a garantizar la transparencia y la reproducibilidad en el proceso científico. El Módulo 4 sobre Código Abierto incluye más detalles sobre la importancia de compartir código como parte del proceso científico.
 
 Componentes generales de un plan de gestión de software:
 
@@ -493,15 +493,15 @@ Componentes generales de un plan de gestión de software:
 Como mínimo, un plan de gestión de software para investigaciones financiadas debe incluir:
 
 - Descripción del software que se espera producir a partir de las actividades propuestas, incluidos los tipos de software que se producirán, cómo se desarrollará el software y el agregado de nuevas funciones o actualizaciones al software existente. Esto puede incluir las plataformas utilizadas para el desarrollo, la gestión de proyectos y las mejores prácticas basadas en la comunidad, como documentación, pruebas, dependencias y control de versiones.
-- El(los) repositorio(s) que se utilizarán para archivar el software que surja de las actividades y el cronograma para poner el software a disposición del público.
-- Descripción del software que está sujeto a leyes, regulaciones o políticas relevantes que los excluyen de los requisitos para compartir software.
+- El(los) repositorio(s) que se utilizarán para archivar el software que surja de las actividades y el cronograma para ponerlo a disposición del público.
+- Descripción del software que está sujeto a leyes, regulaciones o políticas relevantes que los excluyen de los requisitos para ser compartido.
 - Roles y responsabilidades del personal del proyecto que garantizará la implementación del plan de gestión de software.
 
 ### Plan de Ciencia Abierta
 
-El PCAGD también debería describir otros procesos abiertos como parte del plan. Esto incluye los tipos de publicaciones que se espera producir a partir de las actividades, incluidos manuscritos revisados por pares, informes técnicos, materiales de conferencias y libros. El plan también debe describir los métodos que se espera utilizar para hacer las publicaciones accesibles al público.
+El PCAGD también debe describir otros procesos abiertos. Esto incluye los tipos de publicaciones que se esperan producir a partir de las actividades, incluidos manuscritos revisados por pares, informes técnicos, materiales de conferencias y libros. Además, debe especificar los métodos que se esperan utilizar para hacer las publicaciones accesibles al público.
 
-Esta sección también puede incluir una descripción de actividades de ciencia abierta adicionales asociadas con el proyecto. Esto puede incluir:
+Asimismo, esta sección también puede incluir una descripción de actividades de ciencia abierta adicionales asociadas con el proyecto. Esto puede comprender:
 
 - Celebrar talleres y reuniones científicas de forma abierta para permitir una amplia participación.
 - Prerregistro de planes de investigación con antelación a la realización de actividades científicas.
@@ -512,16 +512,16 @@ Esta sección también puede incluir una descripción de actividades de ciencia 
 
 ### Plan de Publicaciones
 
-Un plan de publicaciones es una pieza crucial del PCAGD. Dicho plan debe incluir las siguientes características:
+El plan de publicaciones es una pieza crucial del PCAGD. Dicho plan posee las siguientes características:
 
-- Describe cómo se gestionarán, publicarán y conservarán los resultados; en otras palabras, cómo comunicará sus hallazgos.
+- Describe cómo se gestionarán, publicarán y conservarán los resultados; en otras palabras, cómo se comunicarán los hallazgos.
 - Incluye planes para charlas en conferencias, documentos técnicos, artículos de revistas revisados por pares, libros y otros documentos similares.
 - Está escrito de conformidad con las normas y reglamentos de su organización, así como de su fuente de financiación.
-- Al igual que los planes de datos y software, sirve como marco fundamental para su proyecto de principio a fin.
+- Al igual que los planes de datos y software, sirve como marco fundamental para el proyecto de principio a fin.
 
 ### Ejemplos de Requerimientos para Planes de Gestión de Ciencia Abierta
 
-Las organizaciones y agencias a nivel mundial están avanzando hacia la ciencia abierta y comienzan a exigir planes como parte de la financiación. Aquí se presentan algunos de ellos:
+Las organizaciones y agencias a nivel mundial están avanzando hacia la ciencia abierta y comienzan a exigir planes como requerimiento para el financiamiento. Aquí se presentan algunos de ellos:
 
 **Estados Unidos**
 
@@ -530,9 +530,9 @@ Las organizaciones y agencias a nivel mundial están avanzando hacia la ciencia 
 - **NSF**
   - [Plan de Gestión de Datos](https://new.nsf.gov/funding/data-management-plan#%3A~%3Atext%3DThe%20two-page%20data%20management%20plan%20is%20a%20required%2Coverview%20of%20requirements%20for%20the%20data%20management%20plan)
 - **NIH**
-  - [Plan de Gestión y Uso Compartido de Datos](https://sharing.nih.gov/data-management-and-sharing-policy/planning-and-budgeting-for-data-management-and-sharing/writing-a-data-management-and-sharing-plan)
+  - [Plan de Gestión e Intercambio de Datos](https://sharing.nih.gov/data-management-and-sharing-policy/planning-and-budgeting-for-data-management-and-sharing/writing-a-data-management-and-sharing-plan)
 - **NOAA**
-  - [Plan de Datos e Información Compartidos](https://oceanexplorer.noaa.gov/about/funding-opps/media/fy23-data-management-plan.pdf)
+  - [Plan de Intercambio de Datos e Información](https://oceanexplorer.noaa.gov/about/funding-opps/media/fy23-data-management-plan.pdf)
 
 INSTITUTOS GLOBALES
 
@@ -547,7 +547,7 @@ INSTITUTOS GLOBALES
 - Agencia Japonesa de Ciencia y Tecnología
   - [Acceso Abierto a Publicaciones de Investigación y Gestión de Datos de Investigación](https://www.jst.go.jp/EN/about/openscience/guideline_openscience_en_r4.pdf)
 
-Y recuerda, ¡la ciencia abierta tiene matices! Aunque uno de los principios de la ciencia abierta es compartir sus productos, no todos los productos pueden o deben compartirse. Su organización o agencia de financiación puede especificar cómo los comparte. Al embarcarte en la adopción de la ciencia abierta para un proyecto, considera si el tema y el enfoque de tu proyecto permitirán compartirlo. Piensa en las siguientes preguntas:
+Y recuerda, ¡la ciencia abierta tiene matices! Aunque uno de los principios de la ciencia abierta es compartir sus productos, no todos los productos pueden o deben compartirse. La organización o agencia de financiación puede especificar cómo los comparte. Al embarcarte en la adopción de la ciencia abierta para un proyecto, considera si el tema y el enfoque de tu proyecto permitirán compartirlo. Piensa en las siguientes preguntas:
 
 - ¿Se pueden compartir los productos de la investigación?
 - ¿Quién te ayudó a obtener tus datos?
