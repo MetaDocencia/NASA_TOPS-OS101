@@ -294,9 +294,9 @@ Los investigadores que realizan análisis estadísticos tienden a utilizar los l
 
 Fuente: https://es.wikipedia.org/wiki/File:RStudio_IDE_screenshot.png
 
-### Plain Text Editors for Coding
+### Editores de texto plano para programar
 
-Most laptop or desktop computers that run standard operating systems (Windows, MacOS, Linux) have multiple pre-installed plain-text editors that can be used for coding. It is beneficial to know how to use at least one, because it makes editing scripts and files a quick process.
+La mayoría de los ordenadores portátiles o de escritorio que ejecutan sistemas operativos estándar (Windows, MacOS, Linux) tienen múltiples editores de texto plano preinstalados que se pueden utilizar para programar. Es beneficioso saber cómo utilizar al menos uno, porque hace que la edición de programas y archivos sea un proceso rápido.
 
 <table>
   <colgroup>
@@ -313,23 +313,23 @@ Most laptop or desktop computers that run standard operating systems (Windows, M
     <tr class="odd">
       <td>
         <ul>
-        <li>Lightweight</li>
-        <li>Many distributed natively with OS</li>
+        <li>Ligero</li>
+        <li>Muchos se distribuyen nativamente con el sistema operativo (OS)</li>
         </ul>
       </td>
       <td>
         <ul>
-        <li>No plugins to help find bugs, errors, etc.</li>
-        <li>May not have syntax-highlighting</li>
+        <li>No hay plugins que ayuden a encontrar fallos, errores, etc.</li>
+        <li>Puede no tener resaltado de sintaxis</li>
         </ul>
       </td>
     </tr>
   </tbody>
 </table>
 
-### Computational Notebooks
+### Cuadernos Computacionales
 
-A computational notebook refers to a virtual, interactive computing environment that combines code execution, documentation, and data visualization in a single interface. These notebooks are widely used in data science and coding fields. Popular examples include Jupyter Notebooks and R Notebooks. They allow users to write and run code in a step-by-step manner, providing an efficient platform for data analysis, research, and collaborative coding, with the added benefit of integrating rich text (including equations), images, and charts for clear documentation and communication.
+Un cuaderno computacional se refiere a un entorno de computación virtual e interactivo que combina la ejecución de código, la documentación y la visualización de datos en una sola interfaz. Estos cuadernos son ampliamente utilizados en los campos de ciencias de datos y programación. Ejemplos populares son Jupyter Notebooks y R Notebooks. They allow users to write and run code in a step-by-step manner, providing an efficient platform for data analysis, research, and collaborative coding, with the added benefit of integrating rich text (including equations), images, and charts for clear documentation and communication.
 
 **Example: Jupyter Notebook and JupyterLab**
 
