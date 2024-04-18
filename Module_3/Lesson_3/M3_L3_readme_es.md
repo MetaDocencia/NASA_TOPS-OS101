@@ -104,10 +104,10 @@ Ya discutimos los metadatos antes en este módulo, ¡pero es lo suficientemente 
 
 ### Metadatos: para humanos y máquinas
 
-Metadata can facilitate the assessment of dataset quality and data sharing by answering key questions. It is also the primary way users will find information about your dataset. It includes key information on topics, such as:
+Los metadatos pueden facilitar la evaluación de la calidad del conjunto de datos y el intercambio de datos respondiendo a preguntas clave. También es la principal forma en que los usuarios encontrarán información sobre su conjunto de datos. Incluye información clave sobre temas, como:
 
-- How data were collected and processed
-- What variables/parameters are included in the dataset
+- Cómo se recolectaron y procesaron los datos
+- Qué variables/parámetros se incluyen en el conjunto de datos
 - Qué variables están incluidas y con qué variables están relacionadas
 - Quién recopiló los datos (equipo científico, organización, etc.)
 - Cómo y dónde encontrar los datos (p. ej., DOI)
