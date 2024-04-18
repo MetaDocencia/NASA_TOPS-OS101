@@ -128,11 +128,11 @@ A software repository is an online collection of stand-alone application softwar
 
 Software packages are often provided as executables without code.
 
-The collection typically includes metadata, documentation, and licensing restrictions on each package. It may include different software package versions and the platforms or environments on which the software package can be executed.
+The collection typically includes metadata, documentation, and licensing restrictions on each package. Puede incluir diferentes versiones de paquetes de software y las plataformas o entornos en los que se puede ejecutar el paquete de software.
 
-Most research code should be open source software, which is stored in code repositories.
+La mayoría de los códigos de investigación deberían ser software de código abierto, el cual se almacena en repositorios de código.
 
-#### Examples of software repositories are:
+#### Son ejemplos de repositorios de software:
 
 <table>
 <colgroup>
@@ -145,7 +145,7 @@ Most research code should be open source software, which is stored in code repos
         <td><img style="width:98%" src="../images/media/softwarerepo2.png"></td>
     </tr>
     <tr>
-        <td>Software Heritage</td>
+        <td>Heritage Software</td>
         <td>Open Source Development Network (OSDN)</td>
     </tr>
     <tr>
@@ -175,21 +175,21 @@ Most research code should be open source software, which is stored in code repos
 </tbody>
 </table>
 
-**NASA Resources for Discovering Open Software**
+**Recursos de la NASA para descubrir Software Abierto**
 
-These are a few links to NASA-specific repositories that may be of interest:
+Estos son algunos enlaces a repositorios específicos de la NASA que pueden ser de interés:
 
-- [NASA Open Source Software](https://code.nasa.gov/)
-- [NASA Open APIs](https://api.nasa.gov/)
-- [Science Discovery Engine A strophysics Data System](https://sciencediscoveryengine.nasa.gov/app/nasa-sba-smd/)
-- [Earthdata Developer Portal](https://www.earthdata.nasa.gov/engage/open-data-services-and-software/api)
-  [Exoplanet Modeling and Analysis Center](https://www.earthdata.nasa.gov/engage/open-data-services-and-software/api)
+- [Software de código abierto de la NASA](https://code.nasa.gov/)
+- [APIs abiertas de la NASA](https://api.nasa.gov/)
+- [Science Discovery Engine Astrophysics Data System](https://sciencediscoveryengine.nasa.gov/app/nasa-sba-smd/)
+- [Portal de Desarrollador de Earthdata](https://www.earthdata.nasa.gov/engage/open-data-services-and-software/api)
+  [Centro de Modelos y Análisis de Exoplaneta](https://www.earthdata.nasa.gov/engage/open-data-services-and-software/api)
 
-## Assessing Open Code and Software
+## Evaluación de código abierto y software
 
-So, you've discovered some exciting open code that might help you solve your scientific problem. Can you trust this code you discovered on the web? Will it be useful? How much time will it take to learn it? Could the code contain malware? Could you get in legal trouble for using it?
+Así que has descubierto un código abierto emocionante que puede ayudarte a resolver tu problema científico. ¿Puedes confiar en este código que descubriste en la red? ¿Será útil? ¿Cuánto tiempo llevará aprenderlo? Could the code contain malware? ¿Podrías tener problemas legales por usarlo?
 
-**Examples:** You found the “General Ocean Turbulence Model (GOTM)” on the internet, and it looks promising. Or, you just found lots of code snippets and functions related to the Lomb-Scargle power spectrum. Now you would like to assess these pieces of code to help you decide if you should use them. This section discusses some best practices for assessing if the code will help you.
+**Ejemplos:** Has encontrado el “General Ocean Turbulence Model (GOTM)” en Internet, y parece prometedor. O bien, acabas de encontrar muchos fragmentos de código y funciones relacionadas con el espectro de potencia Lomb-Scargle. Now you would like to assess these pieces of code to help you decide if you should use them. This section discusses some best practices for assessing if the code will help you.
 
 ### Four General Considerations for Assessing Open Software
 
