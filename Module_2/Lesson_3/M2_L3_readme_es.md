@@ -86,9 +86,9 @@ Ten en cuenta que Microsoft Exchange Server y Skype son ejemplos de protocolos p
 
 **Interoperable**
 
-To be [Interoperable:](https://www.go-fair.org/fair-principles/i1-metadata-use-formal-accessible-shared-broadly-applicable-language-knowledge-representation/)
+Para ser [interoperable:](https://www.go-fair.org/fair-principles/i1-metadata-use-formal-accessible-shared-broadly-applicable-language-knowledge-representation/)
 
-- Data uses a formal, accessible, shared, and broadly applicable language for knowledge representation.
+- Los datos usan un lenguaje formal, accesible, compartido y ampliamente aplicable para la representación del conocimiento.
 - Data uses a known, standardized data format.
 - Data use vocabularies that follow FAIR principles.
 - Data include qualified references to other (meta)data.
