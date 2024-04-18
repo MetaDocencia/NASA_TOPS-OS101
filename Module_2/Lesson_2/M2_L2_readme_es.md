@@ -160,15 +160,15 @@ This is how easy it should be for your readers to find and use your citation inf
 
 ### Metadata
 
-Metadata are data that describe your data, either accompanying your data as a separate file or embedded in your data file. They are often used to provide a standard set of general information about a dataset (e.g., data temporal/spatial coverage or data provider information) to enable easy use and interpretation of the data.
+Metadata are data that describe your data, either accompanying your data as a separate file or embedded in your data file. A menudo se utilizan para proporcionar un conjunto estándar de información general sobre un conjunto de datos (por ejemplo, cobertura temporal/espacial de datos o información del proveedor de datos) para permitir un fácil uso e interpretación de los datos.
 
-Metadata is essential to the implementation of FAIR Principles because it makes data searchable in an archive, provides context for future use, and presents a standard vocabulary.
+Los metadatos son esenciales para la implementación de los principios FAIR porque permiten que los datos se puedan buscar en un archivo, proporcionan contexto para uso futuro y presentan un vocabulario estándar.
 
-Metadata can be more readily shared than data - it usually does not contain restricted information and it is much smaller than the entire data set.
+Los metadatos se pueden compartir más fácilmente que los datos: normalmente no contienen información restringida y son mucho más pequeños que el conjunto de datos completo.
 
-### Purpose of Metadata
+### El propósito de los metadatos
 
-Metadata can facilitate the assessment of dataset quality and data sharing by answering key questions, such as information about:
+Los metadatos pueden facilitar la evaluación de la calidad del conjunto de datos y el intercambio de datos respondiendo preguntas clave, como información sobre:
 
 - How data were collected and processed.
 - What variables/parameters are included in the dataset.
