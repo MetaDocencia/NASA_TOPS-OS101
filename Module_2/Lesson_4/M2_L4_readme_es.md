@@ -393,11 +393,11 @@ Follow These Steps:
 
 7. Take some time to look through the Notebook a bit more closely. You will see that there is text (including headers, links, and even a table right at the start!), code, and figures integrated together. This is just one example of how scientists use computational notebooks for their research.
 
-You can peruse more of the Project Pythia Python learning resources via their [Foundations Book](https://foundations.projectpythia.org/landing-page.html), and you can view more advanced example research workflows in the geosciences that use computational notebooks (which they call "[Cookbooks](https://cookbooks.projectpythia.org/)") to see more examples of how notebooks are used in science. If you are interested in the geosciences, you can even contribute your own notebook if you have a notebook you'd like to share!
+Puedes examinar más recursos de aprendizaje del Proyecto Pythia Python a través de su [Libro de Fundamentos] (https://foundations.projectpythia.org/landing-page.html), puedes ver ejemplos de flujos de trabajo de investigación avanzados en las geociencias que utilizan la computación. Jupyter Notebooks (que ellos llaman "[CookBooks o Guias Rapidas](https://cookbooks.projectpythia.org/)") para ver más ejemplos de cómo se utilizan los Jupyter Notebooks en la ciencia. Si estás interesado en las geociencias, ¡puedes contribuir con tu propio Jupyter Notebook, si tienes uno que quisieras compartir!
 
-### Computing Platforms
+### Plataformas de desarrollo
 
-We use the term "computing platform" to refer to the computational machine used to run code. There are many different computing platforms that you can choose, each having their own pros and cons. Here is an overview of three computing options:
+Usamos el término "plataforma de Desarrollo" para referirnos a la infraestructura computacional utilizada para ejecutar código. Existen muchas plataformas de Desarrollo diferentes para elegir, cada una con sus ventajas y desventajas. A continuación se ofrece una descripción general de tres opciones de Plataformas:
 
 #### Personal Computer (e.g. a laptop)
 
