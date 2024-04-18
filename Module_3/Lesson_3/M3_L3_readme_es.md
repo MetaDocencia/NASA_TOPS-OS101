@@ -93,9 +93,9 @@ Al incorporar estándares abiertos, los autores pueden evitar barreras innecesar
 
 ### Incorporación de documentación y metadatos para facilitar la reutilización
 
-Los metadatos y la documentación de datos describen los datos para que otros y nosotros podamos usarlos y entenderlos mejor. Aunque los metadatos y la documentación están relacionados, hay una distinción importante. Metadata are structured, standardized, and machine readable. Documentation is unstructured and can be any format (often a text file that accompanies the data).
+Los metadatos y la documentación de datos describen los datos para que otros y nosotros podamos usarlos y entenderlos mejor. Aunque los metadatos y la documentación están relacionados, hay una distinción importante. Los metadatos están estructurados, estandarizados y son legibles por computadora. La documentación no está estructurada y puede ser cualquier formato (a menudo un archivo de texto que acompaña los datos).
 
-To better understand documentation and metadata, let’s take an example of an online recipe. Many online recipes start with a long description and history of the recipe, and perhaps cooking or baking tips for the dish, before listing ingredients and step-by-step cooking instructions.
+Para comprender mejor la documentación y los metadatos, tomemos un ejemplo de una receta de internet. Many online recipes start with a long description and history of the recipe, and perhaps cooking or baking tips for the dish, before listing ingredients and step-by-step cooking instructions.
 
 - The ingredients and instructions are like metadata. They can be indexed and searched via Google and other search engines.
 - The descriptive text that includes background and context for the recipe are like documentation. They are more free-form, and not standardized.
