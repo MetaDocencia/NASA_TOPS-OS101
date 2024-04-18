@@ -347,14 +347,14 @@ Estos son los pasos que puedes dar para encontrar tu propia comunidad científic
   - [El manual online "The Turing Way"](https://book.the-turing-way.org/),
   - [FORRT](https://forrt.org/).
 
-Únete a comunidades de ciencia abierta. There are generic ones as listed here or you can seek out communities that are not only within your domain but also within your geographical area.
+Únete a comunidades de ciencia abierta. Existen algunas genéricas como las listadas aquí, o puedes buscar comunidades que no sólo estén dentro de tu dominio sino también dentro de tu área geográfica.
 
-- [TOPS GitHub discussion board](https://github.com/nasa/Transform-to-Open-Science/discussions)
-- Opensciency online open science [community list](https://opensciency.github.io/sprint-content/open-tools-resources/lesson5-open-science-communities.html#communities-of-practice-list)
+- [Tablero de discusión en GitHub sobre TOPS (en inglés)](https://github.com/nasa/Transform-to-Open-Science/discussions)
+- [OpenSciency](https://opensciency.github.io/sprint-content/open-tools-resources/lesson5-open-science-communities.html#communities-of-practice-list): lista comunitaria en línea de recursos de ciencia abierta (en inglés).
 
-### Explore Open Repositories
+### Explora repositorios abiertos
 
-There are many repositories that host open data, software, and results. We share many of these resources in the later modules, but here are two NASA repositories that allow you to search for existing data collections that might be relevant to your interests.
+Existen muchos repositorios que albergan datos abiertos, software y resultados. Compartiremos muchos de estos recursos en módulos posteriores, pero aquí hay dos repositorios de NASA que te permiten buscar colecciones de datos existentes que pueden ser relevantes para tus intereses:
 
 - [Science Discovery Engine](http://science.data.nasa.gov/search)
 - [https://data.nasa.gov/](https://data.nasa.gov/)
