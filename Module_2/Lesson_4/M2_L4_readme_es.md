@@ -271,11 +271,11 @@ The most popular IDE these days, Microsoft’s Visual Studio Code (or VS Code) i
 - It also has a wealth of plugins for connecting to servers, version control systems, and troubleshooting. It has several linter plugins, which can analyze your code for bugs, errors, and to help your team code in a consistent "style". This eases code maintenance down the road.
 - If your line of code has an obvious error in it, the IDE will produce a red squiggle, just as if you’ve spelled something wrong in a Word Document.
 
-Below is an example of a developer who accidentally typed an equal sign when they should have typed a colon. VS Code caught the error, and when the developer hovered over the red squiggle, VS Code explained what the error was and offered to take them to further documentation.
+Below is an example of a developer who accidentally typed an equal sign when they should have typed a colon. VS Code detectó el error, y cuando el desarrollador pasó el cursor sobre el garabato rojo, VS Code explicó cuál era el error y ofreció llevarlos a una documentación adicional.
 
  <img src="../images/media/image35.png" style="width:100%;height:auto;" />
 
-Another useful feature in VS Code (as well as many other code editors) is Git Integration. Instead of using a Terminal window, you can just make a few clicks and easily integrate Git into your workflow!
+Otra característica útil en VS Code (así como muchos otros editores de código) es Git Integration. Instead of using a Terminal window, you can just make a few clicks and easily integrate Git into your workflow!
 
 From VS Code you can:
 
