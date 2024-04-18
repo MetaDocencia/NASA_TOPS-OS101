@@ -53,36 +53,36 @@ Por ejemplo, puede que conduzcas en el lado izquierdo o en el lado derecho de la
 
 **Encontrable**:
 
-Para ser [Encontrable:](https://www.go-fair.org/fair-principles/f1-meta-data-assigned-globally-unique-persistent-identifiers/)
+Para ser [encontrable:](https://www.go-fair.org/fair-principles/f1-meta-data-assigned-globally-unique-persistent-identifiers/)
 
-- Data and results are assigned a globally unique and persistent identifier.
-- Data are described with rich metadata.
-- Metadata clearly and explicitly include the identifier of the data it describes.
-- Data and results are registered or indexed in a searchable resource.
+- Se asigna a los datos y a los resultados un identificador único y persistente a nivel global.
+- Los datos se describen con metadatos ricos.
+- Los metadatos incluyen de forma clara y explícita el identificador de los datos que describen.
+- Los datos y los resultados se registran o se indexan en un recurso que acepta búsquedas.
 
-Current Enabling Tech:
+Tecnología actual que lo permite:
 
-- [DataCite's Metadata Schema](https://schema.datacite.org/)
-- PIDs: Persistent IDentifiers (additional details in the following sections)
-  - [Digital Object Identifier](https://www.doi.org/) (DOI): A top-level and a mandatory field in the metadata of each record - for data, code, publications.
-  - [Open Research and Contributor ID](https://orcid.org/) (ORCiD) - A code that uniquely identifies authors and contributors of research products and scholarly communication.
+- [Esquema de metadatos de DataCite (_DataCite's Metadata Schema_)](https://schema.datacite.org/)
+- PIDs: siglas en inglés de _Persistent IDentifiers_, Identificadores Persistentes (detalles adicionales en las siguientes secciones)
+  - [Identificador de objeto digital (_Digital Object Identifier_](https://www.doi.org/), DOI): Un campo de nivel superior y obligatorio en los metadatos de cada registro - para datos, código, publicaciones.
+  - [Identificador abierto de investigación y contribuyente (_Open Research and Contributor ID_](https://orcid.org/), ORCiD) - Un código que identifica en forma unívoca a las personas autoras y contribuyentes de productos de investigación y comunicación del conocimiento.
 
-**Accessible**
+**Accesible**
 
-To be [Accessible:](https://www.go-fair.org/fair-principles/metadata-retrievable-identifier-standardised-communication-protocol/)
+Para ser [accesible:](https://www.go-fair.org/fair-principles/metadata-retrievable-identifier-standardised-communication-protocol/)
 
-- Data and results are retrievable by their identifiers using a standardized communication protocol.
-- The protocol is open, free, and universally implementable.
-- The protocol allows for an authentication and authorization procedure, where necessary. Data and results are publicly accessible and licensed under the public domain.
-  - Metadata are accessible, even when the data are no longer available Data and metadata will be retained for the lifetime of the repository.
-  - Metadata are stored in high-availability database servers.
+- Los datos y los resultados son recuperables mediante sus identificadores utilizando un protocolo de comunicación estandarizado.
+- El protocolo es abierto, libre y universalmente implementable.
+- El protocolo permite un procedimiento de autenticación y autorización, cuando sea necesario. Los datos y los resultados son accesibles al público y están licenciados bajo el dominio público.
+  - Los metadatos son accesibles, incluso cuando los datos ya no están disponibles. Los datos y metadatos se conservarán durante toda la vida del repositorio.
+  - Los metadatos se almacenan en servidores de bases de datos de alta disponibilidad.
 
-Current Enabling Tech:
+Tecnología actual que lo permite:
 
-- [File Transfer Protocol (FTP)](https://www.w3.org/Protocols/rfc959/), File Transfer Protocol Secure (FTPS)
-- [Hypertext Transfer Protocol (HTTP)](https://www.w3.org/Protocols/), Hypertext Transfer Protocol Secure (HTTPS)
+- [Protocolo de transferencia de archivos (_File Transfer Protocol_, FTP)](https://www.w3.org/Protocols/rfc959/), Protocolo seguro de transferencia de archivos (_File Transfer Protocol Secure_, FTPS)
+- [Protocolo de transferencia de hipertexto (_Hypertext Transfer Protocol_, HTTP)](https://www.w3.org/Protocols/), Protocolo seguro de transferencia de hipertexto (_Hypertext Transfer Protocol Secure_, HTTPS)
 
-Note that Microsoft Exchange Server and Skype are examples of proprietary protocols.
+Ten en cuenta que Microsoft Exchange Server y Skype son ejemplos de protocolos propietarios.
 
 **Interoperable**
 
