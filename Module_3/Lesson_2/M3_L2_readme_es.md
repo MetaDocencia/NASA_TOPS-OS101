@@ -182,7 +182,7 @@ _Select each tab to find out more information._
             <li><a href="https://figshare.com/">Figshare</a></li>
             <li><a href="https://datadryad.org/stash">Dryad</a></li>
             </ul>
-            <p>See the <a href="https://fairsharing.org/collection/GeneralRepositoryComparison">Generalist Repository Comparison Chart</a> – a tool for additional repositories and guidance. Dataverse has also published a <a href="https://dataverse.org/blog/comparative-review-various-data-repositories">comparative review</a> of eight data repositories.</p>
+            <p>See the <a href="https://fairsharing.org/collection/GeneralRepositoryComparison">Generalist Repository Comparison Chart</a> – a tool for additional repositories and guidance. Dataverse también ha publicado una <a href="https://dataverse.org/blog/comparative-review-various-data-repositories">revisión comparativa</a> de ocho repositorios de datos.</p>
         </td>
     </tr>
   </tbody>
@@ -191,10 +191,10 @@ _Select each tab to find out more information._
 <table>
   <thead>
     <tr>
-        <th>GENERAL REPOSITORIES</th>
-        <th>DOMAIN-SPECIFIC REPOSITORIES ☑</th>
-        <th>INSTITUTIONAL REPOSITORIES</th>
-        <th>NATIONAL REPOSITORIES</th>
+        <th>REPOSITORIOS GENERALES</th>
+        <th>REPOSITORIOS DE DOMINIO ESPECÍFICO ☑</th>
+        <th>REPOSITORIOS INSTITUCIONALES</th>
+        <th>REPOSITORIOS INSTITUCIONALES</th>
     </tr>
   </thead>
   <tbody>
