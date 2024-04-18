@@ -220,7 +220,7 @@ A continuación se exponen las conclusiones principales de esta lección:
 - La calidad y la eficiencia de la ciencia mejoran cuando se siguen las mejores prácticas de la ciencia abierta.
 - La ciencia abierta ayuda a la sociedad al permitir que más personas participen en la ciencia, lo que aumenta la precisión y el impacto de los resultados.
 
-## Lección 2: Prueba de Conocimiento
+## Lección 2: Evaluacion
 
 Responde a las siguientes preguntas para comprobar lo que has aprendido hasta ahora.
 
