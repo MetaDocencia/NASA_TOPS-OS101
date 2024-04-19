@@ -189,30 +189,30 @@ Estos son algunos enlaces a repositorios específicos de la NASA que pueden ser 
 
 Así que has descubierto un código abierto emocionante que puede ayudarte a resolver tu problema científico. ¿Puedes confiar en este código que descubriste en la red? ¿Será útil? ¿Cuánto tiempo llevará aprenderlo? Could the code contain malware? ¿Podrías tener problemas legales por usarlo?
 
-**Ejemplos:** Has encontrado el “General Ocean Turbulence Model (GOTM)” en Internet, y parece prometedor. O bien, acabas de encontrar muchos fragmentos de código y funciones relacionadas con el espectro de potencia Lomb-Scargle. Now you would like to assess these pieces of code to help you decide if you should use them. This section discusses some best practices for assessing if the code will help you.
+**Ejemplos:** Has encontrado el “General Ocean Turbulence Model (GOTM)” en Internet, y parece prometedor. O bien, acabas de encontrar muchos fragmentos de código y funciones relacionadas con el espectro de potencia Lomb-Scargle. Ahora te gustaría evaluar estas piezas de código para ayudarte a decidir si debes usarlas. En esta sección se tratan algunas buenas prácticas para evaluar si el código le ayudará.
 
-### Four General Considerations for Assessing Open Software
+### Cuatro consideraciones generales para evaluar el software abierto
 
-Software assessment criteria are similar, for any level of openness:
+Los criterios de evaluación del software son similares, para cualquier nivel de apertura:
 
-- **Functionality:** Will it be useful for your scientific problem?
-- **Interoperability:** How hard will it be to use?
-- **Security:** Is it safe? Would using the software create a security risk?
-- **Licenses/restrictions:** Can you use it? Is it legal to use the software in your project?
+- **Funcionalidad:** ¿Será de utilidad para tu problema científico?
+- **Interoperabilidad:** ¿Cuán difícil será de usar?
+- **Seguridad:** ¿Es seguro? ¿El uso del software crearía un riesgo para la seguridad?
+- **Licencias/restricciones:** ¿Puedes utilizarlo? ¿Es legal utilizar el software en su proyecto?
 
-### Functionality: Assessing Scientiﬁc Utility
+### Funcionalidad: Evaluación de la utilidad científica
 
-#### Does the software meet your scientiﬁc needs?\*\*
+#### ¿El software satisface sus necesidades científicas?\*\*
 
-- Does it address your specific science question?
-- Do studies similar to yours use it?
-- What papers cite it and how do they use it?
-- Talk to your advisors or colleagues that might have experience with it.
+- ¿Aborda tu pregunta científica específica?
+- ¿Los estudios similares a los tuyos lo usan?
+- ¿Qué documentos lo citan y cómo lo utilizan?
+- Habla con tus asesores o colegas que puedan tener experiencia con él.
 
-#### Testing the scientiﬁc compatibility
+#### Probando la compatibilidad científica
 
-- Does the software contain scientific test cases? If so, reproduce a case that is applicable to your problem; make sure the results are as expected.
-- If you’ve done similar scientific analysis/modeling previously, reproduce your prior results with the new software. Are the results consistent?
+- ¿El software contiene casos de prueba científica? Si es así, reproduzca un caso que sea aplicable a su problema; asegúrese de que los resultados son los esperados.
+- Si ha hecho un análisis científico similar o modelado anteriormente, reproduzca sus resultados previos con el nuevo software. ¿Son consistentes los resultados?
 - Incrementally modify a given test case to address new scientific questions. Alternatively, develop your own case, if necessary, following relevant examples.
 
 ### Interoperability: Ease of Use
