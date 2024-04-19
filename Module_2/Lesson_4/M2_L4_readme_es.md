@@ -271,7 +271,7 @@ The most popular IDE these days, Microsoft’s Visual Studio Code (or VS Code) i
 - It also has a wealth of plugins for connecting to servers, version control systems, and troubleshooting. It has several linter plugins, which can analyze your code for bugs, errors, and to help your team code in a consistent "style". This eases code maintenance down the road.
 - If your line of code has an obvious error in it, the IDE will produce a red squiggle, just as if you’ve spelled something wrong in a Word Document.
 
-Below is an example of a developer who accidentally typed an equal sign when they should have typed a colon. VS Code detectó el error, y cuando el desarrollador pasó el cursor sobre el garabato rojo, VS Code explicó cuál era el error y ofreció llevarlos a una documentación adicional.
+Below is an example of a developer who accidentally typed an equal sign when they should have typed a colon. VS Code detectó el error, y cuando el desarrollador pasó el cursor sobre la línea roja ondulada, VS Code explicó cuál era el error y ofreció llevarlos a una documentación adicional.
 
  <img src="../images/media/image35.png" style="width:100%;height:auto;" />
 
@@ -288,7 +288,7 @@ Desde el VS Code puedes:
 
 Mientras que Visual Studio Code es un entorno de desarrollo integrado (IDE) más genérico donde puedes utilizar complementos para especializarlo, también existen IDEs, como RStudio, que tienen características especializadas para lenguajes específicos desde el principio.
 
-Los investigadores que realizan análisis estadísticos tienden a utilizar los lenguajes de codificación de R y Python. RStudio tiene herramientas integradas para ese mismo propósito, incluyendo la visualización de datos.
+Los investigadores que realizan análisis estadísticos tienden a utilizar los lenguajes de programación de R y Python. RStudio tiene herramientas integradas para ese mismo propósito, incluyendo la visualización de datos.
 
  <img src="../images/media/image36.jpeg" style="width:100%;height:auto;" />
 
@@ -319,7 +319,7 @@ La mayoría de los ordenadores portátiles o de escritorio que ejecutan sistemas
       </td>
       <td>
         <ul>
-        <li>No hay plugins que ayuden a encontrar fallos, errores, etc.</li>
+        <li>No hay complementos (_plugins_) que ayuden a encontrar fallos, errores, etc.</li>
         <li>Puede no tener resaltado de sintaxis</li>
         </ul>
       </td>
@@ -329,7 +329,7 @@ La mayoría de los ordenadores portátiles o de escritorio que ejecutan sistemas
 
 ### Cuadernos Computacionales
 
-Un cuaderno computacional se refiere a un entorno de computación virtual e interactivo que combina la ejecución de código, la documentación y la visualización de datos en una sola interfaz. Estos cuadernos son ampliamente utilizados en los campos de ciencias de datos y programación. Ejemplos populares son Jupyter Notebooks y R Notebooks. Permiten a los usuarios escribir y ejecutar código paso a paso, proporcionando una plataforma eficiente para el análisis de datos, la investigación y la codificación colaborativa, con el beneficio añadido de integrar texto enriquecido (incluyendo ecuaciones), imágenes y gráficos para una documentación y comunicación claras.
+Un cuaderno computacional se refiere a un entorno de computación virtual e interactivo que combina la ejecución de código, la documentación y la visualización de datos en una sola interfaz. Estos cuadernos son ampliamente utilizados en los campos de ciencias de datos y programación. Ejemplos populares son Jupyter Notebooks y R Notebooks. Permiten a los usuarios escribir y ejecutar código paso a paso, proporcionando una plataforma eficiente para el análisis de datos, la investigación y la programación colaborativa, con el beneficio añadido de integrar texto enriquecido (incluyendo ecuaciones), imágenes y gráficos para una documentación y comunicación claras.
 
 **Ejemplo: Jupyter Notebook y JupyterLab**
 
@@ -339,11 +339,11 @@ Jupyter Notebook es una aplicación web de código abierto ampliamente utilizada
 
 - Jupyter Notebook – un intérprete de comandos (_shell_) de lenguaje contenido para programación interactiva, que muestra la salida en línea (_output inline_) con las entradas (_inputs_)
 - JupyterLab – una interfaz de usuario integrada en el navegador que muestra múltiples ventanas para cuadernos de notas, terminales y edición de código
-- JupyterHub – programa intermediario (_middleware_) para ejecutar entornos de computación interactivos compartidos, incluyendo JupyterLab y Jupyter Notebook, en infraestructura de computación compartida (como la nube) (_Cloud_)
+- JupyterHub – programa intermediario (_middleware_) para ejecutar entornos de computación interactivos compartidos, incluyendo JupyterLab y Jupyter Notebook, en infraestructura de computación compartida (como la Nube) (_Cloud_)
 
 Usaremos Jupyter Notebook como un ejemplo de cuaderno computacional y discutiremos cómo JupyterLab está relacionado con Jupyter Notebook. La siguiente sección sobre plataformas de computación discutirá sobre JupyterHub.
 
-Esta captura de pantalla muestra un ejemplo de un Jupyter Notebook que integra texto enriquecido (con cabeceras y enlaces), ecuaciones, código y la salida interactiva de esas líneas de código, incluyendo un gráfico. Esta captura de pantalla deja claro por qué se llama cuaderno computacional - se asemeja a un cuaderno de laboratorio que puedes haber escrito manualmente en la escuela.
+Esta captura de pantalla muestra un ejemplo de un Jupyter Notebook que integra texto enriquecido (con encabezados y enlaces), ecuaciones, código y la salida interactiva de esas líneas de código, incluyendo un gráfico. Esta captura de pantalla deja claro por qué se llama cuaderno computacional - se asemeja a un cuaderno de laboratorio que puedes haber escrito manualmente en la escuela.
 
 <img src="../images/media/image38.png" style="width:100%;height:auto;" />
 
@@ -355,7 +355,7 @@ Jupyter admite muchos lenguajes de programación. Un dato curioso: el nombre "Ju
 
 JupyterLab es un entorno de desarrollo interactivo basado en un navegador compatible con Jupyter Notebook y esta diseñado en un entorno más flexible que permite muchas características útiles. Una de estas características es la integración con Git, como vimos para otros IDEs como Visual Studio Code.
 
-Dado que Jupyter Notebook permite integrar código con visualizaciones y texto, puede servir como herramienta para llevar a cabo proyectos de investigación y crear documentos computacionales fácilmente compartibles para la educación, la colaboración o la comunicación científica. Con capacidades de texto enriquecido, como el uso de cabeceras, cursivas, enlaces y muchas más, puedes crear un documento legible que contenga código ejecutable. Estas son sólo algunas de las razones por las que JupyterLab y Jupyter Notebooks son ampliamente utilizados en muchas disciplinas, incluyendo investigación computacional y ciencias de datos.
+Dado que Jupyter Notebook permite integrar código con visualizaciones y texto, puede servir como herramienta para llevar a cabo proyectos de investigación y crear documentos computacionales fácilmente compartibles para la educación, la colaboración o la comunicación científica. Con capacidades de texto enriquecido, como el uso de encabezados, cursivas, enlaces y muchas más, puedes crear un documento legible que contenga código ejecutable. Estas son sólo algunas de las razones por las que JupyterLab y Jupyter Notebook son ampliamente utilizados en muchas disciplinas, incluyendo investigación computacional y ciencias de datos.
 
 #### Para más información sobre los productos de Jupyter y su comunidad, consulte su sitio web.
 
@@ -363,7 +363,7 @@ Dado que Jupyter Notebook permite integrar código con visualizaciones y texto, 
 
 Si quieres sumergirte en el tema, consulta la lección "Primeros pasos con Jupyter" del Proyecto Pythia, orientada a científicos sin conocimientos previos de programación.
 
-### Actividad 4.1: Ejecuta un Notebook de Jupyter desde el navegador
+### Actividad 4.1: Ejecuta un Jupyter Notebook desde el navegador
 
 Usemos un ejemplo del Proyecto Pythia para mostrar cómo los cuadernos computacionales pueden ser usados en la ciencia. Proyecto Pythia es un centro educativo para la comunidad geoscientifica. Tienen algunos grandes recursos de aprendizaje y ejemplos de cuadernos de investigación, desarrollados y mantenidos por la comunidad, y de libre acceso.
 
@@ -378,20 +378,20 @@ Fuente: [https://climatedataguide.ucar.edu/climate-data/nino-sst-indices-nino-12
 Sigue estos pasos:
 
 1. Navega a la lección “[Calculando ENSO con Xarray](https://foundations.projectpythia.org/core/xarray/en.Uxarray.html)”
-2. En la esquina superior derecha, pasa el ratón sobre el icono del cohete y haz clic en "Binder". Esto abrirá la lección como un Jupyter Notebook ejecutable que corre en la Nube. Ten en cuenta que el Cuaderno de Notas puede tardar varios minutos en configurarse.
+2. En la esquina superior derecha, pasa el ratón sobre el icono del cohete y haz clic en "Binder". Esto abrirá la lección como un Jupyter Notebook ejecutable que corre en la Nube. Ten en cuenta que el Cuaderno Computacional puede tardar varios minutos en configurarse.
    ![](../images/media/calculatingenso.jpg)
-3. Después de cargar el Cuaderno de Notas, deberías ver algo como lo siguiente. Nota – ¡Esto realmente utiliza la vista de JupyterLab!
+3. Después de cargar el Cuaderno Computacional, deberías ver algo como lo siguiente. Nota – ¡Esto realmente utiliza la vista de JupyterLab!
    ![](../images/media/calculatingenso2.jpg)
-4. Puedes tomarte un poco de tiempo para repasar el texto y el código del Cuaderno, pero ten en cuenta que esta lección presupone muchos conocimientos previos, por lo que está bien si no lo entiendes todo. ¡Aún puedes apreciar las bonitas gráficas que estás a punto de hacer!
-5. ¡Ahora tu estás listo para ejecutar el Cuaderno! Para hacer eso, puedes ir al menú "Ejecutar" en la parte superior izquierda de la ventana de JupyterLab y elegir "Ejecutar todas las celdas":
+4. Puedes tomarte un poco de tiempo para repasar el texto y el código del Cuaderno Computacional, pero ten en cuenta que esta lección presupone muchos conocimientos previos, por lo que está bien si no lo entiendes todo. ¡Aún puedes apreciar las bonitas gráficas que estás a punto de hacer!
+5. ¡Ahora tu estás listo para ejecutar el Cuaderno Computacional! Para hacer eso, puedes ir al menú "Ejecutar" en la parte superior izquierda de la ventana de JupyterLab y elegir "Ejecutar todas las celdas":
    ![](../images/media/calculatingenso3.jpg)
-6. Esto solo debería tomar unos pocos segundos, y si te desplazas hacia abajo, puedes ver un par de bonitas visualizaciones que acabas de crear:<br>_Usa los botones "\<" y "\>" para navegar entre las imágenes._
+6. Esto solo debería tomar unos pocos segundos, y si te desplazas hacia abajo, puedes ver un par de visualizaciones bonitas que acabas de crear:<br>_Usa los botones "\<" y "\>" para navegar entre las imágenes._
 
 ![](../images/media/calculatingenso4.jpg)
 
 ![](../images/media/image44.jpeg)
 
-7. Tómate algo de tiempo para mirar un poco más de cerca el Cuaderno. Verás que hay texto (incluyendo encabezados, enlaces ¡e incluso una tabla justo al principio!), código y figuras integradas juntos Este es sólo un ejemplo de cómo los científicos utilizan cuadernos computacionales para su investigación.
+7. Tómate algo de tiempo para mirar un poco más de cerca el Cuaderno Computacional. Verás que hay texto (incluyendo encabezados, enlaces ¡e incluso una tabla justo al principio!), código y figuras integradas juntos Este es sólo un ejemplo de cómo los científicos utilizan cuadernos computacionales para su investigación.
 
 Puedes examinar más recursos de aprendizaje del Proyecto Pythia Python a través de su [Libro de Fundamentos] (https://foundations.projectpythia.org/landing-page.html), puedes ver ejemplos de flujos de trabajo de investigación avanzados en las geociencias que utilizan la computación. Jupyter Notebooks (que ellos llaman "[CookBooks o Guias Rapidas](https://cookbooks.projectpythia.org/)") para ver más ejemplos de cómo se utilizan los Jupyter Notebooks en la ciencia. Si estás interesado en las geociencias, ¡puedes contribuir con tu propio Jupyter Notebook, si tienes uno que quisieras compartir!
 
