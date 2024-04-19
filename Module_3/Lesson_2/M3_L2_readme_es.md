@@ -203,8 +203,8 @@ _Select each tab to find out more information._
             <p>Los repositorios especializados (típicamente para asuntos específicos de datos) proporcionan soporte e información sobre los estándares requeridos para metadatos y más.</p>
             <p>Algunos ejemplos son:</p>
             <ul>
-                <li>Astronomy: <a href="https://archive.stsci.edu/">Hubble data</a></li>
-                <li>Space Biology: <a href="https://genelab.nasa.gov/">NASA GeneLab: Open Science for Life in Space</a></li>
+                <li>Astronomía: <a href="https://archive.stsci.edu/">Datos del telescopio Hubble</a></li>
+                <li>Biología del espacio: <a href="https://genelab.nasa.gov/">NASA GeneLab: Ciencia abierta para la vida en el espacio</a></li>
                 <li><a href="https://heliophysicsdata.gsfc.nasa.gov/websearch/dispatcher">Space Physics: Heliophysics Data Portal- Solar Space Physics Product Finder (nasa.gov)</a></li>
             </ul>
         </td>
