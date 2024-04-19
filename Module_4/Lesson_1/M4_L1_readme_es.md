@@ -112,11 +112,11 @@ Las personas que investigan utilizan y producen una gran variedad de programas i
 
 - Núcleo Linux (Linux kernel), espacio de usuario GNU, y varias distribuciones Linux y UNIX
 - PostgreSQL: base de datos de nivel empresarial empresarial con código abierto
-- WordPress and Apache web hosting tools
-- Firefox and Chrome
-  - Chrome's engine is Chromium which is forked from WebKit which was forked KHTML. This was possible because it had a license that allowed for this type of reuse. All major browsers today except Firefox can be traced back to KHTML.
-- Android operating system among others
-  - You can look at the Android source code, but you can't modify it and install it on a device. And even if you could, you couldn't use any of the standard services (e.g. Google Store) with that. So it's "open" in the same sense that last night's lottery numbers are "open".
+- Herramientas de alojamiento web para WordPress y Apache
+- Firefox y Chrome
+  - El motor de Chrome es Chromium, que es una bifurcación de WebKit, que a su vez es una bifurcación de KHTML Esto fue posible porque tenía una licencia que permitía este tipo de reutilización.  Todos los principales navegadores actuales, excepto Firefox, se remontan a KHTML.
+- Sistema operativo Android, entre otros
+  - Puedes mirar el código fuente de Android, pero no puedes modificarlo e instalarlo en un dispositivo. Y, aunque pudieras, no podrías utilizar ninguno de los servicios estándar (por ejemplo, Google Store) con él. Así que es "abierto" en el mismo sentido que los números de la lotería de anoche son "abiertos".
 
 **Operational Software** – Operational software is used by data centers and large information technology facilities to provide data services. For example:
 
@@ -124,9 +124,9 @@ Las personas que investigan utilizan y producen una gran variedad de programas i
 
 **Infrastructure Software** – Infrastructure software is used by data centers and large information technology facilities to provide data services. Examples include:
 
-- [Fprime](https://nasa.github.io/fprime/) – Space mission flight software
-- [PODAAC](https://github.com/podaac) – Distributed archiving and processing software
-- [UFS](https://github.com/ufs-community) – Operational weather forecasting model software
+- [Fprime](https://nasa.github.io/fprime/) – Software de vuelo para misiones espaciales
+- [PODAAC](https://github.com/podaac) – Software de archivo y procesamiento distribuido
+- [UFS](https://github.com/ufs-community) – Software de modelos operativos de pronóstico del tiempo
 - Metadata Compliance Checker, APIs, Web apps, [Giovanni](https://www.earthdata.nasa.gov/technology/giovanni), [McIDAS](https://en.wikipedia.org/wiki/McIDAS)
 
 **Libraries** – Libraries are generic tools for implementing well-known algorithms, providing statistical analysis, or visualization which are incorporated in other software categories. Examples include:
