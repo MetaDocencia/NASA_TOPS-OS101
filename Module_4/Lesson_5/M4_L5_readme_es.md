@@ -218,18 +218,18 @@ Además de los recursos mencionados en otras partes de esta capacitación, los s
 - [Diez reglas simples para documentar software científico](https://doi.org/10.1371/journal.pcbi.1006561)
 - [Journal of Open Source Software](https://joss.theoj.org/)
 
-### Additional Training
+### Entrenamiento adicional
 
-In addition to the resources listed elsewhere in this training, the below resources represent additional training on Open Source Software.
+Además de los recursos mencionados en otras partes de esta capacitación, los siguientes recursos representan capacitación adicional sobre Software de Código Abierto.
 
 - [Software Carpentries](https://software-carpentry.org/lessons/)
-- [How to contribute to Open Source projects – A beginners guide](https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/)
+- [Cómo contribuir a proyectos de Código Abierto - Una guía para principiantes](https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/)
 
-### A Journal with Thousands of Open-Source Research Software Success Stories
+### Una Revista con Miles de Historias de Éxito de Sofware de Investigación de Código Abierto
 
-[The Journal of Open Source Software](https://joss.theoj.org/) has presented a venue for enhancing the quality and minimizing the effort of publishing open source research software:
+[The Journal of Open Source Software](https://joss.theoj.org/) ofrece un espacio para mejorar la calidad y reducir el esfuerzo al publicar software de investigación de código abierto:
 
-- Peer-reviewed, open source "journal" covering open source research software published via GitHub.
+- Es una "revista" de código abierto revisada por pares que cubre softwares de investigación de código abierto publicado a través de GitHub.
 - The emphasis is on the software.
 - Published thousands of open source research software projects, several of which are highly cited. JOSS is one of several journals. Click [here](https://www.software.ac.uk/which-journals-should-i-publish-my-software) for a list of many more journals that publish software.
 
