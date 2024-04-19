@@ -18,36 +18,36 @@ Al completar este módulo, serás capaz de:
 - Definir los tipos comunes de productos de investigación incluyendo datos, software y resultados.
 - Enumerar formas comunes de compartir datos, código y resultados al practicar la ciencia abierta.
 
-## Definition of Open Science and Research Products
+## Definición de Ciencia Abierta y Productos de Investigación
 
-### What is Open Science?
+### ¿Qué es la Ciencia Abierta?
 
 <img style="width:100%;height:auto;" src="../images/media/ostpquote.jpg">
 
-"Open Science is the principle and practice of making research products and processes available to all, while respecting diverse cultures, maintaining security and privacy, and fostering collaborations, reproducibility, and equity."
+"La Ciencia Abierta es el principio y la práctica que se llevan adelante para que tanto los procesos de la investigación científica como sus productos estén disponibles para todas las personas, respetando las diversas culturas, manteniendo la seguridad y la privacidad, y fomentando colaboraciones, reproducibilidad y equidad."
 
-**The White House Ofﬁce of Science and Technology Policy (OSTP) and the National Science and Technology Council (NSTC)**
+**La Oficina de Política de Ciencia y Tecnología de la Casa Blanca (OSTP) y el Consejo Nacional de Ciencia y Tecnología (NSTC)**
 
 ---
 
-### Open Research Products
+### Productos de Investigación Abiertos
 
-Scientific knowledge, or research products, take the form of:
+El conocimiento científico, o los productos de investigación, toman la forma de:
 
  <img src="../images/media/image5.png" style="width:350px;height:auto;" />
 
-### What is Data?
+### ¿Qué son los Datos?
 
 <img src="../images/media/image6.png" style="width:350px;height:auto;" />
 
-In general, data are pieces of information about a subject, including theoretical truths, raw measurements, or highly processed values.
+En general, los datos son fragmentos de información sobre un tema, incluidas verdades teóricas, mediciones en bruto o valores muy procesados.
 
-There can even be data about data, called metadata. In our lessons, when we talk about data we are referring to scientifically or technically relevant information that can be stored digitally and accessed electronically such as:
+Incluso puede haber datos sobre los datos, denominados metadatos. En nuestras clases, cuando hablamos de datos nos referimos a información científica o técnicamente relevante que puede almacenarse digitalmente y a la que se puede acceder electrónicamente, como por ejemplo:
 
-- Information produced by missions and experiments, including calibrations, coefficients, and documentation
-- Information needed to validate scientific conclusions of peer-reviewed publications
+- Información producida por misiones y experimentos, incluidas calibraciones, coeficientes y documentación
+- Información necesaria para validar las conclusiones científicas de las publicaciones revisadas por pares
 
-Open data can have many characteristics, including rich and robust metadata and be made available in a range of formats. These characteristics are detailed more later in this module, and even further in the module on Open Data.
+Los datos abiertos pueden tener muchas características, como metadatos ricos y sólidos, y estar disponibles en diversos formatos. These characteristics are detailed more later in this module, and even further in the module on Open Data.
 
 ### What is Code?
 
