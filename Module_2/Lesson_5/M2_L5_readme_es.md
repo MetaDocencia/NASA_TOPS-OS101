@@ -43,49 +43,49 @@ Las preimpresiones han adquirido especial relevancia durante la pandemia COVID-1
 
 6. **No se trata de un reemplazo de la revisión por pares:** Aunque las preimpresiones son herramientas valiosas para compartir temprano y colaborar, no son un sustituto de una publicación formal revisada por pares. Las personas que investigan y leen deben examinar las preimpresiones sabiendo que no han sido sometidas al riguroso proceso de revisión por pares que ofrecen las revistas.
 
-Las preimpresiones son típicamente alojadas en servidores de preimpresiones, dedicados a diferentes campos científicos. Los ejemplos incluyen: [arXiv](https://arxiv.org/) (física, matemática), [bioRxiv](https://www.biorxiv.org/) (biología), [medRxiv](https://www.medrxiv.org/) (medicina), y [muchos otros](https://en.wikipedia.org/wiki/List_of_preprint_repositories). Estas plataformas ayudan a organizar y facilitar el intercambio de preimpesiones. El Marco de Ciencia Abierta [OSF proporciona un servicio](https://osf.io/preprints/#!) for searching over multiple preprint servers.
+Las preimpresiones son típicamente alojadas en servidores de preimpresiones, dedicados a diferentes campos científicos. Los ejemplos incluyen: [arXiv](https://arxiv.org/) (física, matemática), [bioRxiv](https://www.biorxiv.org/) (biología), [medRxiv](https://www.medrxiv.org/) (medicina), y [muchos otros](https://en.wikipedia.org/wiki/List_of_preprint_repositories). Estas plataformas ayudan a organizar y facilitar el intercambio de preimpesiones. El Marco de Ciencia Abierta [OSF proporciona un servicio](https://osf.io/preprints/#!) para buscar en múltiples servidores de preimpresión.
 
-Remember, pre-prints play a significant role in open science by promoting rapid, transparent sharing of research findings across various scientific domains. They offer a valuable platform for researchers to disseminate their work and gather feedback, ultimately advancing scientific knowledge.
+Recuerda que las preimpresiones desempeñan un papel importante en la ciencia abierta, al promover un intercambio rápido y transparente de los resultados de la investigación en diversos ámbitos científicos. Ofrecen una valiosa plataforma para que las personas que investigan difundan su trabajo y recopilen retroalimentación, lo que en última instancia hace avanzar el conocimiento científico.
 
-### Discover an Open Access Journal to Share Your Results
+### Descubre un Diario de Acceso Abierto para compartir tus resultados
 
-A common way to share a paper is to pick a journal that is already fully open access and adopt their license. One way to discover open journals is by using the Directory of Open Access Journals (DOAJ).
+Una forma habitual de compartir un artículo es elegir una revista que ya sea totalmente de acceso abierto y adoptar su licencia. Una forma de descubrir revistas abiertas es utilizando el Directorio de Revistas de Acceso Abierto (DOAJ).
 
-To identify the best open-access journal, you can use the [Directory of Open Access Journals](https://doaj.org/) (DOAJ) which provides a searchable index of all known open-access journals and articles. The DOAJ and its synergetic webpage, Sherpa Romeo, serve as useful tools in the early stages of research planning to help a researcher determine what journals to consider when the time comes to publish their results.
+Para identificar la mejor revista de acceso abierto, puedes usar el [Directorio de Revistas de Acceso Abierto](https://doaj. rg/) (DOAJ) que proporciona un índice de búsqueda de todos los artículos y revistas de acceso abierto conocidas. El DOAJ y su página web sinérgica, Sherpa Romeo, sirven como herramientas útiles en las primeras etapas de la planificación de la investigación para ayudar a una persona que investiga a determinar qué revistas hay que tener en cuenta cuando llegue el momento de publicar sus resultados.
 
-![](../images/media/image51.jpeg)
+![](../images/media/image44.jpeg)
 
-### Activity 5.1: Identify an Open-Access Journal
+### Actividad 5.1: Identificar una Revista de Acceso Abierto
 
-To become more familiar with the [DOAJ](https://doaj.org/), visit [https://doaj.org/](https://doaj.org/) and search for _The Astronomical Journal_ published by the American Astronomical Society. Once you select the journal, you can see costs to publish, details about licensing, author retention rights, time to publication, and other details.
+Para familiarizarte más con el [DOAJ](https://doaj.org/), visita [https://doaj.org/](https://doaj.org/) y busca _The Astronomical Journal_, publicado por la Sociedad Astronómica (_Americana American Astronomical Society_). Una vez que selecciones la revista, podrás ver los costos de publicación, detalles sobre licencias, derechos de retención de autoría, tiempo de publicación y otros detalles.
 
-Once you have found the journal, answer the following questions:
+Una vez que hayas encontrado la revista, responde a las siguientes preguntas:
 
-1. When did it begin publishing as open access?
-2. What license is used for the publications?
-3. What rights do the authors retain in their publications?
+1. ¿Cuándo empezó a publicar como acceso abierto?
+2. ¿Qué licencia se utiliza para las publicaciones?
+3. ¿Qué derechos conservan los autores sobre sus publicaciones?
 
-**Note:** If journals did not have any open access, the journal will not have appeared in the search results. Also, because DOAJ has strict criteria for being listed in its directory, it is not likely you will find predatory publishers listed here, either.
+**Nota:** Si las publicaciones no tienen acceso abierto, la revista no aparecerá en los resultados de búsqueda. Además, como DOAJ aplica criterios estrictos para figurar en su directorio, tampoco es probable que encuentres editoriales depredadoras.
 
-## Tools for Reproducibility
+## Herramientas para Reproducibilidad
 
-In this lesson, we take a deep dive into a few available tools for (computational) reproducibility.
+En esta lección, vamos a profundizar en algunas herramientas disponibles para reproducibilidad (computacional).
 
-### What is Reproducibility?
+### ¿Qué es la Reproducibilidad?
 
-The [National Academies Report 2019](https://www.nationalacademies.org/our-work/reproducibility-and-replicability-in-science) defined reproducibility as:
+El [Informe de Academias Nacionales 2019](https://www.nationalacademies.org/our-work/reproducibility-and-replicability-in-science) definió la reproducibilidad como:
 
-- Reproducibility means obtaining consistent computational results using the same input data, computational steps, methods, code, and conditions of analysis.
-- Replicability means obtaining consistent results across studies aimed at answering the same scientific question, each of which has obtained its own data.
+- Reproducibilidad significa obtener resultados computacionales consistentes usando los mismos datos de entrada (_inputs_), pasos computacionales, métodos, código y condiciones de análisis.
+- Replicabilidad significa obtener resultados coherentes en todos los estudios destinados a responder a la misma pregunta científica, cada uno de los cuales ha obtenido sus propios datos.
 
-The pursuit of reproducibility aims to ensure researchers reach the same result when using the same steps, as well as to enable researchers to copy an environment and build upon a result by editing the environment in order to apply it to a similar problem. This additional feature gives others the ability to directly build upon previous work and get more science out of the same amount of funding.
+La búsqueda de la reproducibilidad tiene como objetivo garantizar que las personas investigadoras obtengan el mismo resultado al seguir los mismos pasos, así como permitirles copiar un entorno y desarrollar un resultado editando dicho entorno para aplicarlo a un problema similar. Esta característica adicional ofrece a otros la posibilidad de basarse directamente en trabajos anteriores y obtener más ciencia con la misma cantidad de financiamiento.
 
-Tools to support reproducibility in research outputs:
+Herramientas para apoyar la reproducibilidad en los resultados de investigación:
 
-- [Jupyter Notebooks](https://jupyter.org/) - A web application for creating and sharing computational documents. It offers a simple, streamlined, document-centric experience.
-- [Jupyter Books](https://jupyterbook.org/en/stable/intro.html) - Build beautiful, publication-quality books and documents from computational content.
-- [R Markdown](https://rmarkdown.rstudio.com/) - Produces documents that are fully reproducible. Use a productive notebook interface to weave together narrative text and code to produce elegantly formatted output.
-- [Binder](https://mybinder.org/) - Create custom computing environments that can be shared and used by many remote users.
+- [Jupyter Notebooks](https://jupyter.org/) - Una aplicación web para crear y compartir documentos computacionales. Ofrece una experiencia sencilla, ágil y centrada en los documentos.
+- [Jupyter Books](https://jupyterbook.org/en/stable/intro.html) - Construye libros y documentos atractivos, y de calidad editorial, a partir de contenido computacional.
+- [R Markdown](https://rmarkdown.rstudio.com/) - Produce documentos totalmente reproducibles. Utiliza una interfaz de cuaderno productiva para entrelazar texto narrativo y código, y producir resultados con un formato elegante.
+- [Binder](https://mybinder.org/) - Crea entornos de computación personalizados que pueden ser compartidos y utilizados por muchas personas de manera remota.
 - [Quarto](https://quarto.org/) - Combine Jupyter notebooks with flexible options to produce production quality output in a wide variety of formats.
 
 **Note:** As you might have noticed, a lot of open science tools require intermediate to advanced skills in data and information literacy and coding, especially if handling coding-intensive research projects. One of the best ways to learn these skills is through engaging with the respective communities, which often provide training and mentoring.
