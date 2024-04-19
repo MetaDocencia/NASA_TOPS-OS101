@@ -12,15 +12,15 @@ Después de completar este módulo, deberías poder:
 
 - Explicar lo que significa el software de código abierto, incluyendo el ciclo de desarrollo de software, los beneficios, algunas limitaciones comunes y cómo se abordan estas limitaciones.
 - Evaluar el software de código abierto para su reutilización mediante el análisis de la documentación proporcionada, incluyendo archivos README y detalles de licencia, y poder, además, citar el software apropiadamente.
-- Create an open-source software management plan that includes the strategy for selecting open software dependencies and open repositories, and how open elements including metadata, README files and version control, will be included to make the software reusable and findable.
-- Evaluate whether your open-source software can be shared and the best options for sharing to increase visibility.
-- List the responsibilities a software developer has once the open-source software is shared including managing legal requirements and ensuring the software is maintained.
+- Crea un plan de gestión para el software de código abierto que incluya la estrategia para seleccionar dependencias de código y repositorios abiertos, así como la incorporación de elementos como metadatos, archivos README y control de versiones, para garantizar la reutilización y la accesibilidad del software.
+- Evaluar si tu software de código abierto puede ser compartido y cuáles son las mejores opciones para compartirlo para aumentar su visibilidad.
+- Enumerar las responsabilidades que tiene el desarrollador de software una vez que el software de código abierto es compartido, incluyendo tanto la gestión de los requisitos legales, como el mantenimiento del software.
 
-## Key Terms
+## Términos Clave
 
-Select the term to see the description.
+Selecciona el término para ver la descripción.
 
-**Source Code** – Human-readable set of statements written in a programming language that together compose software. Programmers write software in source code, often saved as a text file on a computer. The terms code and source code are often used interchangeably.
+**Código fuente** – Conjunto de sentencias legible por humanos escrito en un lenguaje de programación que juntos componen software. Los programadores escriben software en código fuente, a menudo guardados como un archivo de texto en un ordenador. Los términos código y código fuente se utilizan a menudo de forma intercambiable.
 
 **Software** – This general term is used for computer programs and applications that provide users some degree of utility or produce a result or service. Software can be distributed in executable form, as source code, or as a service via the internet.
 
