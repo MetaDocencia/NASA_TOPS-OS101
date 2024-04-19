@@ -1,11 +1,11 @@
-# Lesson 4: Sharing Open Data
+# Lección 4: Compartir Datos Abiertos
 
-## Navigation
+## Contenidos
 
-- [Overview](#overview)
-- [Learning Objectives](#learning-objectives)
-- [When and If to Share Data](#when-and-if-to-share-data)
-- [Where to Share Data](#where-to-share-data)
+- [Resumen](#resumen)
+- [Objetivos de Aprendizaje](#objetivos-de-aprendizaje)
+- [Cuándo y si compartir datos](#cuando-y-si-compartir-datos)
+- [Dónde compartir datos](#dónde-compartir-datos)
 - [How to Enable Reuse of Data](#how-to-enable-reuse-of-data)
 - [Who is Responsible for Sharing Data](#who-is-responsible-for-sharing-data)
 - [Lesson 4: Summary](#lesson-4-summary)
