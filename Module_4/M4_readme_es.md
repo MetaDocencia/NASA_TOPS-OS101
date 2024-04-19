@@ -4,14 +4,14 @@ Bienvenidos y Bienvenidas a Introducción a la Ciencia Abierta: Código Abierto
 
 ## Acerca de este módulo
 
-Este módulo se centra en la práctica y aplicación del código abierto como parte del flujo de trabajo de ciencia abierta. It provides a 'how to' process that follows the code development lifecycle and "Use, Make, Share" framework. Some of the key topics discussed include: benefits and limitations of open code, how to discover and assess code, considerations and methods for programming following open principles, and finally when and how to share your code.
+Este módulo se centra en la práctica y aplicación del código abierto como parte del flujo de trabajo de ciencia abierta. Proporciona un 'cómo se procede' que sigue el ciclo de vida del desarrollo de código y las premisas "Usar, Crear, Compartir". Algunos de los temas clave discutidos incluyen: beneficios y limitaciones del código abierto, cómo descubrir y evaluar el código, consideraciones y métodos para programar siguiendo principios abiertos, y finalmente cuándo y cómo compartir tu código.
 
-### Module Learning Objectives
+### Objetivos de Aprendizaje del Módulo
 
-After completing this module, you should be able to:
+Después de completar este módulo, deberías poder:
 
-- Explain what open-source software means, including the software development cycle, the benefits, some common limitations, and how they are addressed.
-- Assess open-source software for reuse by evaluating provided documentation, including README files and licensing details, and then cite the software appropriately.
+- Explicar lo que significa el software de código abierto, incluyendo el ciclo de desarrollo de software, los beneficios, algunas limitaciones comunes y cómo se abordan estas limitaciones.
+- Evaluar el software de código abierto para su reutilización mediante el análisis de la documentación proporcionada, incluyendo archivos README y detalles de licencia, y poder, además, citar el software apropiadamente.
 - Create an open-source software management plan that includes the strategy for selecting open software dependencies and open repositories, and how open elements including metadata, README files and version control, will be included to make the software reusable and findable.
 - Evaluate whether your open-source software can be shared and the best options for sharing to increase visibility.
 - List the responsibilities a software developer has once the open-source software is shared including managing legal requirements and ensuring the software is maintained.
