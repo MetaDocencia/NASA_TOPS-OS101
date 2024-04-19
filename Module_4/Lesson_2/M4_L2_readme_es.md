@@ -213,25 +213,25 @@ Los criterios de evaluación del software son similares, para cualquier nivel de
 
 - ¿El software contiene casos de prueba científica? Si es así, reproduzca un caso que sea aplicable a su problema; asegúrese de que los resultados son los esperados.
 - Si ha hecho un análisis científico similar o modelado anteriormente, reproduzca sus resultados previos con el nuevo software. ¿Son consistentes los resultados?
-- Incrementally modify a given test case to address new scientific questions. Alternatively, develop your own case, if necessary, following relevant examples.
+- Modifica cada vez más un caso de prueba dado para abordar nuevas preguntas científicas. Alternativamente, desarrolle su propio caso, si es necesario, siguiendo ejemplos relevantes.
 
-### Interoperability: Ease of Use
+### Interoperabilidad: Facilidad de Uso
 
-#### Is the code written in a language that you are familiar with?
+#### ¿Está escrito el código en un idioma con el que estás familiarizado?
 
-It can be easier to use coding languages that you are familiar with, then import the code into existing software rather than try to use a new language. On the other hand, the use of existing packages and executables can accelerate your work.
+Puede ser más fácil usar lenguajes de codificación con los que estás familiarizado. entonces importa el código al software existente en lugar de intentar usar un nuevo idioma. Por otro lado, el uso de paquetes y ejecutables existentes puede acelerar tu trabajo.
 
-#### Check for good documentation
+#### Busca buena documentación
 
-Read the README file. Does the software meet your functional requirements? Are the environmental dependencies well-defined and reasonable?
+Lee el archivo LEEME. ¿Cumple el software con sus requerimientos funcionales? ¿Están bien definidas y razonables las dependencias medioambientales?
 
-#### Check the evidence of interoperability with other projects and codes
+#### Compruebe la evidencia de interoperabilidad con otros proyectos y códigos
 
-It is a good sign if you can find evidence that the code has been used successfully by other users that have similar scientific or technical needs.
+Es una buena señal si puede encontrar evidencia de que el código ha sido utilizado con éxito por otros usuarios que tienen necesidades científicas o técnicas similares.
 
-### Factors for assessing the quality of open source software
+### Factores para evaluar la calidad del software de código abierto
 
-To quickly assess the community usage and quality of software repository, use the tools from the repository where you found it. GitHub, for example, permits a quick scan of development activity as evidenced by the number of times the code has been downloaded or ‘forked’ in GitHub parlance. You can also view the amount of activity in a community. GitHub also provides insights into the quality of the software.
+Para evaluar rápidamente el uso de la comunidad y la calidad del repositorio de software, utilice las herramientas del repositorio donde lo encontró. GitHub, por ejemplo, permite un rápido escaneo de la actividad de desarrollo como lo demuestra el número de veces que el código ha sido descargado o “bifurcado” en el lenguaje de GitHub. También puedes ver la cantidad de actividad en una comunidad. GitHub también proporciona información sobre la calidad del software.
 
 <img src="../images/media/image291.jpg" style="width:100%;height:auto;" />
 
