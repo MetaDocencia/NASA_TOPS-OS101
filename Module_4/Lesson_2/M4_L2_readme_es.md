@@ -289,15 +289,15 @@ Considere lo siguiente cuando seleccione entre múltiples versiones del software
 - No tengas miedo de pedir ayuda a tus colegas con experiencia.
 - Es mejor buscar y obtener ayuda en un foro público que en medio privado (por ejemplo, por correo electrónico). Parte del propósito de la ciencia abierta consiste en trabajar abiertamente. A menudo, a través de una búsqueda, puedes descubrir que otros usuarios tienen preguntas similares. Puede que alguien ya haya ofrecido una solución. Si no es el caso, es probable que otros se beneficien de que tu pregunta se responda en público.
 
-### Activity 2.1: Ways to Get Help Using Open Software
+### Actividad 2.1: Maneras de obtener ayuda para utilizar software libre
 
-In this activity, you are asked to select from a list of ways you can resolve some common problems that arise when using open software.
+En esta actividad se pide que selecciones de una lista las formas de resolver algunos problemas habituales que surgen al utilizar software libre.
 
-#### Exercise 1
+#### Ejercicio 1
 
-Select how you can resolve this problem when using open software: Difficulty finding open software that meets your needs.
+Selecciona cómo puedes resolver este problema al utilizar software libre: Dificultad para encontrar software abierto que satisfaga sus necesidades.
 
-Select all that apply.
+Seleccione todo lo que corresponda.
 
 - Reach out to expert colleagues
 - Read related peer reviewed literature
