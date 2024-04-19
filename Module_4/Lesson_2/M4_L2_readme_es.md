@@ -299,66 +299,66 @@ Selecciona cómo puedes resolver este problema al utilizar software libre: Dific
 
 Seleccione todo lo que corresponda.
 
-- Reach out to expert colleagues
-- Read related peer reviewed literature
-- Conduct a search of various popular repositories
-- Read the README file
-- Read the license file
+- Ponerse en contacto con colegas expertos
+- Leer bibliografía revisada por expertos
+- Realizar una búsqueda en varios repositorios populares
+- Leer el archivo README
+- Leer la licencia que posee el archivo
 
-#### Exercise 2
+#### Ejercicio 2
 
-Select how you can resolve the problem when using open software: installation difficulties.
+Selecciona la manera en que podrías resolver un problema que se presente al utilizar software abierto sobre el caso: dificultades de instalación.
 
-Select all that apply.
+Seleccione todo lo que corresponda.
 
-- Reach out to the developers on a public forum
-- Read related peer reviewed literature
-- Conduct a search of various popular repositories
-- Read the README file
-- Read the license file
+- Contactar con los desarrolladores del software en un foro público
+- Leer bibliografía revisada por expertos
+- Realizar una búsqueda en varios repositorios populares
+- Leer el archivo README
+- Leer la licencia que posee el archivo
 
-#### Exercise 3
+#### Ejercicio 3
 
-Select how you can resolve the problem when using open software: software is not working as expected.
+Selecciona la manera en que puedes resolver el siguiente problema, el cual se puede presentar al usar software libre: el software no funciona como se esperaba.
 
-Select all that apply.
+Seleccione todo lo que corresponda.
 
-- Reach out to the developers on a public forum
-- Read related peer reviewed literature
-- Conduct a search of various popular repositories
-- Read the README file
-- Read the license file
-- Consult the release notes, issue trackers, and public forums
+- Contactar con los desarrolladores del software en un foro público
+- Leer bibliografía revisada por expertos
+- Realizar una búsqueda en varios repositorios populares
+- Leer el archivo README
+- Leer la licencia que posee el archivo
+- Consultar las notas sobre la versión, los sistemas de seguimiento de incidentes y los foros públicos
 
-#### Exercise 4
+#### Ejercicio 4
 
-After answering the questions above, work through some specific examples of how you would resolve problems on your own. For example, navigate to the astropy code repository on GitHub or another repository of your choice, and find the README and LICENSE files. Determine how you would contact the developers for help, etc.
+Después de responder las preguntas anteriores, puedes pensar en algunos otros problemas en concreto y plantear cómo los resolverías por tu cuenta. Por ejemplo, navega hasta el repositorio que contiene el código de astropy en GitHub u otro repositorio de tu elección, y busca los archivos README y LICENSE. Determina cómo te pondrías en contacto con los desarrolladores del software para solicitar ayuda, etc.
 
-## Citing and Acknowledging Open Code Use
+## Citar y reconocer el uso de código abierto
 
-Imagine that you’ve used Open Code pulled from the web and it made a big difference for your project research paper. How should you provide due credit for the open access code that contributed to your research?
+Imagina haber usado Código Abierto encontrado en la web y que esto ha implicado ser de gran ayuda para el desarrollo de tu proyecto de investigación. ¿Cómo deberías de darle crédito?
 
-**Example:** You managed to implement GOTM to learn something new about ocean turbulence in the Southern Ocean, or you managed to compute a Lomb-Scargle periodogram using astropy. Here are some questions to consider:
+**Ejemplo:** Has conseguido aplicar un modelo general de turbulencia oceánica (GOTM por sus siglas en inglés) para aprender algo nuevo sobre la turbulencia oceánica en el Océano Antártico, o has conseguido calcular un periodograma de Lomb-Scargle utilizando Astropy. He aquí algunas cuestiones a tener en cuenta:
 
-### Should you cite the Open Code?
+### ¿Debes citar el Código Abierto?
 
-Cite any code that you view as having contributed to your research:
+Cita cualquier código que consideres haya contribuido a tu investigación:
 
-- Did the code play a critical part in your research?
-- Did the code provide something novel?
+- ¿Ha desempeñado el código un papel fundamental en tu investigación?
+- ¿Aportaba el código algo novedoso?
 
-In most cases, a code snippet on Stack Overflow does not constitute a citable research contribution. However, an author can still decide to cite it if they chose.
+En la mayoría de los casos un fragmento de código, por ejemplo, encontrado en Stack Overflow no constituye una contribución de investigación citable. Sin embargo, un autor puede decidir citarlo si lo desea.
 
-Instances when shared code directly impacts the scientific results and requires a detailed description include:
+Entre los casos en que el código compartido repercute directamente en los resultados científicos y requiere una descripción detallada figuran:
 
-- Numerical modeling or simulation
-- Automated analysis, such as image processing or optical recognition
+- Simulación o modelado numérico
+- Análisis automatizados, como el tratamiento de imágenes o el reconocimiento óptico
 
-See the journal where you are publishing if they have any specific instructions on how to cite software (e.g., [AAS Software Citation Suggestions](https://journals.aas.org/news/software-citation-suggestions/)).
+Consulta una revista en la que has publicado, o en alguna sobre el tema, y busca si contiene instrucciones específicas sobre cómo citar software (por ejemplo, [AAS Software Citation Suggestions] (https://journals.aas.org/news/software-citation-suggestions/)).
 
-In some cases, a software’s licensing terms and conditions require acknowledgement or citation in the references or bibliography of any publications based on research that made use of the software.
+En algunos casos, los términos y condiciones de la licencia de uso de un software exigen que este sea reconocido mediante su cita en las referencias o bibliografía de cualquier publicación producto de una investigación que haya hecho uso del programa.
 
-### How to cite?
+### ¿Cómo citar?
 
 Ideally, use and cite code that is archived in a long-term repository with a persistent DOI. Follow the guidance about the preferred citation format, which is provided in the long- term repository and may appear in a README or a CITATION file.
 
