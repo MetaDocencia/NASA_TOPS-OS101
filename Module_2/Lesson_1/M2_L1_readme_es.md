@@ -47,19 +47,19 @@ Incluso puede haber datos sobre los datos, denominados metadatos. En nuestras cl
 - Información producida por misiones y experimentos, incluidas calibraciones, coeficientes y documentación
 - Información necesaria para validar las conclusiones científicas de las publicaciones revisadas por pares
 
-Los datos abiertos pueden tener muchas características, como metadatos ricos y sólidos, y estar disponibles en diversos formatos. These characteristics are detailed more later in this module, and even further in the module on Open Data.
+Los datos abiertos pueden tener muchas características, como metadatos ricos y sólidos, y estar disponibles en diversos formatos. Estas características se detallan más adelante en este módulo, y se desarrollan más en el módulo sobre Datos Abiertos.
 
-### What is Code?
+### ¿Qué es el Código?
 
-Many scientists write source code to produce software to analyze data or model observations. Code is a language that humans can type and understand. Software is often a collection of programs, data, and other information that a computer system uses to perform specific tasks. Scientists write and use many different types of software as part of their research.
+Muchos científicos escriben código fuente para producir software con el que analizar datos o modelar observaciones. El código es un lenguaje que los seres humanos pueden escribir y entender. El software suele ser un conjunto de programas, datos y otra información que un sistema informático utiliza para realizar tareas específicas. Los científicos escriben y utilizan muchos tipos distintos de software en el marco de sus investigaciones.
 
-**General Purpose Software** – Software produced for widespread use, not specialized scientific purposes. This encompasses both commercial software and open-source software.
+**Software de propósito general** - Software producido para un uso generalizado, no para fines científicos especializados. Esto incluye tanto el software comercial como el de código abierto.
 
-**Operational and Infrastructure Software** – Software used by data centers and large information technology facilities to provide data services.
+**Software Operativo y de Infraestructura** - Software utilizado por centros de datos y grandes instalaciones de tecnología de la información para proporcionar servicios de datos.
 
-**Libraries** – No creative process is truly complete until it manifests a tangible reality. Whether your idea is an action or a physical creation, bringing it to life will likely involve the hard work of iteration, testing, and refinement.
+**Bibliotecas** - Ningún proceso creativo está realmente completo hasta que se manifiesta en una realidad tangible. Tanto si tu idea es una acción como si es una creación física, es probable que darle vida implique un duro trabajo de iteración, pruebas y perfeccionamiento.
 
-Just be wary of perfectionism. Push yourself to share your creations with others. By maintaining an open stance, you’ll be able to learn from their feedback. Consider their responses new material that you can draw from the next time you’re embarking on a creative endeavor.
+Simplemente, desconfía del perfeccionismo. Push yourself to share your creations with others. By maintaining an open stance, you’ll be able to learn from their feedback. Consider their responses new material that you can draw from the next time you’re embarking on a creative endeavor.
 
 **Modeling and Simulation Software** – Software that either implements solutions to mathematical equations given input data and boundary conditions, or infers models from data.
 
