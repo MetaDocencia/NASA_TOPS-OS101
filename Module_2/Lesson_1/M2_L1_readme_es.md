@@ -57,9 +57,9 @@ Muchos científicos escriben código fuente para producir software con el que an
 
 **Software Operativo y de Infraestructura** - Software utilizado por centros de datos y grandes instalaciones de tecnología de la información para proporcionar servicios de datos.
 
-**Bibliotecas** - Ningún proceso creativo está realmente completo hasta que se manifiesta en una realidad tangible. Tanto si tu idea es una acción como si es una creación física, es probable que darle vida implique un duro trabajo de iteración, pruebas y perfeccionamiento.
+**Bibliotecas** - Ningún proceso creativo está realmente completo hasta que se manifiesta en una realidad tangible. Tanto si nuestra idea es una acción como si es una creación física, es probable que darle vida implique un duro trabajo de iteración, pruebas y perfeccionamiento.
 
-Simplemente, desconfía del perfeccionismo. Push yourself to share your creations with others. By maintaining an open stance, you’ll be able to learn from their feedback. Consider their responses new material that you can draw from the next time you’re embarking on a creative endeavor.
+Se debe desconfiar del perfeccionismo y animarnos a compartir nuestras creaciones con los demás. Al mantener una postura abierta, podremos aprender de los comentarios de otras personas. Sus respuestas pueden considerarse como nuevo material que podemos aprovechar la próxima vez que nos embarquemos en una tarea creativa.
 
 **Modeling and Simulation Software** – Software that either implements solutions to mathematical equations given input data and boundary conditions, or infers models from data.
 
