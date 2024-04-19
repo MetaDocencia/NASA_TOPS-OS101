@@ -1,37 +1,37 @@
-# Lesson 5: Tools for Open Results
+# Lección 5: Herramientas para Resultados Abiertos
 
-## Navigation
+## Navegación
 
-- [Tools for Open Publications](#tools-for-open-publications)
-- [Tools for Reproducibility](#tools-for-reproducibility)
-- [Additional Tools for Open Results](#additional-tools-for-open-results)
-- [Lesson 5: Summary](#lesson-5-summary)
-- [Lesson 5: Knowledge Check](#lesson-5-knowledge-check)
-- [Open Tools and Resources Summary](#open-tools-and-resources-summary)
+- [Herramientas para publicaciones abiertas](./Lesson_5#tools-for-open-publications)
+- [Herramientas para Reproducibilidad](./Lesson_5#tools-for-reproducibility)
+- [Herramientas adicionales para Resultados Abiertos](./Lesson_5#additional-tools-for-open-results)
+- [Lección 5: Resumen](#lesson-5-summary)
+- [Lección 5: Evaluación](#lesson-5-knowledge-check)
+- [Resumen de Herramientas Abiertas y Recursos](./Lesson_5#open-tools-and-resources-summary)
 
-## Overview
+## Descripción General
 
-This lesson focuses on the tools available for sharing research products. It begins with a discussion of the tools for management of research projects. Then it introduced the tools for open publications and how to find them. Next, this lesson discusses the tools for open results. Lastly, this lesson discusses the concept of reproducibility. Journals are a tool for sharing your results and these are discussed in more detail in Module 5 - Open Results.
+Esta lección se centra en las herramientas disponibles para compartir productos de investigación. Comienza con un análisis de las herramientas para la gestión de proyectos de investigación. Luego introduce las herramientas para publicaciones abiertas y cómo encontrarlas. A continuación, esta lección discute las herramientas para los resultados abiertos. Por último, esta lección trata el concepto de reproducibilidad. Las revistas son una herramienta para compartir tus resultados y estos son discutidos con más detalle en el Módulo 5 - Resultados Abiertos.
 
-## Learning Objectives
+## Objetivos de Aprendizaje
 
-After completing this lesson, you should be able to:
+Después de completar este módulo, deberías ser capaz de:
 
-- Describe some of the benefits of preprints and identify resources for open access journals.
-- List commonly used tools that increase the reproducibility of a result.
-- List applications for project management and reference management.
+- Describir algunos de los beneficios de las preimpresiones (_preprints_) e identificar recursos para revistas de acceso abierto.
+- Listar herramientas usadas comúnmente que incrementan la reproducibilidad de un resultado.
+- Enumerar aplicaciones para gestión de proyectos y gestión de referencias.
 
-## Tools for Open Publications
+## Herramientas para Publicaciones Abiertas
 
-### Pre-Prints
+### Pre-Impresiones
 
-Open science tools can be used for writing, as tools to produce content, such as data management plans, presentations, and pre-prints. Pre-prints are early versions of research papers that are shared publicly before they are published in scientific journals. In some fields, they are shared prior to peer review while in other fields, it may only be after peer review and prior to publication. They are a vital component of open science content creation, as they promote transparency, rapid dissemination of knowledge, and collaboration among researchers.
+Las herramientas de ciencia abierta pueden ser utilizadas para escribir, como herramientas para producir contenido, como planes de gestión de datos, presentaciones y preimpresiones. Las preimpresiones (_preprints_) son versiones preliminares de los documentos de investigación que se comparten públicamente antes de su publicación en revistas científicas. En algunas disciplinas, se comparten antes de la revisión por pares mientras que en otras disciplinas, puede ser sólo después de la revisión por pares y antes de la publicación. Son un componente vital de la creación de contenidos científicos abiertos, ya que promueven la transparencia, la rápida difusión del conocimiento y la colaboración entre investigadores.
 
-By sharing pre-prints, scientists can receive feedback from the global research community, refine their work, and rapidly communicate their findings. This accelerates the pace of scientific discovery and ensures that valuable research is accessible to a broader audience, which aligns with the principles of open science.
+Al compartir preimpresiones, los científicos pueden recibir retroalimentación de la comunidad de investigación global, perfeccionar su trabajo y comunicar rápidamente sus hallazgos. Esto acelera el ritmo del descubrimiento científico y garantiza que la investigación valiosa sea accesible a un público más amplio, lo que se ajusta a los principios de la ciencia abierta.
 
-Pre-prints have gained particular significance during the COVID-19 pandemic, where they played a crucial role in rapidly sharing information about the virus and its effects, emphasizing their importance in advancing science and public health. Fundamentally, pre-prints are important to open science. Consider the following highlights:
+Las preimpresiones han adquirido especial relevancia durante la pandemia COVID-19, donde desempeñaron un papel crucial en el rápido intercambio de información sobre el virus y sus efectos, enfatizando su importancia en el avance de la ciencia y la salud pública. Fundamentalmente, las preimpresiones son importantes para la ciencia abierta. Considera los siguientes aspectos destacados:
 
-1. **Rapid Dissemination:** Pre-prints enable researchers to swiftly share their findings with the scientific community and the public, sometimes within days of completing their research. This swift dissemination is particularly beneficial when dealing with urgent or rapidly evolving topics.
+1. **Difusión rápida:** Las preimpresiones permiten a los investigadores compartir rápidamente sus hallazgos con la comunidad científica y el público, a veces a los pocos días de completar su investigación. Esta difusión rápida es especialmente beneficiosa cuando se trata de temas urgentes o que evolucionan con rapidez.
 
 2. **Peer Review:** While pre-prints are not peer-reviewed, they often undergo a form of community review. Researchers and experts can provide feedback and constructive criticism, helping authors improve their work before formal journal publication.
 
