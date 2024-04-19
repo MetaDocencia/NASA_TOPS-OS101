@@ -237,7 +237,7 @@ Además de los recursos mencionados en otras partes de esta capacitación, los s
 
 En esta lección has aprendido:
 
-- When a SMP should be written and that your funding organization or institution may have rules around how you develop and share your code.
+- Cuándo se debería redactar un Plan de Gestión de Software y que el organismo o institución de financiamiento puede tener reglas sobre cómo desarrollar y comportir el código.
 - Que unirse a comunidades de software puede ser una forma excelente de intercambiar conocimientos y aprender nuevas habilidades en torno al código abierto.
 - Que hay muchas maneras de contribuir al código abierto, y que no todas requieren escribir código.
 
@@ -272,8 +272,8 @@ Seleccione la o las maneras beneficiosas de contribuir al software de código ab
 
 ¡Felicitaciones! Ahora, deberías ser capaz de:
 
-- Explain what open source software means, including the software development cycle, the benefits of open software, and some common limitations and how they are addressed.
-- Discover open source software and assess it for reuse by evaluating provided documentation, including README files and licensing details; cite the software when appropriate.
-- Create an open source software management plan that includes the strategy for selecting open software dependencies and open repositories such as GIT, and how open elements including metadata, README files and version control, will be included to make the software reusable and findable.
-- Evaluate whether your open source software can be shared and the best options for sharing to increase visibility.
-- List the responsibilities a software developer has once the open source software is shared including managing legal requirements and ensuring the software is maintained.
+- Explicar lo qué significa el software de código abierto, incluyendo el ciclo de desarrollo de software, los beneficios del software abierto y algunas limitaciones comunes y cómo se abordan.
+- Evaluar el software de código abierto para su reutilización mediante el análisis de la documentación proporcionada, incluyendo archivos README y detalles de licencia, y poder, además, citar el software apropiadamente.
+- Crear un plan de gestión de software de código abierto que incluyan, por un lado, la estrategia para seleccionar dependencias de software abierto y repositorios abiertos como GIT, y tambíén, cómo se incluirán elementos abiertos como metadatos, archivos README y control de versiones para hacer que el software sea reutilizable y localizable.
+- Evaluar si tu software de código abierto puede ser compartido y cuáles son las mejores opciones para compartirlo para aumentar su visibilidad.
+- Enumerar las responsabilidades que tiene un desarrolladore de software una vez que el software de código abierto es compartido, incluyendo la gestión de los requisitos legales y la garantía del mantenimiento del software.
