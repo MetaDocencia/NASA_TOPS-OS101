@@ -187,7 +187,7 @@ Estos son algunos enlaces a repositorios específicos de la NASA que pueden ser 
 
 ## Evaluación de código abierto y software
 
-Así que has descubierto un código abierto emocionante que puede ayudarte a resolver tu problema científico. ¿Puedes confiar en este código que descubriste en la red? ¿Será útil? ¿Cuánto tiempo llevará aprenderlo? Could the code contain malware? ¿Podrías tener problemas legales por usarlo?
+Así que has descubierto un código abierto emocionante que puede ayudarte a resolver tu problema científico. ¿Puedes confiar en este código que descubriste en la red? ¿Será útil? ¿Cuánto tiempo llevará aprenderlo? ¿Podría el código contener un programa maligno? ¿Podrías tener problemas legales por usarlo?
 
 **Ejemplos:** Has encontrado el “General Ocean Turbulence Model (GOTM)” en Internet, y parece prometedor. O bien, acabas de encontrar muchos fragmentos de código y funciones relacionadas con el espectro de potencia Lomb-Scargle. Ahora te gustaría evaluar estas piezas de código para ayudarte a decidir si debes usarlas. En esta sección se tratan algunas buenas prácticas para evaluar si el código le ayudará.
 
@@ -235,22 +235,22 @@ Para evaluar rápidamente el uso de la comunidad y la calidad del repositorio de
 
 <img src="../images/media/image291.jpg" style="width:100%;height:auto;" />
 
-### The Importance of the README File
+### La importancia del Archivo LEEME
 
-- Example above: [Astropy](https://github.com/astropy/astropy/blob/main/README.rst)
-- Always the starting point when assessing software.
-- Explains what the software does, how to install and use it, or points to files with that information.
-- Assumes limited prior knowledge by the reader / potential user.
-- Includes a compatibility description, e.g., dependencies.
-- Includes usage examples and/or test cases.
+- Ejemplo anterior: [Astropy](https://github.com/astropy/astropy/blob/main/README.rst)
+- Siempre el punto de partida cuando se evalúa un software.
+- Explica qué hace el software, cómo instalarlo y usarlo, o apunta a archivos con esa información.
+- Asume conocimientos previos limitados por el lector/potencial usuario.
+- Incluye una descripción de la compatibilidad, por ejemplo, dependencias.
+- Incluye ejemplos de uso y/o casos de prueba.
 
-### Security: Considerations When Using Open Code
+### Seguridad: Consideraciones cuando se utiliza código abierto
 
-You have found some Open Code that will help you solve your scientific problem and it looks easy to use. However, you may still have some reservations. Perhaps you are unsure if the code poses a security risk, for example.
+Has encontrado un código abierto que te ayudará a resolver tu problema científico y parece fácil de usar. Sin embargo, es posible que tenga todavía algunas reservas. Tal vez no esté seguro de si el código plantea un riesgo para la seguridad, por ejemplo.
 
-The risks are relatively low for small snippets of code that are easy for you to fully understand. However, you may not be able to fully understand all components of a large Open Software Package.
+Los riesgos son relativamente bajos para pequeños fragmentos de código que son fáciles de entender para ti. Sin embargo, es posible que no pueda entender completamente todos los componentes de un Paquete de Software Abierto de gran tamaño.
 
-Open software is perceived to have more security risks. This is generally less of a problem for open source code than executables because the code can be audited for security vulnerabilities by the community. How can you assess security in this case?
+Se considera que el software abierto tiene más riesgos para la seguridad. Esto generalmente es un problema menor para el código fuente abierto que los ejecutables porque el código puede ser auditado en búsquedas de vulnerabilidades de seguridad por la comunidad. ¿Cómo se puede evaluar la seguridad en este caso?
 
 - Consult with your institutional open software policies and IT staff
 - Use authoritative reputable sources to minimize security risks
