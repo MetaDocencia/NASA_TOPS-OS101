@@ -271,7 +271,7 @@ The most popular IDE these days, Microsoft’s Visual Studio Code (or VS Code) i
 - It also has a wealth of plugins for connecting to servers, version control systems, and troubleshooting. It has several linter plugins, which can analyze your code for bugs, errors, and to help your team code in a consistent "style". This eases code maintenance down the road.
 - If your line of code has an obvious error in it, the IDE will produce a red squiggle, just as if you’ve spelled something wrong in a Word Document.
 
-Below is an example of a developer who accidentally typed an equal sign when they should have typed a colon. VS Code detectó el error, y cuando el desarrollador pasó el cursor sobre la línea roja ondulada, VS Code explicó cuál era el error y ofreció llevarlos a una documentación adicional.
+Below is an example of a developer who accidentally typed an equal sign when they should have typed a colon. Visual Studio Code (_VS Code_) detectó el error, y cuando el desarrollador pasó el cursor sobre la línea roja ondulada, VS Code explicó cuál era el error y ofreció llevarlos a una documentación adicional.
 
  <img src="../images/media/image35.png" style="width:100%;height:auto;" />
 
@@ -286,7 +286,7 @@ Desde el VS Code puedes:
 
 **Ejemplo IDE: Rstudio – IDE**
 
-Mientras que Visual Studio Code es un entorno de desarrollo integrado (IDE) más genérico donde puedes utilizar complementos para especializarlo, también existen IDEs, como RStudio, que tienen características especializadas para lenguajes específicos desde el principio.
+Mientras que VS Code es un entorno de desarrollo integrado (en inglés, _Integrated Development Environment, IDE_) más genérico donde puedes utilizar complementos para especializarlo, también existen IDEs, como RStudio, que tienen características especializadas para lenguajes específicos desde el principio.
 
 Los investigadores que realizan análisis estadísticos tienden a utilizar los lenguajes de programación de R y Python. RStudio tiene herramientas integradas para ese mismo propósito, incluyendo la visualización de datos.
 
@@ -314,12 +314,12 @@ La mayoría de los ordenadores portátiles o de escritorio que ejecutan sistemas
       <td>
         <ul>
         <li>Ligero</li>
-        <li>Muchos se distribuyen nativamente con el sistema operativo (OS)</li>
+        <li>Muchos se distribuyen nativamente con el sistema operativo (SO) (en inglés, _Operating System, OS_)</li>
         </ul>
       </td>
       <td>
         <ul>
-        <li>No hay complementos (_plugins_) que ayuden a encontrar fallos, errores, etc.</li>
+        <li>No hay complementos que ayuden a encontrar fallos, errores, etc.</li>
         <li>Puede no tener resaltado de sintaxis</li>
         </ul>
       </td>
@@ -337,9 +337,9 @@ Un cuaderno computacional se refiere a un entorno de computación virtual e inte
 
 Jupyter Notebook es una aplicación web de código abierto ampliamente utilizada para la creación de documentos computacionales. Pero antes de sumergirnos en Jupyter Notebook, queremos dejar en claro que Jupyter Notebook es una de las muchas plataformas del ecosistema de Jupyter:
 
-- Jupyter Notebook – un intérprete de comandos (_shell_) de lenguaje contenido para programación interactiva, que muestra la salida en línea (_output inline_) con las entradas (_inputs_)
+- Jupyter Notebook – un intérprete de comandos de lenguaje contenido para programación interactiva, que muestra la salida en línea con las entradas
 - JupyterLab – una interfaz de usuario integrada en el navegador que muestra múltiples ventanas para cuadernos de notas, terminales y edición de código
-- JupyterHub – programa intermediario (_middleware_) para ejecutar entornos de computación interactivos compartidos, incluyendo JupyterLab y Jupyter Notebook, en infraestructura de computación compartida (como la Nube) (_Cloud_)
+- JupyterHub – programa intermediario (_middleware_) para ejecutar entornos de computación interactivos compartidos, incluyendo JupyterLab y Jupyter Notebook, en infraestructura de computación compartida (como en la Nube)
 
 Usaremos Jupyter Notebook como un ejemplo de cuaderno computacional y discutiremos cómo JupyterLab está relacionado con Jupyter Notebook. La siguiente sección sobre plataformas de computación discutirá sobre JupyterHub.
 
@@ -363,11 +363,11 @@ Dado que Jupyter Notebook permite integrar código con visualizaciones y texto, 
 
 Si quieres sumergirte en el tema, consulta la lección "Primeros pasos con Jupyter" del Proyecto Pythia, orientada a científicos sin conocimientos previos de programación.
 
-### Actividad 4.1: Ejecuta un Jupyter Notebook desde el navegador
+### Actividad 4.1: Ejecuta Jupyter Notebook desde el navegador
 
-Usemos un ejemplo del Proyecto Pythia para mostrar cómo los cuadernos computacionales pueden ser usados en la ciencia. Proyecto Pythia es un centro educativo para la comunidad geoscientifica. Tienen algunos grandes recursos de aprendizaje y ejemplos de cuadernos de investigación, desarrollados y mantenidos por la comunidad, y de libre acceso.
+Usemos un ejemplo del Proyecto Pythia para mostrar cómo los cuadernos computacionales pueden ser usados en la ciencia. Proyecto Pythia es un centro educativo para la comunidad geocientifica. Tienen algunos grandes recursos de aprendizaje y ejemplos de cuadernos de investigación, desarrollados y mantenidos por la comunidad, y de libre acceso.
 
-En esta actividad, ejecutarás código Python preescrito en un Jupyter Notebook, desde tu navegador, para hacer gráficos relacionados con el Niño-Oscilación del Sur (o ENSO). Utilizarás el paquete de software de código abierto llamado Xarray para leer los datos de temperatura de la superficie del mar de un modelo climático global (Modelo Comunitario de Sistema de la Tierra - CESM), y crear algunas visualizaciones de eventos ENSO a lo largo de los últimos 20 años. El objetivo es recrear el gráfico siguiente para los últimos ~20 años. Esta figura muestra los años y la magnitud de los eventos de El Niño en rojo y de los eventos de La Niña en azul.
+En esta actividad, ejecutarás código Python preescrito en un Jupyter Notebook, desde tu navegador, para hacer gráficos relacionados con el fenómenos El Niño-Oscilación del Sur (o ENSO). Utilizarás el paquete de software de código abierto llamado Xarray para leer los datos de temperatura de la superficie del mar de un modelo climático global (Modelo comunitario del Sistema Tierra) (en ingles, Community Earth System Model, CESM_), y crear algunas visualizaciones de eventos ENSO a lo largo de los últimos 20 años. El objetivo es recrear el gráfico siguiente para los últimos ~20 años. Esta figura muestra los años y la magnitud de los eventos de El Niño en rojo y de los eventos de La Niña en azul.
 
 ![](../images/media/image39.jpeg)
 
