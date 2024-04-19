@@ -94,24 +94,24 @@ Code example from [https://github.com/UCB-stat-159-s23/site/blob/main/lectures/c
 
 When we write "software," we are actually writing text code and using an interpreter or compiler to translate it into a program that the machine can run. Code is a language that humans can type and understand. Software is often a collection of programs, data, and other information that a computer system uses to perform specific tasks. An example is a software library, which is a suite of data and programming code that is used to develop software programs and applications.
 
-Often, scientists write and publish code that helps others reproduce their results rather than creating software packages. But many scientists aren’t starting their code from scratch. There are large open- source software libraries that scientists use and contribute to, such as scipy, astropy, matplotlib, and others. These libraries let everyone do science faster and better because they have been written, tested, and are used by thousands if not hundreds of thousands of people. These libraries have been widely adopted because they are open-source – which makes it easier to collaborate with anyone, anywhere.
+Often, scientists write and publish code that helps others reproduce their results rather than creating software packages. But many scientists aren’t starting their code from scratch. There are large open- source software libraries that scientists use and contribute to, such as scipy, astropy, matplotlib, and others. Estas bibliotecas permiten a todo el mundo hacer ciencia más rápido y mejor porque han sido escritas, probadas y utilizadas por miles, sino cientos de miles, de personas. Estas bibliotecas han sido ampliamente adoptadas porque son de código abierto, lo que facilita la colaboración con cualquiera y en cualquier lugar.
 
-### What is Open Source Software
+### Qué es software de código abierto (Open Source Software)
 
-**Open-source software** is distributed with its source code without cost, making it available for others to use, modify, and distribute with its original rights and permissions.
+**El software de código abierto (Open-source software)** se distribuye con su código fuente sin coste alguno, poniéndolo a disposición de las personas para que lo utilicen, modifiquen y distribuyan con sus derechos y permisos originales.
 
-Often, open-source software is transparently shared in a public repository, and sometimes maintained through collaboration. Open-source software development is the basis for a vast range of research software packages.
+A menudo, el software de código abierto se comparte de forma transparente en un repositorio público y, en ocasiones, se mantiene gracias a la colaboración. A menudo, el software de código abierto se comparte de forma transparente en un repositorio público y, en ocasiones, se mantiene gracias a la colaboración.
 
-There are a variety of license choices that can be made for open software which can allow the creator to retain various levels of ownership and rights. The choice of license impacts reuse by others. But first, let’s break down the main types of software scientists use based on their purpose by showing examples of each type.
+Hay una variedad de opciones de licencia que se pueden elegir para el software abierto, las cuales pueden permitir al autor conservar diferentes niveles de propiedad y derechos. La elección de la licencia tiene un impacto en la reutilización por otros. Pero antes, vamos a desglosar los principales tipos de software que utiliza la comunidad científica en función de su propósito, mostrando ejemplos de cada tipo.
 
-### Types of Software
+### Tipos de software
 
-Scientists use and produce a wide variety of different types of software during projects. While many researchers might just use equations in a spreadsheet, others may use open source libraries for advanced machine learning model development and plotting results, while others may contribute to open-source libraries in their field and grow their reputation and impact that way. Here are some examples of different types of software that you might encounter.
+Las personas que investigan utilizan y producen una gran variedad de programas informáticos durante sus proyectos. Si bien muchas personas que investigan pueden simplemente usar ecuaciones en una hoja de cálculo, otros pueden utilizar bibliotecas de código abierto para el desarrollo avanzado de modelos de aprendizaje automático y para graficar resultados, mientras que otros pueden contribuir a bibliotecas de código abierto en su campo y aumentar así su reputación e impacto. Aquí tienes algunos ejemplos de diferentes tipos de software que podrías encontrar:
 
-**General Purpose Software** – General purpose software is produced for wide use and not specialized scientific purposes. This includes both commercial software and open-source software. Many widely used productivity software packages are open- source success stories:
+**Software de propósito general** - El software de propósito general se produce para un uso amplio y no para fines científicos especializados. Esto incluye software comercial y software de código abierto. Muchos de los programas de productividad más utilizados son éxitos del código abierto:
 
-- Linux kernel, GNU userspace, and various Linux and UNIX distributions
-- PostgreSQL – open source enterprise-grade database
+- Núcleo Linux (Linux kernel), espacio de usuario GNU, y varias distribuciones Linux y UNIX
+- PostgreSQL: base de datos de nivel empresarial empresarial con código abierto
 - WordPress and Apache web hosting tools
 - Firefox and Chrome
   - Chrome's engine is Chromium which is forked from WebKit which was forked KHTML. This was possible because it had a license that allowed for this type of reuse. All major browsers today except Firefox can be traced back to KHTML.
