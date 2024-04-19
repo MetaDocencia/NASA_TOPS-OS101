@@ -253,18 +253,18 @@ Los riesgos son relativamente bajos para pequeños fragmentos de código que son
 Se considera que el software abierto tiene más riesgos para la seguridad. Esto generalmente es un problema menor para el código fuente abierto que los ejecutables porque el código puede ser auditado en búsquedas de vulnerabilidades de seguridad por la comunidad. ¿Cómo se puede evaluar la seguridad en este caso?
 
 - Consult with your institutional open software policies and IT staff
-- Use authoritative reputable sources to minimize security risks
-- Set strict security rules and standards when using a dependency
-- Use security tools to check for vulnerabilities (e.g., [Open Worldwide Application Security</u> Project®](https://owasp.org/))
-- Avoid unsupported open-source software. Switch to actively developed components or develop it yourself
-- Check with your latest institutional policies on using Machine Learning and Artificial Intelligence tools
-- Use caution when using external tools with secure or closed access data. It may be possible for the external tool to publicly share what should be restricted information
+- Utilice fuentes confiables para minimizar los riesgos de seguridad
+- Establezca reglas y estándares de seguridad estrictos al usar una dependencia
+- Utilice herramientas de seguridad para comprobar si hay vulnerabilidades (por ejemplo, [Open Worldwide Application Security</u> Project®️](https://owasp.org/))
+- Evite el software de código abierto sin soporte. Cambie a componentes desarrollados activamente o desarrolle sus propios
+- Comprueba tus políticas institucionales más recientes sobre el uso de las herramientas de aprendizaje automático e inteligencia artificial
+- Tenga cuidado cuando utilice herramientas externas con datos de acceso seguro o cerrado. Puede ser posible que la herramienta externa comparta públicamente lo que debería ser información restringida
 
-### Licenses
+### Licencias
 
-So, you want to reuse some open code you discovered. It is essential to check the legal restrictions and requirements imposed on users, which are generally provided in the license.
+Así que, quiere reutilizar algún código abierto que haya descubierto. Es esencial comprobar las restricciones legales y los requisitos impuestos a los usuarios, que generalmente se proporcionan en la licencia.
 
-Although licensing is a nuanced subject that you will learn more about in Lesson 3, it is useful to be aware that there are generally two classes of license: permissive and non-permissive. Permissive licenses, most commonly Apache 2.0, MIT, or BSD, will generally allow you to use the code for your scientific research with little restriction, whereas non-permissive licenses such as copy-left licenses, impose substantial restrictions on how you use the code and require more careful consideration.
+Aunque la licencia es un tema con matices sobre el que aprenderás más en la lección 3, es útil saber que generalmente hay dos clases de licencia: permisiva y no permisiva. Permissive licenses, most commonly Apache 2.0, MIT, or BSD, will generally allow you to use the code for your scientific research with little restriction, whereas non-permissive licenses such as copy-left licenses, impose substantial restrictions on how you use the code and require more careful consideration.
 
 ## Reusing Open Code
 
