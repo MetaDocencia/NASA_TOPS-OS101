@@ -6,14 +6,14 @@
 - [Objetivos de Aprendizaje](#objetivos-de-aprendizaje)
 - [Cuándo y si compartir datos](#cuando-y-si-compartir-datos)
 - [Dónde compartir datos](#dónde-compartir-datos)
-- [How to Enable Reuse of Data](#how-to-enable-reuse-of-data)
-- [Who is Responsible for Sharing Data](#who-is-responsible-for-sharing-data)
-- [Lesson 4: Summary](#lesson-4-summary)
-- [Lesson 4: Knowledge Check](#lesson-4-knowledge-check)
+- [Cómo Habilitar la Reutilización de Datos](#como-habilitar-la-reutilizacion-de-datos)
+- [Quién es Responsable de Compartir los Datos](#quien-es-responsable-de-compartir-los-datos)
+- [Lección 4: Resumen](#leccion-4-resumen)
+- [Lección 4: Revisión De Conocimientos](#leccion-4-revision-de-conocimientos)
 
-## Overview
+## Resumen
 
-In this lesson, you learn about the practice of sharing your data. The discussion starts with a review of the sharing process and how to evaluate if your data are sharable. Next, you take a look at ensuring your data is accessible with a closer look at repositories and the lifecycle of data accessibility from the selecting a repository to maintaining and archiving your data. The lesson then discusses some steps to make the data as reusable as possible, and concludes with a section about considering who will help with the data sharing process.
+En esta lección aprenderás sobre la práctica de compartir tus datos. The discussion starts with a review of the sharing process and how to evaluate if your data are sharable. Next, you take a look at ensuring your data is accessible with a closer look at repositories and the lifecycle of data accessibility from the selecting a repository to maintaining and archiving your data. The lesson then discusses some steps to make the data as reusable as possible, and concludes with a section about considering who will help with the data sharing process.
 
 ## Learning Objectives
 
