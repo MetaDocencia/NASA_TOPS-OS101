@@ -205,7 +205,7 @@ _Select each tab to find out more information._
             <ul>
                 <li>Astronomía: <a href="https://archive.stsci.edu/">Datos del telescopio Hubble</a></li>
                 <li>Biología del espacio: <a href="https://genelab.nasa.gov/">NASA GeneLab: Ciencia abierta para la vida en el espacio</a></li>
-                <li><a href="https://heliophysicsdata.gsfc.nasa.gov/websearch/dispatcher">Space Physics: Heliophysics Data Portal- Solar Space Physics Product Finder (nasa.gov)</a></li>
+                <li><a href="https://heliophysicsdata.gsfc.nasa.gov/websearch/dispatcher">Física espacial: Portal de Datos de Heliofísica - Buscador de productos de física solar espacial (nasa.gov)</a></li>
             </ul>
         </td>
     </tr>
@@ -215,16 +215,16 @@ _Select each tab to find out more information._
 <table>
   <thead>
     <tr>
-        <th>GENERAL REPOSITORIES</th>
-        <th>DOMAIN-SPECIFIC REPOSITORIES</th>
-        <th>INSTITUTIONAL REPOSITORIES ☑</th>
-        <th>NATIONAL REPOSITORIES</th>
+        <th>REPOSITORIOS GENERALES</th>
+        <th>REPOSITORIOS DE DOMINIO ESPECÍFICO</th>
+        <th>REPOSITORIOS INSTITUCIONALES ☑</th>
+        <th>REPOSITORIOS NACIONALES</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Many universities and organizations support research data and software management with repositories, known as institutional repositories, to aid their researchers with compliance requirements.</p>
+            <p>Muchas universidades y organizaciones apoyan la gestión de datos y de software de investigación con repositorios, conocidos como repositorios institucionales, para ayudar a sus investigadores con el cumplimiento de los requisitos.</p>
         </td>
     </tr>
   </tbody>
@@ -233,10 +233,10 @@ _Select each tab to find out more information._
 <table>
   <thead>
     <tr>
-        <th>GENERAL REPOSITORIES</th>
-        <th>DOMAIN-SPECIFIC REPOSITORIES</th>
-        <th>INSTITUTIONAL REPOSITORIES</th>
-        <th>NATIONAL REPOSITORIES ☑</th>
+        <th>REPOSITORIOS GENERALES</th>
+        <th>REPOSITORIOS DE DOMINIO ESPECÍFICO</th>
+        <th>REPOSITORIOS INSTITUCIONALES</th>
+        <th>REPOSITORIOS INSTITUCIONALES ☑</th>
     </tr>
   </thead>
   <tbody>
