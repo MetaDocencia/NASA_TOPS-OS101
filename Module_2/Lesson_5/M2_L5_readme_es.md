@@ -29,7 +29,7 @@ Las herramientas de ciencia abierta pueden ser utilizadas para escribir, como he
 
 Al compartir preimpresiones, las personas que investigan pueden recibir retroalimentación de la comunidad de investigación global, perfeccionar su trabajo y comunicar rápidamente sus hallazgos. Esto acelera el ritmo del descubrimiento científico y garantiza que la investigación valiosa sea accesible a un público más amplio, lo que se ajusta a los principios de la ciencia abierta.
 
-Las preimpresiones han adquirido especial relevancia durante la pandemia COVID-19, donde desempeñaron un papel crucial en el rápido intercambio de información sobre el virus y sus efectos, enfatizando su importancia en el avance de la ciencia y la salud pública. Fundamentalmente, las preimpresiones son importantes para la ciencia abierta. Considera los siguientes aspectos destacados:
+Las preimpresiones han adquirido especial relevancia durante la pandemia de COVID-19, donde desempeñaron un papel crucial en el rápido intercambio de información sobre el virus y sus efectos, enfatizando su importancia en el avance de la ciencia y la salud pública. Fundamentalmente, las preimpresiones son importantes para la ciencia abierta. Considera los siguientes aspectos destacados:
 
 1. **Difusión rápida:** Las preimpresiones permiten a las personas que investigan compartir rápidamente sus hallazgos con la comunidad científica y el público, a veces a los pocos días de completar su investigación. Esta difusión rápida es especialmente beneficiosa cuando se trata de temas urgentes o que evolucionan con rapidez.
 
@@ -43,13 +43,13 @@ Las preimpresiones han adquirido especial relevancia durante la pandemia COVID-1
 
 6. **No se trata de un reemplazo de la revisión por pares:** Aunque las preimpresiones son herramientas valiosas para compartir temprano y colaborar, no son un sustituto de una publicación formal revisada por pares. Las personas que investigan y leen deben examinar las preimpresiones sabiendo que no han sido sometidas al riguroso proceso de revisión por pares que ofrecen las revistas.
 
-Las preimpresiones son típicamente alojadas en servidores de preimpresiones, dedicados a diferentes campos científicos. Los ejemplos incluyen: [arXiv](https://arxiv.org/) (física, matemática), [bioRxiv](https://www.biorxiv.org/) (biología), [medRxiv](https://www.medrxiv.org/) (medicina), y [muchos otros](https://en.wikipedia.org/wiki/List_of_preprint_repositories). Estas plataformas ayudan a organizar y facilitar el intercambio de preimpesiones. El Marco de Ciencia Abierta [OSF proporciona un servicio](https://osf.io/preprints/#!) para buscar en múltiples servidores de preimpresión.
+Las preimpresiones son típicamente alojadas en servidores de preimpresiones, dedicados a diferentes campos científicos. Los ejemplos incluyen: [arXiv](https://arxiv.org/) (física, matemática), [bioRxiv](https://www.biorxiv.org/) (biología), [medRxiv](https://www.medrxiv.org/) (medicina), y [muchos otros](https://en.wikipedia.org/wiki/List_of_preprint_repositories). Estas plataformas ayudan a organizar y facilitar el intercambio de preimpesiones. El Marco de Ciencia Abierta (MCA) (en inglés, _Open Science Framework_, [OSF) proporciona un servicio](https://osf.io/preprints/#!) para buscar en múltiples servidores de preimpresión.
 
 Recuerda que las preimpresiones desempeñan un papel importante en la ciencia abierta, al promover un intercambio rápido y transparente de los resultados de la investigación en diversos ámbitos científicos. Ofrecen una valiosa plataforma para que las personas que investigan difundan su trabajo y recopilen retroalimentación, lo que en última instancia hace avanzar el conocimiento científico.
 
 ### Descubre un Diario de Acceso Abierto para compartir tus resultados
 
-Una forma habitual de compartir un artículo es elegir una revista que ya sea totalmente de acceso abierto y adoptar su licencia. Una forma de descubrir revistas abiertas es utilizando el Directorio de Revistas de Acceso Abierto (DOAJ).
+Una forma habitual de compartir un artículo es elegir una revista que ya sea totalmente de acceso abierto y adoptar su licencia. Una forma de descubrir revistas abiertas es utilizando el Directorio de Revistas de Acceso Abierto (en inglés, _Directory of Open Access Journals, DOAJ_).
 
 Para identificar la mejor revista de acceso abierto, puedes usar el [Directorio de Revistas de Acceso Abierto](https://doaj. rg/) (DOAJ) que proporciona un índice de búsqueda de todos los artículos y revistas de acceso abierto conocidas. El DOAJ y su página web sinérgica, Sherpa Romeo, sirven como herramientas útiles en las primeras etapas de la planificación de la investigación para ayudar a una persona que investiga a determinar qué revistas hay que tener en cuenta cuando llegue el momento de publicar sus resultados.
 
@@ -86,15 +86,15 @@ Herramientas para apoyar la reproducibilidad en los resultados de investigación
 - [Jupyter Books](https://jupyterbook.org/en/stable/intro.html) - Construye libros y documentos atractivos, y de calidad editorial, a partir de contenido computacional.
 - [R Markdown](https://rmarkdown.rstudio.com/) - Produce documentos totalmente reproducibles. Utiliza una interfaz de cuaderno productiva para entrelazar texto narrativo y código, y producir resultados con un formato elegante.
 - [Binder](https://mybinder.org/) - Crea entornos de computación personalizados que pueden ser compartidos y utilizados por muchas personas de manera remota.
-- [Quarto](https://quarto.org/) - Combine Jupyter notebooks with flexible options to produce production quality output in a wide variety of formats.
+- [Quarto](https://quarto.org/) - Combina los cuadernos Jupyter con opciones flexibles para producir resultados de calidad en una amplia variedad de formatos.
 
-**Note:** As you might have noticed, a lot of open science tools require intermediate to advanced skills in data and information literacy and coding, especially if handling coding-intensive research projects. One of the best ways to learn these skills is through engaging with the respective communities, which often provide training and mentoring.
+**Note:** Como habrás observado, muchas herramientas de ciencia abierta requieren conocimientos intermedios o avanzados en materia de datos e información y programación, especialmente si se trata de proyectos de investigación que requieren una programación intensiva. Una de las mejores maneras de aprender estas habilidades es a través del contacto con las comunidades respectivas, que a menudo proporcionan capacitación y tutoría.
 
-## Additional Tools for Open Results
+## Herramientas Adicionales para Resultados Abiertos
 
-### Tools for Open Project Management
+### Herramientas para la Gestión de Proyectos Abiertos
 
-Advancements over the past few decades to tools that manage research projects and laboratories have helped to meet the ever-increasing demand for speed, innovation, and transparency in science. Such tools are developed to support collaboration, ensure data integrity, automate processes, create workflows and increase productivity.
+Los avances de las últimas décadas en herramientas de gestión de proyectos de investigación y laboratorios han contribuido a satisfacer la creciente demanda de rapidez, innovación y transparencia en la ciencia. Tales herramientas se desarrollan para apoyar la colaboración, asegurar la integración de datos, automatizar procesos, crear flujos de trabajo y aumentar la productividad.
 
 Research groups can now use project management tools for highly specialized efforts. They use existing platforms or develop their own software to share materials within the group and manage projects or tasks.
 
