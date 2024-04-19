@@ -227,50 +227,50 @@ Además de los recursos mencionados en otras partes de esta capacitación, los s
 
 ### Una Revista con Miles de Historias de Éxito de Sofware de Investigación de Código Abierto
 
-[The Journal of Open Source Software](https://joss.theoj.org/) ofrece un espacio para mejorar la calidad y reducir el esfuerzo al publicar software de investigación de código abierto:
+[The Journal of Open Source Software (JOOS)](https://joss.theoj.org/) ofrece un espacio para mejorar la calidad y reducir el esfuerzo al publicar software de investigación de código abierto:
 
 - Es una "revista" de código abierto revisada por pares que cubre softwares de investigación de código abierto publicado a través de GitHub.
-- The emphasis is on the software.
-- Published thousands of open source research software projects, several of which are highly cited. JOSS is one of several journals. Click [here](https://www.software.ac.uk/which-journals-should-i-publish-my-software) for a list of many more journals that publish software.
+- Tiene su énfasis puesto en el software.
+- Ha publicado una gran cantidad de proyectos de software de investigación de código abierto, varios de ellos muy citados. JOSS es una de varias revistas. Haz clic en [aquí](https://www.software.ac.uk/which-journals-should-i-publish-my-software) para ver una lista de muchas más revistas que publican software.
 
-## Lesson 5: Summary
+## Lección 5: Resumen
 
-In this lesson, you learned:
+En esta lección has aprendido:
 
 - When a SMP should be written and that your funding organization or institution may have rules around how you develop and share your code.
-- That joining software communities can be a great way to exchange knowledge and learn new skills around open code.
-- That there are many ways to contribute to open code, and that not all of them require writing code."
+- Que unirse a comunidades de software puede ser una forma excelente de intercambiar conocimientos y aprender nuevas habilidades en torno al código abierto.
+- Que hay muchas maneras de contribuir al código abierto, y que no todas requieren escribir código.
 
-## Lesson 5: Knowledge Check
+## Lección 5: Evaluación
 
-Answer the following questions to test what you have learned so far.
+Responde las siguientes preguntas para poner a prueba lo que has aprendido hasta ahora.
 
-_Question_
+_Pregunta_
 
 **01/02**
 
-Read the statement and decide whether it's true or false:
+Lee la siguiente afirmación e indica si es Verdadera o Falsa:
 
-_Community engagement with open software is non-hierarchical; all members of the community should be treated the same._
+_El compromiso de la comunidad con el software libre no es jerárquico; todos los miembros de la comunidad deben ser tratados de la misma manera._
 
-- True
-- False
+- Verdadero
+- Falso
 
-_Question_
+_Pregunta_
 
 **02/02**
 
-Select the beneficial way(s) to contribute to open sources software.
+Seleccione la o las maneras beneficiosas de contribuir al software de código abierto.
 
-- Add new features
-- Fix bugs
-- Document your work
-- Refactoring
-- All of the above
+- Añadir nuevas características
+- Corregir errores
+- Documentar el trabajo
+- Refactorización
+- Todas las anteriores
 
-## Open Code Summary
+## Resumen acerca de Datos Abiertos
 
-Congratulations! Now you should be able to:
+¡Felicitaciones! Ahora, deberías ser capaz de:
 
 - Explain what open source software means, including the software development cycle, the benefits of open software, and some common limitations and how they are addressed.
 - Discover open source software and assess it for reuse by evaluating provided documentation, including README files and licensing details; cite the software when appropriate.
