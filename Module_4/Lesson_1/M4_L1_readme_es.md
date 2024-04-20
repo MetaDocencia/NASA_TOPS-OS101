@@ -118,28 +118,30 @@ Las personas que investigan utilizan y producen una gran variedad de programas i
 - Sistema operativo Android, entre otros
   - Puedes mirar el código fuente de Android, pero no puedes modificarlo e instalarlo en un dispositivo. Y, aunque pudieras, no podrías utilizar ninguno de los servicios estándar (por ejemplo, Google Store) con él. Así que es "abierto" en el mismo sentido que los números de la lotería de anoche son "abiertos".
 
-**Operational Software** – Operational software is used by data centers and large information technology facilities to provide data services. For example:
+**Software Operativo**- El software operativo es utilizado por centros de datos y grandes instalaciones de tecnología de la información para proporcionar servicios de datos. Por ejemplo:
 
-- [Fprime](https://nasa.github.io/fprime/) – Space mission flight software
+- [Fprime](https://nasa.github.io/fprime/) – Software de vuelo para misiones espaciales
 
-**Infrastructure Software** – Infrastructure software is used by data centers and large information technology facilities to provide data services. Examples include:
+**Software de infraestructura** - Los centros de datos y las grandes instalaciones de tecnología de la información utilizan software de infraestructura para proporcionar servicios de datos. Los ejemplos incluyen:
 
 - [Fprime](https://nasa.github.io/fprime/) – Software de vuelo para misiones espaciales
 - [PODAAC](https://github.com/podaac) – Software de archivo y procesamiento distribuido
 - [UFS](https://github.com/ufs-community) – Software de modelos operativos de pronóstico del tiempo
-- Metadata Compliance Checker, APIs, Web apps, [Giovanni](https://www.earthdata.nasa.gov/technology/giovanni), [McIDAS](https://en.wikipedia.org/wiki/McIDAS)
+- Verificador de Cumplimiento de Metadatos (Metadata Compliance Checker), APIs, Aplicaciones web, [Giovanni](https://www.earthdata.nasa.gov/technology/giovanni), [McIDAS](https://en.wikipedia.org/wiki/McIDAS)
 
-**Libraries** – Libraries are generic tools for implementing well-known algorithms, providing statistical analysis, or visualization which are incorporated in other software categories. Examples include:
+**Bibliotecas** - Las bibliotecas son herramientas genéricas para implementar algoritmos conocidos, proporcionar análisis estadísticos o visualización de datos que se incorporan a otras categorías de software.
+Los ejemplos incluyen:
 
-- [NumPy](https://github.com/numpy) – Scientific computing with python
-- [scikit-image](https://github.com/scikit-image/) – Image processing algorithms in python
-- [deal.II](https://github.com/dealii/dealii) – Library of algorithms to solve partial differential equations with finite elements
+- [NumPy](https://github.com/numpy) – Informática científica con python
+- [scikit-image](https://github.com/scikit-image/) - Algoritmos de procesamiento de imágenes en python
+- [deal.II](https://github.com/dealii/dealii) - Biblioteca de algoritmos para resolver ecuaciones diferenciales parciales con elementos finitos
 
-**Modeling and Simulation Software** – Modeling and Simulation Software either implements solutions to mathematical equations given input data and boundary conditions, or infers models from data. They often use libraries.
-Examples include: first-principles models, data-assimilation tools, empirical models, machine learning, mission planning and engineering tools, among others.
+**Software de modelización y simulación** - El software de modelización y simulación implementa soluciones a ecuaciones matemáticas a partir de datos de entrada y condiciones límite, o infiere modelos a partir de datos.
+A menudo usan bibliotecas.
+Algunos ejemplos incluyen: modelos de primeros principios, herramientas de asimilación de datos, modelos empíricos, aprendizaje de máquinas, planificación de misiones y herramientas de ingeniería, entre otros.
 
-- [OpenFOAM](https://github.com/OpenFOAM) – Computational fluid dynamics software
-- [MOM6](https://github.com/mom-ocean/MOM6) – General ocean circulation model
+- [OpenFOAM](https://github.com/OpenFOAM) – Software de dinámica de fluidos computacional
+- [MOM6](https://github.com/)[video] -ocean/MOM6) – Modelo de circulación oceánica general
 - [ASPECT](https://github.com/geodynamics/aspect) – Planetary convection software
 - Atmospheric radiative transfer, stellar evolution, upper ocean turbulence, solar wind predictions, orbit
   propagation (e.g., OpenGGCM, MESA)
