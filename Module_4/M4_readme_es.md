@@ -24,15 +24,15 @@ Selecciona el término para ver la descripción.
 
 **Software** – Este término general se utiliza para programas de computadora y aplicaciones que proporcionan a los usuarios un cierto grado de utilidad o producen un resultado o servicio. El software se puede distribuir en forma ejecutable, como código fuente o como un servicio a través de Internet.
 
-**Software License** – A document that states the rights of the developer and user of a piece of software.
+**Licencia de Software** – Un documento que establece los derechos del desarrollador y del usuario con respecto a un software.
 
-**Open-Source License** – A software license, approved by the Open Source Initiative (OSI) as compliant with the Open Source Definition, granting permissions for anyone to inspect, use, modify, and distribute the software’s source code for any purpose. Similar standards may be promulgated by other organizations.
+**Licencia de código abierto** – Licencia de software, aprobada por la Iniciativa de Código Abierto (OSI) como compatible con la Definición de Código Abierto, otorgando permisos a cualquiera para inspeccionar, usar, modificar y distribuir el código fuente del software para cualquier propósito. Los estándares similares pueden ser promulgados por otras organizaciones.
 
-**Open-Source Software** – Software whose source code is under an open source license, by which the copyright holder grants to anyone the rights to inspect, modify, and distribute the source. Synonymous with open code.
+**Software de código abierto** – Software cuyo código fuente está bajo una licencia de código abierto, por el cual el titular de los derechos de autor concede a cualquier persona el derecho de inspeccionar, modificar y distribuir el código fuente. Sinónimo de código abierto.
 
-**Closed-Source Software** – Proprietary software with source code that is not publicly available. Only the original authors, not the users, have rights to copy, modify, update, and edit the source code. Users don’t have access to code.
+**Software de código cerrado** – Software propietario con código fuente que no está disponible públicamente. Sólo los autores originales, no los usuarios, tienen derechos para copiar, modificar, actualizar y editar el código fuente. Los usuarios no tienen acceso al código.
 
-**Derivative Work** – A creative work that is derived from or based upon a preexisting creative work and in which the preexisting work is translated, altered, arranged, or transformed in a manner that requires permission from the copyright owner of the original work or are from works in the public domain.
+Obra Derivada: Una obra creativa que se deriva o se basa en una obra preexistente que es traducida, alterada, organizada o transformada de una manera que requiere permiso del titular de los derechos de autor de la obra original o proviene de obras de dominio público.
 
 **Version Control** – A system to automatically manage changing versions of a computer file, especially one that contains source code. In software development, version control preserves a complete history of changes to the source code and enables a developer to roll back to an earlier version if needed.
 
@@ -86,12 +86,12 @@ Definitions credit: National Academies of Sciences, Engineering, and Medicine. 2
 - [Overview](./Lesson_4#overview)
 - [Learning Objectives](./Lesson_4#learning-objectives)
 - [Planning to Share Your Code](./Lesson_4#planning-to-share-your-code)
-- [Legal and Security Concerns](./Lesson_4#legal-and-security-concerns)
-- [When: The Schedule for Code Archiving and Sharing](./Lesson_4#when-the-schedule-for-code-archiving-and-sharing)
-- [Where: Where To Share Open Code](./Lesson_4#where-to-share-open-code)
-- [How: How to Enable Reuse of Code](./Lesson_4#how-how-to-enable-reuse-of-code)
-- [Who: Roles and Responsibilities of the Team Members in Implementing the SMP](./Lesson_4#who-roles-and-responsibilities-of-the-team-members-in-implementing-the-smp)
-- [Lesson 4: Summary](./Lesson_4#lesson-4-summary)
+- [Preocupaciones legales y de seguridad](./Lesson_4#legal-and-security-concerns)
+- [Cuando: El Cronograma para Archivar y Compartir Código.](./Lesson_4#when-the-schedule-for-code-archiving-and-sharing)
+- [Donde: Donde Compartir Código Abierto](./Lesson_4#where-to-share-open-code)
+- [Cómo: Cómo habilitar la reutilización del código](./Lesson_4#how-to-enable-reuse-of-code)
+- [Quién: Roles y Responsibilidades de los Miembros del Equipo en la Implementación del SMP](./Lesson_4#who-roles-and-responsibilities-of-the-team-members-in-implementing-the-smp)
+- [Lección 4: Resumen](./Lesson_4#lesson-4-summary)
 - [Lesson 4: Knowledge Check](./Lesson_4#lesson-4-knowledge-check)
 
 ### [Lesson 5: From Theory to Practice](./Lesson_5)
