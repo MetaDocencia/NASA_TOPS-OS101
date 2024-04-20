@@ -61,7 +61,7 @@ Muchos científicos escriben código fuente para producir software con el que an
 
 Se debe desconfiar del perfeccionismo y animarnos a compartir nuestras creaciones con los demás. Al mantener una postura abierta, podremos aprender de los comentarios de otras personas. Sus respuestas pueden considerarse como nuevo material que podemos aprovechar la próxima vez que nos embarquemos en una tarea creativa.
 
-**Modeling and Simulation Software** – Software that either implements solutions to mathematical equations given input data and boundary conditions, or infers models from data.
+**Software de Modelación y Simulación** – Software que implementa soluciones a ecuaciones matemáticas a partir de datos de entrada y condiciones límite, o bien infiere modelos a partir de datos.
 
 **Analysis Software** – Software developed to manipulate measurements or model results to visualize or gain understanding.
 
