@@ -360,57 +360,57 @@ En algunos casos, los términos y condiciones de la licencia de uso de un softwa
 
 ### ¿Cómo citar?
 
-Ideally, use and cite code that is archived in a long-term repository with a persistent DOI. Follow the guidance about the preferred citation format, which is provided in the long- term repository and may appear in a README or a CITATION file.
+Lo ideal es utilizar y citar código que esté archivado en un repositorio con políticas de preservación a largo plazo y que se identifique con un DOI. Sigue los lineamientos de las normas de citación que el repositorio a largo plazo proporciona y que pueden aparecer en el archivo README o CITATION.
 
-DOIs provide a persistent identifier/link for research outputs. Thus, it is preferable to cite code in long-term repositories linked to a DOI. URLs (e.g., Stack Overflow) and active repositories (e.g., on GitHub) are mutable but can be used if there is no alternative.
+Los DOI proporcionan un identificador o enlace persistente para resultados de investigación. Por ello, es preferible citar los códigos que se encuentren depositados en repositorios a largo plazo vinculados a un DOI. Las URL, por ejemplo, en Stack Overflow y de los repositorios activos, por ejemplo, en GitHub, son mutables, es decir, pueden cambiar con el tiempo y dejar de estar activas, aunque pueden utilizarse si no hay alternativa.
 
-Packages may provide a way to cite individual versions as well. For reproducibility, cite both the overall package and the version that is used in your work. As functionality of a package may evolve with the release of new versions, this helps provide a specific description of your work.
+Los paquetes también pueden ofrecer una manera de citar versiones individuales. Para fines de reproducibilidad, cita tanto el paquete general como la versión que se utilizó en tu trabajo. Dado que la funcionalidad de un paquete puede evolucionar con el lanzamiento de nuevas versiones, esto puede ayudar a proporcionar el contexto específico en el que se realizó tu trabajo.
 
-If you are writing software, you can also cite in the comments and documentation of the software that you have used.
+Si estás escribiendo un código de un software, también puedes realizar citas en los comentarios y en la documentación del software del cual te has apoyado.
 
-## Lesson 2: Summary
+## Lección 2: resumen
 
-In this lesson, you learned that:
+En esta lección aprendiste que:
 
-- Open code exists in a vast, organic, and distributed ecosystem. Discovering Open Code depends on defining your requirements, knowing where to look, and developers using FAIR principles.
-- Scientific papers are now a good place to discover scientific Open Code, since many journals require the code used in the paper to be linked via a DOI.
-- Before use, it is important to assess open software for functionality, quality, interoperability, security, and license/reuse restrictions. Your first step should be to look for a README file.
-- When reusing open software, use the latest supported version and test the software to ensure it functions as expected. If problems arise, reach out to the developers or user community, ideally via a public forum.
-- It is important to cite and acknowledge open software that significantly contributes to your work, as well as share your lessons learned and any contributions with the developers and user community.
+- El código abierto existe dentro de un ecosistema vasto, orgánico y distribuido. Descubrir Código Abierto depende de definir bien tus necesidades, saber dónde buscar y que otros desarrolladores hayan utilizado los principios FAIR.
+- Los artículos científicos ahora también son un buen lugar para descubrir Código Abierto, ya que muchas revistas científicas exigen que el código utilizado en el artículo se encuentre disponible y esté vinculado mediante un DOI.
+- Antes de usarlo, es importante evaluar el software libre en términos de funcionalidad, calidad, interoperabilidad, seguridad y restricciones de licencia o reutilización. Tu primer paso debería ser buscar un archivo README.
+- Al reutilizar software libre, utiliza la versión más reciente que cuente con soporte y pruebalo para asegurarte de que funciona como esperas. Si surgen problemas, contacta a los desarrolladores o a la comunidad de usuarios, idealmente a través de un foro público.
+- Es importante citar y reconocer el software libre que contribuye significativamente a tu trabajo, así como compartir tus experiencias de uso, tanto con los desarrolladores, como con la comunidad de usuarios.
 
-## Lesson 2: Knowledge Check
+## Lección 2: comprobación de conocimientos
 
-Answer the following questions to test what you have learned so far.
+Responde las siguientes preguntas para evaluar lo que has aprendido hasta ahora.
 
-_Question_
+_Pregunta_
 
 **01/03**
 
-Discovering open software successfully depends on which of the following:
+El éxito en descubrir software libre depende de lo siguiente:
 
-Select all that apply.
+Selecciona todas opciones que apliquen.
 
-- Well defined requirements
-- Knowing where to search
-- FAIR open software exists to meet your needs
-- All of the above
+- Requisitos bien definidos
+- Saber dónde buscar
+- El software abierto que aplica principios FAIR existe para satisfacer sus necesidades
+- Todas las anteriores
 
-_Question_
+_Pregunta_
 
 **02/03**
 
-Read the statement and decide whether it's true or false:
+Lee la afirmación y decide si es verdadera o falsa:
 
-_It is best to reach out to the developers of open access software via private communication if you run into problems._
+_Es mejor contactar a los desarrolladores de software de acceso abierto por comunicación privada si encuentras problemas._
 
-- True
-- False
+- Verdadero
+- Falso
 
-_Question_
+_Pregunta_
 
 **03/03**
 
-When citing Open Code, it is best practice to cite:
+Cuando se cita Código Abierto, la mejor práctica es citar:
 
-- The primary working repository, e.g. on GitHub. It has the most recent version of the code, including any updates since your paper was written.
-- A long-term code repository linked to a DOI, e.g. on Zenodo. This repository contains a persistent version of the code that you used.
+- El repositorio principal de trabajo, por ejemplo, en GitHub. Tiene la versión más reciente del código, incluyendo cualquier actualización desde que escribiste tu artículo.
+- Un repositorio de código a largo plazo vinculado a un DOI, por ejemplo, en Zenodo. Este repositorio contiene una versión persistente, es decir, una copia específica y estable del código, la cual no cambiará con el tiempo, del código que utilizaste.
