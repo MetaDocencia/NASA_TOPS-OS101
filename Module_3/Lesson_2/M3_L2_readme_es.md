@@ -269,137 +269,137 @@ Unir el tipo de repositorio con la definición correcta.
 | ----------------------------------- | -------------------------------------------------------------------------- |
 | Repositorios generales              | Diseñados para todas las comunidades y accesibles a todos                  |
 | Repositorios específicos de dominio | Repositorios que son típicamente diseñados para temas específicos de datos |
-| Repositorios institucionales        | Repositories supported by universities and organizations                   |
-| National repositories               | Repositories funded by the government                                      |
+| Repositorios institucionales        | Repositorios gestionados por universidades y organizaciones                |
+| Repositorios nacionales             | Repositorios financiados por el gobierno                                   |
 
-## Assessing Open Data
+## Evaluando datos abiertos
 
 <img src="../images/media/image24.png" style="width:100%;height:auto;" />
 
-Using open data for your project is contingent on a number of factors including quality of data, access and reuse conditions, data findability, and more. A few essential elements that enable you to assess the relevance and usability of datasets include (adapted from the [GODAN Action Open Data course](https://aims.gitbook.io/open-data-mooc/unit-3-using-open-data/lesson-2.2-quality-and-provenance)):
+El uso de datos abiertos para su proyecto depende de una serie de factores, como la calidad de los datos, las condiciones de acceso y reutilización, la posibilidad de encontrar los datos, etc. Algunos elementos esenciales que permiten evaluar la pertinencia y utilidad de los conjuntos de datos son (adaptado del [curso GODAN Action Open Data](https://aims.gitbook.io/open-data-mooc/unit-3-using-open-data/lesson-2.2-quality-and-provenance)):
 
-**Practical Questions**
+**Preguntas prácticas**
 
-- Is the data well described?
-- Is the reason the data is collected clear? Is the publisher’s use for the data clear?
-- Are any other existing uses of the data outlined?
-- Is the data accessible?
-- Is the data timestamped or up to date?
-- Will the data be available for at least a year?
-- Will the data be updated regularly?
-- Is there a quality control process?
+- ¿Están bien descritos los datos?
+- ¿Es clara la razón por la que se recogen los datos? ¿Es claro el uso que hace el editor de los datos?
+- ¿Existen otros usos de los datos descritos?
+- ¿Son accesibles los datos?
+- ¿Los datos están actualizados o tienen fecha?
+- ¿Estarán disponibles los datos durante al menos un año?
+- ¿Se actualizarán los datos periódicamente?
+- ¿Existe un proceso de control de calidad?
 
-**Technical Questions**
+**Preguntas técnicas**
 
-- Is the data available in a format appropriate for the content?
-- Is the data available from a consistent location?
-- Is the data well-structured and machine readable?
-- Are complex terms and acronyms in the data defined?
-- Does the data use a schema or data standard?
-- Is there an API available for accessing the data?
-- What tools or software are needed to use this data?
+- ¿Están disponibles los datos en un formato adecuado al contenido?
+- ¿Se dispone de los datos desde una ubicación consistente?
+- ¿Están los datos bien estructurados y son comprensibles para las máquinas?
+- ¿Están definidos los términos y acrónimos complejos de los datos?
+- ¿Utilizan los datos un esquema o estándar de datos?
+- ¿Hay alguna API disponible para acceder a los datos?
+- ¿Qué herramientas o programas informáticos se necesitan para utilizar estos datos?
 
-**Social Questions**
+**Preguntas Sociales**
 
-- Is there an existing community of users of the data?
-- Is the data already relied upon by large numbers of people?
-- Is the data officially supported?
-- Are service level agreements available for the data?
-- It is clear who maintains and can be contacted about the data?
+- ¿Existe una comunidad de usuarios de los datos?
+- ¿Se trata de datos en los que ya confía un gran número de personas?
+- ¿Están los datos respaldados oficialmente?
+- ¿Existen acuerdos de nivel de servicio para los datos?
+- ¿Está claro quién mantiene los datos y quién puede ser contactado sobre los mismos?
 
 [[cite: https://aims.gitbook.io/open-data-mooc/unit-3-using-open-data/lesson-2.2-quality-and-provenance](https://aims.gitbook.io/open-data-mooc/unit-3-using-open-data/lesson-2.2-quality-and-provenance)]
 
-Many of these questions may be answered by viewing a dataset’s documentation and metadata, as well as a data’s format and license, all of which will be discussed further in the next lesson "Making Data Open".
+Muchas de estas preguntas pueden responderse consultando la documentación y los metadatos de un conjunto de datos, así como su formato y licencia, aspectos que se tratarán con más detalle en la próxima lección "Cómo hacer que los datos sean abiertos".
 
-## Using Open Data
+## Utilizando datos abiertos
 
-### The Importance of Citation
+### La importancia de la cita
 
-Acknowledgements and citations contribute towards fostering a culture of sharing data without fear of ideas or recognition being stolen. If a researcher can trust that their work will be cited, and used to further the development of science, the idea of making data open is more appealing and mutually beneficial. Use of standard citation practices are recommended to ensure due credit is given.
+Los agradecimientos y las citas contribuyen a fomentar una cultura de intercambio de datos sin temor a que se roben ideas o reconocimientos. Si un investigador puede confiar en que su trabajo será citado y utilizado para impulsar el desarrollo de la ciencia, la idea de abrir los datos resulta más atractiva y beneficiosa para ambas partes. Se recomienda el uso de prácticas de citación estándar para garantizar el debido reconocimiento.
 
-Data citations also aid in the transparency of how data is being used. By citing data, original authors and new researchers can easily track how the data are being used to answer different questions.
+Citar los datos también contribuye a la transparencia del uso que se hace de ellos. Al citar los datos, los autores originales y los nuevos investigadores pueden seguir fácilmente cómo se utilizan los datos para responder a diferentes preguntas.
 
-### Review Citing Guidelines
+### Revisar las directrices de citas
 
-Many datasets and repositories explain how they’d prefer to be cited. The citation information often includes:
+Muchos conjuntos de datos y repositorios explican cómo prefieren que se les cite. La cita suele incluir:
 
-- Authors and their institutions
-- Title
+- Los autores y sus instituciones
+- Título
 - ORCiD
 - DOI
-- Version
+- Versión
 - URL
-- Creation date
-- Additional fields may also be specified
+- Fecha de creación
+- También se pueden especificar campos adicionales
 
 <img src="../images/media/image25.jpeg" style="width:100%;height:auto;" />
 
-This is an example of a simple CITATION.cff file. Source: [GitHub](https://github.com/)
+Este es un ejemplo de un archivo CITATION.cff sencillo. Fuente: [GitHub](https://github.com/)
 
 ---
 
-Most datasets require (at a minimum) that you list the data’s producers, name of the archive hosting the data, dataset name, dataset date, and DOI when citing data.
+La mayoría de los conjuntos de datos exigen (como mínimo) que al citarlos se indique el productor de los datos, el nombre del archivo que los alberga, el nombre del conjunto de datos, la fecha del conjunto de datos y el DOI.
 
-### Citing Open Data: Examples
+### Citar datos abiertos: Ejemplos
 
-**Example from a NASA Distributed Active Archive Center (DAAC)**
+**Ejemplo de un Centro de Archivo Activo Distribuido (DAAC) de la NASA**
 
 Matthew Rodell and Hiroko Kato Beaudoing, NASA/GSFC/HSL (08.16.2007), GLDAS CLM Land Surface Model L4 3 Hourly 1.0 x 1.0 degree Subsetted,version 001, Greenbelt, Maryland, USA:Goddard Earth Sciences Data and Information Services Center (GES DISC), Accessed on July 12th, 2018 at doi:10.5067/83NO2QDLG6M0
 
-**Example from NASA Planetary Data System (PDS)**
+**Ejemplo del Sistema de Datos Planetarios (PDS)** de la NASA
 
 Justin N. Maki. (2004). MER 1 MARS MICROSCOPIC IMAGER RADIOMETRIC
 
-RDR OPS V1.0 [Data set]. NASA Planetary Data System. [https://doi.org/10.17189/1520416](https://doi.org/10.17189/1520416)
+RDR OPS V1.0 [Conjunto de datos]. Sistema de datos planetarios de la NASA. [https://doi.org/10.17189/1520416](https://doi.org/10.17189/1520416)
 
-## Lesson 2: Summary
+## Lección 2: resumen
 
-The following are the key takeaways from this lesson:
+A continuación se exponen las conclusiones principales de esta lección:
 
-- Relevant data may be found in a variety of locations and may require some trial and error to find.
-- Carefully assess data before using it for your project.
-- Data citation is important when using data.
+- Los datos relevantes pueden encontrarse en diversos lugares y puede ser necesario recurrir al método de ensayo y error para encontrarlos.
+- Es necesario evaluar cuidadosamente los datos antes de utilizarlos.
+- Citar los datos es importante cuando son utilizados.
 
-## Lesson 2: Knowledge Check
+## Lección 2: Evaluación
 
-Answer the following questions to test what you have learned so far.
+Responde las siguientes preguntas para evaluar lo que has aprendido hasta ahora.
 
-_Question_
+_Pregunta_
 
 **01/03**
 
-Which of the following methods can be used for data discovery?
+¿Cuál de los siguientes métodos puede utilizarse para encontrar datos?
 
-- Using appropriate search terms
-- Investigating data identified by DOIs in publications
-- Identifying relevant data repositories
-- All of the above
+- Uso de términos de búsqueda apropiados
+- Investigar datos identificados por DOI en publicaciones
+- Identificar los repositorios de datos relevantes
+- Todas las anteriores
 
-_Question_
+_Pregunta_
 
 **02/03**
 
-Which of the following is/are questions to consider when assessing if a dataset can be used?
+¿Cuál de las siguientes son puntos a considerar al evaluar si se puede utilizar un conjunto de datos?
 
-- Is the data well described?
-- Is the data well-structured and machine readable?
-- Is there an existing community of users of the data?
-- What tools or software are needed to use this data?
-- Will the data be updated regularly?
-- Is the publisher's use for the data clear?
-- All of the above
+- ¿Están bien descritos los datos?
+- ¿Están los datos bien estructurados y son comprensibles para las máquinas?
+- ¿Existe una comunidad de usuarios de los datos?
+- ¿Qué herramientas o programas informáticos se necesitan para utilizar estos datos?
+- ¿Se actualizarán los datos periódicamente?
+- ¿Es claro el uso que hace el editor de los datos?
+- Todas las anteriores
 
-_Question_
+_Pregunta_
 
 **03/03**
 
-What information is commonly found in a citation file?
+¿Qué información se encuentra comúnmente en una cita?
 
-- Authors and their institutions
-- Title
+- Los autores y sus instituciones
+- Título
 - ORCiD
 - DOI
-- Version
+- Versión
 - URL
-- Creation date
-- All of the above
+- Fecha de creación
+- Todas las anteriores
