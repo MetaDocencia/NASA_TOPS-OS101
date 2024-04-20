@@ -242,9 +242,9 @@ _Select each tab to find out more information._
   <tbody>
     <tr>
         <td colspan="4">
-            <p>National repositories aggregate data and make it available to the public.</p>
-            <p>Data stored in these repositories are often produced by the government.</p>
-            <p>Examples include:</p>
+            <p>Los repositorios nacionales recopilan datos y los ponen a disposición del público.</p>
+            <p>Los datos almacenados en estos repositorios a menudo son producidos por el gobierno.</p>
+            <p>Los ejemplos incluyen:</p>
             <ul>
                 <li><a href="https://data.gov/">https://data.gov/</a></li>
                 <li><a href="https://data.europa.eu/en">https://data.europa.eu/en</a></li>
@@ -254,23 +254,23 @@ _Select each tab to find out more information._
   </tbody>
 </table>
 
-### Challenges with Data Repositories
+### Desafíos de los repositorios de datos
 
-- Any single repository, search engine or publication search will not have access to all available open data.
-- Search terms may not be consistent across sources or fields of science.
-- It is essential to become familiar with the standard nomenclatures and appropriate metadata terms for your application.
-- There is no sure-fire recipe. You may have to try numerous terms and data sources before finding relevant data.
+- Ningún repositorio único, motor de búsqueda o buscador de publicaciones tendrá acceso a todos los datos abiertos disponibles.
+- Los términos de búsqueda pueden no ser consistentes en todas las fuentes o campos de la ciencia.
+- Es esencial familiarizarse con las nomenclaturas estándar y los términos de metadatos apropiados para su aplicación.
+- No existe una receta infalible. Es posible que sea necesario probar numerosos términos y fuentes de datos antes de encontrar datos relevantes.
 
-### Activity 2.1: Discovering Open Data</strong>
+### Actividad 2.1: Descubrir los datos abiertos</strong>
 
-Match the repository type to the correct definition.
+Unir el tipo de repositorio con la definición correcta.
 
-|                              |                                                                   |
-| ---------------------------- | ----------------------------------------------------------------- |
-| General repositories         | Designed for all communities and are accessible to everyone       |
-| Domain-specific repositories | Repositories that are typically for specific data subject matters |
-| Institutional repositories   | Repositories supported by universities and organizations          |
-| National repositories        | Repositories funded by the government                             |
+|                                     |                                                                            |
+| ----------------------------------- | -------------------------------------------------------------------------- |
+| Repositorios generales              | Diseñados para todas las comunidades y accesibles a todos                  |
+| Repositorios específicos de dominio | Repositorios que son típicamente diseñados para temas específicos de datos |
+| Repositorios institucionales        | Repositories supported by universities and organizations                   |
+| National repositories               | Repositories funded by the government                                      |
 
 ## Assessing Open Data
 
