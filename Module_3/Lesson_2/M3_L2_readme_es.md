@@ -194,7 +194,7 @@ _Select each tab to find out more information._
         <th>REPOSITORIOS GENERALES</th>
         <th>REPOSITORIOS DE DOMINIO ESPECÍFICO ☑</th>
         <th>REPOSITORIOS INSTITUCIONALES</th>
-        <th>REPOSITORIOS INSTITUCIONALES</th>
+        <th>REPOSITORIOS NACIONALES</th>
     </tr>
   </thead>
   <tbody>
@@ -236,7 +236,7 @@ _Select each tab to find out more information._
         <th>REPOSITORIOS GENERALES</th>
         <th>REPOSITORIOS DE DOMINIO ESPECÍFICO</th>
         <th>REPOSITORIOS INSTITUCIONALES</th>
-        <th>REPOSITORIOS INSTITUCIONALES ☑</th>
+        <th>REPOSITORIOS NACIONALES ☑</th>
     </tr>
   </thead>
   <tbody>
@@ -258,7 +258,7 @@ _Select each tab to find out more information._
 
 - Ningún repositorio único, motor de búsqueda o buscador de publicaciones tendrá acceso a todos los datos abiertos disponibles.
 - Los términos de búsqueda pueden no ser consistentes en todas las fuentes o campos de la ciencia.
-- Es esencial familiarizarse con las nomenclaturas estándar y los términos de metadatos apropiados para su aplicación.
+- Es esencial familiarizarse con las nomenclaturas estándar y los términos de metadatos apropiados para la aplicación.
 - No existe una receta infalible. Es posible que sea necesario probar numerosos términos y fuentes de datos antes de encontrar datos relevantes.
 
 ### Actividad 2.1: Descubrir los datos abiertos</strong>
@@ -276,7 +276,7 @@ Unir el tipo de repositorio con la definición correcta.
 
 <img src="../images/media/image24.png" style="width:100%;height:auto;" />
 
-El uso de datos abiertos para su proyecto depende de una serie de factores, como la calidad de los datos, las condiciones de acceso y reutilización, la posibilidad de encontrar los datos, etc. Algunos elementos esenciales que permiten evaluar la pertinencia y utilidad de los conjuntos de datos son (adaptado del [curso GODAN Action Open Data](https://aims.gitbook.io/open-data-mooc/unit-3-using-open-data/lesson-2.2-quality-and-provenance)):
+El uso de datos abiertos para un proyecto depende de una serie de factores, como la calidad de los datos, las condiciones de acceso y reutilización, la posibilidad de encontrar los datos, etc. Algunos elementos esenciales que permiten evaluar la pertinencia y utilidad de los conjuntos de datos son (adaptado del [curso GODAN Action Open Data](https://aims.gitbook.io/open-data-mooc/unit-3-using-open-data/lesson-2.2-quality-and-provenance)):
 
 **Preguntas prácticas**
 
@@ -319,7 +319,7 @@ Los agradecimientos y las citas contribuyen a fomentar una cultura de intercambi
 
 Citar los datos también contribuye a la transparencia del uso que se hace de ellos. Al citar los datos, los autores originales y los nuevos investigadores pueden seguir fácilmente cómo se utilizan los datos para responder a diferentes preguntas.
 
-### Revisar las directrices de citas
+### Revisar las pautas para citar
 
 Muchos conjuntos de datos y repositorios explican cómo prefieren que se les cite. La cita suele incluir:
 
@@ -346,13 +346,13 @@ La mayoría de los conjuntos de datos exigen (como mínimo) que al citarlos se i
 
 Matthew Rodell and Hiroko Kato Beaudoing, NASA/GSFC/HSL (08.16.2007), GLDAS CLM Land Surface Model L4 3 Hourly 1.0 x 1.0 degree Subsetted,version 001, Greenbelt, Maryland, USA:Goddard Earth Sciences Data and Information Services Center (GES DISC), Accessed on July 12th, 2018 at doi:10.5067/83NO2QDLG6M0
 
-**Ejemplo del Sistema de Datos Planetarios (PDS)** de la NASA
+**Ejemplo del Sistema de Datos Planetarios (SDP)** de la NASA
 
 Justin N. Maki. (2004). MER 1 MARS MICROSCOPIC IMAGER RADIOMETRIC
 
 RDR OPS V1.0 [Conjunto de datos]. Sistema de datos planetarios de la NASA. [https://doi.org/10.17189/1520416](https://doi.org/10.17189/1520416)
 
-## Lección 2: resumen
+## Lección 2: Resumen
 
 A continuación se exponen las conclusiones principales de esta lección:
 
