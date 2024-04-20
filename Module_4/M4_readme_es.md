@@ -22,7 +22,7 @@ Selecciona el término para ver la descripción.
 
 **Código fuente** – Conjunto de sentencias legible por humanos escrito en un lenguaje de programación que juntos componen software. Los programadores escriben software en código fuente, a menudo guardados como un archivo de texto en un ordenador. Los términos código y código fuente se utilizan a menudo de forma intercambiable.
 
-**Software** – This general term is used for computer programs and applications that provide users some degree of utility or produce a result or service. Software can be distributed in executable form, as source code, or as a service via the internet.
+**Software** – Este término general se utiliza para programas de computadora y aplicaciones que proporcionan a los usuarios un cierto grado de utilidad o producen un resultado o servicio. El software se puede distribuir en forma ejecutable, como código fuente o como un servicio a través de Internet.
 
 **Software License** – A document that states the rights of the developer and user of a piece of software.
 
