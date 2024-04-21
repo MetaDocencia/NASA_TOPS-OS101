@@ -156,17 +156,17 @@ SPD-41a requires metadata fields that validate the scientific conclusions of pub
 
 Al crear sus datos, además de añadir metadatos, es una buena práctica crear un documento al que los usuarios puedan hacer referencia. El documento puede hacerse como un archivo README, una guía de usuario o incluso de inicio rápido (o bien los tres).
 
-README and other documentation files can include information such as:
+README y otros archivos de documentación pueden incluir información como:
 
-- Contact information
-- Information about variables
-- Information about uncertainty
-- Data collection methods
-- Versioning and license references
-- Information about the structure and file naming of the data
-- References to publications that describe the dataset and/or it's processing
+- Datos de contacto
+- Información acerca de las variables
+- Información sobre la incertidumbre
+- Métodos de recogida de datos
+- Referencias de versión y licencia
+- Información sobre la estructura y el nombre de archivo de los datos
+- Referencias a publicaciones que describen el conjunto de datos y/o su procesamiento
 
-The intent is to help users quickly understand how they might use the data and to answer any commonly asked questions about your data. You can read more information and view a README template along with an example (particularly relevant for the medical sciences) at [this Harvard Medical School website.](https://datamanagement.hms.harvard.edu/collect-analyze/documentation-metadata/readme-files)
+La intención es ayudar a los usuarios a entender rápidamente cómo pueden usar los datos y responder a preguntas comunes que se hagan sobre tus datos. Puede leer más información y ver una plantilla de README junto con un ejemplo (particularmente relevante para las ciencias médicas) en [this Harvard Medical School website.] (este sitio web de la Escuela Médica de Harvard.) (https://datamanagement.hms.harvard.edu/collect-analyze/documentation-metadata/readme-files)
 
 ### Data Versioning Guidelines
 
