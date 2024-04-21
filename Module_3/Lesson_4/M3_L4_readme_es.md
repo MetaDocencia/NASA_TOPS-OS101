@@ -175,8 +175,8 @@ Adicionalmente, los repositorios pueden requerir autorización y autentificació
   <tbody>
     <tr>
         <td colspan="3">
-            <p>Los requisitos del repositorio pueden variar ampliamente. Revisa siempre los requisitos del repositorio para ver qué acciones necesitas llevar a cabo una vez cuando consideres empezar a trabajar con ellos. También tenga en cuenta que algunos repositorios cuentan con personal que ayudará con el proceso de compartir datos, mientras que otros dependen de que el usuario sepa cómo compartir sus propios datos.</p>
-            <p>If you use a repository that has staff to help you with the process, they may want to review and comment on your data management plan.</p>
+            <p>Los requisitos del repositorio pueden variar ampliamente. Revisa siempre los requisitos del repositorio para ver qué acciones necesitas llevar a cabo una vez cuando consideres empezar a trabajar con ellos. También ten en cuenta que algunos repositorios cuentan con personal que ayuda con el proceso de compartir datos, mientras que otros dependen de que sepas cómo compartir tus propios datos.</p>
+            <p>Si utilizas un repositorio que tiene personal para ayudarte con el proceso, podrían solicitar revisar y comentar tu plan de gestión de datos.</p>
             <p>The repository may request that you produce some test of sample data in order to assess:</p>
             <ul>
             <li>That the data format you intend to use is supported.</li>
