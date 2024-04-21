@@ -61,17 +61,17 @@ Muchos científicos escriben código fuente para producir software con el que an
 
 Se debe desconfiar del perfeccionismo y animarnos a compartir nuestras creaciones con los demás. Al mantener una postura abierta, podremos aprender de los comentarios de otras personas. Sus respuestas pueden considerarse como nuevo material que podemos aprovechar la próxima vez que nos embarquemos en una tarea creativa.
 
-**Software de Modelación y Simulación** – Software que implementa soluciones a ecuaciones matemáticas a partir de datos de entrada y condiciones límite, o bien infiere modelos a partir de datos.
+**Software de modelación y simulación** – Software que implementa soluciones a ecuaciones matemáticas a partir de datos de entrada y condiciones límite, o bien infiere modelos a partir de datos.
 
-**Analysis Software** – Software developed to manipulate measurements or model results to visualize or gain understanding.
+**Software de análisis** – Software desarrollado para manipular mediciones o resultados de modelos, para visualizarlos o comprenderlos.
 
-**Single-use Software** – Software written for use in unique instances, such as making a plot for a paper, or manipulating data in a specific way.
+**Software de un solo uso** - Software escrito para usarse en casos únicos, como por ejemplo hacer un gráfico para un artículo o manipular datos de una manera específica.
 
-Some of the tools that you can use to develop software are introduced in Lesson 4. Understanding how to find and use others' code, create your own, and share it are an important part of advancing science and covered in the module on Open Code.
+Algunas de las herramientas que se pueden utilizar para desarrollar software se presentan en la Lección 4. Comprender cómo encontrar y utilizar el código de otros, crear el propio y compartirlo, son partes importantes del avance de la ciencia y se tratan en el módulo sobre Código Abierto.
 
-### What are Results?
+### ¿Qué son los Resultados?
 
-Results capture the different research outputs of the scientific process. Publications are the most common type of results, but this can include a number of other types of products. Both data and software can be considered a type of result, but when we discuss results, we will focus on other types of results. Results can include the following:
+Los resultados capturan los distintos productos de investigación del proceso científico. Las publicaciones son el tipo más común de resultados, pero se pueden incluir otros tipos de productos. Both data and software can be considered a type of result, but when we discuss results, we will focus on other types of results. Results can include the following:
 
 - Peer-reviewed publications
 - Computational notebooks
