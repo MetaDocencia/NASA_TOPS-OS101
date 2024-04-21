@@ -27,7 +27,7 @@ Después de completar esta lección, deberías ser capaz de:
 
 Compartir datos es una parte crítica de mejorar la reproducibilidad de los resultados. Tanto si se trata de datos nuevos que recolectamos por nuestra parte como datos que procesamos para hacer nuestro análisis, terminamos compartiendo algún tipo de dato. Tenemos que pensar qué datos vamos a compartir y cuál es la mejor manera de asegurar que será de forma abierta y utilizable por otras personas.
 
-Data sharing should typically be done through a long-term data center or repository which will be responsible for ingesting, curating, and distributing/publishing your open data. You are responsible for providing information/metadata to help make your data be readily discoverable, accessible, and citable. The cost of archiving and publishing data should also be considered.
+Normalmente, el intercambio de datos debe hacerse a través de un centro de datos estable o un repositorio que será responsable de ingestar, curar y distribuir/publicar tus datos abiertos. You are responsible for providing information/metadata to help make your data be readily discoverable, accessible, and citable. The cost of archiving and publishing data should also be considered.
 
 ### So You Want to Share Your Data
 
