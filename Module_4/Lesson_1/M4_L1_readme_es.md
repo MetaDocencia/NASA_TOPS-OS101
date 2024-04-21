@@ -142,15 +142,16 @@ Algunos ejemplos incluyen: modelos de primeros principios, herramientas de asimi
 
 - [OpenFOAM](https://github.com/OpenFOAM) – Software de dinámica de fluidos computacional
 - [MOM6](https://github.com/)[video] -ocean/MOM6) – Modelo de circulación oceánica general
-- [ASPECT](https://github.com/geodynamics/aspect) – Planetary convection software
-- Atmospheric radiative transfer, stellar evolution, upper ocean turbulence, solar wind predictions, orbit
-  propagation (e.g., OpenGGCM, MESA)
+- [ASPECT](https://github.com/geodynamics/aspect) – Software de convección planetaria
+- Transferencia radiativa atmosférica, evolución estelar, turbulencia oceánica superior, predicciones del viento solar, propagación orbital (por ejemplo, OpenGGCM, MESA)
 
-**Analysis Software** - Analysis software is developed to manipulate measurements or model results to visualize or gain understanding. This software often evolves from single-use utility software and may incorporate libraries.
+**Software de análisis** - El software de análisis se desarrolla para manipular mediciones o resultados de modelos con el fin de visualizarlos o comprenderlos mejor.
+Este software suele evolucionar a partir del software utilitario de un solo uso y puede incorporar bibliotecas.
 
-- [Photutils](https://photutils.readthedocs.io/en/stable/index.html) – tools for detecting and performing photometry of astronomical sources
+- [Photutils](https://photutils.readthedocs.io/en/stable/index.html) – herramientas para detectar y realizar fotometría de fuentes astronómicas
 
-**Single-Use Utility Software** – Single-use utility software is written for use in unique instances, such as making a plot for a paper, or manipulating data in a specific way. This code often uses libraries for analysis, plotting, or reading data. This software is the most common type that gets included into Open Science and Data Management Plans (OSDMP), which we will talk about shortly. Examples include:
+**Software de utilidad de uso único** - El software de utilidad de un solo uso está escrito para su uso en casos únicos, como hacer un gráfico para un artículo o manipular datos de una manera específica.
+This code often uses libraries for analysis, plotting, or reading data. This software is the most common type that gets included into Open Science and Data Management Plans (OSDMP), which we will talk about shortly. Examples include:
 
 - [Angus et al. 2019](https://ui.adsabs.harvard.edu/abs/2019AJ....158..173A/abstract) – [Fitting a gyro relation to Praesepe](https://github.com/RuthAngus/stardate/blob/master/paper/code/Fitting_Praesepe.ipynb)
 - [Webb telescope spots CO2 on exoplanet for the first time: what it means for finding alien life](https://www.nature.com/articles/d41586-022-02350-2). All the data and models presented in this publication can be found [here](https://doi.org/10.5281/zenodo.6959427).
