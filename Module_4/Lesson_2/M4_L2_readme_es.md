@@ -4,10 +4,10 @@
 
 - [Resumen](#resumen)
 - [Objetivos de Aprendizaje](#objetivos-de-aprendizaje)
-- [Descubriendo Código Abierto y Software](#descubriendo-código-abierto-y-software)
-- [Evaluando Código Abierto y Software](#evaluando-código-abierto-y-software)
-- [Reutilizando Código Abierto](#reutilizando-código-abierto)
-- [Citando y reconociendo el uso de Código Abierto](#citando-y-reconociendo-el-uso-de-código-abierto)
+- [Descubrir Código Abierto y Software](#descubrir-código-abierto-y-software)
+- [Evaluar Código Abierto y Software](#evaluar-código-abierto-y-software)
+- [Reutilizar Código Abierto](#reutilizar-código-abierto)
+- [Citar y reconocer el uso de Código Abierto](#citando-y-reconociendo-el-uso-de-código-abierto)
 - [Lección 2: Resumen](#lección-2-resumen)
 - [Lección 2: Evaluación](#lección-2-evaluación)
 
@@ -24,49 +24,49 @@ Después de completar esta lección, deberías ser capaz de:
 - Enumerar algunos problemas comunes que surgen al reutilizar Código Abierto y las mejores prácticas para resolverlos.
 - Describir cómo, dónde y bajo qué circunstancias se debe reconocer (citar) el código.
 
-## Discovering Open Code and Software
+## Descubriendo Código Abierto y Software
 
-Many people discover code through discussions with their colleagues or by reading journal articles and attending talks at conferences. This is a great way to find out about code that might have applications for your scientific problem.
+Mucha gente descubre el código a través de conversaciones con sus colegas o leyendo artículos de revistas y asistiendo a charlas en conferencias. Esta es una excelente manera de conocer el código que podría tener aplicaciones para su problema científico.
 
-What other ways can someone search for open code? As a first step, look for code that already exists because chances are that someone else has already had a similar problem and published their code online. A common way to search for existing code is with a general search engine. Search engines offer one indicator of a code’s relevancy, how recently it was updated, and how frequently others reference it.
+¿De que otras maneras alguien puede buscar código abierto? Como primer paso, puede buscar código que ya exista porque es probable que otras personas hayan tenido un problema similar y publicado su código en línea. Una manera común de buscar código existente es mediante un motor de búsqueda general. Los motores de búsqueda ofrecen un indicador de la relevancia de un código, qué tan recientemente se actualizó y con qué frecuencia otros hacen referencia a él.
 
-|          |                                                                                                                                                                                                                                                                                                                       |
-| -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Example  | I'm a new graduate student starting to work on modeling turbulence in the Southern Ocean to better understand sea surface temperature (or ocean heat uptake) and climate change. Is there some software available to model how eddies in the ocean affect sea-surface temperature? |
-| Exercise | General Search on the term "Software for ocean turbulence modeling"                                                                                                                                                                                                                                                   |
-| Result   | General Ocean Turbulence Model (GOTM)                                                                                                                                                                                                                                                              |
+|            |                                                                                                                                                                                                                                                                                                                                                                                                              |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Example    | Soy un nuevo estudiante de posgrado que comienza a trabajar en el modelado de turbulencias en el Océano Austral para comprender mejor la temperatura de la superficie del mar (o la absorción de calor del océano) y el cambio climático. ¿Existe algún software disponible para modelar cómo los remolinos en el océano afectan la temperatura de la superficie del mar? |
+| Ejercicio  | Búsqueda General sobre el término "Software para modelado de turbulencias oceánicas"                                                                                                                                                                                                                                                                                                                         |
+| Resultados | Modelo General de Turbulencia Oceánica (en inglés, GOTM)                                                                                                                                                                                                                                                                                                                                  |
 
-This successful search is predicated on the developers of GOTM making their code open.
+Esta búsqueda exitosa se basa en que los desarrolladores de GOTM abran su código.
 
-### Open Software Discovery Depends on Developers Following FAIR Principles
+### El Descubrimiento de Software Abierto Depende de que los Desarrolladores sigan los Principios FAIR
 
-Discovering open software depends on developers making their software easy to find. The Findable, Accessible, Interoperable and Reusable (FAIR) Principles for research software suggest:
+Descubrir software abierto depende de que los desarrolladores hagan que su software sea fácil de encontrar. Los principios Encontrable, Accesible, Interoperable y Reutilizable (FAIR) para software de investigación sugieren:
 
-- Software and its associated metadata must be easy for humans and machines to find.
-- Software must be described with rich, searchable, and indexable metadata.
-- Software must be findable from all relevant search points
+- El software y sus metadatos asociados deben ser fáciles de encontrar para humanos y máquinas.
+- El software debe describirse con metadatos ricos, indexables y con capacidad de búsqueda.
+- El software debe poder encontrarse desde todos los puntos de búsqueda relevantes
 
-**Reference:** "The FAIR Guiding Principles for scientific data management and stewardship" Wilkinson, M. D. et al. The FAIR Guiding Principles for scientific data management and stewardship. Sci Data 3, 160018 (2016). See also Module 1.
+Referencia: "The FAIR Guiding Principles for scientific data management and stewardship" Wilkinson, M. D. et al. The FAIR Guiding Principles for scientific data management and stewardship. Sci Data 3, 160018 (2016). Véase también el Módulo 1.
 
-However, you may have more specific needs. The following sections cover additional ways to help discover relevant software that meets specific research demands.
+Sin embargo, es posible que tengas necesidades más específicas. Las siguientes secciones cubren formas adicionales para ayudar a descubrir software relevante que satisfaga demandas de investigación específicas.
 
-### How to Search for Open Code
+### Cómo Buscar Código Abierto
 
-A successful search for open code demands a clearly defined purpose. Developers must first determine the tasks they expect their code to carry out. The requirements associated with these tasks can determine the best suited programming language.
+Una búsqueda exitosa de código abierto exige un propósito claramente definido. Los desarrolladores primero deben determinar las tareas que esperan que realice su código. Los requisitos asociados con estas tareas pueden determinar el lenguaje de programación más adecuado.
 
-Next, familiarize yourself with the terminology of others who created open software with similar requirements to your own. The keywords affiliated with your programming purpose or requirements can serve as a starting point when searching for relevant code. These keywords can be found in community forums about open source programming and in related scientific journal articles. With adoption of open access principles by many academic journals, prospective programmers can peruse scientific papers from fields related to their research in order to find, and sometimes make use of, existing code that will fulfill their requirements.
+A continuación, familiarízate con la terminología de otras personas que crearon software abierto con requisitos similares a los tuyos. Las palabras clave relacionadas con su propósito o requisitos de programación pueden servir como punto de partida al buscar código relevante. Estas palabras clave se pueden encontrar en foros comunitarios sobre programación de código abierto y en artículos de revistas científicas relacionadas. Con la adopción de principios de acceso abierto por parte de muchas revistas académicas, los futuros programadores pueden examinar artículos científicos de campos relacionados con su investigación para encontrar, y en ocasiones hacer uso, del código existente que satisfaga sus requisitos.
 
-### Know Where to Search
+### Conoce Dónde Buscar
 
-The open software ecosystem is vast, organic, multifaceted, and highly distributed.
+El ecosistema de software abierto es vasto, orgánico, multifacético y altamente distribuido.
 
-If you are looking for scientific software, community standards increasingly require code to be published and linked to scientific papers.
+Si busca software científico, los estándares comunitarios exigen cada vez más que el código se publique y se vincule a artículos científicos.
 
 <img src="../images/media/image333.jpg" style="width:350px;height:auto;" />
 
-Thus, the scientific literature and its ancillary code archives are increasingly a great place to look for scientific open code.
+Por lo tanto, la literatura científica y sus archivos de códigos auxiliares son cada vez más un excelente lugar para buscar código abierto científico.
 
-Most open code is not developed by or for scientists. However, open code enables research every day.
+La mayor parte del código abierto no es desarrollado por ni para científicos. However, open code enables research every day.
 
 ### Where to Look Depends on What You Need
 
