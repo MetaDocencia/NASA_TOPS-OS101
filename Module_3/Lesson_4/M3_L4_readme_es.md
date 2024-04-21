@@ -151,31 +151,31 @@ Similarly, each repository will provide a different set of functionality and ser
 
 Data with privacy concerns may have additional anonymization or approval processes or restrictions on who can access the data.
 
-A good overview of desirable characteristics presented by the White House is [given here.](https://www.whitehouse.gov/wp-content/uploads/2022/05/05-2022-Desirable-Characteristics-of-Data-Repositories.pdf)
+La Casa Blanca presenta una buena descripción general de las características deseables [aquí](https://www.whitehouse.gov/wp-content/uploads/2022/05/05-2022-Desirable-Characteristics-of-Data-Repositories.pdf) (en inglés).
 
-### Ensuring Accessibility
+### Garantizar la accesibilidad
 
-Good repositories will share (or offer) your open data through standard protocols, like HTTPS or SFTP. Common ways to do this are:
+Los buenos repositorios compartirán (u ofrecerán) sus datos abiertos a través de protocolos estándar, como HTTPS o SFTP. Las formas comunes de hacer esto son:
 
-- Allowing users the ability to see a list of files that they can click and download via an intuitive interface.
-- Creating a documented API for users to generate a list of file links that meet search criteria that they can download in an automated fashion (i.e., machine-to-machine data access).
+- Permitir a las personas usuarias la posibilidad de ver una lista de archivos en los que pueden hacer clic y descargar a través de una interfaz intuitiva.
+- Crear una API documentada para que quienes utilizan la herramienta generen una lista de enlaces de archivos que cumplan con los criterios de búsqueda y que se puedan descargar de forma automatizada (es decir, acceso a datos de máquina a máquina).
 
-Additionally, repositories can require authorization and authentication (e.g., logins with usernames/passwords) to access data. While this is allowed under FAIR principles, it may violate Open Science principles if not everyone is able to obtain a login.
+Adicionalmente, los repositorios pueden requerir autorización y autentificación (por ejemplo, iniciar sesión con nombre de usuario/contraseñas) para acceder a los datos. Si bien esto está permitido según los principios FAIR, puede violar los principios de la Ciencia Abierta si no todas las personas pueden registrarse.
 
-### Working with a Repository
+### Trabajar con un repositorio
 
 <table>
   <thead>
     <tr>
-        <th>START WORKING WITH A REPOSITORY ☑</th>
-        <th>MAINTAINING DATA AT A REPOSITORY</th>
-        <th>ARCHIVING DATA AT A REPOSITORY</th>
+        <th>COMENZAR A TRABAJAR CON UN REPOSITORIO ☑</th>
+        <th>MANTENIMIENTO DE DATOS EN EL REPOSITORIO</th>
+        <th>ARCHIVAR DATOS EN EL REPOSITORIO</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>Repository requirements can vary widely. Always review a repository’s requirements to see what actions you need to take once you’re ready to start working with them. Also note that some repositories have staff that will help with the process of sharing data, while others rely on the user to know how to share their own data.</p>
+            <p>Los requisitos del repositorio pueden variar ampliamente. Revisa siempre los requisitos del repositorio para ver qué acciones necesitas llevar a cabo una vez cuando consideres empezar a trabajar con ellos. También tenga en cuenta que algunos repositorios cuentan con personal que ayudará con el proceso de compartir datos, mientras que otros dependen de que el usuario sepa cómo compartir sus propios datos.</p>
             <p>If you use a repository that has staff to help you with the process, they may want to review and comment on your data management plan.</p>
             <p>The repository may request that you produce some test of sample data in order to assess:</p>
             <ul>
