@@ -134,27 +134,27 @@ Existen muchos estándares para los campos y estructuras de los metadatos para d
 Metadatos útiles e informativos:
 
 - Utiliza estándares que se usan comúnmente en tu campo.
-- Complies with FAIR Principles.
-- Is as descriptive as possible.
-- Is self-describing.
+- Cumple con los principios FAIR (Encontrable, Accesible, Interoperable y Reutilizable).
+- Es lo más descriptivo posible.
+- Es autodescriptivo.
 
-Remember, the more metadata you add, the easier it will be for users of your data to use it effectively. When in doubt:
+Recuerda que cuantos más metadatos añadas, más fácil será para los usuarios de tus datos utilizarlos de manera eficaz. Cuando dudes:
 
-- Seek and comply with repository/community standards.
-- Investigate open science online resources for metadata, e.g., [Turing Way.](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-metadata.html)
+- Busca y cumple con los estándares de repositorio/comunidad.
+- Investiga recursos de ciencia abierta en línea para los metadatos, por ejemplo, [Turing Way.] (Vía Turística.)(https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-metadata.html)
 
 **NASA Metadata Tagging Addendum**
 
-SPD-41a requires metadata fields that validate the scientific conclusions of publications. Metadata should:
+SPD-41a requires metadata fields that validate the scientific conclusions of publications. Los metadatos deben:
 
-- Be robust, meet standards, and clearly and explicitly describe the data.
-- Have replicability and/or can be combined in different settings.
-- Include information on how the data were collected (e.g. which equipment/instruments were used).
-- Include information on which variables/parameters were included in this dataset.
+- Ser robustos, cumplir con los estándares y describir los datos de forma clara y explícita.
+- Tener replicabilidad y/o poder combinarse en diferentes ajustes.
+- Incluir información sobre cómo se recolectaron los datos (por ejemplo, qué equipo/instrumentos se utilizaron).
+- Incluir información sobre qué variables/parámetros fueron incluidos en este conjunto de datos.
 
-### Accompanying Documentation
+### Documentación de acompañamiento
 
-When creating your data, in addition to adding metadata, it is a best practice to create a document that users can refer to. The document can be done as a README file, a user guide, or even a quick start (or all three).
+Al crear sus datos, además de añadir metadatos, es una buena práctica crear un documento al que los usuarios puedan hacer referencia. El documento puede hacerse como un archivo README, una guía de usuario o incluso de inicio rápido (o bien los tres).
 
 README and other documentation files can include information such as:
 
