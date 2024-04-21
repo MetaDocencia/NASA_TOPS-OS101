@@ -1,28 +1,28 @@
-# Lesson 2: Using Open Code
+# Lección 2: Usando Código Abierto
 
-## Navigation
+## Índice
 
-- [Overview](#overview)
-- [Learning Objectives](#learning-objectives)
-- [Discovering Open Code and Software](#discovering-open-code-and-software)
-- [Assessing Open Code and Software](#assessing-open-code-and-software)
-- [Reusing Open Code](#reusing-open-code)
-- [Citing and Acknowledging Open Code Use](#citing-and-acknowledging-open-code-use)
-- [Lesson 2: Summary](#lesson-2-summary)
-- [Lesson 2: Knowledge Check](#lesson-2-knowledge-check)
+- [Resumen](#resumen)
+- [Objetivos de Aprendizaje](#objetivos-de-aprendizaje)
+- [Descubriendo Código Abierto y Software](#descubriendo-código-abierto-y-software)
+- [Evaluando Código Abierto y Software](#evaluando-código-abierto-y-software)
+- [Reutilizando Código Abierto](#reutilizando-código-abierto)
+- [Citando y reconociendo el uso de Código Abierto](#citando-y-reconociendo-el-uso-de-código-abierto)
+- [Lección 2: Resumen](#lección-2-resumen)
+- [Lección 2: Evaluación](#lección-2-evaluación)
 
-## Overview
+## Descripción General
 
-In this lesson, you learn the steps for using existing open code in your work. These steps include discovering, assessing, reusing, citing, and acknowledging.
+En esta lección, aprederás los pasos para utilizar código abierto en tu trabajo. Estos pasos incluyen descubrir, evaluar, reutilizar, citar y reconocer.
 
-## Learning Objectives
+## Objetivos de Aprendizaje
 
-After completing this lesson, you should be able to:
+Después de completar esta lección, deberías ser capaz de:
 
-- Describe the process of using open code and list some key elements of discovering code.
-- Describe the four key considerations when assessing open software: functionality, interoperability, security, and licenses.
-- List some common problems that arise when reusing Open Code and best practices to resolve them.
-- Describe how, where, and under what circumstances one should acknowledge (cite) code.
+- Describir el proceso de uso de código abierto y enumerar algunos elementos clave para descubrir código.
+- Describir las cuatro consideraciones clave al evaluar el software abierto: funcionalidad, interoperabilidad, seguridad y licencias.
+- Enumerar algunos problemas comunes que surgen al reutilizar Código Abierto y las mejores prácticas para resolverlos.
+- Describir cómo, dónde y bajo qué circunstancias se debe reconocer (citar) el código.
 
 ## Discovering Open Code and Software
 
