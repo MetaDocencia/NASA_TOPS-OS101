@@ -125,15 +125,15 @@ Los metadatos mejoran la búsqueda y la accesibilidad de los datos permitiendo p
 
 Para ser legibles por las computadoras, los metadatos deben haber sido estandarizados. Un ejemplo de un estándar aceptado por la comunidad para etiquetar conjuntos de datos climáticos son las [Convenciones de CF](http://cfconventions.org/).
 
-También hay paquetes de software que pueden leer metadatos y mejorar la experiencia del usuario de manera significativa. Por ejemplo, [Xarray](https://docs.xarray.dev/en/stable/index.html) es un paquete de software desarrollado por la comunidad de código abierto que se utiliza ampliamente en la climatología y la biomédicina, entre muchas otras disciplinas. Según su sitio web, "¡Xarray hace que trabajar con matrices multidimensionales con etiquetas en Python sea simple, eficiente y divertido!". ¡Es la parte "etiquetada" donde entran los metadatos estandarizados! Xarray can interpret variable and dimension names without user input, making the workflow easier and less prone to making mistakes (e.g. users don’t have to remember which axis is "time" - they just need to call the axis with the label "time").
+También hay paquetes de software que pueden leer metadatos y mejorar la experiencia del usuario de manera significativa. Por ejemplo, [Xarray](https://docs.xarray.dev/en/stable/index.html) es un paquete de software desarrollado por la comunidad de código abierto que se utiliza ampliamente en la climatología y la biomédicina, entre muchas otras disciplinas. Según su sitio web, "¡Xarray hace que trabajar con matrices multidimensionales con etiquetas en Python sea simple, eficiente y divertido!". ¡Es la parte "etiquetada" donde entran los metadatos estandarizados! Xarray puede interpretar los nombres de las variables y las dimensiones sin el aporte del usuario, haciendo el flujo de trabajo más fácil y menos propenso a cometerse errores (Ej. Los usuarios no tienen que recordar qué eje corresponde al "tiempo" - sólo tienen que llamar al eje con la etiqueta "tiempo").
 
-Many standards exist for metadata fields and structure to describe general data information. Use a standard from your domain when applicable, or one that is requested by your data repository.
+Existen muchos estándares para los campos y estructuras de los metadatos para describir la información general de los datos. Utilice un estándar de su dominio cuando corresponda, o uno que sea solicitado por su repositorio de datos.
 
-### Metadata Tagging Best Practices
+### Mejores prácticas de etiquetado de los metadatos
 
-Useful and informative metadata:
+Metadatos útiles e informativos:
 
-- Uses standards that are commonly used in your field.
+- Utiliza estándares que se usan comúnmente en tu campo.
 - Complies with FAIR Principles.
 - Is as descriptive as possible.
 - Is self-describing.
