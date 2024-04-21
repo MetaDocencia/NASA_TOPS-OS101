@@ -13,19 +13,19 @@
 
 ## Resumen
 
-En esta lección aprenderás sobre la práctica de compartir tus datos. The discussion starts with a review of the sharing process and how to evaluate if your data are sharable. Next, you take a look at ensuring your data is accessible with a closer look at repositories and the lifecycle of data accessibility from the selecting a repository to maintaining and archiving your data. The lesson then discusses some steps to make the data as reusable as possible, and concludes with a section about considering who will help with the data sharing process.
+En esta lección aprenderás sobre la práctica de compartir tus datos. La discusión comienza con una revisión del proceso de compartir y cómo evaluar si sus datos son compartibles. Después, asegurate de que tus datos sean accesibles controlando de cerca los respositorios y el ciclo de vida de la accesibilidad de los datos, desde la selección de un repositorio hasta mantener y archivar tus datos. La lección luego discute algunos pasos para hacer los datos lo más reutilizables posible y concluye con una sección sobre la definición de quién ayudará con el proceso de compartir los datos.
 
-## Learning Objectives
+## Objetivos de Aprendizaje
 
-After completing this lesson, you should be able to:
+Después de completar esta lección, deberías ser capaz de:
 
-- Recognize institutional variables, issues of security, and timing that affect your decision to share data.
-- Recall the features, inherent responsibilities, funding considerations, and sponsor requirements that researchers should consider when selecting a repository to share data.
-- Describe the tools and list some best practices that optimize the shareability of data.
+- Reconocer variables institucionales, cuestiones de seguridad y tiempo que puedan afectar tu decisión de compartir datos.
+- Recordar las características, responsabilidades inherentes, consideraciones de financiamiento y requisitos de patrocinadores que las personas que investigan deberían tener en cuenta al seleccionar un repositorio para compartir datos.
+- Describir las herramientas y enumerar algunas de las buenas prácticas que optimizan la compartibilidad de los datos.
 
-## Data Sharing Process Overview
+## Resumen del Proceso de Compartir Datos
 
-Sharing data is a critical part of increasing reproducibility of results. Whether it's new data we collect ourselves or data that we process in order to do our analysis, we end up sharing some form of data. We need to think about what data we will share and how to best ensure that it will be open and usable by others.
+Compartir datos es una parte crítica de mejorar la reproducibilidad de los resultados. Tanto si se trata de datos nuevos que recolectamos por nuestra parte como datos que procesamos para hacer nuestro análisis, terminamos compartiendo algún tipo de dato. Tenemos que pensar qué datos vamos a compartir y cuál es la mejor manera de asegurar que será de forma abierta y utilizable por otras personas.
 
 Data sharing should typically be done through a long-term data center or repository which will be responsible for ingesting, curating, and distributing/publishing your open data. You are responsible for providing information/metadata to help make your data be readily discoverable, accessible, and citable. The cost of archiving and publishing data should also be considered.
 
