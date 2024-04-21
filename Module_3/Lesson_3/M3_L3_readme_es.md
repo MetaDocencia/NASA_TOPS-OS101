@@ -168,19 +168,19 @@ README y otros archivos de documentación pueden incluir información como:
 
 La intención es ayudar a los usuarios a entender rápidamente cómo pueden usar los datos y responder a preguntas comunes que se hagan sobre tus datos. Puede leer más información y ver una plantilla de README junto con un ejemplo (particularmente relevante para las ciencias médicas) en [this Harvard Medical School website.] (este sitio web de la Escuela Médica de Harvard.) (https://datamanagement.hms.harvard.edu/collect-analyze/documentation-metadata/readme-files)
 
-### Data Versioning Guidelines
+### Directrices para la versiones de datos
 
-Establish a versioning schema for your data. This is a method for keeping track of iterations of data that features track changes and the ability to revert to a previous revision.
+Establece un esquema de versiones para tus datos. Este es un método para mantener un seguimiento de las iteraciones de los datos que muestran el seguimiento de los cambios y la capacidad de revertir a una revisión anterior.
 
-Proper versioning generates a changed copy of a data object that is uniquely labeled with a version number. This enables users to track changes and correct errors.
+La versión adecuada genera una copia cambiada de un objeto de datos que está únicamente etiquetado con un número de versión. Esto permite a los usuarios rastrear cambios y corregir los errores.
 
-Proper versioning preserves data quality and provenance (the origin, history, and processing steps that lead to the dataset) by:
+La versión adecuada preserva la calidad y la procedencia de los datos (el origen, la historia y los pasos de procesamiento que conducen al conjunto de datos) por:
 
-- Providing a record of traceability from the data's source through all aspects of its transmission, storage, and processing to its final form.
-- Saving data files at key steps along the way.
-- Aiming for downstream verification/validation of original findings.
+- Proporcionando un registro de trazabilidad desde la fuente de los datos a través de todos los aspectos de su transmisión, almacenamiento y procesamiento hasta su forma final.
+- Guardando archivos de datos en pasos clave a lo largo del proceso.
+- Apuntando a la verificación/validación de la descarga respecto a los hallazgos originales.
 
-## Making the Data Reusable Through Licensing
+## Hacer los datos reutilizables a través de licencias
 
 <img src="../images/media/image32.jpeg" style="width:100%;height:auto;" />
 
