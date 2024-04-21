@@ -27,19 +27,19 @@ Después de completar esta lección, deberías ser capaz de:
 
 Compartir datos es una parte crítica de mejorar la reproducibilidad de los resultados. Tanto si se trata de datos nuevos que recolectamos por nuestra parte como datos que procesamos para hacer nuestro análisis, terminamos compartiendo algún tipo de dato. Tenemos que pensar qué datos vamos a compartir y cuál es la mejor manera de asegurar que será de forma abierta y utilizable por otras personas.
 
-Normalmente, el intercambio de datos debe hacerse a través de un centro de datos estable o un repositorio que será responsable de ingestar, curar y distribuir/publicar tus datos abiertos. You are responsible for providing information/metadata to help make your data be readily discoverable, accessible, and citable. The cost of archiving and publishing data should also be considered.
+Normalmente, el intercambio de datos debe hacerse a través de un centro de datos estable o un repositorio que será responsable de ingestar, curar y distribuir/publicar tus datos abiertos. Tú eres responsable de proporcionar información/metadatos para ayudar a que tus datos sean fáciles de encontrar, acceder y citar. El costo de archivar y publicar datos también debe ser considerado.
 
-### So You Want to Share Your Data
+### Así que Quieres Compartir Tus Datos
 
-Once you have decided to share your data, there are a number of questions you will have to answer to help you plan and that should be included in your data management plan (DMP):
+Una vez que hayas decidido compartir tus datos, hay una serie de preguntas que tendrás que responder para ayudarte a planificar y que deben incluirse en tu plan de gestión de datos (PGD):
 
-|        |                                                                        |
-| ------ | ---------------------------------------------------------------------- |
-| What?  | Data formats and (where relevant) standards         |
-| When?  | When and if to share data                                              |
-| Where? | The intended repositories for archived data                            |
-| How?   | How the plan enables reuse of the data                                 |
-| Who?   | Roles and responsibilities of the team members in implementing the DMP |
+|          |                                                                        |
+| -------- | ---------------------------------------------------------------------- |
+| ¿Qué?    | Formato y (si es relevante) estándares de datos     |
+| ¿Cuándo? | Cuándo y si compartir datos                                            |
+| ¿Dónde?  | The intended repositories for archived data                            |
+| How?     | How the plan enables reuse of the data                                 |
+| Who?     | Roles and responsibilities of the team members in implementing the DMP |
 
 In this lesson, we will be covering some steps toward making data. Specifically, we will focus on the "when", "where", "how", and "who" sections of a DMP.
 
