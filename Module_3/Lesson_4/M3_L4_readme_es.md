@@ -33,25 +33,25 @@ Normalmente, el intercambio de datos debe hacerse a través de un centro de dato
 
 Una vez que hayas decidido compartir tus datos, hay una serie de preguntas que tendrás que responder para ayudarte a planificar y que deben incluirse en tu plan de gestión de datos (PGD):
 
-|          |                                                                        |
-| -------- | ---------------------------------------------------------------------- |
-| ¿Qué?    | Formato y (si es relevante) estándares de datos     |
-| ¿Cuándo? | Cuándo y si compartir datos                                            |
-| ¿Dónde?  | The intended repositories for archived data                            |
-| How?     | How the plan enables reuse of the data                                 |
-| Who?     | Roles and responsibilities of the team members in implementing the DMP |
+|          |                                                                                                    |
+| -------- | -------------------------------------------------------------------------------------------------- |
+| ¿Qué?    | Formato y (si es relevante) estándares de datos                                 |
+| ¿Cuándo? | Cuándo y si compartir datos                                                                        |
+| ¿Dónde?  | Los repositorios destinados a datos archivados                                                     |
+| ¿Cómo?   | Cómo el plan permite la reutilización de los datos                                                 |
+| ¿Quién?  | Roles y responsabilidades de las personas que forman parte del equipo en la implementación del PGD |
 
-In this lesson, we will be covering some steps toward making data. Specifically, we will focus on the "when", "where", "how", and "who" sections of a DMP.
+En esta lección, cubriremos algunos pasos hacia la obtención de datos. Específicamente, nos enfocaremos en las secciones "cuándo", "dónde", "cómo" y "quién" de un DMP.
 
-### Open Data Sharing Process
+### Proceso para Compartir Datos Abiertos
 
-In general, sharing your open data requires the following steps:
+En general, compartir tus datos abiertos requiere de los siguientes pasos:
 
-1. Make sure your data can be shared
-2. Select or identify a repository to host your data
-3. Work with your repository to follow their process and meet their requirements
-4. Make sure your data is findable and accessible through the repository and is maintained and archived
-5. Request a DOI for your data set so that it is easily citable
+1. Asegúrate de que tus datos puedan ser compartidos
+2. Selecciona o identifica un repositorio para alojar tus datos
+3. Trabaja junto con tu repositorio para seguir su proceso y cumplir con sus requerimientos
+4. Asegúrate de que tus datos sean encontrables y accesibles a través del repositorio y que sean mantenidos y archivados
+5. Solicita un DOI para tu conjunto de datos para que pueda ser citado fácilmente
 6. Choose a data license
 
 Sometimes, you may be able to work with a well-staffed repository that will handle many of these steps for you (for instance, if you are working with NASA mission data). Otherwise, it is your responsibility to follow the above steps to share your data openly.
