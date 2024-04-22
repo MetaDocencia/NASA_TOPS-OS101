@@ -106,34 +106,34 @@ Para ser [reutilizable:](https://www.go-fair.org/fair-principles/r1-metadata-ric
 - Los datos se describen en detalle, con una pluralidad de atributos precisos y relevantes.
 - Los datos se publican con una licencia de uso de datos clara y accesible.
 - Los datos se asocian con una procedencia detallada.
-- Data meet domain-relevant community standards.
+- Los datos cumplen los estándares comunitarios relevantes para el dominio.
 
-Current Enabling Tech:
+Tecnología actual que lo permite:
 
-- The metadata record contains a minimum of [DataCite's](https://schema.datacite.org/) mandatory terms, with optionally additional DataCite recommended terms and Zenodo's enrichments.
-- [Zenodo](https://zenodo.org/) is not a domain-specific repository, yet through compliance with DataCite's Metadata Schema, metadata meets one of the broadest cross-domain standards available.
+- El registro de metadatos contiene como mínimo los términos obligatorios de [DataCite](https://schema.datacite.org/), y suma opcionalmente los términos recomendados por DataCite y los enriquecimientos de Zenodo.
+- [Zenodo](https://zenodo.org/) no es un repositorio específico de un dominio, pero a través del cumplimiento del Esquema de metadatos de DataCite (_DataCite's Metadata Schema_) los metadatos se ajustan a uno de los estándares interdominio más amplios disponibles.
 
-Wilkinson, M. D. et al. The FAIR Guiding Principles for scientific data management and stewardship. Sci.Data 3:160018, doi: [1 0 .1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18) (2016)
+Wilkinson, M. D. et al. The FAIR Guiding Principles for scientific data management and stewardship [Los principios guía FAIR para la gestión y administración de datos científicos]. Sci.Data 3:160018, doi: [1 0 .1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18) (2016)
 
-These are high-level guidelines, and much like open science, implementation is nuanced. Sometimes it takes a group effort and/or a long production process/funding to make data and results FAIR. For other datasets, it could be more straightforward. A well-coordinated data management plan is needed for full compliance with FAIR, and the details of this will be discussed further in Module 3 – Open Data.
+Estas pautas son de alto nivel y, al igual que la ciencia abierta, tienen matices en su aplicación. A veces se necesita un esfuerzo grupal y/o un largo proceso de producción/financiación para que datos y resultados sean FAIR. Para otros conjuntos de datos podría ser más sencillo. Se necesita un plan de gestión de datos bien coordinado para cumplir plenamente con los principios FAIR, y los detalles de esto se discutirán más en profundidad en el Módulo 3 – Datos abiertos.
 
-## Tools to Help with Planning For Open Data Creation
+## Herramientas para ayudar con la planificación para la creación de datos abiertos
 
-### Data Management Plan
+### Plan de gestión de datos
 
-The previous lesson describes the requirements of a data management plan (DMP). Below are two open science resources to get you started or creating a data management plan:
+La lección anterior describe los requisitos de un plan de gestión de datos (PGD) (en inglés, _Data Management Plan_, DMP). Debajo hay dos recursos cientificos abiertos para empezar a crear un plan de gestión de datos:
 
 **DMPTool**
 
-The [DMPTool](https://dmptool.org/) in the US helps researchers by featuring a template that lists a funder's requirements for specific directorate requests for proposals (RFP). The DMPTool also publishes other open DMPs from funded projects that can be referenced to improve your own. The Research Data Management Organizer (RDMO) enables German institutions as well as researchers to plan and carry out their management of research data.
+[DMPTool](https://dmptool.org/) asiste a quienes investigan en EE.UU. mediante una plantilla que lista los requisitos de una financiadora para solicitudes de propuestas (en inglés, _requests for proposals_, RFP) del directorio específicas. La herramienta DMPTool también publica PGD abiertos de otros proyectos financiados que pueden tomarse como referencia para mejorar los propios. El Organizador de Gestión de Datos de Investigación (OGDI) (en inglés, _Research Data Management Organizer_, RDMO) permite planificar y llevar a cabo la gestión de datos de investigación a las instituciones alemanas y a quienes investigan en ellas.
 
 **ARGOS**
 
-[ARGOS](https://argos.openaire.eu/home) is used to plan Research Data Management activities of European and nationally funded projects (e.g. Horizon Europe, CHIST-ERA, the Portuguese Foundation for Science and Technology - FCT). ARGOS produces and publishes FAIR and machine actionable DMPs that contain links to other outputs, e.g. publications-data-software, and minimizes the effort to create DMPs from scratch by introducing automations in the writing process. OpenAIRE provides a guide on how to create DMP.
+[ARGOS](https://argos.openaire.eu/home) se usa para planificar las actividades de gestión de datos de investigación de proyectos financiados nacionalmente y por Europa (por ejemplo, _Horizon Europe_, CHIST-ERA, la Fundación Portuguesa de Ciencia y Tecnología - FCT). ARGOS produce y publica PGDs compatibles con prácticas FAIR y accionables por máquina, que contienen enlaces a otros productos, p.ej. publicaciones-datos-software, y minimiza el esfuerzo de crear PGDs desde cero introduciendo automatizaciones en el proceso de escritura. OpenAIRE proporciona una guía sobre cómo crear PGD.
 
-### Data Repositories
+### Repositorios de datos
 
-A data repository is a digital space to house, curate, and share research outputs. Data repositories were originally used to support the needs of research communities. Ejemplos de repositorios de datos incluyen:
+Un repositorio de datos es un espacio digital para alojar, curar y compartir resultados de investigación. Data repositories were originally used to support the needs of research communities. Ejemplos de repositorios de datos incluyen:
 
 - [**Protein Data Bank**(Banco de Datos de Proteina)](https://www.rcsb.org/) utiliza un repositorio de datos para catalogar estructuras 3D de proteínas y ácidos nucleólicos.
 - [**Genbank**](https://www.ncbi.nlm.nih.gov/genbank/) de los Institutos Nacionales de Salud utiliza una base de datos de secuencias genéticas que contiene secuencias anotadas de ácidos nucleicos disponibles públicamente.
