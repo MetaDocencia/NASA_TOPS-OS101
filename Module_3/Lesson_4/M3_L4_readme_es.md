@@ -65,19 +65,19 @@ La decisión de cuándo compartir datos debería discutirse con todas las person
 - Compartido Anticipado: Compartir al momento de la recolección o poco después. Algunas agencias de financiamiento requieren que así sea o permiten un pequeño período de "embargo", pero normalmente se requiere una razón (control de calidad, calibración, etc). Esto maximiza la reutilización de los datos y el impacto, y puede resultar en un aumento de colaboraciones.
 - Compartir Intermedio: Al tiempo de la publicación. Muchas revistas (y algunas agencias de financiamiento) requieren compartir los datos necesarios para replicar los resultados al momento de la publicación.
 - Compartir Mínimo: Fin del subsidio. Todos los datos científicamente relevantes deben ser compartidos para el final del subsidio de investigación.
-- No Sharing: There are many reasons data should either be restricted or not shared at all.
+- No Compartir: Hay muchos motivos por los que los datos pueden ser restringidos o no compartidos para nada.
 
-As discussed previously in this curriculum, there are many benefits to sharing as early as possible. Early (advanced) sharing can lead to new and unexpected discoveries and expand your collaboration network. Remember, that even when you share data, you are still the world expert on that data! So often, when people want to work with the data, they will reach out to you to collaborate.
+Como ya comentamos anteriormente en este curso, hay muchos beneficios para compartir los datos lo antes posible. Compartir temprano puede llevar a nuevos e inesperados descubrimientos y a expandir tu red de colaboraciones. Recuerda que, aún cuando compartes tus datos, tú sigues siendo la persona experta a nivel mundial en esos datos. Es muy probable que cuando las personas quieran trabajar con tus datos se pongan en contacto contigo para colaborar.
 
-### Should the Data be Shared?
+### ¿Deben Compartirse los Datos?
 
-Before datasets are shared, it’s important to consider any restrictions to your permission to share and ensure that your contributors – including sample and data donors – approve its release.
+Antes de compartir los conjuntos de datos, es importante que tengas en cuenta cualquier restricción de permisos para compartir y asegurar que quienes contribuyen contigo, incluyendo donantes de muestras y datos, aprueben su publicación.
 
-Data should be as open as possible and as closed as necessary.
+Los datos deben ser tan abiertos como sea posible y tan cerrados como sea necesario.
 
-- Opening our data is a powerful way to enable discovery, transparency, and scientific progress.
-- Some data are subject to laws, regulations, and policies which limit the release of the data.
-- Your local institution may have additional policies and resources – investigate them early and often.
+- Abrir tus datos es una herramienta poderosa para facilitar el descubrimiento, transparencia y progreso científico.
+- Algunos datos están sujetos a leyes, regulaciones y políticas que limitan su liberación.
+- Tu institución local puede tener políticas y recursos adicionales; investígalos lo antes posible y regularmente.
 
 ### Verify Your Data is Sharable
 
