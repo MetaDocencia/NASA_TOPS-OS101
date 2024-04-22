@@ -99,13 +99,13 @@ Tecnología actual que lo permite:
 - Para ciertos términos hacemos referencia a vocabularios externos abiertos, por ejemplo: licencia ([Open Definition](https://opendefinition.org/)), financiadoras ([FundRef](https://www.crossref.org/services/funder-registry/)) y subsidios ([OpenAIRE](https://api.openaire.eu/)).
 - Cada referencia a una pieza de datos externos es calificada por una URL que puede ser resuelta.
 
-**Reusable**
+**Reutilizable**
 
-To be [Reusable:](https://www.go-fair.org/fair-principles/r1-metadata-richly-described-plurality-accurate-relevant-attributes/)
+Para ser [reutilizable:](https://www.go-fair.org/fair-principles/r1-metadata-richly-described-plurality-accurate-relevant-attributes/)
 
-- Data are richly described with a plurality of accurate and relevant attributes.
-- Data are released with a clear and accessible data usage license.
-- Data are associated with detailed provenance.
+- Los datos se describen en detalle, con una pluralidad de atributos precisos y relevantes.
+- Los datos se publican con una licencia de uso de datos clara y accesible.
+- Los datos se asocian con una procedencia detallada.
 - Data meet domain-relevant community standards.
 
 Current Enabling Tech:
