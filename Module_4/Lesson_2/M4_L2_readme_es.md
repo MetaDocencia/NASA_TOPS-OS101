@@ -264,7 +264,7 @@ Se considera que el software abierto tiene más riesgos para la seguridad. Esto 
 
 Así que, quiere reutilizar algún código abierto que haya descubierto. Es esencial comprobar las restricciones legales y los requisitos impuestos a los usuarios, que generalmente se proporcionan en la licencia.
 
-Aunque la licencia es un tema con matices sobre el que aprenderás más en la lección 3, es útil saber que generalmente hay dos clases de licencia: permisiva y no permisiva. Permissive licenses, most commonly Apache 2.0, MIT, or BSD, will generally allow you to use the code for your scientific research with little restriction, whereas non-permissive licenses such as copy-left licenses, impose substantial restrictions on how you use the code and require more careful consideration.
+Aunque la licencia es un tema con matices sobre el que aprenderás más en la lección 3, es útil saber que generalmente hay dos clases de licencia: permisiva y no permisiva. Licencias permisivas, más comunes Apache 2., MIT o BSD, generalmente le permitirán utilizar el código para su investigación científica con poca restricción, mientras que las licencias no permisivas, como las licencias de copyleft imponen restricciones sustanciales a la forma en que se utiliza el código y requieren una consideración más cuidadosa.
 
 ## Reutilizando Código Abierto
 
