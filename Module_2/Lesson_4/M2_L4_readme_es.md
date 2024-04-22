@@ -48,13 +48,13 @@ El control de versiones es la práctica de rastrear y gestionar los cambios real
 
 La forma general de utilizar el control de versiones comienza inicializando una carpeta en su plataforma informática con el sistema de control de versiones que esté utilizando. Un sistema de control de versiones rastrea automáticamente todos los cambios realizados por los colaboradores, le permite trabajar sin conexión y volver más tarde con actualizaciones. You write code as you usually do in your code editor of choice. After you have written some code or made some updates to existing code, you then commit those changes to the version control system to create a sort of "checkpoint" that you can then revert back to later if necessary. Luego agrega o actualiza más código, y vuelve a confirmar los cambios. Cada confirmación requiere que se añada un mensaje breve que permita describir brevemente qué cambios se han hecho. Estos mensajes sirven como metadatos que aseguran que las personas colaboradoras y usuarias, e inclusive tú en el futuro, entiendan su proceso de desarrollo en un momento dado.
 
-This may sound like a simple process, and in many ways it is! So why is it so important? Especialmente cuando se trata de codificar, la posibilidad de crear una captura en el mismo momento de un la creación de un fragmento de código puede ser muy útil. Por ejemplo, puede tener un fragmento de código que produce el resultado previsto, pero luego desea añadir una nueva función. Se puede optar por copiar ese archivo de código para no perder el estado actual, y luego trabajar en un archivo nuevo. Esto puede resultar bastante engorroso cuando existen varios archivos que son diferentes versiones de la misma pieza de código. O en lugar de crear un nuevo archivo, se puede escribir código para la nueva función directamente en el archivo original, pero ahora éste arroja errores cuando se intenta ejecutarlo, y es difícil recordar qué líneas se añadieron desde la última vez que el código se ejecutó sin errores. Usando el control de versiones, estos problemas se resuelven porque podemos volver al punto de control cuando el código se ejecutó limpiamente, y así evitar la necesidad de crear múltiples copias para guardar el trozo de código original.
+This may sound like a simple process, and in many ways it is! Entonces, ¿por qué es tan importante? Especialmente cuando se trata de codificar, la posibilidad de crear una captura en el mismo momento de un la creación de un fragmento de código puede ser muy útil. Por ejemplo, puede tener un fragmento de código que produce el resultado previsto, pero luego desea añadir una nueva función. Se puede optar por copiar ese archivo de código para no perder el estado actual, y luego trabajar en un archivo nuevo. Esto puede resultar bastante engorroso cuando existen varios archivos que son diferentes versiones de la misma pieza de código. O en lugar de crear un nuevo archivo, se puede escribir código para la nueva función directamente en el archivo original, pero ahora éste arroja errores cuando se intenta ejecutarlo, y es difícil recordar qué líneas se añadieron desde la última vez que el código se ejecutó sin errores. Usando el control de versiones, estos problemas se resuelven porque podemos volver al punto de control cuando el código se ejecutó limpiamente, y así evitar la necesidad de crear múltiples copias para guardar el trozo de código original.
 
 Hay muchas otras características de los sistemas de control de versiones, tales como el concepto de crear "ramas" que le permiten trabajar en nuevas actualizaciones de un trozo de código de forma independiente y paralela a la pieza original de código. Una rama es una desviación del código original, pero puede ser fusionada de nuevo en el código original cuando se desee. Todos estos conceptos son aún más útiles cuando se colabora con otras personas utilizando plataformas de control de versiones, una práctica de colaboración que veremos más adelante en esta lección.
 
-### Tipos de Software de Control de Versiones
+### Tipos de control de versiones de software
 
-There are two main styles of software version control systems:
+Hay dos estilos principales de sistemas de control de versiones de software:
 
 <table>
   <thead>
@@ -80,15 +80,15 @@ There are two main styles of software version control systems:
   <thead>
     <tr>
         <th>CENTRALIZADO</th>
-        <th>DISTRIBUTED (MORE POPULAR) ☑</th>
+        <th>DISTRIBUIDO (MÁS POPULAR)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="2">
             <p>Control:</p>
-            <p>Each developer’s system can retain a copy of the codebase<br>
-            Examples:</p>
+            <p>El sistema de cada desarrollador puede conservar una copia del código base<br>.
+            Ejemplos:</p>
             <ul>
               <li>Git</li>
               <li>Mercurial</li>
@@ -98,11 +98,11 @@ There are two main styles of software version control systems:
   </tbody>
 </table>
 
-Using a distributed version control system like Git gives you more flexibility.
+Utilizar un sistema distribuido de control de versiones como Git le da más flexibilidad.
 
-**Example: Git**
+**Ejemplo: Git**
 
-The most popular version control system for software development is Git. Git is open-source and is commonly used in conjunction with web-based software hosting sites like GitHub and GitLab (more on these in the next section), which allow for collaboration and sharing of code. You can also use it on your local computer when writing your own code. Git is often run at the command line, but there are other interfaces for using Git as well, including GitHub Desktop and some code editors that have Git integration included (more on this later).
+El sistema de control de versiones más popular para el desarrollo de software es Git. Git es de código abierto y se utiliza habitualmente junto con sitios web de alojamiento de software como GitHub y GitLab (más información sobre ellos en la siguiente sección), que permiten colaborar y compartir código. También puede usarse en una computadora local cuando se escribe código propio. Git suele ejecutarse en la línea de comandos, pero también existen otras interfaces para utilizar Git, como GitHub Desktop y algunos editores de código que incluyen integración con Git (más información sobre esto más adelante).
 
 <img src="../images/media/image33.png" style="width:350px;height:auto;" />
 
@@ -110,31 +110,31 @@ The most popular version control system for software development is Git. Git is 
 
 ---
 
-Git is very powerful and widely used (according to a Stack Overflow [ developer survey](https://survey.stackoverflow.co/2022), over 87% of developers use Git), but that doesn’t mean it is straightforward to learn. There are many good resources for learning Git (see below). If you find Git confusing at first, know that you are not alone! (There’s even an XKCD comic about it!). For in-depth training on Git, please see the Software Carpentry lesson, listed below: [ Version Control with Git: Summary and Setup (swcarpentry.github.io)](https://swcarpentry.github.io/git-novice/)
+Git es muy potente y ampliamente utilizado (según una encuesta de desarrollador de Stack Overflow](https://survey. tackoverflow.co/2022), más del 87% de los desarrolladores usan Git), pero eso no significa que sea fácil de aprender. Hay muy buenos recursos para aprender Git (ver abajo). Si al principio Git resulta confuso, ¡es importante saber que muchas personas tienen dificultad para entenderlo! (¡Incluso hay un cómic XKCD al respecto!). Para una formación en profundidad en Git, por favor vea la lección de Carpentry de Software, que se enumera a continuación: [ Control de versiones con Git: Summary y Setup (swcarpentry.github.io)](https://swcarpentry.github.io/git-novice/)
 
-### Version Control Platforms
+### Plataformas de control de versiones
 
-Version control platforms, typically web-based software hosting platforms, expand the usefulness of version control by allowing for a centralized location to store and collaborate on code, along with many other helpful features for code development and sharing.
+Las plataformas de control de versiones, normalmente plataformas de alojamiento de software basadas en web, amplían la utilidad del control de versiones al permitir una ubicación centralizada para almacenar y colaborar en el código, junto con muchas otras funciones útiles para el desarrollo y el intercambio de código.
 
-Some examples of version control platforms:
+Algunos ejemplos de plataformas de control de versiones:
 
-- GitHub: a Git-based platform that allows collaboration and code history tracking. Owned by Microsoft.
-- GitLab: a Git-based platform that also offers DevOps and CI/CD functionalities.
-- BitBucket: a platform that can host Git and Mercurial repositories. Owned by Atlassian.
+- GitHub: plataforma basada en Git que permite la colaboración y el seguimiento del historial del código. Propiedad de Microsoft.
+- GitLab: una plataforma basada en Git que también ofrece funcionalidades DevOps y CI/CD.
+- BitBucket: una plataforma que puede alojar repositorios Git y Mercurial. Propiedad de Atlassian.
 
-GitHub is one of the most popular platforms, and so we will provide examples of how to use GitHub in the rest of this section. It is important to note that GitHub is where most open-source software packages are housed, and so if you are interested in getting more involved with the open source software community, GitHub is an essential tool to learn how to use!
+GitHub es una de las plataformas más populares, por lo que en el resto de esta sección daremos ejemplos de cómo utilizar GitHub. Es importante destacar que GitHub es donde se encuentran la mayoría de los paquetes de software de código abierto, por lo que, para aquellas personas que están interesadas en involucrarse más con la comunidad de software de código abierto, ¡GitHub es una herramienta esencial para aprender a usar!
 
-**Example: GitHub**
+**Ejemplo: GitHub**
 
-GitHub is an online, cloud-based software repository hosting site that integrates with Git and offers many other features that help with code development, collaboration, testing, and releases. Before we dive into some of these features, it’s important to understand how GitHub acts as a remote repository when using version control systems like Git.
+GitHub es un repositorio de software en línea basado en la nube que se integra con Git y ofrece muchas otras características que ayudan en el desarrollo de código. colaboración, pruebas y publicaciones. Antes de avanzar en algunas de estas características, es importante entender cómo GitHub actúa como un repositorio remoto cuando utiliza sistemas de control de versiones como Git.
 
-If we go back to the general idea of using version control systems, GitHub can be added into the picture as a remote repository that hosts code. After creating a “checkpoint” in Git, you can then upload a copy of the current snapshot of your code to GitHub. There are a few reasons you might want to do this, including:
+Si volvemos a la idea general de utilizar sistemas de control de versiones, GitHub puede incorporarse como un repositorio remoto que aloja código. Después de crear un “punto de control” en Git, es posible cargar a GitHub una copia de la instantánea actual del código. Hay varias razones para hacerlo:
 
-- To serve as a backup for your work (it is now stored on a remote server that you can access even if your computer dies).
-- To share your code with others (more on this later in this course).
-- To collaborate with others on your code. By uploading to GitHub, your code can be made accessible to others who might want to add features.
+- Para funcionar como copia de seguridad de su trabajo (ahora se almacena en un servidor remoto al que puede acceder incluso si su computadora muere).
+- Para compartir tu código con otros (más adelante en este curso).
+- Para que otros colaboren con tu código. Subiendo a GitHub, tu código puede ser accesible para otros que quieran añadir características.
 
-Let’s expand on some of GitHub’s collaboration tools. Some of these features include:
+Vamos a ampliar algunas de las herramientas de colaboración de GitHub. Algunas de estas características incluyen:
 
 <table>
   <colgroup>
@@ -143,13 +143,13 @@ Let’s expand on some of GitHub’s collaboration tools. Some of these features
   </colgroup>
   <thead>
     <tr class="header">
-      <th>Term</th>
-      <th>Description/Definition</th>
+      <th>Términos</th>
+      <th>Descripción/Definición</th>
     </tr>
   </thead>
   <tbody>
     <tr class="odd">
-      <td>Issue Tracking</td>
+      <td>Rastreo de problemas</td>
       <td>
         Keep track of feature requests, bugs, and other types of updates via GitHub Issues. GitHub also allows the use of labels and assigning people to tasks to help organize tasks.
       </td>
@@ -181,7 +181,7 @@ Let’s expand on some of GitHub’s collaboration tools. Some of these features
   </tbody>
 </table>
 
-All of these features excel at enabling asynchronous collaboration across teams. Most scientific open- source packages use GitHub for their primary code development. Note that there are many more GitHub features that we don’t go into here that support collaboration, as well as automated workflows and so much more. To learn more about GitHub, take a look at these references:
+Todas estas funciones son excelentes para permitir la colaboración asíncrona entre equipos. Most scientific open- source packages use GitHub for their primary code development. Note that there are many more GitHub features that we don’t go into here that support collaboration, as well as automated workflows and so much more. To learn more about GitHub, take a look at these references:
 
 - [How to Use Git and GitHub – Introduction for Beginners (freecodecamp.org)](https://www.freecodecamp.org/news/introduction-to-git-and-github/)
 - [Getting Started with GitHub — Pythia Foundations (projectpythia.org)](https://foundations.projectpythia.org/foundations/getting-started-github.html)
