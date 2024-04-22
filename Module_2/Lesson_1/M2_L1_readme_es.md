@@ -111,31 +111,31 @@ Cuando se comparte código abierto, con frecuencia se hace a través de una plat
 
 ### Compartir un Artículo Abierto
 
-Los investigadores pueden optar por publicar en una revista con licencia de acceso abierto. Researchers can search for open access journals through the Directory of Open Access Journals (DOAJ). (See Module 5 - Open Results)
+Los investigadores pueden optar por publicar en una revista con licencia de acceso abierto. Para ello, puede utilizarse el Directorio de Revistas de Acceso Abierto (DOAJ) y encontrar revistas que ofrezcan esta opción. (Véase el Módulo 5 - Resultados Abiertos)
 
-### Sharing Open Results
+### Compartir Resultados Abiertos
 
-When sharing results, include your methodology that was used to produce results (i.e. the “provenance”) directly with your software. Software tends to evolve with time while the outputs of the software itself can retain some consistency. Therefore, sharing your methodology helps others to reproduce your aging results with newer software, even if the methodology to produce them can vary as the software evolves.
+Cuando compartimos resultados, es conveniente incluir la metodología utilizada para producirlos (es decir, la "procedencia") directamente con nuestro software. El software tiende a evolucionar con el tiempo, mientras que sus resultados pueden mantener cierta coherencia. Por lo tanto, compartir la metodología ayuda a otros a reproducir nuestros antiguos resultados con software más reciente, aunque los métodos para producirlos puedan variar a medida que el software evoluciona.
 
-### An Open Science Project Example
+### Un ejemplo de Proyecto Científico Abierto
 
-Here is an example of how one group openly shared their data, results, software, and paper; all with their own unique identifiers. Note that data and software can each have multiple identifiers, enabling others to cite all versions or one unique version.
+A continuación veremos un ejemplo de cómo un grupo de investigación compartió abiertamente sus datos, resultados y software tanto como el artículo resultante; todo esto con sus propios identificadores únicos. Hay que tener en cuenta que los datos y el software pueden tener varios identificadores, lo que permite a otros citar todas las versiones o una única versión.
 
 <img src="../images/media/image10.jpeg" style="width:100%;height:auto;" />
 
-Here, you can review the separate elements of the image above. Select "\<" and "\>" buttons to navigate.
+Aquí se pueden revisar los distintos elementos de la imagen anterior,  seleccionando los botones "\<" y "\>" para navegar.
 
 <img src="../images/media/image11.jpeg" style="width:100%;height:auto;" />
 
-**Data**
+**Datos**
 
-This version:  [https://doi.org/10.5281/zenodo.3688691](https://doi.org/10.5281/zenodo.3688691)
+Esta versión: [https://doi.org/10.5281/zenodo.3688691](https://doi.org/10.5281/zenodo.3688691)
 
-All versions:  [https://doi.org/10.5281/zenodo.3688690](https://doi.org/10.5281/zenodo.3688690)
+Todas las versiones: [https://doi.org/10.5281/zenodo.3688690](https://doi.org/10.5281/zenodo.3688690)
 
 <img src="../images/media/image12.jpeg" style="width:100%;height:auto;" />
 
-**Results**
+**Resultados**
 
 [https://doi.org/10.1175/JHM-D-19-0084.1](https://doi.org/10.1175/JHM-D-19-0084.1)
 
@@ -143,15 +143,15 @@ All versions:  [https://doi.org/10.5281/zenodo.3688690](https://doi.org/10.5281/
 
 Software
 
-This version:  [https://github.com/c-h-david/rapid](https://github.com/c-h-david/rapid)
+Esta versión: [https://github.com/c-h-david/rapid](https://github.com/c-h-david/rapid)
 
-All versions:  [https://doi.org/10.5281/zenod](https://doi.org/10.5281/zenod)
+Todas las versiones: [https://doi.org/10.5281/zenod](https://doi.org/10.5281/zenod)
 
-## Lesson 1: Summary
+## Lección 1: Resumen
 
-In this lesson, you learned:
+En esta lección hemos aprendido:
 
-- Scientific knowledge, or research products, take the form of: data, software, and results.
+- El conocimiento científico o los productos de la investigación adoptan la forma de: datos, software y resultados.
 - In general, data are pieces of information about a subject, including theoretical truths, raw measurements, or highly processed values.
 
 ## Lesson 1: Knowledge Check
