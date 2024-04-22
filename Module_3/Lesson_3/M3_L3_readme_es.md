@@ -143,9 +143,9 @@ Recuerda que cuantos más metadatos añadas, más fácil será para los usuarios
 - Busca y cumple con los estándares de repositorio/comunidad.
 - Investiga recursos de ciencia abierta en línea para los metadatos, por ejemplo, [Turing Way.] (Vía Turística.)(https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-metadata.html)
 
-**NASA Metadata Tagging Addendum**
+**Anexo de etiquetado de metadatos de la NASA**
 
-SPD-41a requires metadata fields that validate the scientific conclusions of publications. Los metadatos deben:
+SPD-41a requiere campos de los metadatos que validen las conclusiones científicas de las publicaciones. Los metadatos deben:
 
 - Ser robustos, cumplir con los estándares y describir los datos de forma clara y explícita.
 - Tener replicabilidad y/o poder combinarse en diferentes ajustes.
@@ -222,45 +222,45 @@ Esto significó que cualquier uso comercial estaba restringido. Empresas de segu
 
 ## Lección 3: Resumen
 
-Following are the key takeaways from this lesson:
+A continuación se exponen los aportes principales de esta lección:
 
-- It is best practice to create an open data management plan that includes open-related topics.
-- A critical step to making open data is evaluating and selecting open data formats.
-- Always add documentation that enables other researchers to assess the relevance and reusability of your product. This includes metadata, README files, and version control details.
-- It is important to assign an open license to your data to enable reuse.
+- Es una buena práctica crear un plan abierto de gestión de datos que incluya temas abiertos.
+- Un paso crítico para hacer datos abiertos es la evaluación y la selección de formatos de datos abiertos.
+- Siempre añadir documentación que permita a otras personas que investigan evaluar la relevancia y la reutilización de tu producto. Esto incluye a los metadatos, archivos README y los detalles del control de versiones.
+- Es importante asignar una licencia abierta a tus datos para permitir su reutilización.
 
-## Lesson 3: Knowledge Check
+## Lección 3: Prueba de Conocimiento
 
-Answer the following questions to test what you have learned so far.
+Responde las siguientes preguntas para probar lo que has aprendido hasta ahora.
 
-_Question_
+_Pregunta_
 
 **01/04**
 
-Which of the following are steps you should take when making a Data Management Plan?
+¿Cuál de los siguientes son los pasos que debes tomar al crear un plan de gestión de datos?
 
-- Evaluate different data formats
-- Test your metadata for compliance
-- Create a small collection of test data
+- Evaluar diferentes formatos de datos
+- Probar tus metadatos para que cumplan
+- Crear una pequeña colección de datos de prueba
 
-_Question_
+_Pregunta_
 
 **02/04**
 
-Which of the following are considerations when choosing a file format?
+¿Cuál de las siguientes son consideraciones al elegir un formato de archivo?
 
-- The format has adequate metadata support
-- Tools are readily available to read the data format
-- The data format is widely used in your community
-- All of the above
+- El formato tiene soporte adecuado para los metadatos
+- Las herramientas están disponibles para leer el formato de datos
+- El formato de datos es ampliamente utilizado en tu comunidad
+- Todas las anteriores
 
-_Question_
+_Pregunta_
 
 **03/04**
 
-Read the statement below and decide whether it's true or false.
+Lee la siguiente afirmación e indica si es Verdadera o Falsa.
 
-_Metadata is only useful for using data in interoperable tools and does not enhance searchability and findability of data._
+_Los metadatos sólo son útiles para el uso de datos en herramientas interoperables y no mejoran la búsqueda y el encontrar los datos._
 
 - Verdadero
 - Falso
