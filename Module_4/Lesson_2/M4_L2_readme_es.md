@@ -1,4 +1,4 @@
-# Lección 2: Usando Código Abierto
+# Lección 2: Uso de Código Abierto
 
 ## Índice
 
@@ -7,7 +7,7 @@
 - [Descubrir Código Abierto y Software](#descubrir-código-abierto-y-software)
 - [Evaluar Código Abierto y Software](#evaluar-código-abierto-y-software)
 - [Reutilizar Código Abierto](#reutilizar-código-abierto)
-- [Citar y reconocer el uso de Código Abierto](#citando-y-reconociendo-el-uso-de-código-abierto)
+- [Citar y Reconocer el uso de Código Abierto](#citar-y-reconocer-el-uso-de-código-abierto)
 - [Lección 2: Resumen](#lección-2-resumen)
 - [Lección 2: Evaluación](#lección-2-evaluación)
 
@@ -26,9 +26,9 @@ Después de completar esta lección, deberías ser capaz de:
 
 ## Descubriendo Código Abierto y Software
 
-Mucha gente descubre el código a través de conversaciones con sus colegas o leyendo artículos de revistas y asistiendo a charlas en conferencias. Esta es una excelente manera de conocer el código que podría tener aplicaciones para su problema científico.
+Mucha gente descubre el código a través de conversaciones con sus colegas o leyendo artículos de revistas y asistiendo a charlas en conferencias. Esta es una excelente manera de conocer el código que podría tener aplicaciones para problemas científicos.
 
-¿De que otras maneras alguien puede buscar código abierto? Como primer paso, puede buscar código que ya exista porque es probable que otras personas hayan tenido un problema similar y publicado su código en línea. Una manera común de buscar código existente es mediante un motor de búsqueda general. Los motores de búsqueda ofrecen un indicador de la relevancia de un código, qué tan recientemente se actualizó y con qué frecuencia otros hacen referencia a él.
+¿De que otras maneras alguien puede buscar código abierto? Como primer paso, puede buscar código que ya exista porque es probable que otras personas hayan tenido un problema similar y publicado su código en línea. Una manera común de buscar código existente es mediante un motor de búsqueda general. Los motores de búsqueda ofrecen un indicador de la relevancia de un código, con sus respecticas actualizaciones y frecuencia de referencias.
 
 |            |                                                                                                                                                                                                                                                                                                                                                                                                              |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -38,9 +38,9 @@ Mucha gente descubre el código a través de conversaciones con sus colegas o le
 
 Esta búsqueda exitosa se basa en que los desarrolladores de GOTM abran su código.
 
-### El Descubrimiento de Software Abierto Depende de que los Desarrolladores sigan los Principios FAIR
+### El Descubrimiento Depende de los Principios FAIR
 
-Descubrir software abierto depende de que los desarrolladores hagan que su software sea fácil de encontrar. Los principios Encontrable, Accesible, Interoperable y Reutilizable (FAIR) para software de investigación sugieren:
+Descubrir software abierto depende de que los desarrolladores hagan que su software sea fácil de encontrar. Los principios Encontrable, Accesible, Interoperable y Reutilizable (en inglés, FAIR) para software de investigación sugieren:
 
 - El software y sus metadatos asociados deben ser fáciles de encontrar para humanos y máquinas.
 - El software debe describirse con metadatos ricos, indexables y con capacidad de búsqueda.
@@ -70,9 +70,9 @@ La mayor parte del código abierto no es desarrollado por ni para científicos. 
 
 ### Dónde Buscar Depende de tu Necesidad
 
-Existen varios motores de búsqueda populares para fragmentos de código. Primero, simplemente puedes buscar en Google. Otros motores de búsqueda comúnmente utilizados incluyen GitHub Code Search y Stack Overflow. Estos motores de búsqueda te permiten buscar fragmentos de código específicos por lenguaje de programación, palabra clave u otros criterios. GitHub Code Search te permite buscar en GitHub, un popular repositorio de códigos para software científico. Stack Overflow le permite buscar foros donde los usuarios discuten soluciones a problemas de codificación.
+Existen varios motores de búsqueda populares para fragmentos de código. Primero, simplemente puedes buscar en Google. Otros motores de búsqueda comúnmente utilizados son GitHub Code Search y Stack Overflow. Estos motores de búsqueda te permiten buscar fragmentos de código específicos por lenguaje de programación, palabra clave u otros criterios. GitHub Code Search desarrolla la búsqueda en GitHub, un popular repositorio de códigos para software científico. En tanto, Stack Overflow establece la búsqueda en foros donde los usuarios discuten soluciones a problemas de codificación.
 
-#### Examples of code repositories:
+#### Ejemplos de repositorios de código:
 
 <table>
 <colgroup>
@@ -96,39 +96,39 @@ Existen varios motores de búsqueda populares para fragmentos de código. Primer
 
 **Ejemplo: Búsqueda de Código en GitHub**
 
-In this example, we will practice searching for open access code on GitHub. Let's work through a scenario in which you would like to search for the Lomb and Scargle method for estimating a power spectrum.
+En este ejemplo, practicaremos la búsqueda de código de acceso abierto en GitHub. Analicemos un escenario en el que te gustaría buscar el método de Lomb y Scargle para estimar un espectro de potencia.
 
-**Example background**
+**Bases**
 
-GitHub enables users to collaborate on a shared project and track their changes with version control. Users can create a repository and grant others access, or make it open access. GitHub involves a large community of open access users who make their code available for free.
+GitHub permite a los usuarios colaborar en un proyecto compartido y realizar un seguimiento de sus cambios con control de versiones. Los usuarios pueden crear un repositorio y otorgar acceso a otros, o darle acceso abierto. GitHub involucra una gran comunidad de usuarios de acceso abierto que ponen su código a disposición de forma gratuita.
 
-**Example instruction**
+**Instrucciones**
 
-Begin by visiting the GitHub website to search for openly available software packages. You will need to create a free account for this action. Navigate to the Search Code page to begin your search and access tutorials on the interface and capabilities of the search portal. Alternatively, you can simply input your search terms in the search bar while on your profile page. Next, input the related keywords into the search bar. Search for "Lomb Scargle" and find several repositories with relevant code in various languages, along with thousands of related snippets of code. Congratulations! You have begun your open access software journey and can now view the work of thousands of others who once were where you are now. Upwards and onwards!
+Comienza visitando el sitio web de GitHub para buscar paquetes de software disponibles abiertamente. Deberás crear una cuenta gratuita para esta acción. Ahora navega en la página Código de Búsqueda para acceder a tutoriales sobre la interfaz y conocer las capacidades del portal de búsqueda. Alternativamente, puedes ingresar de forma simple tus términos en la barra de búsqueda mientras estás en tu página de perfil. Luego, ingresa las palabras clave relacionadas. Busca "Lomb Scargle" y encuentra varios repositorios con código relevante en varios idiomas, junto con miles de fragmentos de código relacionados. ¡Felicitaciones! Has comenzado tu viaje hacia el software de acceso abierto y ahora puedes ver el trabajo de miles de personas que alguna vez estuvieron donde tú estás ahora. ¡Arriba y adelante!
 
 <img src="../images/media/image335.jpg" style="width:100%;height:auto;" />
 
-Screenshot of the repositories returned from our search
+Captura de pantalla de los repositorios devueltos por nuestra búsqueda
 
 <img src="../images/media/image496.jpg" style="width:100%;height:auto;" />
 
-Screenshot of the code snippets returned from our search
+Captura de pantalla de los fragmentos de código devueltos por nuestra búsqueda
 
 ---
 
-With open software, knowing where to search and what to search for can be a challenging problem. You can always start with a Google Search. However, it can be valuable to think through some of the questions that guide the discovery process. If the user lacks relevant experience, it can also be helpful to engage experienced colleagues at this stage.
+Con el software abierto, saber dónde buscar y qué buscar puede ser un problema desafiante. Siempre puedes comenzar con una búsqueda en Google. Sin embargo, puede resultar valioso reflexionar sobre algunas de las preguntas que guían el proceso de descubrimiento. Si el usuario carece de experiencia relevante, también puede resultar útil involucrar a colegas experimentados en esta etapa.
 
-Review the flow chart that illustrates how the search follows the definition of the need.
+Revisa el diagrama de flujo que ilustra cómo la búsqueda sigue la definición de la necesidad.
 
 <img src="../images/media/image128.jpg" style="width:6.23514in;height:3.24979in" />
 
-### Open Software is Aggregated and Searchable in Repositories
+### El Software Abierto se Agrega y se Puede Buscar en Repositorios
 
-A software repository is an online collection of stand-alone application software packages. Repositories typically control access and track the deployments/downloads of packages.
+Un repositorio de software es una colección en línea de paquetes de software de aplicaciones independientes. Los repositorios normalmente controlan el acceso y rastrean las implementaciones/descargas de paquetes.
 
-Software packages are often provided as executables without code.
+Los paquetes de software suelen proporcionarse como ejecutables sin código.
 
-The collection typically includes metadata, documentation, and licensing restrictions on each package. Puede incluir diferentes versiones de paquetes de software y las plataformas o entornos en los que se puede ejecutar el paquete de software.
+La colección normalmente incluye metadatos, documentación y restricciones de licencia para cada paquete. Puede incluir diferentes versiones de paquetes de software y las plataformas o entornos en los que se puede ejecutar el paquete de software.
 
 La mayoría de los códigos de investigación deberían ser software de código abierto, el cual se almacena en repositorios de código.
 
