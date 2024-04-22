@@ -71,47 +71,47 @@ Algunas de las herramientas que se pueden utilizar para desarrollar software se 
 
 ### ¿Qué son los Resultados?
 
-Los resultados capturan los distintos productos de investigación del proceso científico. Las publicaciones son el tipo más común de resultados, pero se pueden incluir otros tipos de productos. Both data and software can be considered a type of result, but when we discuss results, we will focus on other types of results. Results can include the following:
+Los resultados capturan los distintos productos de investigación del proceso científico. Las publicaciones son el tipo más común de resultados, pero se pueden incluir otros tipos de productos. Aunque los datos y los programas informáticos pueden considerarse un tipo de resultado, aquí nos centraremos en otras clases de resultados. Estos pueden incluir:
 
-- Peer-reviewed publications
-- Computational notebooks
-- Blog posts
-- Videos and podcasts
-- Social media posts
-- Conference abstracts and presentations
-- Forum discussions
+- Publicaciones revisadas por pares
+- _Notebooks_  (cuadernos virtuales de programación)
+- Entradas de blog
+- Vídeos y podcasts
+- Publicaciones en redes sociales
+- Resúmenes y presentaciones de la conferencias
+- Foros de debate
 
-You may already be familiar with the research life cycle, but still unfamiliar with the types of results that can be shared openly throughout this process. When sharing results, we strive to be as open as possible, with the goal of increasing reproducibility, accessibility, and inclusion of our science. Throughout the research lifecycle, there are multiple opportunities to openly share different results that can lead to new collaborations and lines of inquiry. Additional details on the scope of open results are shared in Module 5 – Open Results.
+Puede que estemos familiarizados con el ciclo de vida de la investigación, pero aún desconozcamos los tipos de resultados que pueden compartirse abiertamente a lo largo de este proceso. Al compartir resultados, es importante ser lo más abiertos posible, con el objetivo de aumentar la reproducibilidad, la accesibilidad y la inclusión de nuestra ciencia. A lo largo del ciclo de vida de la investigación existen múltiples oportunidades para compartir abiertamente diferentes resultados, y estos pueden dar lugar a nuevas colaboraciones y líneas de investigación. En el Módulo 5 - Resultados abiertos se ofrecen más detalles sobre el alcance de los resultados abiertos.
 
-## Using Tools for Open Science in Practice
+## Usando herramientas para la Ciencia Abierta en la práctica
 
-The following lessons in this module explore different tools and resources available to researchers for using, making, and sharing open science. As mentioned, it is important to think about how to integrate open science principles across all stages of the research process. Here is an overview of one way the various pieces might work together.
+Las siguientes lecciones de este módulo exploran diferentes herramientas y recursos a disposición de los investigadores para utilizar, crear y compartir la ciencia abierta. Como ya se ha dicho, es importante pensar en cómo integrar los principios de la ciencia abierta en todas las fases del proceso de investigación. Aquí daremos un panorama general de cómo podrían funcionar juntas las distintas piezas.
 
-### The Components of Open Science
+### Los componentes de la Ciencia Abierta
 
 <img src="../images/media/image7.png" style="width:100%;height:auto;" />
 
-The four principal components of open science can be organized in a pyramid of openly-shared research products.
+Los cuatro componentes principales de la ciencia abierta pueden organizarse en una pirámide de productos de investigación compartidos abiertamente.
 
-The research paper, closely tied to the results, sits at the top of the pyramid and summarizes how you’ve combined your software and your data to produce your results.
+El artículo de investigación, estrechamente vinculado a los resultados, se sitúa en la cúspide de la pirámide y resume cómo se han combinado el software y los datos para producir los resultados.
 
-The practice of sharing these components can occur at varying degrees of completeness. For the following guidance on how to share components of open science, we simplify the range of completeness to "good", "better", and "best." This range reflects one’s commitment to sharing open science at all steps in the research process and to all of its products.
+La práctica de compartir estos componentes puede darse en distintos grados de exhaustividad. Para las siguientes orientaciones sobre cómo compartir componentes de ciencia abierta, simplificamos el rango de exhaustividad a "bueno", "mejor" y "óptimo". Esta gama refleja nuestro compromiso de compartir la ciencia en todas las etapas del proceso de investigación y en todos sus productos.
 
-### Sharing Open Data
+### Compartir los Datos Abiertos
 
-Data can be easily shared through many different services - the best way for scientific data to be shared is often through a long term data repository that will both preserve your data and make it discoverable. The image provides some of the considerations when sharing the data through [Zenodo](https://zenodo.org/), a generalist data repository. These considerations would be similar for other data repositories. See Module 3 - Open Data for more details on sharing open data.
+Los datos pueden compartirse fácilmente a través de muchos servicios diferentes. La mejor forma de compartir datos científicos suele ser a través de un repositorio de datos a largo plazo que preserve los datos y los haga accesibles. La imagen ofrece algunas consideraciones a la hora de compartir los datos a través de [Zenodo](https://zenodo.org/), un repositorio de datos generalista. Estas consideraciones serían similares para otros repositorios de datos. En el Módulo 3 - Datos abiertos se brinda más información sobre la puesta en común de datos abiertos.
 
 <img src="../images/media/image8.png" style="width:100%;height:auto;" />
 
-### Sharing Open Code
+### Compartir Código Abierto
 
-When sharing open code, it is often through an online version controlled platform that allows others to contribute to the software and provides a history of changes to the software. For example, many researchers choose to post code files on  [GitHub](https://github.com/) with a BSD 3-Clause license. This permits others to contribute and reuse the software. Steps to preserve code and make it discoverable are discussed in Module 4 - Open Code.
+Cuando se comparte código abierto, con frecuencia se hace a través de una plataforma en línea de control de versiones que permite a otros contribuir al software y proporciona un historial de cambios en el mismo. Por ejemplo, muchos investigadores optan por publicar archivos de código en [GitHub](https://github.com/) con una licencia BSD de 3 cláusulas. Esto permite a otros contribuir y reutilizar el software. Los pasos para preservar el código y hacerlo accesible se tratan en el Módulo 4 - Código Abierto.
 
  <img src="../images/media/image9.png" style="width:100%;height:auto;" />
 
-### Sharing an Open Paper
+### Compartir un Artículo Abierto
 
-Researchers can choose to publish in a journal with an open access license. Researchers can search for open access journals through the Directory of Open Access Journals (DOAJ). (See Module 5 - Open Results)
+Los investigadores pueden optar por publicar en una revista con licencia de acceso abierto. Researchers can search for open access journals through the Directory of Open Access Journals (DOAJ). (See Module 5 - Open Results)
 
 ### Sharing Open Results
 
