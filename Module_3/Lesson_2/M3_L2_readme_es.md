@@ -59,39 +59,39 @@ Cuando nos presentamos al momento actual con todos nuestros sentidos, invitamos 
 
 <img src="../images/media/image22.jpeg" style="width:100%;height:auto;" />
 
-Image source: NASA, Dominic Hart 2023
+Fuente de la imagen: NASA, Hart Dominic 2023
 
 ---
 
-### Publications
+### Publicaciones
 
-Datasets are often attached to scholarly publications in the form of supplementary material. Publication search engines can enable the discovery of relevant publications that you can then use to find data from a particular publication.
+Los conjuntos de datos a menudo se adjuntan a publicaciones especializadas en forma de material complementario. Los motores de búsqueda de publicación pueden permitir el descubrimiento de publicaciones relevantes que se pueden usar para encontrar datos de una publicación en particular.
 
-### Data Search Portals
+### Portales de búsqueda de datos
 
-Data can also be found utilizing a wide variety of search portals including:
+Los datos también se pueden encontrar utilizando una amplia variedad de portales de búsqueda, incluyendo:
 
-_Select each tab to find out more information._
+_Seleccione cualquier pestaña para obtener más información._
 
 <table>
   <thead>
     <tr>
-        <th>GENERIC DATA SEARCH PORTALS ☑</th>
-        <th>DISCIPLINE-SPECIFIC DATA SEARCH PORTALS</th>
-        <th>NATIONAL AND INTERNATIONAL DATA SEARCH PORTALS</th>
+        <th>PORTALES DE DATOS GENÉRICOS ☑</th>
+        <th>PORTALES DE BUSQUEDA DE DATOS POR DISCIPLINA ESPECIFICA</th>
+        <th>PORTALES NACIONALES E INTERNACIONALES DE DATOS</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>Generic data search portals enable discovery of a wide variety of data. Not built for specific disciplines, they serve a broader audience. This type of search portal collects and makes data findable. They are not sources of scientific data. These are aggregation services that emphasize quantity, not necessarily quality. This is where citizen scientists often go to find data, and it’s a great way for non-professionals to get involved in science.</p>
-            <p>Examples include:</p>
+            <p>Los portales de búsqueda de datos genéricos permiten el descubrimiento de una gran variedad de datos. No están construidos para disciplinas específicas, sirven a un público más amplio. Este tipo de portal de búsqueda recolecta y hace que los datos sean encontrables. No son fuentes de información científica. Se trata de servicios de agregación que hacen hincapié en la cantidad, no necesariamente de calidad. Aquí es donde los científicos ciudadanos a menudo van a encontrar datos, y para los no profesionales es una gran manera de involucrarse en la ciencia.</p>
+            <p>Los ejemplos incluyen:</p>
             <ul>
                 <li><a href="https://datasetsearch.research.google.com/">Google</a></li>
                 <li><a href="https://www.kaggle.com/datasets">Kaggle</a></li>
                 <li><a href="https://www.wikidata.org/wiki/Wikidata:Main_Page">Wikidata</a></li>
-                <li><a href="https://www.opendatanetwork.com/">Open Data Network</a></li>
-                <li><a href="https://github.com/awesomedata/awesome-public-datasets#readme">Awesome Public Datasets</a></li>
+                <li><a href="https://www.opendatanetwork.com/">Red de datos abiertos</a></li>
+                <li><a href="https://github.com/awesomedata/awesome-public-datasets#readme">Impresionante conjunto de datos públicos</a></li>
             </ul>
         </td>
     </tr>
@@ -101,26 +101,26 @@ _Select each tab to find out more information._
 <table>
   <thead>
     <tr>
-        <th>GENERIC DATA SEARCH PORTALS</th>
-        <th>DISCIPLINE-SPECIFIC DATA SEARCH PORTALS ☑</th>
-        <th>NATIONAL AND INTERNATIONAL DATA SEARCH PORTALS</th>
+        <th>PORTALES DE DATOS GENÉRICOS</th>
+        <th>PORTALES DE DATOS ESPECIFICOS POR DISCIPLINA ☑</th>
+        <th>PORTALES NACIONALES E INTERNACIONALES DE DATOS</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>Discipline-specific data search portals enable the discovery of specific types of data. They generally are tailored to meet their community’s needs.</p>
-            <p>Examples include:</p>
+            <p>Los portales de búsqueda de datos específicos de la disciplina permiten el descubrimiento de tipos específicos de datos. Generalmente, están diseñados para satisfacer las necesidades de su comunidad.</p>
+            <p>Los ejemplos incluyen:</p>
             <ul>
-                <li><a href="https://www.earthdata.nasa.gov/">NASA Earthdata</a></li>
+                <li><a href="https://www.earthdata.nasa.gov/">Datos de la tierra de la NASA</a></li>
                 <li><a href="https://opendata.cern.ch/">CERN</a></li>
-                <li><a href="https://www.ncbi.nlm.nih.gov/">NCBI National Center for Biotechnology Information</a></li>
-                <li><a href="https://www.ebi.ac.uk/">EMBL's European Bioinformatics Institute</a></li>
+                <li><a href="https://www.ncbi.nlm.nih.gov/">Centro Nacional de Información sobre Biotecnología NCBI</a></li>
+                <li><a href="https://www.ebi.ac.uk/">Instituto Europeo de Bioinformática</a></li>
                 <li><a href="https://www.icpsr.umich.edu/web/pages">ISPCR</a></li>
                 <li><a href="https://www.ncdc.noaa.gov/cdo-web/datasets">NOAA Climate Data Online</a></li>
                 <li><a href="https://earthexplorer.usgs.gov/">USGS EarthExplorer</a></li>
-                <li><a href="https://www.opensciencedatacloud.org/">Open Science Data Cloud (OSDC)</a></li>
-                <li><a href="https://pds.nasa.gov/">NASA Planetary Data System</a></li>
+                <li><a href="https://www.opensciencedatacloud.org/">Nube de Datos de Ciencia Abierta (OSDC)</a></li>
+                <li><a href="https://pds.nasa.gov/">Sistema de datos planetarios de la NASA</a></li>
             </ul>
         </td>
     </tr>
@@ -130,24 +130,24 @@ _Select each tab to find out more information._
 <table>
   <thead>
     <tr>
-        <th>GENERIC DATA SEARCH PORTALS</th>
-        <th>DISCIPLINE-SPECIFIC DATA SEARCH PORTALS</th>
-        <th>NATIONAL AND INTERNATIONAL DATA SEARCH PORTALS ☑</th>
+        <th>PORTALES DE DATOS GENÉRICOS</th>
+        <th>PORTALES DE DATOS ESPECIFICOS POR DISCIPLINA</th>
+        <th>PORTALES NACIONALES E INTERNACIONALES DE DATOS ☑</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>National and international data search portals enable discovery of data produced by or funded by national and international organizations.</p>
-            <p>Examples include:</p>
+            <p>Los portales de búsqueda de datos nacionales e internacionales permiten el descubrimiento de datos producidos o financiados por organizaciones nacionales e internacionales.</p>
+            <p>Los ejemplos incluyen:</p>
             <ul>
-            <li><a href="https://data.gov/">US Federal data</a></li>
-            <li><a href="https://data.europa.eu/en">EU Data Portal</a></li>
-            <li><a href="https://apps.who.int/gho/data/node.home">WHO</a></li>
-            <li><a href="https://data.worldbank.org/">The World Bank</a></li>
+            <li><a href="https://data.gov/">Los datos federales de EE.UU</a></li>
+            <li><a href="https://data.europa.eu/en">Portal de datos de la UE</a></li>
+            <li><a href="https://apps.who.int/gho/data/node.home">OMS</a></li>
+            <li><a href="https://data.worldbank.org/">El Banco Mundial</a></li>
             <li><a href="https://www.data.gov.uk/">data.gov.uk</a></li>
             <li><a href="https://data.unicef.org/">UNICEF</a></li>
-            <li><a href="https://www.data.gouv.fr/en/">data.gouv.fr</a> - Open Platform for French Public Data</li>
+            <li><a href="https://www.data.gouv.fr/en/">data.gouv.fr</a> - Plataforma abierta para datos públicos franceses</li>
             </ul>
         </td>
     </tr>
