@@ -133,7 +133,7 @@ La lección anterior describe los requisitos de un plan de gestión de datos (PG
 
 ### Repositorios de datos
 
-Un repositorio de datos es un espacio digital para alojar, curar y compartir resultados de investigación. Data repositories were originally used to support the needs of research communities. Ejemplos de repositorios de datos incluyen:
+Un repositorio de datos es un espacio digital para alojar, curar y compartir resultados de investigación. Los repositorios de datos se usaron originalmente para apoyar las necesidades de las comunidades de investigación. Ejemplos de repositorios de datos incluyen:
 
 - [**Protein Data Bank**(Banco de Datos de Proteina)](https://www.rcsb.org/) utiliza un repositorio de datos para catalogar estructuras 3D de proteínas y ácidos nucleólicos.
 - [**Genbank**](https://www.ncbi.nlm.nih.gov/genbank/) de los Institutos Nacionales de Salud utiliza una base de datos de secuencias genéticas que contiene secuencias anotadas de ácidos nucleicos disponibles públicamente.
