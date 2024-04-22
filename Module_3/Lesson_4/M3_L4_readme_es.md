@@ -179,12 +179,12 @@ Adicionalmente, los repositorios pueden requerir autorización y autentificació
             <p>Si utilizas un repositorio que tiene personal para ayudarte con el proceso, podrían solicitar revisar y comentar tu plan de gestión de datos.</p>
             <p>El repositorio puede solicitar que realice algunas pruebas de su muestra de datos para evaluar:</p>
             <ul>
-            <li>That the data format you intend to use is supported.</li>
-            <li>That data variables are named as expected.</li>
-            <li>That metadata vocabulary is correct.</li>
-            <li>That repository-specific requirements are met.</li>
+            <li>Que el formato de datos que pretendes utilizar sea compatible.</li>
+            <li>Que las variables del conjunto de datos estén nombradas como se espera.</li>
+            <li>Que el vocabulario de metadatos sea correcto.</li>
+            <li>Que se cumplan los requisitos específicos del repositorio.</li>
             </ul>
-            <p>This conformity check can identify misunderstandings early and result in a smooth final submission of your data to the repository.</p>
+            <p>Esta serie de comprobaciones permite identificar errores tempranamente y dar como resultado un envío final de tus datos al repositorio sin inconvenientes.</p>
         </td>
     </tr>
   </tbody>
@@ -193,15 +193,15 @@ Adicionalmente, los repositorios pueden requerir autorización y autentificació
 <table>
   <thead>
     <tr>
-        <th>START WORKING WITH A REPOSITORY</th>
-        <th>MAINTAINING DATA AT A REPOSITORY ☑</th>
-        <th>ARCHIVING DATA AT A REPOSITORY</th>
+        <th>COMENZAR A TRABAJAR CON UN REPOSITORIO</th>
+        <th>MANTENIMIENTO DE DATOS EN EL REPOSITORIO ☑</th>
+        <th>ARCHIVAR DATOS EN EL REPOSITORIO</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>As you progress through your project lifecycle, utilize your repository's update, revision and resubmission processes to keep the archived data products up to date. Any new versions of the data you want to share through the repository will need to go through a similar process as your initial data set.</p>
+            <p>A medida que avanzas en el ciclo de vida de tu proyecto, utiliza los procesos de actualización, revisión y reenvío de tu repositorio para mantener actualizados los archivos de datos. Cualquier nueva versión de los datos que desees compartir a través del repositorio tendrá que pasar por un proceso similar al del conjunto de datos inicial.</p>
             <p>Any new versions of the data you want to share through the repository should go through the same DMP review, compliance check, and upload procedure as your initial data set.</p>
         </td>
     </tr>
