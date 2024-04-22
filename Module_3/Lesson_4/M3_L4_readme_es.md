@@ -79,75 +79,75 @@ Los datos deben ser tan abiertos como sea posible y tan cerrados como sea necesa
 - Algunos datos están sujetos a leyes, regulaciones y políticas que limitan su liberación.
 - Tu institución local puede tener políticas y recursos adicionales; investígalos lo antes posible y regularmente.
 
-### Verify Your Data is Sharable
+### Verifica que Tus Datos Sean Compartibles
 
-Before you decide where to share your data, you must make sure you can share your data.
+Antes de decidir dónde compartir tus datos, debes asegurarte de que puedes compartirlos.
 
-Data needs to be as open as possible and as closed as necessary...
+Los datos deben ser tan abiertos como sea posible y tan cerrados como sea necesario...
 
-- Open data is a powerful way to enable discovery, transparency, and scientific progress
-- But, some data are subject to laws, regulations, and policies which limit the release of the data
-- Your local institution may have additional policies and resources – investigate them early and often
+- Los datos abiertos son una manera poderosa para facilitar el descubrimiento, transparencia y progreso científico
+- Pero algunos datos están sujetos a leyes, regulaciones y políticas que limitan su liberación
+- Tu institución local puede tener políticas y recursos adicionales; investígalos lo antes posible y regularmente
 
-Specific considerations that might prevent the sharing of your data include:
+Algunas consideraciones específicas que pueden prevenir que compartas tus datos son:
 
-- A country's military secrets or violations of national interests
-- Private medical information or an individual’s personal data
-- Indigenous/cultural/conservation concerns
-- Intellectual Property, Patented
-- Other - please think about what you are sharing and the implications of sharing it (for example - do you have permission from everyone involved?)
+- Secretos militares de un país o violaciones de los intereses nacionales
+- Información médica privada o datos personales de un individuo
+- Cuestiones culturales/indígenas/de conservación
+- Propiedad Intelectual, patentes
+- Otras: por favor piensa sobre lo que estás compartiendo y cuáles son las implicancias de hacerlo (por ejemplo, ¿tienes el permiso de todas las personas involucradas?)
 
-In the first module of this curriculum, we listed several reasons why certain research products should not be shared. We will review some of these reasons, and go into more detail on a few that are particularly relevant to data.
+En el primer módulo de este curso, enumeramos varias razones por las que ciertos productos de investigación no deben ser compartidos. Repasaremos algunas de estas razones y entraremos en detalle en algunas que son particularmente relevantes para los datos.
 
-### Export and Security Considerations
+### Exportación y Consideraciones de Seguridad
 
-Relevant laws and regulations that may prevent the release of data include but are not limited to:
+Leyes y regulaciones relevantes que pueden evitar la publicación de datos incluyen, pero no están limitadas a:
 
-- [International Traffic in Arms Regulation](https://www.pmddtc.state.gov/?id=ddtc_public_portal_itar_landing) (ITAR), which regulates the manufacture, sale, distribution, and export of defense-related articles and services.
-- [Export Administration Regulations](https://www.bis.doc.gov/index.php/regulations/export-administration-regulations-ear) (EAR), which regulates the manufacture, sale, distribution, and export of commercial and dual- use items, technology, and information not already covered by ITAR.
+- [Regulación Internacional de Tráfico de Armas](https://www.pmddtc.state.gov/?id=ddtc_public_portal_itar_landing) (ITAR por su nombre en inglés), que regula la manufactura, venta, distribución y exportación de artículos y servicios relacionados con la defensa en Estados Unidos.
+- [Regulaciones de Administración de Exportación](https://www.bis.doc.gov/index. cp/regulations/export-administration-regulations-ear) (EAR por su nombre en inglés), que regula la manufactura, venta, distribución y exportación de artículos comerciales y de doble uso, tecnología e información no cubiertos por ITAR.
 
-**Example: NASA Space System Protection Standard**
+**Ejemplo: Estándar de Protección del Sistema Espacial de la NASA**
 
-NASA STD 1006.1 [Space System Protection Standard](https://standards.nasa.gov/standard/NASA/NASA-STD-1006), which establishes protection requirements to ensure NASA missions are resilient to purposeful threats.
+NASA STD 1006.1 [Estándar de Protección del Sistema Espacial](https://standards.nasa.gov/standard/NASA/NASA-STD-1006), el cual establece los requisitos de protección para asegurar que las misiones de la NASA sean resistentes a amenazas intencionales.
 
-### Controlled Information Considerations
+### Consideraciones de Información Controlada
 
-Some regulations and policies that may prevent the sharing of data include but are not limited to:
+Leyes y regulaciones relevantes que pueden evitar la publicación de datos incluyen, pero no están limitadas a:
 
-- [Health Insurance Portability and Accountability Act](https://www.hhs.gov/hipaa/index.html) (HIPAA), which established standards to protect sensitive patient health information from disclosure.
-- [Controlled Unclassified Information](https://www.archives.gov/cui) provides standards for handling unclassified information that requires safeguarding or dissemination controls consistent with laws, federal regulations, and policies.
-- Federal laws and regulations governing [classified information](https://www.archives.gov/isoo/faqs) or security requirements.
+- [Ley de Portabilidad y Responsabilidad del Seguro Médico](https://www.hhs.gov/hipaa/index.html) (HIPAA de su nombre en inglés), que estableció estándares para proteger a la información sensible de pacientes de su divulgación.
+- [Información No Clasificada Controlada](https://www.archives.gov/cui) proporciona estándares para manejar información no clasificada que requiere protección o controles de divulgación acorde con leyes, regulaciones federales y políticas.
+- Normas federales y regulaciones de gobernanza [información clasificada](https://www.archives.gov/isoo/faqs) o requisitos de seguridad.
 
-### Intellectual Property Considerations
+### Consideraciones de Propiedad Intelectual
 
-Data may be subject to intellectual property, copyright, and licensing concerns. A few of the relevant regulations and policies include patent or intellectual property laws including the [Bayh-Dole Act](https://www.govinfo.gov/content/pkg/USCODE-2011-title35/html/USCODE-2011-title35-partII-chap18.htm), which enables universities, nonprofit research institutions, and small businesses to own, patent, and commercialize inventions developed under federally funded research programs.
+Los datos pueden estar sujetos a propiedad intelectual, derechos de autoría y licencias. Algunas de las regulaciones y políticas relevantes incluyen leyes de propiedad intelectual o patentes, incluyendo la [Ley Bayh-Dole](https://www.govinfo.gov/content/pkg/USCODE-2011-title35/html/USCODE-2011-title35-partI-chap18. tm), que permite a las universidades, instituciones de investigación sin fines de lucro y pequeñas empresas poseer, patentar y comercializar invenciones desarrolladas bajo programas de investigación con fondos federales.
 
-**Example: NASA FAR Supplement 1852.227**
+**Ejemplo: Suplemento FAR de la NASA 1852.227**
 
-[NASA FAR Supplement 1852.227](https://prod.nais.nasa.gov/far/far0595-nfs012617/5227.htm), which outlines patent and data rights for government contracts.
+[Suplemento FAR 1852.227](https://prod.nais.nasa.gov/far/far0595-nfs012617/5227.htm), que describe los derechos de patentes y datos de los contratos gubernamentales.
 
 ---
 
-Many research institutions have resident experts in intellectual property, copyright, and patent law. They can be a great resource if you have any questions or concerns.
+Muchas instituciones de investigación tienen personas residentes expertas en propiedad intelectual, derechos de autoría y derecho de patentes. Pueden ser un gran recurso si tienes alguna pregunta o preocupación.
 
-## Where to Share Data
+## Dónde Compartir Datos
 
-Data can be shared in a variety of locations. While sharing data via email or websites is popular, they are not recommended as they do not meet the requirements for findability or long-term archival support. Sharing data as part of the supplemental material of a peer reviewed publication, especially for small data sets, is acceptable in some fields. A long term repository that provides a permanent identifier is the best option for sharing of data.
+Los datos pueden compartirse en una enorme variedad de lugares. Si bien es común compartir datos a través de emails o sitios web, estos no son medios recomendados ya que no cumplen con los requisitos de que sean encontrables o archivados a largo plazo. Compartir datos como parte del material complementario de una publicación revisada por pares, especialmente para conjuntos pequeños de datos, es aceptable en algunos campos. Un repositorio a largo plazo que proporcione un identificador permanente es la mejor opción para compartir datos.
 
-### Selecting a Data Repository
+### Seleccionando un Repositorio de Datos
 
-If you do not already have a data repository in mind, consider the following to narrow down your options:
+Si aún no tienes un repositorio de datos en mente, ten en cuenta lo siguiente para acotar tus opciones:
 
-- Does your funding sponsor require a specific data repository?
-- Does your organization/institution recommend a specific data repository?
-- Is there a domain-specific repository that is widely-used in your research field?
-- Does the repository provide open data access?
-- Do you think the tools offered by the repository for data discovery and distribution are suitable for your data and FAIR?
-- Does the repository require funding from your project, does it fit within your budget and does it require sustained support beyond the project life cycle?
+- ¿Quien te financia requiere un repositorio de datos específico?
+- ¿Tu organización o institución recomienda un repositorio de datos específico?
+- ¿Existe un repositorio de dominio específico que sea ampliamente usado en tu área de investigación?
+- ¿El repositorio provée acceso abierto a los datos?
+- ¿Crées que las herramientas que ofrece el repositorio para descubrimiento y distribución de datos son apropiadas para tus datos y los principios FAIR?
+- ¿El repositorio requiere financiamiento de tu proyecto, se ajusta con tu presupuesto y requiere mantenimiento constante más allá del ciclo de vida del proyecto?
 
-Find and compare the services, beneﬁts and limitations of the repositories you are considering. Each repository will have its own processes and requirements for accepting and hosting your data depending on their level of funding, purpose, and user base.
+Encuentra y compara los servicios, beneficios y limitaciones de los repositorios que estás considerando. Cada repositorio tendrá sus propios procesos y requerimientos para aceptar y albergar tus datos dependiendo de su nivel de financiamiento, propósito y base de usuarios.
 
-Similarly, each repository will provide a different set of functionality and services depending on their level of funding, purpose, and user base.
+De la misma manera, cada repositorio proporcionará un conjunto diferente de funcionalidades y servicios dependiendo de su nivel de financiamiento, propósito y base de usuarios.
 
 Data with privacy concerns may have additional anonymization or approval processes or restrictions on who can access the data.
 
