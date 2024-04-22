@@ -149,7 +149,7 @@ Encuentra y compara los servicios, beneficios y limitaciones de los repositorios
 
 De la misma manera, cada repositorio proporcionará un conjunto diferente de funcionalidades y servicios dependiendo de su nivel de financiamiento, propósito y base de usuarios.
 
-Data with privacy concerns may have additional anonymization or approval processes or restrictions on who can access the data.
+Los datos sensibles pueden tener procesos adicionales de anonimización o aceptación, o restricciones sobre quién puede acceder a los datos.
 
 La Casa Blanca presenta una buena descripción general de las características deseables [aquí](https://www.whitehouse.gov/wp-content/uploads/2022/05/05-2022-Desirable-Characteristics-of-Data-Repositories.pdf) (en inglés).
 
