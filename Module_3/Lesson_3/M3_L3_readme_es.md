@@ -188,27 +188,27 @@ Fuente de la imagen: [xkcd.com](https://www.explainxkcd.com/wiki/index.php/File:
 
 ---
 
-Data is the intellectual property of the researcher(s), or possibly of their funder(s) or supporting institution(s). Data is intellectual property, but that does not mean it cannot be used by other researchers (with appropriate attribution).
+Los datos son propiedad intelectual de quienes investigan, o posiblemente de quien financia o la/s institución/es. Los datos son propiedad intelectual, pero eso no significa que no puedan ser utilizados por otros investigadores (con una atribución apropiada).
 
 <img style="width:100%;height:auto;" src="../images/media/applylicensetoyourwork.jpg">
 
-"By applying a license to your work, you make clear what others can do with the things you're sharing, and also the conditions under which you're providing them (like cite you). You can also require others who copy your work to do things in return."
+"Al aplicar una licencia a tu trabajo, dejas claro lo que otros pueden hacer con las cosas que estás compartiendo, y también las condiciones bajo las que los estás proporcionando (como citarte). También puedes exigir a quienes copien tu trabajo que hagan cosas a cambio".
 
-**[Open Science Knowledge Base](https://www.cos.io/)**
+**Base de Conocimiento de Ciencia Abierta [Open Science Knowledge Base](https://www.cos.io/)**
 
 ---
 
-If you don't license your work, others can’t/shouldn’t re-use it - even if you want them to. As mentioned previously in this module, a license is a legal document that tells users how they can use the dataset. It is important to understand the licensing conditions of a dataset before data reuse to avoid any copyright infringement or other intellectual property issues.
+Si no licencias tu trabajo, otros no pueden o no deberían volver a usarlo- aunque quisieras. Como se mencionó previamente en este módulo, una licencia es un documento legal que le dice a las personas usuarias cómo pueden utilizar el conjunto de datos. Es importante entender las condiciones de la licencia de un conjunto de datos antes de la reutilización de esos datos para evitar cualquier infracción de derechos de autor u otras cuestiones de propiedad intelectual.
 
-A dataset without a license does not mean that the data is open; using a licenseless dataset is not ethical. Contacting the data creator and getting explicit permission, while suggesting they apply a license, is the best path forward.
+Un conjunto de datos sin licencia no significa que los datos estén abiertos; el uso de un conjunto de datos sin licencia no es algo ético. Contactar con quien haya creado los datos y obtener los permisos explícitos, suponiendo que aplican una licencia, es el mejor camino a seguir.
 
-Understanding when and where the license applies is crucial. For example, data created using US Government public research funds is, by default, in the public domain. However, that only applies to the jurisdiction of the United States. In order for this to apply internationally, data creators need to select an open license.
+Es crucial entender cuándo y dónde se aplica la licencia. Por ejemplo, los datos creados con fondos públicos de investigación del Gobierno de los Estados Unidos son, por defecto, de dominio público. Sin embargo, esto solo aplica a la jurisdicción de los Estados Unidos. Para que esto se aplique internacionalmente, quienes sean creadores de datos deben seleccionar una licencia abierta.
 
 <img src="../images/media/image34.jpeg" style="width:100%;height:auto;" />
 
-There are several different types of licenses that build on each other. Creative Commons (CC) licenses are often used for datasets. CC0 (also known as "public domain") is the license that allows for the most reuse because it has the least restrictions on what users can do with it. Although the CC0 license does not explicitly require citation, you should still follow community best practices and cite the data source. CC-BY is another common license used for scientific data that requires citation. From there, you can add restrictions around commercial use, ability to adapt or modify the data, or requirements to share with the same license. These other flavors all reduce usability by adding restrictions, such that other scientists may be unable to use the data because of institutional or legal restrictions. Funding agencies may require use of a specific license. For public agencies, this is often CC-0 or CC-BY, to maximize their return on investment and ensure widest possible re-use.
+Existen varios tipos diferentes de licencias que se construyen entre sí. Las licencias "Creative Commons" (CC) son utilizadas a menudo para conjuntos de datos. CC0 (también conocido como "dominio público") es la licencia que permite la mayor reutilización porque tiene las menores restricciones sobre lo que los usuarios pueden hacer. Aunque la licencia CC0 no requiere explícitamente de citas, debes seguir las mejores prácticas de la comunidad y citar la fuente de los datos. CC-BY es otra licencia común utilizada para datos científicos que requiere citación. A partir de ahí, puedes añadir restricciones sobre el uso comercial, la capacidad de adaptar o modificar los datos o requisitos para compartir con la misma licencia. Estos otros aditivos reducen la usabilidad al añadir restricciones, para que otras personas de ciencia no puedan utilizar los datos debido a restricciones institucionales o legales. Las agencias de financiación pueden requerir el uso de una licencia en específico. Para las agencias públicas, a menudo es CC-0 o CC-BY, para maximizar su rentabilidad de la inversión y asegurar la reutilización más amplia posible.
 
-### Example Data Licenses and Reuse
+### Ejemplo de Licencias de Datos y su Reutilización
 
 Here is an example of how a data license can affect reuse. Coupled Model Intercomparison Project Phase 6 (CMIP6) consists of the "runs" from around 100 distinct climate models being produced across 49 different modeling groups. This is the data that is used to understand what our future climate might look like. You have probably seen images that use this data in articles about Earth’s changing climate and how it may impact our lives. Previous versions of these data were licensed CC-BY-NC-SA (cite-noncommercial- sharealike).
 
