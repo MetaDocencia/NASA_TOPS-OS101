@@ -152,17 +152,17 @@ Todas las versiones: [https://doi.org/10.5281/zenod](https://doi.org/10.5281/zen
 En esta lección hemos aprendido:
 
 - El conocimiento científico o los productos de la investigación adoptan la forma de: datos, software y resultados.
-- In general, data are pieces of information about a subject, including theoretical truths, raw measurements, or highly processed values.
+- En general, los datos son partes de información acerca de un tema, incluidas verdades teóricas, mediciones en bruto (informacion sin ningun proceso) o valores altamente procesados.
 
-## Lesson 1: Knowledge Check
+## Lección 1: Validación de conocimientos
 
-Answer the following questions to test what you have learned so far.
+Responda las siguientes preguntas para probar lo que Ud ha aprendido hasta ahora.
 
-_Question_
+_Pregunta_
 
 **01/03**
 
-Read the statement below and decide whether it's true or false:
+Lea esta declaración antes de decidir si es verdadera o falsa:
 
 _Open Science is the principle and practice of making research products and processes available to all, while respecting diverse cultures, maintaining security and privacy, and fostering collaborations, reproducibility, and equity._
 
