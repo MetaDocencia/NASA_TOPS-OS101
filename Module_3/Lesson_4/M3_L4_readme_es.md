@@ -202,7 +202,7 @@ Adicionalmente, los repositorios pueden requerir autorización y autentificació
     <tr>
         <td colspan="3">
             <p>A medida que avanzas en el ciclo de vida de tu proyecto, utiliza los procesos de actualización, revisión y reenvío de tu repositorio para mantener actualizados los archivos de datos. Cualquier nueva versión de los datos que desees compartir a través del repositorio tendrá que pasar por un proceso similar al del conjunto de datos inicial.</p>
-            <p>Any new versions of the data you want to share through the repository should go through the same DMP review, compliance check, and upload procedure as your initial data set.</p>
+            <p>Todas las nuevas versiones del conjunto de datos que quieras compartir a través del repositorio deben someterse al mismo proceso de revisión del PGD, verificación de cumplimiento y procedimiento de carga que el conjunto de datos inicial.</p>
         </td>
     </tr>
   </tbody>
@@ -211,41 +211,41 @@ Adicionalmente, los repositorios pueden requerir autorización y autentificació
 <table>
   <thead>
     <tr>
-        <th>START WORKING WITH A REPOSITORY</th>
-        <th>MAINTAINING DATA AT A REPOSITORY</th>
-        <th>ARCHIVING DATA AT A REPOSITORY ☑</th>
+        <th>COMENZAR A TRABAJAR CON UN REPOSITORIO</th>
+        <th>MANTENIMIENTO DE DATOS EN EL REPOSITORIO</th>
+        <th>ARCHIVAR DATOS EN EL REPOSITORIO ☑</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>When your project ends, ensure you’ve updated and uploaded any companion documentation (discussed in the previous lesson "Making Open Data") with your final version (even if only a single version of the data was made).</p>
-            <p>Make sure the repository will keep your data (or at least your metadata) on- line for a reasonable period of time after your project ends.</p>
-            <p>If any data issues are found after the conclusion of your project, make sure the repository will still accept data revisions, if they are needed.</p>
+            <p>Cuando tu proyecto finalice, asegúrate de haber actualizado y subido cualquier documentación complementaria (discutida en la lección anterior "Haciendo Datos Abiertos") con tu versión final (incluso si sólo se hizo una versión única de los datos).</p>
+            <p>Asegúrate que el repositorio mantendrá tus datos (o al menos tus metadatos) en línea durante un período de tiempo razonable luego de que tu proyecto termine.</p>
+            <p>Si se encuentra algún problema con los datos después de la finalización de tu proyecto, asegúrate de que el repositorio aceptará revisiones de la base de datos si son necesarias.</p>
         </td>
     </tr>
   </tbody>
 </table>
 
-## How to Enable Reuse of Data
+## Cómo habilitar la reutilización de datos
 
-### Obtaining a DOI
+### Obtener un DOI
 
-Individuals cannot typically request a DOI (digital object identifier) themselves but rather have to go through an authorized organization that can submit the request, such as:
+Por lo general, las personas no pueden solicitar un identificador de objeto digital (DOI, por sus siglas en inglés) por sí mismas, sino que deben acudir a una organización autorizada que pueda enviar la solicitud, como por ejemplo:
 
-- The data repository
-- Your organization
-- The publisher (if the data set is part of a publication)
+- El repositorio de datos
+- Tu organización
+- Quien realiza la edición (si el conjunto de datos es parte de una publicación)
 
-Data makers should provide summary information for DOI landing page(s) if required. Data sharers should accommodate data providers' suggestions and comply with DOI guidelines and create landing page(s). If possible, reserve a DOI for you ahead of creating your data.
+Las personas que crean conjuntos datos deben proporcionar información resumida sobre la(s) página(s) de destino de DOI si es necesario. Aquellas que comparten datos deben tener en cuenta las sugerencias de quienes los proveen, cumplir con las pautas del DOI y crear el enlace a la(s) página(s) de destino. Si es posible, debe reservarse un DOI antes de crear los datos.
 
-### Ensuring Findability
+### Garantizar la encontrabilidad
 
-Repositories handle the sharing, distribution, and curation of data. Additional services they may provide include:
+Los repositorios se encargan del compartir, distribuir y curar datos. Algunos servicios adicionales que pueden ofrecer incluyen:
 
-- The assignment of a persistent identifier (like a DOI) to your data set
-- The indexing and/or registration of your data and metadata in various services so that they can be searched and found online (i.e., through search engines).
-- The provision of feedback to data makers to help them optimize their metadata for findability.
+- La asignación de un identificador persistente (como un DOI) a tu conjunto de datos.
+- Indexación y/o registro de tus datos y metadatos en varios servicios para que puedan ser buscados y encontrados en línea (esto es, a través de motores de búsqueda).
+- Provisión de retroalimentación a quienes crean datos para ayudarles a optimizar sus metadatos para facilitar su búsqueda.
 - Coordinating with data makers to ensure metadata refers to the DOI.
 - Ensuring the DOI is associated with a landing page with information about your data.
 
