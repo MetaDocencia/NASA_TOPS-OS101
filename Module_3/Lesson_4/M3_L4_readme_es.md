@@ -246,56 +246,56 @@ Los repositorios se encargan del compartir, distribuir y curar datos. Algunos se
 - La asignación de un identificador persistente (como un DOI) a tu conjunto de datos.
 - Indexación y/o registro de tus datos y metadatos en varios servicios para que puedan ser buscados y encontrados en línea (esto es, a través de motores de búsqueda).
 - Provisión de retroalimentación a quienes crean datos para ayudarles a optimizar sus metadatos para facilitar su búsqueda.
-- Coordinating with data makers to ensure metadata refers to the DOI.
-- Ensuring the DOI is associated with a landing page with information about your data.
+- Coordinación con quienes producen los datos para garantizar que los metadatos redirigen al DOI.
+- Asegurar que el DOI esté asociado con una página de destino con información sobre tus datos.
 
-### Making it Easy to Cite Your Data
+### Facilitar la cita de tus datos
 
-The goal is to make it easy to cite your data. Best practices include:
+El objetivo es hacer que sea fácil citar tus datos. Las mejores prácticas incluyen:
 
-- Include a citation statement that includes your DOI.
-- Different repositories and journals have different standards for how to cite data. If your repository encourages it, include a .CFF file with your data that explains how to cite your data.
-- Clearly identify the data creators and/or their institution in your citation.
-  - This allows users to follow up with the creators if they have questions or discover issues.
-  - Include ORCiD of data authors where possible in the citation.
+- Incluir una enunciación de cita que contenga tu DOI.
+- Diferentes repositorios y revistas tienen diferentes estándares sobre cómo citar datos. Si tu repositorio lo fomenta, incluye un archivo .CFF con tus datos que explique cómo citarlos.
+- Identificar claramente a autores de datos y/o su institución en tu cita.
+  - Esto permite a quienes acceden a los datos ponerse en contacto con quienes los crearon si tienen preguntas o descubren problemas.
+  - Incluir el ORCiD de cada autor de los datos cuando sea posible en la cita.
 
-Now that your data are at a repository and have a citation statement and DOI, publicize it to your users and remind them to cite your data in their work!
+Ahora que tus datos están en un repositorio, tienen una enunciación de cita y DOI, ¡publícalos para que sean reutilizables y recuérdales a quienes los usan que citen tus datos en sus trabajos!
 
-## Who is Responsible for Sharing Data
+## ¿Quién es responsable de compartir datos?
 
-Sharing data openly is a team effort. An important part of planning for open data is planning and agreeing to roles and responsibilities of who will ensure implementation of the plan.
+Compartir datos abiertamente es un esfuerzo en equipo. Una parte importante de la planificación de los datos abiertos es planear y acordar las funciones y responsabilidades de quien garantizará la implementación del plan.
 
-So what needs to be done? Documenting these roles and responsibilities in your Data Management Plan will help your team stay organized and do science faster! A well-written, detailed plan should include:
+Entonces, ¿qué hay que hacer? ¡Documentar estos roles y responsabilidades en tu Plan de Gestión de Datos ayudará al equipo a a mantenerse organizado y hacer ciencia más rápido! Un plan detallado y bien redactado debe incluir:
 
-### Who Will Move Data to a Repository
+### ¿Quién moverá los datos al repositorio?
 
-Once you are ready to send your data to your repository, find the repository's recommendations for uploading data. Determine who will work with your repository to accomplish the following types of activities:
+Una vez que estés en condiciones de enviar tus datos al repositorio, busca las recomendaciones del mismo para cargar los datos. Determina quién trabajará con el repositorio para llevar a cabo los siguientes tipos de actividades:
 
-- Provide information on data volume, number of files, and nature (e.g., revised files)
-- Check that the file name follows best practices
-- How will the data be moved? (especially when files are large)
-- Check the data! Verify the integrity of the data, metadata, and documentation transfer
+- Proporcionar información sobre el volumen de datos, número de archivos y naturaleza (por ejemplo, archivos revisados).
+- Verificar que el nombre del archivo siga buenas prácticas.
+- ¿Cómo se trasladarán los datos? (especialmente cuando los archivos son grandes)
+- ¡Comprobar los datos! Verificar la integridad de los datos, metadatos y transferencia de documentación.
 
-### Who Will Develop the Data Documentation and Metadata
+### ¿Quién desarrollará la documentación de datos y los metadatos?
 
-Determine who will work with your repository, inventory the transferred data, metadata, and documentation. This role might include the task of populating any required metadata in databases to make the data findable.
+Determinar quién trabajará con el repositorio, realizará el inventario de los datos, metadatos y documentación transferidos. Esta función podría incluir la tarea de completar los metadatos requeridos en las bases de datos para que los archivos sean fáciles de encontrar.
 
-You may be able to accomplish some of these tasks through a repository's interface. However, some types of repositories may require you to interact with their administration teams. For this role, determine who will:
+Es posible que algunas de estas tareas se puedan realizar a través de la interfaz del repositorio. Sin embargo, algunos tipos de repositorios pueden requerir que se interactúe con sus equipos de administración. Para este rol, determinar quién:
 
-- Provide suggestions to organize data content and logistics-
-- Develop the metadata
-- Develop the documentation (e.g., README file or report)
-- Extract metadata from data files, metadata files (if applicable), and documentation to populate the metadata database and request additional metadata as necessary
+- Proporcionará sugerencias para organizar el contenido de datos y logística.
+- Desarrollará los metadatos.
+- Desarrollará la documentación (por ejemplo, archivo LEEME o reporte)
+- Extraerá metadatos de los archivos de datos, archivos de metadatos (si corresponde) y documentación para llenar la base de datos de metadatos y solicitará metadatos adicionales según sea necesario.
 
-### Who Will Help With Data Reuse
+### ¿Quién ayudará con la reutilización de datos?
 
-Once the repository has made your data available, someone from your team must test access to the data (its accessibility) and distribution methods (its findability). If possible, identify who will work with your repository to optimize/modify tools for intuitive human access and standardize machine access. This role requires someone who to:
+Una vez que el repositorio haya puesto tus datos a disposición, alguien de tu equipo debe probar el acceso a los datos (su accesibilidad) y los métodos de distribución (su encontrabilidad). Si es posible, identificar quién trabajará con el repositorio para optimizar/modificar herramientas para un acceso humano intuitivo y estandarizar el acceso de máquinas. Este rol requiere alguien que:
 
-- Clearly communicate the open protocols needed for the data/metadata.
-- Provide actual data use cases to data publisher to optimize/modify data distribution tools based on available metadata.
-- Understand the access protocol(s) and evaluate implications to targeted communities and user communities at large in terms of accessibility.
+- Comunique claramente los protocolos abiertos necesarios para los datos/metadatos.
+- Proporcione casos de uso de datos reales a quien edita los datos, para que pueda optimizar y/o modificar herramientas de distribución de datos basadas en los metadatos disponibles.
+- Comprenda el(los) protocolo(s) de acceso y evalúe las implicaciones para las comunidades objetivo y las personas usuarias en general, en términos de accesibilidad.
 
-### Who Will Develop Guidance on Privacy and Cultural Sensitivity of Data
+### ¿Quién desarrollará una guía sobre privacidad y sensibilidad cultural de los datos?
 
 Sharing data should be respectful of the communities that may be involved. This means thinking about privacy issues and cultural sensitivities. Who on your team will identify and develop guidance on:
 
