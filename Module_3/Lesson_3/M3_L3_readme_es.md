@@ -184,7 +184,7 @@ La versión adecuada preserva la calidad y la procedencia de los datos (el orige
 
 <img src="../images/media/image32.jpeg" style="width:100%;height:auto;" />
 
-Image source: [xkcd.com](https://www.explainxkcd.com/wiki/index.php/File:copyright.jpg)
+Fuente de la imagen: [xkcd.com](https://www.explainxkcd.com/wiki/index.php/File:copyright.jpg)
 
 ---
 
