@@ -224,7 +224,7 @@ _Select each tab to find out more information._
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Muchas universidades y organizaciones apoyan la gestión de datos y de software de investigación con repositorios, conocidos como repositorios institucionales, para ayudar a sus investigadores con el cumplimiento de los requisitos.</p>
+            <p>Muchas universidades y organizaciones apoyan la gestión de datos y de software de investigación con repositorios, conocidos como repositorios institucionales, para ayudar a sus investigadores con los requisitos de cumplimiento.</p>
         </td>
     </tr>
   </tbody>
