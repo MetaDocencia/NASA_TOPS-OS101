@@ -164,32 +164,32 @@ _Pregunta_
 
 Lea esta declaración antes de decidir si es verdadera o falsa:
 
-_Open Science is the principle and practice of making research products and processes available to all, while respecting diverse cultures, maintaining security and privacy, and fostering collaborations, reproducibility, and equity._
+_La ciencia abierta es el principio y la práctica de lograr que los productos y procesos de investigación estén disponibles para todos, mientras se respeta las diversas culturas, manteniendo la seguridad, privacidad, fomentando la colaboración, la reproducibilidad y la equidad._
 
-- True
-- False
+- Verdadero
+- Falso
 
-_Question_
+Pregunta
 
-**02/03**
+02/03
 
-What are the four principal outputs of open science? Select all that apply.
+¿Cuáles son los cuatro resultados principales de la ciencia abierta? Seleccione todas las que correspondan.
 
-- Budgets
-- Results
+- Costos / Presupuestos
+- Resultados
 - Inclusion
-- Data
-- Code
-- Paper
+- Fechas
+- Codigo
+- Paper / Resumen / Trabajo
 
-_Question_
+Pregunta
 
-**03/03**
+03/03
 
-Which of the following is a type of software? Select all that apply.
+¿Cuál de los siguientes es un tipo de software? Seleccione todas las que correspondan.
 
-- General purpose
-- Operational and Infrastructure
-- Modeling and Simulation
-- Analysis
+- Propósito general
+- Operacional e Infraestructura
+- Modelado y Simulación
+- Análisis
 - Material
