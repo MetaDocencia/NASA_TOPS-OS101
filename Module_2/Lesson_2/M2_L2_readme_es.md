@@ -1,34 +1,34 @@
-# Lesson 2: General Tools for Open Science
+# Lección 2: Herramientas generales para la ciencia abierta
 
-## Navigation
+## Navegación
 
-- [Introduction to Open Science Tools](#introduction-to-open-science-tools)
-- [Persistent Identifiers](#persistent-identifiers)
-- [Useful Open Science Tools](#useful-open-science-tools)
-- [Open Science and Data Management Plans](#open-science-and-data-management-plans)
-- [Lesson 2: Summary](#lesson-2-summary)
-- [Lesson 2: Knowledge Check](#lesson-2-knowledge-check)
+- [Introducción a las herramientas de ciencia abierta](#introduccion-a-las-herramientas-de-ciencia-abierta)
+- [Identificadores persistentes](#identificadores-persistentes)
+- [Herramientas útiles de ciencia abierta](#herramientas-utiles-de-ciencia-abierta)
+- [Planes de ciencia abierta y gestión de datos](#planes-de-ciencia-abierta-y-gestion-de-datos)
+- [Lección 2: Resumen](#leccion-2-resumen)
+- [Lección 2: Validación de conocimientos](#leccion-2-validacion-conocimientos)
 
-## Overview
+## Descripción general
 
-This lesson introduces you to the commonly used tools in open science. It starts out by providing a brief introduction to open science tools and describes persistent identifiers - one of the most common open science tools in use that ensures reproducibility, accessibility, and recognition of scientific products. This is followed by descriptions of other common open science tools that are applicable regardless of your field of study. The lesson wraps up with a description of open science and data management plans that is a key component to sharing your science throughout the research process.
+Esta lección presenta las herramientas de mayor uso en ciencia abierta. Inicia brindando una breve introducción a las herramientas de ciencia abierta y describe identificadores persistentes, una de las herramientas de ciencia abierta más comunes que garantiza la reproducibilidad, la accesibilidad y el reconocimiento de los productos científicos. Le siguen descripciones de otras herramientas comunes de ciencia abierta que son aplicables independientemente de su campo de estudio. Esta lección concluye con una descripción de la ciencia abierta y los planes de gestión de datos, los cuáles son un componente clave para compartir su ciencia durante todo el proceso de investigación.
 
-## Learning Objectives
+## Objetivos de aprendizaje
 
-After completing this lesson, you should be able to:
+Después de completar esta lección, debería poder:
 
-- Recall the definition of open science tools.
-- Describe what a persistent identifier is and state an example.
-- List a few commonly used open science tools that support research.
-- List the components of an Open Science and Data Management Plan and what they include.
+- Recordemos la definición de herramientas de ciencia abierta.
+- Describir qué es un identificador persistente y dar un ejemplo.
+- Enumerar algunas herramientas científicas abiertas comúnmente utilizadas que respaldan la investigación.
+- Enumerar los componentes de un Plan de Ciencia Abierta y Gestión de Datos y lo que incluyen.
 
-## Introduction to Open Science Tools
+## Introducción a las herramientas de ciencia abierta
 
-The word "tools" refers to any type of resource or instrument that can be used to support your research. In this sense, tools can be a collection of useful resources that you might consult during your research, software that you could use to create and manage your data, or even human infrastructure such as a community network that you join to get more guidance and support on specific matters.
+La palabra "herramientas" se refiere a cualquier tipo de recurso o instrumento que pueda utilizarse para respaldar su investigación. En este sentido, las herramientas pueden ser una colección de recursos útiles que usted pueda consultar durante su investigación, software que usted podría utilizar para crear y gestionar sus datos o incluso la infraestructura humana, como una red comunitaria a la que usted se une para obtener más orientación y apoyo en asuntos específicos.
 
-In this context, open science tools are any tools that enable and facilitate openness in research, and support responsible open science practices. It is important to note that open science tools are often open source and/or free to use, but not always.
+En este contexto, las herramientas de ciencia abierta son cualquier herramienta que permita y facilite la apertura en la investigación y apoye prácticas responsables de ciencia abierta. Es importante señalar que las herramientas de ciencia abierta suelen ser de código abierto y/o de uso libre, pero no siempre es así.
 
-Open science tools can be used for:
+Las herramientas de ciencia abierta se pueden utilizar para:
 
 - **Discovery** - Tools for finding content to use in your research.
 - **Analysis** - Tools to process your research output, e.g. tools for data analysis and visualization.
@@ -95,7 +95,7 @@ In this activity, you will search for a DOI for a data set or piece of software 
 
 **Activity Takeaways: Find and Resolve a DOI**
 
-This activity will vary depending on which DOI you choose to use. However, if you used the example presented, you should find the DOI: 10.5067/TERRA-AQUA/CERES/EBAF-TOA_L3B004.1
+Esta actividad variará según el DOI que elija utilizar. However, if you used the example presented, you should find the DOI: 10.5067/TERRA-AQUA/CERES/EBAF-TOA_L3B004.1
 
 And after step 5, you should end up back on the page https://asdc.larc.nasa.gov/project/CERES/CERES_EBAF-TOA_Edition4.1
 
