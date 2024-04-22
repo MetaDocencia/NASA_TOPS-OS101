@@ -210,17 +210,17 @@ Existen varios tipos diferentes de licencias que se construyen entre sí. Las li
 
 ### Ejemplo de Licencias de Datos y su Reutilización
 
-Here is an example of how a data license can affect reuse. Coupled Model Intercomparison Project Phase 6 (CMIP6) consists of the "runs" from around 100 distinct climate models being produced across 49 different modeling groups. This is the data that is used to understand what our future climate might look like. You have probably seen images that use this data in articles about Earth’s changing climate and how it may impact our lives. Previous versions of these data were licensed CC-BY-NC-SA (cite-noncommercial- sharealike).
+Aquí hay un ejemplo de cómo una licencia de datos puede afectar a la reutilización. La Fase 6 del Proyecto de Intercomparación de Modelo Acoplado (Coupled Model Intercomparison Project Phase 6 [CMIP6]) consiste en el "correr" alrededor de 100 distintos modelos climáticos que se están produciendo mediante 49 diferentes grupos de modelado. Estos son los datos que son utilizados para entender cómo podría ser nuestro futuro clima. Tú probablemente hayas visto imágenes que usan estos datos en artículos sobre el cambio climático de la Tierra y cómo puede impactar en nuestras vidas. Las versiones anteriores de estos datos contaban con licencia CC-BY-NC-SA (cite-noncommercial- sharealike).
 
 <img src="../images/media/image35.jpeg" style="width:100%;height:auto;" />
 
-Figure citation: IPCC "[Framing and Context in : In: Global warming of 1.5°C. An IPCC Special Report](https://www.researchgate.net/publication/369301788_Framing_and_Context_in_In_Global_warming_of_15C_An_IPCC_Special_Report?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoiX2RpcmVjdCJ9fQ)" 2020
+Cita de Figura: IPCC (Ecuadre y contexto en: En: Calentamiento global de 1.5 °C. Un Reporte Especial de IPCC) "[Framing and Context in : In: Global warming of 1.5°C. An IPCC Special Report](https://www.researchgate.net/publication/369301788_Framing_and_Context_in_In_Global_warming_of_15C_An_IPCC_Special_Report?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoiX2RpcmVjdCJ9fQ)" 2020
 
 ---
 
-This meant that any commercial use was restricted. Insurance companies, global corporations, and any type of organization that wanted to use them for commercial use - were having to do their own modeling or just deciding to not develop resources related to climate projections (such as fire risk, flooding risk, and how that may affect transportation, commerce, and where we live). This directly impacted the reuse of this data and created additional work. The [latest version of CMIP data is moving to CC-BY](https://pcmdi.llnl.gov/CMIP6/TermsOfUse/TermsOfUse6-2.html) because of the negative impacts from the -NC-SA restrictions.
+Esto significó que cualquier uso comercial estaba restringido. Empresas de seguro, corporaciones globales, y cualquier tipo de organización que quería utilizarlos para fines comerciales - estaban teniendo que hacer su propio modelado o simplemente decidiendo no desarrollar recursos relacionados con proyecciones climáticas (como riesgo de incendios, riesgo de inundaciones, y cómo eso puede afectar al transporte, al comercio y al lugar donde vivimos). Esto afectó directamente a la reutilización de estos datos y creó trabajo adicional. La última versión de los datos CMIP se está moviendo a CC-BY [latest version of CMIP data is moving to CC-BY](https://pcmdi.llnl.gov/CMIP6/TermsOfUse/TermsOfUse6-2.html) debido a los impactos negativos de las restricciones -NC-SA.
 
-## Lesson 3: Summary
+## Lección 3: Resumen
 
 Following are the key takeaways from this lesson:
 
@@ -262,16 +262,16 @@ Read the statement below and decide whether it's true or false.
 
 _Metadata is only useful for using data in interoperable tools and does not enhance searchability and findability of data._
 
-- True
-- False
+- Verdadero
+- Falso
 
-_Question_
+_Pregunta_
 
 **04/04**
 
-Read the statement below and decide whether it's true or false.
+Lee la siguiente afirmación e indica si es Verdadera o Falsa.
 
-_When a dataset does not explicitly require citation, such as the CC0 license, it is still recommended that you cite the data source._
+_Cuando un conjunto de datos no requiere explícitamente citas, como la licencia CC0, igualmente se recomienda que cites la fuente de datos._
 
-- True
-- False
+- Verdadero
+- Falso
