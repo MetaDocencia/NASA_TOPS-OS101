@@ -34,9 +34,9 @@ Selecciona el término para ver la descripción.
 
 Obra Derivada: Una obra creativa que se deriva o se basa en una obra preexistente que es traducida, alterada, organizada o transformada de una manera que requiere permiso del titular de los derechos de autor de la obra original o proviene de obras de dominio público.
 
-**Version Control** – A system to automatically manage changing versions of a computer file, especially one that contains source code. In software development, version control preserves a complete history of changes to the source code and enables a developer to roll back to an earlier version if needed.
+**Control de versiones** – Un sistema para gestionar automáticamente las diferentes versiones de un archivo de computadora que sufre cambios, en especial uno que contiene código fuente. En el desarrollo de software, el control de versiones preserva un historial completo de los cambios en el código fuente y permite a un desarrollador retroceder a una versión anterior si es necesario.
 
-**Code Repository** – A central storage location for the source code. Code repositories may contain source code in one or more programming languages. Repositories may provide tools for merging inputs from developers, automated testing to verify the proper functioning of source code, version control to track changes over time, and project management features. These sites may not promise long-term retention.
+**Repositorio de código** – Una ubicación central de almacenamiento para el código fuente. Los repositorios de código pueden contener código fuente en uno o más lenguajes de programación. Repositories may provide tools for merging inputs from developers, automated testing to verify the proper functioning of source code, version control to track changes over time, and project management features. These sites may not promise long-term retention.
 
 **Software Repository** – Online collections of stand-alone applications or software packages. Repositories typically control access and track the deployments and downloads of packages. These may include source code or executables.
 
