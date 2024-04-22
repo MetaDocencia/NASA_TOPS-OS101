@@ -1,30 +1,30 @@
-# Lesson 4: Tools for Open Code
+# Lección 4: Herramientas para Código Abierto
 
-## Navigation
+## Contenidos
 
-- [Introduction to Open Code](#introduction-to-open-code)
-- [Tools for Version Control](#tools-for-version-control)
-- [Tools for Editing Code](#tools-for-editing-code)
-- [Additional Tools](#additional-tools)
-- [Lesson 4: Summary](#lesson-4-summary)
-- [Lesson 4: Knowledge Check](#lesson-4-knowledge-check)
+- [Introducción al Código Abierto](#introduction-to-open-code)
+- [Herramientas para Control de Versiones](./Lesson_4#tools-for-version-control)
+- [Herramientas para editar código](./Lesson_4#tools-for-editing-code)
+- [Herramientas Adicionales](./Lesson_4#additional-tools)
+- [Lección 4: Resumen](#lesson-4-summary)
+- [Lección 4: Evaluación](#lesson-4-knowledge-check)
 
-## Overview
+## Repaso
 
-This lesson introduces you to some useful tools for working with open code. You will learn the various tools available to develop, store, and share open code, from version control to code editing software to containers.
+Esta lección nos presenta algunas herramientas útiles para trabajar con código abierto. Aprenderemos acerca de las diversas herramientas disponibles para desarrollar, almacenar y compartir código abierto, desde control de versiones hasta software de edición de código hasta contenedores.
 
-## Learning Objectives
+## Objetivos de Aprendizaje
 
-After completing this lesson, you should be able to:
+Después de completar esta lección, deberías poder:
 
-- Explain the benefits of using tools for open code development.
-- Define version control and understand how it supports collaboration in the development and management of code.
-- List a few tools for editing software and some of their features.
-- Distinguish between software repositories and software archives.
+- Explicar los beneficios del uso de herramientas para el desarrollo de código abierto.
+- Definir el control de versiones y comprender cómo favorece la colaboración en el desarrollo y la gestión del código.
+- Listar algunas herramientas para editar software y algunas de sus características.
+- Distinguir entre repositorios de software y archivos de software.
 
-## Introduction to Open Code
+## Introducción al Código Abierto
 
-In Lesson 3, we learned about useful tools for working with scientific data. Now, we will provide an overview of commonly used tools that help us write and run computer code to explore, analyze, and visualize our scientific data. Later in Module 4 – Open Code, we will discuss in greater detail what it means to make our code open, and walk through the steps of how to find, create, and share open code.
+En la lección 3 aprendimos sobre herramientas útiles para trabajar con datos científicos. Ahora, proporcionaremos una visión general de las herramientas comúnmente utilizadas que nos ayudan a escribir y ejecutar código informático para explorar, analizar, y visualizar nuestros datos científicos. Later in Module 4 – Open Code, we will discuss in greater detail what it means to make our code open, and walk through the steps of how to find, create, and share open code.
 
 Understanding how to work with scientific code is essential in the modern landscape of data-driven research. The tools presented in this lesson encompass a diverse array of resources designed to streamline, enhance, and optimize the process of developing, maintaining, and collaborating on code development for scientific research. They enable the creation of robust and efficient code, often leveraging the collective wisdom of the open-source community. In the pursuit of reproducibility and transparency, these tools can also facilitate the sharing and dissemination of scientific code, fostering collaboration and ensuring that the foundations of scientific research remain open and accessible to all.
 
