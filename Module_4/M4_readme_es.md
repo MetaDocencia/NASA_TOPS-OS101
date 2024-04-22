@@ -36,21 +36,21 @@ Obra Derivada: Una obra creativa que se deriva o se basa en una obra preexistent
 
 **Control de versiones** – Un sistema para gestionar automáticamente las diferentes versiones de un archivo de computadora que sufre cambios, en especial uno que contiene código fuente. En el desarrollo de software, el control de versiones preserva un historial completo de los cambios en el código fuente y permite a un desarrollador retroceder a una versión anterior si es necesario.
 
-**Repositorio de código** – Una ubicación central de almacenamiento para el código fuente. Los repositorios de código pueden contener código fuente en uno o más lenguajes de programación. Repositories may provide tools for merging inputs from developers, automated testing to verify the proper functioning of source code, version control to track changes over time, and project management features. These sites may not promise long-term retention.
+**Repositorio de código** – Una ubicación central de almacenamiento para el código fuente. Los repositorios de código pueden contener código fuente en uno o más lenguajes de programación. Los repositorios pueden ofrecer herramientas para fusionar entradas de desarrolladores, pruebas automatizadas para verificar el correcto funcionamiento del código fuente, control de versiones para rastrear cambios con el tiempo y funcionalidades de gestión de proyectos. Estos sitios pueden no prometer retención a largo plazo.
 
-**Software Repository** – Online collections of stand-alone applications or software packages. Repositories typically control access and track the deployments and downloads of packages. These may include source code or executables.
+**Repositorio de software** – Colecciones de aplicaciones independientes o paquetes de software disponibles en línea. Los repositorios normalmente controlan el acceso y rastrean las implementaciones/descargas de paquetes. Estos pueden incluir código fuente o ejecutables.
 
-**Long-Term Repository** – A service for long-term retention and referencing historical and contemporary software. Repositories facilitate sustainable citation of code.
+**Repositorio a largo plazo** – un servicio para la retención a largo plazo y referencia de software histórico y contemporáneo. Los repositorios facilitan que las citas de código sean sostenibles.
 
-Definitions credit: National Academies of Sciences, Engineering, and Medicine. 2018. Open-source Software Policy Options for NASA Earth and Space Sciences. Washington, DC: The National Academies Press. [https://doi.org/10.17226/25217](https://doi.org/10.17226/25217) and other resources.
+Crédito de estas definiciones: National Academies of Sciences, Engineering, and Medicine. 2018. National Academies of Sciences, Engineering, and Medicine. Washington, DC: The National Academies Press. [https://doi.org/10.17226/25217](https://doi.org/10.17226/25217) y otros recursos.
 
-## Navigation
+## Navegación
 
-### [Lesson 1: Introduction to Open Code](./Lesson_1)
+### [Lección 1: Introducción a Datos Abiertos](./Lesson_1)
 
-- [Overview](./Lesson_1#overview)
-- [Learning Objectives](./Lesson_1#learning-objectives)
-- [Success Stories](./Lesson_1#success-stories)
+- [Resumen](./Lesson_1#overview)
+- [Objetivos de Aprendizaje](./Lesson_1#learning-objectives)
+- [Historias de éxito](./Lesson_1#success-stories)
 - [Definitions and Considerations of Open Code](./Lesson_1#definitions-and-considerations-of-open-code)
 - [Principles, Benefits, and Challenges](./Lesson_1#principles-benefits-and-challenges)
 - [When Not to Share](./Lesson_1#when-not-to-share)
