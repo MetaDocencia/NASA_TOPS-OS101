@@ -52,19 +52,19 @@ En general, compartir tus datos abiertos requiere de los siguientes pasos:
 3. Trabaja junto con tu repositorio para seguir su proceso y cumplir con sus requerimientos
 4. Asegúrate de que tus datos sean encontrables y accesibles a través del repositorio y que sean mantenidos y archivados
 5. Solicita un DOI para tu conjunto de datos para que pueda ser citado fácilmente
-6. Choose a data license
+6. Elije una licencia de datos
 
-Sometimes, you may be able to work with a well-staffed repository that will handle many of these steps for you (for instance, if you are working with NASA mission data). Otherwise, it is your responsibility to follow the above steps to share your data openly.
+A veces, puede que trabajes con un repositorio bien preparado que maneje muchos de estos pasos (por ejemplo, si está trabajando con los datos de la misión de la NASA). De lo contrario, es tu responsabilidad seguir los pasos anteriores para compartir tus datos abiertamente.
 
-## When and If to Share Data
+## Cuándo y Si Compartir Datos
 
-### When to Share Data?
+### ¿Cuándo Compartir Datos?
 
-The decision of when to share should be discussed with everyone on the team and documented in the data management plan. Funding agencies and organizations may have specific requirements about when data must be shared, but here we encourage you to think about whether it is feasible or possible to share even earlier than required by your funder. There are different times when data could be shared:
+La decisión de cuándo compartir datos debería discutirse con todas las personas del equipo y documentarse en el plan de gestión de datos. Las agencias de financiamiento y organizaciones pueden tener requerimientos específicos de cuándo deben compartirse los datos, pero aquí te animamos a pensar si es posible compartir tus datos antes de que te lo exija tu espónsor. Hay distintos momentos en que los datos pueden ser compartidos:
 
-- Advanced Sharing: Sharing at the time of collection, or soon after. Some funding agencies require this, or allow for a short ‘embargo’ period, but a reason (quality checks, calibrations, etc.) is usually required. This maximizes data reuse and impact and can result in increased collaborations.
-- Intermediate Sharing: At the time of publication. Many publications (and some funding agencies) require sharing data that is needed to reproduce results at the time of publication.
-- Minimum Sharing: End of grant. All scientifically useful data should be shared by the end of the research grant.
+- Compartido Anticipado: Compartir al momento de la recolección o poco después. Algunas agencias de financiamiento requieren que así sea o permiten un pequeño período de "embargo", pero normalmente se requiere una razón (control de calidad, calibración, etc). Esto maximiza la reutilización de los datos y el impacto, y puede resultar en un aumento de colaboraciones.
+- Compartir Intermedio: Al tiempo de la publicación. Muchas revistas (y algunas agencias de financiamiento) requieren compartir los datos necesarios para replicar los resultados al momento de la publicación.
+- Compartir Mínimo: Fin del subsidio. Todos los datos científicamente relevantes deben ser compartidos para el final del subsidio de investigación.
 - No Sharing: There are many reasons data should either be restricted or not shared at all.
 
 As discussed previously in this curriculum, there are many benefits to sharing as early as possible. Early (advanced) sharing can lead to new and unexpected discoveries and expand your collaboration network. Remember, that even when you share data, you are still the world expert on that data! So often, when people want to work with the data, they will reach out to you to collaborate.
