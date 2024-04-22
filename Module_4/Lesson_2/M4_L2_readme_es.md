@@ -32,7 +32,7 @@ Mucha gente descubre el código a través de conversaciones con sus colegas o le
 
 |            |                                                                                                                                                                                                                                                                                                                                                                                                              |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Example    | Soy un nuevo estudiante de posgrado que comienza a trabajar en el modelado de turbulencias en el Océano Austral para comprender mejor la temperatura de la superficie del mar (o la absorción de calor del océano) y el cambio climático. ¿Existe algún software disponible para modelar cómo los remolinos en el océano afectan la temperatura de la superficie del mar? |
+| Ejemplo    | Soy un nuevo estudiante de posgrado que comienza a trabajar en el modelado de turbulencias en el Océano Austral para comprender mejor la temperatura de la superficie del mar (o la absorción de calor del océano) y el cambio climático. ¿Existe algún software disponible para modelar cómo los remolinos en el océano afectan la temperatura de la superficie del mar? |
 | Ejercicio  | Búsqueda General sobre el término "Software para modelado de turbulencias oceánicas"                                                                                                                                                                                                                                                                                                                         |
 | Resultados | Modelo General de Turbulencia Oceánica (en inglés, GOTM)                                                                                                                                                                                                                                                                                                                                  |
 
@@ -66,11 +66,11 @@ Si busca software científico, los estándares comunitarios exigen cada vez más
 
 Por lo tanto, la literatura científica y sus archivos de códigos auxiliares son cada vez más un excelente lugar para buscar código abierto científico.
 
-La mayor parte del código abierto no es desarrollado por ni para científicos. However, open code enables research every day.
+La mayor parte del código abierto no es desarrollado por ni para científicos. Sin embargo, el código abierto permite investigar todos los días.
 
-### Where to Look Depends on What You Need
+### Dónde Buscar Depende de tu Necesidad
 
-There are several popular search engines for code snippets. First, you can simply search on Google. Other commonly used search engines include GitHub Code Search and Stack Overflow. These search engines allow you to search for specific code snippets by programming language, keyword, or other criteria. GitHub Code Search allows you to search GitHub, a popular code repository for scientific software. Stack Overflow allows you to search forums, where users discuss solutions to coding problems.
+Existen varios motores de búsqueda populares para fragmentos de código. Primero, simplemente puedes buscar en Google. Otros motores de búsqueda comúnmente utilizados incluyen GitHub Code Search y Stack Overflow. Estos motores de búsqueda te permiten buscar fragmentos de código específicos por lenguaje de programación, palabra clave u otros criterios. GitHub Code Search te permite buscar en GitHub, un popular repositorio de códigos para software científico. Stack Overflow le permite buscar foros donde los usuarios discuten soluciones a problemas de codificación.
 
 #### Examples of code repositories:
 
@@ -94,7 +94,7 @@ There are several popular search engines for code snippets. First, you can simpl
 </tbody>
 </table>
 
-**Example - GitHub Code Search**
+**Ejemplo: Búsqueda de Código en GitHub**
 
 In this example, we will practice searching for open access code on GitHub. Let's work through a scenario in which you would like to search for the Lomb and Scargle method for estimating a power spectrum.
 
