@@ -1,61 +1,61 @@
-# Lesson 2: Using Open Data
+# Lección 2: Uso de datos abiertos
 
-## Navigation
+## Contenidos
 
-- [Overview](#overview)
-- [Learning Objectives](#learning-objectives)
-- [Introduction](#introduction)
-- [Discovering Open Data](#discovering-open-data)
-- [Assessing Open Data](#assessing-open-data)
-- [Using Open Data](#using-open-data)
-- [Lesson 2: Summary](#lesson-2-summary)
-- [Lesson 2: Knowledge Check](#lesson-2-knowledge-check)
+- [Resumen](#resumen)
+- [Objetivos de Aprendizaje](#learning-objectives)
+- [Introduccion](#introduction)
+- [Descubriendo datos abiertos](#discovering-open-data)
+- [Evaluando los datos abiertos](#assessing-open-data)
+- [Utilizando Datos Abiertos](#using-open-data)
+- [Lección 2: Resumen](#lesson-2-summary)
+- [Lección 2: Comprobación de conocimiento](#lesson-2-knowledge-check)
 
-## Overview
+## Resumen
 
-In this lesson you learn how to discover, assess, and cite an open data set. You start by exploring repositories and learning about the issues and considerations for searching datasets. You then learn how to determine if the dataset is suitable for your use by learning what to review in documentation, licenses, and file formats. The lesson wraps up with a discussion about the importance of citing the datasets and how to read and follow citation instructions.
+En esta lección aprenderás a descubrir, evaluar y citar un conjunto de datos abiertos. Empieza explorando los repositorios y aprendiendo sobre los problemas y consideraciones para buscar conjuntos de datos. Después, aprenderás a determinar si el conjunto de datos es adecuado para su uso aprendiendo qué revisar en documentación, licencias y formatos de archivo. La lección concluye con una discusión sobre la importancia de citar los conjuntos de datos y cómo leer y seguir las instrucciones de citas.
 
-## Learning Objectives
+## Objetivos de Aprendizaje
 
-After completing this lesson, you should be able to:
+Después de completar esta lección, deberías poder:
 
-- Select data sources and use search techniques to discover open data.
-- Assess if a dataset incorporates open access elements that ensure easy reusability.
-- Explain the importance of citing open data, and find and follow citation instructions.
+- Seleccionar fuentes de datos y utilice técnicas de búsqueda para descubrir datos abiertos.
+- Evaluar si un conjunto de datos incorpora elementos de acceso abierto que garantizan una fácil reusabilidad.
+- Explicar la importancia de citar datos abiertos, y encontrar y seguir las instrucciones de citación.
 
-## Introduction
+## Introducción
 
-Open data isn't always simple to use in your research. Sometimes there are multiple versions of the same dataset, so learning how to discover and assess and then use open data will help you save time.
+Los datos abiertos no siempre son fáciles de usar en su investigación. A veces hay varias versiones del mismo conjunto de datos, así que aprender a descubrir y evaluar y luego utilizar los datos abiertos le ayudará a ahorrar tiempo.
 
-As an example, look at the monthly average carbon dioxide data from Mauna Loa Observatory in Hawaii. This is a foundational dataset for climate change. Not only is it one of the first observational datasets that clearly showed anthropogenic impacts on the Earth's atmosphere, it constitutes the longest record of direct measurements of carbon dioxide in the atmosphere. These observations were started by C. David Keeling of the Scripps Institution of Oceanography in March of 1958 at a facility of the National Oceanic and Atmospheric Administration \[Keeling, 1976\].
+Como ejemplo, veamos los datos mensuales promedio de dióxido de carbono del Observatorio "Mauna Loa" en Hawaii. Se trata de un conjunto de datos fundacionales para el cambio climático. No sólo es uno de los primeros conjuntos de datos de observación que claramente mostraron impactos antropogénicos en la atmósfera de la Tierra, constituye el registro más largo de mediciones directas de dióxido de carbono en la atmósfera. Estas observaciones comenzaron por C. David Keeling de la Institución de Oceanografía "Scripps" en marzo de 1958 en una instalación de la Administración Nacional Oceanica y Atmosférica \[Keeling, 1976\].
 
 <img src="../images/media/image19.jpeg" style="width:100%;height:auto;" />
 
-If you want to make this figure yourself, or use the data for some other purpose, first you will want to find the data. If you search for this dataset, or any data, chances are that you will find a number of different sources. How do you decide which data to use?
+Si desea hacer esta cifra usted mismo, o utilizar los datos para algún otro fin, primero querrá encontrar los datos. Si busca este conjunto de datos, o cualquier dato, es posible que encuentre varias fuentes diferentes. ¿Cómo decide qué datos usar?
 
-If you start with Google and search for "Mauna Loa carbon dioxide data" you will find a lot of results. Here are just some of them:
+Si comienza con Google y busca "datos de dióxido de carbono de Mauna Loa", encontrará muchos resultados. Aquí se presentan algunos de ellos:
 
 <img src="../images/media/image20.png" style="width:100%;height:auto;" />
 
-How do you decide which one to use? In this lesson we will cover how to find, assess relevance, and use open data.
+¿Cómo decidiras cuál utilizar? En esta lección cubriremos cómo encontrar, evaluar relevancia y utilizar datos abiertos.
 
 ---
 
-## Discovering Open Data
+## Descubriendo datos abiertos
 
-Open data can be discovered by accessing data repositories, search portals, and publications. A wide variety of these resources are available. A key step is identifying the appropriate search terms for your application. Learning community-specific nomenclature and standards can accelerate your search.
+Los datos abiertos se pueden descubrir accediendo a los repositorios de datos, los portales de búsqueda y las publicaciones. Una gran variedad de estos recursos están disponibles. Un paso clave es identificar los términos de búsqueda adecuados para su aplicación. Aprender nomenclatura y estándares específicos para cada comunidad puede acelerar su búsqueda.
 
-### Where to Start Your Search
+### Donde comenzar su búsqueda
 
-There are multiple pathways to find research data, and you should be practiced in all of them.
+Hay múltiples caminos para encontrar datos de investigación, y usted debería estar practicando en todos.
 
 <img src="../images/media/image21.png" style="width:100%;height:auto;" />
 
-### People You Know (Online or In-person!)
+### Personas que conoces (¡Online o en persona!)
 
-When we show up to the present moment with all of our senses, we invite the world to fill us with joy. The pains of the past are behind us. The future has yet to unfold. But the now is full of beauty simply waiting for our attention.
+Cuando nos presentamos al momento actual con todos nuestros sentidos, invitamos al mundo a llenarnos de alegría. Los dolores del pasado están detrás de nosotros. El futuro todavía no se ha desarrollado. Pero ahora está lleno de belleza simplemente esperando nuestra atención.
 
-What is the first and best way to find research data? Ask your community, including your research advisor, colleagues, team members, and people online. Knowing where to find reliable, good data is as much a skill and art as any lab technique. You learn this skill set by working with professionals in your field. There is no one source, no one method.
+¿Cuál es la primera y mejor forma de encontrar los datos de investigación? Pregunte a su comunidad, incluyendo a su asesor de investigación, colegas, miembros del equipo y personas en línea. Conocer dónde encontrar datos fiables es tanto una habilidad y arte como cualquier técnica de laboratorio. Aprendes este juego de habilidades trabajando con profesionales en tu campo. No hay una sola fuente, no hay ningún método.
 
 <img src="../images/media/image22.jpeg" style="width:100%;height:auto;" />
 
@@ -154,35 +154,35 @@ _Select each tab to find out more information._
   </tbody>
 </table>
 
-### Repositories
+### Repositorios
 
-A common way to share and find open data is through data repositories. Many repositories host open data with persistent identifiers, clear licenses and citation guidelines, and standard metadata.
+Una forma común de compartir y encontrar datos abiertos es a través de repositorios de datos. Muchos repositorios albergan datos abiertos con identificadores persistentes, licencias claras y directrices de citación, y metadatos estándar.
 
-Note that some of our example search portals are also repositories, but not always. Some of the search portals are simply catalogs of information about the data, rather than storage locations for the data themselves.
+Tenga en cuenta que algunos de nuestros portales de búsqueda de ejemplo también son repositorios, pero no siempre. Algunos de los portales de búsqueda son simplemente catálogos de información sobre los datos, en lugar de ubicaciones de almacenamiento de los datos mismos.
 
-_Select each tab to find out more information._
+_Seleccione cada pestaña para obtener más información._
 
 <table>
   <thead>
     <tr>
-        <th>GENERAL REPOSITORIES ☑</th>
-        <th>DOMAIN-SPECIFIC REPOSITORIES</th>
-        <th>INSTITUTIONAL REPOSITORIES</th>
-        <th>NATIONAL REPOSITORIES</th>
+        <th>REPOSITORIOS GENERALES ☑</th>
+        <th>REPOSITORIOS DE DOMINIO ESPECÍFICO</th>
+        <th>REPOSITORIOS INSTITUCIONALES</th>
+        <th>REPOSITORIOS NACIONALES</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="4">
-            <p>General repositories are not designed for a specific community and are accessible to everyone.</p>
-            <p>Examples include:</p>
+            <p>Los repositorios generales no están diseñados para una comunidad específica y son accesibles para todos.</p>
+            <p>Los ejemplos incluyen:</p>
             <ul>
             <li><a href="https://zenodo.org/">Zenodo</a></li>
-            <li><a href="https://data.mendeley.com/">Mendeley Data</a></li>
+            <li><a href="https://data.mendeley.com/">Datos de Mendeley</a></li>
             <li><a href="https://figshare.com/">Figshare</a></li>
             <li><a href="https://datadryad.org/stash">Dryad</a></li>
             </ul>
-            <p>See the <a href="https://fairsharing.org/collection/GeneralRepositoryComparison">Generalist Repository Comparison Chart</a> – a tool for additional repositories and guidance. Dataverse también ha publicado una <a href="https://dataverse.org/blog/comparative-review-various-data-repositories">revisión comparativa</a> de ocho repositorios de datos.</p>
+            <p>Vea <a href="https://fairsharing.org/collection/GeneralRepositoryComparison">Cuadro comparativo de repositorios generalistas</a> - una herramienta para repositorios y guías adicionales. Dataverse también ha publicado una <a href="https://dataverse.org/blog/comparative-review-various-data-repositories">revisión comparativa</a> de ocho repositorios de datos.</p>
         </td>
     </tr>
   </tbody>
