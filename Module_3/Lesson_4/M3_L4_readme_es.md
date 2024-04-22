@@ -297,68 +297,68 @@ Una vez que el repositorio haya puesto tus datos a disposición, alguien de tu e
 
 ### ¿Quién desarrollará una guía sobre privacidad y sensibilidad cultural de los datos?
 
-Sharing data should be respectful of the communities that may be involved. This means thinking about privacy issues and cultural sensitivities. Who on your team will identify and develop guidance on:
+La publicación de los datos debe ser respetuosa con las comunidades que puedan estar involucradas. Esto significa pensar en temas de privacidad y sensibilidades culturales. Alguna persona del equipo se encargará de identificar y desarrollar orientación sobre:
 
-- Privacy concerns and approval processes for release - is the data appropriately anonymized?
-- How to engage with communities that data may be about.
-- How data can be correctly interpreted.
-- Are there any data restrictions that may be necessary to ensure the sharing is respectful of the community the data involves, eg. collective and individual rights to free, prior, and informed consent in the collection and use of such data, including the development of data policies and protocols for collection?
+- Preocupaciones de privacidad y procesos de aprobación para su divulgación - ¿los datos están adecuadamente anonimizados?
+- Cómo interactuar con las comunidades de referencia.
+- Cómo se pueden interpretar correctamente los datos.
+- ¿Existe alguna restricción de datos que pueda ser necesaria para garantizar que la publicación de los datos sea respetuosa con la comunidad a la que pertenecen? Por ejemplo, derechos colectivos e individuales para el consentimiento libre, previo e informado de recopilación y uso de dichos datos; incluida la elaboración de políticas y protocolos para la recolección de datos.
 
-## Lesson 4: Summary
+## Lección 4: Resumen
 
-The following are the key takeaways from this lesson:
+A continuación se exponen las conclusiones principales de esta lección:
 
-- When and if to share data? Determine at what point in a project it makes the most sense to share our data. Remember, not all data can or should be shared.
-- Where to share data? Sharing in a public data repository is recommended, and there are many types of repositories to choose from.
-- How to enable reuse? Ensure appropriate, community-accepted metadata, assign a DOI, and develop a citation statement to make sure it can be easily found and cited.
-- Who helps share data? There are many steps in making and sharing data and it’s important to think about who will be responsible for each step.
+- ¿Cuándo se pueden compartir los datos? Determinar en qué punto de un proyecto tiene más sentido compartir nuestros datos. Recordar que no todos los datos pueden o deben compartirse.
+- ¿Dónde compartir los datos? Se recomienda compartir en un repositorio de datos público, hay muchos tipos de repositorios para elegir.
+- ¿Cómo permitir la reutilización de los datos? Asegúrese de que los metadatos sean apropiados y aceptados por la comunidad, asigne un DOI e información de citación, para asegurarse de que se pueda encontrar y citar fácilmente.
+- ¿Quién ayuda a compartir los datos? Hay muchos pasos en la creación y publicación de datos, y es importante pensar en quién será responsable de cada paso.
 
-## Lesson 4: Knowledge Check
+## Lección 4: Evaluación
 
-Answer the following questions to test what you have learned so far.
+Responde las siguientes preguntas para evaluar lo que has aprendido hasta ahora.
 
-_Question_
+_Pregunta_
 
 **01/04**
 
-Data cannot be shared if it is:
+Los datos no se pueden compartir si son:
 
-- ITAR controlled
-- Controlled Unclassified Information
-- Subject to intellectual property, copyright, and licensing concerns
-- All of the above
+- De control de tráfico internacional de armas.
+- Información no clasificada controlada.
+- Sujeto a cuestiones de propiedad intelectual, derechos de autoría y licencias.
+- Todas las anteriores.
 
-_Question_
+_Pregunta_
 
 **02/04**
 
-Select the option you think is correct to complete the sentence.
+Seleccione la opción que considera correcta para completar la oración.
 
-It is best practice to start working with a repository _____.
+Es una buena práctica empezar a trabajar con un repositorio _____.
 
-- As early as possible
-- When you have test data ready
-- After you obtain a DOI
-- When you are ready to release your data
+- lo más pronto posible
+- Cuando se tienen datos de prueba listos
+- Después de obtener un DOI
+- Cuando esté listo para publicar sus datos
 
-_Question_
+_Pregunta_
 
 **03/04**
 
-Which one of the following might be able to help you get a DOI for your data:
+¿Cuál de las siguientes opciones podría ayudarte a obtener un DOI para tus datos?:
 
-- The repository you are working with
-- Your home organization
-- A journal you are submitting a manuscript and data to
-- All of the above
+- El repositorio con el que estás trabajando.
+- Tu organización de origen.
+- Una revista a la que enviaste un manuscrito y los datos.
+- Todas las anteriores.
 
-_Question_
+_Pregunta_
 
 **04/04**
 
-Which of the following are roles to consider when sharing data? Select all that apply.
+¿Cuáles de los siguientes son roles a considerar al compartir datos? Selecciona todas opciones que apliquen.
 
-- Develop guidance on privacy and cultural sensitivity of the data
-- Develop the data documentation and metadata
-- Assign the data a DOI
-- Verify the integrity of the data, metadata, and documentation transfer
+- Desarrollar una guía sobre la privacidad y sensibilidad cultural de los datos.
+- Desarrollar la documentación de datos y los metadatos.
+- Asignar un DOI a los datos.
+- Verificar la integridad de los datos, metadatos y transferencia de documentación.
