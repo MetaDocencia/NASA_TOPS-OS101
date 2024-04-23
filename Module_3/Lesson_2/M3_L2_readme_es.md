@@ -293,7 +293,7 @@ El uso de datos abiertos para un proyecto depende de una serie de factores, como
 
 - ¿Están disponibles los datos en un formato adecuado al contenido?
 - ¿Se dispone de los datos desde una ubicación consistente?
-- ¿Están los datos bien estructurados y son comprensibles para las máquinas?
+- ¿Están los datos bien estructurados y pueden ser leídos de manera automatizada?
 - ¿Están definidos los términos y acrónimos complejos de los datos?
 - ¿Utilizan los datos un esquema o estándar de datos?
 - ¿Hay alguna API disponible para acceder a los datos?
@@ -382,7 +382,7 @@ _Pregunta_
 ¿Cuál de las siguientes son puntos a considerar al evaluar si se puede utilizar un conjunto de datos?
 
 - ¿Están bien descritos los datos?
-- ¿Están los datos bien estructurados y son comprensibles para las máquinas?
+- ¿Están los datos bien estructurados y pueden ser leídos de manera automatizada?
 - ¿Existe una comunidad de usuarios de los datos?
 - ¿Qué herramientas o programas informáticos se necesitan para utilizar estos datos?
 - ¿Se actualizarán los datos periódicamente?
