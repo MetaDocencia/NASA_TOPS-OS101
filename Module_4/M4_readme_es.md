@@ -42,7 +42,7 @@ Obra Derivada: Una obra creativa que se deriva o se basa en una obra preexistent
 
 **Repositorio a largo plazo** – un servicio para la retención a largo plazo y referencia de software histórico y contemporáneo. Los repositorios facilitan que las citas de código sean sostenibles.
 
-Crédito de estas definiciones: National Academies of Sciences, Engineering, and Medicine. 2018. National Academies of Sciences, Engineering, and Medicine. Washington, DC: The National Academies Press. [https://doi.org/10.17226/25217](https://doi.org/10.17226/25217) y otros recursos.
+Crédito de estas definiciones: National Academies of Sciences, Engineering, and Medicine. . National Academies of Sciences, Engineering, and Medicine. Washington, DC: The National Academies Press. [https://doi.org/10.17226/25217](https://doi.org/10.17226/25217) y otros recursos.
 
 ## Navegación
 
@@ -51,41 +51,41 @@ Crédito de estas definiciones: National Academies of Sciences, Engineering, and
 - [Resumen](./Lesson_1#overview)
 - [Objetivos de Aprendizaje](./Lesson_1#learning-objectives)
 - [Historias de éxito](./Lesson_1#success-stories)
-- [Definitions and Considerations of Open Code](./Lesson_1#definitions-and-considerations-of-open-code)
-- [Principles, Benefits, and Challenges](./Lesson_1#principles-benefits-and-challenges)
-- [When Not to Share](./Lesson_1#when-not-to-share)
-- [Software Management Plans (SMP)](./Lesson_1#software-management-plans-smp)
-- [Lesson 1: Summary](./Lesson_1#lesson-1-summary)
-- [Lesson 1: Knowledge Check](./Lesson_1#lesson-1-knowledge-check)
+- [Definicion y Consideraciones sobre los Datos Abiertos](./Lesson_1#definition-and-considerations-of-open-data)
+- [Principios, Benefits, y Desafíos](./Lesson_1#principles-benefits-and-challenges)
+- [Cuándo No Compartir](./Lesson_1#when-not-to-share)
+- [Planes de gestión de software (SMP)](./Lesson_1#software-management-plans-smp)
+- [Lección 1: Resumen](./Lesson_1#lesson-1-summary)
+- [Lección 1: Comprobación del conocimiento](./Lesson_1#lesson-1-knowledge-check)
 
-### [Lesson 2: Using Open Code](./Lesson_2)
+### [Lección 2: Usando Datos Abiertos](./Lesson_2)
 
-- [Overview](./Lesson_2#overview)
-- [Learning Objectives](./Lesson_2#learning-objectives)
-- [Discovering Open Code and Software](./Lesson_2#discovering-open-code-and-software)
-- [Assessing Open Code and Software](./Lesson_2#assessing-open-code-and-software)
-- [Reusing Open Code](./Lesson_2#reusing-open-code)
-- [Citing and Acknowledging Open Code Use](./Lesson_2#citing-and-acknowledging-open-code-use)
-- [Lesson 2: Summary](./Lesson_2#lesson-2-summary)
-- [Lesson 2: Knowledge Check](./Lesson_2#lesson-2-knowledge-check)
+- [Resumen](./Lesson_2#overview)
+- [Objetivos de Aprendizaje](./Lesson_2#learning-objectives)
+- [Descubrir Código Abierto y Software](./Lesson_2#discovering-open-code-and-software)
+- [Evaluar Código Abierto y Software](./Lesson_2#assessing-open-code-and-software)
+- [Reutilizar Código Abierto](./Lesson_2#reusing-open-code)
+- [Citar y Reconocer el uso de Código Abierto](./Lesson_2#citing-and-acknowledging-open-code-use)
+- [Lección 2: Resumen](./Lesson_2#lesson-2-summary)
+- [Lección 2: Comprobación del conocimiento](./Lesson_2#lesson-2-knowledge-check)
 
-### [Lesson 3: Making Open Code](./Lesson_3)
+### [Lección 3: Creando Código Abierto](./Lesson_3)
 
-- [Overview](./Lesson_3#overview)
-- [Learning Objectives](./Lesson_3#learning-objectives)
-- [How do We Plan for Making Code?](./Lesson_3#how-do-we-plan-for-making-code)
-- [Importance of Version Control](./Lesson_3#importance-of-version-control)
-- [Describing Our Code to Others](./Lesson_3#describing-our-code-to-others)
-- [What License Should We Choose for Our Code?](./Lesson_3#what-license-should-we-choose-for-our-code)
-- [Programming Best Practices](./Lesson_3#programming-best-practices)
-- [Lesson 3: Summary](./Lesson_3#lesson-3-summary)
-- [Lesson 3: Knowledge Check](./Lesson_3#lesson-3-knowledge-check)
+- [Resumen](./Lesson_3#overview)
+- [Objetivos de Aprendizaje](./Lesson_3#learning-objectives)
+- [¿Cómo planeamos hacer nuestro código abierto?](./Lesson_5#how-do-we-plan-for-making-our-code-open)
+- [Importancia del Control de versiones](./Lesson_3#importance-of-version-control)
+- [Describiendo nuestro código a otros](./Lesson_3#describing-our-code-to-others)
+- [¿Qué licencia debemos elegir para nuestro código?](./Lesson_3#what-license-should-weuld-choose-for-our-code)
+- [Buenas prácticas de programación](./Lesson_3#programación-mejores prácticas)
+- [Lección 3: Resumen](./Lesson_3#lesson-3-summary)
+- [Lección 3: Comprobación del conocimiento](./Lesson_3#lesson-3-knowledge-check)
 
-### [Lesson 4: Sharing Open Code](./Lesson_4)
+### [Lección 4: Compartiendo Datos Abiertos](./Lesson_4)
 
-- [Overview](./Lesson_4#overview)
-- [Learning Objectives](./Lesson_4#learning-objectives)
-- [Planning to Share Your Code](./Lesson_4#planning-to-share-your-code)
+- [Resumen](./Lesson_4#overview)
+- [Objetivos de Aprendizaje](./Lesson_4#learning-objectives)
+- [Planificación para Compartir tu Código](./Lesson_4#planning-to-share-your-code)
 - [Preocupaciones legales y de seguridad](./Lesson_4#legal-and-security-concerns)
 - [Cuando: El Cronograma para Archivar y Compartir Código.](./Lesson_4#when-the-schedule-for-code-archiving-and-sharing)
 - [Donde: Donde Compartir Código Abierto](./Lesson_4#where-to-share-open-code)
