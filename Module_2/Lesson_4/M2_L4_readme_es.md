@@ -399,87 +399,87 @@ Puedes examinar más recursos de aprendizaje del Proyecto Pythia Python a travé
 
 Usamos el término "plataforma de Desarrollo" para referirnos a la infraestructura computacional utilizada para ejecutar código. Existen muchas plataformas de Desarrollo diferentes para elegir, cada una con sus ventajas y desventajas. A continuación se ofrece una descripción general de tres opciones de Plataformas:
 
-#### Personal Computer (e.g. a laptop)
+#### Computadora personal (por ejemplo, una computadora portátil)
 
-Pros:
+Pros: (beneficios):
 
-- Convenient - Can run computations when and where you choose
-- Can tailor the software environment to be exactly what you need
-- Don't have to share your computing resources
+- Conveniente: puede ejecutar cálculos cuando y donde usted elija
+- Puede adaptar el entorno de software para que sea exactamente lo que necesita
+- No tienes que compartir tus recursos informáticos
 
-Cons:
+Contras: (Problemas):
 
-- Has limited computational power
-- Requires downloading data and software
+- Tiene potencia computacional limitada
+- Requiere descargar datos y software
 
-#### High Performance Computing (HPC)
+#### Computación de alto rendimiento (HPC)
 
-Pros:
+Pros: (beneficios):
 
-- High computational power
+- Alto poder computacional
 
-Cons:
+Cons: (Contras - Problemas):
 
-- Typically owned and run by a particular institution - may need to be affiliated with that institution to gain access to their HPC
-- May have to wait significant amounts of time to run your code, since they are typically shared across many people and groups
-- Need significant funds to build an HPC
+- Por lo general, es propiedad de una institución en particular y está administrada por ella; es posible que deba estar afiliado a esa institución para obtener acceso a su HPC
+- Es posible que tenga que esperar mucho tiempo para ejecutar el código, ya que normalmente se comparte entre muchas personas y grupos
+- Necesita fondos importantes para construir una HPC
 
-#### Cloud Computing
+#### Computación en la nube (Cloud Computing)
 
-Pros:
+Pros: (Beneficios):
 
-- Extremely high computational power
-- Minimal wait times to run code
-- Typically accessible to anyone with an internet connection
-- On-demand pricing options - You only have to pay for what you use
+- Potencia computacional extremadamente alta
+- Tiempos de espera mínimos para ejecutar el código
+- Normalmente accesible para cualquier persona con conexión a Internet
+- Opciones de precios bajo demanda: solo tienes que pagar por lo que usas
 
-Cons:
+Cons: (Contras, Problemas):
 
-- High cost per computation
-- Lack of transparency in costs - E.g. it can cost significant amounts to read in data from different Cloud regions, but may not always be clear which region your data and compute are in
-- May require some extra knowledge in how Cloud computing works
+- Alto costo por cálculo
+- Falta de transparencia en los costos - Ej. puede costar mucho leer datos de diferentes regiones de la nube, pero es posible que no siempre quede claro en qué región se encuentran sus datos y su computadora de procesamiento
+- Puede requerir algún conocimiento adicional sobre cómo funciona trabajar, procesar, computar en la nube
 
-Examples of Cloud providers:
+Ejemplos de proveedores de Clouding o Cloud Computing o Trabajar, procesar, computar en la Nube:
 
 - Amazon Web Services (AWS)
 - Google Cloud
 - Microsoft Azure
 
-Many data providers, especially of large datasets, are migrating their data to the Cloud to increase accessibility and to make use of the large storage capacity that the Cloud provides. For instance, NASA Earthdata (which houses all NASA Earth science data) is now using AWS to store the majority of its data. Many Cloud providers also have a number of publicly available datasets, including  [Google Cloud](https://cloud.google.com/storage/docs/public-datasets/#%3A~%3Atext%3DAvailable%20public%20datasets%20on%20Cloud%20Storage%201%20ERA5%3A%2Cfrom%202015%20through%20the%20present.%20...%20More%20items) and [AWS](https://registry.opendata.aws/)[.](https://cloud.google.com/storage/docs/public-datasets/#%3A~%3Atext%3DAvailable%20public%20datasets%20on%20Cloud%20Storage%201%20ERA5%3A%2Cfrom%202015%20through%20the%20present.%20...%20More%20items)
+Muchos proveedores de datos, especialmente de grandes conjuntos de datos, están migrando sus datos a la nube para aumentar la accesibilidad y aprovechar la gran capacidad de almacenamiento que proporciona la nube. Por ejemplo, NASA Earthdata (que alberga todos los datos de ciencias terrestres de la NASA) ahora utiliza AWS para almacenar la mayoría de sus datos. Muchos proveedores de nube también tienen una serie de conjuntos de datos disponibles públicamente, incluidos [Google Cloud](https://cloud.google.com/storage/docs/public-datasets/#%3A~%3Atext%3DAvailable%20public%20datasets%20on%20Cloud%20Storage%201%20ERA5%3A%2Cfrom%202015%20through%20the%20present.%20...%20More%20items) and [AWS](https://registry.opendata.aws/)[.](https://cloud.google.com/storage/docs/public-datasets/#%3A~%3Atext%3DAvailable%20public%20datasets%20on%20Cloud%20Storage%201%20ERA5%3A%2Cfrom%202015%20through%20the%20present.%20...%20More%20items)
 
-When choosing a computing platform, it is important to consider where your datasets are saved and how big the datasets are. For instance, when working with small datasets, it is often preferable to use a personal computer since data download will take minimal time and large computing resources likely aren’t needed. When working with large datasets, however, it is best to minimize the amount of downloading and uploading data that is needed, as this can take significant amounts of time and internet bandwidth. If your large datasets are stored on the Cloud already, it is typically best to use Cloud resources for the computation as well, and likewise for HPC use.
+Al elegir una nube o plataforma informática, es importante considerar dónde se guardan los conjuntos de datos y que tan grande puede ser su tamaño. Por ejemplo, cuando se trabaja con conjuntos de datos pequeños, suele ser preferible utilizar una computadora personal, ya que la descarga de datos llevará un tiempo mínimo y probablemente no se necesiten grandes recursos informáticos. Sin embargo, cuando se trabaja con grandes conjuntos de datos, es mejor minimizar la cantidad de descarga y carga de datos necesarios, ya que esto puede consumir cantidades significativas de tiempo y ancho de banda de Internet. Si sus grandes conjuntos de datos ya están almacenados en la nube, es mejor utilizar recursos de la nube, al igual que para el cálculo y el uso de HPC.
 
-## Additional Tools
+## Herramientas adicionales
 
-### Software Repository vs Archive
+### Repositorio de software vs archivos
 
-Software repositories and archives provide centralized locations to store and share software, but there are some important key differences between them that we will discuss in this section.
+Los repositorios y archivos de software proporcionan ubicaciones centralizadas para almacenar y compartir software. Existen algunas diferencias clave importantes entre ellos, los cuales analizaremos en esta sección.
 
-A software repository is a dynamic and collaborative space where developers work on the latest code, making it the heart of ongoing software development and version control. It houses actively maintained codebases, which encourages collaboration and continuous, often community-driven, improvement.
+Un repositorio de software es un espacio dinámico y colaborativo donde los desarrolladores trabajan en el código más reciente, lo que lo convierte en el corazón del desarrollo continuo del software y del control de versiones. Alberga bases de código mantenidas activamente, lo que fomenta la colaboración y la mejora continua, a menudo impulsada por la comunidad.
 
-Conversely, a software archive is static storage where stable and thoroughly tested software releases are kept. Users access these archives to obtain reliable versions of software, ensuring stability and reliability in their applications. Understanding the difference between these two is crucial for effective software development and distribution.
+Por el contrario, un archivo de software es un almacenamiento estático donde se guardan versiones de software estables y minuciosamente probadas. Los usuarios acceden a estos archivos para obtener versiones confiables de software, asegurando estabilidad y confiabilidad en sus aplicaciones. Comprender la diferencia entre estos dos es crucial para un desarrollo y distribución de software eficaces.
 
 <img src="../images/media/image45.png" style="width:350px;height:auto;" />
 
-Git/GitHub and Bitbucket are popular choices for software repositories.
+Git/GitHub / GitLAB y Bitbucket son opciones populares para repositorios de software.
 
 <table>
   <thead>
     <tr>
-        <th>Repository ☑</th>
-        <th>Archive</th>
+        <th>Repositorio ☑</th>
+        <th>Archivo</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="2">
             <ul>
-              <li>Is a location for sharing code.</li>
-              <li>Often use version control systems like Git, Mercurial, and Subversion to track changes</li>
-              <li>Typically contains the latest development version (sometimes called the "master" or "trunk") of a software project, which can be actively worked on by developers.</li>
-              <li>Used for collaborative software development and code sharing among a team or a community of developers.</li>
+              <li>Es una ubicación para compartir código.</li>
+              <li>Utilice a menudo sistemas de control de versiones como Git, Mercurial y Subversion para realizar un seguimiento de los cambios</li>
+              <li>Por lo general, contiene la última versión de desarrollo (a veces denominada "maestra" o "troncal") de un proyecto de software, en la que los desarrolladores pueden trabajar activamente.</li>
+              <li>Se utiliza para el desarrollo colaborativo de software y el intercambio de código entre un equipo o una comunidad de desarrolladores.</li>
             </ul>
-            <p><strong>Important note:</strong> A repository is nothing more than a place for hosting code. These days, a version control system and a repository are often one and the same thing. It is important to understand the distinction. However, some websites are purely dropboxes for code executables or zip files of source code.</p>
+            <p><strong>Nota importante:</strong> Un repositorio no es más que un lugar para alojar código. Hoy en día, un sistema de control de versiones y un repositorio suelen ser la misma cosa. Es importante entender la distinción. Sin embargo, algunos sitios web son puramente dropboxes para ejecutables de código o archivos zip de código fuente.</p>
         </td>
     </tr>
   </tbody>
@@ -488,30 +488,30 @@ Git/GitHub and Bitbucket are popular choices for software repositories.
 <table>
   <thead>
     <tr>
-        <th>Repository</th>
-        <th>Archive ☑</th>
+        <th>Repositorio</th>
+        <th>Archivo ☑</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="2">
             <ul>
-              <li>Often used for distribution and long-term preservation of software.</li>
-              <li>A storage system that contains specific, stable releases or versions of software, compiled binary packages, or source code releases.</li>
-              <li>Users typically download software from an archive to install and use it on their systems.</li>
+              <li>A menudo se utiliza para la distribución y conservación a largo plazo de software.</li>
+              <li>Un sistema de almacenamiento que contiene versiones estables y específicas de software, paquetes binarios compilados o versiones de código fuente.</li>
+              <li>Los usuarios suelen descargar software de un archivo para instalarlo y utilizarlo en sus sistemas.</li>
             </ul>
         </td>
     </tr>
   </tbody>
 </table>
 
-**Containers**
+**Contenedores**
 
-A software container is a standalone, and executable package that includes everything needed to run a piece of software, including the code, runtime, system tools, environment settings, and libraries. Containers are isolated environments that hold the application as well as anything needed to run the application, ensuring consistency and portability across different computing environments. A container is a helpful tool that can provide efficiency, scalability, and ease of deployment. Some examples of widely utilized container tools are Kubernetes, Docker, and Apache Mesos.
+Un contenedor de software es un paquete independiente y ejecutable que incluye todo lo necesario para ejecutar una pieza de software, incluido el código, el tiempo de ejecución, las herramientas del sistema, la configuración del entorno y las bibliotecas. Los contenedores son entornos aislados que contienen la aplicación y todo lo necesario para ejecutarla, lo que garantiza coherencia y portabilidad entre diferentes entornos informáticos. Un contenedor es una herramienta útil que puede proporcionar eficiencia, escalabilidad y facilidad de implementación. Algunos ejemplos de herramientas de contenedores ampliamente utilizadas son Kubernetes, Docker, y Apache Mesos.
 
-### Activity 4.2: Match Tools
+### Actividad 4.2: Herramientas de combinación
 
-Match each item to their description:
+Relaciona cada elemento con su descripción:
 
 <table>
   <colgroup>
@@ -521,72 +521,67 @@ Match each item to their description:
   <tbody>
     <tr>
       <td>
-        Integrated development environment (IDE)
-      </td>
+Entorno de desarrollo integrado (IDE)      </td>
       <td>
-        Enhanced text editor for code. Assists with identifying syntax and constructs of code      
+        Editor de texto mejorado para código. Ayuda a identificar la sintaxis y las construcciones o desarrollos de código      
 </td>
     </tr>
     <tr>
       <td>
-        Software archive
-      </td>
+Archivo de software      </td>
       <td>
-        Static storage where stable and thoroughly test software releases are kept.
-      </td>
+Almacenamiento estático donde se guardan versiones de software estables y completamente probadas.      </td>
     </tr>
     <tr>
       <td>
-        Version control platform
-      </td>
+Plataforma de control de versiones      </td>
       <td>
-        Tool that helps software developers manage and track changes in
-      </td>
+Herramienta que ayuda a los desarrolladores de software a gestionar y realizar un seguimiento de los cambios en      </td>
     </tr>
   </tbody>
 </table>
 
-## Lesson 4: Summary
+## Lección 4: Resumen Temario Desarrollo
 
-In this lesson, you learned:
+En esta lección, aprendiste:
 
-- The usefulness of digital tools that manage, foster collaboration, and house open code.
-- How version control systems like Git and platforms like GitHub can increase collaboration and management of code.
-- Some common tools for editing open code, including integrated development environments (IDEs) like Visual Studio Code and Jupyter Notebooks.
-- The difference between software repositories and archives, and also how software containers can help with the sharing and reproducibility of code.
+- La utilidad de las herramientas digitales que gestionan, fomentan la colaboración y albergan código abierto.
+- Cómo los sistemas de control de versiones como Git y plataformas como GitHub pueden aumentar la colaboración y la gestión del código.
+- Algunas herramientas comunes para editar código abierto, incluidos entornos de desarrollo integrados (IDE) como Visual Studio Code y Jupyter Notebooks.
+- La diferencia entre repositorios y archivos de software, y también cómo los contenedores de software pueden ayudar a compartir y reproducir el código.
 
-## Lesson 4: Knowledge Check
+## Lección 4: Validación de conocimientos
 
-Answer the following questions to test what you have learned so far.
+Responda las siguientes preguntas para poner a prueba lo que ha aprendido hasta ahora.
 
-_Question_
+_Pregunta_
 
 **01/03**
 
-Which is NOT a benefit to using version control and version control platforms?
+¿Cuál NO es un beneficio para usar control de versiones y plataformas de control de versiones?
 
-- Ability to track changes that have been made
-- You cannot go back to make changes
-- Ease of code collaboration with others
-- Directory clean from clutter - no need for multiple copies of files
-- A very targeted backup system for your work
+- Capacidad para realizar un seguimiento de los cambios que se han realizado
+- No puedes volver atrás para hacer cambios
+- Facilidad de colaboración en el código, con otros
+- Directorio limpio y ordenado: no es necesario realizar varias copias de archivos
+- Un sistema de respaldo muy específico para su trabajo
 
-_Question_
+_Pregunta_
 
 **02/03**
 
-An interactive computing environment that combines code execution, documentation, and data visualization in a single interface is known as a:
+Un entorno informático interactivo que combina ejecución de código, documentación y visualización de datos en una única interfaz se conoce como:
 
-- Version Control Platform
-- Software Repository
-- Computational Notebook
-- Container
+- Plataforma de control de versiones
+- Repositorio de software
+- Cuaderno computacional o Notebook Computacional
+- Contenedor (Envase)
 
-_Question_
+_Pregunta_
 
 **03/03**
 
-A software repository and a software archive are the same thing.
+Un repositorio de software y un archivo de software son lo mismo.
 
-- True
-- False
+- Verdadero
+- Falso
