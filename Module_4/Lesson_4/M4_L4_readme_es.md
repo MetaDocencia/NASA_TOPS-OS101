@@ -327,63 +327,63 @@ In this lesson, you learned the key steps in sharing open software:
 
 ## Lección 4: Evaluación
 
-Answer the following questions to test what you have learned so far.
+Responde las siguientes preguntas para poner a prueba lo que ha aprendido hasta ahora.
 
-_Question_
+Pregunta
 
 **01/06**
 
-Read the statement and decide whether it's true or false:
+Lee la siguiente afirmación e indica si es Verdadera o Falsa:
 
-_I don’t need to share my code if I don't plan to continue developing it._
+_No necesito compartir mi código si no tengo intención de seguir desarrollándolo._
 
-- True
-- False
+- Verdadero
+- Falso
 
-_Question_
+Pregunta
 
 **02/06**
 
-Read the statement and decide whether it's true or false:
+Lee la siguiente afirmación e indica si es Verdadera o Falsa:
 
-_Adding code to a GitHub repository is sufficient for archiving my code._
+_Añadir el código a un repositorio de GitHub no es suficiente para archivar mi código._
 
-- True
-- False
+- Verdadero
+- Falso
 
-_Question_
+Pregunta
 
 **03/06**
 
-Read the statement and decide whether it's true or false:
+Lee la siguiente afirmación e indica si es Verdadera o Falsa:
 
-_Organization and government software-sharing policies follow a standard practice._
+_Las políticas de uso compartido de software de organizaciones y gobiernos siguen una práctica estándar._
 
-- True
-- False
+- Verdadero
+- Falso
 
-_Question_
+Pregunta
 
 **04/06**
 
-Read the statement and decide whether it's true or false:
+Lee la siguiente afirmación e indica si es Verdadera o Falsa:
 
-_Publishing your software to a software repository used by common package managers makes it easier for users to install your software._
+_Publicar tu software en un repositorio de software utilizado por los gestores de paquetes habituales facilita a los usuarios la instalación de su software._
 
-- True
-- False
+- Verdadero
+- Falso
 
-_Question_
+Pregunta
 
 **05/06**
 
-Which, if any, of the following are ways you can help others to reuse your code? Select all that apply.
+¿Cuáles de las siguientes, si las hay, son formas en las que puedes ayudar a otros a reutilizar tu código? Selecciona todos los que correspondan.
 
-- Assign an appropriate license
-- Add a file named "CONTRIBUTING" with contributor guidelines
-- Add a "CITATION" file with citation information
+- Asignar una licencia adecuada
+- Añadir un archivo llamado "CONTRIBUTING" con pautas de colaboradores
+- Añadir un archivo "CITATION" con información de citas
 
-_Question_
+Pregunta
 
 **06/06**
 
