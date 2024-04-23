@@ -13,132 +13,132 @@
 - [Lección 5: Validar conocimientos](#leccion-5-validar-conocimientos)
 - [Código abierto: Resumen](#codigo-abierto-resumen)
 
-## Resumen
+## Descripción/Desarrollo general
 
-This lesson ties the concepts of open access software development to the operation of a software management plan. The lesson also introduces you to the community aspect of open software. It begins with a discussion on writing software management plans, then continues with information on how to connect with open software communities. This information is contextualized with an introduction to the benefits of a software community and the roles involved in these groups. A list of communities is also presented, and you are asked to explore and engage with some of them. The lesson wraps up with helpful suggestions to contribute to open software and additional resources.
+Esta lección relaciona los conceptos de desarrollo de software de acceso o de código abierto con el funcionamiento de un plan de gestión de software. La lección presenta también, el aspecto comunitario del software de código abierto. Comienza con una discusión sobre cómo redactar planes de gestión de software, luego continúa con información sobre cómo conectarse con comunidades de software de código abierto. Esta información está contextualizada con una introducción a los beneficios de una comunidad de software y los roles involucrados en estos grupos. También se presenta una lista de comunidades y te solicitan que explores e interactúes con algunas de ellas. La lección concluye con sugerencias útiles para contribuir al software de código abierto y recursos adicionales.
 
-## Learning Objectives
+## Objetivos del aprendizaje
 
-After completing this lesson, you should be able to:
+Después de completar esta lección, deberías saber:
 
-- Recall the definition of a software management plan, potentially as part of an open science and data management plan, and where to find helpful resources.
-- List ways to engage with and contribute to open software communities.
+- Recordar la definición de un plan de gestión de software, potencialmente como parte de un plan de gestión de datos y de ciencia abierta, y dónde encontrar recursos útiles.
+- Enumerar/Listar formas de interactuar y contribuir en las comunidades de software de código abierto.
 
-## Open Science and Data Management Plans
+## Planificar proyectos de ciencia abierta y gestión de datos
 
 <img style="width: 100%; height: auto;" src="../images/media/codebg.jpg">
 
-"A NASA Open Science and Data Management Plan (OSDMP) describes how the scientific information that will be produced from NASA-funded scientific activities will be managed and made openly available. The OSDMP should include sections on data management, software management, and publication sharing."
+"Un Plan de Gestión de Datos y Ciencia Abierta de la NASA (OSDMP) describe cómo se gestionará y se pondrá a disposición abiertamente la información científica producida, a partir de actividades científicas financiadas por la NASA. El OSDMP debe incluir secciones sobre gestión de datos, gestión de software e intercambio de publicaciones"
 
 **[https://science.nasa.gov/researchers/sara/faqs/](https://science.nasa.gov/researchers/sara/faqs/)**
 
 ---
 
-Example sections to include in an OSDMP:
+Secciones de ejemplo para incluir en un OSDMP:
 
-- Data Management Plan (DMP)
-- Software Management Plan (SMP)
-- Publication sharing
-- Other open science activities
-- Roles and responsibilities
+- Plan de gestión de datos (DMP)
+- Plan de gestión de software (SMP)
+- Compartir publicaciones
+- Otras actividades de ciencia abierta
+- Roles o Funciones y responsabilidades
 
-#### Recall the steps for an SMP from the previous lessons
+#### Recuerde los pasos para un SMP de las lecciones anteriores
 
-- **What:** Description of management, preservation, and release of software.
-- **When:** The schedule for software archiving and sharing.
-- **Where:** Location where software will be shared and archived over the long-term.
-- **How:** Enable reuse of software through assigning a DOI, license, contribution guidelines, etc.
-- **Who:** Roles and responsibilities of the team members.
+- **Qué:** Descripción de la gestión, preservación y lanzamiento del software.
+- **Cuándo:** El cronograma para archivar y compartir software.
+- **Dónde:** Ubicación donde se compartirá y archivará el software a largo plazo.
+- **Cómo:** Habilite la reutilización del software mediante la asignación de un DOI, una licencia, pautas de contribución, etc.
+- **Quién:** Roles, funciones y responsabilidades de los miembros del equipo.
 
 <img style="width: 350px; height: auto;" src="../images/media/recallsteps.jpg">
 
-## How Do We Plan for Making our Code Open?
+## ¿Cómo planificamos el desarrollo de nuestro código abierto?
 
-### Should a Software or Data Management Plan be Written?
+### ¿Debería redactarse un plan de gestión de datos o software?
 
-If you are planning a project that requires a data management plan, writing that plan is a good first step. There is a threshold above which you should write a software/data management plan. “Software” here means scientifically or technically relevant computer programs as both source code and executable software.
+Si está planificando un proyecto que requiere un plan de gestión de datos, redactar ese plan es un buen primer paso. Existe un umbral por encima del cual se debe redactar un plan de gestión de datos/software. "Software" aquí significa programas informáticos científica o técnicamente relevantes, tanto como código fuente como software ejecutable.
 
-|                     |                                                                                                                                                                                                                                                                                                             |
-| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| SMP is required     | You need a SMP to: <ul><li>Propose for funding (e.g., NASA, NSF, and likely everywhere soon)</li><li>Collaborate on a team that intends to release code to the public</li><li>Successfully manage any large mission or project</li></ul> |
-| SMP is not required | You probably don't need a SMP if you are working on: <ul><li>A paper by yourself (or with a very small group of collaborators)</li><li>The initial exploration of ideas or experimentation with analysis code</li><li>Education-focused activities</li></ul>             |
+|                                      |                                                                                                                                                                                                                                                                                                                |
+| ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| SMP Se requiere o es necesario       | Necesita un SMP para: <ul><li>Proponer financiación (por ejemplo, NASA, NSF y probablemente, pronto en todas partes)</li><li>Colaborar en un equipo que pretende publicar el código al público</li> <li>Gestionar con éxito cualquier misión o proyecto grande</li></ul>    |
+| SMP No se requiere o no es necesario | Probablemente no necesites un SMP si estás trabajando en: <ul><li>Sólo un artículo (o un grupo muy pequeño de colaboradores)</li><li>La exploración inicial de ideas o la experimentación con el análisis de código</li><li>Actividades centradas en la educación</li></ul> |
 
-Perhaps your project does not fit into these categories. For example, if your aim is for your results to be reproduced by others then writing a SMP is your discretion.
+Quizás tu proyecto no encaje en estas categorías. Por ejemplo, si tu objetivo es que otros reproduzcan tus resultados, entonces redactar un SMP queda a tu decisión.
 
-The following material assumes that you have met the threshold and are writing a data/software management plan.
+El siguiente material supone que ha alcanzado el umbral/nivel y está escribiendo un plan de gestión de datos/software.
 
-### Pen to Paper: Getting Started Writing a Plan
+### Lápiz a papel: cómo empezar a escribir un plan
 
-If you are applying for funding, it is almost guaranteed that there will be specific data management requirements detailed in the funding opportunity. For example, the funder may require a certain license or use of a specific repository. Make sure to cross reference your plan with these requirements.
+Si solicita financiación, es casi seguro que habrá requisitos específicos de gestión de datos detallados en la oportunidad de financiación. Por ejemplo, el financiador puede exigir una determinada licencia o el uso de un repositorio específico. Asegúrese de hacer una referencia cruzada de su plan con estos requisitos.
 
-**Examples of Software Management Plans**
+**Ejemplos de planes de gestión de software**
 
 - [software.ac.uk/resources/guides/software-management-plans](https://www.software.ac.uk/resources/guides/software-management-plans)
 - [software.ac.uk/software-management-plans](https://www.software.ac.uk/resources/guides/software-management-plans)
 - [esciencecenter.nl/national-guidelines-for-software-management-plans/](https://www.esciencecenter.nl/national-guidelines-for-software-management-plans/)
 - [https://zenodo.org/record/7589725](https://zenodo.org/record/7589725)
 
-**Policies**
+**Políticas/Reglas/Normativas**
 
-What are the policies for a SMP? (what does the funding agency say to do?)
+¿Cuáles son las políticas/reglas/normas para un SMP? (¿Qué dice la agencia de financiación que hagamos?)
 
-- Data formats
-- Plan for data/code archival/preservation
-- Roles and responsibilities
+- Formatos de datos
+- Plan para datos/códigos archivo/preservación
+- Roles, funciones y responsabilidades
 
-### Funding Agencies
+### Agencias de financiamiento
 
-Scientific funding agencies generally solicit peer reviews to support funding decisions. These reviews explicitly or implicitly evaluate related open software. Community participation is necessary to arrive at consensus regarding community standards for funding.
+Las agencias de financiación científica generalmente solicitan revisiones por pares para respaldar las decisiones de financiación. Estas revisiones evalúan explícita o implícitamente el software de código abierto relacionado. La participación de la comunidad es necesaria para llegar a un consenso sobre los estándares comunitarios para la financiación.
 
-For example: [NASA policy](https://science.nasa.gov/spd-41) explicitly states that "funded software should follow best practices in the relevant open source and research communities."
+Por ejemplo: [política de la NASA] (https://science.nasa.gov/spd-41) establece explícitamente que "el software financiado debe seguir las mejores prácticas en las comunidades de investigación y de código abierto relevantes"
 
-### Established Open Software Policies of Professional Societies
+### Políticas de software abierto establecidas por sociedades profesionales
 
-Professional societies such as AAAS, AGU, AAS, etc., influence funding agency policies and directly influence the policies surrounding software used to generate publications. It is important to engage with the community via consensus papers and professional societies to guide policy decisions regarding open source software in science.
+Las sociedades profesionales como AAAS, AGU, AAS, etc. influyen en las políticas de las agencias de financiación e influyen directamente en las políticas relativas al software utilizado para generar publicaciones. Es importante interactuar con la comunidad a través de documentos de consenso y sociedades profesionales para guiar las decisiones políticas relacionadas con el software de código abierto en la ciencia.
 
-Science/AAAS explicitly states that "In general, all computer code central to the findings being reported should be available to readers to ensure reproducibility."
+Science/AAAS establece explícitamente que "en general, todo el código informático fundamental para los hallazgos que se informan debe estar disponible para los lectores para garantizar la reproducibilidad"
 
-### Institutions
+### Instituciones
 
-The individual institutions where we work impose highly variable restrictions on open source software due to security, privacy, intellectual property, commercial, or other concerns which do not necessarily align with the ethos of open science. It is important to engage with the institutional community to facilitate the movement toward policies that facilitate open source software as a foundation of open science.
+Las instituciones individuales donde trabajamos imponen restricciones muy variables al software de código abierto debido a preocupaciones de seguridad, privacidad, propiedad intelectual, comerciales u otras que no necesariamente se alinean con el espíritu de la ciencia abierta. Es importante colaborar con la comunidad institucional para facilitar el movimiento hacia políticas que faciliten el software de código abierto como base de la ciencia abierta.
 
-### Activity 5.1: Writing an SMP
+### Actividad 5.1: Escribir un SMP
 
-In this activity, review the SMP below and think about these questions:
+En esta actividad, revise el SMP y piense en estas preguntas:
 
-- What kinds of software does the SMP describe?
-- When will it be shared?
-- Where will it be shared?
-- How will it be shared so it is a citable artifact?
-- Who will be responsible for different aspects of the software?
-- What are some of the limitations for some of the software?
-- How does not having an agreed upon plan when you start code development have impacts years down the line?
-- Are results reproducible without the original IDL code?
-- Are there things in the example plan that you would add or be more specific about?
+- ¿Qué tipos de software describe el SMP?
+- ¿Cuándo se compartirá?
+- ¿Dónde se compartirá?
+- ¿Cómo se compartirá para que sea un artículo citable?
+- ¿Quién será responsable de los diferentes aspectos del software?
+- ¿Cuáles son algunas de las limitaciones de algunos programas?
+- ¿Cómo puede afectar el hecho de no tener un plan acordado cuando se inicia el desarrollo del código años después?
+- ¿Los resultados son reproducibles sin el código IDL original?
+- ¿Hay cosas en el plan de ejemplo que agregaría o sobre las que sería más específico?
 
-#### Example Software Management Plan
+#### Ejemplo de Plan de Gestión de Software (SMP siglas en inglés)
 
-**1. Expected Software Types**
+**1. Tipos de software esperados**
 
-We will use established simulation models to conduct initial simulations for this work. These simulation models are written in Fortran and developed over the last decade. While not publicly available, they are available for the project to use (private communication). The simulation models will lead to the generation of output files as described in the Data Management Plan (DMP). We will develop analysis software in Python to analyze the model output files, which will enable the development of derived data products, maps, and figures. Development of the Python analysis software will be shared on a GitHub repository.
+Utilizaremos modelos de simulación establecidos para realizar simulaciones iniciales para este trabajo. Estos modelos de simulación están escritos en Fortran y desarrollados durante la última década. Si bien no están disponibles públicamente, están disponibles para que los utilice el proyecto (comunicación privada). Los modelos de simulación conducirán a la generación de archivos de salida como se describe en el Plan de gestión de datos (DMP). Desarrollaremos software de análisis en Python para analizar los archivos de salida del modelo, lo que permitirá el desarrollo de productos de datos derivados, mapas y figuras. El desarrollo del software de análisis Python se compartirá en un repositorio de GitHub.
 
-**2. Development of Analysis Software**
+**2. Desarrollo de Análisis de Software**
 
-All new development of Python code will be conducted openly on GitHub by members of this project. We will post and follow the established Code of Conduct for software development for our research project, which includes guidelines for contributions by additional members of the scientific community.
+Todo el desarrollo nuevo del código Python se desarrollará abiertamente en GitHub por los miembros del proyecto. Publicaremos y seguiremos el Código de conducta establecido para el desarrollo de software de nuestro proyecto de investigación, incluye pautas para las contribuciones de miembros adicionales de la comunidad científica.
 
-**3. Repositories and Timeline for Sharing Software**
+**3. Repositorios y cronogramas para compartir software**
 
-This work will support the development of two peer-reviewed journal articles. All source code developed in Python to support each article will be archived on Zenodo no later than the article’s publication date. The software will be made available under a permissive Apache License 2.0. Zenodo will assign a DOI to the archived software when it is archived.
+Este trabajo apoyará el desarrollo de dos artículos de revistas revisados ​​por pares. Todo el código fuente desarrollado en Python para respaldar cada artículo se archivará en Zenodo a más tardar en la fecha de publicación del artículo. El software estará disponible bajo una licencia Apache 2.0 permisiva. Zenodo asignará un DOI al software archivado cuando esté archivado.
 
-**4. Software Sharing Exemptions**
+**4. Exenciones para compartir software**
 
-This work does not support further development of the existing Fortran simulation models, which are maintained independently. We do not have permission to publicly share the Fortran source code for the simulation models.
+Este trabajo no respalda un mayor desarrollo de los modelos de simulación de Fortran existentes, que se mantienen de forma independiente. No tenemos permiso para compartir públicamente el código fuente de Fortran para los modelos de simulación.
 
-**5. Roles and Responsibilities**
+**5. Roles, funciones y responsabilidades**
 
-Initial simulation modeling and the development of Python analysis software will be completed by PhD students and postdocs. The PI of this project holds overall responsibility for the execution of this plan.
+Los estudiantes de doctorado y postdoctorados completarán el modelado de simulación inicial y el desarrollo del software de análisis Python. El PI de este proyecto tiene la responsabilidad general de la ejecución de este plan.
 
-## Engage and Build Communities
+## Interesar, involucrar y construir comunidades
 
 Las comunidades de software abierto son espacios de aprendizaje social donde las personas se reúnen para aprender una nueva habilidad, intercambiar conocimientos y experiencias, y luego aplicar lo que han aprendido de la comunidad en su trabajo diario.
 
