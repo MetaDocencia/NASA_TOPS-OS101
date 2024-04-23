@@ -199,23 +199,23 @@ Aunque hay varios paquetes de software para la generación automática de docume
 
 - Configure cualquier herramienta necesaria para escribir el código. Tal vez un EDI (Entorno de Desarrollo Integrado) o editor de texto. Algunos ejemplos populares incluyen el código VS, Pycharm, R Studio, Xcode.
 - Configure un gestor de paquetes. Por ejemplo, para Python, se podría usar 'anaconda' o 'poetry'.
-- Create a virtual environment specific to your project to isolate its dependencies (and their versions) from those used for other projects
+- Cree un entorno virtual específico a tu proyecto para aislar sus dependencias (y sus versiones) de las utilizadas para otros proyectos
 
-**Structuring Files and Folders** - How you structure the files in your project from the beginning will contribute to the success of the final results.
+**Estructuración de archivos y carpetas** - Cómo estructurar los archivos en tu proyecto desde el principio contribuirá al éxito de los resultados finales.
 
-Different programming languages have different standard folder structures. Familiarize yourself with the standards before starting as it will help others collaborate and will likely save you from difficulties later.
+Diferentes lenguajes de programación tienen diferentes estructuras de carpetas estándar. Familiarizarse con los estándares antes de empezar, ya que ayudará a otros a colaborar y probablemente le salvará de dificultades más adelante.
 
-There are a variety of sample code structures that can be used to get started. For example, for Python there is Cookiecutter and an Astropy package template.
+Hay una variedad de estructuras de código de ejemplo que se pueden utilizar para empezar. Por ejemplo, para Python hay Cookiecutter y una plantilla de paquete Astropy.
 
-## What License Should We Choose for Our Code?
+## ¿Qué licencia deberíamos elegir para nuestro código?
 
-### Licensing Considerations when Using Open Software
+### Consideraciones de licencia cuando se usa software abierto
 
 <img src="../images/media/image130.png" style="width:350px;height:auto;" />
 
-Open-source software licenses are the basis for how scientists use, make, and share code and software. Understanding some of the nuances of these licenses is important because it will affect how your project can license and share code.
+Las licencias de software de código abierto son la base para cómo los científicos usan, elaboran y comparten código y software. Entender algunos de los matices de estas licencias es importante porque afectará a cómo tu proyecto puede licenciar y compartir código.
 
-A software license is a legal document that states the rights of the developer and user of a piece of software.
+Una licencia de software es un documento legal que establece los derechos del desarrollador y usuario de una pieza de software.
 
 An open source license is a type of software license, approved by the Open Source Initiative (OSI) as compliant with the Open Source Definition. An open source license grants permissions for anyone to inspect, use, modify, and distribute the software’s source code for any purpose.
 
