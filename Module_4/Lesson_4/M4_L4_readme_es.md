@@ -208,52 +208,52 @@ Asegúrate de que tu repositorio de GitHub sea público, para que cualquiera pue
 
 No todo el código tiene que ser citable. Cuando se publica de forma independiente, sin embargo, existen algunas prácticas recomendadas sobre cómo hacer que tu código sea citable.
 
-Adding code to a GitHub repository is not sufficient for archiving code. To archive, we must assign a persistent identifier.
+Añadir el código a un repositorio de GitHub no es suficiente para archivar código. Para archivar, debemos asignar un identificador persistente.
 
-Producing a persistent identifier for your code is the best way to make it citable. This could take form through a peer reviewed publication that describes the software or by archiving the software with a long term repository that produces a DOI or similar identifier. For code shared on GitHub, a [DOI can be easily produced for each release of the software from Zenodo.](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content#issuing-a-persistent-identifier-for-your-repository-with-zenodo)
+Producir un identificador persistente para tu código es la mejor manera de hacerlo citable. Esto podría hacerse mediante una publicación revisada por pares que describa el software o archivando el software en un repositorio a largo plazo que produzca un DOI o un identificador similar. Para el código compartido en GitHub, un [DOI se puede producir fácilmente para cada versión del software de Zenodo.](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content#issuing-a-persistent-identifier-for-your-repository-with-zenodo)
 
-### Activity 4.2: Create a DOI for a Test Code File
+### Actividad 4.2: Crear un DOI para un Archivo de Código de Prueba
 
-You can create Digital Object Identifiers (DOIs) for your code that makes it citable. You do this by archiving a GitHub code repository at Zenodo and issue a DOI for the record.
+Puedes crear Identificadores de Objetos Digitales (en inglés, _Digital Object Identifier, DOIs_) para tu código que lo hacen citable. Para hacer esto, archiva un repositorio de código GitHub en Zenodo y emite un DOI para el registro.
 
-Steps for this activity:
+Pasos para esta actividad:
 
-**Part 1: Create a test public GitHub repository.**
+**Parte 1: Crear un repositorio GitHub público de prueba.**
 
-1. Navigate to the login page for [GitHub](https://github.com/) and login. If you haven’t already, create a free user account.
-2. Create a new repository with this [link](https://github.com/new).
-3. Type a short, memorable name for your repository. For example, "os-test".
-4. Set the repository visibility 'Public' by selecting this option below the repository description.
-5. In the following section 'Initialize this repository with:' select 'Add a README file'.
-6. Select any license.
-7. Click 'Create repository'.
-8. You will be automatically directed to your new repository webpage.
-9. Now we will get a DOI from the Zenodo application. Note that we are going to use [https://sandbox.zenodo.org/](https://sandbox.zenodo.org/) to do this. This offers all the same capabilities as [https://zenodo.org](https://zenodo.org/) but is a testing site! Create a free account if you have not already.
+1. Ve a la página de inicio de sesión para [GitHub](https://github.com/) e inicia sesión. Si aún no lo has hecho, crea una cuenta de usuario gratuita.
+2. Crea un nuevo repositorio con este [enlace](https://github.com/new).
+3. Escribe un nombre breve y recordable para tu repositorio. Por ejemplo, "os-test".
+4. Establece como 'Pública' la visibilidad del repositorio seleccionando esta opción debajo de la descripción del repositorio.
+5. En la siguiente sección 'Inicializar este repositorio con:' selecciona 'Añadir un archivo README'.
+6. Selecciona cualquier licencia.
+7. Haz clic en 'Crear repositorio'.
+8. Serás redirigido automáticamente a tu nueva página web del repositorio.
+9. Ahora obtendremos un DOI de la aplicación Zenodo. Ten en cuenta que vamos a usar [https://sandbox.zenodo.org/](https://sandbox.zenodo.org/) para hacer esto. ¡Esto ofrece todas las mismas posibilidades que [https://zenodo.org](https://zenodo.org/) pero es un sitio de pruebas! Crea una cuenta gratuita si aún no lo has hecho.
 
-**Part 2: Create an archived repository and afﬁliated DOI.**
+**Parte 2: Crear un repositorio archivado y DOI afiliados.**
 
-1. Navigate to the [Zenodo GitHub page](https://sandbox.zenodo.org/account/settings/github/). Click on the button 'Connect' to allow Zenodo to access your GitHub repositories.
+1. Ve a la [página de Zenodo GitHub](https://sandbox.zenodo.org/account/settings/github/). Haz clic en el botón 'Conectar' para permitir que Zenodo acceda a sus repositorios de GitHub.
 
 <img src="../images/media/zenododoi1.jpg" style="width:100%;height:auto" />
 
-2. Review the information about access permissions, then click 'Authorize Zenodo'.
-3. Sync your GitHub with Zenodo by clicking 'Sync now' in the upper right corner.
+2. Revisa la información sobre los permisos de acceso y haz clic en 'Autorizar Zenodo'.
+3. Sincroniza tu GitHub con Zenodo haciendo clic en 'Sincronizar ahora' en la esquina superior derecha.
 
 <img src="../images/media/zenododoi3.jpg" style="width:100%;height:auto" />
 
-4. To the right of the name of the repository you want to archive ('os-test'), toggle the button to On.
-5. Click on the name of the repository.
-6. Click the big green button that has 'username/os-test'
+4. A la derecha del nombre del repositorio que desea archivar ('os-test'), cambia el botón a Encendido (en inglés, _On_).
+5. Haz clic en el nombre del repositorio.
+6. Haz clic en el botón verde grande que tiene 'username/os-test'
 
 <img src="../images/media/zenododoi6.jpg" style="width:100%;height:auto" />
 
-7. Add a tag 'test'. You may have to create a new tag for 'test' if prompted.
-8. Scroll down and click the green 'publish release' button
+7. Añade una etiqueta 'test'. Es posible que tengas que crear una nueva etiqueta para 'test' si se te solicita.
+8. Desplázate hacia abajo y haz clic en el botón verde 'publicar publicación' (en inglés, _publish release_)
 
 <img src="../images/media/zenododoi8.jpg" style="width:100%;height:auto" />
 
-9. Navigate to the [Zenodo GitHub page](https://sandbox.zenodo.org/account/settings/github/) and see the DOI for 'os-test'
-10. Share your DOI below.
+9. Navega a la [Zenodo GitHub page](https://sandbox.zenodo.org/account/settings/github/) y ve el DOI para 'os-test'.
+10. A continuación, comparte tu DOI.
 
 <img src="../images/media/zenododoi10.jpg" style="width:100%;height:auto" />
 
@@ -322,10 +322,10 @@ In this lesson, you learned the key steps in sharing open software:
 - Should you share? When sharing software, the policies of your institution and funding agency must be followed. These may limit the openness of the software. Software sharing policies also vary by organization.
 - When to share? Follow guidance from your organization, funding agency, or publisher.
 - Where to share? It depends on whether you are archiving or sharing for community input. Use domain-specific repositories where appropriate.
-- How to enable reuse? Enable reuse through assigning a DOI, and include a license, citation information, and contributor guidelines.
-- Who helps share? Plan for the roles and responsibilities when sharing and (if applicable) for maintaining software.
+- How to enable reuse? Habilita la reutilización mediante la asignación de un DOI e incluye una licencia, información de citas y directrices para colaboradores.
+- ¿Quién ayuda a compartir? Planifica los roles y responsabilidades cuando se comparta y (si es aplicable) para mantener el software.
 
-## Lesson 4: Knowledge Check
+## Lección 4: Evaluación
 
 Answer the following questions to test what you have learned so far.
 
