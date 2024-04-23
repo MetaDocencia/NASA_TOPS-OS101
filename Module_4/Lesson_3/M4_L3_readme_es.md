@@ -126,14 +126,14 @@ El control de versiones es una buena práctica para codear, incluso si no se com
 
 ### LEEME
 
-La primera parada para un usuario cuando se acerque a un nuevo proyecto debería ser el archivo LEEME. Aptly named, this file contains orientation information that will help a user understand a project’s purpose, provides examples of how it can be used, and lists other important information that the creator deems pertinent.
+La primera parada para un usuario cuando se acerque a un nuevo proyecto debería ser el archivo LEEME. Acertadamente llamado así, este archivo contiene información orientativa que ayudará al usuario a comprender el propósito de un proyecto, ofrece ejemplos de cómo puede utilizarse y enumera otra información importante que el creador considere pertinente.
 
-At the minimum, a README should contain the name of the project and a very short paragraph of what the software is. Two to three sentences in a plain-language style that does not assume who is reading it. It’s the elevator pitch for the project.
+Como mínimo, un archivo LEEME debería contener el nombre del proyecto y un párrafo muy corto de lo que es el software. Dos o tres frases en un estilo sencillo que no presuponga quién lo lee. Es el discurso de ascenso para el proyecto.
 
-|                         |                                                                                                                                                                                                                                                                                                                                     |
-| ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Bad** README example  | "This code recomputes the fundamental permutation factor of the downward flow (for J < 10, obviously)."                                                                                                                                                                                          |
-| **Good** README example | "LeapKitten. This Python software package takes any picture of a kitten (JPEG, PNG) and uses artificial intelligence to output what it would look like leaping into the air. In addition, the code takes leap years into account on the timestamp on the image." |
+|                                   |                                                                                                                                                                                                                                                                                                                                     |
+| --------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **MAlo** Ejemplo de archivo LEEME | "This code recomputes the fundamental permutation factor of the downward flow (for J < 10, obviously)."                                                                                                                                                                                          |
+| **Good** README example           | "LeapKitten. This Python software package takes any picture of a kitten (JPEG, PNG) and uses artificial intelligence to output what it would look like leaping into the air. In addition, the code takes leap years into account on the timestamp on the image." |
 
 In addition, the following information is helpful to add to the README especially if they are not listed elsewhere:
 
