@@ -195,15 +195,15 @@ Todas estas funciones son excelentes para permitir la colaboración asíncrona e
 
 ### Entorno de Desarrollo Integrado (IDEs)
 
-Un Entorno de Desarrollo Integrado (IDE) desempeña un papel importante en el desarrollo de código abierto ofreciendo un conjunto de herramientas a los investigadores, científicos, y desarrolladores para editar código. It is a software application that streamlines the entire process of creating, testing, and managing code for scientific research and data analysis. By providing an all-in-one platform, an IDE allows researchers to write, debug, and optimize code more efficiently, fostering collaboration and reproducibility in open code science projects.
+Un Entorno de Desarrollo Integrado (IDE) desempeña un papel importante en el desarrollo de código abierto ofreciendo un conjunto de herramientas a los investigadores, científicos, y desarrolladores para editar código. Se trata de una aplicación informática que agiliza todo el proceso de creación, comprobación y gestión de código para la investigación científica y el análisis de datos. Al proporcionar una plataforma todo en uno, un IDE permite a los investigadores escribir, depurar y optimizar el código de forma más eficiente, fomentando la colaboración y la reproducibilidad en proyectos científicos de código abierto.
 
-In open science, where transparency and accessibility are paramount, IDEs often incorporate version control systems like Git to facilitate collaboration and ensure that a research codebase is readily available for others to use and improve. Additionally, many IDEs integrate with data analysis and visualization tools. This makes it easier for scientists to analyze and interpret their data, ultimately contributing to the advancement of open code science practices.
+En la ciencia abierta, donde la transparencia y la accesibilidad son primordiales, los IDE suelen incorporar sistemas de control de versiones como Git para facilitar la colaboración y garantizar que un código base de investigación esté disponible para que otras personas lo utilicen y mejoren. Además, muchos IDEs se integran con herramientas de análisis y visualización de datos. Esto facilita el análisis y la interpretación de datos, contribuyendo en última instancia, al avance de las prácticas científicas de código abierto.
 
-If you were in a room with 10 developers and asked them each what their favorite code editor is, you would get many different responses. In this lesson, we will go over a few of the more popular varieties.
+Si estuvieras en una sala con 10 personas que trabajan en desarrollo y les preguntaras a cada una cuál es su editor de código favorito, obtendrías muchas respuestas diferentes. En esta lección, repasaremos algunas de las opciones más conocidas.
 
-**Source-Code Editing & Kernels – The Value of IDEs and Kernels**
+**Edición de código fuente y núcleos – El valor de los IDEs y núcleos**
 
-IDEs can bring a lot of good tools to your efforts. It’s not just about editing code any more. Modern, robust IDEs can do most of the things listed here, if not more. One can use an IDE without executing in a kernel; one can use a kernel without having developed code in an IDE. However, they can work hand-in-hand.
+Los IDE pueden aportar muchas herramientas útiles a tus trabajos. It’s not just about editing code any more. Los IDEs Modernos y robustos pueden hacer la mayoría de las cosas que se listan aquí, y aún más. Se puede usar un IDE sin ejecutar en un núcleo; se puede usar un núcleo sin haber desarrollado código en un IDE. Sin embargo, pueden trabajar de la mano.
 
 <table>
   <thead>
@@ -215,17 +215,17 @@ IDEs can bring a lot of good tools to your efforts. It’s not just about editin
   <tbody>
     <tr>
         <td colspan="2">
-            <p>Source code editing:</p>
+            <p>Edición del código fuente:</p>
             <ul>
-              <li>Syntax highlighting</li>
-              <li>Error/bug warnings</li>
+              <li>Resaltado sintáctico</li>
+              <li>Avisos de error/error</li>
             </ul>
-            <p>Plugins</p>
+            <p>Extensiones</p>
             <ul>
-              <li>Debuggers</li>
-              <li>Memory management</li>
-              <li>Version control</li>
-              <li>Build automation</li>
+              <li>Depuradores</li>
+              <li>Gestión de memoria</li>
+              <li>Control de versiones</li>
+              <li>Crear automatización</li>
             </ul>
         </td>
     </tr>
@@ -256,7 +256,7 @@ IDEs can bring a lot of good tools to your efforts. It’s not just about editin
   </tbody>
 </table>
 
-**IDE Example: Visual Studio Code**
+**Ejemplo de IDE: Visual Studio Code**
 
 The most popular IDE these days, Microsoft’s Visual Studio Code (or VS Code) is feature-rich without being clunky.
 
