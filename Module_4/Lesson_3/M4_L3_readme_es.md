@@ -481,12 +481,12 @@ Whether using open source, closed source, or commercial software, it is importan
 - Use global variables or key managers for credentials. Never include credentials in your code.
 - Use well-tested and maintained dependencies. In packages that you maintain, keep the list of dependencies up to date.
 - Create software with tools that provide automated scanning and auditing.
-- If there are unsupported dependencies that you rely on, assess them to determine how they might introduce security risks and whether it would be appropriate to switch to a different package.
+- Si hay dependencias no compatibles en las que confías, evalúalas para determinar cómo podrían introducir riesgos de seguridad y si sería apropiado cambiar a un paquete diferente.
 
 <table>
   <thead>
     <tr>
-        <th>SECURITY TOOLS AND SECURITY VULNERABILITIES ☑</th>
+        <th>HERRAMIENTAS Y VULNERABILIDADES DE SEGURIDAD ☑</th>
         <th>TEST COMPONENTS AND DEPENDENCIES</th>
     </tr>
   </thead>
