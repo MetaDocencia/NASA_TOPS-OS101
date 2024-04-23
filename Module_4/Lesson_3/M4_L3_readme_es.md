@@ -185,20 +185,20 @@ Your software should be documented within the source code. Each function should 
 
 ### Code Level Documentation for the User
 
-If you are developing code that you expect others to use, produce a manual on how to use the code. As code constantly develops, it is much easier to document while or even before you write any code.
+Si estás desarrollando código que esperas que otros usen, escribe un manual sobre cómo utilizar el código. Como el código se desarrolla constantemente, es mucho más fácil documentarlo mientras o incluso antes de escribir cualquier código.
 
-If you write your documentation within the code itself, there are pieces of software that can then extract it, format it, and present it as a polished manual. Examples of documentation generated from the code can be seen for [Astropy](https://docs.astropy.org/en/latest/) or [NumPy](https://numpy.org/doc/stable/).
+Si escribe su documentación dentro del propio código. hay piezas de software que pueden extraerla, formatearla y presentarla como un manual pulido. Ejemplos de documentación generada a partir del código se pueden ver para [Astropy](https://docs.astropy.org/en/latest/) o [NumPy](https://numpy.org/doc/stable/).
 
-They look fancy, but very similar too. These sites were completely generated from comments and documents written in the source code. Different from the comments written for developers of the code above, these comments were written specifically for the audience of external users of the code: the manual.
+Se ven maravillosos, pero también muy similares. Estos sitios fueron generados por completo a partir de comentarios y documentos escritos en el código fuente. Diferente de los comentarios escritos para los desarrolladores del código anterior estos comentarios fueron escritos específicamente para el público de usuarios externos del código: el manual.
 
-While there are multiple software packages for automatic documentation generation, the most commonly used ones are [Sphinx](https://www.sphinx-doc.org/en/master/) for Python and [D](https://www.doxygen.nl/index.html)[oxygen](https://www.doxygen.nl/index.html) for most everything else. [M](https://www.markdownguide.org/)[arkdown](https://www.markdownguide.org/) is also a popular choice for the formatting language for documentation.
+Aunque hay varios paquetes de software para la generación automática de documentación, los más utilizados son [Sphinx](https://www.sphinx-doc. rg/es/master/) para Python y [D](https://www.doxygen.nl/index.html)[oxygen](https://www.doxygen.nl/index.html) para casi todo lo demás. [M](https://www.markdownguide.org/)[arkdown](https://www.markdownguide.org/) también es una opción popular para el lenguaje de formato para la documentación.
 
-### Programming and Documenting
+### Programación y documentación
 
-**Establishing a Development Environment** - Establishing an appropriate development environment will help you write good, clean code and will help you maintain the project as it evolves.
+**Establecer un entorno de desarrollo** - Establecer un entorno de desarrollo apropiado te ayudará a escribir un código bueno, limpio y te ayudará a mantener el proyecto a medida que evoluciona.
 
-- Configure any necessary tools for writing the code. Perhaps an IDE (Integrated Development Environment) or text editor. Some popular examples include VS Code, Pycharm, R Studio, Xcode.
-- Set up a package manager. For example, for Python, one could use 'anaconda' or 'poetry'.
+- Configure cualquier herramienta necesaria para escribir el código. Tal vez un EDI (Entorno de Desarrollo Integrado) o editor de texto. Algunos ejemplos populares incluyen el código VS, Pycharm, R Studio, Xcode.
+- Configure un gestor de paquetes. Por ejemplo, para Python, se podría usar 'anaconda' o 'poetry'.
 - Create a virtual environment specific to your project to isolate its dependencies (and their versions) from those used for other projects
 
 **Structuring Files and Folders** - How you structure the files in your project from the beginning will contribute to the success of the final results.
