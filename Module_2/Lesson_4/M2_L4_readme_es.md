@@ -151,55 +151,51 @@ Vamos a ampliar algunas de las herramientas de colaboración de GitHub. Algunas 
     <tr class="odd">
       <td>Rastreo de problemas</td>
       <td>
-        Keep track of feature requests, bugs, and other types of updates via GitHub Issues. GitHub also allows the use of labels and assigning people to tasks to help organize tasks.
+        Realizar un seguimiento de las solicitudes de funciones, errores y otros tipos de actualizaciones a través de GitHub Issues. GitHub también permite utilizar etiquetas y asignar personas a las tareas para ayudar a organizarlas.
       </td>
     </tr>
     <tr class="odd">
-      <td>Project Discussion Forums</td>
-      <td>
-        GitHub allows for an online discussion forum where you can ask and answer questions, and hold community discussions.
-      </td>
+      <td>Foros de discusión de proyectos</td>
+      <td>GitHub permite un foro de discusión en línea donde es posible hacer y responder preguntas y mantener discusiones comunitarias.</td>
     </tr>
     <tr class="odd">
-      <td>Contribution Tracking</td>
+      <td>Seguimiento de contribuciones</td>
       <td>
-        GitHub has a straightforward way to keep track of suggested code contributions (called “Pull Requests”) from different people.
-      </td>
+GitHub tiene una forma sencilla de llevar un registro de las contribuciones de código sugeridas (llamadas "Pull Requests") por diferentes personas.      </td>
     </tr>
     <tr class="odd">
-      <td>Code Review Tools</td>
+      <td>Herramientas de revisión de código</td>
       <td>
-        GitHub has a rich set of tools for reviewing and accepting (or denying) contributions from others (or yourself), such as in-line comments and easily viewable tracked changes to individual files.
-      </td>
+GitHub dispone de un amplio conjunto de herramientas para revisar y aceptar (o rechazar) las contribuciones de otros (o las tuyas propias), como los comentarios en línea y los cambios fácilmente visibles en archivos individuales.      </td>
     </tr>
     <tr class="odd">
-      <td>Tailored Permissions</td>
+      <td>Permisos personalizados</td>
       <td>
-        Choose who has the ability to update the code. This helps you feel confident that only those with permission can update code that you shared in GitHub, and also others feel safe to suggest updates without worrying that they might accidentally overwrite existing code.
+        Elige quién tiene autorización para actualizar el código. Esto ayuda a que las personas se sientan seguras de que solo aquellos con permiso pueden actualizar el código que compartido en GitHub, y también a que otras se sientan seguras para sugerir actualizaciones sin preocuparse de que puedan sobrescribir accidentalmente el código existente.
       </td>
     </tr>
   </tbody>
 </table>
 
-Todas estas funciones son excelentes para permitir la colaboración asíncrona entre equipos. Most scientific open- source packages use GitHub for their primary code development. Note that there are many more GitHub features that we don’t go into here that support collaboration, as well as automated workflows and so much more. To learn more about GitHub, take a look at these references:
+Todas estas funciones son excelentes para permitir la colaboración asíncrona entre equipos. La mayoría de los paquetes científicos de código abierto utilizan GitHub para el desarrollo de su código principal. Ten en cuenta que hay muchas más funciones de GitHub en las que no profundizamos aquí y que permiten la colaboración, así como flujos de trabajo automatizados y mucho más. Para aprender más sobre GitHub, echa un vistazo a estas referencias:
 
-- [How to Use Git and GitHub – Introduction for Beginners (freecodecamp.org)](https://www.freecodecamp.org/news/introduction-to-git-and-github/)
-- [Getting Started with GitHub — Pythia Foundations (projectpythia.org)](https://foundations.projectpythia.org/foundations/getting-started-github.html)
+- [Cómo usar Git y GitHub – Introducción para principiantes (freecodecamp.org)](https://www.freecodecamp.org/news/introduction-to-git-and-github/)
+- [Empezando con GitHub — Pythia Foundations (projectpythia.org)](https://foundations.projectpythia.org/foundations/getting-started-github.html)
 
 [Cite Project Pythia: [https://foundations.projectpythia.org/preamble/how-to-cite.html](https://foundations.projectpythia.org/preamble/how-to-cite.html)]
 
-### Summary of Benefits to Using Version Control and Version Control Platforms
+### Resumen de las ventajas de utilizar el control de versiones y las plataformas de control de versiones
 
-- Features the ability to rewind changes back to any committed point
-- Eases collaboration with others
-- Keeps a directory clean from clutter, with no need for multiple copies of files
-- Provides a targeted backup system for your work
+- Posibilidad de retrotraer los cambios hasta cualquier punto
+- Facilita la colaboración con otras personas
+- Mantiene un directorio ordenado, sin necesidad de hacer varias copias de los archivos.
+- Proporciona un sistema de copia de seguridad específico para su trabajo
 
-## Tools for Editing Code
+## Herramientas para Editar Código
 
-### Integrated Development Environment (IDEs)
+### Entorno de Desarrollo Integrado (IDEs)
 
-An Integrated Development Environment (IDE) plays an important role in open code development by offering a comprehensive toolkit to researchers, scientists, and developers for editing code. It is a software application that streamlines the entire process of creating, testing, and managing code for scientific research and data analysis. By providing an all-in-one platform, an IDE allows researchers to write, debug, and optimize code more efficiently, fostering collaboration and reproducibility in open code science projects.
+Un Entorno de Desarrollo Integrado (IDE) desempeña un papel importante en el desarrollo de código abierto ofreciendo un conjunto de herramientas a los investigadores, científicos, y desarrolladores para editar código. It is a software application that streamlines the entire process of creating, testing, and managing code for scientific research and data analysis. By providing an all-in-one platform, an IDE allows researchers to write, debug, and optimize code more efficiently, fostering collaboration and reproducibility in open code science projects.
 
 In open science, where transparency and accessibility are paramount, IDEs often incorporate version control systems like Git to facilitate collaboration and ensure that a research codebase is readily available for others to use and improve. Additionally, many IDEs integrate with data analysis and visualization tools. This makes it easier for scientists to analyze and interpret their data, ultimately contributing to the advancement of open code science practices.
 
