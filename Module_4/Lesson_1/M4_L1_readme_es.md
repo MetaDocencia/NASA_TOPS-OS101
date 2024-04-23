@@ -1,12 +1,12 @@
-# Lesson 1: Introduction to Open Code
+# Lección 1: Introducción al Código Abierto
 
-## Navigation
+## Contenidos
 
-- [Overview](#overview)
-- [Learning Objectives](#learning-objectives)
-- [Success Stories](#success-stories)
-- [Definitions and Considerations of Open Code](#definitions-and-considerations-of-open-code)
-- [Principles, Benefits, and Challenges](#principles-benefits-and-challenges)
+- [Descripción general](#descripcióngeneral)
+- [Objetivos de aprendizaje](#objetivos-de-aprendizaje)
+- [Historias de éxito](#historias-de-éxito)
+- [Definición y consideraciones sobre los datos abiertos](./Lesson_1#definición-y-consideraciones-sobre-los-datos-abiertos)
+- [Principios, beneficios, y desafíos](./Lección_1#principios-beneficios-y-desafíos)
 - [When Not to Share](#when-not-to-share)
 - [Software Management Plans (SMP)](#software-management-plans-smp)
 - [Lesson 1: Summary](#lesson-1-summary)
