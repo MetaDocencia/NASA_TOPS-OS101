@@ -15,7 +15,7 @@
 
 ## Resumen
 
-In this lesson you learn the steps for sharing the software that you developed. These steps include determining if, when, and where software should be shared, which roles are needed, and how to enable others to use the code.
+En esta lección aprenderás los pasos para compartir el software que desarrollaste. These steps include determining if, when, and where software should be shared, which roles are needed, and how to enable others to use the code.
 
 ## Learning Objectives
 
