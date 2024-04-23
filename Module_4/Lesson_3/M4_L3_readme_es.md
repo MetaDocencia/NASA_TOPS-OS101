@@ -487,14 +487,14 @@ Whether using open source, closed source, or commercial software, it is importan
   <thead>
     <tr>
         <th>HERRAMIENTAS Y VULNERABILIDADES DE SEGURIDAD ☑</th>
-        <th>TEST COMPONENTS AND DEPENDENCIES</th>
+        <th>COMPONENTES DE PRUEBA Y DEPENDENCIAS</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="2">
-            <p>Commercial and open-source tools have been developed to address the challenge of identifying the security vulnerabilities in different source components. If you do not have any technology to secure your open source usage, you can consider using the Dependabot or <a href="https://owasp.org/">OWASP</a> dependency check tools.</p>
-            <p>The Open Web Application Security Project (OWASP), is an online community that produces free tools and technologies in the field of web application security. OWASP dependency check is a utility created for developers, which identifies project dependencies and checks if they contain any known, publicly disclosed, open-source vulnerabilities.</p>
+            <p>Se han desarrollado herramientas comerciales y de código abierto para abordar el desafío de identificar las vulnerabilidades de seguridad en distintos componentes de la fuente. Si no dispones de ninguna tecnología para asegurar el uso de código abierto, puedes considerar utilizar las herramientas de verificación de dependencias Dependabot o <a href="https://owasp.org/">OWASP</a>.</p>
+            <p>El Proyecto de Seguridad de Aplicaciones Web Abiertas (Open Web Application Security Project, OWASP) es una comunidad en línea que produce herramientas y tecnologías gratuitas en el campo de la seguridad de aplicaciones web. La verificación de dependencias de OWASP es una utilería creada por desarrolladores, que identifica las dependencias de un proyecto y verifica si contineen alguna vulnerabilidad conocida de código abierto que haya sido públicamente divulgada.</p>
         </td>
     </tr>
   </tbody>
@@ -503,15 +503,15 @@ Whether using open source, closed source, or commercial software, it is importan
 <table>
   <thead>
     <tr>
-        <th>SECURITY TOOLS AND SECURITY VULNERABILITIES</th>
-        <th>TEST COMPONENTS AND DEPENDENCIES ☑</th>
+        <th>HERRAMIENTAS Y VULNERABILIDADES DE SEGURIDAD</th>
+        <th>COMPONENTES DE PRUEBA Y DEPENDENCIAS ☑</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="2">
-            <p>Testing the security of the open-source components you are using is the best way to ensure the safety of your applications and your organization. Your commitment to timely and frequent analysis of open-source components should be the same as to your proprietary code.</p>
-            <p>This is especially true as the component in question may have unknown security vulnerabilities or dependencies that differ with each use case. It is possible for a component to be secure in a particular application but vulnerable in another.</p>
+            <p>Probar la seguridad de los componentes de código abierto que estás utilizando es la mejor manera de garantizar la seguridad de tus aplicaciones y de tu organización. Tu compromiso con el análisis oportuno y frecuente de los componentes de código abierto debería ser el mismo que con tu propio código.</p>
+            <p>Esto es especialmente cierto dado que el componente en cuestión puede tener vulnerabilidades de seguridad desconocidas o dependencias que difieren en cada caso de uso. Es posible que un componente sea seguro en una aplicación concreta, pero vulnerable en otra.</p>
         </td>
     </tr>
   </tbody>
