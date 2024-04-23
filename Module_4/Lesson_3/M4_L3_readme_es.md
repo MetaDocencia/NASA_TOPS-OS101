@@ -114,19 +114,19 @@ El control de versiones permite lo siguiente:
 - Las revisiones a los archivos de un proyecto pueden ser rastreadas, incluyendo las contribuciones realizadas por diferentes personas.
 - Los cambios no deseados (como errores o errores) pueden ser revertidos en cualquier momento.
 
-Version control is a good practice for coding, even if you are not immediately sharing the code. You can use version control with your code privately on your computer, or use the private mode on hosting services (e.g., GitHub and GitLab). By setting up version control early on, you prepare your code for intended and unforeseen future use.
+El control de versiones es una buena práctica para codear, incluso si no se comparte el código inmediatamente. El control de versiones puede ser usado en un código personal de forma privada en su computadora, o usar el modo privado en los servicios de alojamiento (por ejemplo, GitHub y GitLab). Al configurar el control de versiones pronto, se prepara el código para un uso futuro esperado e inolvidable.
 
-**Further Resources on version control**
+**Recursos adicionales en el control de versión**
 
-- [Software Carpentry Version Control with Git](https://swcarpentry.github.io/git-novice/)
-- [The Turing Way, Version Control](https://the-turing-way.netlify.app/reproducible-research/vcs.html)
-- [Use a publicly accessible repository with version control: guidance for FAIR software](https://fair-software.eu/recommendations/repository/)
+- [Control de versión de carpintería de software con Git](https://swcarpentry.github.io/git-novice/)
+- [The Turing Way, Version Control](https://the-turing-way.netlify.app/reproducible-research/vcs.html
+- [Usar un repositorio accesible públicamente con control de versiones: guía para software FAIR](https://f.Usoftware.eu/recommendations/repository/)
 
-## Describing Our Code to Others
+## Describiendo nuestro código a otros
 
-### README
+### LEEME
 
-The first stop for a user when they approach a new project should be the README file. Aptly named, this file contains orientation information that will help a user understand a project’s purpose, provides examples of how it can be used, and lists other important information that the creator deems pertinent.
+La primera parada para un usuario cuando se acerque a un nuevo proyecto debería ser el archivo LEEME. Aptly named, this file contains orientation information that will help a user understand a project’s purpose, provides examples of how it can be used, and lists other important information that the creator deems pertinent.
 
 At the minimum, a README should contain the name of the project and a very short paragraph of what the software is. Two to three sentences in a plain-language style that does not assume who is reading it. It’s the elevator pitch for the project.
 
