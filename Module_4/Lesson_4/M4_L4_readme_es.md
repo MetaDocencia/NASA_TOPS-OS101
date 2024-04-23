@@ -184,29 +184,29 @@ First, consider your institutional or funding agency policies that may dictate w
 
 #### To share my code, I can just add it to github, right?
 
-Not necessarily. Sharing on a repository is encouraged, but a researcher’s funding organization may require a DOI from an archival repository, such as Zenodo, for long-term preservation of your code at the time of publication or version releases.
+No necesariamente. Se alienta a compartir en un repositorio, pero la organización de financiamiento del investigador puede requerir un DOI de un repositorio de archivo, como Zenodo, para la preservación a largo plazo de su código en el momento de la publicación o lanzamiento de versiones.
 
 <img src="../images/media/image425.png" style="width:350px;height:auto;" />
 
-## How: How to Enable Reuse of Code
+## ¿Cómo habilitar la reutilización del código?
 
-Now that you have shared your code in the appropriate way, it’s important to consider if you’ve made it easy for others (or your future self) to reuse your code.
+Ahora que has compartido tu código de la forma adecuada, es importante considerar si has facilitado a otros (o a tu yo del futuro) la reutilización de tu código.
 
-### Assigning a License
+### Asignando una Licencia
 
-As you may recall from the previous lesson, assigning an appropriate license is necessary for others to know how to use your code.
+Como recordarás de la lección anterior, asignar una licencia adecuada es necesario para que otros sepan cómo utilizar tu código.
 
-As an example, here's how you'd assign a license to a GitHub repository:
+Por ejemplo, aquí te mostramos cómo asignar una licencia a un repositorio de GitHub:
 
-Choose the appropriate software sharing license that meets your organization requirements. To create a license template in GitHub, add a new file and type "LICENSE" in the name field, then the "Choose a license template" option will appear.
+Elige la licencia de uso compartido de software adecuada que cumpla con los requisitos de tu organización. Para crear una plantilla de licencia en GitHub, añade un nuevo archivo y escribe "LICENSE" en el campo de nombre, entonces aparecerá la opción "Elegir una plantilla de licencia".
 
 <img src="../images/media/image78.jpg" style="width:350px;height:auto;" />
 
-Make sure that your GitHub repository is public, making it searchable by anyone.
+Asegúrate de que tu repositorio de GitHub sea público, para que cualquiera pueda realizar búsquedas en él.
 
-### Making the Code Citable
+### Haciendo el código citable
 
-Not all code needs to be citable. When released on its own however, there are a few best practices for how to make your code citable.
+No todo el código tiene que ser citable. Cuando se publica de forma independiente, sin embargo, existen algunas prácticas recomendadas sobre cómo hacer que tu código sea citable.
 
 Adding code to a GitHub repository is not sufficient for archiving code. To archive, we must assign a persistent identifier.
 
