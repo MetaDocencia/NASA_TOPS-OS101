@@ -203,7 +203,7 @@ Si estuvieras en una sala con 10 personas que trabajan en desarrollo y les pregu
 
 **Edición de código fuente y núcleos – El valor de los IDEs y núcleos**
 
-Los IDE pueden aportar muchas herramientas útiles a tus trabajos. It’s not just about editing code any more. Los IDEs Modernos y robustos pueden hacer la mayoría de las cosas que se listan aquí, y aún más. Se puede usar un IDE sin ejecutar en un núcleo; se puede usar un núcleo sin haber desarrollado código en un IDE. Sin embargo, pueden trabajar de la mano.
+Los IDE pueden aportar muchas herramientas útiles a tus trabajos. Ya no se trata únicamente de editar código. Los IDEs Modernos y robustos pueden hacer la mayoría de las cosas que se listan aquí, y aún más. Se puede usar un IDE sin ejecutar en un núcleo; se puede usar un núcleo sin haber desarrollado código en un IDE. Sin embargo, pueden trabajar de la mano.
 
 <table>
   <thead>
@@ -235,7 +235,7 @@ Los IDE pueden aportar muchas herramientas útiles a tus trabajos. It’s not ju
 <table>
   <thead>
     <tr>
-        <th>Integrated Development Environment (IDE)</th>
+        <th>Entorno de Desarrollo Integrado (IDEs)</th>
         <th>Kernel ☑</th>
     </tr>
   </thead>
@@ -243,11 +243,11 @@ Los IDE pueden aportar muchas herramientas útiles a tus trabajos. It’s not ju
     <tr>
         <td colspan="2">
             <ul>
-              <li>Execution environment</li>
-              <li>Like a virtual machine</li>
-              <li>Isolates work area</li>
+              <li>Entorno de ejecución</li>
+              <li>Como una máquina virtual</li>
+              <li>Aísla el área de trabajo</li>
               <ul>
-                  <li>Tailor settings</li>
+                  <li>Ajustes a medida</li>
                   <li>Easily replicable</li>
               </ul>
             </ul>
@@ -258,7 +258,7 @@ Los IDE pueden aportar muchas herramientas útiles a tus trabajos. It’s not ju
 
 **Ejemplo de IDE: Visual Studio Code**
 
-The most popular IDE these days, Microsoft’s Visual Studio Code (or VS Code) is feature-rich without being clunky.
+Visual Studio Code (o VS Code), el IDE más popular en la actualidad, ofrece numerosas funciones sin resultar engorroso.
 
 <img src="../images/media/image34.png" style="width:100%;height:auto;" />
 
