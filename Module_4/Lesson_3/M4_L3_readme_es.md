@@ -143,15 +143,15 @@ Además, la siguiente información es útil para añadir al archivo LEEME especi
 - Ejemplos de cómo utilizar el software.
 - Reconocimiento de miembros del equipo o fuentes de apoyo.
 
-As seen in these examples, README files can be useful for a [collection of scripts supporting a publication](https://github.com/granttremblay/Tremblay2018_Code) or an [extensively developed software package](https://github.com/MillionConcepts/lhorizon).
+Como se vio en estos ejemplos, los archivos LEEME pueden ser útiles para una [colección de scripts de apoyo a una publicación](https://github.com/granttremblay/Tremblay2018_Code) o un [paquete de software ampliamente desarrollado](https://github.com/MillionConcepts/lhorizon).
 
-### Contributor Guidelines
+### Pautas para los colaboradores
 
-The _CONTRIBUTING.md_ file gives information about how to contribute to the project. It details how the contribution process works and what type of contributions are needed. While not every project has a _CONTRIBUTING.md_ file, the existence of one is a clear indicator that contributions are welcomed.
+El archivo _CONTRIBUTING.md_ proporciona información sobre cómo contribuir al proyecto. En él se explica cómo funciona el proceso de contribución y qué tipo de contribuciones son necesarias. Si bien no todos los proyectos tienen un archivo _CONTRIBUTING.md_, la existencia de uno es un claro indicador de que las contribuciones son bienvenidas.
 
-You'll need to decide for yourself when your project has progressed enough to consider inviting contributors. When it has, create a document called CONTRIBUTING at the top level of your report.
+Será necesario decidir personalmente cuando tu proyecto ha progresado lo suficiente como para invitar contribuidores. Cuando lo haya hecho, un documento llamado CONTRIBUTING deberá ser creado en el nivel superior del informe.
 
-The [Astropy contributing guidelines](https://github.com/astropy/astropy/blob/main/CONTRIBUTING.md) and [Numpy contributing guidelines](https://numpy.org/devdocs/dev/index.html) provide two examples.
+Las [pautas de contribución de Astropy](https://github.com/astropy/astropy/blob/main/CONTRIBUTING.md) y las [Pautas de contribución numérica](https://numpy.org/devdocs/dev/index.html) proporcionan dos ejemplos.
 
 **Bonus Tip: Even if you are developing your code publicly, this does not mean you have to accept contributions from others or maintain your code forever. The contributing guidelines or README are good places to indicate what your expectations are for your code. This can clarify that the code is not maintained or not accepting contributions.**
 
