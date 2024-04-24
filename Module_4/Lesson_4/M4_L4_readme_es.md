@@ -15,25 +15,25 @@
 
 ## Resumen
 
-En esta lección aprenderás los pasos para compartir el software que desarrollaste. These steps include determining if, when, and where software should be shared, which roles are needed, and how to enable others to use the code.
+En esta lección aprenderás los pasos para compartir el software que desarrollaste. Estos pasos incluyen determinar si el software debe compartirse, cuándo y dónde, qué funciones son necesarias y cómo permitir que otros utilicen el código.
 
-## Learning Objectives
+## Objetivos de Aprendizaje del Módulo
 
-After completing this lesson, you should be able to:
+Después de completar este módulo, deberías ser capaz de:
 
-- Describe what it means to share code: for archiving or for code development.
-- Evaluate whether you should share your code and list important security considerations.
-- Describe best practices for when and where to share code.
-- Recall commonly used practices to help others reuse your code.
-- List the roles and responsibilities for sharing and maintaining shared code.
+- Describir lo que significa compartir código: para archivar o para desarrollar código.
+- Evaluar si debe compartir su código y listar consideraciones de seguridad importantes.
+- Describir las mejores prácticas para cuándo y dónde compartir código.
+- Recordar las prácticas más habituales para ayudar a otros a reutilizar tu código.
+- Listar los roles y responsabilidades para compartir y mantener código compartido.
 
-## Planning to Share Your Code
+## Planificar para compartir tu código
 
 <img src="../images/media/image540.png" style="width:350px;height:auto;" />
 
-"I've been working on code, and now a new collaborator wants to use the code. Awesome! What is the best way to share the code? By email? When should I share the code, and what should I include to ensure the colleague can easily use it?"
+He estado trabajando en un código y ahora un nuevo colaborador quiere utilizarlo. ¡Genial! ¿Cuál es la mejor manera de compartir el código? ¿Por correo electrónico? ¿Cuándo debo compartir el código y qué debo incluir para asegurar que esta persona pueda utilizarlo fácilmente?"
 
-### What Does it Mean to "Share" Your Code?
+### ¿Qué significa "Compartir" tu código?
 
 There are two major categories of sharing: sharing for development and providing a long-term record.
 
