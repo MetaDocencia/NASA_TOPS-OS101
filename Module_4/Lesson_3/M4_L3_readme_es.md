@@ -217,7 +217,7 @@ Las licencias de software de código abierto son la base para cómo los científ
 
 Una licencia de software es un documento legal que establece los derechos del desarrollador y usuario de una pieza de software.
 
-An open source license is a type of software license, approved by the Open Source Initiative (OSI) as compliant with the Open Source Definition. Una licencia de código abierto otorga permisos a cualquier persona para inspeccionar, usar, modificar y distribuir el código fuente del software para cualquier propósito.
+Una licencia de código abierto es un tipo de licencia de software, aprobada por la Open Source Initiative (OSI), en español, Iniciativa de Código Abierto, conforme a la Definición de Código Abierto. Una licencia de código abierto otorga permisos a cualquier persona para inspeccionar, usar, modificar y distribuir el código fuente del software para cualquier propósito.
 
 Las licencias aseguran que los desarrolladores reciben crédito y control sobre cómo se utiliza su trabajo. Sin licencia, se asume que el software tiene derechos de autor y sin permisos. Los programadores incluyen licencias para permitir reutilizaciones.
 
@@ -225,38 +225,38 @@ Las licencias toman varias formas para describir:
 
 - Obligaciones contractuales (si existen) entre el desarrollador y el usuario.
 - Lo que el usuario puede hacer con el software.
-- To whom the user may distribute the software (if any such right exists).
-- Length of time the user has the right to use the software.
+- A quién el usuario puede distribuir el software (si existe tal derecho).
+- Período de tiempo que el usuario tiene derecho a utilizar el software.
 
-### Some Common Types of Software License
+### Algunos tipos comunes de licencia de software
 
-_Click '+' to travel more information._
+_Haz clic en '+' para ver más información._
 
 <img style="width:100%;height:auto;" src="../images/media/commonsoftwarelicenses.png">
 
-**Public Domain**
+**Dominio Público**
 
-Anyone free to use.
+Cualquier persona puede usarlo libremente.
 
 **Lesser General Domain**
 
-Can link to open source libraries, and code can be licensed under any license type.
+Puede vincularse a bibliotecas de código abierto, y el código puede ser licenciado bajo cualquier tipo de licencia.
 
-**Permissive**
+**Permisivo**
 
-Gives users wide but not complete latitude to reuse/relicense.
+Ofrece a los usuarios una libertad amplia, pero no completa, para reutilizar o volver a otorgar licencias.
 
-**Non-permissive**
+**No permisiva**
 
-Allows users to reuse, but also gives users the responsibility to share their changes with the community.
+Permite a los usuarios reutilizar, pero también otorga a los usuarios la responsabilidad de compartir sus cambios con la comunidad.
 
-**Copyleft**
+Copyleft
 
-Can be distributed or modified if all the code involved is licensed under the same license.
+Puede ser distribuido o modificado si todo el código involucrado está bajo la misma licencia.
 
-**Proprietary**
+**Propietario**
 
-Cannot be copied, modified, or distributed.
+No se puede copiar, modificar ni distribuir.
 
 ---
 
