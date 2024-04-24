@@ -275,9 +275,9 @@ Si espera que la comunidad contribuya a su software, es una buena práctica incl
 
 No entraremos en detalles aquí, pero puedes consultar el [repositorio github del paquete Xarray](https://github.com/pydata/xarray/tree/main) para ver un buen ejemplo.
 
-## ¿Cuáles son los roles y las responsabilidades de quienes participan del equipo en la implementación del SMP?
+## ¿Cuáles son los roles y las responsabilidades de quienes participan del equipo en la implementación del PGS?
 
-Cuando se escribe un SMP, es importante incluir un plan para los roles y responsabilidades necesarios para compartir y (si corresponde) mantener tu código. Tu comunidad estará formada por personas con diferentes roles: algunos participarán activamente, otras sólo tendrán un interés pasajero. A veces, varios roles pueden ser hechos fácilmente por una persona (por ejemplo, si sólo estás archivando una pieza de código).
+Cuando se escribe un Plan de Gestión de Software (PGS) (en inglés, _Software Management Plan, SMP_), es importante incluir un plan para los roles y responsabilidades necesarios para compartir y (si corresponde) mantener tu código. Tu comunidad estará formada por personas con diferentes roles: algunos participarán activamente, otras sólo tendrán un interés pasajero. A veces, varios roles pueden ser hechos fácilmente por una persona (por ejemplo, si sólo estás archivando una pieza de código).
 
 Algunos roles podrían incluir:
 
@@ -387,7 +387,7 @@ _Pregunta_
 
 **06/06**
 
-¿Cuáles de los siguientes son roles que deberías planificar al escribir un SMP? Selecciona todos los que correspondan.
+¿Cuáles de los siguientes son roles que deberías planificar al escribir un PGS? Selecciona todos los que correspondan.
 
 - Quién ayudará a mantener el software
 - Quién creará el repositorio y añadirá los archivos necesarios
