@@ -7,8 +7,8 @@
 - [Historias de éxito](#historias-de-éxito)
 - [Definición y consideraciones sobre los datos abiertos](./Lesson_1#definición-y-consideraciones-sobre-los-datos-abiertos)
 - [Principios, beneficios, y desafíos](./Lección_1#principios-beneficios-y-desafíos)
-- [When Not to Share](#when-not-to-share)
-- [Planes de gestión de software (PGS)](./Lesson_1#software-management-plans-smp)
+- [Cuándo no compartir](#cuando-no-compartir)
+- [Planes de gestión de software (PGS)](./Lección_1#planes-de-gestión-de-software-pgs)
 - [Lección 1: Resumen](#leccion-1-resumen)
 - [Lección 1: Revisión De Conocimientos](#lesson-1-revisión-de-conocimientos)
 
