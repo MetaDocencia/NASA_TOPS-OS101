@@ -40,30 +40,30 @@ En esta lección, te presentamos algunas de las herramientas más generales de l
 
 ## Identificadores Persistentes
 
-A digital persistent identifier (or "PID") is a “long-lasting reference to a digital resource” that is machine-readable and uniquely points to a digital entity, according to [ORCID](https://support.orcid.org/hc/en-us/articles/360006971013-What-are-persistent-identifiers-PIDs-) examples of persistent identifiers used in science are described below.
+Un identificador persistente digital (o _PID_ por sus siglas en inglés) es una "referencia duradera a un recurso digital" que es legible por máquinas y apunta de manera única a una entidad digital, según [ORCID](https://support.orcid.org/hc/en-us/articles/360006971013-What-are-persistent-identifiers-PIDs-). A continuación, se describen ejemplos de identificadores persistentes utilizados en el medio científico.
 
 ### ORCID
 
 <img style="width:350px;height:auto;" src="../images/media/m2orcidlogo.jpg">
 
-An "Open Researcher and Contributor Identifier" (ORCID) provides valid information about a person. Following are some key details about ORCIDs.
+El identificador único conocido como ORCID (Open Researcher and Contributor Identifier) pretende proporcionar información válida sobre la identidad de una persona. A continuación, se enlistan algunos detalles clave sobre los ORCID.
 
-A free, nonproprietary numeric code that is:
+Un código numérico gratuito no propietario que:
 
-- Uniquely and persistently identifies authors and contributors of scholarly communication.
-- Similar to tax ID numbers for tax purposes.
+- Identifica de manera única y persistente a autores y colaboradores que participan en la producción de comunicaciones académicas.
+- Similar a los números de identificación fiscal para propósitos tributarios (dependiendo del país de residencia).
 
-ORCIDs are used to link Used to link researchers to their research and research-related outputs. It is a 16-digit number that uniquely identifies researchers and is integrated with certain organizations (like some publishers) that will add research products (such as a published paper) to an individual's ORCID profile. ORCIDs are meant to last throughout ones career, and helps to avoid confusion when information about a researcher changes over time (e.g. career change or name change). (cite: [https://orcid.org/](https://orcid.org/))
+Los ORCID se utilizan para vincular a los investigadores con sus investigaciones y productos relacionados con la investigación. Es un identificador único de 16 dígitos que describe a los investigadores individualmente. Este identificador se enlaza con diferentes organizaciones, incluyendo editoriales, para vincular productos de investigación, como artículos publicados, al perfil ORCID del investigador. Los ORCID están diseñados para preservarse a lo largo de la carrera profesional de una persona, y ayudan a evitar confusiones cuando la información sobre un investigador se actualiza con el tiempo (por ejemplo, cambio de carrera o de nombre). (cite: [https://orcid.org/](https://orcid.org/))
 
-Many publishers, academic institutes, and government bodies support ORCID. In 2023, ORCID reported over 1,300 member organizations and over 9 million yearly live accounts. You can connect it with your professional information (affiliations, grants, publications, peer review, and more).
+Gran cantidad de editoriales, institutos académicos y organismos gubernamentales respaldan la utilización de ORCID. En 2023, ORCID reportó más de 1,300 organizaciones miembros y más de 9 millones de cuentas activas anuales. Puedes vincularlo con tu información profesional (afiliaciones, subvenciones, publicaciones, revisión por pares y más).
 
-### Digital Object Identifiers (DOI)
+### Digital Object Identifier (DOI)
 
-A DOI is a persistent identifier used to cite data, software, journal articles, and other types of media (including presentation slides, blog posts, videos, logos, etc.).
+Un 'Identificador de Objeto Digital' o DOI es un identificador persistente utilizado para citar datos, software, artículos de revistas y otros tipos de medios (incluidos diapositivas de presentaciones, entradas de blogs, videos, logotipos, etc.).
 
-Unlike dynamic transient URLs, DOIs are static pointers to documents on the internet. Since a DOI is static, each new version of data or software that you want to cite will need a new DOI. Some DOI providers allow for one DOI to point to "all versions" and a series of individual DOIs for each specific version. Individuals cannot typically request a DOI themselves, but rather have to go through an authorized organization that can submit the request.
+A diferencia de las URLs, que suelen ser inconstantes o inestables, los DOI son referencias permanentes a documentos en internet. Dado a que un DOI es estático, cada nueva versión de datos o software que desees citar necesitará un nuevo DOI. Algunos proveedores de DOI permiten que un solo DOI refiera a "todas las versiones" del mismo objeto y a una serie de DOI individuales para cada versión específica. Normalmente, los individuos no pueden solicitar un DOI por sí mismos, sino que deben hacerlo a través de una organización intermediaria autorizada que pueda hacerlo por ellos.
 
-Making a DOI for your product ensures its longevity! This means, if you cite a DOI in a research paper, you can be confident that future readers will be able to follow that citation to its source, even if websites have completely changed in the meantime.
+¡Crear un DOI para tu producto de investigación puede asegurar su perdurabilidad! Esto significa que si citas un DOI en un artículo de investigación, puedes estar seguro de que los futuros lectores podrán seguir esa cita hasta su fuente, incluso si los sitios web han cambiado completamente entretanto.
 
 For example, the DOI: [10.5067/TERRA-AQUA/CERES/EBAF-TOA_L3B004.1](https://doi.org/10.5067/TERRA-AQUA/CERES/EBAF-TOA_L3B004.1) will always resolve to a web page that explains what the CERES_EBAF-TOA_Edition4.1 data set is and how to download it. (See the screenshot below if you’re curious what this dataset actually is!)
 
