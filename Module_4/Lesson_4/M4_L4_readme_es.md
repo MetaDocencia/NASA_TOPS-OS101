@@ -184,13 +184,13 @@ First, consider your institutional or funding agency policies that may dictate w
 
 #### To share my code, I can just add it to github, right?
 
-No necesariamente. Se alienta a compartir en un repositorio, pero la organización de financiamiento del investigador puede requerir un DOI de un repositorio de archivo, como Zenodo, para la preservación a largo plazo de su código en el momento de la publicación o lanzamiento de versiones.
+No necesariamente. Se alienta a compartir en un repositorio, pero la organización de financiamiento de la persona que investiga puede requerir un DOI de un repositorio de archivo, como Zenodo, para la preservación a largo plazo de su código en el momento de la publicación o lanzamiento de versiones.
 
 <img src="../images/media/image425.png" style="width:350px;height:auto;" />
 
 ## ¿Cómo habilitar la reutilización del código?
 
-Ahora que has compartido tu código de la forma adecuada, es importante considerar si has facilitado a otras personas (o a tu yo del futuro) la reutilización de tu código.
+Ahora que has compartido tu código de la forma adecuada, es importante considerar si has facilitado a otros participantes (o a tu yo del futuro) la reutilización de tu código.
 
 ### Asignando una Licencia
 
@@ -198,7 +198,7 @@ Como recordarás de la lección anterior, asignar una licencia adecuada es neces
 
 Por ejemplo, aquí te mostramos cómo asignar una licencia a un repositorio de GitHub:
 
-Elige la licencia de uso compartido de software adecuada que cumpla con los requisitos de tu organización. Para crear una plantilla de licencia en GitHub, añade un nuevo archivo y escribe "LICENSE" en el campo de nombre, entonces aparecerá la opción "Elegir una plantilla de licencia".
+Elige la licencia de uso compartido de software adecuada que cumpla con los requisitos de tu organización. Para crear una plantilla de licencia en GitHub, añade un nuevo archivo y escribe "LICENCIA" (en inglés, _LICENCE_) en el campo de nombre, entonces aparecerá la opción "Elegir una plantilla de licencia".
 
 <img src="../images/media/image78.jpg" style="width:350px;height:auto;" />
 
@@ -214,7 +214,7 @@ Producir un identificador persistente para tu código es la mejor manera de hace
 
 ### Actividad 4.2: Crear un DOI para un Archivo de Código de Prueba
 
-Puedes crear Identificadores de Objetos Digitales (en inglés, _Digital Object Identifier, DOIs_) para tu código que lo hacen citable. Para hacer esto, archiva un repositorio de código GitHub en Zenodo y emite un DOI para el registro.
+Puedes crear Identificadores de Objetos Digitales (en inglés, _Digital Object Identifiers, DOIs_) para tu código que lo hacen citable. Para hacer esto, archiva un repositorio de código GitHub en Zenodo y emite un DOI para el registro.
 
 Pasos para esta actividad:
 
@@ -257,7 +257,7 @@ Pasos para esta actividad:
 
 <img src="../images/media/zenododoi10.jpg" style="width:100%;height:auto" />
 
-Zenodo archiva tu repositorio y emite un nuevo DOI cada vez que crees un nuevo GitHub [versión](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases). Sigue los pasos en "[Administrar versiones en un repositorio](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository)" para crear una nueva.
+Zenodo archiva tu repositorio y emite un nuevo DOI cada vez que creas un nuevo GitHub [versión](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases). Sigue los pasos en "[Administrar versiones en un repositorio](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository)" para crear una nueva.
 
 ### Haciendo Fácil Citar tu Código
 
@@ -267,17 +267,17 @@ La información sobre cómo citar el software puede ser añadida a su LÉEME (en
 
 Los archivos CITACIÓN son un medio para hacer que la información de citas sea fácilmente accesible en repositorios de software de código abierto. Un [formato de archivo de citas (en inglés, _Citation File Format, CFF_)](https://citation-file-format.github.io/) es un formato estándar legible por humanos y máquinas que se ha desarrollado para los archivos CITACIÓN.
 
-### Pautas para los Colaboradores
+### Pautas para Colaborar
 
 <img src="../images/media/image419.png" style="width:100%;height:auto;" />
 
-Si espera que la comunidad contribuya a su software, es una buena práctica incluir archivos COLABORAR (en inglés, _CONTRIBUTING_) y CÓDIGO DE CONDUCTA (en inglés, _CODE_OF_CONDUCT_) en su repositorio que describan las expectativas para las interacciones de los miembros.
+Si espera que la comunidad contribuya a su software, es una buena práctica incluir archivos COLABORAR (en inglés, _CONTRIBUTING_) y CÓDIGO DE CONDUCTA (en inglés, _CODE_OF_CONDUCT_) en su repositorio que describan las expectativas para las interacciones de los participantes.
 
 No entraremos en detalles aquí, pero puedes consultar el [repositorio github del paquete Xarray](https://github.com/pydata/xarray/tree/main) para ver un buen ejemplo.
 
-## ¿Cuáles son los roles y las responsabilidades de los miembros del equipo en la implementación del SMP?
+## ¿Cuáles son los roles y las responsabilidades de quienes participan del equipo en la implementación del SMP?
 
-Cuando se escribe un SMP, es importante incluir un plan para los roles y responsabilidades necesarios para compartir y (si corresponde) mantener tu código. Tu comunidad estará formada por miembros con diferentes roles: algunos participarán activamente, otras personas sólo tendrán un interés pasajero. A veces, varios roles pueden ser hechos fácilmente por una persona (por ejemplo, si sólo estás archivando una pieza de código).
+Cuando se escribe un SMP, es importante incluir un plan para los roles y responsabilidades necesarios para compartir y (si corresponde) mantener tu código. Tu comunidad estará formada por personas con diferentes roles: algunos participarán activamente, otras sólo tendrán un interés pasajero. A veces, varios roles pueden ser hechos fácilmente por una persona (por ejemplo, si sólo estás archivando una pieza de código).
 
 Algunos roles podrían incluir:
 
@@ -311,18 +311,18 @@ Si el software está pensado para que otras personas lo usen, entonces quien des
 - Es cortés por parte de quien desarrolla informar a las personas que hagan uso si tienen la intención de mantener el software/código o no.
 - Haz esto en la documentación donde se discuta el estado de desarrollo del proyecto.
 - Esto ayudará a quienes lo utilicen a saber si seguirán recibiendo apoyo en el futuro, y les permitirá tomar decisiones sobre la posibilidad de basar el trabajo en curso en tu proyecto.
-- In the case that a developer/researcher may not have the time or continued funding to keep up with a project but others are interested in keeping it maintained, consider handing ownership of the software to another researcher/developer, involved user or entity invested in its continued use.
-- Users of software that is no longer maintained may consider contacting the owner/developer and volunteering either as a maintainer or to take over ownership of the project.
-- If you decide to maintain your software, you should respond to requests for features and fixes as you are able.
+- En caso de que quien desarrolle/investigue no disponga del tiempo o la financiación necesaria para seguir adelante con su proyecto, pero otras personas estén interesadas en mantenerlo, considera la posibilidad de ceder la propiedad del software a quienes investiguen/desarrollen/participen, o entidad interesada en su uso continuado.
+- Quienes utilicen software que ya no está siendo mantenido pueden considerar contactar a la persona dueña/desarrolladora y ofrecerse voluntariamente para mantenerlo, o para asumir la propiedad del proyecto.
+- Si decides mantener tu software, deberías responder a las solicitudes de características y correcciones en la medida de tus posibilidades.
 
-## Lesson 4: Summary
+## Lección 4: Resumen
 
-In this lesson, you learned the key steps in sharing open software:
+En esta lección, aprendiste los pasos clave para compartir software abierto:
 
-- Should you share? When sharing software, the policies of your institution and funding agency must be followed. These may limit the openness of the software. Software sharing policies also vary by organization.
-- When to share? Follow guidance from your organization, funding agency, or publisher.
-- Where to share? It depends on whether you are archiving or sharing for community input. Use domain-specific repositories where appropriate.
-- How to enable reuse? Habilita la reutilización mediante la asignación de un DOI e incluye una licencia, información de citas y directrices para colaboradores.
+- ¿Deberías compartir? Al compartir software, se deben seguir las políticas de tu institución y agencia de financiamiento. Éstas pueden limitar la apertura del software. Las políticas de intercambio de software también varían según la organización.
+- ¿Cuándo compartir? Sigue las indicaciones de tu organización, agencia de financiamiento o editorial.
+- ¿Dónde compartir? Depende de si se trata de archivar o de compartir para que la comunidad opine. Utiliza repositorios específicos de dominio cuando sea apropiado.
+- ¿Cómo permitir la reutilización? Habilita la reutilización mediante la asignación de un DOI e incluye una licencia, información de citas y directrices para colaboradores.
 - ¿Quién ayuda a compartir? Planifica los roles y responsabilidades cuando se comparta y (si es aplicable) para mantener el software.
 
 ## Lección 4: Evaluación
@@ -387,9 +387,9 @@ _Pregunta_
 
 **06/06**
 
-Which of the following are roles that you should plan for when writing a SMP? Select all that apply.
+¿Cuáles de los siguientes son roles que deberías planificar al escribir un SMP? Selecciona todos los que correspondan.
 
-- Who will help maintain the software
-- Who will create the repository and add the necessary files
-- Who will contribute to the software after it is shared
-- Who will add documentation to the software
+- Quién ayudará a mantener el software
+- Quién creará el repositorio y añadirá los archivos necesarios
+- Quién contribuirá al software después de que se comparta
+- Quién agregará documentación al software
