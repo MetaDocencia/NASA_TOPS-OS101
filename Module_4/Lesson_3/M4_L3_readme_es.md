@@ -153,13 +153,13 @@ Será necesario decidir personalmente cuando tu proyecto ha progresado lo sufici
 
 Las [pautas de contribución de Astropy](https://github.com/astropy/astropy/blob/main/CONTRIBUTING.md) y las [Pautas de contribución numérica](https://numpy.org/devdocs/dev/index.html) proporcionan dos ejemplos.
 
-**Bonus Tip: Even if you are developing your code publicly, this does not mean you have to accept contributions from others or maintain your code forever. The contributing guidelines or README are good places to indicate what your expectations are for your code. This can clarify that the code is not maintained or not accepting contributions.**
+**Consejo extra: Aunque desarrolles tu código públicamente, esto no significa que tengas que aceptar contribuciones de otros o mantener tu código para siempre. Las pautas de contribución o el archivo LEEME son buenos lugares para indicar cuáles son las expectativas para el código. Esto puede aclarar que el código no está siendo mantenido o que no acepta contribuciones.**
 
-### Code of Conduct
+### Codigo de conducta
 
-The code of conduct sets ground rules for participants’ behavior and helps to facilitate a friendly, welcoming environment. While not every project has a CODE_OF_CONDUCT file, its presence signals that this is a welcoming project to contribute to.
+El código de conducta establece normas básicas para el comportamiento de los participantes y ayuda a facilitar un ambiente agradable y acogedor. Si bien no todos los proyectos tienen un archivo CODIGO_DE_CONDUCTA, su presencia indica que este es un proyecto acogedor al que contribuir.
 
-### Code Documentation
+### Documentación de código
 
 **Code Level Documentation for the Developer**
 
@@ -217,14 +217,14 @@ Las licencias de software de código abierto son la base para cómo los científ
 
 Una licencia de software es un documento legal que establece los derechos del desarrollador y usuario de una pieza de software.
 
-An open source license is a type of software license, approved by the Open Source Initiative (OSI) as compliant with the Open Source Definition. An open source license grants permissions for anyone to inspect, use, modify, and distribute the software’s source code for any purpose.
+An open source license is a type of software license, approved by the Open Source Initiative (OSI) as compliant with the Open Source Definition. Una licencia de código abierto otorga permisos a cualquier persona para inspeccionar, usar, modificar y distribuir el código fuente del software para cualquier propósito.
 
-Licenses ensure that developers receive credit and control over how their work is used. Without a license, software is assumed copyrighted and without permissions. Programmers include licenses to allow reuse.
+Las licencias aseguran que los desarrolladores reciben crédito y control sobre cómo se utiliza su trabajo. Sin licencia, se asume que el software tiene derechos de autor y sin permisos. Los programadores incluyen licencias para permitir reutilizaciones.
 
-Licenses take various forms in order to outline:
+Las licencias toman varias formas para describir:
 
-- Contractual obligations (if any exist) between the developer and user.
-- What the user may do with the software.
+- Obligaciones contractuales (si existen) entre el desarrollador y el usuario.
+- Lo que el usuario puede hacer con el software.
 - To whom the user may distribute the software (if any such right exists).
 - Length of time the user has the right to use the software.
 
