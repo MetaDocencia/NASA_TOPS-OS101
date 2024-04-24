@@ -201,29 +201,29 @@ No es raro que los grupos de investigación pasen años desarrollando código, e
 | ¿Qué pasa si alguien reutiliza mi código para publicar un resultado en el que estaba trabajando? | Sí, esto puede ocurrir. Sin embargo, en muchos campos, si está claro que alguien está trabajando activamente en un problema, la decisión de otro de adelantarse puede significar una ganancia a corto plazo pero una pérdida a largo plazo. En la comunidad científica, las reputaciones funcionan como una moneda cultural y generalmente colaborar con otros conduce a mayores éxitos profesionales. Si está compartiendo su código, asegúrese de que tiene un identificador de objeto digital (DOI) para obtener crédito. Esto no impide que nadie utilice ni amplíe su análisis, pero sí garantiza que obtendrá crédito por su contribución. Hay un buen artículo sobre esto aquí. |
 | Error de interpretación o uso indebido                                                           | Proporcione suficiente información contextual (documentación) para permitir que otros entiendan plenamente su código para reducir este riesgo.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | Mi código será usado, pero no citado                                                             | Aunque no es común que la comunidad de investigadores citen código, datos u otros artículos no publicados, la ética científica dicta que se debe citar si se utiliza su trabajo. Recuerda citar adecuadamente el material de otras personas para que no agraves el problema.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| Code is too sensitive to share                                                                   | User controlled access to help maintain sensitivity and security.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| It won't be useful to anyone else                                                                | You never know how materials might be used. Individuals who contributed a wide variety of seemingly unrelated software projects ended up helping NASA land a rover on Mars!                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| El código es demasiado sensible para compartirlo                                                 | Acceso controlado por quien usa el código para ayudar a mantener la sensibilidad y la seguridad.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| No será útil para nadie más                                                                      | Nunca sabes cómo se podrían usar los materiales. ¡Hay personas que aportaron una amplia variedad de proyectos de software, sin relación aparente entre ellos, y terminaron ayudando a la NASA a aterrizar un vehículo en Marte!                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 
-#### Ultimately, you are free to deploy the open software principles and resources in your research to maximize its impact and meet the expectations of your sponsors and community while managing costs.
+#### En última instancia, eres libre de implementar los principios y recursos del software abierto en tu investigación para maximizar su impacto y cumplir con las expectativas de tu espónsor y de tu comunidad mientras gestionas los costos.
 
-### Activity 1.1: Relating Principles to Benefits and Challenges
+### Actividad 1.1: Relacionando los principios con los beneficios y desafíos
 
-Determine whether a statement is a benefit or challenge by dragging each to the correct box.
+Determine si cada afirmación es un beneficio o un desafío arrastrándola a la caja correcta.
 
 <table>
   <thead>
     <tr>
-      <th colspan="2">Benefits</th>
+      <th colspan="2">Beneficios</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Makes it easier to use and build on software developed in previous work.</td>
-      <td>Users are free to use and modify Open Software minimizing duplicated effort.</td>
+      <td>Hace más fácil el uso y la construcción de software desarrollado en trabajos anteriores.</td>
+      <td>Las personas que usan Software Abierto son libres de usarlo y modificarlo, minimizando la duplicación de esfuerzos.</td>
     </tr>
     <tr>
-      <td>Can increase usage of the software, which can help improve software quality.</td>
-      <td>Open Software developers can gain visibility & sustainability of their software.</td>
+      <td>Puede aumentar el uso del software, lo que puede ayudar a mejorar su calidad.</td>
+      <td>Las personas que desarrollan Software Abierto pueden ganar visibilidad y sostenibilidad para su software.</td>
     </tr>
   </tbody>
 </table>
@@ -231,26 +231,26 @@ Determine whether a statement is a benefit or challenge by dragging each to the 
 <table>
   <thead>
     <tr>
-      <th colspan="2">Challenges</th>
+      <th colspan="2">Desafíos</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Requires extra time for activities like documenting, publishing, & maintenance.</td>
-      <td>Effort is required to learn how to leverage the new tools and knowledge.</td>
+      <td>Requiere tiempo extra para actividades como documentación, publicación y mantenimiento.</td>
+      <td>Se necesita esfuerzo para aprender a aprovechar las nuevas herramientas y conocimientos.</td>
     </tr>
   </tbody>
 </table>
 
-**Key Takeaways: Relating Principles to Benefits and Challenges**
+**Conclusiones principales: Relacionando los principios con los beneficios y desafíos**
 
-- Making software more open by following the principles has benefits and challenges, which are related.
-- Greater benefits typically come with greater challenges.
-- In most cases, individual scientists and society will both benefit from more open software.
+- Hacer al software más abierto siguiendo los principios tiene beneficios y desafíos, que están relacionados.
+- Mayores beneficios suelen venir con mayores desafíos.
+- En la mayoría de los casos, las personas que se dedican a la ciencia y la sociedad entera se beneficiarán de un software más abierto.
 
-## When Not to Share
+## Cuándo no compartir
 
-There are valid reasons that restrict a researcher’s ability to share their complete code or software packages. Some of these reasons may include:
+Existen razones válidas que restringen la capacidad de una persona dedicada a la investigación para compartir su código completo o sus paquetes de software. Algunas de estas razones pueden incluir:
 
 - The code incorporates a country’s military secrets or its dissemination violates national interests or security concerns.
 - The code incorporates intellectual property or patented data and information.
