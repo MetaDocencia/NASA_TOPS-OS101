@@ -65,58 +65,56 @@ A diferencia de las URLs, que suelen ser inconstantes o inestables, los DOI son 
 
 ¡Crear un DOI para tu producto de investigación puede asegurar su perdurabilidad! Esto significa que si citas un DOI en un artículo de investigación, puedes estar seguro de que los futuros lectores podrán seguir esa cita hasta su fuente, incluso si los sitios web han cambiado completamente entretanto.
 
-For example, the DOI: [10.5067/TERRA-AQUA/CERES/EBAF-TOA_L3B004.1](https://doi.org/10.5067/TERRA-AQUA/CERES/EBAF-TOA_L3B004.1) will always resolve to a web page that explains what the CERES_EBAF-TOA_Edition4.1 data set is and how to download it. (See the screenshot below if you’re curious what this dataset actually is!)
+Por ejemplo, el DOI: [10.5067/TERRA-AQUA/CERES/EBAF-TOA_L3B004.1](https://doi.org/10.5067/TERRA-AQUA/CERES/EBAF-TOA_L3B004.1) siempre resolverá en una página web que explica qué es el conjunto de datos CERES_EBAF-TOA_Edition4.1 y cómo descargarlo. (¡Mira la captura de pantalla abajo si tienes curiosidad por saber qué es realmente este conjunto de datos!)
 
-DOIs are provided and maintained by the International Organization for Standardization ([I SO](https://www.iso.org/home.html)): [https://www.doi.org/](https://www.doi.org/).
+Los DOI son proporcionados y mantenidos por la Organización Internacional de Normalización ([ISO por sus siglas en inglés](https://www.iso.org/home.html)): [https://www.doi.org/](https://www.doi.org/).
 
 <img src="../images/media/image18.png" style="width:350px;height:auto;" />
 
-### Citations Using DOIs
+### Citación utilizando los DOI
 
  <img src="../images/media/image19.jpeg" style="width:100%;height:auto;" />
 
-DOIs make citing research products easier and more useful.
+Los DOI facilitan y hacen más práctica la citación de productos de investigación.
 
-Data repositories will typically instruct you on the exact way to cite their data, which includes the correct DOI. For example, let’s take a look at the CERES_EBAF-TOA_Edition4.1 data set mentioned above. This is an [example from the Atmospheric Science Data Center’s (ASDC) website](https://asdc.larc.nasa.gov/project/CERES/CERES_EBAF-TOA_Edition4.1/citation).
+Los repositorios de datos normalmente te ilustrarán sobre la manera exacta de cómo citar sus datos, lo cual incluye el DOI correcto. Por ejemplo, vamos a examinar el conjunto de datos CERES_EBAF-TOA_Edition4.1 mencionado anteriormente. Este es un [ejemplo del sitio web del Centro de Datos de Ciencias Atmosféricas (ASDC, por sus siglas en inglés)] (https://asdc.larc.nasa.gov/project/CERES/CERES_EBAF-TOA_Edition4.1/citation).
 
-### Activity 2.1: Find and Resolve a DOI
+### Actividad 2.1: Encontrar y resolver un DOI
 
-In this activity, you will search for a DOI for a data set or piece of software that you use, and you will then use the DOI website to “resolve” the DOI name. By "resolving", this means that you will be taken to the information about the product designated by that particular DOI.
+En esta actividad debes buscar el DOI para un conjunto de datos o un software que utilices y luego utilizarás el sitio web de DOI para “resolver” el nombre del DOI. Por "resolver" se entiende que serás dirigido a la información sobre el producto identificado por ese DOI específico.
 
-1. Find the DOI for a dataset or software you use often.
-   1. This should be listed either in the citation file, or in the website where that data/software is published.
-   2. If you can’t find a DOI, you can instead locate the DOI listed on this page: https://asdc.larc.nasa.gov/project/CERES/CERES_EBAF-TOA_Edition4.1
-2. Go to https://www.doi.org/ and scroll down to the bottom of the page to "TRY
-   RESOLVING A DOI NAME".
-3. Copy and paste the DOI you found into the form called "TRY RESOLVING A DOI
-   NAME".
-4. Click Submit.
-5. The page should automatically redirect you to a page that explains and contains the cited data.
+1. Encuentra el DOI para un conjunto de datos o software que uses frecuentemente.
+   1. Esto debería de localizarse ya sea en el archivo de citación o en el sitio web donde se publica ese conjunto de datos o software.
+   2. Si no puedes encontrar un DOI, en su lugar puedes localizar el DOI listado en esta página: https://asdc.larc.nasa.gov/project/CERES/CERES_EBAF-TOA_Edition4.1
+2. Ve a https://www.doi.org/ y desplázate hasta el fondo de la página hasta "TRY RESOLVING A DOI NAME" (INTENTE RESOLVER UN NOMBRE DOI).
+3. Copia y pega el DOI que encontraste en el campo debajo de "TRY RESOLVING A DOI NAME".
+4. Haz clic en Enviar.
+5. La acción debería redirigirte automáticamente a una página que explica y contiene el objeto citado.
 
-**Activity Takeaways: Find and Resolve a DOI**
+**Actividad para llevar: Encontrar y resolver un DOI**
 
-Esta actividad variará según el DOI que elija utilizar. However, if you used the example presented, you should find the DOI: 10.5067/TERRA-AQUA/CERES/EBAF-TOA_L3B004.1
+Esta actividad variará según el DOI que elija utilizar. Sin embargo, si has utilizado el ejemplo presentado, debería encontrar el DOI: 10.5067/TERRA-AQUA/CERES/EBAF-TOA_L3B004.1
 
-And after step 5, you should end up back on the page https://asdc.larc.nasa.gov/project/CERES/CERES_EBAF-TOA_Edition4.1
+Y después del paso 5, deberías volver a la página https://asdc.larc.nasa.gov/project/CERES/CERES_EBAF-TOA_Edition4.1
 
-This is how easy it should be for your readers to find and use your citation information.
+Esto es lo fácil que debería ser para tus lectores encontrar y utilizar la información de citación que les proporciones.
 
-### Examples of PIDs in Action
+### Ejemplos de Identificadores Persistentes (PID) en acción
 
 <img src="../images/media/image22.jpeg" style="width:100%;height:auto;" />
 
 <table>
   <thead>
     <tr>
-        <th>Example 1 ☑</th>
-        <th>Example 2</th>
-        <th>Example 3</th>
+        <th>Ejemplo 1 ☑</th>
+        <th>Ejemplo 2</th>
+        <th>Ejemplo 3</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>The necessity for a persistent identifier (PID) begins when a researcher writes code. To make the code searchable, the researcher uploads their code to a repository and registers a DOI for their script. Now others can review and use the code, and cite it properly.</p>
+            <p>La necesidad de un identificador persistente (PID) comienza cuando un investigador escribe un código de programación. Para hacer posible la búsqueda del código, el investigador sube su código a un repositorio y registra un DOI para su script. Ahora otros pueden valorar, usar el código y citarlo correctamente.</p>
         </td>
     </tr>
   </tbody>
@@ -125,15 +123,15 @@ This is how easy it should be for your readers to find and use your citation inf
 <table>
   <thead>
     <tr>
-        <th>Example 1</th>
-        <th>Example 2 ☑</th>
-        <th>Example 3</th>
+        <th>Ejemplo 1</th>
+        <th>Ejemplo 2 ☑</th>
+        <th>Ejemplo 3</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>A workshop planning committee collaboratively authors a paper that summarizes the results of a workshop. They collect the ORCIDs of everyone who participated in the workshop, and include them in the paper. Finally, they publish in an academic journal that automatically assigns the paper a DOI.</p>
+            <p>Un comité de planificación de un taller redacta de manera colaborativa un documento que resume los resultados de un taller. Recopilan los ORCID de todos los que participaron en el taller y los asientan en el documento. Finalmente, publican en una revista académica que automáticamente le asigna un DOI al artículo.</p>
         </td>
     </tr>
   </tbody>
@@ -142,25 +140,25 @@ This is how easy it should be for your readers to find and use your citation inf
 <table>
   <thead>
     <tr>
-        <th>Example 1</th>
-        <th>Example 2</th>
-        <th>Example 3 ☑</th>
+        <th>Ejemplo 1</th>
+        <th>Ejemplo 2</th>
+        <th>Ejemplo 3 ☑</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>A community scientist attends an online conference and gives a short talk. They deposit their slides in an online repository, then create a DOI to enable easy sharing with colleagues and straightforward citation.</p>
+            <p>Un científico se presenta en una conferencia en línea y da una breve charla. Este deposita sus diapositivas en un repositorio en línea, luego crea un DOI para facilitar su difusión con algunos colegas y propiciar su correcta citación.</p>
         </td>
     </tr>
   </tbody>
 </table>
 
-## Useful Open Science Tools
+## Herramientas útiles para la ciencia abierta
 
-### Metadata
+### Metadatos
 
-Metadata are data that describe your data, either accompanying your data as a separate file or embedded in your data file. A menudo se utilizan para proporcionar un conjunto estándar de información general sobre un conjunto de datos (por ejemplo, cobertura temporal/espacial de datos o información del proveedor de datos) para permitir un fácil uso e interpretación de los datos.
+Los metadatos son datos que describen tus datos, ya sea acompañando a tus datos como un archivo separado o incrustados en tus mismos archivos de datos. A menudo se utilizan para proporcionar un conjunto estándar de información general sobre un conjunto de datos (por ejemplo, cobertura temporal/espacial de datos o información del proveedor de datos) para permitir un fácil uso e interpretación de los datos.
 
 Los metadatos son esenciales para la implementación de los principios FAIR porque permiten que los datos se puedan buscar en un archivo, proporcionan contexto para uso futuro y presentan un vocabulario estándar.
 
