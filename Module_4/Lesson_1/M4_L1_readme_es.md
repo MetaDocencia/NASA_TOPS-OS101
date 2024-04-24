@@ -252,12 +252,12 @@ Determine si cada afirmación es un beneficio o un desafío arrastrándola a la 
 
 Existen razones válidas que restringen la capacidad de una persona dedicada a la investigación para compartir su código completo o sus paquetes de software. Algunas de estas razones pueden incluir:
 
-- The code incorporates a country’s military secrets or its dissemination violates national interests or security concerns.
-- The code incorporates intellectual property or patented data and information.
-- Institutional policies or organizational regulations do not permit the sharing of code.
-- Think about what you are sharing and the implications of sharing it (for example - do you have permission from everyone involved?).
+- El código incorpora secretos militares de un país, o su diseminación viola intereses nacionales o trae problemas de seguridad.
+- El código posee propiedad intelectual o datos e información patentados.
+- Las políticas institucionales o las regulaciones de la organización no permiten compartir el código.
+- Piensa en lo que estás compartiendo y las implicaciones de compartirlo (por ejemplo, ¿tienes permiso de todas las personas involucradas?).
 
-### Licensing Code
+### Estableciendo una licencia para el código
 
 The [collaborative data science handbook by The Turing Way](https://the-turing-way.netlify.app/reproducible-research/licensing) says of restrictions to open source sharing, "As with anything else in society, some of what you can and cannot do in software (or hardware) development is determined by the law. Licensing is therefore an important aspect of sharing/publishing open source projects as it provides clarity for anyone looking to reuse an open source project. Without licenses in place, anyone who wants to reuse it will be left with legal ambiguity as to the status of using your intellectual property."
 
