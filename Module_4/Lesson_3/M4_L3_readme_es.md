@@ -260,7 +260,7 @@ No se puede copiar, modificar ni distribuir.
 
 ---
 
-Before you choose a license, first check with your organization or employer. They may have specific guidelines about what software license you are allowed to use. Your research grant may also stipulate permissible license types. The software management plan should specify what license you plan to use.
+Antes de elegir una licencia, consulte primero con su organización o empleador. Pueden tener pautas específicas acerca de qué licencia de software se le permite usar. Tu subsidio de investigación también puede estipular los tipos de licencia permitidos. The software management plan should specify what license you plan to use.
 
 If a license is not shared with a code, a creative work is assumed to be copyrighted by [default in the United States](https://www.copyright.gov/help/faq/faq-general.html). It does not need to be registered, and it is assumed to be automatically protected by copyright the moment it is created.
 
