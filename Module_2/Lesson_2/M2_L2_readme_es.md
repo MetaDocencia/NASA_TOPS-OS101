@@ -30,15 +30,15 @@ En este contexto, las herramientas de ciencia abierta son cualquier herramienta 
 
 Las herramientas de ciencia abierta se pueden utilizar para:
 
-- **Discovery** - Tools for finding content to use in your research.
-- **Analysis** - Tools to process your research output, e.g. tools for data analysis and visualization.
-- **Writing** - Tools to produce content, such as Data Management Plans, presentations, and preprints.
-- **Publications** - Tools to use for sharing and/or archiving research.
-- **Outreach** - Tools to promote your research.
+- **Descubrimiento** - Herramientas de descubrmiento de información para utilizar en tu investigación.
+- **Análisis** - Herramientas para procesar los resultados de tu investigación, por ejemplo, herramientas para el análisis de datos y su visualización.
+- **Redacción** - Herramientas para producir contenidos, como planes de gestión de datos, presentaciones y preimpresos (_prepints_).
+- **Publicaciones** - Herramientas para compartir y/o conservar investigaciones.
+- **Divulgación** - Herramientas para promocionar tu investigación.
 
-In this lesson, we introduce you to some of the most general open science tools such as persistent identifiers, metadata, documentation, and open science and data management plans. Regardless of the field of study, these tools and practices are some of the things that you will encounter as you use, make, or share your research. Read more about open science tools on [OpenSciency](https://opensciency.github.io/sprint-content/open-tools-resources/lesson1-intro-open-science-tools.html).
+En esta lección, te presentamos algunas de las herramientas más generales de la ciencia abierta como los identificadores persistentes, metadatos, documentación y planes de gestión de datos abiertos. Sin importar el campo de estudio, estas herramientas y prácticas son algunas de las cosas que encontrarás al utilizar, crear o compartir tu investigación. Lee más sobre las herramientas de ciencia abierta en [OpenSciency](https://opensciency.github.io/sprint-content/open-tools-resources/lesson1-intro-open-science-tools.html).
 
-## Persistent Identifiers
+## Identificadores Persistentes
 
 A digital persistent identifier (or "PID") is a “long-lasting reference to a digital resource” that is machine-readable and uniquely points to a digital entity, according to [ORCID](https://support.orcid.org/hc/en-us/articles/360006971013-What-are-persistent-identifiers-PIDs-) examples of persistent identifiers used in science are described below.
 
