@@ -130,18 +130,18 @@ La primera parada para un usuario cuando se acerque a un nuevo proyecto debería
 
 Como mínimo, un archivo LEEME debería contener el nombre del proyecto y un párrafo muy corto de lo que es el software. Dos o tres frases en un estilo sencillo que no presuponga quién lo lee. Es el discurso de ascenso para el proyecto.
 
-|                                   |                                                                                                                                                                                                                                                                                                                                     |
-| --------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **MAlo** Ejemplo de archivo LEEME | "This code recomputes the fundamental permutation factor of the downward flow (for J < 10, obviously)."                                                                                                                                                                                          |
-| **Good** README example           | "LeapKitten. This Python software package takes any picture of a kitten (JPEG, PNG) and uses artificial intelligence to output what it would look like leaping into the air. In addition, the code takes leap years into account on the timestamp on the image." |
+|                                    |                                                                                                                                                                                                                                                                                                                |
+| ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **MAlo** Ejemplo de archivo LEEME  | Este código recalcula el factor de permutación fundamental del flujo descendente (para J < 10, obviamente)."                                                                                                                                                                |
+| **Bueno** Ejemplo de archivo LEEME | "LeapKitten. Este paquete de Python toma cualquier foto de un gatito (JPEG, PNG) y utiliza inteligencia artificial para mostrar cómo se vería saltando en el aire. Además, el código tiene en cuenta los años bisiestos en la marca de tiempo de la imagen" |
 
-In addition, the following information is helpful to add to the README especially if they are not listed elsewhere:
+Además, la siguiente información es útil para añadir al archivo LEEME especialmente si no están listados en otro lugar:
 
-- A list of any code dependencies the software has, e.g. "Numpy, kitten-rng, and human- readable must be installed to run this software."
-- How to install and a brief description of how to run the software.
-- Detailed description of the software, especially if there is no external documentation.
-- Examples of how to use the software.
-- Acknowledgement of team members or sources of support.
+- Una lista de las dependencias de código que tiene el software, por ejemplo, "Numpy, kitten-rng y human- readable deben estar instalados para ejecutar este software"
+- Cómo instalar y una breve descripción de cómo ejecutar el software.
+- Descripción detallada del software, especialmente si no hay documentación externa.
+- Ejemplos de cómo utilizar el software.
+- Reconocimiento de miembros del equipo o fuentes de apoyo.
 
 As seen in these examples, README files can be useful for a [collection of scripts supporting a publication](https://github.com/granttremblay/Tremblay2018_Code) or an [extensively developed software package](https://github.com/MillionConcepts/lhorizon).
 
