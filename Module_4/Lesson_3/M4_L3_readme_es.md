@@ -260,28 +260,28 @@ No se puede copiar, modificar ni distribuir.
 
 ---
 
-Antes de elegir una licencia, consulte primero con su organización o empleador. Pueden tener pautas específicas acerca de qué licencia de software se le permite usar. Tu subsidio de investigación también puede estipular los tipos de licencia permitidos. The software management plan should specify what license you plan to use.
+Antes de elegir una licencia, consulte primero con su organización o empleador. Pueden tener pautas específicas acerca de qué licencia de software se le permite usar. Tu subsidio de investigación también puede estipular los tipos de licencia permitidos. El plan de gestión de software debe especificar qué licencia planea usar.
 
-If a license is not shared with a code, a creative work is assumed to be copyrighted by [default in the United States](https://www.copyright.gov/help/faq/faq-general.html). It does not need to be registered, and it is assumed to be automatically protected by copyright the moment it is created.
+Si una licencia no es compartida con un código, se asume por defecto que está protegido por derechos de autor en los Estados Unidos (https://www.copyright.gov/help/faq/faq-general.html). No necesita estar registrado, y se asume que está protegido automáticamente por los derechos de autor en el momento en que se crea.
 
-For software, the license is shared in a file called LICENSE at the top of the repository. It’s a standard location people will know to look at. It’s not bad practice to put a one line version of the license at the top of each file of code as well, with a pointer to where one could find the full license.
+Para el software, la licencia se comparte en un archivo llamado LICENCIA en la parte superior del repositorio. Es una ubicación estándar que la gente sabrá mirar. No es mala práctica poner también una línea con la versión de la licencia en la parte superior de cada archivo de código, con un puntero hacia donde se podría encontrar la licencia completa.
 
-### Types of Open-Source Software Licenses
+### Tipos de licencias de software de código abierto
 
-There are two main types of open-source licenses. Permissive and protective (sometimes referred to as copy-left). The difference in these types of licenses is primarily related to the type of license users of the code are allowed to apply to their derivative works.
+Hay dos tipos principales de licencias de código abierto. Permisiva y protectora (a veces denominada copy-left). La diferencia en este tipo de licencias se relaciona principalmente con el tipo de licencia que el conjunto de usuarios del código pueden aplicar a sus trabajos derivados.
 
 <table>
   <thead>
     <tr>
-        <th>PERMISSIVE LICENSE ☑</th>
-        <th>PROTECTIVE LICENSE</th>
+        <th>LICENCIA PERMISIVA ☑</th>
+        <th>LICENCIA PROTECTORA</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="2">
-            <p>The Open Source Initiative defines a permissive software license as a license that guarantees the freedoms to use, modify, redistribute, and create derivative works. An example of this type of license is the Apache 2.0 license by the Apache Software Foundation. It is the most popular and widely used permissive license.</p>
-            <p>Users have wide latitude for reuse under this license. They are generally free to incorporate the code into their project or use it how they wish. A user of permissive-license open source in a product could redeploy the open source software with a wide range of licenses, including proprietary closed source software.</p>
+            <p>La Iniciativa de Código Abierto define una licencia de software permisiva como una licencia que garantiza la libertad de usar, modificar, redistribuir y crear obras derivadas. Un ejemplo de este tipo de licencia es la licencia Apache 2.0 de la Apache Software Foundation (en español, Fundación de Software Apache). Es la licencia permisiva más popular y ampliamente utilizada.</p>
+            <p>Los usuarios tienen una amplia libertad de reutilización bajo esta licencia. They are generally free to incorporate the code into their project or use it how they wish. A user of permissive-license open source in a product could redeploy the open source software with a wide range of licenses, including proprietary closed source software.</p>
         </td>
     </tr>
   </tbody>
