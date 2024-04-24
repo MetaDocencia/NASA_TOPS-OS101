@@ -35,17 +35,17 @@ He estado trabajando en un código y ahora un nuevo colaborador quiere utilizarl
 
 ### ¿Qué significa "Compartir" tu código?
 
-There are two major categories of sharing: sharing for development and providing a long-term record.
+Hay dos categorías principales de compartir: compartir el desarrollo y el suministro de un registro a largo plazo.
 
-### Open Source Code Development
+### Desarrollo de código abierto
 
-Writing scientific code is often a dynamic and collaborative process in which multiple people contribute and the code evolves over time. In such projects, it is beneficial to develop open code within a public repository hosting platform such as Github, Bitbucket, GitLab etc. from the beginning of a project. This ensures that all updates are shared openly on the web and can reach potentially interested collaborators and users in near real time.
+Escribir código científico suele ser un proceso dinámico y colaborativo en el que contribuyen varias personas y el código evoluciona con el tiempo. En este tipo de proyectos, es beneficioso desarrollar código abierto en una plataforma de alojamiento de repositorios públicos como Github, Bitbucket, GitLab, etc. desde el principio del proyecto. Esto garantiza que todas las actualizaciones se compartan abiertamente en la web y puedan llegar a colaboradores y usuarios potencialmente interesados casi en tiempo real.
 
-### Archiving Open Code
+### Compartir Código Abierto
 
-Archiving ensures your scientific code is accessible for the long-term, and may satisfy archiving requirements from funding agencies and organizations. Long-term accessibility helps others to reproduce your results long after publication. Archiving alone does not promote continued development or collaboration. Archiving is a static and long-term preservation of your software, not an evolution of it.
+El archivado garantiza que su código científico sea accesible a largo plazo y puede satisfacer los requisitos de archivado de organismos y organizaciones de financiación. La accesibilidad a largo plazo ayuda a otras personas a reproducir sus resultados mucho después de la publicación. Archivar por sí solo no promueve el desarrollo continuo ni la colaboración. El archivado es una conservación estática y a largo plazo de su software, no una evolución del mismo.
 
-### Should You Share Your Software?
+### ¿Debe compartir su software?
 
 There are several legal and security concerns to keep in mind when creating or using open software.
 
@@ -190,11 +190,11 @@ No necesariamente. Se alienta a compartir en un repositorio, pero la organizaci�
 
 ## ¿Cómo habilitar la reutilización del código?
 
-Ahora que has compartido tu código de la forma adecuada, es importante considerar si has facilitado a otros (o a tu yo del futuro) la reutilización de tu código.
+Ahora que has compartido tu código de la forma adecuada, es importante considerar si has facilitado a otras personas (o a tu yo del futuro) la reutilización de tu código.
 
 ### Asignando una Licencia
 
-Como recordarás de la lección anterior, asignar una licencia adecuada es necesario para que otros sepan cómo utilizar tu código.
+Como recordarás de la lección anterior, asignar una licencia adecuada es necesario para que otras personas sepan cómo utilizar tu código.
 
 Por ejemplo, aquí te mostramos cómo asignar una licencia a un repositorio de GitHub:
 
@@ -257,60 +257,60 @@ Pasos para esta actividad:
 
 <img src="../images/media/zenododoi10.jpg" style="width:100%;height:auto" />
 
-Zenodo archives your repository and issues a new DOI each time you create a new GitHub [release](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases). Follow the steps at "[Managing releases in a repository](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository)" to create a new one.
+Zenodo archiva tu repositorio y emite un nuevo DOI cada vez que crees un nuevo GitHub [versión](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases). Sigue los pasos en "[Administrar versiones en un repositorio](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository)" para crear una nueva.
 
-### Making it Easy to Cite Your Code
+### Haciendo Fácil Citar tu Código
 
-Information about how to cite the software can then be added to your README or other documentation in your repository. Another useful step for making your repository citation information accessible is to add a CITATION file to the repository.
+La información sobre cómo citar el software puede ser añadida a su LÉEME (en inglés, _README_) u otra documentación en tu repositorio. Otro paso útil para hacer accesible la información de citas de tu repositorio es añadir un archivo CITACIÓN (en inglés _CITATION_) al repositorio.
 
-### Why use CITATION files?
+### ¿Por qué usar archivos CITACIÓN?
 
-CITATION files are a means to make citation information easily accessible in open source software repositories. A [citation file format (CFF)](https://citation-file-format.github.io/) is a human and machine-readable standard format that has been developed for CITATION files.
+Los archivos CITACIÓN son un medio para hacer que la información de citas sea fácilmente accesible en repositorios de software de código abierto. Un [formato de archivo de citas (en inglés, _Citation File Format, CFF_)](https://citation-file-format.github.io/) es un formato estándar legible por humanos y máquinas que se ha desarrollado para los archivos CITACIÓN.
 
-### Adding Contributor Guidelines
+### Pautas para los Colaboradores
 
 <img src="../images/media/image419.png" style="width:100%;height:auto;" />
 
-If you are hoping for community input on your software, it is a best practice to include CONTRIBUTING and CODE_OF_CONDUCT files in your repository that outline expectations for member interactions.
+Si espera que la comunidad contribuya a su software, es una buena práctica incluir archivos COLABORAR (en inglés, _CONTRIBUTING_) y CÓDIGO DE CONDUCTA (en inglés, _CODE_OF_CONDUCT_) en su repositorio que describan las expectativas para las interacciones de los miembros.
 
-We won't go into these in detail here, but you can check out the [Xarray package's github repository](https://github.com/pydata/xarray/tree/main) for a good example.
+No entraremos en detalles aquí, pero puedes consultar el [repositorio github del paquete Xarray](https://github.com/pydata/xarray/tree/main) para ver un buen ejemplo.
 
-## Who: Roles and Responsibilities of the Team Members in Implementing the SMP
+## ¿Cuáles son los roles y las responsabilidades de los miembros del equipo en la implementación del SMP?
 
-When writing a SMP, it's important to include a plan for the roles and responsibilities needed to share and (if applicable) maintain your code. Your community will consist of members in different roles – some actively engaged, some with only a passing interest. Sometimes, multiple roles can easily be done by one person (e.g. if you are just archiving a piece of code).
+Cuando se escribe un SMP, es importante incluir un plan para los roles y responsabilidades necesarios para compartir y (si corresponde) mantener tu código. Tu comunidad estará formada por miembros con diferentes roles: algunos participarán activamente, otras personas sólo tendrán un interés pasajero. A veces, varios roles pueden ser hechos fácilmente por una persona (por ejemplo, si sólo estás archivando una pieza de código).
 
-Some roles might include:
+Algunos roles podrían incluir:
 
-**Who will add the code to a public repository?**
+**¿Quién añadirá el código a un repositorio público?**
 
-- Uploading the code
-- Assigning a license
+- Subiendo el código
+- Asignando una licencia
 
-**Who will take care of code documentation**
+**¿Quién se encargará de la documentación del código?**
 
-- Writing a README
-- Adding explanatory comments to the code
+- Escribiendo un LÉEME
+- Añadiendo comentarios explicativos al código
 
-**Who will help with code reuse?**
+**¿Quién ayudará con la reutilización del código?**
 
-Adding CITATION, CONTRIBUTING, and CODE_OF_CONDUCT files
+Añadiendo archivos CITACIÓN, COLABORAR, y CÓDIGO DE CONDUCTA
 
-**Who will maintain the software (if applicable)?**
+**¿Quién mantendrá el software (si corresponde)?**
 
-- Who will respond to community input (e.g. via GitHub issues)?
-- Who will be responsible for making decisions about which code to add/update from other contributors? (e.g. via GitHub pull requests)
+- ¿Quién responderá a la retroalimentación de la comunidad (por ejemplo, a través de problemas en GitHub)?
+- ¿Quién será responsable de decidir qué código añadir/actualizar de otras personas colaboradoras? (por ejemplo, mediante solicitudes de extracción de GitHub)
 
 ---
 
-All of these roles may or may not be needed, depending on the size of your project. Have a transparent process for assigning any roles to community members.
+Todos estos roles pueden o no ser necesarios, dependiendo del tamaño de tu proyecto. Es necesario tener un proceso transparente para asignar cualquier rol a los miembros de la comunidad.
 
-### Responsibilities after Sharing
+### Responsibilidades después de Compartir
 
-If the software is meant for others to use, then the developer should maintain the software.
+Si el software está pensado para que otras personas lo usen, entonces quien desarrolla debería mantener el software.
 
-- It is polite for the developer to let users know whether or not they intend to maintain the software/code.
-- Do this in the documentation where you discuss the development status of the project.
-- This will help users know if it will continue to be supported in the future and allow them to make choices about basing ongoing work off your project.
+- Es cortés por parte de quien desarrolla informar a las personas que hagan uso si tienen la intención de mantener el software/código o no.
+- Haz esto en la documentación donde se discuta el estado de desarrollo del proyecto.
+- Esto ayudará a quienes lo utilicen a saber si seguirán recibiendo apoyo en el futuro, y les permitirá tomar decisiones sobre la posibilidad de basar el trabajo en curso en tu proyecto.
 - In the case that a developer/researcher may not have the time or continued funding to keep up with a project but others are interested in keeping it maintained, consider handing ownership of the software to another researcher/developer, involved user or entity invested in its continued use.
 - Users of software that is no longer maintained may consider contacting the owner/developer and volunteering either as a maintainer or to take over ownership of the project.
 - If you decide to maintain your software, you should respond to requests for features and fixes as you are able.
@@ -329,7 +329,7 @@ In this lesson, you learned the key steps in sharing open software:
 
 Responde las siguientes preguntas para poner a prueba lo que ha aprendido hasta ahora.
 
-Pregunta
+_Pregunta_
 
 **01/06**
 
@@ -362,28 +362,28 @@ _Las políticas de uso compartido de software de organizaciones y gobiernos sigu
 - Verdadero
 - Falso
 
-Pregunta
+_Pregunta_
 
 **04/06**
 
 Lee la siguiente afirmación e indica si es Verdadera o Falsa:
 
-_Publicar tu software en un repositorio de software utilizado por los gestores de paquetes habituales facilita a los usuarios la instalación de su software._
+_Publicar tu software en un repositorio de software utilizado por los gestores de paquetes habituales facilita a las personas usuarias la instalación de su software._
 
 - Verdadero
 - Falso
 
-Pregunta
+_Pregunta_
 
 **05/06**
 
-¿Cuáles de las siguientes, si las hay, son formas en las que puedes ayudar a otros a reutilizar tu código? Selecciona todos los que correspondan.
+¿Cuáles de las siguientes, si las hay, son formas en las que puedes ayudar a otras personas a reutilizar tu código? Selecciona todos los que correspondan.
 
 - Asignar una licencia adecuada
 - Añadir un archivo llamado "CONTRIBUTING" con pautas de colaboradores
 - Añadir un archivo "CITATION" con información de citas
 
-Pregunta
+_Pregunta_
 
 **06/06**
 
