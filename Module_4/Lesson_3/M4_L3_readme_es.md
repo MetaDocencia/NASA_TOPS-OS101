@@ -1,4 +1,4 @@
-# Lesson 3: Making Open Code
+# Lección 3: Haciendo código abierto
 
 ## Navigation
 
