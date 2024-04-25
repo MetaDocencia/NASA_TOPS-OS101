@@ -189,7 +189,7 @@ Si estás desarrollando código que esperas que otros usen, escribe un manual so
 
 Si escribe su documentación dentro del propio código. hay piezas de software que pueden extraerla, formatearla y presentarla como un manual pulido. Ejemplos de documentación generada a partir del código se pueden ver para [Astropy](https://docs.astropy.org/en/latest/) o [NumPy](https://numpy.org/doc/stable/).
 
-Se ven maravillosos, pero también muy similares. Estos sitios fueron generados por completo a partir de comentarios y documentos escritos en el código fuente. Diferente de los comentarios escritos para los desarrolladores del código anterior estos comentarios fueron escritos específicamente para el público de usuarios externos del código: el manual.
+Se ven maravillosos, pero también muy similares. Estos sitios fueron generados por completo a partir de comentarios y documentos escritos en el código fuente. Diferente de los comentarios escritos para las personas que desarrollan el código anterior estos comentarios fueron escritos específicamente para el público de usuarios externos del código: el manual.
 
 Aunque hay varios paquetes de software para la generación automática de documentación, los más utilizados son [Sphinx](https://www.sphinx-doc. rg/es/master/) para Python y [D](https://www.doxygen.nl/index.html)[oxygen](https://www.doxygen.nl/index.html) para casi todo lo demás. [M](https://www.markdownguide.org/)[arkdown](https://www.markdownguide.org/) también es una opción popular para el lenguaje de formato para la documentación.
 
@@ -215,18 +215,18 @@ Hay una variedad de estructuras de código de ejemplo que se pueden utilizar par
 
 Las licencias de software de código abierto son la base para cómo los científicos usan, elaboran y comparten código y software. Entender algunos de los matices de estas licencias es importante porque afectará a cómo tu proyecto puede licenciar y compartir código.
 
-Una licencia de software es un documento legal que establece los derechos del desarrollador y usuario de una pieza de software.
+Una licencia de software es un documento legal que establece los derechos de las personas que desarrollan y usan una pieza de software.
 
 Una licencia de código abierto es un tipo de licencia de software, aprobada por la Open Source Initiative (OSI), en español, Iniciativa de Código Abierto, conforme a la Definición de Código Abierto. Una licencia de código abierto otorga permisos a cualquier persona para inspeccionar, usar, modificar y distribuir el código fuente del software para cualquier propósito.
 
-Las licencias aseguran que los desarrolladores reciben crédito y control sobre cómo se utiliza su trabajo. Sin licencia, se asume que el software tiene derechos de autor y sin permisos. Los programadores incluyen licencias para permitir reutilizaciones.
+Las licencias aseguran que las personas que desarrollan el software reciben crédito y control sobre cómo se utiliza su trabajo. Sin licencia, se asume que el software tiene derechos de autor y sin permisos. Las personas que programan incluyen licencias para permitir reutilizaciones.
 
 Las licencias toman varias formas para describir:
 
-- Obligaciones contractuales (si existen) entre el desarrollador y el usuario.
-- Lo que el usuario puede hacer con el software.
-- A quién el usuario puede distribuir el software (si existe tal derecho).
-- Período de tiempo que el usuario tiene derecho a utilizar el software.
+- Obligaciones contractuales (si existen) entre las personas que desarrollan y las que los usan.
+- Lo que las personas que usan el software pueden hacer con él.
+- A quiénes las personas que usan el software pueden distribuirlo (si existe tal derecho).
+- Período de tiempo que las personas que usan el software tienen derecho a utilizarlo.
 
 ### Algunos tipos comunes de licencia de software
 
@@ -238,17 +238,17 @@ _Haz clic en '+' para ver más información._
 
 Cualquier persona puede usarlo libremente.
 
-**Lesser General Domain**
+**"Licencia Pública General Reducida**
 
 Puede vincularse a bibliotecas de código abierto, y el código puede ser licenciado bajo cualquier tipo de licencia.
 
 **Permisivo**
 
-Ofrece a los usuarios una libertad amplia, pero no completa, para reutilizar o volver a otorgar licencias.
+Ofrece a las personas que usan el software una libertad amplia, pero no completa, para reutilizar o volver a otorgar licencias.
 
 **No permisiva**
 
-Permite a los usuarios reutilizar, pero también otorga a los usuarios la responsabilidad de compartir sus cambios con la comunidad.
+Permite al conjunto de usuarios reutilizar, pero también otorga la responsabilidad a las personas que lo utilizan de compartir sus cambios con la comunidad.
 
 Copyleft
 
@@ -281,7 +281,7 @@ Hay dos tipos principales de licencias de código abierto. Permisiva y protector
     <tr>
         <td colspan="2">
             <p>La Iniciativa de Código Abierto define una licencia de software permisiva como una licencia que garantiza la libertad de usar, modificar, redistribuir y crear obras derivadas. Un ejemplo de este tipo de licencia es la licencia Apache 2.0 de la Apache Software Foundation (en español, Fundación de Software Apache). Es la licencia permisiva más popular y ampliamente utilizada.</p>
-            <p>Los usuarios tienen una amplia libertad de reutilización bajo esta licencia. They are generally free to incorporate the code into their project or use it how they wish. A user of permissive-license open source in a product could redeploy the open source software with a wide range of licenses, including proprietary closed source software.</p>
+            <p>El conjunto de usuarios tienen una amplia libertad de reutilización bajo esta licencia. Generalmente son libres de incorporar el código en su proyecto o de usarlo como deseen. Las personas que utilizan un código abierto con licencia permisiva en un producto podrían volver a implementar el software de código abierto con una amplia gama de licencias, incluyendo el software patentado de código cerrado.</p>
         </td>
     </tr>
   </tbody>
@@ -290,14 +290,14 @@ Hay dos tipos principales de licencias de código abierto. Permisiva y protector
 <table>
   <thead>
     <tr>
-        <th>PERMISSIVE LICENSE</th>
-        <th>PROTECTIVE LICENSE ☑</th>
+        <th>LICENCIA PERMISIVA</th>
+        <th>LICENCIA PROTECTORA ☑</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="2">
-            <p>Protective (copyleft) licenses are a legal technique of granting certain freedoms over copies of copyrighted works with the requirement that the same rights be preserved in derivative works. This allows users to reuse, but also requires users to share their changes with the community using the same license. An example of a protective license is the General Public License (GPL) that ensures users have the freedom and responsibility to share their changes with the community. It is the most widely used protective license. These types of licenses can result in less re-use by users who may prefer or be required to only use permissive licenses.</p>
+            <p>Las licencias protectoras (copyleft) son una técnica legal para conceder ciertas libertades sobre copias de obras protegidas por derechos de autor con el requisito de que se preserven los mismos derechos en las obras derivadas. This allows users to reuse, but also requires users to share their changes with the community using the same license. An example of a protective license is the General Public License (GPL) that ensures users have the freedom and responsibility to share their changes with the community. It is the most widely used protective license. These types of licenses can result in less re-use by users who may prefer or be required to only use permissive licenses.</p>
         </td>
     </tr>
   </tbody>
