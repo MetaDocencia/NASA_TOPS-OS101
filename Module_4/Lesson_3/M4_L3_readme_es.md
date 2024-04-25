@@ -347,73 +347,73 @@ Algunas de las licencias más populares utilizadas en software abierto son:
   </tbody>
 </table>
 
-For more information on different types of licenses please refer to the [Open Source Initiative OSI](https://opensource.org/licenses/category).
+Para obtener más información sobre los diferentes tipos de licencias, consulte la [Iniciativa de Código Abierto OSI](https://opensource.org/licenses/category).
 
-### Activity 3.1: Licenses
+### Actividad 3.1: Licencias
 
-In this activity, you are asked to answer whether the following statements are true or false.
+En esta actividad, se le pedirá que responda si las siguientes afirmaciones son verdaderas o falsas.
 
-**Statement 1:**
+**Afirmación 1:**
 
-A software license states the rights of the developer and user for a piece of software.
+Una licencia de software establece los derechos del desarrollador y del usuario sobre un software.
 
-- True
-- False
+- Verdadero
+- Falso
 
-**Statement 2:**
+**Afirmación 2:**
 
-Without a license, software is assumed copyrighted and without permissions.
+Sin licencia, se supone que el software tiene derechos de autor y no tiene permisos.
 
-- True
-- False
+- Verdadero
+- Falso
 
-**Statement 3:**
+**Afirmación 3:**
 
-Anyone is free to use software with a "permissive" license without restriction.
+Cualquiera es libre de utilizar software con una licencia "permisiva" sin restricciones.
 
-- True
-- False
+- Verdadero
+- Falso
 
-**Statement 4:**
+**Afirmación 4:**
 
-Users are not allowed to copy and modify any software with a copyleft license.
+Los usuarios no pueden copiar ni modificar ningún software con licencia copyleft.
 
-- True
-- False
+- Verdadero
+- Falso
 
-## Programming Best Practices
+## Las Mejores Prácticas de Programación
 
-In this section, some best practices in development are provided including on code review, testing, security, and accessibility. These best practices will improve the quality of code, reproducibility of results, and security of a project. Combined, these actions help improve the robustness of open access code and help to meet the unique challenges that can arise with multiple contributors and revisions that occur over an extended period of time.
+En esta sección, se proporcionan algunas prácticas recomendadas en desarrollo, incluidas la revisión de código, pruebas, seguridad y accesibilidad. Estas prácticas mejorarán la calidad del código, la reproducibilidad de los resultados y la seguridad de un proyecto. Combinadas, estas acciones ayudan a mejorar la solidez del código de acceso abierto y ayudan a enfrentar los desafíos únicos que pueden surgir con múltiples contribuyentes y revisiones que ocurren durante un período prolongado de tiempo.
 
-### Code Review
+### Revisión de Código
 
-Code benefits from peer review in the same way as science. Having someone else read over your code and test it is one of the best ways to improve the quality of the code.
+El código se beneficia de la revisión por pares de la misma manera que la ciencia. Hacer que otra persona lea su código y lo pruebe es una de las mejores formas de mejorar la calidad del código.
 
-Many version control platforms have built in tools that enable developers to review, comment, and iterate on each other’s code. These can be done in the open and allow anyone to comment.
+Muchas plataformas de control de versiones tienen herramientas integradas que permiten a los desarrolladores revisar, comentar e iterar el código de otros. Estos se pueden hacer de forma abierta y permitir que cualquiera pueda comentar.
 
-Here is a great example of the discussion that can happen when the original creator of an algorithm [comments on a python implementation made by a first time contributor to the Astropy project](https://github.com/astropy/astropy/pull/4301). The open and constructive discussion led to a better implementation of the algorithm along with possible future improvements.
+Aquí hay un gran ejemplo de la discusión que puede ocurrir cuando el creador original de un algoritmo [comenta sobre una implementación de Python realizada por un colaborador primerizo del proyecto Astropy.](https://github.com/astropy/astropy/pull/4301). La discusión abierta y constructiva condujo a una mejor implementación del algoritmo junto con posibles mejoras futuras.
 
-Software packages can be reviewed as their own products as well. Many scientific publications now accept papers focused on software. There are entities like [PyOpenSci](https://www.pyopensci.org/) and the [Journal of Open Source Software](https://joss.theoj.org/) that provide open peer review of scientific packages. See more details about JOSS in the next lesson on sharing your code.
+Los paquetes de software también se pueden revisar como productos propios. Muchas publicaciones científicas ahora aceptan artículos centrados en software. Hay entidades como [PyOpenSci](https://www.pyopensci.org/) y el [Journal of Open Source Software](https://joss.theoj.org/) que ofrecen revisión abierta por pares de paquetes científicos. Vea más detalles sobre JOSS en la próxima lección sobre cómo compartir su código.
 
-### Testing
+### Pruebas
 
-A proven method to evaluate the reproducibility of your software is through testing. There are many types of testing that range from testing the smallest testable parts of a code to verifying if a code works as whole under different scenarios. Code testing can include a wide range of different techniques. The following lesson section provides only a brief introduction to the topic.
+Un método probado para evaluar la reproducibilidad de tu software es mediante pruebas. Hay muchos tipos de pruebas que van desde probar las partes comprobables más pequeñas de un código hasta verificar si un código funciona en su totalidad en diferentes escenarios. Las pruebas de código pueden incluir una amplia gama de técnicas diferentes. La siguiente sección de la lección proporciona sólo una breve introducción al tema.
 
-The main objective of code testing is to evaluate if a code does what its authors intended it to do. Comprehensively testing code can be very difficult as it involves testing the code for generating expected outputs as well as for failing when it should.
+El principal objetivo de las pruebas de código es evaluar si un código hace lo que sus autores pretendían que hiciera. Probar el código de manera integral puede ser muy difícil, ya que implica probar el código para generar los resultados esperados y para fallar cuando debería.
 
 <table>
   <thead>
     <tr>
-        <th>SCIENTIFIC VALIDATION ☑</th>
-        <th>REPRODUCI-BILITY TESTING</th>
-        <th>BUILT IN TESTS</th>
-        <th>AUTOMATED TESTING</th>
+        <th>VALIDACIÓN CIENTÍFICA ☑</th>
+        <th>PRUEBAS DE REPRODUCIBILIDAD</th>
+        <th>PRUEBAS INTEGRADAS</th>
+        <th>PRUEBAS AUTOMATIZADAS</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Whether producing a script or an entire data processing pipeline, the validation of software is critical to ensuring the quality and trustworthiness of the scientific results. This could mean manually calculating the results to check the output of the code or comparing to previously produced results or having another team member test it.</p>
+            <p>Ya sea que se produzca un guión o un proceso completo de procesamiento de datos, la validación del software es fundamental para garantizar la calidad y confiabilidad de los resultados científicos. Esto podría significar calcular manualmente los resultados para verificar el resultado del código o compararlos con resultados producidos anteriormente o hacer que otro miembro del equipo lo pruebe.</p>
         </td>
     </tr>
   </tbody>
@@ -422,16 +422,16 @@ The main objective of code testing is to evaluate if a code does what its author
 <table>
   <thead>
     <tr>
-        <th>SCIENTIFIC VALIDATION</th>
-        <th>REPRODUCI-BILITY TESTING ☑</th>
-        <th>BUILT IN TESTS</th>
-        <th>AUTOMATED TESTING</th>
+        <th>VALIDACIÓN CIENTÍFICA</th>
+        <th>PRUEBAS DE REPRODUCIBILIDAD ☑</th>
+        <th>PRUEBAS INTEGRADAS</th>
+        <th>PRUEBAS AUTOMATIZADAS</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Given the same inputs and parameters, can the same results be produced? Making the configuration files, input data, etc. openly available so users can easily run and produce the same published results is a critical way to increase trust in your code.</p>
+            <p>Dados los mismos insumos y parámetros, ¿se pueden producir los mismos resultados? Hacer que los archivos de configuración, los datos de entrada, etc. estén disponibles abiertamente para que los usuarios puedan ejecutarlos fácilmente y producir los mismos resultados publicados es una forma fundamental de aumentar la confianza en su código.</p>
         </td>
     </tr>
   </tbody>
@@ -440,16 +440,16 @@ The main objective of code testing is to evaluate if a code does what its author
 <table>
   <thead>
     <tr>
-        <th>SCIENTIFIC VALIDATION</th>
-        <th>REPRODUCI-BILITY TESTING</th>
-        <th>BUILT IN TESTS ☑</th>
-        <th>AUTOMATED TESTING</th>
+        <th>VALIDACIÓN CIENTÍFICA</th>
+        <th>PRUEBAS DE REPRODUCIBILIDAD</th>
+        <th>PRUEBAS INTEGRADAS ☑</th>
+        <th>PRUEBAS AUTOMATIZADAS</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Unit tests enable software developers to bolster their confidence in their code’s ability to perform as expected. Unit tests are small functions that sit outside the code base that test a specific function or run a specific test. For example, if a function takes an image and flips it horizontally, one test might check that the resulting image is the same size. Another compares the output using a known image with the expected result. Another checks that a new image is returned.</p>
+            <p>Las pruebas unitarias permiten a los desarrolladores de software reforzar su confianza en la capacidad de su código para funcionar según lo esperado. Las pruebas unitarias son pequeñas funciones que se encuentran fuera de la base del código y que prueban una función específica o ejecutan una prueba específica. Por ejemplo, si una función toma una imagen y la voltea horizontalmente, una prueba podría verificar que la imagen resultante tenga el mismo tamaño. Otro compara la salida utilizando una imagen conocida con el resultado esperado. Otro comprueba que se devuelva una nueva imagen.</p>
         </td>
     </tr>
   </tbody>
@@ -458,29 +458,29 @@ The main objective of code testing is to evaluate if a code does what its author
 <table>
   <thead>
     <tr>
-        <th>SCIENTIFIC VALIDATION</th>
-        <th>REPRODUCI-BILITY TESTING</th>
-        <th>BUILT IN TESTS</th>
-        <th>AUTOMATED TESTING ☑</th>
+        <th>VALIDACIÓN CIENTÍFICA</th>
+        <th>PRUEBAS DE REPRODUCIBILIDAD</th>
+        <th>PRUEBAS INTEGRADAS</th>
+        <th>PRUEBAS AUTOMÁTICAS ☑</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Built in tests can usually be run both manually and automatically. Most version control platforms offer services for running tests automatically. When run this way, code can be checked to see if changes raise any problems. This process of checking the code automatically as it is developed is called continuous development or continuous integration (CI/CD). If a small change made in one part of the code results in an unexpected change in another part, running the tests will uncover this immediately.</p>
+            <p>Las pruebas integradas generalmente se pueden ejecutar tanto de forma manual como automática. La mayoría de las plataformas de control de versiones ofrecen servicios para ejecutar pruebas automáticamente. Cuando se ejecuta de esta manera, se puede verificar el código para ver si los cambios generan algún problema. Este proceso de verificar el código automáticamente a medida que se desarrolla se llama desarrollo continuo o integración continua (CI/CD). Si un pequeño cambio realizado en una parte del código da como resultado un cambio inesperado en otra parte, la ejecución de las pruebas lo descubrirá inmediatamente.</p>
         </td>
     </tr>
   </tbody>
 </table>
 
-### Minimizing the Risk of Security Vulnerabilities
+### Minimizar el Riesgo de Vulnerabilidades de Seguridad
 
-Whether using open source, closed source, or commercial software, it is important to consider the security risks inherent in the development of software.
+Ya sea que se utilice software de código abierto, de código cerrado o comercial, es importante considerar los riesgos de seguridad inherentes al desarrollo de software.
 
-- Ensure minimal, DRY (Don’t repeat yourself) code (easier to maintain and fix).
-- Use global variables or key managers for credentials. Never include credentials in your code.
-- Use well-tested and maintained dependencies. In packages that you maintain, keep the list of dependencies up to date.
-- Create software with tools that provide automated scanning and auditing.
+- Asegúrese de que haya un código mínimo DRY (no lo repita) (más fácil de mantener y reparar).
+- Utilice variables globales o administradores de claves para las credenciales. Nunca incluya credenciales en su código.
+- Utilice dependencias bien probadas y mantenidas. En los paquetes que mantiene, mantenga actualizada la lista de dependencias.
+- Cree software con herramientas que proporcionen escaneo y auditoría automatizados.
 - Si hay dependencias no compatibles en las que confías, evalúalas para determinar cómo podrían introducir riesgos de seguridad y si sería apropiado cambiar a un paquete diferente.
 
 <table>
