@@ -540,16 +540,16 @@ Whether using open source, closed source, or commercial software, it is importan
 <table>
   <thead>
     <tr>
-        <th>FINDABLE</th>
-        <th>ACCESSIBLE ☑</th>
-        <th>INTER-OPERABLE</th>
-        <th>REUSABLE</th>
+        <th>LOCALIZABLE</th>
+        <th>ACCESIBLE ☑</th>
+        <th>INTEROPERABLE</th>
+        <th>REUTILIZABLE</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Software is retrievable from its identifier via standard communication protocols.</p>
+            <p>El software se puede recuperar a partir de su identificador mediante protocolos de comunicación estándar.</p>
         </td>
     </tr>
   </tbody>
@@ -558,16 +558,16 @@ Whether using open source, closed source, or commercial software, it is importan
 <table>
   <thead>
     <tr>
-        <th>FINDABLE</th>
-        <th>ACCESSIBLE</th>
-        <th>INTER-OPERABLE ☑</th>
-        <th>REUSABLE</th>
+        <th>LOCALIZABLE</th>
+        <th>ACCESIBLE</th>
+        <th>INTEROPERABLE ☑</th>
+        <th>REUTILIZABLE</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Software interoperates with other software; it exchanges data and/or metadata via community standards.</p>
+            <p>El software es interoperable con otros programas; intercambia datos y/o metadatos utilizando estándares compartidos.</p>
         </td>
     </tr>
   </tbody>
@@ -576,24 +576,24 @@ Whether using open source, closed source, or commercial software, it is importan
 <table>
   <thead>
     <tr>
-        <th>FINDABLE</th>
-        <th>ACCESSIBLE</th>
-        <th>INTER-OPERABLE</th>
-        <th>REUSABLE ☑</th>
+        <th>LOCALIZABLE</th>
+        <th>ACCESIBLE</th>
+        <th>INTEROPERABLE</th>
+        <th>LOCALIZABLE ☑</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Fully described metadata with provenance, meeting community standards. License permits reuse.</p>
+            <p>Metadatos completamente descritos con su procedencia, cumpliendo con las normas de la comunidad. La licencia permite su reutilización.</p>
         </td>
     </tr>
   </tbody>
 </table>
 
-### Additional Helpful Tips
+### Consejos adicionales útiles
 
-Here are some further suggestions on how to make your code more accessible, reproducible, and transparent:
+Aquí hay algunas sugerencias adicionales sobre cómo hacer que tu código sea más accesible, reproducible y transparente:
 
 |                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
