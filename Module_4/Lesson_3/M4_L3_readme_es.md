@@ -112,28 +112,28 @@ El control de versiones permite lo siguiente:
 
 - Ayuda a los desarrolladores a realizar un seguimiento de los cambios en el código de un proyecto (además de archivos suplementarios y documentación) durante todo el curso de la evolución del proyecto.
 - Las revisiones a los archivos de un proyecto pueden ser rastreadas, incluyendo las contribuciones realizadas por diferentes personas.
-- Los cambios no deseados (como errores o errores) pueden ser revertidos en cualquier momento.
+- Los cambios no deseados (como equivocaciones o errores de programación) pueden ser revertidos en cualquier momento.
 
-El control de versiones es una buena práctica para codear, incluso si no se comparte el código inmediatamente. El control de versiones puede ser usado en un código personal de forma privada en su computadora, o usar el modo privado en los servicios de alojamiento (por ejemplo, GitHub y GitLab). Al configurar el control de versiones pronto, se prepara el código para un uso futuro esperado e inolvidable.
+El control de versiones es una buena práctica para programar, incluso si no se comparte el código inmediatamente. El mismo puede ser usado en un código personal de forma privada en su computadora, o alternativamente se puede usar el modo privado en los servicios de alojamiento (por ejemplo, GitHub y GitLab). Al configurar el control de versiones pronto, se prepara el código para un uso futuro esperado e inolvidable.
 
 **Recursos adicionales en el control de versión**
 
 - [Control de versión de carpintería de software con Git](https://swcarpentry.github.io/git-novice/)
-- [The Turing Way, Version Control](https://the-turing-way.netlify.app/reproducible-research/vcs.html
-- [Usar un repositorio accesible públicamente con control de versiones: guía para software FAIR](https://f.Usoftware.eu/recommendations/repository/)
+- [The Turing Way, Versión Control](https://the-turing-way.netlify.app/reproducible-research/vcs.html)
+- [Usar un repositorio accesible públicamente con control de versiones: guía para el software FAIR](https://f.Usoftware.eu/recommendations/repository/)
 
 ## Describiendo nuestro código a otros
 
-### LEEME
+### Archivo LEEME
 
 La primera parada para un usuario cuando se acerque a un nuevo proyecto debería ser el archivo LEEME. Acertadamente llamado así, este archivo contiene información orientativa que ayudará al usuario a comprender el propósito de un proyecto, ofrece ejemplos de cómo puede utilizarse y enumera otra información importante que el creador considere pertinente.
 
 Como mínimo, un archivo LEEME debería contener el nombre del proyecto y un párrafo muy corto de lo que es el software. Dos o tres frases en un estilo sencillo que no presuponga quién lo lee. Es el discurso de ascenso para el proyecto.
 
-|                                    |                                                                                                                                                                                                                                                                                                                |
-| ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **MAlo** Ejemplo de archivo LEEME  | Este código recalcula el factor de permutación fundamental del flujo descendente (para J < 10, obviamente)."                                                                                                                                                                |
-| **Bueno** Ejemplo de archivo LEEME | "LeapKitten. Este paquete de Python toma cualquier foto de un gatito (JPEG, PNG) y utiliza inteligencia artificial para mostrar cómo se vería saltando en el aire. Además, el código tiene en cuenta los años bisiestos en la marca de tiempo de la imagen" |
+|                                         |                                                                                                                                                                                                                                                                                                                |
+| --------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Incorrecto** Ejemplo de archivo LEEME | "Este código recalcula el factor de permutación fundamental del flujo descendente (para J < 10, obviamente)."                                                                                                                                                               |
+| **Correcto** Ejemplo de archivo LEEME   | "LeapKitten. Este paquete de Python toma cualquier foto de un gatito (JPEG, PNG) y utiliza inteligencia artificial para mostrar cómo se vería saltando en el aire. Además, el código tiene en cuenta los años bisiestos en la marca de tiempo de la imagen" |
 
 Además, la siguiente información es útil para añadir al archivo LEEME especialmente si no están listados en otro lugar:
 
@@ -147,23 +147,23 @@ Como se vio en estos ejemplos, los archivos LEEME pueden ser útiles para una [c
 
 ### Pautas para los colaboradores
 
-El archivo _CONTRIBUTING.md_ proporciona información sobre cómo contribuir al proyecto. En él se explica cómo funciona el proceso de contribución y qué tipo de contribuciones son necesarias. Si bien no todos los proyectos tienen un archivo _CONTRIBUTING.md_, la existencia de uno es un claro indicador de que las contribuciones son bienvenidas.
+El archivo _CONTRIBUYENDO.md_ proporciona información sobre cómo contribuir al proyecto. En él se explica cómo funciona el proceso de contribución y qué tipo de contribuciones son necesarias. Si bien no todos los proyectos tienen un archivo _CONTRIBUTING.md_, la existencia de uno es un claro indicador de que las contribuciones son bienvenidas.
 
-Será necesario decidir personalmente cuando tu proyecto ha progresado lo suficiente como para invitar contribuidores. Cuando lo haya hecho, un documento llamado CONTRIBUTING deberá ser creado en el nivel superior del informe.
+Será necesario decidir personalmente cuando tu proyecto ha progresado lo suficiente como para invitar contribuidores. Cuando lo haya hecho, un documento llamado CONTRIBUYENDO deberá ser creado en el nivel superior del informe.
 
-Las [pautas de contribución de Astropy](https://github.com/astropy/astropy/blob/main/CONTRIBUTING.md) y las [Pautas de contribución numérica](https://numpy.org/devdocs/dev/index.html) proporcionan dos ejemplos.
+Las [pautas de contribución de Astropy](https://github.com/astropy/astropy/blob/main/CONTRIBUTING.md) y las [pautas de contribución numérica](https://numpy.org/devdocs/dev/index.html) proporcionan dos ejemplos.
 
-**Consejo extra: Aunque desarrolles tu código públicamente, esto no significa que tengas que aceptar contribuciones de otros o mantener tu código para siempre. Las pautas de contribución o el archivo LEEME son buenos lugares para indicar cuáles son las expectativas para el código. Esto puede aclarar que el código no está siendo mantenido o que no acepta contribuciones.**
+**Consejo extra: Aunque desarrolles tu código públicamente, esto no significa que tengas que aceptar contribuciones de otros o mantener tu código para siempre. Las pautas de contribución o el archivo LEEME son buenos lugares para indicar cuáles son las expectativas para el código. El mismo puede aclarar que el código no está siendo mantenido o que no acepta contribuciones.**
 
-### Codigo de conducta
+### Código de conducta
 
-El código de conducta establece normas básicas para el comportamiento de los participantes y ayuda a facilitar un ambiente agradable y acogedor. Si bien no todos los proyectos tienen un archivo CODIGO_DE_CONDUCTA, su presencia indica que este es un proyecto acogedor al que contribuir.
+El código de conducta establece normas básicas para el comportamiento de los participantes y ayuda a facilitar un ambiente agradable y acogedor. Si bien no todos los proyectos tienen un archivo CODIGO_DE_CONDUCTA, su presencia indica que este es un proyecto agradable al que contribuir.
 
 ### Documentación de código
 
 **Documentación sobre el código para el desarrollador**
 
-Su software debe estar documentado dentro del código fuente. Cada función debe tener comentarios al principio que brevemente expliquen, en lenguaje sencillo, para qué sirve la función. Esto no es sólo para otros desarrolladores, sino para usted una semana más tarde, cuando olvidó lo que se le dio.
+Su software debe estar documentado dentro del código fuente. Cada función debe tener comentarios al principio que brevemente expliquen, en lenguaje sencillo, para qué sirve la función. Esto no es sólo para otros desarrolladores, sino para el desarrolador original que una semana más tarde, puede olvidar que escribio.
 
 > **Ejemplo**
 >
@@ -297,30 +297,30 @@ Hay dos tipos principales de licencias de código abierto. Permisiva y protector
   <tbody>
     <tr>
         <td colspan="2">
-            <p>Las licencias protectoras (copyleft) son una técnica legal para conceder ciertas libertades sobre copias de obras protegidas por derechos de autor con el requisito de que se preserven los mismos derechos en las obras derivadas. This allows users to reuse, but also requires users to share their changes with the community using the same license. An example of a protective license is the General Public License (GPL) that ensures users have the freedom and responsibility to share their changes with the community. It is the most widely used protective license. These types of licenses can result in less re-use by users who may prefer or be required to only use permissive licenses.</p>
+            <p>Las licencias protectoras (copyleft) son una técnica legal para conceder ciertas libertades sobre copias de obras protegidas por derechos de autor con el requisito de que se preserven los mismos derechos en las obras derivadas. Esto permite a los usuarios reutilizar, pero también requiere que compartan sus cambios con la comunidad utilizando la misma licencia. Un ejemplo de licencia protectora es la Licencia Pública General (en inglés, GPL) que garantiza que los usuarios tengan la libertad y responsabilidad de compartir sus cambios con la comunidad. Es la licencia de protección más utilizada. Estos tipos de licencias pueden dar como resultado una menor reutilización por parte de los usuarios que prefieren o se les exige que utilicen únicamente licencias permisivas.</p>
         </td>
     </tr>
   </tbody>
 </table>
 
-### Common Licenses for Open Software
+### Licencias Comunes para Software Abierto
 
-Some of the most popular licenses used in open software are:
+Algunas de las licencias más populares utilizadas en software abierto son:
 
 <table>
   <thead>
     <tr>
-        <th>PERMISSIVE (CAN APPLY ANY LICENSE TO DERIVATIVE WORKS) ☑</th>
-        <th>PROTECTIVE/ COPYLEFT (ALL DERIVATIVE WORKS MUST DISTRIBUTE ALL ITS SOURCE CODE UNDER THE SAME LICENSE)</th>
+        <th>PERMISIVA (PUEDE APLICAR CUALQUIER LICENCIA A OBRAS DERIVADAS) ☑</th>
+        <th>PROTEGIDA/ COPYLEFT (TODAS LAS OBRAS DERIVADAS DEBEN DISTRIBUIR TODO SU CÓDIGO FUENTE BAJO LA MISMA LICENCIA)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="2">
             <ul>
-              <li><a href="https://opensource.org/license/apache-2-0/">Apache License</a></li>
-              <li><a href="https://opensource.org/license/mit/">MIT license</a></li>
-              <li><a href="https://opensource.org/license/bsd-3-clause/">BSD License</a></li>
+              <li><a href="https://opensource.org/license/apache-2-0/">Licencia Apache</a></li>
+              <li><a href="https://opensource.org/license/mit/">Licencia MIT</a></li>
+              <li><a href="https://opensource.org/license/bsd-3-clause/">Licencia BSD</a></li>
             </ul>
         </td>
     </tr>
@@ -330,17 +330,17 @@ Some of the most popular licenses used in open software are:
 <table>
   <thead>
     <tr>
-        <th>PERMISSIVE (CAN APPLY ANY LICENSE TO DERIVATIVE WORKS)</th>
-        <th>PROTECTIVE/ COPYLEFT (ALL DERIVATIVE WORKS MUST DISTRIBUTE ALL ITS SOURCE CODE UNDER THE SAME LICENSE) ☑</th>
+        <th>PERMISIVA (PUEDE APLICAR CUALQUIER LICENCIA A OBRAS DERIVADAS)</th>
+        <th>PROTEGIDA/ COPYLEFT (TODAS LAS OBRAS DERIVADAS DEBEN DISTRIBUIR TODO SU CÓDIGO FUENTE BAJO LA MISMA LICENCIA) ☑</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="2">
             <ul>
-              <li>GNU General Public License (<a href="https://opensource.org/license/gpl-2-0/">GPL</a>)</li>
-              <li><a href="https://opensource.org/license/mpl-2-0/">Mozilla</a> Public License</li>
-              <li>Common Development and Distribution License (<a href="https://opensource.org/license/cddl-1-0/">CDDL</a>)</li>
+              <li>Liencia Pública General GNU (<a href="https://opensource.org/license/gpl-2-0/">GPL</a>)</li>
+              <li><a href="https://opensource.org/license/mpl-2-0/">Licencia Pública de Mozilla</a> </li>
+              <li>Licencia Común de Desarrollo y Distribución (<a href="https://opensource.org/license/cddl-1-0/">CDDL</a>)</li>
             </ul>
         </td>
     </tr>
