@@ -494,7 +494,7 @@ Whether using open source, closed source, or commercial software, it is importan
     <tr>
         <td colspan="2">
             <p>Se han desarrollado herramientas comerciales y de código abierto para abordar el desafío de identificar las vulnerabilidades de seguridad en distintos componentes de la fuente. Si no dispones de ninguna tecnología para asegurar el uso de código abierto, puedes considerar utilizar las herramientas de verificación de dependencias Dependabot o <a href="https://owasp.org/">OWASP</a>.</p>
-            <p>El Proyecto de Seguridad de Aplicaciones Web Abiertas (Open Web Application Security Project, OWASP) es una comunidad en línea que produce herramientas y tecnologías gratuitas en el campo de la seguridad de aplicaciones web. La verificación de dependencias de OWASP es una utilería creada por desarrolladores, que identifica las dependencias de un proyecto y verifica si contineen alguna vulnerabilidad conocida de código abierto que haya sido públicamente divulgada.</p>
+            <p>El Proyecto de Seguridad de Aplicaciones Web Abiertas (Open Web Application Security Project, OWASP) es una comunidad en línea que produce herramientas y tecnologías gratuitas en el campo de la seguridad de aplicaciones web. La verificación de dependencias de OWASP es una herramienta creada por desarrolladores, que identifica las dependencias de un proyecto y verifica si contineen alguna vulnerabilidad conocida de código abierto que haya sido públicamente divulgada.</p>
         </td>
     </tr>
   </tbody>
@@ -517,21 +517,21 @@ Whether using open source, closed source, or commercial software, it is importan
   </tbody>
 </table>
 
-### Creating FAIR Software
+### Creación de Software FAIR
 
 <table>
   <thead>
     <tr>
-        <th>FINDABLE ☑</th>
-        <th>ACCESSIBLE</th>
-        <th>INTER-OPERABLE</th>
-        <th>REUSABLE</th>
+        <th>LOCALIZABLE ☑</th>
+        <th>ACCESIBLE</th>
+        <th>INTEROPERABLE</th>
+        <th>REUTILIZABLE</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Software includes a persistent and unique identifier and rich metadata, so it is easy for humans and machines to find.</p>
+            <p>El software incluye un identificador persistente y único, así como metadatos completos, lo que facilita su ubicación tanto para humanos como para máquinas.</p>
         </td>
     </tr>
   </tbody>
