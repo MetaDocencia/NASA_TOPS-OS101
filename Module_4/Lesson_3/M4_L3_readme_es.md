@@ -161,29 +161,29 @@ El código de conducta establece normas básicas para el comportamiento de los p
 
 ### Documentación de código
 
-**Code Level Documentation for the Developer**
+**Documentación sobre el código para el desarrollador**
 
-Your software should be documented within the source code. Each function should have comments at the start that briefly state, in plain language, what the function is for. This is not only for other developers, but yourself a week later when you forgot what you wrote.
+Su software debe estar documentado dentro del código fuente. Cada función debe tener comentarios al principio que brevemente expliquen, en lenguaje sencillo, para qué sirve la función. Esto no es sólo para otros desarrolladores, sino para usted una semana más tarde, cuando olvidó lo que se le dio.
 
-> **Example**
+> **Ejemplo**
 >
-> \# This function takes the image array and crops it from the center to 50% of the original size.
+> \# Esta función toma la matriz de imagen y la recorta desde el centro al 50% del tamaño original.
 >
-> Without going into details of the data type, calling parameters, etc. this description immediately puts someone looking at the code into the context of what the function aims to accomplish; they can then explore the details.
+> Sin entrar en detalles sobre el tipo de datos, los parámetros de llamada, etc., esta descripción sitúa inmediatamente a la persona que mira el código en el contexto de lo que la función pretende conseguir; entonces puede explorar los detalles.
 >
-> While you should consider placing a description at the start of a function, use your discretion on where you put similar descriptions of code. At the start of a complex loop or analysis would be good ideas. Don’t go overboard - things like this aren’t useful:
+> Si bien se debería considerar colocar una descripción al comienzo de una función, hay que utilizar la discreción sobre dónde poner descripciones de código similares. Al comienzo de un ciclo o análisis complejo serían buenas ideas. No te olvides - cosas como esta no son útiles:
 >
-> \# set x to 17
+> \# fijar x a 17
 >
 > x = 17
 >
-> Descriptive variable, class, and function names can make your code very readable. . Sometimes even great coders are working fast and will name variables 'a', 'temp', or other names that probably won't make a lot of sense in a week or two when they come back to something they were working on. Names like 'baking_time' or 'velocity' are more clear. Variable names should be easy to understand and clearly represent what they are.
+> Los nombres de variables, clases y funciones descriptivos pueden hacer que tu código sea legible. . A veces, incluso los grandes programadores trabajan rápido y nombran las variables 'a', 'temp', u otros nombres que probablemente no tendrán mucho sentido en una semana o dos cuando vuelvan a algo en lo que estaban trabajando. Nombres como 'tiempo_de_coccion' o 'velocidad' son más claros. Los nombres variables deberían ser fáciles de entender y representar claramente lo que son.
 >
-> Ideally, someone who doesn't write in the software language of the code can read the comments in the file and have a rough idea of what is happening.
+> Lo ideal es que alguien que no escriba en el lenguaje del código pueda leer los comentarios del archivo y hacerse una idea aproximada de lo que ocurre.
 >
-> Use the comments to put URLs that reference where you might have found the algorithm you’re using (e.g. Stack Overflow) or the journal paper where you found the formula you’re implementing.
+> Utilize los comentarios para poner URLs que hagan referencia a dónde se encontró el algoritmo utilizado (por ejemplo, Stack Overflow) o el artículo de revista donde se encuentran la fórmula que se implementa.
 
-### Code Level Documentation for the User
+### Documentación sobre el código para el usuario
 
 Si estás desarrollando código que esperas que otros usen, escribe un manual sobre cómo utilizar el código. Como el código se desarrolla constantemente, es mucho más fácil documentarlo mientras o incluso antes de escribir cualquier código.
 
