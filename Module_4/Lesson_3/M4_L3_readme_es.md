@@ -1,9 +1,9 @@
 # Lección 3: Haciendo código abierto
 
-## Navigation
+## Contenidos
 
-- [Overview](#overview)
-- [Learning Objectives](#learning-objectives)
+- [Descripción general](#overview)
+- [Objetivos de aprendizaje](#learning-objectives)
 - [How do We Plan for Making Code?](#how-do-we-plan-for-making-code)
 - [Importance of Version Control](#importance-of-version-control)
 - [Describing Our Code to Others](#describing-our-code-to-others)
