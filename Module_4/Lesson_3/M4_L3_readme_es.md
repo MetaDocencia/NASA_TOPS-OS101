@@ -1,30 +1,30 @@
-# Lección 3: Haciendo código abierto
+# Lección 3: Crear código abierto
 
 ## Contenidos
 
 - [Descripción general](#overview)
 - [Objetivos de aprendizaje](#learning-objectives)
-- [How do We Plan for Making Code?](#how-do-we-plan-for-making-code)
-- [Importance of Version Control](#importance-of-version-control)
-- [Describing Our Code to Others](#describing-our-code-to-others)
-- [What License Should We Choose for Our Code?](#what-license-should-we-choose-for-our-code)
-- [Programming Best Practices](#programming-best-practices)
-- [Lesson 3: Summary](#lesson-3-summary)
-- [Lesson 3: Knowledge Check](#lesson-3-knowledge-check)
+- [¿Cómo planificamos para crear código?](#how-do-we-plan-for-making-code)
+- [Importancia del control de versiones](#importance-of-version-control)
+- [Describir nuestro código para otras personas](#describing-our-code-to-others)
+- [¿Qué licencia deberíamos elegir para nuestro código?](#what-license-should-we-choose-for-our-code)
+- [Buenas prácticas de programación](#programming-best-practices)
+- [Lección 3: Resumen](#lesson-3-summary)
+- [Lección 3: Evaluación](#lesson-3-knowledge-check)
 
-## Overview
+## Descripción general
 
-In this lesson, you will learn about the practical steps to make code openly accessible. Large volume and well-established software have different needs than an incipient project. For example, a script written to create a simple plot has different requirements than a software package that models the Earth’s climate. The size of a research team can also determine the steps required to make code open access. This lesson covers the process to make code usable to other researchers through documentation, considerations around licenses, and software development best practices.
+En esta lección aprenderás sobre los pasos prácticos para hacer que el código esté accesible de forma abierta. Los software bien establecidos y de gran volumen tienen necesidades diferentes a las de un proyecto incipiente. Por ejemplo, un programa escrito para crear un gráfico simple tiene requisitos diferentes a los de un paquete de software que modela el clima de la Tierra. El tamaño del equipo de investigación también puede determinar los pasos necesarios para que el código sea de acceso abierto. Esta lección cubre: el proceso para hacer que el código sea utilizable para otras personas que investigan mediante la documentación, consideraciones sobre licencias, y buenas prácticas en el desarrollo de software.
 
-## Learning Objectives
+## Objetivos de aprendizaje
 
-After completing this lesson, you should be able to:
+Al completar la lección, deberías ser capaz de:
 
-- Describe the key considerations when planning a new open software project.
-- List three reasons for projects to use version control.
-- Explain the purpose and recall general information typically included in a README file.
-- Be able to select a license for your code and list the differences between permissive and protective open-source software licenses.
-- Explain best practices in software development that support transparency, inclusion, and reproducibility.
+- Describir las consideraciones clave al planificar un nuevo proyecto de software abierto.
+- Enumerar tres razones por las que los proyectos deberían usar control de versiones.
+- Explicar el propósito y recordar información general típicamente incluida en un archivo LEEME.
+- Ser capaz de seleccionar una licencia para tu código y listar las diferencias entre licencias de software de código abierto permisivas y protectoras.
+- Explicar las buenas prácticas en el desarrollo de software que apoyan la transparencia, la inclusión y la reproducibilidad.
 
 ## How do We Plan for Making Code?
 
