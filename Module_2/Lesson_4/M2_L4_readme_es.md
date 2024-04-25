@@ -335,7 +335,7 @@ Jupyter Notebook es una aplicación web de código abierto ampliamente utilizada
 
 - Jupyter Notebook – un intérprete de comandos de lenguaje contenido para programación interactiva, que muestra la salida en línea con las entradas
 - JupyterLab – una interfaz de usuario integrada en el navegador que muestra múltiples ventanas para cuadernos de notas, terminales y edición de código
-- JupyterHub – programa intermediario (_middleware_) para ejecutar entornos de computación interactivos compartidos, incluyendo JupyterLab y Jupyter Notebook, en infraestructura de computación compartida (como en la Nube)
+- JupyterHub – software intermediario (_middleware_) para ejecutar entornos de computación interactivos compartidos, incluyendo JupyterLab y Jupyter Notebook, en infraestructura de computación compartida (como en la Nube)
 
 Usaremos Jupyter Notebook como un ejemplo de cuaderno computacional y discutiremos cómo JupyterLab está relacionado con Jupyter Notebook. La siguiente sección sobre plataformas de computación discutirá sobre JupyterHub.
 
