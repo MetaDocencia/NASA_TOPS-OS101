@@ -47,15 +47,15 @@ El archivado garantiza que su código científico sea accesible a largo plazo y 
 
 ### ¿Debe compartir su software?
 
-There are several legal and security concerns to keep in mind when creating or using open software.
+Existen varias preocupaciones legales y de seguridad a tener en cuenta a la hora de crear o usar software abierto.
 
-- Any software you create is usually considered intellectual property and might be controlled by your organization’s policies.
-- Such policies may influence how openly the software can be shared, and therefore, its license.
-- Downloading and contributing to open software projects can be regulated by your organization's IT security policies.
+- Cualquier software que crees suele considerarse propiedad intelectual y puede estar controlado por las políticas de tu organización.
+- Tales políticas pueden influir en cuán abiertamente se puede compartir el software y, por lo tanto, su licencia.
+- La descarga y contribución a proyectos de software libre puede estar regulada por las políticas de seguridad informática de su organización.
 
-In contrast, if the software was created with external (government) funding, some funding agencies may require the software be openly shared.
+En cambio, si el software se creó con financiación externa (gubernamental), algunos organismos de financiación pueden exigir que el software se comparta abiertamente.
 
-### Deep dive: Software Management Plans (SMP)
+### Plan de gestión de software (SMP)
 
 Remember the parts of the Software Management Plan? What do we need to consider when it comes to sharing?
 
@@ -142,15 +142,15 @@ Assume you want to start a new open-source project:
 
 Software release policies differ by organization and each piece of software is different. Therefore, it is important that we do not make assumptions about the software release policies based on previous experience.
 
-## When: The Schedule for Code Archiving and Sharing
+## Cuándo:\*\* El cronograma para archivar y compartir software
 
-Planning to share your code at the beginning of your project makes sharing easier to do when you are ready. Exactly when in your workflow you decide to publicly share your code depends on your work and the requirements of the funding agency, organization, or publisher.
+Planear para compartir tu código al comienzo de tu proyecto hace que compartir sea más fácil cuando estés listo. Exactamente cuando en tu flujo de trabajo decides compartir públicamente tu código depende de tu trabajo y de los requisitos de la agencia de financiación, organización, o publicador.
 
-As an example, what does NASA say?
+Como ejemplo, ¿qué dice la NASA?
 
-If you are writing scientific software for a project funded by the NASA Science Mission Directorate then:
+Si está escribiendo software científico para un proyecto financiado por el Directorio de Misión de Ciencia de la NASA (NASA Science Mission Directorate) entonces:
 
-"Scientific software needed to validate the scientific conclusions of peer-reviewed manuscripts resulting from SMD-funded scientific activities shall become publicly available no later than the publication date of the corresponding peer-reviewed article. This includes software required to derive the findings communicated in figures, maps, and tables, as well as scientifically useful software from models and simulations."
+El software científico necesario para validar las conclusiones científicas de los manuscritos revisados por pares resultantes de las actividades científicas financiadas por el SMD se pondrá a disposición del público a más tardar en la fecha de publicación del correspondiente artículo revisado por pares. This includes software required to derive the findings communicated in figures, maps, and tables, as well as scientifically useful software from models and simulations."
 
 \- [**Open-Source Science Guidance**](https://smd-cms.nasa.gov/wp-content/uploads/2023/07/smd-open-source-science-guidance-v2-20230407.pdf)
 
