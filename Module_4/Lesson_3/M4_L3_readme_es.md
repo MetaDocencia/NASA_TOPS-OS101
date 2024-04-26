@@ -70,41 +70,41 @@ Fuente: https://xkcd.com/1459/
 
 ---
 
-Software projects can be organized in a variety ways, each that involve unique considerations about how to begin. Many projects start out as a single script that was only intended for a single use. However, a script can grow into a much larger project with unforeseen applications in its original or new field of research. Other projects can start with formal requirements and standards.
+Los proyectos de software pueden organizarse de distintas maneras, cada una con consideraciones únicas sobre cómo comenzar. Muchos proyectos comienzan como un único script destinado a un solo uso. Sin embargo, un script puede convertirse en un proyecto mucho más grande, con aplicaciones imprevistas tanto en el campo de investigación original como en otros nuevos. Otros proyectos pueden comenzar con requisitos y estándares formales.
 
-Making code public has many advantages:
+Hacer público el código tiene muchas ventajas:
 
-- It enables open collaboration.
-- It invites constructive feedback that contributes to a code’s accuracy and robustness.
-- People with less experience with the subject matter will learn more.
-- Those with less programming experience can learn from those with more programming experience as they improve the code.
-- It provides an intermediate product that can still be cited.
+- Permite la colaboración abierta.
+- Invita a la retroalimentación constructiva que contribuya con la precisión y robustez del código.
+- Personas con menos experiencia en el tema aprenderán más.
+- Quienes tienen menos experiencia en programación pueden aprender de quienes poseen más experiencia a medida que mejoran el código.
+- Proporciona un producto intermedio que puede ser citado.
 
-When naming a project, conduct a quick search of the envisioned name to see what shows up. Avoid names with many other uses as this will make it difficult for others to discover the code. Also, do not choose embarrassing or trademarked names.
+Al nombrar un proyecto, realiza una búsqueda rápida del nombre previsto para ver qué aparece. Evita nombres con muchos otros usos, ya que esto dificultará que otros descubran el código. Además, no elijas nombres embarazosos o registrados.
 
-Hosting the product on a version control platform ensures the permanence of your project. If code only exists on your computer, it may disappear if the computer is damaged or is lost.
+Al alojar el producto en una plataforma con control de versiones, aseguras la perdurabilidad de tu proyecto. Si el código solo existe en tu computadora, puede desaparecer si ésta se daña o se pierde.
 
-Documenting the production and management of your code benefits both you and those that might use your code in the future. You are your own best collaborator. Documentation can save you from a headache should you reuse the code in six months or attempt to recall meticulous details about your process later on.
+Documentar la producción y gestión de tu código te beneficia tanto a ti como a quienes podrían usar tu código en el futuro. Tú eres tu mejor colaborador. La documentación puede evitarte dolores de cabeza si reutilizas el código en seis meses o intentas recordar detalles meticulosos sobre tu proceso más adelante.
 
-Questions to consider when choosing a programming language:
+Preguntas a considerar al elegir un lenguaje de programación:
 
-- Will potential collaborators be able to contribute in the chosen language?
-- Which languages are you most experienced with?
-- Are there any limitations from your computing environment that would impede your ability to write or manage this code?
-- Languages have strengths and weaknesses; which are most important for your project?
+- ¿Podrán los colaboradores potenciales contribuir en el lenguaje elegido?
+- ¿Con qué lenguajes tienes más experiencia?
+- ¿Existe alguna limitación en tu entorno informático que pueda afectar tu capacidad para escribir o gestionar este código?
+- Los lenguajes tienen fortalezas y debilidades, ¿cuáles son más importantes para tu proyecto?
 
-Before someone else can use your code, they're going to ask some questions:
+Antes de que alguien más pueda usar tu código, seguramente hará algunas preguntas:
 
-- Where can I find your code?
-- Is your code documented?
-- In what ways am I allowed to use your code?
-- Will you accept changes to your code? If I find a bug, what do I do?
-- How do I trust your code works?
-- How do I know if the code will be supported long term?
+- ¿Dónde puedo encontrar tu código?
+- ¿Está documentado tu código?
+- ¿De qué maneras puedo usar tu código?
+- ¿Aceptarás cambios en tu código? Si encuentro un error, ¿qué debo hacer?
+- ¿Cómo puedo confiar en que tu código funcione?
+- ¿Cómo sé si el código tendrá soporte a largo plazo?
 
-## Importance of Version Control
+## Importancia del control de versiones
 
-Your code will change significantly over the lifetime of your project. Del mismo modo que apreciamos la capacidad de rastrear versiones anteriores de documentos o versiones creadas por diferentes personas, inevitablemente alguien querrá ser capaz de revertir, comparar y sintetizar cambios en el código.
+Tu código cambiará significativamente a lo largo de la vida de tu proyecto. Del mismo modo que apreciamos la capacidad de rastrear versiones anteriores de documentos o versiones creadas por diferentes personas, inevitablemente alguien querrá ser capaz de revertir, comparar y sintetizar cambios en el código.
 
 La herramienta más popular de control de versiones es git. Git es un sistema que rastrea los cambios en los archivos del equipo, similar a Google Docs o SharePoint, pero más aplicable a código. Git se utiliza generalmente junto con una plataforma de control de versiones como GitHub, Gitlab, o Bitbucket. Estas herramientas fueron cubiertas en el Módulo 2.2.
 
@@ -579,7 +579,7 @@ Ya sea que se utilice software de código abierto, de código cerrado o comercia
         <th>LOCALIZABLE</th>
         <th>ACCESIBLE</th>
         <th>INTEROPERABLE</th>
-        <th>LOCALIZABLE ☑</th>
+        <th>REUTILIZABLE ☑</th>
     </tr>
   </thead>
   <tbody>
@@ -621,7 +621,7 @@ Además de aprender a compartir tu código en la próxima lección, también ten
 
 Responde las siguientes preguntas para poner a prueba lo que has aprendido hasta ahora.
 
-Pregunta
+_Pregunta_
 
 **01/05**
 
@@ -632,48 +632,48 @@ Pregunta
 - El lenguaje de programación que se utilizará.
 - Quién se beneficiará económicamente de las ventas del software.
 
-_Question_
+_Pregunta_
 
 **02/05**
 
 ¿Cuál de las siguientes es una ventaja de utilizar un sistema de control de versiones en tu software?
 
-- New changes are automatically tracked.
-- Different contributors can add or edit code at the same time.
-- Undesirable changes can be quickly reverted.
-- All of the above.
+- Los nuevos cambios son registrados automáticamente.
+- Diferentes colaboradores pueden agregar o editar código al mismo tiempo.
+- Los cambios no deseados pueden revertirse rápidamente.
+- Todas las anteriores.
 
-Pregunta
+_Pregunta_
 
 **03/05**
 
-Select two items that are good to include in a README file from the list below:
+Selecciona de la siguiente lista dos elementos que serían buenos incluir en un archivo LEEME:
 
-- Installation/compilation instructions
-- Code development history
-- The most important portions of the code
-- Usage instructions and example output
+- Instrucciones de instalación/compilación
+- Historial de desarrollo de código
+- Las partes más importantes del código
+- Instrucciones de uso y ejemplos
 
-Pregunta
+_Pregunta_
 
 **04/05**
 
-Which of the following licenses allows users to reuse, but also require users to share their changes with the community using the same license?
+¿Cuál de las siguientes licencias permite a los usuarios reutilizar, pero también requiere que compartan sus cambios con la comunidad utilizando la misma licencia?
 
-- Public Domain
-- Lesser general domain
-- Permissive
-- Protective License
-- Commercial
+- Dominio Público
+- Licencia Pública General Reducida
+- Permisivo
+- Licencia protectora
+- Comercial
 
-Pregunta
+_Pregunta_
 
 **05/05**
 
-Which of the following practices makes your project more inclusive?
+¿Cuál de las siguientes prácticas hace que tu proyecto sea más inclusivo?
 
-- Including a Code of Conduct.
-- Referencing historical events in the name of your project.
-- Following standards for the programming language being used.
-- Developing the project privately.
-- Including a Guideline for Contributors.
+- Incluir un Código de Conducta.
+- Referenciar eventos históricos en el nombre de tu proyecto.
+- Seguir las normas del lenguaje de programación utilizado.
+- Desarrollar el proyecto de forma privada.
+- Incluir una guía para los colaboradores.
