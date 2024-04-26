@@ -662,9 +662,9 @@ _Pregunta_
 
 - Dominio Público
 - Licencia Pública General Reducida
-- Permisivo
+- Licencia Permisiva
 - Licencia protectora
-- Comercial
+- Licencia Comercial
 
 _Pregunta_
 
