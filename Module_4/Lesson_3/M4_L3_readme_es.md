@@ -351,7 +351,7 @@ Para obtener más información sobre los diferentes tipos de licencias, consulte
 
 ### Actividad 3.1: Licencias
 
-En esta actividad, se le pedirá que responda si las siguientes afirmaciones son verdaderas o falsas.
+En esta actividad, te pediremos que respondas si las siguientes afirmaciones son verdaderas o falsas.
 
 **Afirmación 1:**
 
@@ -383,17 +383,17 @@ Los usuarios no pueden copiar ni modificar ningún software con licencia copylef
 
 ## Las Mejores Prácticas de Programación
 
-En esta sección, se proporcionan algunas prácticas recomendadas en desarrollo, incluidas la revisión de código, pruebas, seguridad y accesibilidad. Estas prácticas mejorarán la calidad del código, la reproducibilidad de los resultados y la seguridad de un proyecto. Combinadas, estas acciones ayudan a mejorar la solidez del código de acceso abierto y ayudan a enfrentar los desafíos únicos que pueden surgir con múltiples contribuyentes y revisiones que ocurren durante un período prolongado de tiempo.
+En esta sección, se proporcionan algunas prácticas recomendadas en desarrollo, incluidas la revisión de código, pruebas, seguridad y accesibilidad. Estas prácticas mejorarán la calidad del código, la reproducibilidad de los resultados y la seguridad de un proyecto. Las acciones mencionadas ayudan a mejorar la solidez del código de acceso abierto y ayudan a enfrentar los desafíos únicos que pueden surgir con múltiples contribuyentes y revisiones que ocurren durante un período prolongado de tiempo.
 
 ### Revisión de Código
 
-El código se beneficia de la revisión por pares de la misma manera que la ciencia. Hacer que otra persona lea su código y lo pruebe es una de las mejores formas de mejorar la calidad del código.
+El código se beneficia de la revisión por pares de la misma manera que la ciencia. Hacer que otra persona lea tu código y lo pruebe es una de las mejores formas de mejorar la calidad del código.
 
-Muchas plataformas de control de versiones tienen herramientas integradas que permiten a los desarrolladores revisar, comentar e iterar el código de otros. Estos se pueden hacer de forma abierta y permitir que cualquiera pueda comentar.
+Muchas plataformas de control de versiones tienen herramientas integradas que permiten a los desarrolladores revisar, comentar e iterar el código de otros. Los controles se pueden hacer de forma abierta y permitir que cualquiera pueda comentar.
 
-Aquí hay un gran ejemplo de la discusión que puede ocurrir cuando el creador original de un algoritmo [comenta sobre una implementación de Python realizada por un colaborador primerizo del proyecto Astropy.](https://github.com/astropy/astropy/pull/4301). La discusión abierta y constructiva condujo a una mejor implementación del algoritmo junto con posibles mejoras futuras.
+Aquí hay un gran ejemplo de la discusión que puede presentarse cuando el creador original de un algoritmo [comenta sobre una implementación de Python realizada por un colaborador primerizo del proyecto Astropy.](https://github.com/astropy/astropy/pull/4301) La discusión abierta y constructiva condujo a una mejor implementación del algoritmo junto con posibles mejoras futuras.
 
-Los paquetes de software también se pueden revisar como productos propios. Muchas publicaciones científicas ahora aceptan artículos centrados en software. Hay entidades como [PyOpenSci](https://www.pyopensci.org/) y el [Journal of Open Source Software](https://joss.theoj.org/) que ofrecen revisión abierta por pares de paquetes científicos. Vea más detalles sobre JOSS en la próxima lección sobre cómo compartir su código.
+Los paquetes de software también se pueden revisar como productos propios. Muchas publicaciones científicas ahora aceptan artículos centrados en software. Hay entidades como [PyOpenSci](https://www.pyopensci.org/) y el [Journal of Open Source Software](https://joss.theoj.org/) que ofrecen revisión abierta por pares de paquetes científicos. Puedes ver más detalles sobre JOSS en la próxima lección sobre cómo compartir tu código.
 
 ### Pruebas
 
@@ -477,10 +477,10 @@ El principal objetivo de las pruebas de código es evaluar si un código hace lo
 
 Ya sea que se utilice software de código abierto, de código cerrado o comercial, es importante considerar los riesgos de seguridad inherentes al desarrollo de software.
 
-- Asegúrese de que haya un código mínimo DRY (no lo repita) (más fácil de mantener y reparar).
-- Utilice variables globales o administradores de claves para las credenciales. Nunca incluya credenciales en su código.
-- Utilice dependencias bien probadas y mantenidas. En los paquetes que mantiene, mantenga actualizada la lista de dependencias.
-- Cree software con herramientas que proporcionen escaneo y auditoría automatizados.
+- Asegúrate de que haya un código mínimo y DRY (no lo repita) (más fácil de mantener y reparar).
+- Utiliza variables globales o administradores de claves para las credenciales. Nunca incluyas credenciales en su código.
+- Utiliza dependencias bien probadas y mantenidas. En los paquetes que mantiene, mantén actualizada la lista de dependencias.
+- Crea software con herramientas que proporcionen escaneo y auditoría automatizados.
 - Si hay dependencias no compatibles en las que confías, evalúalas para determinar cómo podrían introducir riesgos de seguridad y si sería apropiado cambiar a un paquete diferente.
 
 <table>
