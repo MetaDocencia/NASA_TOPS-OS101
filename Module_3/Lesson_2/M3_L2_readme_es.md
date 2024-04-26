@@ -200,7 +200,7 @@ _Seleccione cada pestaña para obtener más información._
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Los repositorios especializados (típicamente para asuntos específicos de datos) proporcionan soporte e información sobre los estándares requeridos para metadatos y más.</p>
+            <p>Los repositorios especializados (típicamente para datos de asuntos específicos de datos) proporcionan soporte e información sobre los estándares requeridos para metadatos y más.</p>
             <p>Algunos ejemplos son:</p>
             <ul>
                 <li>Astronomía: <a href="https://archive.stsci.edu/">Datos del telescopio Hubble</a></li>
@@ -265,12 +265,12 @@ _Seleccione cada pestaña para obtener más información._
 
 Unir el tipo de repositorio con la definición correcta.
 
-|                                     |                                                                            |
-| ----------------------------------- | -------------------------------------------------------------------------- |
-| Repositorios generales              | Diseñados para todas las comunidades y accesibles a todos                  |
-| Repositorios específicos de dominio | Repositorios que son típicamente diseñados para temas específicos de datos |
-| Repositorios institucionales        | Repositorios gestionados por universidades y organizaciones                |
-| Repositorios nacionales             | Repositorios financiados por el gobierno                                   |
+|                                     |                                                                               |
+| ----------------------------------- | ----------------------------------------------------------------------------- |
+| Repositorios generales              | Diseñados para todas las comunidades y accesibles a todos                     |
+| Repositorios específicos de dominio | Repositorios que son típicamente diseñados para datos sobre temas específicos |
+| Repositorios institucionales        | Repositorios gestionados por universidades y organizaciones                   |
+| Repositorios nacionales             | Repositorios financiados por el gobierno                                      |
 
 ## Evaluando datos abiertos
 
