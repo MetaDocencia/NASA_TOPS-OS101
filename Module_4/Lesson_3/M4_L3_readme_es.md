@@ -30,43 +30,43 @@ Al completar la lección, deberías ser capaz de:
 
 El código se escribe para resolver un desafío. Esto puede abarcar desde la producción de un gráfico, hasta procesar datos de observaciones de la Tierra, o incluso modelar el Universo. Los desafíos asociados con la escritura de código pueden variar en dificultad, desde tareas más simples como el uso de hojas de cálculo hasta actividades más complejas como la creación de extensas bibliotecas y el uso de computación de alto rendimiento o en la nube. El código puede ser desarrollado de manera individual, en equipo o en comunidad. Una vez escrito, el código puede ser utilizado durante décadas o nunca más.
 
-When starting a research project, it is useful to answer the following questions:
+Al iniciar un proyecto de investigación, es útil responder a las siguientes preguntas:
 
-1. What problem am I trying to solve, and are others in my community facing it as well?
-2. Are there existing solutions? (In Lesson 2, we explored how to look for existing solutions.)
-3. Did you find code that was close to what you want but didn’t quite meet your needs?
+1. ¿Qué problema estoy tratando de resolver?, ¿alguien más en mi comunidad también lo enfrenta?
+2. ¿Existen soluciones? (En la Lección 2, exploramos cómo buscar soluciones existentes).
+3. ¿Encontraste código que estaba cerca de lo que deseabas pero no cumplía completamente con tus necesidades?
 
-You could potentially contribute to it instead of writing something new.
+Podrías contribuir potencialmente, en lugar de escribir algo nuevo.
 
-Even if a solution already exists, there might be good reasons to develop your own code. Instances include:
+Incluso si ya existe una solución, podría haber buenas razones para desarrollar tu propio código. En situaciones como:
 
-- The code is written in a different programming language than you are familiar with.
-- The license is not open enough to adopt it.
-- To try new techniques or to develop a deeper understanding of the problem.
+- El código está escrito en un lenguaje de programación diferente al que estás familiarizado.
+- La licencia no es lo suficientemente abierta como para adoptarla.
+- Probar nuevas técnicas o desarrollar una comprensión más profunda del problema.
 
 <img src="../images/media/image333.jpg" style="width:350px;height:auto;" />
 
-It might take more time to start a new project, or it might take more time to integrate someone else’s code than writing your own. You will have to make that call.
+Puede llevar más tiempo iniciar un nuevo proyecto, o puede tardarse más intentando integrar el código de otra persona que escribiendo el propio. Tendrás que tomar esa decisión.
 
-We looked for existing code, and though we found a few things that were close we decided in the end our needs were unique enough - we’re starting a new project!
+Buscamos código existente, y aunque encontramos algunas cosas que eran similares, al final decidimos que nuestras necesidades eran lo suficientemente únicas - ¡estamos comenzando un nuevo proyecto!
 
-### Starting a New Project
+### Comenzando un nuevo proyecto
 
-When starting a new project, the key things to consider are:
+Al iniciar un nuevo proyecto, los aspectos clave a considerar son:
 
-1. Define the project scope, its primary features and any limitations, and the intended audience.
-2. Consider resources required for the software to run. Will it be on a personal computer, a high-performance computing server, or on the cloud?
-3. How will it be managed?
+1. Definir el alcance del proyecto, sus características principales y cualquier limitación, así como el público objetivo.
+2. Considerar los recursos necesarios para que el software funcione. ¿Se ejecutará en una computadora personal, en un servidor informático de alto rendimiento o en la nube?
+3. ¿Cómo se gestionará?
 
-This lesson focuses predominantly on the question of how to manage open access code.
+Esta lección se centra predominantemente en la cuestión de cómo gestionar el código de acceso abierto.
 
-Who will be working on the project? What are some of the development best practices? How will you share it openly? How will it be licensed?
+¿Quién trabajará en el proyecto? ¿Cuáles son algunas de las mejores prácticas para el desarrollo? ¿Cómo se compartirá abiertamente? ¿Qué tipo de licencia se aplicará?
 
-### Organizing a Project
+### Organizando un proyecto
 
 <img src="../images/media/image353.png" style="width:250px;height:auto;" />
 
-Source: https://xkcd.com/1459/
+Fuente: https://xkcd.com/1459/
 
 ---
 
@@ -595,55 +595,55 @@ Ya sea que se utilice software de código abierto, de código cerrado o comercia
 
 Aquí hay algunas sugerencias adicionales sobre cómo hacer que tu código sea más accesible, reproducible y transparente:
 
-|                                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Nombres descriptivos**         | Las variables, funciones y entidades similares deben recibir nombres descriptivos en lugar de nombres vagos. Los nombres descriptivos dan de inmediato a otros programadores una idea de lo que representa la variable o la función. Por ejemplo, el nombre de variable **ColorDeGato** es un buen nombre porque describe lo que pretende hacer, que es abarcar el color de gatos.                                                                                                                                                                                           |
-| **Archivo de metadatos**         | Considera incluir un archivo de metadatos para tu software para facilitar su búsqueda. Puedes crear un archivo 'codemeta.json' empleando [Code Meta generator](https://codemeta.github.io/codemeta-generator/) para incluirlo con tu paquete.                                                                                                                                                                                                                                                                                                                                |
-| **Documentación de Operaciones** | Comparte detalles sobre cómo estás ejecutando el código. Por ejemplo, documenta la versión de la biblioteca de software que estás utilizando o la versión del compilador. Suelen compartirse en un archivo 'environment.yml'.                                                                                                                                                                                                                                                                                                                                |
-| **Automation**                   | Consider the following scenario:<br><br>You are getting ready to publish your paper that includes 17 plots that all depend on a data set released by a mission. Right before you are about to submit, the mission releases an updated version of the data set.<br><br> How easy will it be to recreate those plots?<br><br> Software allows you to automate the running of scripts and alert programmers when written so that input files are not hardcoding. This allows programmers to easily re-run code if an initial parameter changes. |
-| **Using Standards**              | Most languages have their own coding style adopted by their respective communities. Following those conventions makes it easier for others to contribute to your code and makes your project more inclusive.                                                                                                                                                                                                                                                                                                                                                                                 |
-| **Portability**                  | Share details about how you are running the code, for example the version of a software library you are using, or the version of the compiler. These are often shared in an 'environment.yml' file.                                                                                                                                                                                                                                                                                                                                                                          |
-| **Naming**                       | Many historical terms used in software have negative connotations depending on the context. When considering different terms or naming, consider how different audiences may react to those terms.                                                                                                                                                                                                                                                                                                                                                                                           |
+|                                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nombres descriptivos**         | Las variables, funciones y entidades similares deben recibir nombres descriptivos en lugar de nombres vagos. Los nombres descriptivos dan de inmediato a otros programadores una idea de lo que representa la variable o la función. Por ejemplo, el nombre de variable **ColorDeGato** es un buen nombre porque describe lo que pretende hacer, que es abarcar el color de gatos.                                                                                                                                                                                                                                                           |
+| **Archivo de metadatos**         | Considera incluir un archivo de metadatos para tu software para facilitar su búsqueda. Puedes crear un archivo 'codemeta.json' empleando [Code Meta generator](https://codemeta.github.io/codemeta-generator/) para incluirlo con tu paquete.                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Documentación de Operaciones** | Comparte detalles sobre cómo estás ejecutando el código. Por ejemplo, documenta la versión de la biblioteca de software que estás utilizando o la versión del compilador. Suelen compartirse en un archivo 'environment.yml'.                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Automatización**               | Considera el siguiente escenario:<br><br>Estás a punto de publicar un artículo que incluye 17 gráficos que dependen de un conjunto de datos lanzado por una misión. Justo antes de enviarlo, la misión publica una versión actualizada del conjunto de datos.<br><br> ¿Qué tan fácil será recrear esos gráficos? <br><br> El software permite automatizar la secuencia de programas y alertar a los programadores cuando se ejecuten para que los archivos de entrada se codifiquen de forma rígida. Esto permite a los programadores volver a ejecutar fácilmente el código si cambia un parámetro inicial. |
+| **Uso de normas**                | La mayoría de los lenguajes tienen su propio estilo de codificación adoptado por sus respectivas comunidades. Seguir esas convenciones facilita que otros contribuyan al código que construiste y hace que tu proyecto sea más inclusivo.                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| **Portabilidad**                 | Comparte detalles sobre cómo estás ejecutando el código, por ejemplo, la versión de una biblioteca de software que estás utilizando o la versión del compilador. Todo esto suele compartirse en un archivo 'environment.yml'.                                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Nomenclatura**                 | Muchos términos históricos utilizados en el software tienen connotaciones negativas según el contexto. A la hora de considerar diferentes términos o denominaciones, hay que tener en cuenta cómo pueden reaccionar ante ellos los distintos públicos.                                                                                                                                                                                                                                                                                                                                                                                                       |
 
-## Lesson 3: Summary
+## Lección 3: Resumen
 
-In this lesson, you learned:
+En esta lección has aprendido:
 
-- Planning a new project requires programmers to have a clearly defined purpose, recognize any resource limitations, and envision a data management plan.
-- Using a repository with version control allows developers to track changes across time and from multiple contributors, which can help with troubleshooting for errors and with managing a team of programers.
-- A README file should include the name of a project and short but clear description of the software.
-- Licenses ensure that developers receive credit and control over how their work is used. Without a license, software is assumed copyrighted and without permissions
-- Testing, labeling, and implementing security measures are examples of programming best practices that support Open Science.
+- La planificación de un nuevo proyecto requiere que los programadores tengan un propósito claramente definido, reconozcan cualquier limitación de recursos y prevean un plan de gestión de datos.
+- El uso de un repositorio con control de versiones permite a los desarrolladores hacer un seguimiento de los cambios a lo largo del tiempo y de los múltiples colaboradores, lo que puede ayudar a solucionar errores y a gestionar un equipo de programadores.
+- Un archivo LEEME debe incluir el nombre del proyecto y una descripción breve pero clara del software.
+- Las licencias aseguran que las personas que desarrollan el software reciben crédito y control sobre cómo se utiliza su trabajo. Sin licencia, se supone que el software tiene derechos de autor y no tiene permisos
+- La realización de pruebas, etiquetar y aplicar medidas de seguridad son ejemplos de buenas prácticas de programación que favorecen la Ciencia Abierta.
 
-In addition to learning how to Share your Code in the next lesson, you will also have some opportunities to put this lesson into practice.
+Además de aprender a compartir tu código en la próxima lección, también tendrás algunas oportunidades para poner esta lección en práctica.
 
-## Lesson 3: Knowledge Check
+## Lección 3: Evaluación
 
-Answer the following questions to test what you have learned so far.
+Responde las siguientes preguntas para poner a prueba lo que has aprendido hasta ahora.
 
-_Question_
+Pregunta
 
 **01/05**
 
-Which of the following should be considered when planning an open software project? Select all that apply.
+¿Cuál de los siguientes aspectos debe tenerse en cuenta a la hora de planificar un proyecto de software abierto? Seleccione todas las opciones que correspondan.
 
-- The intended user audience.
-- What protocol will be used to sync changes between individual contributors and the central repository.
-- The programming language to be used.
-- Who will financially benefit from sales of the software.
+- El público al que va dirigido.
+- Qué protocolo se utilizará para sincronizar cambios entre los colaboradores individuales y el repositorio central.
+- El lenguaje de programación que se utilizará.
+- Quién se beneficiará económicamente de las ventas del software.
 
 _Question_
 
 **02/05**
 
-Which of the following is a benefit of using a version control system in your software?
+¿Cuál de las siguientes es una ventaja de utilizar un sistema de control de versiones en tu software?
 
 - New changes are automatically tracked.
 - Different contributors can add or edit code at the same time.
 - Undesirable changes can be quickly reverted.
 - All of the above.
 
-_Question_
+Pregunta
 
 **03/05**
 
@@ -654,7 +654,7 @@ Select two items that are good to include in a README file from the list below:
 - The most important portions of the code
 - Usage instructions and example output
 
-_Question_
+Pregunta
 
 **04/05**
 
@@ -666,7 +666,7 @@ Which of the following licenses allows users to reuse, but also require users to
 - Protective License
 - Commercial
 
-_Question_
+Pregunta
 
 **05/05**
 
