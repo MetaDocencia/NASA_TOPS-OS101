@@ -259,13 +259,13 @@ Existen razones válidas que restringen la capacidad de una persona dedicada a l
 
 ### Estableciendo una licencia para el código
 
-The [collaborative data science handbook by The Turing Way](https://the-turing-way.netlify.app/reproducible-research/licensing) says of restrictions to open source sharing, "As with anything else in society, some of what you can and cannot do in software (or hardware) development is determined by the law. Licensing is therefore an important aspect of sharing/publishing open source projects as it provides clarity for anyone looking to reuse an open source project. Without licenses in place, anyone who wants to reuse it will be left with legal ambiguity as to the status of using your intellectual property."
+El [manual colaborativo de ciencia de datos de The Turing Way](https://the-turing-way.netlify.app/reproducible-research/licensing) dice acerca de las restricciones para compartir código abierto, "Como con cualquier otra cosa en la sociedad, parte de lo que puedes hacer y de lo que no puedes hacer en el desarrollo de software (o hardware) está determinado por la ley. Por lo tanto, la definición de una licencia es un aspecto importante para compartir/publicar proyectos de código abierto ya que da claridad para cualquiera que busque reutilizar un proyecto de código abierto. Sin una licencia, cualquiera que quiera reutilizarlo tendrá ambigüedad jurídica en cuanto al estado de uso de tu propiedad intelectual".
 
-To be considered open source, software requires a license that complies with the Open Source Definition. One criteria of this definition demands that open source licenses "[must allow modifications and derived works, and must allow them to be distributed under the same terms as the license of the original software](https://opensource.org/licenses/)."
+Para ser considerado de código abierto, el software requiere una licencia que cumpla con la definición de Código Abierto. Uno de los criterios de esta definición exige que las licencias de código abierto "[deben permitir modificaciones y obras derivadas, y deben permitir que se distribuyan bajo los mismos términos que la licencia del software original](https://opensource.org/licenses/)".
 
-In the next lessons, licenses will be discussed in more detail. As you are working on a project, you may want to use code developed by others, develop your own code, and then share it. Licenses affect all aspects of this process and it is important to understand how different licenses may affect your ability to share your code at the time of publication. It is also important to consider any requirements from your funder or institution about how you license your software.
+En las próximas lecciones discutiremos con más detalle las licencias. Cuando trabajas en un proyecto puedes usar código desarrollado por otras personas, desarrollar tu propio código y luego compartirlo. Las licencias afectan a todos los aspectos de este proceso y es importante entender cómo diferentes licencias pueden afectar tu capacidad para compartir tu código en el momento de la publicación. También es importante que tengas en cuenta cualquier requerimiento de tu institución o de quien te financia acerca de cómo licenciar tu software.
 
-### Planning for Openness: Using the Use, Make, Share Framework for Open Code
+### Planificando la apertura: usando el sistema Usar, Hacer, Compartir para Código Abierto
 
 Funding agencies and journals are increasingly requiring researchers to share software.
 
