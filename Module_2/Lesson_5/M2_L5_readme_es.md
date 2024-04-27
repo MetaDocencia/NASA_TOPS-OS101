@@ -98,7 +98,7 @@ Los avances de las últimas décadas en herramientas de gestión de proyectos de
 
 Los grupos de investigación pueden utilizar ahora herramientas de gestión de proyectos para esfuerzos muy especializados. Utilizan plataformas existentes o desarrollan su propio software para compartir materiales dentro del grupo y gestionar proyectos o tareas.
 
-Existen plataformas y herramientas perfectamente adaptadas a las necesidades (y frustraciones) de quienes investigan. A menudo han sido creadas por quienes hacen ciencia para quienes hacen ciencia. To explore a few examples, let’s turn to experimental science.
+Existen plataformas y herramientas perfectamente adaptadas a las necesidades (y frustraciones) de quienes investigan. A menudo han sido creadas por quienes hacen ciencia para quienes hacen ciencia. Para explorar algunos ejemplos, pasemos a la ciencia experimental.
 
 A commonly used term and research output is protocol. Protocol can be defined as "A predefined written procedural method in the design and implementation of experiments. Protocols are written whenever it is desirable to standardize a laboratory method to ensure successful replication of results by others in the same laboratory or by other laboratories." according to the University of Delaware (USA) Research Guide for Biological Sciences.
 
