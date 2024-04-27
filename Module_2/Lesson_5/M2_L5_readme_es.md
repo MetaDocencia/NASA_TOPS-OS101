@@ -96,7 +96,7 @@ Herramientas para apoyar la reproducibilidad en los resultados de investigación
 
 Los avances de las últimas décadas en herramientas de gestión de proyectos de investigación y laboratorios han contribuido a satisfacer la creciente demanda de rapidez, innovación y transparencia en la ciencia. Tales herramientas se desarrollan para apoyar la colaboración, asegurar la integración de datos, automatizar procesos, crear flujos de trabajo y aumentar la productividad.
 
-Research groups can now use project management tools for highly specialized efforts. They use existing platforms or develop their own software to share materials within the group and manage projects or tasks.
+Los grupos de investigación pueden utilizar ahora herramientas de gestión de proyectos para esfuerzos muy especializados. Utilizan plataformas existentes o desarrollan su propio software para compartir materiales dentro del grupo y gestionar proyectos o tareas.
 
 Platforms and tools, which are finely tuned to meet researchers’ needs (and frustrations), are available. They are often founded by scientists, for scientists. To explore a few examples, let’s turn to experimental science.
 
