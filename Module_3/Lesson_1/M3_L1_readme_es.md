@@ -443,7 +443,7 @@ _Select each tab to find out more information._
 
 Making data open (and FAIR) is a group effort – everybody in the data pipeline has a role to play.
 
-## Lesson 1: Summary
+## Lección 1: Resumen
 
 In this lesson, you learned:
 
@@ -452,7 +452,7 @@ In this lesson, you learned:
 - FAIR principles can be applied to data to make them more open.
 - Open-data principles and tasks are used throughout the entire scientific workflow.
 
-## Lesson 1: Knowledge Check
+## Lección 1: Evaluación
 
 Answer the following questions to test what you have learned so far.
 
@@ -467,7 +467,7 @@ _Open data can be freely used, re-used and redistributed by anyone - subject, at
 - True
 - False
 
-_Question_
+_Pregunta_
 
 **02/04**
 
@@ -480,7 +480,7 @@ _Making data open helps YOU because _____._
 - your publications are more likely to get cited when you link to open data
 - all of the above
 
-_Question_
+_Pregunta_
 
 **03/04**
 
@@ -496,7 +496,7 @@ Choose the FAIR Principles from the list below. Select all that apply.
 - Accessible
 - Authorizable
 
-_Question_
+_Pregunta_
 
 **04/04**
 
