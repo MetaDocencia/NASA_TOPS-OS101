@@ -134,13 +134,13 @@ Supongamos que desea iniciar un nuevo proyecto de código abierto:
 
 - Conozca las políticas de su organización en materia de publicación de software.
 - ¿Cuál es el proceso para liberar su software?
-- Does anybody in your organization have to approve this release?
-- Are there any policies regarding external contributors?
-- Does your organization require a specific attribution or credit?
+- ¿Alguien en su organización tiene que aprobar esta versión?
+- ¿Existen políticas con respecto a los contribuyentes externos?
+- ¿Su organización requiere una atribución o crédito específico?
 
-#### Key Takeaways: Find Your Organization’s Software Release Policies
+#### Puntos clave: Conozca las políticas de publicación de software de su organización
 
-Software release policies differ by organization and each piece of software is different. Therefore, it is important that we do not make assumptions about the software release policies based on previous experience.
+Las políticas de liberación de software difieren según la organización y cada pieza de software es diferente. Por lo tanto, es importante que no hagamos suposiciones sobre las políticas de publicación de software basadas en experiencias anteriores.
 
 ## Cuándo:\*\* El cronograma para archivar y compartir software
 
