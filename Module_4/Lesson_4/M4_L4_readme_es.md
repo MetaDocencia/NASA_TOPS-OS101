@@ -288,7 +288,7 @@ Algunos roles podrían incluir:
 
 **¿Quién se encargará de la documentación del código?**
 
-- Escribiendo un LÉEME
+- Escribiendo un archivo LÉEME
 - Añadiendo comentarios explicativos al código
 
 **¿Quién ayudará con la reutilización del código?**
@@ -322,7 +322,7 @@ En esta lección, aprendiste los pasos clave para compartir software abierto:
 - ¿Deberías compartir? Al compartir software, se deben seguir las políticas de tu institución y agencia de financiamiento. Éstas pueden limitar la apertura del software. Las políticas de intercambio de software también varían según la organización.
 - ¿Cuándo compartir? Sigue las indicaciones de tu organización, agencia de financiamiento o editorial.
 - ¿Dónde compartir? Depende de si se trata de archivar o de compartir para que la comunidad opine. Utiliza repositorios específicos de dominio cuando sea apropiado.
-- ¿Cómo permitir la reutilización? Habilita la reutilización mediante la asignación de un DOI e incluye una licencia, información de citas y directrices para colaboradores.
+- ¿Cómo permitir la reutilización? Habilita la reutilización mediante la asignación de un DOI e incluye una licencia, información de citas y pautas para colaboradores.
 - ¿Quién ayuda a compartir? Planifica los roles y responsabilidades cuando se comparta y (si es aplicable) para mantener el software.
 
 ## Lección 4: Evaluación
