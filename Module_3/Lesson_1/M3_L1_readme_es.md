@@ -1,16 +1,16 @@
-# Lesson 1: Introduction to Open Data
+# Lección 1: Introducción al Código Abierto
 
-## Navigation
+## Temas a desarrollar
 
-- [Overview](#overview)
-- [Learning Objectives](#learning-objectives)
-- [Introduction](#introduction)
-- [Definition and Considerations of Open Data](#definition-and-considerations-of-open-data)
-- [Benefits of Open Data](#benefits-of-open-data)
-- [Challenges of Open Data](#challenges-of-open-data)
-- [Applying FAIR Principles](#applying-fair-principles)
-- [Planning for Openness: Using the Use, Make, Share Framework for Open Data](#planning-for-openness-using-the-use-make-share-framework-for-open-data)
-- [Lesson 1: Summary](#lesson-1-summary)
+- [Descripción general](#overview)
+- [Objetivos de aprendizaje](#learning-objectives)
+- [Introduccion](#introduction)
+- [Definición y consideraciones sobre los datos abiertos](./Lesson_1#definición-y-consideraciones-sobre-los-datos-abiertos)
+- [Beneficios de los Datos Abiertos](./Lesson_1#benefits-of-open-data)
+- [Desafíos de los Datos Abiertos](./Lesson_1#challenges-of-open-data)
+- [Aplicando Principios FAIR](./Lesson_1#applying-fair-principles)
+- [Planificando la Apertura: Uso del sistema Usar, Hacer, Compartir para los Datos Abiertos](./Lesson_1#planning-for-openness-using-the-use-make-share-framework-for-open-data)
+- [Lección 1: Resumen](#leccion-1-resumen)
 - [Lesson 1: Knowledge Check](#lesson-1-knowledge-check)
 
 ## Overview
