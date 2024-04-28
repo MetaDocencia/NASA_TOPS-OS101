@@ -150,39 +150,39 @@ Como ejemplo, ¿qué dice la NASA?
 
 Si está escribiendo software científico para un proyecto financiado por el Directorio de Misión de Ciencia de la NASA (NASA Science Mission Directorate) entonces:
 
-El software científico necesario para validar las conclusiones científicas de los manuscritos revisados por pares resultantes de las actividades científicas financiadas por el SMD se pondrá a disposición del público a más tardar en la fecha de publicación del correspondiente artículo revisado por pares. This includes software required to derive the findings communicated in figures, maps, and tables, as well as scientifically useful software from models and simulations."
+El software científico necesario para validar las conclusiones científicas de los manuscritos revisados por pares resultantes de las actividades científicas financiadas por el SMD se pondrá a disposición del público a más tardar en la fecha de publicación del correspondiente artículo revisado por pares. Esto incluye software necesario para derivar los hallazgos comunicados en cifras, mapas y tablas, así como software científicamente útil de modelos y simulaciones".
 
-\- [**Open-Source Science Guidance**](https://smd-cms.nasa.gov/wp-content/uploads/2023/07/smd-open-source-science-guidance-v2-20230407.pdf)
+\- [\*\*Guía científica de código abierto (NASA SMD's Open-Source Science Guidance)](https://smd-cms.nasa.gov/wp-content/uploads/2023/07/smd-open-source-science-guidance-v2-20230407.pdf)
 
-Other organizations may have different guidance, so it is always best to check what the funding agency or organization requires.
+Otras organizaciones pueden tener orientaciones diferentes, por lo que siempre es mejor comprobar lo que exige la agencia u organización financiadora.
 
-## Where: Where To Share Open Code
+## Donde: Donde Compartir Código Abierto
 
-### General Considerations
+### Consideraciones generales
 
 <img src="../images/media/image197.png" style="width:100%;height:auto;" />
 
-Like data, code can be shared in many ways, for example over email or on a personal website, but these methods are not recommended. So, where should you share your Open Code?
+Al igual que los datos, el código puede compartirse de muchas maneras, por ejemplo por correo electrónico o en un sitio web personal, pero estos métodos no son recomendables. Entonces, ¿dónde debería compartir su código abierto?
 
-First, consider your institutional or funding agency policies that may dictate where you must share and where you can share. For example, some funding agencies specify long-term repositories where your code must be archived, and they may restrict you from sharing in other forms of repositories. Your scientific discipline may have a specific repository for open code.
+En primer lugar, considere las políticas de su institución o agencia de financiación, que pueden dictar dónde debe compartir y dónde puede hacerlo. Por ejemplo, algunas agencias de financiación especifican los depósitos a largo plazo donde debe archivarse su código, y pueden restringirle el uso compartido en otras formas de repositorios. Su disciplina científica puede tener un repositorio específico para código abierto.
 
-#### What are some good options and best practices for archiving your code?
+#### ¿Cuáles son las mejores opciones y prácticas para archivar el código?
 
-- Archive open code with an open access journal article.
-- If the open code is in an active online development repository such as Github, then create a version and archive the code at a long-term repository with a DOI such as Zenodo, which can be integrated with Github (more details on this process later).
-- Archive the code in other long-term public repositories, such as Software Heritage.
+- Archivar código abierto con un artículo de revista de acceso abierto.
+- Si el código abierto está en un repositorio de desarrollo en línea activo como Github, cree una versión y archive el código en un repositorio a largo plazo con un DOI como Zenodo, que puede integrarse con Github (más detalles sobre este proceso más adelante).
+- Archive el código en otros repositorios públicos a largo plazo, como Software Heritage.
 
-#### Is your code a substantial software package and of interest to a signiﬁcant number of users from various disciplines? Where else can your open code be shared?
+#### Es su código un paquete de software importante y de interés para un número signiﬁcativo de usuarios de diversas disciplinas? ¿Dónde más puede compartirse su código abierto?
 
 <img src="../images/media/image332.png" style="width:350px;height:auto;" />
 
-- Develop your software on a public repository such as GitHub.
-- Publish to a software repository used by common package managers to make the software easy for users to install (ex. Anaconda, CRAN, PyPI).
-- Present the software at conferences.
-- Publish the software in a Journal dedicated to open software (ex. JOSS).
-- Get your software peer reviewed through communities like PyOpenSci.
+- Desarrollar tu software en un repositorio público como GitHub.
+- Publicar en un repositorio de software usado por los gestores de paquetes comunes para facilitar la instalación del software (ej. Anaconda, CRAN, PyPI).
+- Presentar el software en conferencias.
+- Publicar el software en un Journal dedicado al software abierto (ej. JOSS).
+- Consigue que tu software sea revisado por expertos a través de comunidades como PyOpenSci.
 
-#### To share my code, I can just add it to github, right?
+#### Para compartir mi código, sólo tengo que añadirlo a github, ¿verdad?
 
 No necesariamente. Se alienta a compartir en un repositorio, pero la organización de financiamiento de la persona que investiga puede requerir un DOI de un repositorio de archivo, como Zenodo, para la preservación a largo plazo de su código en el momento de la publicación o lanzamiento de versiones.
 
