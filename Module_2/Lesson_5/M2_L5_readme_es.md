@@ -116,76 +116,76 @@ El OSF está diseñado para ser una plataforma colaborativa en la que quienes la
 
 "Si bien hay muchas funciones integradas en OSF, la plataforma también permite complementos o integraciones de terceros que fortalecen su funcionalidad y la naturaleza colaborativa. Estos complementos se dividen en dos categorías: integraciones de gestión de citas e integraciones de almacenamiento. Mendeley y Zotero pueden integrarse como soporte para la gestión de citas, mientras que Amazon S3, Box, Dataverse, Dropbox, figshare, GitHub y oneCloud pueden integrarse como soporte para el almacenamiento. El OSF proporciona almacenamiento ilimitado para proyectos, pero los archivos individuales están limitados a 5 gigabytes (GB) cada uno."
 
-**[Center for Open Science](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5370619/)**
+**[Centro para la ciencia abierta](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5370619/)**
 
 ---
 
-### Best Practices for a Project Registry
+### Mejores prácticas para un registro de proyectos
 
-It is common for different types of outputs to be preserved in different places to optimize discovery and reuse. An up-to-date Project Registry provides a quick overview of all the outputs. Best practices for managing a Project Registry include:
+Es habitual que los distintos tipos de resultados se conserven en lugares diferentes para optimizar su descubrimiento y reutilización. Un Registro de Proyectos actualizado proporciona una visión rápida de todos los resultados. Las mejores prácticas para gestionar un Registro de Proyectos incluyen:
 
-- Create and update a Project Registry in conjunction with preserving outputs (as described above) in the form of a spreadsheet or other type of list. This can be one registry for the entire project that is updated, or a new registry for each milestone.
-- Include in each registry entry a description of the object, preferred citation, and the persistent identifier (e.g., DOI), and any other useful information supporting the project. For outputs that do not have a persistent identifier, provide a URL and description.
-- Preserve the Project Registry as a project component. Many funders require in their yearly reports a list of both peer-reviewed publications and all project outputs. The Project Registry can be provided to the funder during the reporting process, or used as a tracking tool to assist with completing the report.
+- Crear y actualizar un Registro de Proyectos junto con la conservación de los resultados (como se ha descrito anteriormente) en forma de hoja de cálculo u otro tipo de lista. Puede tratarse de un registro actualizado para todo el proyecto o de un registro nuevo para cada meta.
+- Incluya en cada entrada del registro una descripción del objeto, la cita preferida y el identificador persistente (por ejemplo, DOI), así como cualquier otra información útil que respalde el proyecto. Para los resultados que no tengan un identificador persistente, facilite una URL y una descripción.
+- Conserve el registro del proyecto como componente de éste. Muchos financiadores requieren en sus informes anuales una lista tanto de las publicaciones revisadas por pares como de todos los resultados del proyecto. El registro del proyecto puede facilitarse al financiador durante el proceso de elaboración del informe, o utilizarse como herramienta de seguimiento para ayudar a completar el informe.
 
-### Managing Citations Using Reference Management Software
+### Gestión de citas utilizando software de gestión de referencias
 
-Keeping track of every paper you reference, every dataset you use, and every software library you build off of is critical. A single paper might cite dozens of references, and each new thing you produce only adds to that list. Reference Management Software can be employed to help you manage these references and automatically create a list of citations in whatever format you need (BibTeX, Word, Google docs, etc.).
+Es fundamental llevar un registro de todos los documentos a los que se hace referencia, de todos los conjuntos de datos que se utilizan y de todas las bibliotecas de software en las que se basa. Un solo artículo puede citar docenas de referencias, y cada cosa nueva que produzca no hará sino engrosar esa lista. El software de gestión de referencias puede ayudarte a gestionar estas referencias y crear automáticamente una lista de citas en el formato que necesitas (BibTeX, Word, Google Docs, etc.).
 
-While you are writing up results, keeping track of references and creating a correctly formatted bibliography can be overwhelming. A management software can keep track of references and can be shared with colleagues who are also working in the document.
+Durante la redacción de los resultados, hacer un seguimiento de las referencias y crear una bibliografía con el formato correcto puede resultar abrumador. Un software de gestión puede llevar un seguimiento de las referencias y puede compartirse con quienes también estén trabajando en el documento.
 
-Some of the common capabilities of reference management software are:
+Algunas de las funciones habituales de un software de gestión de referencias son:
 
-- Keep database of article metadata
-- Import article metadata from PDFs
-- Track datasets and software versions and DOIs
-- Create formatted references and bibliography for many different journal styles
+- Mantener la base de datos de los metadatos del artículo
+- Importar metadatos del artículo desde PDFs
+- Rastrear conjuntos de datos y versiones de software y DOIs
+- Crear referencias formateadas y bibliografía para muchos estilos de revistas diferentes
 
-Examples of reference management software include:
+Algunos ejemplos de software de gestión de referencias son:
 
 - Mendeley
 - EndNote
 - Zotero
 
-### Open Highlight: Zotero
+### _Zotero_
 
-Zotero helps manage software, data, and publication metadata and citations through a drag-and-drop interface. Researchers can use the tool to automatically generate citation files (for example, in BibTeX format).
+Zotero ayuda a gestionar metadatos y citas de software, datos y publicaciones a través de una interfaz de arrastrar y soltar. El equipo investigador pueden utilizar la herramienta para generar automáticamente archivos de citas (por ejemplo, en formato BibTeX).
 
-- Open Source
-- Drag and Drop PDFs to import metadata
-- Word + Browser plugins
-- Export citations to BibTeX
+- Código abierto
+- Arrastre y suelte archivos PDF para importar metadatos
+- Palabra + plugins del navegador
+- Exportar citas a BibTeX
 
 <img src="../images/media/image53.jpeg" style="width:100%;height:auto;" />
 
-## Lesson 5: Summary
+## Lección 5: Resumen
 
-In this lesson you learned:
+En esta lección has aprendido:
 
-- Benefits of preprints and resources for open access journals.
-- Tools for reproducibility and replication of your studies.
-- Additional tools that are available to help manage open results including project management and reference management.
+- Beneficios de las preimpresiones y recursos para las revistas de acceso abierto.
+- Herramientas para la reproducibilidad y replicación de tus estudios.
+- Herramientas adicionales que están disponibles para ayudar a gestionar los resultados abiertos, incluyendo la gestión de proyectos y la gestión de referencias.
 
-## Lesson 5: Knowledge Check
+## Lección 5: Revisión de conocimientos
 
-Answer the following questions to test what you have learned so far.
+Responde las siguientes preguntas para poner a prueba lo que has aprendido hasta ahora.
 
-_Question_
+Pregunta
 
 **01/03**
 
-Read the statement below and decide whether it's true or false:
+Lee la siguiente afirmación y decide si es verdadera o falsa:
 
-_Reproducibility means obtaining consistent computational results using the same input data, computational steps, methods, code, and conditions of analysis._
+Reproducibilidad significa obtener resultados computacionales consistentes utilizando los mismos datos de entrada, pasos computacionales, métodos, código y condiciones de análisis
 
-- True
-- False
+- Verdadero
+- Falso
 
-_Question_
+_Pregunta_
 
 **02/03**
 
-Which of the following steps would you take to manage a project registry for outputs? Select all that apply.
+¿Cuál de los siguientes pasos seguiríais para gestionar el registro de resultados de un proyecto? Selecciona todos los que correspondan? Selecciona todos los que correspondan.
 
 - Create and update a Project Registry in conjunction with preserving outputs in the form of a spreadsheet, or other type of list.
 - Include in each registry entry a description of the object, preferred citation, and the persistent identifier (e.g., DOI), and any other useful information supporting the project.
