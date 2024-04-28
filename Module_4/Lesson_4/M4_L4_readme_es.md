@@ -57,36 +57,36 @@ En cambio, si el software se creó con financiación externa (gubernamental), al
 
 ### Plan de gestión de software (SMP)
 
-Remember the parts of the Software Management Plan? What do we need to consider when it comes to sharing?
+¿Recuerdas las partes del Plan de Gestión de Software? ¿Qué debemos tener en cuenta cuando se trata de compartir?
 
-- **What:** Description of management, preservation, and release of software.
-- **When:** The schedule for code archiving and sharing.
-- **Where:** Location where software will be shared and archived over the long-term.
-- **How:** Enable reuse of software through assigning a DOI, license, contribution guidelines, etc.
-- **Who:** Roles and responsibilities of the team members.
+- **Qué:** Descripción de la gestión, conservación y distribución de software.
+- **Cuándo:** El cronograma para archivar y compartir software.
+- **Dónde:** Ubicación donde se compartirá y archivará el software a largo plazo.
+- **Cómo:** Habilitar la reutilización del software mediante la asignación de un DOI, licencia, directrices de contribución, etc.
+- **Quién:** Roles, funciones y responsabilidades de los miembros del equipo.
 
-## Legal and Security Concerns
+## Cuestiones jurídicas y de seguridad
 
 <table>
   <thead>
     <tr>
-        <th>LEGAL CONCERNS ☑</th>
-        <th>SECURITY CONCERNS</th>
+        <th>CONCIONES LEGALES ☑</th>
+        <th>CUESTIONES DE SEGURIDAD</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="2">
-            <p>Anyone writing research code and software should familiarize themselves with their organization's policies on sharing and publishing software. Funding agencies, government or private, may have strict software openness requirements. In other cases, sharing software may not be allowed by the organization.</p>
-            <p>Legal concerns can include questions such as:</p>
+            <p>Cualquiera que escriba código de investigación y software debe familiarizarse con las políticas de su organización sobre compartir y publicar software. Las agencias de financiación, gubernamentales o privadas, pueden tener estrictos requisitos de apertura del software. En otros casos, compartir software puede no estar permitido por la organización.</p>
+            <p>Las cuestiones jurídicas pueden incluir preguntas como:</p>
             <ul>
-                <li>Does a developer or institution own the software?</li>
-                <li>Does sharing (or not sharing) the software violate the funding agency’s policies?</li>
-                <li>Are there any local laws or regulations in your area that govern the sharing of intellectual property?</li>
-                <li>What software license is required?</li>
+                <li>¿Es un desarrollador o una institución el propietario del software?</li>
+                <li>¿El compartir (o no compartir) el software viola las políticas de la agencia de financiación?</li>
+                <li>¿Existen leyes o normativas locales que regulen el intercambio de propiedad intelectual?</li>
+                <li>¿Qué licencia de software se necesita?</li>
             </ul>
-            <p><strong>Once you decide to participate in or begin a new open software project, familiarize yourself with your organization’s policies and practices.</strong></p>
-            <p>Find out more about the legal concerns <a href="https://opensource.guide/legal/">here</a>.</p>
+            <p><strong>Una vez que decida participar o iniciar un nuevo proyecto de software abierto, familiarícese con las políticas y prácticas de su organización.</strong></p>
+            <p>Más información sobre los aspectos legales <a href="https://opensource.guide/legal/">aquí</a>.</p>
         </td>
     </tr>
   </tbody>
@@ -95,45 +95,45 @@ Remember the parts of the Software Management Plan? What do we need to consider 
 <table>
   <thead>
     <tr>
-        <th>LEGAL CONCERNS</th>
-        <th>SECURITY CONCERNS ☑</th>
+        <th>CONCIONES LEGALES</th>
+        <th>CUESTIONES DE SEGURIDAD ☑</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="2">
-            <p>Security is a concern when sharing software. Bad actors can attach malicious code to software in an attempt to infiltrate computer systems through security vulnerabilities, potentially exposing sensitive and proprietary information that can lead to great financial loss for users. Security risks must be considered when sharing software.</p>
-            <p>Security concerns can include:</p>
+            <p>La seguridad es una preocupación a la hora de compartir software. Los malhechores pueden adjuntar códigos maliciosos a los programas informáticos en un intento de infiltrarse en los sistemas informáticos a través de las vulnerabilidades de seguridad, exponiendo potencialmente información sensible y privada que puede acarrear grandes pérdidas económicas a los usuarios. La seguridad es una preocupación a la hora de compartir software.</p>
+            <p>Las cuestiones de seguridad pueden incluir:</p>
             <ul>
-                <li>Does your organization’s Information Technology (IT) policy allow you to checkout the code you want to use on your machine?</li>
-                <li>Is the repository you want to contribute to reputable?</li>
-                <li>Are there any open security-related issues with the code?</li>
+                <li>¿Permite la política de Tecnologías de la Información (TI) de tu organización que compruebes el código que quieres utilizar en tu máquina?</li>
+                <li>¿Tiene buena reputación el repositorio al que desea contribuir?</li>
+                <li>¿Hay algún problema abierto relacionado con la seguridad del código?</li>
             </ul>
-            <p><strong>Once you decide to participate in or begin a new open software project, familiarize yourself with your organization's IT policies.</strong></p>
-            <p>Find out more about the security concerns <a href="https://opensciency.github.io/sprint-content/open-software/lesson2-pros-cons.html#security-concerns">here</a>.</p>
+            <p><strong>Una vez que decida participar o iniciar un nuevo proyecto de software abierto, familiarícese con las políticas y prácticas de su organización.</strong></p>
+            <p>Más información sobre los aspectos legales <a href="https://opensource.guide/legal/">aquí</a>.</p>
         </td>
     </tr>
   </tbody>
 </table>
 
-### Sharing Software Created with US Agency Funding
+### Compartir programas informáticos creados con fondos de agencias estadounidenses
 
-Many federal agencies are now allowing (if not requiring) the sharing of code created under their grant programs. For example:
+Muchos organismos federales ya permiten (si no exigen) compartir el código creado en el marco de sus programas de subsidios. Por ejemplo:
 
-- [NASA](https://www.nasa.gov/open/open-source-development.html) "...we are actively reaching out to projects within NASA to make use of ...resources for publishing open source."
-- [US Department of Commerce](https://www.commerce.gov/about/policies/source-code) "...requires agencies to develop plans to release at least 20 percent of new custom-developed source code as Open Source Software (OSS) when commissioning new custom software."
-- [USGS](https://www.usgs.gov/survey-manual/im-osqi-2019-01-review-and-approval-scientific-software-release) "...software releases are considered to be public domain assets and are generally made available free of restrictions."
+- [NASA](https://www.nasa.gov/open/open-source-development.html) "...estamos llegando activamente a proyectos dentro de la NASA para hacer uso de ...recursos para publicar código abierto."
+- [Departamento de Comercio de EE.UU.](https://www.commerce.gov/about/policies/source-code) «...requiere que las agencias desarrollen planes para liberar al menos el 20 por ciento del nuevo código fuente desarrollado a medida como Software de Código Abierto (OSS) al encargar nuevo software a medida».
+- [USGS](https://www.usgs.gov/survey-manual/im-osqi-2019-01-review-and-approval-scientific-software-release) «...las versiones de software se consideran bienes de dominio público y, por lo general, están disponibles sin restricciones».
 
-Are you funded by a grant? Read the original grant call to see if publishing your code is allowed/required and check whether it has any language about software management and any conditions to publish your code. When in doubt, contact your organization for additional information.
+¿Está financiado por un subsidio? Lea la convocatoria original de la subvención para ver si se permite/requiere la publicación de su código y compruebe si contiene algún texto sobre la gestión del software y alguna condición para publicar su código. En caso de duda, póngase en contacto con su organización para obtener información adicional.
 
-### Activity 4.1: Find Your Organization’s Software Release Policies
+### Actividad 4.1: Encuentra las políticas de lanzamiento de software de tu organización
 
 <img style="width:350px;height:auto;" src="../images/media/lightbulb.png">
 
-Assume you want to start a new open-source project:
+Supongamos que desea iniciar un nuevo proyecto de código abierto:
 
-- Find your organization's policies on software releases.
-- What is the process for releasing your software?
+- Conozca las políticas de su organización en materia de publicación de software.
+- ¿Cuál es el proceso para liberar su software?
 - Does anybody in your organization have to approve this release?
 - Are there any policies regarding external contributors?
 - Does your organization require a specific attribution or credit?
