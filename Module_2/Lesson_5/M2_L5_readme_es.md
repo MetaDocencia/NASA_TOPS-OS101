@@ -212,4 +212,4 @@ A lo largo de este módulo, has aprendido algunos de los conceptos y herramienta
 - La elaboración y puesta en común de datos que empleen los principios FAIR mediante la incorporación de un plan de gestión de datos, el uso de identificadores y citas persistentes, y la utilización de los formatos de datos y herramientas adecuados para la elaboración de datos y la puesta en común de resultados.
 - El uso de las herramientas necesarias para el desarrollo de software, incluidos el código fuente, los núcleos, los lenguajes de programación, el software de terceros y el control de versiones.
 - Las herramientas y tipos de documentación utilizados para publicar y gestionar software abierto.
-- Resources for sharing research products including preprints, open access publications, reference management systems, and resources to support reproducibility.
+- Los recursos para compartir los productos de la investigación, incluidos los preimpresos, las publicaciones de acceso abierto, los sistemas de gestión de referencias y los recursos de apoyo a la reproducibilidad.
