@@ -187,29 +187,29 @@ _Pregunta_
 
 ¿Cuál de los siguientes pasos seguiríais para gestionar el registro de resultados de un proyecto? Selecciona todos los que correspondan? Selecciona todos los que correspondan.
 
-- Create and update a Project Registry in conjunction with preserving outputs in the form of a spreadsheet, or other type of list.
-- Include in each registry entry a description of the object, preferred citation, and the persistent identifier (e.g., DOI), and any other useful information supporting the project.
-- Preserve the Project Registry as a project component.
-- Log all outputs in a paper notebook
+- Crear y actualizar un registro del proyecto junto con la conservación de los resultados en forma de hoja de cálculo u otro tipo de lista.
+- Incluye en cada entrada del registro una descripción del objeto, la cita preferida y el identificador persistente (por ejemplo, DOI), así como cualquier otra información útil que respalde el proyecto.
+- Conserve el registro del proyecto como componente de éste.
+- Registra todos los resultados en un cuaderno de papel
 
-_Question_
+_Pregunta_
 
 **03/03**
 
-Which is NOT a capability of Reference Management Software?
+¿Cuál NO es una función del software de gestión de referencias?
 
-- Keep database of article metadata
-- Import article metadata from PDFs
-- Track datasets and software versions and DOIs
-- Create summaries of research articles
+- Mantener la base de datos de los metadatos del artículo
+- Importar metadatos de artículos desde PDFs
+- Rastrear conjuntos de datos y versiones de software y DOIs
+- Crear resúmenes de artículos de investigación
 
-## Open Tools and Resources Summary
+## Crear resúmenes de artículos de investigación
 
-Throughout this module, you learned about some of the concepts and tools that support the discovery and use of open research, that can be used to make data and software, and that can be used to share your results. These included:
+A lo largo de este módulo, has aprendido algunos de los conceptos y herramientas que apoyan el descubrimiento y el uso de la investigación abierta, que se pueden utilizar para hacer datos y software, y que se pueden utilizar para compartir sus resultados. Entre ellos se incluyen:
 
-- The foundational elements of open science, which includes research products such as data, code, and results.
-- Resources used to discover and assess research products for reuse, including repositories, search portals, publications, documentation, metadata, and licensing.
-- Making and sharing data that employs the FAIR principles by incorporating a data management plan, using persistent identifiers and citations, and utilizing the appropriate data formats and tools for making data and sharing results.
-- The use of the tools needed for development of software including source code, kernels, programming languages, third-party software and version control.
-- The tools and documentation types used for publishing and curating open software.
+- Los elementos fundamentales de la ciencia abierta, que incluyen productos de investigación como datos, código y resultados.
+- Recursos usados para descubrir y evaluar resultados de investigación para reutilización, incluyendo repositorios, portales de búsqueda, publicaciones, documentación, metadatos y licencias.
+- La elaboración y puesta en común de datos que empleen los principios FAIR mediante la incorporación de un plan de gestión de datos, el uso de identificadores y citas persistentes, y la utilización de los formatos de datos y herramientas adecuados para la elaboración de datos y la puesta en común de resultados.
+- El uso de las herramientas necesarias para el desarrollo de software, incluidos el código fuente, los núcleos, los lenguajes de programación, el software de terceros y el control de versiones.
+- Las herramientas y tipos de documentación utilizados para publicar y gestionar software abierto.
 - Resources for sharing research products including preprints, open access publications, reference management systems, and resources to support reproducibility.
