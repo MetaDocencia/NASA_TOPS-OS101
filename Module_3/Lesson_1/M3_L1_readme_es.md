@@ -2,22 +2,22 @@
 
 ## Contenidos
 
-- [Descripción general](#overview)
-- [Objetivos de aprendizaje](#learning-objectives)
-- [Introduccion](#introduction)
-- [Definición y consideraciones sobre los datos abiertos](./Lesson_1#definición-y-consideraciones-sobre-los-datos-abiertos)
-- [Beneficios de los Datos Abiertos](./Lesson_1#benefits-of-open-data)
-- [Desafíos de los Datos Abiertos](./Lesson_1#challenges-of-open-data)
-- [Aplicando Principios FAIR](./Lesson_1#applying-fair-principles)
-- [Planificando la Apertura: Uso del sistema Usar, Hacer, Compartir para los Datos Abiertos](./Lesson_1#planning-for-openness-using-the-use-make-share-framework-for-open-data)
+- [Resumen](#resumen)
+- [Objetivos de Aprendizaje](#objetivos-de-aprendizaje)
+- [Introducción](#introduccion)
+- [Definición y Consideraciones de Datos Abiertos](#definicion-y-consideraciones-de-datos-abiertos)
+- [Beneficios de los Datos Abiertos](#beneficios-de-los-datos-abiertos)
+- [Desafíos de los Datos Abiertos](#desafios-de-los-datos-abiertos)
+- [Aplicando Principios FAIR](#aplicando-principios-fair)
+- [Planificando la Apertura: Usando el Sistema Usar, Hacer, Compartir para los Datos Abiertos](#planificando-la-apertura-usando-el-sistema-usar-hacer-compartir-para-los-datos-abiertos)
 - [Lección 1: Resumen](#leccion-1-resumen)
-- [Lesson 1: Knowledge Check](#lesson-1-knowledge-check)
+- [Lección 1: Revisión De Conocimientos](#lesson-1-revisión-de-conocimientos)
 
-## Overview
+## Resumen
 
 This lesson defines open data, its benefits, and the practices that enable data to be open. In addition, the lesson takes a closer look at how FAIR applies to open data as well as at the criticall role of metadata. It wraps up with a brief discussion on how to plan for open data in the scientific workflow and tasks guided by the use, make, share framework.
 
-## Learning Objectives
+## Objetivos de aprendizaje
 
 After completing this lesson, you should be able to:
 
