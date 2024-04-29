@@ -1,6 +1,6 @@
-# Lección 1: Introducción al Código Abierto
+# Lección 1: Introducción a los Datos Abiertos
 
-## Temas a desarrollar
+## Contenidos
 
 - [Descripción general](#overview)
 - [Objetivos de aprendizaje](#learning-objectives)
