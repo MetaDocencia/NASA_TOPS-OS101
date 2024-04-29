@@ -3,7 +3,7 @@
 ## Contenidos
 
 - [La Ciencia Abierta Rompe Barreras y Promueve la Innovación](#la-ciencia-abierta-rompe-barreras-y-promueve-la-innovación)
-- [Beneficios Personales](#beneficios-personales)
+- [Beneficios Individuales](#benefits-to-you)
 - [Beneficios Para La Ciencia](#beneficios-para-la-ciencia)
 - [Beneficios Para La Sociedad](#beneficios-para-la-sociedad)
 - [Lección 2: Resumen](#lección-2-resumen)
@@ -33,13 +33,13 @@ Al finalizar esta lección deberías ser capaz de:
 
 ---
 
-A medida que la NASA mira hacia el exterior, nos enfrentamos a desafíos conocidos e inolvidables. Estos desafíos dinámicos exigirán un nuevo enfoque de la ciencia que logre el éxito a través de un ecosistema científico receptivo e inclusivo. Esto requiere equipos más diversos: equipos con más manos, ojos y cervezas que tengan diversas experiencias para participar.
+A medida que la NASA mira hacia el exterior, nos enfrentamos a desafíos conocidos e inolvidables. Estos retos dinámicos exigirán un nuevo enfoque de la ciencia, que logren el éxito a través de un ecosistema científico receptivo e inclusivo. Esto requiere equipos más diversos: equipos con más manos, ojos y cervezas que tengan diversas experiencias para participar.
 
 En la lección anterior, aprendimos sobre conceptos fundacionales que definen la ciencia abierta -su importancia, su propósito y sus éxitos probados-. En esta lección, abordamos los beneficios y retos clave de la implementación de principios científicos abiertos en las actividades de investigación.
 
 Esta lección presenta una perspectiva sobre el desarrollo de la ciencia que se centra en la intersección de los resultados científicos, el proceso de creación y las partes interesadas que constituyen la comunidad.
 
-Esta lección destaca los beneficios de la ciencia abierta a una amplia gama de grupos de interesados, junto con ejemplos que invitan a los lectores a investigar más. Adicionalmente, esta lección explora los retos comunes para adoptar prácticas científicas abiertas.
+Esta lección destaca los beneficios de la ciencia abierta a una amplia gama de grupos de interesados, junto con ejemplos que invitan a los lectores a investigar más. Además, esta lección explora los desafíos más usuales a la hora de adoptar prácticas en Ciencia Abierta.
 
 <img src="../images/media/image377.jpg" style="width: 100%; height: auto;" />
 
@@ -49,13 +49,13 @@ Imagen: Existen muchos beneficios en la Ciencia Abierta. [CC-BY Danny Kingsley y
 
 ### ¡Eres tu Mejor Colaborador Futuro!
 
-Hacer ciencia abierta no sólo permite que otras personas entiendan y reproduzcan tus resultados, sino que también te permite hacerlo! Implementar principios de ciencia abierta, tales como buena documentación y control de versiones, le ayuda, colaboradores potenciales y cualquier otra persona a entender sus resultados.
+Hacer ciencia abierta no sólo permite que otras personas entiendan y reproduzcan tus resultados, sino que también te permite hacerlo! Implementar principios de ciencia abierta, tales como buena documentación y control de versiones ayuda a colaboradores potenciales y a cualquier otra persona que se interese en entender sus resultados.
 
-Si tu trabajo se comparte públicamente, nunca perderás el acceso incluso si tu te mueves de institución o cambias de empleo. Muchos investigadores se mueven por instituciones y organizaciones. Al tener sus datos y software y resultados en los repositorios, siempre tendrá acceso a ellos.
+Si tu trabajo se comparte públicamente, nunca perderás el acceso incluso si cambiasde institución o de empleo. Muchos investigadores rotan por instituciones y organizaciones. Al tener sus datos y software y resultados en repositorios, siempre tienen acceso a ellos.
 
 <img src="../images/media/image261.png" style="width: 350px; height: auto;" />
 
-La implementación de las mejores prácticas para la ciencia abierta en su trabajo no sólo le ayuda a documentar, sino que podría fortalecer sus propuestas de financiación. Las agencias de financiación han comenzado a darse cuenta de que compartir abiertamente productos de investigación puede aumentar sus citas recibidas y aplicadas, lo que resulta en un mejor rendimiento de la inversión.
+La implementación de buenas prácticas de ciencia abierta en una investigación no sólo le ayuda a documentar, sino que puede fortalecer sus propuestas de financiación. Las agencias de financiación han comenzado a darse cuenta de que compartir abiertamente productos de investigación puede aumentar sus citas recibidas y aplicadas, lo que resulta en un mejor rendimiento de la inversión.
 
 Los productos de investigación bien documentados también demuestran la calidad de su trabajo, lo que ayuda en los esfuerzos de comunicación pública y también puede atraer mejores colaboradores. La fiabilidad y una ética de trabajo fuerte motivan a los demás a querer trabajar contigo.
 
