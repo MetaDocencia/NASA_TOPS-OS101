@@ -11,11 +11,11 @@
 - [Aplicando Principios FAIR](#aplicando-principios-fair)
 - [Planificando la Apertura: Usando el Sistema Usar, Hacer, Compartir para los Datos Abiertos](#planificando-la-apertura-usando-el-sistema-usar-hacer-compartir-para-los-datos-abiertos)
 - [Lección 1: Resumen](#leccion-1-resumen)
-- [Lección 1: Revisión De Conocimientos](#lesson-1-revisión-de-conocimientos)
+- [Lección 1: Revisión De Conocimientos](#leccion-1-revision-de-conocimientos)
 
 ## Resumen
 
-This lesson defines open data, its benefits, and the practices that enable data to be open. In addition, the lesson takes a closer look at how FAIR applies to open data as well as at the criticall role of metadata. It wraps up with a brief discussion on how to plan for open data in the scientific workflow and tasks guided by the use, make, share framework.
+Esta lección define los datos abiertos, sus beneficios y las prácticas que permiten que los datos sean abiertos. In addition, the lesson takes a closer look at how FAIR applies to open data as well as at the criticall role of metadata. It wraps up with a brief discussion on how to plan for open data in the scientific workflow and tasks guided by the use, make, share framework.
 
 ## Objetivos de aprendizaje
 
