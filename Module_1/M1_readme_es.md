@@ -1,4 +1,4 @@
-# Módulo 1: Damos la Bienvenida al Ethos de la Ciencia Abierta
+# Bienvenidos y Bienvenidas al Ethos de la Ciencia Abierta
 
 **Bienvenidos y Bienvenidas al Ethos de la Ciencia Abierta**
 
