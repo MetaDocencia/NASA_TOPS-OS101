@@ -300,7 +300,7 @@ _Select each tab to find out more information._
             <ul>
                 <li>Report the data in community standard format.</li>
                 <li>Use existing standardized metadata if available to minimize "lost in translation" issues and support machine-readability.</li>
-                <li>The use of controlled terminologies, vocabularies, and ontologies is necessary to support interoperability, but may not yet be available in all research fields.</li>
+                <li>El uso de terminologías controladas, vocabularios y ontologías es necesario para respaldar la interoperabilidad, pero puede que aún no estén disponibles en todos los campos de investigación.</li>
             </ul>
         </td>
     </tr>
