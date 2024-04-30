@@ -11,26 +11,26 @@
 
 ## Visión general
 
-By the end of this lesson, you will be familiar with resources for open results utilization, how and when to cite the sources of the open results that you use, how to provide feedback to open results providers, and how to determine when it is appropriate to invite authors of the open results materials to be formal collaborators versus simply citing those resources in your work.
+Al final de esta lección, estará familiarizado con los recursos para la utilización de resultados abiertos, cómo y cuándo citar las fuentes de los resultados abiertos que utilice, cómo proporcionar retroalimentación a los proveedores de resultados abiertos y cómo determinar cuándo es apropiado invitar a los autores de los materiales de resultados abiertos a ser colaboradores formales en lugar de simplemente citar esos recursos en su trabajo.
 
-Published articles, blog posts, and forums can lead to new ideas for your own research. A technique learned from social media can be applied to a use-case that you are trying to solve. There are many different ways to discover results.
+Los artículos publicados, las entradas de blog y los foros pueden aportarle nuevas ideas para su propia investigación. Una técnica aprendida de las redes sociales puede aplicarse a un caso de uso que está tratando de resolver. Hay muchas formas diferentes de descubrir resultados.
 
-## Learning Objectives
+## Objetivos de Aprendizaje del Módulo
 
-After completing this lesson, you should be able to:
+Después de completar este módulo, deberías ser capaz de:
 
-- Identify a variety of open results sources including both published science research and non-traditional sources.
-- Evaluate the reliability and quality of open results sources based on key characteristics.
-- List the responsibilities of an open results user, including providing feedback to open results developers.
-- List the ways to cite open results into your own research process.
+- Identificar una variedad de fuentes de resultados abiertos, incluyendo investigaciones científicas publicadas y fuentes no tradicionales.
+- Evaluar la fiabilidad y la calidad de las fuentes de resultados abiertos basándose en características clave.
+- Enumerar las responsabilidades de personas que usan resultados abiertos, incluido el envío de comentarios a los desarrolladores de resultados abiertos.
+- Listar las formas de citar resultados abiertos en su propio proceso de investigación.
 
-## How to Discover Open Results
+## Cómo descubrir resultados abiertos
 
-How do I learn about the state of research for a particular field? How do you engage in the current conversation? Researchers often begin with a search of peer-reviewed articles. This review tells you how much research has been done in a field and what conclusions have recently been reached. In most fields, going through the peer-review process can take up to a year. The ability to find pre-prints can help reduce this delay because they offer the latest findings before a publication date. However, researchers who choose to share their results before publication typically do so in the ways listed as best practices above. As you start research on a topic, how do you find all these different types of results and engage in the most relevant research?
+¿Cómo puedo conocer el estado de la investigación en un campo concreto? ¿Cómo participar en la conversación actual? Los investigadores a menudo comienzan con una búsqueda de artículos revisados por pares. Esta revisión le indica cuánta investigación se ha realizado en un campo y qué conclusiones se han alcanzado recientemente. En la mayoría de los campos, el proceso de revisión por pares puede tardar hasta un año. La posibilidad de encontrar preprints puede ayudar a reducir este retraso, ya que ofrecen los últimos hallazgos antes de una fecha de publicación. Sin embargo, los investigadores que deciden compartir sus resultados antes de la publicación suelen hacerlo de las formas indicadas anteriormente como mejores prácticas. Al empezar a investigar sobre un tema, ¿cómo encontrar todos estos tipos diferentes de resultados y dedicarse a la investigación más pertinente?
 
-### Example: Exoplanets
+### Ejemplo: Exoplanetas
 
-The various stages of research, from conceptualization to dissemination of results, produce products that can be put into the public domain as "Open Results". Where these results are archived, and to what degree, depends on the discipline author. However, some general guidelines on where to start a search on open results include:
+Las distintas etapas de la investigación, desde la conceptualización hasta la difusión de los resultados, generan productos que pueden ponerse en el dominio público como «resultados abiertos». Where these results are archived, and to what degree, depends on the discipline author. However, some general guidelines on where to start a search on open results include:
 
 1. Scholarly Search Portals
 2. Web Searches
