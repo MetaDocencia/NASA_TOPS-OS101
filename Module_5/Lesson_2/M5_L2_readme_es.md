@@ -1,15 +1,15 @@
-# Lesson 2: Using Open Results
+# Lección 2: Uso de datos abiertos
 
-## Navigation
+## Temas a desarrollar
 
-- [How to Discover Open Results](#how-to-discover-open-results)
-- [How to Assess Open Results](#how-to-assess-open-results)
-- [How to Use Open Results](#how-to-use-open-results)
-- [How to Cite Open Results](#how-to-cite-open-results)
-- [Lesson 2: Summary](#lesson-2-summary)
-- [Lesson 2: Knowledge Check](#lesson-2-knowledge-check)
+- Cómo descubrir resultados abiertos
+- Cómo evaluar resultados abiertos
+- Cómo usar resultados abiertos
+- Cómo citar resultados abiertos
+- [Lección 2: Resumen](#leccion-2-resumen)
+- [Lección 2: Evaluación](#lección-2-Evaluación)
 
-## Overview
+## Visión general
 
 By the end of this lesson, you will be familiar with resources for open results utilization, how and when to cite the sources of the open results that you use, how to provide feedback to open results providers, and how to determine when it is appropriate to invite authors of the open results materials to be formal collaborators versus simply citing those resources in your work.
 
