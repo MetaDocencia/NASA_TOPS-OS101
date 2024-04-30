@@ -310,45 +310,45 @@ _Select each tab to find out more information._
 <table>
   <thead>
     <tr>
-        <th>FINDABLE</th>
-        <th>ACCESSIBLE</th>
-        <th>INTER-OPERABLE</th>
-        <th>REUSABLE ☑</th>
+        <th>LOCALIZABLE</th>
+        <th>ACCESIBLE</th>
+        <th>INTEROPERABLE</th>
+        <th>REUTILIZABLE ☑</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="4">
-            <p>To ensure that data are reusable by those in your community:</p>
+            <p>Garantizar que los datos sean reutilizables por los miembros de tu comunidad:</p>
             <ul>
-                <li>Ensure that metadata accurately describes the data and its variables as well as any particularities or limitations.</li>
-                <li>Specify clear usage licenses for your data.</li>
-                <li>Provide accurate information on provenance in your metadata.</li>
-                <li>Add enough metadata information so that your data can be properly cited when it is used.</li>
+                <li>Asegúrate de que los metadatos describan con precisión los datos y sus variables, así como cualquier particularidad o limitación.</li>
+                <li>Especifica licencias de uso claras para tus datos.</li>
+                <li>Proporciona información precisa sobre la procedencia en tus metadatos.</li>
+                <li>Agrega suficiente información en los metadatos para que tus datos puedan ser citados correctamente cuando se utilicen.</li>
             </ul>
         </td>
     </tr>
   </tbody>
 </table>
 
-### Metadata's Central Role in Applying FAIR
+### El papel central de los metadatos en la aplicación de los principios FAIR
 
-Metadata are important for search engines to find data and for people to be able to easily compare what is returned.
+Los metadatos son importantes para que los motores de búsqueda encuentren datos y para que las personas puedan comparar fácilmente lo que se devuelve.
 
-- Metadata are essential to the implementation of FAIR Principles and enable the data to be used by machines in an automated fashion.
-- The richer and more self-describing metadata are, the better they will be handled by anyone who is interested in your data.
+- Los metadatos son esenciales para la aplicación de los Principios FAIR y permiten que los datos sean utilizados por las máquinas de forma automatizada.
+- Cuanto más ricos y autodescriptivos sean los metadatos, mejor serán manejados por cualquiera que esté interesado en tus datos.
 
-### Licensing Data
+### Licencias de datos
 
-A license is a legal document that tells users how they can use a particular dataset. If you don’t license your dataset, others can’t/shouldn’t re-use it - even if you want them to! It is imperative to understand the licensing conditions of a dataset before data reuse. Without a good understanding of what a license allows, data users may run into copyright infringement or other intellectual property issues.
+Una licencia es un documento legal que indica a los usuarios cómo pueden utilizar un conjunto de datos en particular. Si no licencias tu trabajo, otros no podrán o no deberían reutilizarlo, ¡aunque lo quieras! Es imprescindible conocer las condiciones de licencia de un conjunto de datos antes de reutilizarlos. Sin una buena comprensión de lo que permite una licencia, los usuarios de datos pueden enfrentarse a problemas de infracción de derechos de autor u otros problemas de propiedad intelectual.
 
-To ensure open reuse of your data, you can use an open license. An open license has language that describes the user’s ability to access, reuse and redistribute the dataset. There are many types of data licenses that are open to varying degrees, and these will be discussed further in the lesson "Making Open Data".
+Para asegurar la reutilización libre de tus datos, puedes recurrir a una licencia abierta. Una licencia abierta contiene un lenguaje que describe la capacidad del usuario para acceder, reutilizar y redistribuir el conjunto de datos. Hay muchos tipos de licencias de datos que tienen distintos grados de apertura, y que se tratarán con más detalle en la lección "Creación de datos abiertos".
 
-## Planning for Openness: Using the Use, Make, Share Framework for Open Data
+## Planificar la apertura: Utilización del marco "Usar, hacer, compartir" para Código Abierto
 
-### Open Science and Data Management Plans
+### Planificar proyectos de ciencia abierta y gestión de datos
 
-Most scientific funding agencies and organizations ask for a plan for sharing your research when you propose a project. One example of an open science plan is the Open Science and Data Management Plan ([OSDMP](https://science.nasa.gov/researchers/sara/faqs/osdmp)) for NASA's Science Mission Directorate (SMD) that describes how the scientific information that will be produced from scientific activities will be managed and made openly available. The OSDMP includes sections on data management, software management, and publication sharing; the latter two will be discussed in future modules. If your study has other types of outputs, such as physical samples, hardware, or anything else, you should include those in the plan too. More information and templates can be found [here](https://github.com/nasa/smd-open-science-guidelines/blob/main/OSS_Guidance/OSDMP.md#osdmp-templates).
+La mayoría de las agencias y organismos de financiamiento científico solicitan un plan de difusión de los resultados cuando se propone un proyecto de investigación. Un ejemplo de un plan de ciencia abierto es el Plan de Ciencia Abierta y Gestión de Datos ([OSDMP](https://science.nasa. ov/investigadores/sara/faqs/osdmp)) de la Dirección de Misión de Ciencia de la NASA (SMD) que describe cómo se gestionará y pondrá a disposición del público la información producida a partir de las actividades científicas. El OSDMP incluye secciones sobre gestión de datos, gestión de software e intercambio de publicaciones; estas dos últimas se tratarán en futuros módulos. Si tu estudio tiene otros tipos de resultados, como muestras físicas, hardware o cualquier otra cosa, también debes incluirlos en el plan. More information and templates can be found [here](https://github.com/nasa/smd-open-science-guidelines/blob/main/OSS_Guidance/OSDMP.md#osdmp-templates).
 
 A best practice when beginning your open data journey is to create a Data Management Plan, or DMP which goes within the OSDMP. This describes how you will manage, preserve, and release data, during and after a research project. Common elements of DMPs relevant to open data include a description of the following:
 
