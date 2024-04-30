@@ -374,7 +374,7 @@ There is no single approach for recognizing contributors as authors, but here is
   <tbody>
     <tr>
         <td colspan="2">
-            <p>The NIH guidelines for authorship outline what type of contribution does or does not warrant authorship. Each contribution is represented on a sliding scale and has no rigid cutoffs. Some contributions are given more weight than others. For example, for "design and interpretation of results", nearly all types of "original ideas, planning, and input" result in authorship. Whereas simply supervising the 1st author usually does not result in authorship (unless they are also contributing to the paper, of course). This is just one example. You will need to think about what this looks like for your own work!</p>
+            <p>The NIH guidelines for authorship outline what type of contribution does or does not warrant authorship. Cada contribución se representa en una escala móvil y no tiene límites rígidos. Algunas contribuciones tienen más peso que otras. Por ejemplo, para "diseño e interpretación de resultados", casi todos los tipos de "ideas originales, planificaciones y aportes" resultan en autoría. Mientras que la simple supervisión del primer autor generalmente no resulta en autoría (a menos que también estén contribuyendo al artículo, por supuesto). Este es solo un ejemplo. You will need to think about what this looks like for your own work!</p>
         </td>
     </tr>
   </tbody>
