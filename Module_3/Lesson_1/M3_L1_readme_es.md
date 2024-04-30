@@ -348,25 +348,25 @@ Para asegurar la reutilización libre de tus datos, puedes recurrir a una licenc
 
 ### Planificar proyectos de ciencia abierta y gestión de datos
 
-La mayoría de las agencias y organismos de financiamiento científico solicitan un plan de difusión de los resultados cuando se propone un proyecto de investigación. Un ejemplo de un plan de ciencia abierto es el Plan de Ciencia Abierta y Gestión de Datos ([OSDMP](https://science.nasa. ov/investigadores/sara/faqs/osdmp)) de la Dirección de Misión de Ciencia de la NASA (SMD) que describe cómo se gestionará y pondrá a disposición del público la información producida a partir de las actividades científicas. El OSDMP incluye secciones sobre gestión de datos, gestión de software e intercambio de publicaciones; estas dos últimas se tratarán en futuros módulos. Si tu estudio tiene otros tipos de resultados, como muestras físicas, hardware o cualquier otra cosa, también debes incluirlos en el plan. More information and templates can be found [here](https://github.com/nasa/smd-open-science-guidelines/blob/main/OSS_Guidance/OSDMP.md#osdmp-templates).
+La mayoría de las agencias y organismos de financiamiento científico solicitan un plan de difusión de los resultados cuando se propone un proyecto de investigación. Un ejemplo de un plan de ciencia abierto es el Plan de Ciencia Abierta y Gestión de Datos ([OSDMP](https://science.nasa. ov/investigadores/sara/faqs/osdmp)) de la Dirección de Misión de Ciencia de la NASA (SMD) que describe cómo se gestionará y pondrá a disposición del público la información producida a partir de las actividades científicas. El OSDMP incluye secciones sobre gestión de datos, gestión de software e intercambio de publicaciones; estas dos últimas se tratarán en futuros módulos. Si tu estudio tiene otros tipos de resultados, como muestras físicas, hardware o cualquier otra cosa, también debes incluirlos en el plan. Puedes encontrar más información y modelos [aquí](https://github.com/nasa/smd-open-science-guidelines/blob/main/OSS_Guidance/OSDMP.md#osdmp-templates).
 
-A best practice when beginning your open data journey is to create a Data Management Plan, or DMP which goes within the OSDMP. This describes how you will manage, preserve, and release data, during and after a research project. Common elements of DMPs relevant to open data include a description of the following:
+Una buena práctica al comenzar tu viaje con datos abiertos es crear un Plan de Gestión de Datos (PGD). En él se describe cómo se gestionarán, preservarán y publicarán los datos durante y después de un proyecto de investigación. Los elementos comunes a todos los Planes de Gestión de Datos (PGD) relevantes para datos abiertos incluyen una descripción teniendo en cuenta lo siguiente:
 
-|        |                                                                                                 |
-| ------ | ----------------------------------------------------------------------------------------------- |
-| What?  | Data types, volume, formats, and (where relevant) standards. |
-| When?  | The schedule for data archiving and sharing.                                    |
-| Where? | The intended repositories for archived data.                                    |
-| How?   | How the plan enables long- term preservation of the data.                       |
-| Who?   | Roles and responsibilities of the team members in implementing the DMP.         |
+|           |                                                                                                                     |
+| --------- | ------------------------------------------------------------------------------------------------------------------- |
+| ¿Qué?     | Formato y (si es relevante) estándares de datos.                                 |
+| ¿Cuando?  | El cronograma para archivar y compartir.                                                            |
+| ¿Dónde?   | Los repositorios destinados a datos archivados.                                                     |
+| ¿Cómo?    | Cómo el plan permite la conservación a largo plazo de los datos.                                    |
+| ¿Quiénes? | Roles y responsabilidades de las personas que forman parte del equipo en la implementación del PGD. |
 
-Investigate if your home institution or funding source has guidance, standards, or templates for DMPs. Other organizations have DMP guidelines and examples as well:
+Consulta si tu institución o tu organismo de financiación dispone de pautas, normas o modelos para PGDs. Sino, hay entidades que también disponen de guías y muestras de PGD, como ser:
 
 - [USGS](https://www.usgs.gov/data-management/data-management-plans)
 - [NOAA](https://marinedebris.noaa.gov/sites/default/files/DataManagementPlanGuidance%26Sample.pdf)
 - [NSF](https://new.nsf.gov/funding/data-management-plan)
 
-More details about how to create these plans will be provided in the lesson "From Theory to Practice".
+Se proporcionarán más detalles sobre cómo crear estos planes en la lección "De la teoría a la práctica".
 
 ### Scientiﬁc Workﬂow
 
@@ -445,63 +445,63 @@ Making data open (and FAIR) is a group effort – everybody in the data pipeline
 
 ## Lección 1: Resumen
 
-In this lesson, you learned:
+En esta lección, aprendiste:
 
-- Open data is an essential pillar of open science. Openly sharing data with others enables reproducibility, transparency, validation, reuse, and collaborations.
-- Several challenges to creating open data exist, but most have straightforward mitigation measures.
-- FAIR principles can be applied to data to make them more open.
-- Open-data principles and tasks are used throughout the entire scientific workflow.
+- Los datos abiertos son un pilar esencial de la ciencia abierta. Compartir abiertamente los datos con otros permite la reproducibilidad, la transparencia, la validación, la reutilización y colaboraciones.
+- Hay varios retos para la creación de datos abiertos, pero la mayoría tienen medidas sencillas de solución.
+- Los principios FAIR se pueden aplicar a los datos para hacerlos más abiertos.
+- Los principios y tareas relacionados con los datos abiertos se utilizan en todo el flujo del trabajo científico.
 
 ## Lección 1: Evaluación
 
-Answer the following questions to test what you have learned so far.
+Responde las siguientes preguntas para poner a prueba lo que ha aprendido hasta ahora.
 
-_Question_
+_Pregunta_
 
 **01/04**
 
-Read the statement and decide whether it is true or false.
+Lee la siguiente afirmación e indica si es Verdadera o Falsa.
 
-_Open data can be freely used, re-used and redistributed by anyone - subject, at most, to the requirement to attribute and share alike._
+_Los datos abiertos pueden ser libremente utilizados, reutilizados y redistribuidos por cualquiera, sujeto, como mucho, al requisito de atribuir y compartir por igual._
 
-- True
-- False
+- Verdadero
+- Falso
 
 _Pregunta_
 
 **02/04**
 
-Finish the sentence:
+Termina esa frase:
 
-_Making data open helps YOU because _____._
+_Hacer que los datos estén abiertos te ayuda porque _____._
 
-- your data can be cited and you will get credit
-- you won’t lose access to your data, even if you move institutions
-- your publications are more likely to get cited when you link to open data
-- all of the above
+- tus datos pueden ser citados y se te reconocerá el mérito
+- no perderás el acceso a tus datos, incluso si cambias de institución
+- tus publicaciones tienen más probabilidades de ser citadas cuando se vinculan a datos abiertos
+- todas las anteriores
 
 _Pregunta_
 
 **03/04**
 
-Choose the FAIR Principles from the list below. Select all that apply.
+Seleccione los principios FAIR de la siguiente lista. Selecciona todos los que correspondan.
 
-- Reproducible
-- Reusable
-- Responsible
-- Findable
-- Interactive
+- Reproducibilidad
+- Reutilizable
+- Responsable
+- Localizable
+- Interactivo
 - Interoperable
-- Interspersed
-- Accessible
-- Authorizable
+- Interpolado
+- Accesible
+- Autorizable
 
 _Pregunta_
 
 **04/04**
 
-Which of the following can help make your data FAIR? Select all that apply.
+¿Cuál de las siguientes opciones puede ayudar a que tus datos sean FAIR? Selecciona todos los que correspondan.
 
-- Get a license for your data
-- Develop your own metadata
-- Obtain a PID for your data
+- Obtener una licencia para tus datos
+- Desarrollar tus propios metadatos
+- Obtener un PID para tus datos
