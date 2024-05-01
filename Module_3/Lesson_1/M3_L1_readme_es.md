@@ -210,49 +210,49 @@ Todas estas son preocupaciones válidas cuando se comparten datos abiertamente, 
 
 En última instancia, tú eres libre de implementar los principios y recursos de datos abiertos en tu investigación para maximizar su impacto y cumplir con las expectativas de tus patrocinadores y la comunidad mientras administras los costos.
 
-## Applying FAIR Principles
+## Aplicar Principios FAIR
 
 <img src="../images/media/image9.png" style="width:100%;height:auto;" />
 
-Image by Patrick Hochstenbach, CC0 1.0; image illustrates the each FAIR principle
+Imagen de Patrick Hochstenbach, CC0 1.0; La imagen ilustra cada principio FAIR.
 
 ---
 
-### FAIR: Findable, Accessible, Interoperable, Reusable
+### FAIR: Encontrable, Accesible, Interoperable, Reutilizable
 
-The vast majority of data today is shared online. FAIR principles help researchers make better use of, and engage with a broader audience with, their scientific data than outdated techniques would allow. FAIR data are more valuable for science because they are easier to use. Data can be FAIR regardless of whether it is openly shared or not. If data are openly shared, being FAIR helps with reuse and expands the scientific impact of the data.
+La gran mayoría de los datos actuales se comparten en línea. Los principios FAIR ayudan a los investigadores a hacer un mejor uso de sus datos científicos y a interactuar con una audiencia más amplia de lo que permitirían las técnicas obsoletas. Los datos FAIR son más valiosos para la ciencia porque son más fáciles de usar. Los datos pueden ser FAIR independientemente de si se comparten abiertamente o no. Si los datos se comparten abiertamente, ser FAIR ayuda con la reutilización y amplía el impacto científico de los datos.
 
-FAIR principles don’t encompass comprehensive implementation instructions for every type of data, but offer general insights to improve shareability and reusability. Sometimes it takes a group effort and/or a long production process to make data and results FAIR. The process starts in the planning stage of a research project. A well-coordinated open science and data management plan is often needed for full compliance with FAIR, depending on the size and type of project the data are used for.
+Los principios FAIR no abarcan instrucciones de implementación integrales para cada tipo de datos, pero ofrecen información general para mejorar la capacidad de compartir y reutilizar. A veces se necesita un esfuerzo grupal y/o un largo proceso de producción para que los datos y los resultados sean FAIR. El proceso comienza en la etapa de planificación de un proyecto de investigación. A menudo se necesita un plan de gestión de datos y ciencia abierta bien coordinado para cumplir plenamente con FAIR, dependiendo del tamaño y el tipo de proyecto para el que se utilizan los datos.
 
-**Up-to-date information about FAIR Principles can be found at the GO FAIR Initiative website**
+**Puede encontrar información actualizada sobre los principios FAIR en el sitio web de la iniciativa GO FAIR**
 
-[CLICK TO LEARN](https://www.go-fair.org/)
+[CLICK PARA APRENDER](https://www.go-fair.org/)
 
-Let's review how to make data FAIR for your community.
+Repasemos cómo hacer que los datos sean FAIR para tu comunidad.
 
-_Select each tab to find out more information._
+_Seleccione cada pestaña para obtener más información._
 
 <table>
   <thead>
     <tr>
-        <th>FINDABLE ☑</th>
-        <th>ACCESSIBLE</th>
-        <th>INTER-OPERABLE</th>
-        <th>REUSABLE</th>
+        <th>ENCONTRABLE ☑</th>
+        <th>ACCESIBLE</th>
+        <th>INTEROPERABLE</th>
+        <th>REUTILIZABLE</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="4">
-            <p>To ensure that data are findable by those in your community:</p>
+            <p>Para garantizar que los miembros de tu comunidad puedan encontrar los datos:</p>
             <ul>
-            <li>Deposit data in repositories to preserve the data over time.</li>
-            <li>Assign your dataset a persistent identifier (PID), such as a digital object identifier (DOI).</li>
-            <li>Add rich, self-describing metadata in your data files and register the metadata in a metadata catalog that will enable your data to be properly curated.</li>
+            <li>Deposita datos en repositorios para preservarlos a lo largo del tiempo.</li>
+            <li>Asigne a tu conjunto de datos un identificador persistente (PID), como un identificador de objeto digital (DOI).</li>
+            <li>Agregue metadatos enriquecidos y autodescriptivos en tus archivos de datos y registre los metadatos en un catálogo de metadatos que permitirá que tus datos se seleccionen adecuadamente.</li>
                 <ul>
-                <li>Note that some images or binary files cannot be readily indexed or searched and will need to have companion metadata files or dictionaries to ensure they can be discovered in a search.</li>
+                <li>Ten en cuenta que algunas imágenes o archivos binarios no se pueden indexar ni buscar fácilmente y necesitarán archivos de metadatos o diccionarios complementarios para garantizar que se puedan descubrir en una búsqueda.</li>
                 </ul>
-            <li>Automate the sharing of your metadata with targeted communities, if applicable.</li>
+            <li>Automatiza el intercambio de sus metadatos con comunidades específicas, si corresponde.</li>
             </ul>
         </td>
     </tr>
@@ -262,21 +262,21 @@ _Select each tab to find out more information._
 <table>
   <thead>
     <tr>
-        <th>FINDABLE</th>
-        <th>ACCESSIBLE ☑</th>
-        <th>INTER-OPERABLE</th>
-        <th>REUSABLE</th>
+        <th>ENCONTRABLE</th>
+        <th>ACCESIBLE ☑</th>
+        <th>INTEROPERABLE</th>
+        <th>REUTILIZABLE</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="4">
-            <p>To ensure that data can be accessed by those in your community:</p>
+            <p>Para garantizar que los miembros de tu comunidad puedan acceder a los datos:</p>
             <ul>
-                <li>Archive in a data repository/data center with standardized access protocols.</li>
-                <li>Repository access protocols should be well-defined and ideally should support machine-to-machine access.</li>
-                <li>Provide information on how users can access your data, ideally in an automated, machine-based fashion.</li>
-                <li>If the full content cannot be made openly available for any reason (data sensitivity, infrequent data access, file storage issues), the metadata can still be made openly available so that users can find out who they need to contact to request the data (if possible).</li>
+                <li>Archivar en un repositorio de datos/centro de datos con protocolos de acceso estandarizados.</li>
+                <li>Los protocolos de acceso al repositorio deben estar bien definidos e idealmente deberían admitir el acceso de máquina a máquina.</li>
+                <li>Proporciona información sobre cómo los usuarios pueden acceder a tus datos, idealmente de forma automatizada y basada en máquinas.</li>
+                <li>Si el contenido completo no puede estar disponible abiertamente por algún motivo (sensibilidad de los datos, acceso poco frecuente a los datos, problemas de almacenamiento de archivos), los metadatos aún pueden estar disponibles abiertamente para que los usuarios puedan averiguar a quién deben contactar para solicitar los datos (de ser posible).</li>
             </ul>
         </td>
     </tr>
@@ -286,19 +286,19 @@ _Select each tab to find out more information._
 <table>
   <thead>
     <tr>
-        <th>FINDABLE</th>
-        <th>ACCESSIBLE</th>
-        <th>INTER-OPERABLE ☑</th>
-        <th>REUSABLE</th>
+        <th>ENCONTRABLE</th>
+        <th>ACCESIBLE</th>
+        <th>INTEROPERABLE ☑</th>
+        <th>REUTILIZABLE</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="4">
-            <p>To ensure that data are interoperable for those in your community:</p>
+            <p>Para garantizar que los datos sean interoperables para aquellos en tu comunidad:</p>
             <ul>
-                <li>Report the data in community standard format.</li>
-                <li>Use existing standardized metadata if available to minimize "lost in translation" issues and support machine-readability.</li>
+                <li>Reporta los datos en formato estándar comunitario.</li>
+                <li>Utiliza metadatos estandarizados existentes, si están disponibles, para minimizar los problemas de "pérdida en la traducción" y respaldar la legibilidad automática.</li>
                 <li>El uso de terminologías controladas, vocabularios y ontologías es necesario para respaldar la interoperabilidad, pero puede que aún no estén disponibles en todos los campos de investigación.</li>
             </ul>
         </td>
