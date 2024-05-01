@@ -37,25 +37,25 @@ Las distintas etapas de la investigación, desde la conceptualización hasta la 
 
 **Portales de búsqueda académica**
 
-Search engines like Google and Bing have radically changed how we look up information. For research results, specialized academic search engines and portals curate scientific results from researchers based on topic and field. These engines are useful for finding peer-reviewed articles.
+Los motores de búsqueda como Google y Bing han cambiado radicalmente la forma en que buscamos información. Para los resultados de la investigación, los buscadores y portales académicos especializados recopilan los resultados científicos de los investigadores por temas y campos. Estos motores son útiles para encontrar artículos revisados por pares.
 
 <table>
   <thead>
     <tr>
-        <th>GENERIC ☑</th>
-        <th>DISCIPLINE-SPECIFIC</th>
+        <th>GENÉRICO ☑</th>
+        <th>DISCIPLINA ESPECÍFICA</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="2">
             <ul>
-                <li><a href="https://scholar.google.com/">Google Scholar</a></li>
+                <li><a href="https://scholar.google.com/">Google Académico</a></li>
                 <li><a href="https://ui.adsabs.harvard.edu/">ADS</a></li>
                 <li><a href="https://www.scopus.com/">Scopus</a></li>
-                <li>Web of Knowledge</li>
-                <li><a href="https://openknowledgemaps.org/">Open knowledge map</a> - facilitates exploration of interconnected topics</li>
-                <li><a href="https://www.jstor.org/">JSTOR</a> - a wide range of scholarly content</li>
+                <li>Red de conocimiento (Web of Knowledge)</li>
+                <li><a href="https://openknowledgemaps.org/">Mapa abierto de conocimientos (Open knowledge map)</a> - facilita la exploración de temas interconectados</li>
+                <li><a href="https://www.jstor.org/">JSTOR</a> - una amplia gama de contenido científico</li>
                 <li><a href="https://www.researchgate.net/search">ResearchGate</a></li>
                 <li><a href="https://sciencecast.org/">ScienceCast</a></li>
             </ul>
@@ -67,15 +67,15 @@ Search engines like Google and Bing have radically changed how we look up inform
 <table>
   <thead>
     <tr>
-        <th>GENERIC</th>
-        <th>DISCIPLINE-SPECIFIC ☑</th>
+        <th>GENÉRICO</th>
+        <th>DISCIPLINA ESPECÍFICA ☑</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="2">
             <ul>
-                <li><a href="https://europepmc.org/">EuropePMC Life sciences</a></li>
+                <li><a href="https://europepmc.org/">EuropePMC ciencias de la vida (EuropePMC Life sciences)</a></li>
                 <li><a href="https://pubmed.ncbi.nlm.nih.gov/">Pubmed biomedical literature</a></li>
                 <li><a href="https://arxiv.org/">arXiv</a> - for scholarly pre-prints in STEM, economics and computer science fields</li> 
                 <li><a href="https://www.biorxiv.org/">Biorxiv Preprint</a> - server for biology</li>
