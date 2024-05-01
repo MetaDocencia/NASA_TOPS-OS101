@@ -205,7 +205,7 @@ Repensemos su proceso de investigación. Identifique los objetos de investigaci�
 - Recopilación de datos
 - Manipulación de datos
 - Exploración de los datos
-- Protección / Conservación
+- Protección / Almacenamiento
 - Informes y publicación
 
 **La aplicación de los principios de la ciencia abierta en todas las etapas del proceso de investigación tiene muchas ventajas personales**
@@ -229,51 +229,51 @@ Pensar en compartir todo de forma inmediata, puede resultar agotador cuando se e
 - **Recopilación de datos:** Los datos sin procesar pueden compartirse a través de repositorios de datos.
 - **Gestión de Datos:** El código puede compartirse a través de repositorios de software.
 - **Exploración de datos:** Las guias de los procesos (notebooks), pueden ser compartidas a través de GitHub y publicadas en Zenodo.
-- **Preservation:** Data management plans for archiving can be posted on Zenodo.
-- **Reporting & Publication:**
-  - Open access peer-reviewed articles
-  - Computational notebooks
-  - Code of conduct, contributor guidelines, publication policies
-  - Blog posts
-  - Short form videos and podcasts
-  - Social media posts
-  - Conference abstracts, posters, and presentations (when made openly available)
-  - Forum discussions
+- **Almacenamiento:** Los planes de gestión de datos para almacenamiento de la información pueden publicarse en Zenodo.
+- \*\*Informes y publicación
+  - Libre acceso a artículos revisados para publicaciones
+  - Guias de Procedimientos (Jupyter Notebooks..???)
+  - Código de conducta, instrucciones para colaboradores, políticas de publicación
+  - Publicaciones en Blogs
+  - Vídeos de corta duración y podcasts
+  - Publicaciones en redes sociales
+  - Resúmenes de conferencias, pósters y presentaciones (cuando estén disponibles públicamente)
+  - Foros de discusión
 
-## Lesson 1: Summary
+## Lección 1: Resumen
 
-In this lesson, you learned that:
+En esta lección, aprendiste que:
 
-- The contemporary scientific workflow involves being open about processes and products. Research products (results) include far more than just the final manuscript, which is a drastic change from the historical notion of a scientific result.
-- At every stage of the research lifecycle, there are research objects produced that we can consider results.
-- We can combat the reproducibility crisis by sharing these research objects at each stage of our research workflow.
-- There are amazing examples of research groups sharing different types of open results!
+- El proceso de desarrollo de la investigación científica contemporánea implica ser abierto en cuanto a procesos y productos. Los productos (resultados) de la investigación incluyen mucho más que el informe final, lo que supone un cambio drástico respecto a la noción histórica de resultado científico.
+- En cada etapa del proceso de desarrollo de la investigación se producen resultados que podemos considerar objetos de investigación.
+- Podemos combatir la crisis de reproducibilidad compartiendo estos objetos de investigación en cada etapa de nuestro proceso de desarrollo de la investigación.
+- Existen ejemplos asombrosos de grupos de investigación, que comparten distintos tipos de resultados de acceso abierto!
 
-Let's start thinking about what we can do immediately to work towards an open research workflow.
+Empecemos a pensar en lo que podemos hacer inmediatamente, para avanzar hacia los procesos de desarrollo de investigación abierta.
 
-## Lesson 1: Knowledge Check
+## Lección 1: Validación / Verificación de conocimientos
 
-Answer the following questions to test what you have learned so far.
+Responde a las siguientes preguntas para comprobar lo que has aprendido hasta ahora.
 
-_Question_
+_Pregunta_
 
 **01/02**
 
-Which of the following may fit the definition of a "research object"?
+De las siguientes opciones, ¿Cuál se ajusta a la definición de «objeto de investigación»?
 
-- Raw data
-- Blog
-- Proposal
-- Code of Conduct
-- All of the above
+- Datos sin procesar
+- Blog / Publicación
+- Propuesta
+- Código de conducta
+- Todo lo anterior
 
-_Question_
+_Pregunta_
 
 **02/02**
 
-What are some of the key causes of the reproducibility crisis?
+¿Cuáles son algunas de las principales causas de la crisis de reproducibilidad?
 
-- Intermediate methods of research are often described informally or not at all.
-- Intermediate data are often omitted entirely.
-- We often only think about results at the time of publication.
-- All of the above
+- Los métodos intermedios de investigación suelen describirse de manera poco formal o no se describen en absoluto.
+- A menudo se omiten por completo los datos intermedios.
+- A menudo sólo pensamos en los resultados en el momento de la publicación.
+- Todo lo anterior
