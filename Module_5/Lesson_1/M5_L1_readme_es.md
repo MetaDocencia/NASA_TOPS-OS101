@@ -120,37 +120,37 @@ From '2003: let's map the UK to 2023:\>1.5M contributors, 100M+ edits, using the
 
 ### New Visualizations to Share Results
 
-Matplotlib was developed around 2002 by post-doc John Hunter to visualize some neurobiology data he was working on. He wasn't a software developer, he was a neurobiologist! He could have just published the paper in a peer-reviewed journal, and maybe shared his code to create the figures, but instead he started an open project on GitHub and thought, 'well if this is useful to me, maybe it will be useful to others...'.
+Matplotlib was developed around 2002 by post-doc John Hunter to visualize some neurobiology data he was working on. El no era desarrollador de software, ¡era neurobiólogo! Podría haberse limitado a publicar el artículo en una revista revisada por pares, y tal vez haber compartido su código para crear las figuras, pero en lugar de eso inició un proyecto abierto en GitHub y pensó: «bueno, si esto es útil para mí, tal vez lo sea para otros...».
 
 <img src="../images/media/image12.jpeg" style="width:100%;height:auto;" />
 
-Source: [https://medium.com/dataseries/mastering-matplotlib-part-1-a480109171e3](https://medium.com/dataseries/mastering-matplotlib-part-1-a480109171e3)
+Fuente: [https://medium.com/dataseries/mastering-matplotlib-part-1-a480109171e3](https://medium.com/dataseries/mastering-matplotlib-part-1-a480109171e3)
 
 ---
 
-Matplotlib is now the most widely used plotting library for the Python programming language and a core component of the scientific Python stack, along with NumPy, SciPy and IPython. Matplotlib was used for data visualization during the 2008 landing of the Phoenix spacecraft on Mars and for the creation of the first image of a black hole.
+Matplotlib es actualmente la biblioteca de gráficos más utilizada del lenguaje de programación Python y un componente básico de la plataforma científica Python, junto con NumPy, SciPy e IPython. Matplotlib se utilizó para la visualización de datos durante el aterrizaje de la nave Phoenix en Marte en 2008 y para la creación de la primera imagen de un agujero negro.
 
-### JWST Case Study: Reporting and Publication
+### Estudio del caso/proyecto JWST: Informes y publicaciones
 
-And last but not least, we have the example for the JWST Early Release Science team from Module 1 on how they reported their results. This came in various forms from publishing a peer review paper, preprints, blog posts, and social media. Their peer-reviewed publication was published open access in Nature along with a preprint through arXiv.
+Y por último, pero no por ello menos importante, tenemos el ejemplo del equipo científico del JWST del Módulo 1 sobre cómo informaron sus resultados. Esto se produjo de varias formas, desde la publicación de un artículo de revisión por pares, preprints, publicaciones en blogs y redes sociales. Su publicación revisada por pares se publicó en formato de libre acceso en Nature junto con una preimpresión a través de arXiv.
 
-Open communication platforms furthered the reach and audience of results.
+Las plataformas de comunicación abiertas ampliaron el alcance y la audiencia de los resultados.
 
 <img src="../images/media/image13.jpeg" style="width:100%;height:auto;" />
 
-Figure Credit: https://arxiv.org/abs/2208.11692
+Fuente: https://arxiv.org/abs/2208.11692
 
 ---
 
-The public is interested in what you are doing, and reaching them can involve communication through traditional and new platforms. Publishing results on platforms such as Twitter/X, Youtube, TikTok, blogs, websites, and other social media platforms is becoming more common. Awareness through social media drastically increases the reach and audience of your work. There have been studies on how this impacts citation rates. For example, The Journal of Medical Internet Research (JMIR) conducted a three-year [study](https://www.jmir.org/) of the relative success of JMIR articles in both Twitter and academic worlds. They found that highly tweeted articles were 11 times more likely to be highly cited than less tweeted articles.
+El público está interesado en lo que estás haciendo, y llegar a él, implica comunicación a través de plataformas tradicionales y nuevas. La publicación de resultados en plataformas como Twitter/X, Youtube, TikTok, blogs, sitios web y otras plataformas de medios sociales es cada vez más habitual. La difusión a través de las redes sociales aumenta drásticamente el alcance y la audiencia de tu trabajo. Se han realizado estudios sobre el impacto que esto tiene, en los índices de citas. Por ejemplo, The Journal of Medical Internet Research (JMIR) realizó por tres años un [estudio](https://www.jmir.org/) sobre el éxito relativo de los artículos de JMIR tanto en Twitter como en el mundo académico. Descubrieron que los artículos con mayor número de tweets tenían 11 veces mayor probabilidad de ser citados que los artículos con menos tweets.
 
-Open communication platforms noticeably furthered the reach and audience of results.
+Las plataformas de divulgación abiertas ampliaron notablemente el alcance y la audiencia de los resultados.
 
 <img src="../images/media/image14.jpeg" style="width:100%;height:auto;" />
 
-Twitter \#1: https://twitter.com/cornerof_thesky/status/1595086671275589632?s=20
+Twitter, ahora X \#1: https://twitter.com/cornerof_thesky/status/1595086671275589632?s=20
 
-Twitter \#2: https://twitter.com/V_Parmentier/status/1595127493199302656?s=20
+Twitter, ahora X \#2: https://twitter.com/V_Parmentier/status/1595127493199302656?s=20
 
 TikTok: https://www.tiktok.com/@astrojaket/video/7168878696906886405
 
@@ -158,33 +158,33 @@ YouTube: https://www.youtube.com/watch?v=cI-kM_wPbbQ
 
 ---
 
-## What is the Reproducibility Crisis?
+## ¿Qué es la crisis de la reproductibilidad?
 
-A 2016 [Nature survey](https://www.nature.com/articles/533452a) on reproducibility found that of 1,576 researchers, "More than 70% of researchers have tried and failed to reproduce another scientist's experiments, and more than half have failed to reproduce their own experiments. "The 'reproducibility crisis' in science is a growing concern over several reproducibility studies where previous positive results were not reproduced.
+En 2016 una [encuesta Nature](https://www.nature.com/articles/533452a) sobre reproducibilidad, encontró que, de 1576 investigadores, «Más del 70% de los investigadores han intentado y fracasado en reproducir los experimentos de otro científico, y más de la mitad, han fracasado en reproducir sus propios experimentos». «La “crisis de la reproducibilidad” en la ciencia es una preocupación creciente por varios estudios de reproducibilidad en los que no se reprodujeron resultados positivos anteriores.
 
-We must consider the full research workflow if we are to solve the reproducibility crisis. The fact that 70% of researchers could not reproduce other scientists' results is shocking, especially considering that the reproducibility of science is the cornerstone of the scientific method.
+Si queremos resolver la crisis de reproducibilidad, debemos tener en cuenta todo el flujo de trabajo de la investigación. El hecho, que el 70% de los investigadores no pudieran reproducir los resultados de otros científicos, resulta alarmante, sobre todo si se tiene en cuenta que la reproducibilidad de la ciencia, es la piedra angular del método científico.
 
 <img src="../images/media/image15.png" style="width:350px;height:auto;" />
 
-By now, it should be obvious that there are many personal incentives to implement open science principles throughout all stages of the research process. By making results open throughout, you increase your ability to reproduce your own results.
+A estas alturas, ya debería ser obvio que existan muchos incentivos personales, para aplicar los principios de la ciencia abierta, a lo largo de todas las etapas del proceso de investigación. Al hacer que los resultados sean abiertos en todo momento, aumenta la posibilidad de reproducir sus propios resultados.
 
-Although reproducibility of one's own results might sound like a trivial achievement, a [2016 Nature study](https://www.nature.com/articles/533452a) found that 50% of researchers are unable to reproduce their own experiments. This highlights the critical nature of the reproducibility crisis. This also has implications for research beyond the ability to improve your research.
+Aunque la reproducibilidad de los propios resultados pueda parecer un logro trivial, un [estudio de Nature de 2016](https://www.nature.com/articles/533452a) descubrió que el 50% de los investigadores son incapaces de reproducir sus propios experimentos. Esto pone de relieve el aspecto crítico de la crisis de reproducibilidad. Esto también tiene implicaciones para la investigación, más allá de la capacidad de mejorar su investigación.
 
-### What is the Cause of This Reproducibility Crisis?
+### ¿Cuál es la causa de esta crisis de reproducibilidad?
 
 <img src="../images/media/image16.jpeg" style="width:100%;height:auto;" />
 
-The three main causes of the reproducibility crisis are:
+Las tres causas principales de la crisis de reproducibilidad son:
 
-1. Intermediate methods of research are often described informally or not at all.
-2. Intermediate data are often omitted entirely.
-3. We often only think about results at the time of publication.
+1. Los métodos intermedios de investigación suelen describirse de manera poco formal o no se describen en absoluto.
+2. A menudo se omiten por completo los datos intermedios.
+3. A menudo sólo se piensa en los resultados, en el momento de la publicación.
 
-We need to think of the entire research process as a result. As an example, scientific articles describe computational methods informally which demands significant effort from others to understand and to reuse.
+Debemos pensar en todo el procedimiento de investigación, como un resultado. Por ejemplo, los artículos científicos describen de manera poco precisa los métodos computacionales, lo que requiere un gran esfuerzo por parte de los demás para entenderlos y reutilizarlos.
 
-Articles often lack sufficient information needed for other researchers to reproduce results, even when data sets are published, according to two studies in [Nature Genetics](https://www.nature.com/articles/ng.295) and [Nature Methods](https://www.nature.com/articles/nmeth.1333). Raw and/or intermediate data products and relevant software are often not provided alongside the final manuscript, limiting the reader's ability to attempt replication.
+Los artículos a menudo no contienen la información suficiente para que otros investigadores reproduzcan los resultados, incluso cuando se publican conjuntos de datos, según dos estudios publicados en [Nature Genetics](https://www.nature.com/articles/ng.295) y [Nature Methods](https://www.nature.com/articles/nmeth.1333). A menudo, los resultados de los datos sin procesar o datos intermedios y los programas informáticos correspondientes, no se facilitan junto con el artículo final, lo que limita la capacidad del lector para intentar reproducirlos.
 
-Without access to the source codes for the papers, reproducibility has been shown to be elusive, according to two other studies in [Briefings in Bioinformatics](https://academic.oup.com/bib/article/12/3/288/258098) and [Nature Physics](https://www.nature.com/articles/nphys3313).
+Según otros dos estudios publicados en [Briefings in Bioinformatics](https://academic.oup.com/bib/article/12/3/288/258098) y [Nature Physics](https://www.nature.com/articles/nphys3313), sin acceso a los códigos fuente de los artículos, la reproducibilidad resulta complicada.
 
 ### Combating the Reproducibility Crisis
 
