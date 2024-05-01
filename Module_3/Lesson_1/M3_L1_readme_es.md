@@ -15,21 +15,21 @@
 
 ## Resumen
 
-Esta lección define los datos abiertos, sus beneficios y las prácticas que permiten que los datos sean abiertos. In addition, the lesson takes a closer look at how FAIR applies to open data as well as at the criticall role of metadata. It wraps up with a brief discussion on how to plan for open data in the scientific workflow and tasks guided by the use, make, share framework.
+Esta lección define los datos abiertos, sus beneficios y las prácticas que permiten que los datos sean abiertos. Además, la lección analiza más de cerca cómo los principios FAIR aplican a los datos abiertos así como al papel crítico de los metadatos. Finaliza con una breve discusión sobre cómo planificar para datos abiertos en el flujo de trabajo científico y tareas basadas en el marco de usar, hacer y compartir.
 
-## Objetivos de aprendizaje
+## Objetivos de Aprendizaje
 
-After completing this lesson, you should be able to:
+Después de completar este módulo, deberías poder:
 
-- Define what open data is and how the FAIR and CARE principles are used to guide open data practices
-- List the benefits of open data
-- Explain how the use, make, share framework can be used to modify the scientific plan for open data
+- Definir qué son los datos abiertos y cómo los principios FAIR y CARE se utilizan para guiar las prácticas de datos abiertos
+- Enumerar los beneficios de los datos abiertos
+- Explicar cómo el marco de usar, hacer y compartir puede ser utilizado para modificar el plan científico para datos abiertos
 
-## Introduction
+## Introducción
 
-Data drives science forward. Data are stored electronically to enable further analysis and research. Digital technologies integrated into every aspect of modern scientific research has led to the production of large amounts of data.
+Los datos hacen avanzar a la ciencia. Los datos se guardan de manera electrónica para permitir más análisis e investigación. Las tecnologías digitales integradas en cada aspecto de la investigación científica moderna han llevado a la producción de grandes cantidades de datos.
 
-Open data is an essential pillar of open science. In many ways, open data are a natural expansion of open science beyond scholarly publications to include digital research outputs. It has since become an integral part of the open science movement as open data allows anyone to see, use, and verify published results. Open data makes science more accessible, inclusive, and reproducible. In order to support this, data needs to be made available in formats that others can use, include metadata that describes the data, and provided with helpful documentation. When made available, open data enables new discoveries and unforeseen uses.
+Los datos abiertos son un pilar esencial de la ciencia abierta. En muchos sentidos, los datos abiertos son una extensión natural de la ciencia abierta más allá de las publicaciones científicas que incluyen los resultados digitales de la investigación. Así se han convertido en una parte integral del movimiento de la ciencia abierta ya que los datos abiertos permiten que todas las personas vean, usen y verifiquen resultados publicados. Los datos abiertos hacen que la ciencia sea más accesible, inclusiva y reproducible. Para que esto funcione, es necesario que los datos se disponibilicen en formatos que otras personas puedan usar, incluyendo metadatos que describan a los datos, y con documentación útil. Una vez disponibles, los datos abiertos facilitan nuevos descubrimientos y usos.
 
 ### Example: How Will Humans Live on the Moon or Travel to Mars When the Space Environment Threatens Human Health in Multiple Ways?
 
