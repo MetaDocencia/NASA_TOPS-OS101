@@ -157,15 +157,15 @@ Hacer ciencia abierta no sólo permite que otras personas entiendan y reproduzca
 
 Beneficios específicos de la apertura de datos para usted como persona:
 
-- Nunca perderás el acceso a tu trabajo anterior, sin importar el instituto al que estés afiliado. Many researchers move around institutions and organizations and by having your data publicly accessible in repositories, you will always have access to them.
-- Your data can be cited and you will get credit.
-- Publications that include links to data are cited more, according to a 2020 [study.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230416)
+- Nunca perderás el acceso a tu trabajo anterior, sin importar el instituto al que estés afiliado. Muchos investigadores se mueven por instituciones y organizaciones y, al tener sus datos accesibles públicamente en repositorios, siempre tendrás acceso a ellos.
+- Tus datos pueden ser citados y obtendrás crédito.
+- Las publicaciones que incluyen enlaces a datos se citan más, según un [estudio](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230416) de 2020
 
-Implementing best practices for open science can strengthen your funding proposals. Funding agencies are realizing that openly sharing research provides more return on their investment. Well-documented research products also demonstrate the quality of your work, which helps with public communication and can also attract quality collaborators. Everybody prefers to work with people who are reliable and do a good job.
+La implementación de buenas prácticas para la ciencia abierta puede fortalecer las propuestas de financiación. Las agencias de financiación se están dando cuenta de que compartir abiertamente la investigación proporciona un mayor retorno de su inversión. Los productos de investigación bien documentados también demuestran la calidad de su trabajo, lo que ayuda con la comunicación pública y también puede atraer colaboradores de calidad. Todo el mundo prefiere trabajar con personas fiables y que hagan un buen trabajo.
 
-### Activity 1.1 Open Data Review
+### Actividad 1.1 Revisión de Datos Abiertos
 
-Take a moment to reflect on what data sharing means to you.
+Toma un momento para reflexionar sobre lo que significa para tí compartir datos.
 
 <img style="width:100%;height:auto;" src="../images/media/image6.jpeg">
 
