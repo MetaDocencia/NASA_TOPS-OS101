@@ -95,11 +95,11 @@ No todos los datos pueden ser compartidos o ser compartidos con toda esta inform
 
 ## Beneficios de los Datos Abiertos
 
-Los datos sustentan casi toda la ciencia. Compartir abiertamente los datos con otras personas facilita la reproducibilidad, transparencia, validación, reutilización y colaboraciones. Los datos juegan un rol muy importante en nuestro día a día. Open data, in particular, plays a key role. Open data are only common in our society and you have likely already benefited from this form in some way. The impacts of open data include facilitating:
+Los datos sustentan casi toda la ciencia. Compartir abiertamente los datos con otras personas facilita la reproducibilidad, transparencia, validación, reutilización y colaboraciones. Los datos juegan un rol muy importante en nuestro día a día. Los datos abiertos, en particular, juegan un rol clave. Los datos abiertos son comunes en nuestra sociedad y probablemente ya te hayas beneficiado de ellos en algún momento. Los impactos de la ciencia abierta incluyen facilitar:
 
 ---
 
-**Greater Good** – Data plays a significant role in our day-to-day lives. Open data, in particular, has played a key role. Si hace una pausa y piensa en ello, puede darse cuenta de que los datos abiertos no solo son comunes en nuestra sociedad, sino que usted mismo podría haberse beneficiado y utilizado los datos abiertos.
+**Un Bien Mayor** - Los datos juegan un rol muy importante en nuestra vida cotidiana. Los datos abiertos, en particular, juegan un rol clave. Si hace una pausa y piensa en ello, puede darse cuenta de que los datos abiertos no solo son comunes en nuestra sociedad, sino que usted mismo podría haberse beneficiado y utilizado los datos abiertos.
 
 Cada país o territorio a menudo proporciona acceso abierto a una variedad de información socioeconómica sobre la población, la comunidad y los negocios en su jurisdicción. Estos datos a menudo se llaman datos de encuestas censales y pueden incluir estadísticas agregadas de género, raza, etnicidad, educación, ingresos y datos de salud de una comunidad. Estos datos se utilizan a menudo para entender la composición de un vecindario local y son críticos para las decisiones informadas sobre la asignación de recursos para asegurar la calidad de vida de la comunidad.
 
@@ -377,30 +377,30 @@ Si tu proyecto ya está en curso, es una buena idea actualizar futuras publicaci
 
 <img src="../images/media/image10.jpeg" style="width:100%;height:auto;" />
 
-En este plan de estudios, el contenido se organiza según cómo podrías usarlo, crearlo y compartirlo. Una parte de la ciencia abierta consiste en construir sobre los materiales de otros (usar), crear materiales tú mismo (crear) y compartirlos para que otros puedan usar esos resultados (compartir). The lessons are all organized around these steps in the scientific workflow.
+En este plan de estudios, el contenido se organiza según cómo podrías usarlo, crearlo y compartirlo. Una parte de la ciencia abierta consiste en construir sobre los materiales de otros (usar), crear materiales tú mismo (hacer) y compartirlos para que otros puedan usar esos resultados (compartir). Las lecciones se organizan en torno a estos pasos del flujo de trabajo científico.
 
-The "Use, Make, Share" framework categorizes the tasks commonly used in the practice of open science.
+El marco "Usar, Hacer, Compartir" clasifica las tareas más habituales en la práctica de la ciencia abierta.
 
 <img src="../images/media/image11.png" style="width:100%;height:auto;" />
 
-### Roles in Use, Make, Share
+### Roles a la hora de usar, hacer, compartir
 
-Individuals interacting with data at various points in the scientific workflow can take on different roles. It is possible that these roles can overlap depending on project requirements, the size of your team, and even funding. All should be using open data principles to perform their tasks. Generally, roles include:
+Las personas que interactúan con los datos en varios puntos del flujo de trabajo científico pueden asumir diferentes roles. Es posible que estos roles se superpongan según los requisitos del proyecto, el tamaño de su equipo e incluso la financiación. Todos deben estar utilizando principios de datos abiertos para realizar sus tareas. Por lo general, los roles incluyen:
 
-_Select each tab to find out more information._
+_Seleccione cada pestaña para obtener más información_
 
 <table>
   <thead>
     <tr>
-        <th>DATA USERS ☑</th>
-        <th>DATA MAKERS (DATA PROVIDERS)</th>
-        <th>DATA SHARERS (DATA PUBLISHERS)</th>
+        <th>USUARIOS DE DATOS ☑</th>
+        <th>CREADORES DE DATOS (PROVEEDORES DE DATOS)</th>
+        <th>LOS RESPONSABLES DE COMPARTIR LOS DATOS (EDITORES DE DATOS)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>Data users primarily discover, assess, and utilize data in research projects.</p>
+            <p>Los usuarios de datos principalmente descubren, evalúan y utilizan datos en proyectos de investigación.</p>
         </td>
     </tr>
   </tbody>
@@ -409,15 +409,15 @@ _Select each tab to find out more information._
 <table>
   <thead>
     <tr>
-        <th>DATA USERS</th>
-        <th>DATA MAKERS (DATA PROVIDERS) ☑</th>
-        <th>DATA SHARERS (DATA PUBLISHERS)</th>
+        <th>USUARIOS DE DATOS</th>
+        <th>CREADORES DE DATOS (PROVEEDORES DE DATOS)☑</th>
+        <th>LOS RESPONSABLES DE COMPARTIR LOS DATOS (EDITORES DE DATOS)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>Data makers often process data collected by a project/activity and package it according to open science principles.</p>
+            <p>Los creadores de datos suelen procesar los datos recogidos por un proyecto/actividad y empaquetarlos según los principios de la ciencia abierta.</p>
         </td>
     </tr>
   </tbody>
@@ -426,21 +426,21 @@ _Select each tab to find out more information._
 <table>
   <thead>
     <tr>
-        <th>DATA USERS</th>
-        <th>DATA MAKERS (DATA PROVIDERS)</th>
-        <th>DATA SHARERS (DATA PUBLISHERS) ☑</th>
+        <th>USUARIOS DE DATOS</th>
+        <th>CREADORES DE DATOS (PROVEEDORES DE DATOS)</th>
+        <th>LOS RESPONSABLES DE COMPARTIR LOS DATOS (EDITORES DE DATOS)☑</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>Data sharers bear the responsibility of disseminating and building awareness of the data to the public.</p>
+            <p>Los que comparten los datos tienen la responsabilidad de difundirlos y darlos a conocer al público.</p>
         </td>
     </tr>
   </tbody>
 </table>
 
-Making data open (and FAIR) is a group effort – everybody in the data pipeline has a role to play.
+Hacer que los datos sean abiertos (y que cumplan con los principios FAIR) es un esfuerzo grupal: todos en la cadena de datos tienen un papel que desempeñar.
 
 ## Lección 1: Resumen
 
