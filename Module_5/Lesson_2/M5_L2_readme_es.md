@@ -30,12 +30,12 @@ Después de completar este módulo, deberías ser capaz de:
 
 ### Ejemplo: Exoplanetas
 
-Las distintas etapas de la investigación, desde la conceptualización hasta la difusión de los resultados, generan productos que pueden ponerse en el dominio público como «resultados abiertos». Where these results are archived, and to what degree, depends on the discipline author. However, some general guidelines on where to start a search on open results include:
+Las distintas etapas de la investigación, desde la conceptualización hasta la difusión de los resultados, generan productos que pueden ponerse en el dominio público como «resultados abiertos». Dónde se archivan estos resultados, y en qué grado, depende del autor de la disciplina.  No obstante, algunas directrices generales sobre dónde empezar una búsqueda de resultados abiertos incluyen:
 
-1. Scholarly Search Portals
-2. Web Searches
+1. Portales de búsqueda académica
+2. Búsquedas en Internet
 
-**Scholarly Search Portals**
+**Portales de búsqueda académica**
 
 Search engines like Google and Bing have radically changed how we look up information. For research results, specialized academic search engines and portals curate scientific results from researchers based on topic and field. These engines are useful for finding peer-reviewed articles.
 
