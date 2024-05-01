@@ -31,71 +31,71 @@ Los datos hacen avanzar a la ciencia. Los datos se guardan de manera electrónic
 
 Los datos abiertos son un pilar esencial de la ciencia abierta. En muchos sentidos, los datos abiertos son una extensión natural de la ciencia abierta más allá de las publicaciones científicas que incluyen los resultados digitales de la investigación. Así se han convertido en una parte integral del movimiento de la ciencia abierta ya que los datos abiertos permiten que todas las personas vean, usen y verifiquen resultados publicados. Los datos abiertos hacen que la ciencia sea más accesible, inclusiva y reproducible. Para que esto funcione, es necesario que los datos se disponibilicen en formatos que otras personas puedan usar, incluyendo metadatos que describan a los datos, y con documentación útil. Una vez disponibles, los datos abiertos facilitan nuevos descubrimientos y usos.
 
-### Example: How Will Humans Live on the Moon or Travel to Mars When the Space Environment Threatens Human Health in Multiple Ways?
+### Ejemplo: ¿Cómo Vivirían los Humanos en la Luna o Viajarían a Marte Cuando el Entorno Espacial Amenaza la Salud Humana de Tantas Maneras?
 
-Bone loss, vertigo, anemia, muscle atrophy, increased risk for cancer - these are just some of the human side effects of space travel. To study these human health risks of space travel, scientists around the world use NASA's open-source GeneLab platform. GeneLab aggregates large volumes of space biology data on human and model organism samples exposed to spaceflight conditions. Their digital and physical repositories include cell info as well as DNA, RNA, and proteins. As an open-source platform, GeneLab data are publicly accessible at no cost.
+Pérdida de tejido óseo, vértigo, anemia, atrofia muscular, mayor riesgo de cáncer - estos son solo algunos de los efectos secundarios de viajar al espacio para los humanos. Para estudiar estos riesgos de viajar al espacio para la salud humana, personas que investigan de todo el mundo usan la plataforma de código abierto de la NASA, GeneLab. GeneLab recopila grandes cantidades de datos de biología espacial sobre muestras humanas y de organismos modelo expuestos a condiciones de viajes espaciales. Sus respositorios digitales y físicos incluyen información celular, sobre ADN, ARN y proteínas. Al ser una plataforma abierta, los datos de GeneLab son públicamente accesibles y sin ningún costo.
 
 <img src="../images/media/image2.jpeg" style="width:100%;height:auto;" />
 
-**Example:** Using astronaut biological data from GeneLab, [scientists recently found](https://www.nature.com/articles/s41576-020-00322-8) what may be the culprit behind many of the side effects from travel to space: mitochondrial stress.
+**Ejemplo:** Usando datos biológicos de astronautas de GeneLab, [científicos recientemente encontraron](https://www.nature. om/articles/s41576-020-00322-8) cuál puede ser el motivo de muchos de los efectos secundarios del viaje al espacio: el estrés mitocondrial.
 
-[Watch Video](https://www.youtube.com/watch?v=c9moR-KQpDQ\&embeds_referring_euri=https%3A%2F%2Fopenscience101.org%2F\&feature=emb_imp_woyt)
+[Mira el Video](https://www.youtube.com/watch?v=BPVSErzNtME\&embeds_referring_euri=https%3A%2F%2Fopenscience101.org%2F\&feature=emb_imp_woyt)
 
-Mitochondria are components within our cells that affect respiratory and energy function. This discovery could be crucial to overcoming human health- related problems in space. Understanding the source of this issue could help scientists develop countermeasures and therapies to keep people healthy in space for longer periods of time.
+Las mitocondrias son componentes dentro de nuestras células que afectan las funciones respiratorias y energéticas. Este descubrimiento podría ser crucial para superar los problemas relacionados a la salud humana en el espacio. Entender las bases de este problema podría ayudar a las personas que investigan a desarrollar contramedidas y terapias para mantener sanas a las personas en el espacio durante periódos más largos de tiempo.
 
-## Definition and Considerations of Open Data
+## Definiciones y Consideraciones de los Datos Abiertos
 
-### What is Data?
+### ¿Qué son los Datos?
 
 <img src="../images/media/image3.jpeg" style="width:350px;height:auto;" />
 
-The Turing Way Community. This illustration is created by Scriberia with The Turing Way community, used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807
+La Comunidad de The Turing Way. Esta ilustración fue creada por Scriberia junto con la comunidad de The Turing Way, utilizada bajo una licencia CC-BY 4.0. DOI: 10.5281/zenodo.3332807
 
 ---
 
-Data are any type of information that is collected, observed, or created in the context of research. Today, data are increasingly stored electronically in a digital format.
+Los datos son cualquier tipo de información que se recolecte, observe o cree en el contexto de una investigación. Hoy en día, los datos se almacenan cada vez más electrónicamente en formato digital.
 
-Data includes:
+Los datos incluyen:
 
-**Primary (raw) data** – Primary data refers to data that are directly collected or created by researchers. Research questions guide the collection of the data. Typically, a researcher will formulate a question, develop a methodology and start collecting the data. Some examples of primary data include:
+**Datos primarios (crudos)** – Los datos primarios se refieren a datos que son directamente recolectados o creados por las personas que investigan. Las preguntas de investigación guían la recopilación de los datos. Por lo general, una persona que investiga formulará una pregunta, desarrollará una metodología y comenzará a recopilar los datos. Algunos ejemplos de datos primarios incluyen:
 
-- Responses to interviews, questionnaires, and surveys.
-- Data acquired from recorded measurements, including remote sensing data.
-- Data acquired from physical samples and specimens form the base of many studies.
-- Data generated from models and simulations.
+- Respuestas a entrevistas, cuestionarios y encuestas.
+- Datos adquiridos a partir de mediciones registradas, incluyendo datos de teledetección.
+- Datos adquiridos a partir de muestras físicas y especímenes constituyen la base de muchos estudios.
+- Datos generados a partir de modelos y simulaciones.
 
-**Secondary & Processed data** – Secondary data typically refers to data that is used by someone different than who collected or generated the data. Often, this may include data that has been processed from its raw state to be more readily usable by others.
+**Datos Secundarios y Procesados** – Los datos secundarios normalmente se refieren a datos que son usados por alguien diferente de quién recolectó o generó los datos. A menudo, esto puede incluir datos que han sido procesados a partir de su estado crudo para ser más fácilmente utilizados por otras personas.
 
-**Published data** – Published data are the data shared to address a particular scientific study and/or for general use. While published data can overlap with primary and secondary data types, we have "published data" as its own category to emphasize that such datasets are ideally well-documented and easy to use.
+**Datos Publicados** – Los datos publicados son aquellos compartidos para abordar un estudio científico en particular y/o para uso general. Mientras que los datos publicados pueden coincidir con datos primarios y secundarios, nombramos a los "datos publicados" como su propia categoría para enfatizar que estos conjuntos de datos están idealmente bien documentados y son fáciles de usar.
 
-**Metadata** – Metadata are a special type of data that describe other data or objects (e.g. samples). They are often used to provide a standard set of information about a dataset to enable easy use and interpretation of the data.
+**Metadatos** – los metadatos son un tipo especial de datos que describen otros datos u objetos (por ejemplo, muestras). Normalmente se utilizan para proporcionar información estándar sobre un conjunto de datos con el fin de facilitar su uso e interpretación.
 
-The term open data are defined in the open data handbook from the Open Knowledge Foundation:
+El término datos abiertos se define en el manual de datos abierto de la Open Knowledge Foundation:
 
 <img style="width:100%;height:auto;" src="../images/media/opendatahandbookquote.jpg">
 
-"Open data are data that can be freely used, reused and redistributed by anyone – subject only, at most, to the requirement to attribute and share alike."
+"Los datos abiertos son datos que pueden ser libremente utilizados, reutilizados y redistribuidos por cualquiera, sujetos únicamente, como mucho, al requisito de atribuir y compartir de la misma manera."
 
-**Open Data Handbook from the Open Knowledge Foundation**
+**Manual de Datos Abiertos de la Open Knowledge Foundation**
 
 ---
 
-When talking about data in the context of this module, we focus on the data that you are preparing to share, such as data affiliated with a scientific publication, regardless of what type that is. While you could share (and many do) laboratory notebooks, preliminary analyses, intermediate data products, drafts of scientific papers, plans for future research and similar items, these aren't usually required by funding agencies or institutions and thus won’t be in focus for this module.
+Cuando hablamos de datos en el contexto de este módulo, nos enfocamos en los datos que estás preparando para compartir, como datos asociados a una publicación específica, sin importar de qué tipo de datos se trate. Si bien podrías compartir (y muchas personas lo hacen) libretas de laboratorio, análisis preliminares, productos de datos intermedios, borradores de publicaciones científicas, planes para investigaciones futuras y otras cosas similares, estos normalmente no son requeridos por agencias o instituciones financiadoras y por lo tanto no serán el foco de este módulo.
 
-To quote from a [published paper about data reuse](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9542848/), researchers are mostly looking for data which is "comprehensive, easy to obtain, easy to manipulate, and believable." For these criteria to be fulfilled, the data should:
+Para citar un [artículo publicado sobre la reutilización de datos](https://www.ncbi.nlm.nih. ov/pmc/articles/PMC9542848/), las personas que investigan buscan principalmente datos que sean "fáciles de comprender, de obtener, de manipular y creíbles." Para que se cumplan estos criterios, los datos deberían:
 
-- Be sufficiently described with appropriate metadata, which greatly affects open data reusability. There is no one size fits all for metadata as its collection is guided by your data.
-- Have the appropriate license, copyright, and citation information.
-- Have appropriate access information.
-- Be findable in an accredited or trustworthy resource.
-- Be accompanied with history of changes and versioning.
-- Include details of all processing steps.
+- Estar lo suficientemente descritos con metadatos apropiados, que afectan en gran medida la reusabilidad de los datos. No hay una estructura única para los metadatos ya que su recopilación estará guiada por tus datos.
+- Tener la licencia, los derechos de autor y la información de citación apropiada.
+- Tener información de acceso apropiada.
+- Ser encontrables en un recurso acreditado o confiable.
+- Estar acompañados con una historia de cambios y versionado.
+- Incluir detalles de todos los pasos de procesamiento.
 
-Not all data may be shared or shared with all this information. There are different reasons why it might not be possible. However, the more information shared about data helps increase the reliability and reusability of the information.
+No todos los datos pueden ser compartidos o ser compartidos con toda esta información. Hay distintas razones por las que esto puede no ser posible. Sin embargo, una gran cantidad información compartida sobre los datos ayudará a aumentar la confiabilidad y reusabilidad de la información.
 
-## Beneﬁts of Open Data
+## Beneficios de los Datos Abiertos
 
-Data underpins almost all of science. Openly sharing data with others enables reproducibility, transparency, validation, reuse, and collaborations. Data plays a significant role in our day-to-day lives. Open data, in particular, plays a key role. Open data are only common in our society and you have likely already benefited from this form in some way. The impacts of open data include facilitating:
+Los datos sustentan casi toda la ciencia. Compartir abiertamente los datos con otras personas facilita la reproducibilidad, transparencia, validación, reutilización y colaboraciones. Los datos juegan un rol muy importante en nuestro día a día. Open data, in particular, plays a key role. Open data are only common in our society and you have likely already benefited from this form in some way. The impacts of open data include facilitating:
 
 ---
 
@@ -367,17 +367,17 @@ Consulta si tu institución o tu organismo de financiación dispone de pautas, n
 
 Se proporcionarán más detalles sobre cómo crear estos planes en la lección "De la teoría a la práctica".
 
-### Scientiﬁc Workﬂow
+### Flujo de trabajo científico
 
-There are a variety of scientific workflow models that explain open science. Data plays a central role in the scientific workflow, where users can propose to create new data, collect and package their data during their project, then archive it for long term storage/use/reuse.
+Hay una variedad de modelos de flujo de trabajo científico que aclaran y facilitan la comprensión de los principios y prácticas de la ciencia abierta. Los datos juegan un papel central en el flujo de trabajo científico, donde los usuarios pueden proponer crear nuevos datos, recopilar y empaquetar sus datos durante su proyecto, y luego archivarlos para su almacenamiento/usabilidad/reutilización a largo plazo.
 
-For this curriculum, we use the workflow model from [Opensciency](https://opensciency.github.io/sprint-content/open-results/lesson1-research-process-and-results.html#what-research-objects-are-commonly-associated-with-research-stages). It is used to illustrate that regardless of the workflow model you use, the adoption of open data is performed throughout the entire workflow and production of associated deliverables.
+Para este plan de estudios, utilizamos el modelo de flujo de trabajo de [Opensciency](https://opensciency.github.io/sprint-content/open-results/lesson1-research-process-and-results.html#what-research-objects-are-commonly-associated-with-research-stages). Se utiliza para ilustrar que, independientemente del modelo de flujo de trabajo que se utilice, la adopción de datos abiertos se realiza en todo el flujo de trabajo y producción de entregables asociados.
 
-If your project is already in progress, it is a good idea to update future data releases to adhere to open data principles as much as possible. For new projects, your proposals should include creating open data from the start of your project.
+Si tu proyecto ya está en curso, es una buena idea actualizar futuras publicaciones de datos para adherirse a los principios de datos abiertos en la medida de lo posible. Para nuevos proyectos, tus propuestas deberían incluir la creación de datos abiertos desde el inicio de su proyecto.
 
 <img src="../images/media/image10.jpeg" style="width:100%;height:auto;" />
 
-In this curriculum, content is organized by how you might use it, make it, and share it. Part of doing open science is building on others’ materials (using), creating materials yourself (making), and sharing those so others can use those results (sharing). The lessons are all organized around these steps in the scientific workflow.
+En este plan de estudios, el contenido se organiza según cómo podrías usarlo, crearlo y compartirlo. Una parte de la ciencia abierta consiste en construir sobre los materiales de otros (usar), crear materiales tú mismo (crear) y compartirlos para que otros puedan usar esos resultados (compartir). The lessons are all organized around these steps in the scientific workflow.
 
 The "Use, Make, Share" framework categorizes the tasks commonly used in the practice of open science.
 
