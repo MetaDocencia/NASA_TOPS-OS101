@@ -211,50 +211,21 @@ While open results benefit science and have already provided valuable societal b
 
 ### How to Contribute and Provide Constructive Feedback
 
-Contributing to and providing constructive feedback are vital components for a healthy open access ecosystem, ensuring long-term sustainability of the open resources by providing continual improvements and capability expansions.
+Contribuir y aportar comentarios constructivos son componentes vitales para un ecosistema de acceso abierto saludable, que garantice la sostenibilidad a largo plazo de los recursos abiertos al proporcionar mejoras continuas y ampliaciones de capacidad.
 
-In our current system, there are results creators and consumers. This scenario presents a one way street with no feedback loop, no sharing of data back to publishers, and no sharing between intermediaries.
+En nuestro sistema actual, hay creadores y receptores de resultados. Este escenario presenta una vía de sentido único sin bucles de respuestas o de devolución, sin comunicación de datos a los editores y sin intercambio entre intermediarios.
 
-The practice of producing open results aims to foster a system where feedback loops exist between users and makers. Users share their cleaned, integrated, or improved work to the maker. This feedback creates a symbiotic and sustainable process where everyone benefits.
+La práctica de producir resultados abiertos pretende fomentar un sistema en el que existan circuitos de comunicación entre usuarios y creadores. Los usuarios comparten con el creador su trabajo depurado, integrado o mejorado. Esta comunicación crea un proceso simbiótico y sostenible del que todos se benefician.
 
-### Your Responsibilities as an Open Results User
+### Tus responsabilidades como usuario de resultados abiertos
 
-- Users should familiarize themselves with contributor guidelines posted to open result repositories and follow the associated policies. What if there aren't contributor guidelines? Contact the creators!
-- Always provide feedback in a respectful and supportive manner.
-- If you discover an error in Open Results materials, the ethical action to take is to contact the author (or repository, depending on the nature of the issue) and give them the opportunity to correct the problem, rather than ignoring the issue or (worse!) taking advantage of a fixable issue to elevate your own research.
+- Los usuarios deben familiarizarse con las pautas para colaboradores publicadas en los repositorios de resultados abiertos y seguir las políticas asociadas. ¿Y si no hay pautas para los colaboradores? ¡Contacta a los creadores!
+- Proporcione siempre comentarios de forma respetuosa y comprensiva.
+- Si descubres un error en los materiales de Resultados Abiertos, la acción ética a tomar es contactar al autor (o al repositorio, dependiendo de la naturaleza del problema) y darles la oportunidad de corregir el problema, en lugar de ignorar el problema o (¡peor aún!) aprovechar un problema reparable para elevar tu propia investigación.
 
-### Different Ways to Provide Feedback
+### Diferentes Maneras de Comentar
 
-#### Use Github Issues
-
-<table>
-<colgroup>
-    <col style="width: 50%" />
-    <col style="width: 50%" />
-</colgroup>
-<tbody>
-    <tr>
-        <td>
-            <img src="../images/media/image29.png" style="width:100%;height:auto;"/>
-        </td>
-        <td>Pro: The feedback is open and other community members can see ongoing issues that are being addressed.</td>
-    </tr>
-    <tr>
-        <td>
-            <img src="../images/media/image29.png" style="width:100%;height:auto;"/>
-        </td>
-        <td>Pro: Contribution is archived and logged on GitHub.</td>
-    </tr>
-</tbody>
-</table>
-
-**Working with GitHub Issues**
-
-See this blog for general issue etiquette
-
-[OPEN](https://www.w3.org/International/i18n-activity/guidelines/issues.html)
-
-#### Email authors
+#### Usar Problemas de GitHub (GitHub issues)
 
 <table>
 <colgroup>
@@ -266,22 +237,51 @@ See this blog for general issue etiquette
         <td>
             <img src="../images/media/image29.png" style="width:100%;height:auto;"/>
         </td>
-        <td>Con: the feedback is closed. The information is generally not propagated back to the community unless the creator creates a new version.</td>
+        <td>Ventaja: La interacción es abierta y otros miembros de la comunidad pueden ver los problemas en curso que se están abordando.</td>
     </tr>
     <tr>
         <td>
             <img src="../images/media/image29.png" style="width:100%;height:auto;"/>
         </td>
-        <td>Con: No way of tracking credit.</td>
+        <td>La contribución se archiva y registra en GitHub.</td>
     </tr>
 </tbody>
 </table>
 
-### Getting Credit for Providing Feedback
+**Trabajar con Problemas de GitHub (GitHub Issues)**
 
-If your feedback results in a substantial intellectual contribution to the work, it is reasonable for you to expect an opportunity for co-authorship in a future version of the open result. The associated contribution guidelines should address this possibility and manage expectations prior to your providing feedback.
+Consulta este blog para conocer la etiqueta general de problemas
 
-Sadly, many times contributor guidelines do not exist and it is not clear what is "substantial".
+[ABRIR](https://www.w3.org/International/i18n-activity/guidelines/issues.html)
+
+#### Enviar un correo electrónico al autor
+
+<table>
+<colgroup>
+    <col style="width: 50%" />
+    <col style="width: 50%" />
+</colgroup>
+<tbody>
+    <tr>
+        <td>
+            <img src="../images/media/image29.png" style="width:100%;height:auto;"/>
+        </td>
+        <td>Contras: la comunicación es privada. La información generalmente no se comparte con la comunidad a menos que el creador cree una nueva versión.</td>
+    </tr>
+    <tr>
+        <td>
+            <img src="../images/media/image29.png" style="width:100%;height:auto;"/>
+        </td>
+        <td>Contras: no hay forma de hacer un seguimiento de los créditos.</td>
+    </tr>
+</tbody>
+</table>
+
+### Obtener crédito por las aportaciones
+
+Si tus aportes resultan en una contribución intelectual sustancial al trabajo, es razonable esperar la oportunidad de ser coautor en una futura versión del resultado abierto. Las pautas de contribución asociadas deberían contemplar esta posibilidad y gestionar las expectativas antes de que se realicen aportaciones.
+
+Lamentablemente, muchas veces no existen pautas de contribución y no está claro qué es "sustancial".
 
 ### Open Results User Responsibilities
 
