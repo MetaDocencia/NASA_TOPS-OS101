@@ -186,49 +186,49 @@ Los artículos a menudo no contienen la información suficiente para que otros i
 
 Según otros dos estudios publicados en [Briefings in Bioinformatics](https://academic.oup.com/bib/article/12/3/288/258098) y [Nature Physics](https://www.nature.com/articles/nphys3313), sin acceso a los códigos fuente de los artículos, la reproducibilidad resulta complicada.
 
-### Combating the Reproducibility Crisis
+### Lucha contra la crisis de reproducibilidad
 
-If your research workflow uses principles of open results, as showcased in the example, this will help you to combat the reproducibility crisis.
+Si su procedimiento de investigación utiliza los principios de los resultados abiertos, como se muestra en el ejemplo, le ayudará a superar la crisis de la reproducibilidad.
 
-We can create reproducible workﬂows and combat this crisis by considering open results at each stage of the research lifecycle. An Open Science and Data Management Plan (OSDMP) helps researchers think and plan for all aspects of sharing by determining how they will make software and data available. This plan can be shared publicly early on through a practice called pre-registering, where researchers determine their analysis plan and data collection procedure before a study begins (discussed previously in Lesson 2 of Module 2).
+Podemos crear procesos de trabajo reproducibles y combatir esta crisis, teniendo en cuenta los resultados abiertos en cada etapa del ciclo de vida de la investigación. Un Plan de Ciencia Abierta y Gestión de Datos (OSDMP, por sus siglas en inglés) ayuda a los investigadores en la planificación de todos los aspectos de la publicación abierta, determinando cómo pondrán a disposición el software y los datos. Este plan puede ser compartido públicamente desde el principio a través de una práctica llamada pre-registro, donde los investigadores determinan su plan de análisis y el procedimiento de recopilación de datos antes de que comience un proyecto (discutido previamente en la Lección 2 del Módulo 2).
 
-### Activity 1.1: What Could You Do?
+### Actividad 1.1: ¿Qué debieras hacer?
 
 <img src="../images/media/image21.png" style="width:350px;height:auto" />
 
-Let's rethink your research workflow. Identify the research objects that could be (or could have been) shared as open results of a project you are/were involved in. What are high priority items for combatting the reproducibility crisis in each area of the research workflow?
+Repensemos su proceso de investigación. Identifique los objetos de investigación que podrían compartirse (o podrían haberse compartido) como resultados abiertos de un proyecto en el que participe o haya participado. ¿Cuáles son los puntos de mayor prioridad para superar la crisis de reproducibilidad en cada área del proceso del trabajo de investigación?
 
-- Ideation
-- Planning
-- Project Design
-- Engagement & Training
-- Data Collection
-- Data Wrangling
-- Data Exploration
-- Preservation
-- Reporting & Publication
+- Ideas
+- Planificación
+- Diseño del proyecto
+- Participación y formación
+- Recopilación de datos
+- Manipulación de datos
+- Exploración de los datos
+- Protección / Conservación
+- Informes y publicación
 
-**There are many personal advantages of implementing open science principles across all stages of a research process**
+**La aplicación de los principios de la ciencia abierta en todas las etapas del proceso de investigación tiene muchas ventajas personales**
 
 <img src="../images/media/image23.jpeg" style="width:100%;height:auto;" />
 
-#### Key Takeaways: What Could You Do?
+#### Puntos clave: ¿Qué debiéras hacer?
 
-The OpenSciency team created a large table that describes all the different kinds of shareable research objects that are possible to create throughout the research lifecycle.
+El equipo de OpenSciency creó una gran tabla que describe, todos los diferentes tipos de objetos de investigación que se pueden compartir y que son posibles de crear, a lo largo del ciclo de vida de la investigación.
 
-**A full table is available here**
+\*\*La tabla completa está disponible aquí
 
-[CLICK TO LEARN](https://opensciency.github.io/sprint-content/open-results/lesson1-research-process-and-results.html#research-stages-and-open-result-table)
+[CLICK PARA MAS INFORMACION](https://opensciency.github.io/sprint-content/open-results/lesson1-research-process-and-results.html#research-stages-and-open-result-table)
 
-Thinking about sharing everything all at once can be overwhelming when you are getting started. To move forward, just focus on how you might pick the most important item. Here we have pared down the list to only a couple items per category. Furthermore, you could think about shortening the list even further when you are getting started. For example, maybe it is the case that, for your work, sharing the code used to wrangle the data is the most critical element to reproducibility. Therefore, code-sharing would be a good place to start your open science journey. The small steps we make are what move us towards sustainable open science.
+Pensar en compartir todo de forma inmediata, puede resultar agotador cuando se está empezando. Para avanzar, concéntrese en cómo puede elegir el elemento más importante. Aquí se ha reducido la lista a un par de artículos por categoría. Además, puede pensar en acortar aún más la lista cuando esté empezando. Por ejemplo, puede que, para trabajar, compartir el código utilizado para procesar los datos sea el elemento más importante para la reproducibilidad. Por lo tanto, compartir código sería un buen punto de partida para iniciar el trabajo ó experiencia en ciencia abierta. Los pequeños pasos que damos son los que nos hacen avanzar hacia una ciencia abierta sostenible.
 
-- **Ideation:** Proposals can be shared on Zenodo and open grant platforms such as [ogrants.org](https://www.ogrants.org/).
-- **Planning:** Projects can be pre-registered before they begin.
-- **Project Design:** Contributor guidelines or a code of conduct can be posted on Zenodo, GitHub, or team Web Pages.
-- **Engagement & Training:** Workflow computational notebooks can be shared with the team via GitHub and released on Zenodo.
-- **Data Collection:** Raw data can be shared through data repositories.
-- **Data Wrangling:** Code can be shared through software repositories.
-- **Data Exploration:** Computational notebooks can be shared via GitHub and released on Zenodo.
+- **Propuesta:** Las propuestas pueden compartirse en Zenodo y en plataformas de subvención abiertas como [ogrants.org](https://www.ogrants.org/).
+- **Planificación:** Los proyectos pueden preinscribirse antes de comenzar.
+- **Diseño del proyecto:** Se pueden publicar las pautas de los colaboradores o un código de conducta en Zenodo, GitHub o en las páginas web del equipo.
+- **Interacción y formación:** Las guias de los procesos de desarrollo del trabajo de investigación, pueden compartirse con el equipo a través de GitHub y publicarse en Zenodo.
+- **Recopilación de datos:** Los datos sin procesar pueden compartirse a través de repositorios de datos.
+- **Gestión de Datos:** El código puede compartirse a través de repositorios de software.
+- **Exploración de datos:** Las guias de los procesos (notebooks), pueden ser compartidas a través de GitHub y publicadas en Zenodo.
 - **Preservation:** Data management plans for archiving can be posted on Zenodo.
 - **Reporting & Publication:**
   - Open access peer-reviewed articles
