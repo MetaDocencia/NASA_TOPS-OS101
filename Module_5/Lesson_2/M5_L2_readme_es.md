@@ -76,34 +76,34 @@ Los motores de búsqueda como Google y Bing han cambiado radicalmente la forma e
         <td colspan="2">
             <ul>
                 <li><a href="https://europepmc.org/">EuropePMC ciencias de la vida (EuropePMC Life sciences)</a></li>
-                <li><a href="https://pubmed.ncbi.nlm.nih.gov/">Pubmed biomedical literature</a></li>
-                <li><a href="https://arxiv.org/">arXiv</a> - for scholarly pre-prints in STEM, economics and computer science fields</li> 
-                <li><a href="https://www.biorxiv.org/">Biorxiv Preprint</a> - server for biology</li>
-                <li><a href="https://eartharxiv.org/">EarthArXiv</a> and <a href="https://essoar.org/">Earth and Space Science Open Archive</a></li>
-                <li><a href="https://asapbio.org/preprint-servers">ASAPbio</a> - catalogs of preprint servers</li>
-                <li>and others...</li>
+                <li><a href="https://pubmed.ncbi.nlm.nih.gov/">Literatura biomédica Pubmed (Pubmed biomedical literature) </a></li>
+                <li><a href="https://arxiv.org/">arXiv</a> - para preprints académicos en los campos de STEM, economía e informática.</li> 
+                <li><a href="https://www.biorxiv.org/">Biorxiv Preprint</a> - servidor para biología</li>
+                <li><a href="https://eartharxiv.org/">EarthArXiv</a> y <a href="https://essoar.org/">Archivo Abierto de Ciencias de la Tierra y Espacio</a></li>
+                <li><a href="https://asapbio.org/preprint-servers">ASAPbio</a> - catálogos de servidores de preprint</li>
+                <li>y otros...</li>
             </ul>
         </td>
     </tr>
   </tbody>
 </table>
 
-Publications that provide some levels of open access are tracked in the [Directory of Open Access Journals (DOAJ).](https://doaj.org/)
+Las publicaciones que proporcionan algunos niveles de acceso abierto se rastrean en el [Directorio de Revistas de Acceso Abierto (DOAJ).](https://doaj.org/)
 
-**Web Searches**
+**Búsquedas en Internet**
 
-Open results include much more than open-access peer-reviewed publications. How do you find these alternative types of research objects?
+Los resultados abiertos incluyen mucho más que publicaciones revisadas por pares de acceso abierto. ¿Cómo se encuentran estos tipos alternativos de objetos de investigación?
 
-Open communities and forums offer the best way to find research objects other than complete publications. How do you even find out whether these exist and where they are?
+Las comunidades abiertas y los foros ofrecen la mejor manera de encontrar objetos de investigación que no sean publicaciones completas. ¿Cómo averiguar si existen y dónde están?
 
-Once you have found a few peer-reviewed articles that are highly relevant, to find additional research objects, you can follow the authors on social media for links to their posts, blogs, and activities. There are open communities in almost every area of research - find yours! Here are different platforms to locate these conversations and resources:
+Una vez que haya encontrado algunos artículos revisados por pares que son muy relevantes, para encontrar objetos de investigación adicionales, usted puede seguir a los autores de las redes sociales para enlaces a sus mensajes, blogs y actividades. Hay comunidades abiertas en casi todas las áreas de investigación - ¡encuentra la tuya! Aquí están diferentes plataformas para localizar estas conversaciones y recursos:
 
 - GitHub
 - LinkedIn
 - YouTube
 - Google/Bing
-- Conference websites
-- X, formally known as Twitter
+- Sitios web de las conferencias (Conference websites)
+- X, conocido formalmente como Twitter
 - Facebook
 - Medium
 - Substack
@@ -111,11 +111,11 @@ Once you have found a few peer-reviewed articles that are highly relevant, to fi
 - Reddit
 - Mastodon
 
-Various research objects, including datasets and software, are frequently attached to scholarly publications in the form of supplemental material. At other times, the source is referenced in the paper, which could be a GitHub repository, personal/institutional website, or other storage site. This can be another starting point, by engaging in discussions on the GitHub repository.
+Los diversos objetos de investigación, incluidos los conjuntos de datos y el software, se adjuntan con frecuencia a publicaciones científicas en forma de material suplementario. En otras ocasiones, se hace referencia a la fuente en el documento, que podría ser un repositorio de GitHub, un sitio web personal/institucional u otro sitio de almacenamiento. Este puede ser otro punto de partida, entablando discusiones en el repositorio de GitHub.
 
-**Kerchunk Example:** In lesson 1, a blog post about a software library 'kerchunk' was presented. Let's look at a [post](https://discourse.pangeo.io/t/trick-for-improving-kerchunk-performance-for-large-numbers-of-chunks-files/3090) on the [Pangeo Discourse Forum](https://discourse.pangeo.io/) of Kerchunk with a large number of views. The open science [Pangeo project](https://pangeo.io/) worked completely in the open. The [project website](https://pangeo.io/) (run off of GitHub) has links to blog posts, a discussion forum, and a calendar to all their meetings which anyone was welcome to join. This has resulted in an engaged and dynamic community. An example of this comes from the post linked to above, where one person asks for help, others reply, and the conversation is documented in the open. The post’s 636 views indicate that this question, or one similar, has occurred to others. Imagine if this had been done over private email? By working in the open, they are improving science and helping everyone become faster and more accurate.
+**Ejemplo de Kerchunk:** En la lección 1, se presentó una entrada de blog sobre una biblioteca de software «kerchunk». Veamos un [post](https://discourse.pangeo.io/t/trick-for-improving-kerchunk-performance-for-large-numbers-of-chunks-files/3090) en el [Pangeo Discourse Forum](https://discourse.pangeo.io/) de Kerchunk con un gran número de visitas. La ciencia abierta [proyecto Pangeo](https://pangeo.io/) funcionaba completamente abierta. El [sitio web del proyecto](https://pangeo.io/) (gestionado desde GitHub) tiene enlaces a entradas de blog, un foro de debate y un calendario de todas sus reuniones, a las que cualquiera puede unirse. Esto ha dado lugar a una comunidad comprometida y dinámica. Un ejemplo de ello es el post enlazado más arriba, en el que una persona pide ayuda, otras responden y la conversación se documenta abiertamente. Las 636 visitas del post indican que esta pregunta, o una parecida, se les ha ocurrido a otras personas. Imagínese si esto se hubiera hecho por correo electrónico privado? Al trabajar de forma abierta, están mejorando la ciencia y ayudando a todos a ser más rápidos y precisos.
 
-## How to Assess Open Results
+## Cómo evaluar resultados abiertos
 
 "Garbage in, garbage out" – your own research products are only as good as the data used in your investigation.
 
