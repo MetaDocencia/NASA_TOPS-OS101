@@ -1,19 +1,19 @@
-# Lesson 3: Making Open Results
+# Lección 3: Haciendo Los Resultados Abiertos
 
-## Navigation
+## Contenidos
 
-- [How to Make Open Results](#how-to-make-open-results)
-- [Role of Contributors in Open Science](#role-of-contributors-in-open-science)
-- [How to Give Open Recognition](#how-to-give-open-recognition)
-- [Combining Open Results for Scientific Reporting and Publications](#combining-open-results-for-scientific-reporting-and-publications)
-- [Lesson 3: Summary](#lesson-3-summary)
-- [Lesson 3: Knowledge Check](#lesson-3-knowledge-check)
+- [Cómo hacer los resultados abiertos](#how-to-make-open-results)
+- [Rol de contribuidores en ciencia abierta](#role-of-contributors-in-open-science)
+- [Cómo dar reconocimiento abierto](#how-to-give-open-recognition)
+- [Combinar Resultados Abiertos para Informes Científicos y Publicaciones](#combining-open-results-for-scientific-reporting-and-publications)
+- [Lección 3: Resumen](#lesson-3-summary)
+- [Lección 3: Validar conocimientos](#lesson-3-knowledge-check)
 
-## Overview
+## Resumen
 
-In Lesson 2 you learned how to use other's results. In this lesson, we focus on making open results. We will start by discussing what it means to make reproducible results. Having earlier in the course discussed the computational reproducibility practices in open software, in this lesson, we specifically emphasize the importance of collaborations in making those results open and reproducible. This begins with acknowledging that the scientific results are not made by single individuals. We will then teach how to ensure equitable, fair, and successful collaborations when making your open results that acknowledge all contributions. Once you’ve planned the rules of engagement, we will provide you with ways to ensure that your reporting and publication abide by open results principles and combat the reproducibility crisis.
+En la lección 2 aprendió a usar los resultados de otros. En esta lección, nos centraremos en lograr resultados abiertos. Empezaremos por debatir qué significa conseguir resultados reproducibles. Habiendo comentado anteriormente en el curso las prácticas de reproducibilidad computacional en software abierto, en esta lección, enfatizamos específicamente la importancia de las colaboraciones para que estos resultados sean abiertos y reproducibles. Empezando por reconocer que los resultados científicos no son obtenidos por individuos. Entonces enseñaremos cómo asegurar colaboraciones equitativas, justas y exitosas al hacer sus resultados abiertos que reconozcan todas las contribuciones. Una vez que has planeado las reglas de compromiso, le proporcionaremos formas de asegurar que su reporte y publicación cumplan con los principios de resultados abiertos y combatan la crisis de reproducibilidad.
 
-## Learning Objectives
+## Objetivos de aprendizaje
 
 After completing this lesson, you should be able to:
 
