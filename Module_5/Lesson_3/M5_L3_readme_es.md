@@ -384,7 +384,7 @@ Una comunicación clara sobre roles y responsabilidades al inicio del proyecto, 
 
 ### Roles diversos entre colaboradores
 
-Es importante establecer una referencia para cada equipo de investigación/proyecto sobre los diferentes tipos de responsabilidades y oportunidades disponibles para los colaboradores, así como el reconocimiento que recibirá cada uno de ellos. [CRediT Taxonomy](https://credit.niso.org/) representa los roles típicamente desempeñados por los colaboradores de una investigación en la creación de una producción científica. A continuación, proporcionamos una tabla con roles de investigación que amplían la taxonomía de CRediT para incluir otras contribuciónes ([Sharan, 2022](https://zenodo.org/record/8403386)). Utilizando esto como punto de partida, se puede facilitar la discusión mediante un diálogo abierto entre los miembros del equipo para establecer un entendimiento compartido y un acuerdo sobre los diversos roles de los colaboradores, incluida la autoría de publicaciones. The distinction between contribution types can help set clear expectations about responsibilities and how they can be recognized in a project.
+Es importante establecer una referencia para cada equipo de investigación/proyecto sobre los diferentes tipos de responsabilidades y oportunidades disponibles para los colaboradores, así como el reconocimiento que recibirá cada uno de ellos. [CRediT Taxonomy](https://credit.niso.org/) representa los roles típicamente desempeñados por los colaboradores de una investigación en la creación de una producción científica. A continuación, proporcionamos una tabla con roles de investigación que amplían la taxonomía de CRediT para incluir otras contribuciónes ([Sharan, 2022](https://zenodo.org/record/8403386)). Utilizando esto como punto de partida, se puede facilitar la discusión mediante un diálogo abierto entre los miembros del equipo para establecer un entendimiento compartido y un acuerdo sobre los diversos roles de los colaboradores, incluida la autoría de publicaciones. La distinción entre los tipos de contribución puede ayudar a establecer expectativas claras sobre las responsabilidades y cómo pueden ser reconocidas en un proyecto.
 
 <table>
 <colgroup>
@@ -393,30 +393,30 @@ Es importante establecer una referencia para cada equipo de investigación/proye
 </colgroup>
 <thead>
     <tr>
-        <th>Research Roles</th>
-        <th>Definition</th>
+        <th>Roles de investigación</th>
+        <th>Definición</th>
     </tr>
 </thead>
 <tbody>
     <tr>
-        <td>Project Administration</td>
-        <td>Management and coordination responsibility for the research activity planning and execution</td>
+        <td>Administración del proyecto</td>
+        <td>Responsabilidad de gestión y coordinación de la planificación y ejecución de las actividades de investigación</td>
     </tr>
     <tr>
-        <td>Funding Acquisition</td>
-        <td>Acquisition of the financial support for the project leading to the research and publications</td>
+        <td>Adquisición de fondos</td>
+        <td>La adquisición del respaldo financiero para el proyecto que conduzca a generar la investigación y las publicaciones</td>
     </tr>
     <tr>
-        <td>Community Engagement</td>
-        <td>Connecting with project stakeholders, enabling collaboration, identifying resources, and managing contributors interactions</td>
+        <td>Participación en comunidades</td>
+        <td>Conectar con los interesados en el proyecto, habilitar la colaboración, identificar recursos y administrar las interacciones de los colaboradores</td>
     </tr>
     <tr>
-        <td>Equity, Diversity, Inclusion and Accessibility (EDIA)</td>
-        <td>Inclusive approaches to collaboration and research, involvement of diverse contributors, accessibility of resources, consideration of disability, neurodiversity and other considerations for equitable participation</td>
+        <td>Equidad, Diversidad, Inclusión y Accesibilidad (EDIA)</td>
+        <td>Enfoques inclusivos para la colaboración e investigación, involucrar a contribuyentes diversos, accesibilidad de recursos, consideración de discapacidades, neurodiversidades y otras consideraciones para una participación equitativa</td>
     </tr>
     <tr>
-        <td>Ethics Review</td>
-        <td>Ensure that if the research project needs to undergo an ethics review process</td>
+        <td>Revisión ética</td>
+        <td>Asegúrese de que si el proyecto de investigación necesita someterse a un proceso de revisión de ética</td>
     </tr>
     <tr>
         <td>Communications and Engagement</td>
