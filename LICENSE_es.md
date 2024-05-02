@@ -1,3 +1,3 @@
-Este trabajo está bajo una licencia <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+Este trabajo está bajo una <a rel="license" href="https://creativecommons.org.ar/licencias/">Licencia Internacional Creative Commons Reconocimiento – Compartir Igual (CC-BY-SA) 4.0</a>.
 
 El material que no está bajo licencia CC-BY está marcado con una licencia para ese material.
