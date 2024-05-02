@@ -283,30 +283,30 @@ Si tus aportes resultan en una contribución intelectual sustancial al trabajo, 
 
 Lamentablemente, muchas veces no existen pautas de contribución y no está claro qué es "sustancial".
 
-### Open Results User Responsibilities
+### Responsabilidades del Usuario de Resultados Abiertos
 
-- **Institutional Security Compliance:** Always download code from an authoritative source and be familiar with / follow your institution’s IT security policies.
-- **Licensing Policies:** Understand and abide by the license(s) associated with the open results materials being used.
-- **Attribution and Contribution:** Provide appropriate attribution for the open results used and contribute to the open results community.
+- **Cumplimiento de la Seguridad Institucional:** Descarga siempre el código de una fuente autorizada y conoce/sigue las políticas de seguridad informática de tu institución.
+- **Políticas de Licencia:** Comprende y respete la(s) licencia(s) asociada(s) con los materiales de resultados abiertos que estás utilizando.
+- **Atribución y contribución:** Proporciona una atribución adecuada para los resultados abiertos utilizados y contribuye a la comunidad de resultados abiertos.
 
-Additionally, give credit to repositories that provide open source materials in the acknowledgement section of your paper. If the repository provides an acknowledgments template in their “About” link, follow that suggestion. Otherwise, a generic "This research has made use of \\<insert repository name\>." will be sufficient.
+Además, da crédito a los repositorios que proporcionan materiales de código abierto en la sección de agradecimientos de su artículo. Si el repositorio proporciona un modelo de agradecimientos en su enlace "Acerca de", sigue esa sugerencia. De lo contrario, una frase genérica como "Este trabajo ha hecho uso de <inserte el nombre del repositorio>." será suficiente.
 
-### Avoid Plagiarism When Using Open Results
+### Evitar el Plagio al Utilizar Resultados Abiertos
 
-Standard guidelines that you’ve been using in your research all along for providing appropriate attribution and citations of closed access publications also apply to open access published works.
+Las pautas habituales que ha estado utilizando en su investigación todo el tiempo para proporcionar la atribución y las citas apropiadas de las publicaciones de acceso cerrado también se aplican a los trabajos publicados en acceso abierto.
 
-Examples of plagiarism include:
+Algunos ejemplos de plagio son:
 
-- Word-for-word copying without permission and source acknowledgement.
-- Copying components (tables, processes, equipment) without source attribution.
-- Paraphrasing an idea without proper source referencing.
-- Recycling one's own past work and presenting as a new paper.
+- Copia palabra por palabra sin permiso y sin reconocimiento de la fuente.
+- Copiar componentes (tablas, procesos, equipos) sin citar la fuente.
+- Parafrasear una idea sin citar correctamente la fuente.
+- Reciclar el propio trabajo anterior y presentarlo como un nuevo documento.
 
-#### FACTSHEET: Plagiarism
+#### HOJA INFORMATIVA: Plagio
 
-**Here is a useful guide regarding the different forms of plagiarism**
+**Aquí hay una guía útil sobre las diferentes formas de plagio**
 
-[CLICK TO LEARN](https://www.elsevier.com/editor/perk/plagiarism-complaints#0-introduction)
+[HAZ CLIC PARA APRENDER MÁS](https://www.elsevier.com/editor/perk/plagiarism-complaints#0-introduction) (en inglés)
 
 ## How to Cite Open Results
 
