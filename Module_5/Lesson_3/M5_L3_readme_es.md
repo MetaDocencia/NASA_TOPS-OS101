@@ -15,55 +15,55 @@ En la lección 2 aprendió a usar los resultados de otros. En esta lección, nos
 
 ## Objetivos de aprendizaje
 
-After completing this lesson, you should be able to:
+Después de completar este módulo, deberías poder:
 
-- Identify approaches to make different types of open results.
-- Recognize the importance of collaboration in making results.
-- Develop contribution guidelines to enable recognition of contributors who make results.
-- Combine different open results to create scientific reports and reproducible outputs.
+- Identificar enfoques para hacer diferentes tipos de resultados abiertos.
+- Reconocer la importancia de la colaboración en la obtención de resultados.
+- Desarrollar directrices de contribución para permitir el reconocimiento de los contribuyentes que obtienen resultados.
+- Combinar diferentes resultados abiertos para crear informes científicos y resultados reproducibles.
 
-## How to Make Open Results
+## Cómo hacer los resultados abiertos
 
-### Capturing the Research Process Accurately in the Making of Results
+### Capturando el proceso de investigación con precisión en la elaboración de resultados
 
-> I am aware of the reproducibility crisis and how open science can help combat it. What practical ways can I apply to my research outputs to make open results? How can I ensure that the results I share can be reproduced by others? How can I publish scientiﬁc publications that do not add to, but combat the reproducibility crisis?
+> Explicaremos qué es la crisis de reproducibilidad y cómo la ciencia abierta puede ayudarte a combatirla. ¿Qué formas prácticas puedo aplicar a mis resultados de investigación para obtener resultados abiertos? ¿Cómo puedo asegurarme de que los resultados que comparto puedan ser reproducidos por otros? ¿Cómo puedo publicar publicaciones científicas que no añaden, sino que combatan la crisis de reproducibilidad?
 
-In the Ethos of Open Science, you learned about the ethics and principles underlying responsible open science practices. In Open Software, you explored and identified the right tools and methods that ensure the usability and reproducibility of your analysis. In Open Data, you developed a data management plan that can ensure the Findability, Accessibility, Interoperability and Reusability (FAIR) of your data throughout the research process, and not just at the end when the final report from the project is released. These open science approaches directly address the root causes of the reproducibility crisis, which are a lack of openness throughout the scientific process, lack of documentation, poor description of intermediate methods or missing data that were used at intermediate stages of the research process. In this lesson, you will learn to put all of these together to ensure that you are prepared to make your open results easy to reproduce by others.
+En la Ethos of Open Science, usted aprendió sobre la ética y los principios subyacentes a prácticas científicas abiertas responsables. En Open Software, usted exploró e identificó las herramientas y métodos correctos que aseguran la usabilidad y reproducibilidad de su análisis. En Open Data, ha desarrollado un plan de gestión de datos que puede garantizar la accesibilidad, accesibilidad, Interoperabilidad y reutilización (FAIR) de sus datos a lo largo del proceso de investigación, y no sólo al final cuando se publica el informe final del proyecto. Estos enfoques científicos abiertos abordan directamente las causas profundas de la crisis de reproducibilidad, que son la falta de apertura durante todo el proceso científico. falta de documentación, descripción deficiente de métodos intermedios o datos faltantes que se utilizaron en etapas intermedias del proceso de investigación. En esta lección, aprenderá a juntar todos estos elementos para asegurar que esté preparado para hacer que sus resultados abiertos sean fáciles de reproducir por otros.
 
-In Lesson 1, we identified different research components that can be considered open results at various stages of research. In this lesson, we want to specifically explain what processes are involved in making them.
+En la Lección 1, identificamos diferentes componentes de investigación que pueden considerarse resultados abiertos en varias etapas de la investigación. En esta lección, queremos explicar específicamente qué procesos están involucrados en su elaboración.
 
-### Case Study: Open Results from Distributed Multi-Team Event Horizon Telescope Collaboration (EHTC)
+### Estudio de Caso: Resultados Abiertos de Colaboración del Telescopio de Eventos Distribuidos por Multi-Equipo (EHTC)
 
-**Example:** Capturing results on activities ranging from collaboration to observations, image generation to interpretation.
+**Ejemplo:** Capturando resultados de actividades que van desde la colaboración hasta las observaciones, generación de imágenes hasta interpretación.
 
-In 2017, the Event Horizon Telescope targeted supermassive black holes with the largest apparent event horizons: M87, and Sgr A\* in the Galactic Center on four separate days. This distributed collaboration led to the multi-petabyte yield of data that allowed astronomers to unveil the first image of a black hole providing the strongest visual evidence of their existence. The [EHTC website](https://eventhorizontelescope.org/) provides information about research projects, scientific methods, instruments, press and media resources (such as blog posts, news articles and YouTube videos), as well as events, data, proposals and publications. This project shows large-scale and high-impact work that applies open practices in making their results. Different kinds of outputs shared under this project can be mapped to different stages of the research process and the teams involved in creating them.
+En 2017, el telescopio Horizon de Eventos apuntó a agujeros negros supermasivos con los horizontes de eventos aparentes más grandes: M87, y Sgr A\* en el Centro Galáctico en cuatro días separados. Esta colaboración distribuida condujo al rendimiento multipetabyte de los datos que permitieron a los astronómeros revelar la primera imagen de un agujero negro proporcionando la más fuerte evidencia visual de su existencia. El [sitio web de EHTC](https://eventhorizontelescope.org/) proporciona información sobre proyectos de investigación, métodos científicos, instrumentos, medios de prensa y medios (como publicaciones del blog, artículos de noticias y vídeos de YouTube), así como eventos, datos, propuestas y publicaciones. Este proyecto muestra un trabajo a gran escala y de alto impacto que aplica prácticas abiertas para lograr sus resultados. Diferentes tipos de resultados compartidos bajo este proyecto pueden ser mapeados a diferentes etapas del proceso de investigación y a los equipos involucrados en su creación.
 
-### Making Results and Crediting Contributors Fairly at Different Stages of Research
+### Obteniendo resultados y acreditando a los contribuyentes de manera justa en diferentes etapas de la investigación
 
-The case studies listed above highlight that results associated with a project are more than a publication. By understanding how open results are created in different projects, we can gain deep insights into the processes for making them. With that goal, the rest of this lesson describes the process of making results into three parts: 1) making all types of research outputs; 2) recognizing all contributors; and 3) combining outputs for scientific reporting and publications.
+Los estudios de caso mencionados anteriormente destacan que los resultados asociados con un proyecto son más que una publicación. Entendiendo cómo se crean los resultados abiertos en diferentes proyectos, podemos obtener información profunda sobre los procesos para realizarlos. Con ese objetivo, el resto de esta lección describe el proceso de hacer resultados en tres partes: 1) hacer todo tipo de resultados de investigación; 2) reconocer a todos los colaboradores; y 3) combinar los resultados para la elaboración de informes científicos y publicaciones.
 
-### Making All Types of Research Outputs
+### Haciendo todos los tipos de resultados de investigación
 
-New ways of working with creative approaches for collaboration and communication in research have opened up opportunities to engage with the broader research communities by sharing scientific outcomes as they develop, rather than at the end through summary articles. A range of research components are created throughout the research lifecycle that can be shared openly. For example, resources created in a scientific project include, but are not limited to the following:
+Las nuevas formas de trabajar con enfoques creativos para la colaboración y la comunicación en investigación han abierto oportunidades para comprometerse con las comunidades de investigación más amplias compartiendo los resultados científicos a medida que se desarrollan, en vez de al final a través de artículos resumidos. Se crean una serie de componentes de investigación a lo largo del ciclo de vida de la investigación que pueden compartirse abiertamente. Por ejemplo, los recursos creados en un proyecto científico incluyen, pero no se limitan a lo siguiente:
 
 <table>
   <thead>
     <tr>
-        <th>IDEATION AND PLANNING ☑</th>
-        <th>DATA COLLECTION AND EXPLORATION</th>
-        <th>COMMUNITY ENGAGEMENT AND REPRODUCIBILITY</th>
-        <th>PRESERVATION AND PUBLICATION</th>
+        <th>IDEACIÓN Y PLANIFICACIÓN ☑</th>
+        <th>COLECCIÓN Y EXPLORACIÓN DE DATOS</th>
+        <th>PARTICIPACIÓN COMUNITARIA Y REPRODUCIBILIDAD</th>
+        <th>PRESERVACIÓN Y PUBLICACIÓN</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Ideation and planning – perhaps before the research project is funded or started:</p>
+            <p>Ideación y planificación – tal vez antes de que el proyecto de investigación sea financiado o iniciado:</p>
             <ul>
-                <li>Research proposals</li>
-                <li>People and organizations involved</li>
-                <li>Research ethics guidelines</li>
-                <li>Data management plan</li>
+                <li>Propuestas de investigación</li>
+                <li>Personas y organizaciones involucradas</li>
+                <li>Directrices de ética de investigación</li>
+                <li>Plan de gestión de datos</li>
             </ul>
         </td>
     </tr>
@@ -73,24 +73,24 @@ New ways of working with creative approaches for collaboration and communication
 <table>
   <thead>
     <tr>
-        <th>IDEATION AND PLANNING</th>
-        <th>DATA COLLECTION AND EXPLORATION ☑</th>
-        <th>COMMUNITY ENGAGEMENT AND REPRODUCIBILITY</th>
-        <th>PRESERVATION AND PUBLICATION</th>
+        <th>IDEACIÓN Y PLANIFICACIÓN</th>
+        <th>RECOPILACIÓN Y EXPLORACIÓN DE DATOS ☑</th>
+        <th>PARTICIPACIÓN COMUNITARIA Y REPRODUCIBILIDAD</th>
+        <th>PRESERVACIÓN Y PUBLICACIÓN</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Data collection and exploration – research artifacts created during the active research process:</p>
+            <p>Recopilación y exploración de datos - artefactos de investigación creados durante el proceso de investigación activo:</p>
             <ul>
-                <li>Project repository</li>
-                <li>Project roadmap and milestones</li>
-                <li>Resource requirements</li>
-                <li>Project management resources (without sensitive information)</li>
-                <li>Collaboration processes like Code of Conduct and contributor guidelines</li>
-                <li>Virtual research environment</li>
-                <li>Data and metadata information</li>
+                <li>Repositorio del proyecto</li>
+                <li>Hoja de ruta e hitos del proyecto</li>
+                <li>Requisitos de recursos</li>
+                <li>Recursos de gestión del proyecto (sin información sensible)</li>
+                <li>Procesos de colaboración como Código de Conducta y pautas de colaboradores</li>
+                <li>Entorno de investigación virtual</li>
+                <li>Información de datos y metadatos</li>
             </ul>
         </td>
     </tr>
@@ -100,25 +100,25 @@ New ways of working with creative approaches for collaboration and communication
 <table>
   <thead>
     <tr>
-        <th>IDEATION AND PLANNING</th>
-        <th>DATA COLLECTION AND EXPLORATION</th>
-        <th>COMMUNITY ENGAGEMENT AND REPRODUCIBILITY ☑</th>
-        <th>PRESERVATION AND PUBLICATION</th>
+        <th>IDEACIÓN Y PLANIFICACIÓN</th>
+        <th>COLECCIÓN Y EXPLORACIÓN DE DATOS</th>
+        <th>PARTICIPACIÓN COMUNITARIA Y REPRODUCIBILIDAD ☑</th>
+        <th>PRESERVACIÓN Y PUBLICACIÓN</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Community engagement and reproducibility – most valuable during the project period:</p>
+            <p>Compromiso de la comunidad y reproducibilidad – más valioso durante el período del proyecto:</p>
             <ul>
-                <li>Training and education materials</li>
-                <li>Computational notebooks</li>
-                <li>Computational workflow</li>
-                <li>Code repository (version controlled)</li>
-                <li>Blog posts</li>
-                <li>Short form videos and podcasts</li>
-                <li>Social media posts</li>
-                <li>Forum discussions (for example when asking for feedback or troubleshooting)</li>
+                <li>Materiales de formación y educación</li>
+                <li>Cuadernos computacionales</li>
+                <li>Flujo de trabajo computacional</li>
+                <li>Repositorio de código (versión controlada)</li>
+                <li>Publicaciones en Blogs</li>
+                <li>Vídeos de corta duración y podcasts</li>
+                <li>Publicaciones en redes sociales</li>
+                <li>Discusiones del foro (por ejemplo cuando se solicita comentarios o solución de problemas)</li>
             </ul>
         </td>
     </tr>
@@ -128,23 +128,23 @@ New ways of working with creative approaches for collaboration and communication
 <table>
   <thead>
     <tr>
-        <th>IDEATION AND PLANNING</th>
-        <th>DATA COLLECTION AND EXPLORATION</th>
-        <th>COMMUNITY ENGAGEMENT AND REPRODUCIBILITY</th>
-        <th>PRESERVATION AND PUBLICATION ☑</th>
+        <th>IDEACIÓN Y PLANIFICACIÓN</th>
+        <th>COLECCIÓN Y EXPLORACIÓN DE DATOS</th>
+        <th>PARTICIPACIÓN COMUNITARIA Y REPRODUCIBILIDAD</th>
+        <th>PRESERVACIÓN Y PUBLICACIÓN ☑</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Preservation and publication – expected to persist long-term:</p>
+            <p>Preservación y publicación: se espera que persista a largo plazo:</p>
             <ul>
-                <li>Publication and authorship guidelines</li>
-                <li>Open access peer-reviewed articles</li>
-                <li>Conference abstracts and presentations</li>
-                <li>End of project report</li>
-                <li>User manual or documentation</li>
-                <li>Public outreach and events</li>
+                <li>Directrices de publicación y autor</li>
+                <li>Libre acceso a artículos revisados para publicaciones</li>
+                <li>Abstractos y presentaciones de la conferencia</li>
+                <li>Fin del informe del proyecto</li>
+                <li>Manual de usuario o documentación</li>
+                <li>Eventos y actividades públicas</li>
             </ul>
         </td>
     </tr>
@@ -153,13 +153,13 @@ New ways of working with creative approaches for collaboration and communication
 
 <img style="width:100%;height:auto;" src="../images/media/turingwayillustration.jpg">
 
-Image credit: The Turing Way project illustration by Scriberia. Zenodo.
+Crédito de la imagen: Ilustración del proyecto Turing Way de Scriberia. Zenodo.
 
 ---
 
-You have already come across some of these in the previous lessons, and hopefully, you could already identify which of these or additional outputs you are generating in your work. To make them part of your open results, it's important that they are shared openly with appropriate licensing and documentation so that others can read, investigate and when possible, reuse or build upon them.
+Ya se ha encontrado con algunos de estos en las lecciones anteriores y, con suerte, ya podrá identificar cuáles de estos u otros resultados está generando en su trabajo. Para hacerlos parte de sus resultados abiertos, es importante que sean compartidos abiertamente con la licencia y la documentación apropiadas para que otros puedan leer, investigar y cuando sea posible, reutilizar o construir sobre ellos.
 
-### Making Open and Reproducible Results
+### Haciendo resultados abiertos y reproducibles
 
 Open science ultimately informs our decisions as scientists and guides the selection of approaches that contribute to making our results open at different stages. One of the main purposes of open results is to ensure research reproducibility, often explained through definitions such as the following by [Stodden (2015)](https://www.annualreviews.org/doi/10.1146/annurev-statistics-010814-020127):
 
