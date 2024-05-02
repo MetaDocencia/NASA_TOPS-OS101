@@ -1,9 +1,9 @@
-# Lesson 1: Introduction to Open Results
+# Lección 1: Introducción a Resultados Abiertos
 
-## Navigation
+## Temas a desarrollar
 
-- [What Research Objects are Created Throughout the Research Cycle?](#what-research-objects-are-created-throughout-the-research-cycle)
-- [Examples of Open Results](#examples-of-open-results)
+- [¿Qué objetos de investigación se crean a lo largo del ciclo de investigación?](#what-research-objects-are-created-throughout-the-research-cycle)
+- [Ejemplos de resultados abiertos](#examples-of-open-results)
 - [What is the Reproducibility Crisis?](#what-is-the-reproducibility-crisis)
 - [Lesson 1: Summary](#lesson-1-summary)
 - [Lesson 1: Knowledge Check](#lesson-1-knowledge-check)
