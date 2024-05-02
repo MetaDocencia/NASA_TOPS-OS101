@@ -4,21 +4,21 @@
 
 - [¿Qué objetos de investigación se crean a lo largo del ciclo de investigación?](#what-research-objects-are-created-throughout-the-research-cycle)
 - [Ejemplos de resultados abiertos](#examples-of-open-results)
-- [What is the Reproducibility Crisis?](#what-is-the-reproducibility-crisis)
-- [Lesson 1: Summary](#lesson-1-summary)
-- [Lesson 1: Knowledge Check](#lesson-1-knowledge-check)
+- [¿Qué es la crisis de reproducibilidad?](#what-is-the-reproducibility-crisis)
+- [Lección 1: Resumen](#lesson-1-summary)
+- [Lección 1: Evaluación](#lesson-1-knowledge-check)
 
-## Overview
+## Descripción general
 
-This lesson aims to broaden your perspective regarding what shareable research outputs are produced throughout the research lifecycle. We will first consider what constitutes an open result. To do so, we will read an example of a forward-thinking research project that utilizes open result best practices. The perspectives gained from this example will ultimately get us thinking about how we can work towards creating reproducible research.
+Esta lección tiene como objetivo ampliar tu perspectiva sobre los resultados de investigación compartibles que se producen a lo largo del ciclo de vida de la investigación. Primero consideraremos qué es un resultado abierto. Para hacerlo, leeremos un ejemplo de un proyecto de investigación de vanguardia que utiliza las mejores prácticas de resultados abiertos. Las perspectivas obtenidas con este ejemplo nos harán reflexionar sobre cómo podemos trabajar para crear investigación reproducible.
 
-## Learning Objectives
+## Objetivos de aprendizaje
 
-After completing this lesson, you should be able to:
+Después de completar esta lección, deberías ser capaz de:
 
-- Describe what constitutes open results and list the research objects that can be created throughout a research cycle.
-- Describe how sharing open results can advance science and your career.
-- Explain what the reproducibility crisis is and how open science can help combat it.
+- Describir qué constituye resultados abiertos y enumerar los objetos de investigación que pueden ser creados a lo largo de un ciclo de investigación.
+- Describir cómo compartir resultados abiertos puede hacer progresar la ciencia y tu carrera.
+- Explicar qué es la crisis de reproducibilidad y cómo la ciencia abierta puede ayudar a combatirla.
 
 ## What Research Objects are Created Throughout the Research Cycle?
 
