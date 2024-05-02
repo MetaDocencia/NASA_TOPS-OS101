@@ -56,19 +56,19 @@ Siguiendo a [Garcia-Silva et al. 2019](https://www.sciencedirect.com/science/art
 
 El término "resultados abiertos" incluye de manera integral todos estos productos de investigación y más.
 
-Open results can include both data and code. Since data and code were covered in previous modules, in this lesson, we focus on sharing science outcomes as open results. Examples of open results can include:
+Los resultados abiertos pueden incluir tanto datos como código. Dado que los datos y el código fueron cubiertos en módulos anteriores, en esta lección nos enfocamos en compartir los resultados científicos como resultados abiertos. Ejemplos que pueden incluirse como resultados abiertos:
 
-- Open access peer-reviewed articles
-- Technical reports
-- Computational notebooks
-- Code of conduct, contributor guidelines, publication policies
-- Blog posts
-- Short form videos and podcasts
-- Social media posts
-- Conference abstracts and presentations
-- Forum discussions
+- Artículos con revisión de pares de acceso abierto.
+- Informes técnicos.
+- Cuadernos computacionales.
+- Códigos de conducta, instrucciones para colaboradores, políticas de publicación.
+- Publicaciones de blog.
+- Vídeos cortos y _podcasts_.
+- Publicaciones en redes sociales.
+- Resúmenes y presentaciones en conferencias.
+- Discusiones en foros.
 
-Open access peer-reviewed articles are archived for long-term preservation and represent a more formal discussion of scientific ideas, interpretations, and conclusions. These discussions inform the method that researchers share results. In the following lesson section, we will discuss different types of sharing and methods to build and adapt them for use in your research.
+Los artículos revisados por pares de acceso abierto se archivan para su conservación a largo plazo y representan un debate más formal de ideas científicas, interpretaciones y conclusiones. Estos debates informan el método que los investigadores utilizan para compartir resultados. En la siguiente sección de la lección, discutiremos diferentes tipos de divulgación y métodos para construirlos y adaptarlos para usar en tu investigación.
 
 Scientists can share their incremental progress throughout the research process and invite community feedback. Sharing more parts of the research process creates more interactions between researchers and can improve the end result (which may be a peer-reviewed article).
 
