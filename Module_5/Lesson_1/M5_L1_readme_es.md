@@ -42,19 +42,19 @@ Más tarde, en la década de 1940, la publicación se comenzó a comercializar y
 
 <img src="../images/media/image6.png" style="width:350px;height:auto;" />
 
-Solo en el siglo XXI la comunidad científica amplió el significado de resultados abiertos. The evolution of this definition was driven by technological advances, such as the internet, and advances in modes to share information. The open access movement was established by the [Budapest Open Access Initiative](https://www.budapestopenaccessinitiative.org/) in 2002 and the [Berlin Declaration on Open Access](https://openaccess.mpg.de/Berlin-Declaration) in 2003, both of which formalized the idea that, with regards to new knowledge, there should be "free availability on the public internet, permitting any users to read, download, copy, distribute, print, search, or link to the full texts of these articles" (Budapest Open Access Initiative).
+Solo en el siglo XXI la comunidad científica amplió el significado de resultados abiertos. La evolución de esta definición fue impulsada por avances tecnológicos, como Internet y mejoras en los modos de compartir información. El movimiento de acceso abierto fue establecido por la [_Budapest Open Access Initiative_](https://www.budapestopenaccessinitiative.org/) (en español, Iniciativa de Acceso Abierto de Budapest) en 2002 y la [_Berlin Declaration on Open Access_](https://openaccess.mpg.de/Berlin-Declaration) (en español, Declaración de Berlín sobre Acceso Abierto) en 2003, ambos formalizaron la idea de que, con respecto a los nuevos conocimientos, debería haber "disponibilidad gratuita en la Internet pública, permitir a cualquier usuario leer, descargar, copiar, distribuir, imprimir, buscar o enlazar al texto completo de estos artículos" (_Budapest Open Access Initiative_).
 
-### But Results Have Always Been Far More Than Just the Publication
+### Pero los resultados siempre han sido mucho más que sólo la publicación
 
-You might be familiar with the research life cycle, but may not have considered what results could be shared openly throughout its process. This lesson adopts a definition of the research life cycle based on [The Turing Way](https://the-turing-way.netlify.app/index.html) and breaks it down into nine phases based, pictured in the figure below.
+Es posible que estés familiarizado con el ciclo de vida de una investigación, pero es posible que no hayas considerado qué resultados podrían compartirse abiertamente a lo largo de su proceso. Esta lección adopta una definición del ciclo de vida de la investigación basada en [_The Turing Way_](https://the-turing-way.netlify.app/index.html) y lo desglosa en nueve fases, como se muestra en la figura a continuación.
 
-Although the phases are presented in a linear fashion, we acknowledge that the research lifecycle is rarely ever linear! Products are created throughout the scientific process that are needed to enable others to reproduce the findings. The products of research include data, code, analysis pipelines, papers, and more!
+Aunque las fases se presentan de forma lineal, ¡reconocemos que el ciclo de vida de la investigación rara vez es lineal! A lo largo del proceso científico se crean productos que son necesarios para permitir que otras personas reproduzcan los hallazgos. Los productos de la investigación incluyen datos, códigos, secuencias de análisis, artículos, ¡y más!
 
-Following [Garcia-Silva et al. 2019](https://www.sciencedirect.com/science/article/abs/pii/S0167739X18314638), we define a Research object (RO) as a method for the identification, aggregation and exchange of scholarly information on the Web. Research objects can be composed of both research data and digital research objects that are defined as follows by the Organization for Economic Co-Operation and Development ([OECD Legal Instruments](https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0347)).
+Siguiendo a [Garcia-Silva et al. 2019](https://www.sciencedirect.com/science/article/abs/pii/S0167739X18314638), definimos un objeto de investigación (_Research Object_, RO por sus siglas en inglés) como un método para la identificación, agregación e intercambio de información académica en la Web. Los objetos de investigación pueden estar compuestos tanto por datos de investigación como por objetos de investigación digitales, que están definidos de la siguiente manera por la _Organization for Economic Co-Operation and Development_ ([OECD](https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0347), en español, Organización para Cooperación y Desarrollo Económico).
 
 <img src="../images/media/image7.jpeg" style="width:100%;height:auto;" />
 
-The term 'Open Results' comprehensively includes all these research products and more.
+El término "resultados abiertos" incluye de manera integral todos estos productos de investigación y más.
 
 Open results can include both data and code. Since data and code were covered in previous modules, in this lesson, we focus on sharing science outcomes as open results. Examples of open results can include:
 
