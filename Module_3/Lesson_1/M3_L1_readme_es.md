@@ -157,7 +157,7 @@ Hacer ciencia abierta no sólo permite que otras personas entiendan y reproduzca
 
 Beneficios específicos de la apertura de datos para usted como persona:
 
-- Nunca perderás el acceso a tu trabajo anterior, sin importar el instituto al que estés afiliado. Muchos investigadores se mueven por instituciones y organizaciones y, al tener sus datos accesibles públicamente en repositorios, siempre tendrás acceso a ellos.
+- Nunca perderás el acceso a tu trabajo anterior, sin importar el instituto al que estés afiliado. Muchos investigadores se mueven por instituciones y organizaciones y, al tener sus datos accesibles públicamente en repositorios, siempre tendrá acceso a ellos.
 - Tus datos pueden ser citados y obtendrás crédito.
 - Las publicaciones que incluyen enlaces a datos se citan más, según un [estudio](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230416) de 2020
 
@@ -230,7 +230,7 @@ Los principios FAIR no abarcan instrucciones de implementación integrales para 
 
 Repasemos cómo hacer que los datos sean FAIR para tu comunidad.
 
-_Seleccione cada pestaña para obtener más información._
+_Selecciona cada pestaña para obtener más información._
 
 <table>
   <thead>
@@ -247,8 +247,8 @@ _Seleccione cada pestaña para obtener más información._
             <p>Para garantizar que los miembros de tu comunidad puedan encontrar los datos:</p>
             <ul>
             <li>Deposita datos en repositorios para preservarlos a lo largo del tiempo.</li>
-            <li>Asigne a tu conjunto de datos un identificador persistente (PID), como un identificador de objeto digital (DOI).</li>
-            <li>Agregue metadatos enriquecidos y autodescriptivos en tus archivos de datos y registre los metadatos en un catálogo de metadatos que permitirá que tus datos se seleccionen adecuadamente.</li>
+            <li>Asigna a tu conjunto de datos un identificador persistente (PID), como un identificador de objeto digital (DOI)</li>
+            <li>Agrega metadatos enriquecidos y autodescriptivos en tus archivos de datos y registre los metadatos en un catálogo de metadatos que permitirá que tus datos se seleccionen adecuadamente.</li>
                 <ul>
                 <li>Ten en cuenta que algunas imágenes o archivos binarios no se pueden indexar ni buscar fácilmente y necesitarán archivos de metadatos o diccionarios complementarios para garantizar que se puedan descubrir en una búsqueda.</li>
                 </ul>
@@ -273,7 +273,7 @@ _Seleccione cada pestaña para obtener más información._
         <td colspan="4">
             <p>Para garantizar que los miembros de tu comunidad puedan acceder a los datos:</p>
             <ul>
-                <li>Archivar en un repositorio de datos/centro de datos con protocolos de acceso estandarizados.</li>
+                <li>Archiva en un repositorio de datos/centro de datos con protocolos de acceso estandarizados.</li>
                 <li>Los protocolos de acceso al repositorio deben estar bien definidos e idealmente deberían admitir el acceso de máquina a máquina.</li>
                 <li>Proporciona información sobre cómo los usuarios pueden acceder a tus datos, idealmente de forma automatizada y basada en máquinas.</li>
                 <li>Si el contenido completo no puede estar disponible abiertamente por algún motivo (sensibilidad de los datos, acceso poco frecuente a los datos, problemas de almacenamiento de archivos), los metadatos aún pueden estar disponibles abiertamente para que los usuarios puedan averiguar a quién deben contactar para solicitar los datos (de ser posible).</li>
@@ -295,7 +295,7 @@ _Seleccione cada pestaña para obtener más información._
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Para garantizar que los datos sean interoperables para aquellos en tu comunidad:</p>
+            <p>Para garantizar que los datos sean interoperables en tu comunidad:</p>
             <ul>
                 <li>Reporta los datos en formato estándar comunitario.</li>
                 <li>Utiliza metadatos estandarizados existentes, si están disponibles, para minimizar los problemas de "pérdida en la traducción" y respaldar la legibilidad automática.</li>
