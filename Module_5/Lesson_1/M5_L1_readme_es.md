@@ -20,25 +20,25 @@ Después de completar esta lección, deberías ser capaz de:
 - Describir cómo compartir resultados abiertos puede hacer progresar la ciencia y tu carrera.
 - Explicar qué es la crisis de reproducibilidad y cómo la ciencia abierta puede ayudar a combatirla.
 
-## What Research Objects are Created Throughout the Research Cycle?
+## ¿Qué objetos de investigación se crean a lo largo del ciclo de investigación?
 
-### The Traditional Depiction of a "Scientiﬁc Result" Has Changed Over Time
+### La representación tradicional de un "resultado científico" ha cambiado con el tiempo
 
-When we think of results, most people think of just the final publication.
+Cuando pensamos en resultados, la mayoría de la gente piensa sólo en la publicación final.
 
 **1665**
 
 <img src="../images/media/image4.jpeg" style="width:350px;height:auto;" />
 
-This publication dates back to 1665 when the first scientific journal Philosophical Transactions was established to publish letters about scientific observations and experimentations.
+Esta publicación se remonta a 1665, cuando se estableció la primera revista científica _Philosophical Transactions_ para publicar cartas sobre observaciones científicas y experimentos.
 
 **1940s**
 
 <img src="../images/media/image5.png" style="width:350px;height:auto;" />
 
-Later in the 1940s, publishing became commercialized and took over as the mechanism for releasing journals, conference proceedings, and books. This new business model normalized publication paywalls.
+Más tarde, en la década de 1940, la publicación se comenzó a comercializar y se convirtió en el mecanismo para lanzar revistas, actas de conferencias y libros. Este nuevo modelo de negocio normalizó las barreras de pago para la publicación.
 
-**21st century**
+**Siglo XXI**
 
 <img src="../images/media/image6.png" style="width:350px;height:auto;" />
 
