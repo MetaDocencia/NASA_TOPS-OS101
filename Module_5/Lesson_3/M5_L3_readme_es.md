@@ -416,7 +416,7 @@ Es importante establecer una referencia para cada equipo de investigación/proye
     </tr>
     <tr>
         <td>Revisión ética</td>
-        <td>Asegúrese de que si el proyecto de investigación necesita someterse a un proceso de revisión de ética</td>
+        <td>Asegúrate que el proyecto de investigación se someta a un proceso de revisión ética si es necesario</td>
     </tr>
     <tr>
         <td>Communications and Engagement</td>
