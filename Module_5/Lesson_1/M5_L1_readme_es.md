@@ -90,37 +90,37 @@ Ampliemos nuestras perspectivas sobre los tipos de **objetos de investigación**
 
 Qiusheng Wu es profesor asociado en la Universidad de Tennessee. Ha publicado más de 500 tutoriales en vídeo en [YouTube](https://www.youtube.com/%40giswqs) (en inglés), los cuales han ganado más de 25 mil suscriptores y más de 1.1 millón de vistas (a partir de agosto del 2023).
 
-Professor Qiusheng Wu created a [YouTube channel](https://youtube.com/%40giswqs) in April 2020 for the purpose of sharing video tutorials on the [geemap Python package](https://geemap.org/) that he was developing. Since then, Wu has published over 500 video tutorials on open-source geospatial topics. The channel has gained over 25K subscribers, with more than 1 million views and 60K watch hours in total. On average, it receives 70 watch hours per day.
+El Profesor Qiusheng Wu creó un [canal de YouTube](https://youtube.com/%40giswqs) (en inglés) en abril de 2020 con el propósito de compartir tutoriales de vídeo sobre el [paquete geemap de Python](https://geemap.org/) que estaba desarrollando. Desde entonces, Wu ha publicado más de 500 tutoriales en vídeo sobre temas geoespaciales de código abierto. El canal ha ganado más de 25 mil suscriptores, con más de 1 millón de visitas y 60 mil horas de reloj en total. En promedio, recibe 70 horas de visualización por día.
 
-The YouTube channel has allowed Wu to reach a much larger audience beyond the confines of a traditional classroom. It has made cutting-edge geospatial research more accessible to the general public and has led to collaborations with individuals from around the world. This has been particularly beneficial for Wu’s tenure promotion as it has resulted in increased funding opportunities, publications, and public engagement through the YouTube channel, social media, and GitHub.
+El canal de YouTube le ha permitido a Wu llegar a una audiencia mucho más amplia, más allá de los límites de un aula tradicional. Ha hecho que la investigación geoespacial de vanguardia sea más accesible para el público en general y ha llevado a colaboraciones con personas de todo el mundo. Esto ha sido particularmente beneficioso para la promoción de Wu, ya que ha resultado en mayores oportunidades de financiamiento, publicaciones y participación pública a través del canal de YouTube, redes sociales y GitHub.
 
-Overall, the YouTube channel serves as an important tool for Wu to disseminate research, inspire others, and contribute to the advancement of science. It has also played a significant role in advancing Wu’s professional career.
+En general, el canal de YouTube sirve como una herramienta importante para que Wu difunda investigaciones, inspire a otras personas y contribuya al avance de la ciencia. También ha desempeñado un papel importante en el avance de la carrera profesional de Wu.
 
-### New Media for Science Products
+### Nuevos medios para productos científicos
 
-"A new method reduced the compute time for this image from ~30 minutes to \<1 minute". In 2021, Lucas Sterzinger spent one summer of his PhD on an internship. During that summer, he wrote a blog post to explain and demonstrate a game-changing technology called Kerchunk – a software package that makes accessing scientific data in the cloud much faster.
+"Un nuevo método redujo el tiempo de cálculo de esta imagen de aproximadamente 30 minutos a menos de 1 minuto". En 2021, Lucas Sterzinger pasó un verano de su doctorado en una pasantía. Durante ese verano, escribió una publicación en un blog para explicar y demostrar una tecnología innovadora llamada Kerchunk, una bibilioteca que hace que el acceso a datos científicos en la nube sea mucho más rápido.
 
 <img src="../images/media/image10.jpeg" style="width:350px;height:auto;" />
 
-Source: [https://medium.com/pangeo/fake-it-until-you-make-it-reading-goes-netcdf4-data-on-aws-s3-as-zarr-for-rapid-data-access-61e33f8fe685](https://medium.com/pangeo/fake-it-until-you-make-it-reading-goes-netcdf4-data-on-aws-s3-as-zarr-for-rapid-data-access-61e33f8fe685)
+Fuente: [https://medium.com/pangeo/fake-it-until-you-make-it-reading-goes-netcdf4-data-on-aws-s3-as-zarr-for-rapid-data-access-61e33f8fe685](https://medium.com/pangeo/fake-it-until-you-make-it-reading-goes-netcdf4-data-on-aws-s3-as-zarr-for-rapid-data-access-61e33f8fe685) (en inglés)
 
 ---
 
-Alongside the blog post, he also created a tutorial as a Jupyter Notebook – both of these resources and associated code are freely accessible to the public, allowing for rapid adoption and iteration by other developers and scientists. He posted the blog on Medium and posted about it to Twitter. The blog got a lot of attention on a newly developed technology as it was being developed! This is starkly different from the slow and complicated world of academic publishing where this result would not have been shared for about a year (writing it up, the review process, publication process). He said, "Working on Kerchunk and sharing it widely using open science principles greatly expanded my professional connections and introduced me to the field of research software engineering. The connections I made from this led me directly to my current role as a Scientific Software Developer at NASA."
+Además de la publicación del blog, también creó un tutorial como Jupyter Notebook: tanto estos recursos como el código asociado son de libre acceso para el público, lo que permite una adopción e iteración rápidas por parte de otras personas desarrolladoras y científicas. Publicó el blog en Medium y lo compartió en Twitter. El blog atrajo mucha atención sobre una tecnología reciente, ¡a medida que se desarrollaba! Esto es marcadamente diferente al lento y complicado mundo de las publicaciones académicas, donde este resultado no se habría compartido durante aproximadamente un año (redacción, proceso de revisión, proceso de publicación). Dijo: "Trabajar en Kerchunk y compartirlo ampliamente utilizando los principios de la ciencia abierta expandió mis conexiones profesionales y me introdujo en el campo de la ingeniería de software de investigación. Las conexiones que hice a partir de esto me llevaron directamente a mi cargo actual como desarrollador de software científico en NASA".
 
-### New Products for Increasing Impact
+### Nuevos productos para aumentar el impacto
 
 <img src="../images/media/image11.png" style="width:350px;height:auto;" />
 
-Image credit: OpenStreetMap 2011, Ken Vermette. CC BY-SA 3.0
+Créditos de la imagen: OpenStreetMap 2011, Ken Vermette. CC BY-SA 3.0
 
 ---
 
-From '2003: let's map the UK to 2023:\>1.5M contributors, 100M+ edits, using the data to map the world with applications ranging from Uber to mapping UN Sustainable Development Goals." [OpenStreetMaps is being used for GIS analysis](https://welcome.openstreetmap.org/about-osm-community/consumers/), such as planning or logistics for humanitarian groups, utilities, governments and more. This was only possible because it was set up and shared openly and built by a community devoted to improving it. You never know where your personal project might go or who might be interested in collaborating!
+Desde '2003: vamos a mapear el Reino Unido hasta 2023: más de 1,5 millones de colaboradores, más de 100 millones de ediciones, utilizando los datos para mapear el mundo con aplicaciones que van desde Uber hasta el mapeo de los Objetivos de Desarrollo Sostenible de la ONU" [OpenStreetMaps está siendo usado para análisis GIS](https://welcome.openstreetmap.org/about-osm-community/consumers/), tales como planificación o logística para grupos humanitarios, servicios públicos, gobiernos y más. Esto sólo fue posible porque fue creado, compartido abiertamente, y construido por una comunidad dedicada a mejorarlo. ¡Nunca se sabe hasta dónde podría llegar tu proyecto personal o quién podría estar interesado en colaborar!
 
-### New Visualizations to Share Results
+### Nuevas visualizaciones para compartir resultados
 
-Matplotlib was developed around 2002 by post-doc John Hunter to visualize some neurobiology data he was working on. El no era desarrollador de software, ¡era neurobiólogo! Podría haberse limitado a publicar el artículo en una revista revisada por pares, y tal vez haber compartido su código para crear las figuras, pero en lugar de eso inició un proyecto abierto en GitHub y pensó: «bueno, si esto es útil para mí, tal vez lo sea para otros...».
+Matplotlib fue desarrollado alrededor de 2002 por el postdoctorado John Hunter para visualizar algunos datos de neurobiología en los que estaba trabajando. El no era desarrollador de software, ¡era neurobiólogo! Podría haberse limitado a publicar el artículo en una revista revisada por pares, y tal vez haber compartido su código para crear las figuras, pero en lugar de eso inició un proyecto abierto en GitHub y pensó: «bueno, si esto es útil para mí, tal vez lo sea para otros...».
 
 <img src="../images/media/image12.jpeg" style="width:100%;height:auto;" />
 
