@@ -161,23 +161,23 @@ Ya se ha encontrado con algunos de estos en las lecciones anteriores y, con suer
 
 ### Haciendo resultados abiertos y reproducibles
 
-Open science ultimately informs our decisions as scientists and guides the selection of approaches that contribute to making our results open at different stages. One of the main purposes of open results is to ensure research reproducibility, often explained through definitions such as the following by [Stodden (2015)](https://www.annualreviews.org/doi/10.1146/annurev-statistics-010814-020127):
+La ciencia abierta, en última instancia, informa de nuestras decisiones como personas dedicadas a la ciencia y guía la selección de enfoques que contribuyen a que nuestros resultados se abran en diferentes etapas. Uno de los objetivos principales de los resultados abiertos es asegurar la reproducibilidad de la investigación, a menudo explicada a través de definiciones como las siguientes por [Stodden (2015)](https://www.annualreviews.org/doi/10.1146/annurev-estadísticas-010814-020127):
 
 <img src="../images/media/stoddenquote.jpg" style="width:100%;height:auto;" />
 
-"Reproducibility is a researcher's ability to obtain the same results in a published article using the raw data and code used in the original study."
+"La reproducibilidad es la capacidad de una persona investigadora de obtener los mismos resultados de un artículo publicado utilizando los datos sin procesar y el código empleados en el estudio original."
 
 **Stodden (2015)**
 
 ---
 
-Using this definition, results that can be computationally reproduced by others would be called Reproducible Results. The EHTC case studies present open results as collections of research objects created at different stages of the research process. They also provide documentation and resources that allow reanalysis and reproduction of the original results.
+Utilizando esta definición, los resultados que pueden ser reproducidos computacionalmente por otras personas se denominarían Resultados Reproducibles. Los casos prácticos del EHTC presentan resultados abiertos como colecciones de objetos de investigación creados en distintas fases del proceso de investigación. Los casos prácticos del Ehtc presentan resultados abiertos como colecciones de objetos de investigación creados en distintas fases del proceso de investigación.
 
-Ideally, anyone, anywhere, must be able to read a publication and understand the results, easily find methods applied, as well as properly follow procedures to achieve the same results as shared in that study. However, as already learned, the issue of reproducibility is prevalent across all scientific fields (refer to this Nature [report](https://www.nature.com/articles/533452a)). A well-intentioned scientist may share all research objects and describe all steps applied in their research, but failing to provide the research environment or other technical setup they used for analyzing their data can prohibit others from reproducing their results. This issue is further compounded by [human bias and errors](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4776714/). For example, individuals may not always be able to identify how their interests and experiences inform their decisions that impact their research conclusions. This makes the issue of combating the reproducibility crisis even bigger.
+Lo ideal es que cualquier persona, en cualquier lugar, pueda leer una publicación y comprender los resultados, identificar fácilmente los métodos aplicados, así como seguir adecuadamente los procedimientos para lograr los mismos resultados que los compartidos en esese estudio. Sin embargo, como ya se sabe, el problema de la reproducibilidad es frecuente en todos los campos científicos (véase este [informe] de Nature (https://www.nature.com/articles/533452a)). Una persona que hace un trabajo científico y es bienintencionada puede compartir todos los objetos de investigación y describir todos los pasos aplicados en su investigación, pero si no facilita el entorno de investigación u otra configuración técnica que haya utilizado para analizar sus datos, puede impedir que otras personas reproduzcan sus resultados. Este problema está aún más agravado por [errores y prejuicios humanos](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4776714/). Por ejemplo, las personas no siempre son capaces de identificar cómo sus intereses y experiencias influyen en las decisiones que toman y en las conclusiones de sus investigaciones. Esto hace que la necesidad de combatir la crisis de reproducibilidad sea aún mayor.
 
-Approaches for making open results should integrate reproducible tools and methods, such as version control, continuous integration, containerisation, code review, code testing and documentation. Furthermore, to extend the reproducibility beyond computational aspects of research, reporting and documentation for different types of outputs and decisions should also be supplied transparently.
+Los enfoques para hacer resultados abiertos deben integrar herramientas y métodos reproducibles, como el control de versiones, la integración continua, la revisión de código, la prueba de código y la documentación. Además, para ampliar la reproducibilidad más allá de los aspectos computacionales de la investigación, los informes y la documentación de los distintos tipos de resultados y decisiones también deben facilitarse de forma transparente.
 
-### How to Make Different Types of Open Results
+### Cómo crear diferentes tipos de resultados abiertos
 
 Sharing different types of results as early as possible not only helps you find solutions faster, but also helps your science be more reproducible because that openness helps you understand how to communicate your methodologies and your findings more clearly to others. Here we provide some easy places to start creating your results openly.
 
