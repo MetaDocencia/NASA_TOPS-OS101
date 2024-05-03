@@ -293,11 +293,11 @@ Crear diferentes componentes de investigación y prepararse para compartirlos co
 - Proveer conocimientos especializados y soporte
 - Gestionar requerimientos de la comunidad y del proyecto
 - Proporcionar comentarios a los resultados
-- Designing experiments and interpreting results
-- Manuscript writing and review
-- And [more](https://the-turing-way.netlify.app/collaboration/shared-ownership/shared-ownership-projects.html)!
+- Diseñar experimentos e interpretar resultados
+- Escribir y revisar manuscritos
+- ¡Y [mas](https://the-turing-way.netlify.app/collaboration/shared-ownership/shared-ownership-projects.html)!
 
-Too often conversations about contribution and authorship take place towards the end of a project or when a scientific publication is drafted. However, as you learned in the previous lessons, research outputs are generated throughout the lifetime of a research project. Therefore, it is important to build an agreement at the beginning of the project for how contributorship in the project will be managed.
+Frecuentemente las conversaciones sobre la contribución y la autoría tienen lugar hacia el final de un proyecto o cuando se prepara el borrador de una publicación científica. Sin embargo, como se ha aprendido en las lecciones anteriores, los resultados de la investigación se generan a lo largo de toda la vida de un proyecto de investigación. Por lo tanto, es importante construir un acuerdo al principio del proyecto sobre cómo se gestionará la contribución en el proyecto.
 
 Developing contribution guidelines and contributor agreements requires collaboratively defining what is considered contributions in your project, who among the current contributors will get authorship, who will get acknowledged as a contributor, what is the significance of the order in which authors are listed in a scientific publication, and who makes these decisions. Ensuring that all collaborators understand and agree to these guidelines before beginning the project is also important.
 
@@ -423,31 +423,31 @@ Es importante establecer una referencia para cada equipo de investigación/proye
         <td>Comunicaciones sobre el proyecto y compromisos con las partes interesadas más allá del proyecto y la institución</td>
     </tr>
     <tr>
-        <td>Engagement with Experts and Policymakers</td>
-        <td>Pre-publication review, external advisory board meetings, regular reporting, post-publication reporting, and reaching out to the relevant policy makers actively</td>
+        <td>Interacción con expertos y responsables de políticas de la organización</td>
+        <td>Revisión previa a la publicación, reuniones con el consejos asesores externos, informes regulares, informes posteriores a la publicación y contacto activo con los responsables de políticas pertinentes</td>
     </tr>
     <tr>
-        <td>Recognition and Credit</td>
-        <td>Assessing incentives, creating a fair value system, fair recognition of all contributors</td>
+        <td>Reconocimiento y autoría</td>
+        <td>Evaluando incentivos, estableciendo un sistema de valor justo y reconociendo equitativamente a todos los colaboradores</td>
     </tr>
     <tr>
-        <td>Project Design</td>
-        <td>Technical planning, expert recommendations, supervision or guidance, developing project roadmaps and milestones, tooling and template development</td>
+        <td>Diseño del proyecto</td>
+        <td>Planificación técnica, recomendaciones de expertos, supervisión u orientación, desarrollo de hojas de ruta e hitos del proyecto, desarrollo de herramientas y plantillas</td>
     </tr>
     <tr>
-        <td>Conceptualization</td>
-        <td>Ideas; formulation or evolution of overarching research goals and aims</td>
+        <td>Conceptualización</td>
+        <td>Ideas; formulación o evolución de objetivos y metas globales de investigación</td>
     </tr>
     <tr>
-        <td>Methodology</td>
-        <td>Development or design of methodology; creation of models</td>
+        <td>Metodología</td>
+        <td>Desarrollo o diseño de la metodología; creación de modelos</td>
     </tr>
     <tr>
         <td>Software</td>
-        <td>Programming, software development; designing computer programs; implementation of the computer code and supporting algorithms; testing of existing code components</td>
+        <td>Programación, desarrollo de software; diseño de programas informáticos; implementación del código informático y soporte de algoritmos; prueba de componentes de código existentes</td>
     </tr>
     <tr>
-        <td>Validation</td>
+        <td>Validación</td>
         <td>Verification, whether as a part of the activity or separate, of the overall replication/ reproducibility of results/experiments and other research outputs - generalizable</td>
     </tr>
     <tr>
