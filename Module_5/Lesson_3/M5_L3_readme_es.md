@@ -203,7 +203,7 @@ Compartir diferentes tipos de resultados lo antes posible no sólo ayuda a encon
   <thead>
     <tr>
         <th>Escribiendo un POST DE FORO</th>
-        <th>WRITING A GOOD BLOG POST ☑</th>
+        <th>ESCRIBIENDO UNA BUENA ENTRADA DE BLOG☑</th>
         <th>HACIENDO UN BUEN VIDEO</th>
         <th>ESCRIBIENDO UN POSTEO EN UNA RED SOCIAL</th>
     </tr>
@@ -211,7 +211,7 @@ Compartir diferentes tipos de resultados lo antes posible no sólo ayuda a encon
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Los blogs son artículos largos que no se revisan por pares. Blogs can be a great way to share your scientific process and findings before they are published, but also after they are published to provide another more accessible presentation of the material. For example, maybe you write a scientific article on your research that is highly technical, but then break it down in more accessible language in a blog post. Many scientists use blog posts to develop and test ideas and approaches because they are more interactive. There are science blogs all over the internet. Some popular ones are <a href="https://medium.com/tag/science">Medium</a>, <a href="https://sciencebites.org/sciencebites-sites-galaxy/">Science Bites</a>, and <a href="https://blogs.scientificamerican.com/">Scientific American</a>. One good way to get started is to find a blog post that you liked or found inspirational and use that as a guide for writing your own post.</p>
+            <p>Los blogs son artículos largos que no se revisan por pares. Los blogs pueden ser una excelente forma de compartir el proceso de investigación y los hallazgos antes de su publicación, pero también después, para ofrecer otra presentación más accesible del material. Por ejemplo, podemos escribir un artículo científico sobre nuestra investigación que sea muy técnico, pero luego, desglosarlo en un lenguaje más accesible en una entrada de blog. Muchas personas que realizan una investigación utilizan los blogs para desarrollar y poner a prueba ideas y enfoques, dado que son más interactivos. Hay blogs científicos en todo el Internet. Algunos de los más populares son <a href="https://medium.com/tag/science">Media</a>, <a href="https://sciencebites.org/sciencebites-sites-galaxy/">Science Bites</a>y <a href="https://blogs.scientificamerican.com/">Scientific American</a>. Una buena forma de empezar es buscar una entrada de blog que nos haya gustado o inspirado y utilizarla como guía para escribir nuestra propia entrada.</p>
         </td>
     </tr>
   </tbody>
@@ -220,16 +220,16 @@ Compartir diferentes tipos de resultados lo antes posible no sólo ayuda a encon
 <table>
   <thead>
     <tr>
-        <th>WRITING A FORUM POST</th>
-        <th>WRITING A GOOD BLOG POST</th>
-        <th>MAKING A GOOD VIDEO ☑</th>
-        <th>WRITING A SOCIAL MEDIA POST</th>
+        <th>Escribiendo un POST DE FORO</th>
+        <th>ESCRIBIENDO UNA BUENA ENTRADA DE BLOG</th>
+        <th>HACIENDO UN BUEN VIDEO☑</th>
+        <th>ESCRIBIENDO UN POSTEO EN UNA RED SOCIAL</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Start small! Record a short video where you show how to do something that you struggled with or a new skill or tool that you learned how to use and post it to YouTube or other popular video platforms. Great videos often explain science concepts, ideas, or experiments to a target audience. Videos can inspire others to work in science, so talk about how you got into science, and show some of your research. There are a lot of online resources to help you out here as well!</p>
+            <p>¡Comienza a pequeña escala! Graba un breve vídeo en el que muestres cómo hacer algo que te ha costado mucho trabajo o una nueva habilidad o herramienta que hayas aprendido a utilizar y publícalo en YouTube u otras plataformas de vídeo populares. Los grandes vídeos suelen explicar conceptos, ideas o experimentos científicos a un público determinado. Los videos pueden inspirar a otras personas a trabajar en la ciencia, así que puedes contar cómo entraste en la ciencia y mostrar algunas de tus investigaciones. Hay muchos recursos en línea para ayudarte aquí también!</p>
         </td>
     </tr>
   </tbody>
@@ -238,28 +238,28 @@ Compartir diferentes tipos de resultados lo antes posible no sólo ayuda a encon
 <table>
   <thead>
     <tr>
-        <th>WRITING A FORUM POST</th>
-        <th>WRITING A GOOD BLOG POST</th>
-        <th>MAKING A GOOD VIDEO</th>
-        <th>WRITING A SOCIAL MEDIA POST ☑</th>
+        <th>Escribiendo un POST DE FORO</th>
+        <th>ESCRIBIENDO UNA BUENA ENTRADA DE BLOG</th>
+        <th>HACIENDO UN BUEN VIDEO</th>
+        <th>ESCRIBIENDO UN POSTEO EN UNA RED SOCIAL☑</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Social media is also a good place to ask questions as you are just starting on a research topic and also as a place to share all types of results. Providing a link to a video, blog post, or computational notebook and/or sharing an image of a scientific result is a great way to start interactions. You can draw attention to your post by using hashtags and tagging other collaborators. There are a lot of online guides for how to write social media posts and it is always good to look at what others in your area are doing. Responding to comments and engaging with others can help you improve your research and learn about new tools or methods.</p>
+            <p>Las redes sociales también son un buen lugar para hacer preguntas cuando se está empezando en un tema de investigación y también como lugar para compartir todo tipo de resultados. Proporcionar un enlace a un vídeo, una entrada de blog o un cuaderno computacional y/o compartir una imagen de un resultado científico es una buena forma de iniciar interacciones. Puedes llamar la atención sobre tu publicación usando hashtags y etiquetando a otros colaboradores. Hay un montón de guías en Internet para aprender cómo escribir posts en redes sociales y siempre es bueno mirar lo que hacen otros en tu área. Responder a los comentarios y comprometerse con otras personas puede ayudarte a mejorar tu investigación y aprender sobre nuevas herramientas o métodos.</p>
         </td>
     </tr>
   </tbody>
 </table>
 
-All these different ways of sharing information will help make your published report or article better. And as you start working more in the open, with others, think about how collaborations will work and how you will give credit. All resources can be centralized through reports and documentation on a repository or website so anyone, including the 'future you' can find them in the future.
+Todas estas diferentes formas de compartir información ayudarán a mejorar nuestro informe o artículo publicado. Y a medida que empiezas a trabajar más abiertamente con otras personas, piensa en cómo funcionarán las colaboraciones y cómo darás crédito. Todos los recursos pueden centralizarse mediante informes y documentación en un repositorio o sitio web para que cualquiera, incluido "tu yo a futuro", pueda encontrarlos en el día de mañana.
 
-More ways to communicate your work can be found in a [guide for communication](https://the-turing-way.netlify.app/communication/communication) in The Turing Way.
+Puedes encontrar más formas de comunicar tu trabajo en [guía de comunicación](https://the-turing-way.netlify.app/communication/communication/communication) en The Turing Way.
 
-### Maintaining Ethical Standards
+### Manteniendo Estándares Éticos
 
-Open science, as learned in the Ethos of Open Science, should maintain the highest ethical standards. This can be enabled through the involvement of diverse contributors in the development of scientific outcomes. Participatory approaches allow multiple perspectives and expertise to be integrated into research from the start and ensure that peer review happens for all outputs in an iterative manner, not just for the articles at the end.
+La ciencia abierta, como vimos en el módulo Ethos de las Ciencias Abiertas, debe mantener los estándares éticos más estrictos. Esto puede lograrse mediante la participación de diversas personas que colaboradoren en el desarrollo de los resultados científicos. Los enfoques participativos permiten integrar múltiples perspectivas y conocimientos en la investigación desde el inicio y garantizan que la revisión por pares se realice para todos los productos de forma iterativa, y no sólo para los artículos finales.
 
 En la elaboración y la planificación para compartir los resultados de manera abierta, se puede aplicar el principio de "tan abierto como sea posible, tan cerrado como sea necesario". Esto significa proteger la información confidencial, gestionar las prácticas de protección de datos cuando sea necesario y no compartir datos sensibles o información privada de las personas que puede ser utilizada indebidamente. Repositorios en línea, como GitHub y GitLab, permiten la interacción en línea además de servir al propósito técnico de tener control de versiones y alojar contenido. Por ejemplo, puedes usar [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) y [un tablero de proyecto](https://docs.github.com/en/github-ae%40latest/issues/organizing-your-work-with-project-boards/managing-project-boards/creating-a-project-board) para comunicar lo que está ocurriendo en un proyecto en cualquier punto dado. El uso de [Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) indica una invitación para que los pares revisen el nuevo desarrollo de código u otro contenido. Gracias a una serie de plantillas reutilizables, no es necesario configurar los repositorios desde cero. Por ejemplo, se puede utilizar directamente una [plantilla para proyectos de investigación reproducibles](https://github.com/the-turing-way/reproducible-project-template).
 
