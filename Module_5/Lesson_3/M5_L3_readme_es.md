@@ -165,7 +165,7 @@ La ciencia abierta, en última instancia, informa de nuestras decisiones como pe
 
 <img src="../images/media/stoddenquote.jpg" style="width:100%;height:auto;" />
 
-"La reproducibilidad es la capacidad de una persona investigadora de obtener los mismos resultados de un artículo publicado utilizando los datos sin procesar y el código empleados en el estudio original."
+"La reproducibilidad es la capacidad que posee una persona que realiza una investigación para obtener los mismos resultados de un trabajo publicado utilizando los datos sin procesar y el código empleados en el estudio original."
 
 **Stodden (2015)**
 
@@ -179,21 +179,21 @@ Los enfoques para hacer resultados abiertos deben integrar herramientas y métod
 
 ### Cómo crear diferentes tipos de resultados abiertos
 
-Sharing different types of results as early as possible not only helps you find solutions faster, but also helps your science be more reproducible because that openness helps you understand how to communicate your methodologies and your findings more clearly to others. Here we provide some easy places to start creating your results openly.
+Compartir diferentes tipos de resultados lo antes posible no sólo ayuda a encontrar soluciones más rápidamente, sino que también contribuye a que la ciencia sea más reproducible, ya que esa apertura ayuda a entender cómo comunicar las metodologías y los hallazgos con mayor claridad a las demás personas. Aquí les proponemos algunos lugares fáciles para empezar a crear sus resultados de forma abierta.
 
 <table>
   <thead>
     <tr>
-        <th>WRITING A FORUM POST ☑</th>
-        <th>WRITING A GOOD BLOG POST</th>
-        <th>MAKING A GOOD VIDEO</th>
-        <th>WRITING A SOCIAL MEDIA POST</th>
+        <th>Escribiendo un POST DE FORO ☑</th>
+        <th>ESCRIBIENDO UNA BUENA ENTRADA DE BLOG</th>
+        <th>HACIENDO UN BUEN VIDEO</th>
+        <th>ESCRIBIENDO UN POSTEO EN UNA RED SOCIAL</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Often, when first starting in research, public forums are a great place to begin understanding and collaborating with communities. Most discussion forums have a code of conduct and guidelines on best practices for participation. Some common ones that may be helpful are guidelines from <a href="https://stackoverflow.com/help/discussions-guidelines">StackOverflow</a>, and <a href="https://github.com/pydata/xarray/discussions/5404">Xarray</a>, but most forums have some specific guidance. On forums, you increase trust by interacting with the community, so the more you interact, the more people are likely to respond! Often, best practices include making sure you are posting to the right area, using tags (when available), and including examples that document the question or issue you are having. If you review the <a href="https://discourse.pangeo.io/t/trick-for-improving-kerchunk-performance-for-large-numbers-of-chunks-files/3090">post</a> on the <a href="https://discourse.pangeo.io/">Pangeo Discourse Forum</a> with a large number of reviews you can see that they clearly state the problem they are trying to solve, reference other posts on similar topics, link to a computational notebook that has an example of their code, and give an example of the code they are trying to do.</p>
+            <p>A menudo, al comenzar la investigación, los foros públicos son un gran lugar para comenzar a entender y colaborar con las comunidades. La mayoría de los foros de discusión tienen un código de conducta y directrices sobre las mejores prácticas para la participación. Algunas pautas comunes que pueden ser útiles son las directrices de <a href="https://stackoverflow.com/help/discussions-guidelines">StackOverflow</a>, y <a href="https://github.com/pydata/xarray/discussions/5404">Xarray</a>, pero la mayoría de los foros tienen alguna guía específica. En los foros, se incrementa la confianza interactuando con la comunidad, por lo que cuanto más interactúes, más gente responderá! A menudo, las mejores prácticas incluyen asegurarse que estáamos publicando en el área correcta, usando etiquetas (cuando esté disponible), e incluyendo ejemplos que documentan la pregunta o problema que presentamos. Si revisas el <a href="https://discourse.pangeo.io/t/trick-for-improving-kerchunk-performance-for-large-numbers-of-chunks-files/3090">post</a> en el <a href="https://discourse.pangeo.io/">Foro del Discurso de Pangeo</a> con un gran número de revisiones puedes ver que exponen claramente el problema que intentan resolver, hacen referencia a otros posts sobre temas similares, enlazan a un cuaderno informático que tiene un ejemplo de su código, y dan un ejemplo del código que están intentando ejecutar.</p>
         </td>
     </tr>
   </tbody>
@@ -202,16 +202,16 @@ Sharing different types of results as early as possible not only helps you find 
 <table>
   <thead>
     <tr>
-        <th>WRITING A FORUM POST</th>
+        <th>Escribiendo un POST DE FORO</th>
         <th>WRITING A GOOD BLOG POST ☑</th>
-        <th>MAKING A GOOD VIDEO</th>
-        <th>WRITING A SOCIAL MEDIA POST</th>
+        <th>HACIENDO UN BUEN VIDEO</th>
+        <th>ESCRIBIENDO UN POSTEO EN UNA RED SOCIAL</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Blogs are long-form articles that aren’t peer-reviewed. Blogs can be a great way to share your scientific process and findings before they are published, but also after they are published to provide another more accessible presentation of the material. For example, maybe you write a scientific article on your research that is highly technical, but then break it down in more accessible language in a blog post. Many scientists use blog posts to develop and test ideas and approaches because they are more interactive. There are science blogs all over the internet. Some popular ones are <a href="https://medium.com/tag/science">Medium</a>, <a href="https://sciencebites.org/sciencebites-sites-galaxy/">Science Bites</a>, and <a href="https://blogs.scientificamerican.com/">Scientific American</a>. One good way to get started is to find a blog post that you liked or found inspirational and use that as a guide for writing your own post.</p>
+            <p>Los blogs son artículos largos que no se revisan por pares. Blogs can be a great way to share your scientific process and findings before they are published, but also after they are published to provide another more accessible presentation of the material. For example, maybe you write a scientific article on your research that is highly technical, but then break it down in more accessible language in a blog post. Many scientists use blog posts to develop and test ideas and approaches because they are more interactive. There are science blogs all over the internet. Some popular ones are <a href="https://medium.com/tag/science">Medium</a>, <a href="https://sciencebites.org/sciencebites-sites-galaxy/">Science Bites</a>, and <a href="https://blogs.scientificamerican.com/">Scientific American</a>. One good way to get started is to find a blog post that you liked or found inspirational and use that as a guide for writing your own post.</p>
         </td>
     </tr>
   </tbody>
