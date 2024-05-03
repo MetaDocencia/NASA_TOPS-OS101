@@ -70,7 +70,7 @@ Los resultados abiertos pueden incluir tanto datos como código. Dado que los da
 
 Los artículos revisados por pares de acceso abierto se archivan para su conservación a largo plazo y representan un debate más formal de ideas científicas, interpretaciones y conclusiones. Estos debates informan el método que los investigadores utilizan para compartir resultados. En la siguiente sección de la lección, discutiremos diferentes tipos de divulgación y métodos para construirlos y adaptarlos para usar en tu investigación.
 
-Scientists can share their incremental progress throughout the research process and invite community feedback. Sharing more parts of the research process creates more interactions between researchers and can improve the end result (which may be a peer-reviewed article).
+Los científicos pueden compartir su progreso incremental a lo largo del proceso de investigación e invitar comentarios de la comunidad. Compartir más partes del proceso de investigación crea más interacciones entre los investigadores y puede mejorar el resultado final (que puede ser un artículo revisado por pares).
 
 Throughout this module we will show you how to use, make, and share open results.
 
