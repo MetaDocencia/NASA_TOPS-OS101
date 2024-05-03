@@ -2,41 +2,41 @@
 
 ## Temas a desarrollar
 
-- [Writing an OSDMP: What to Include in the OSDMP for Sharing Results Openly](#writing-an-osdmp-what-to-include-in-the-osdmp-for-sharing-results-openly)
-- [Example Steps Toward More Open Results](#example-steps-toward-more-open-results)
-- [How Emerging Technology Like AI is Changing How We Do Science](#how-emerging-technology-like-ai-is-changing-how-we-do-science)
-- [Lesson 5: Summary](#lesson-5-summary)
-- [Lesson 5: Knowledge Check](#lesson-5-knowledge-check)
-- [Open Results Summary](#open-results-summary)
-- [Open Science 101 Summary](#open-science-101-summary)
+- [Escribiendo un Plan de Gestión de Datos de Ciencia Abierta: Qué incluír en un OSDMP para compartir resultados abiertos](#writing-an-osdmp-what-to-include-in-the-osdmp-for-sharing-results-openly)
+- [Ejemplo de pasos hacia resultados más abiertos](#ejemplo-pasos-hacia-resultados-mas-abiertos)
+- [Cómo una tecnología emergente como la IA está cambiando nuestra forma de hacer ciencia](#cómo-tecnología-emergente-como-ia-está-cambiando-cómo-hacemos-ciencia)
+- [Lección 5: Resumen](#lesson-5-summary)
+- [Lección 5: Evaluación](#leccion-5-Evaluación)
+- [Resumen de Resultados Abiertos](#resultados-abiertos-resumen)
+- [Resumen Introducción a la Ciencia Abierta](#ciencia-abierta-101-resumen)
 
-## Overview
+## Descripción General
 
-In the previous lessons, we learned about various ways to share our science, and what steps we should think about when sharing. In this lesson, we tie the concepts from previous lessons together with some specific guidance for writing the Sharing Results section of an Open Science and Data Management Plans (OSDMP). We will also reflect on how our society and technology constantly evolve, as does the way we do science. A new technology with the potential to radically alter the way we do and share science is artificial intelligence (AI), particularly when it comes to language learning models. These AI tools are already changing how we interact with written text. In this lesson, we discuss some of the ways that AI is and will affect how we do and share our science.
+En las lecciones anteriores hemos aprendido varias formas de compartir nuestra ciencia y los pasos que debemos tener en cuenta a la hora de hacerlo. En esta lección, unimos los conceptos de las lecciones anteriores con algunas orientaciones específicas para redactar la sección Compartir Resultados de un Plan de Ciencia Abierta y Gestión de Datos (en inglés, _Open Science Data Management Plan, OSDMP_). También reflexionaremos sobre cómo nuestra sociedad y la tecnología evolucionan constantemente, al igual que nuestra forma de hacer ciencia. Una nueva tecnología con el potencial de alterar radicalmente la forma en que hacemos y compartimos la ciencia es la inteligencia artificial (IA), sobre todo cuando se trata de modelos de aprendizaje de idiomas. Estas herramientas de IA ya están cambiando la forma en que interactuamos con el texto escrito. En esta lección analizaremos algunas de las formas en que la IA afecta y afectará a la forma en que hacemos y compartimos nuestra ciencia.
 
-## Learning Objectives
+## Objetivos de Aprendizaje
 
-After completing this lesson, you should be able to:
+Después de completar este módulo, deberías poder:
 
-- List what to include in an OSDMP for sharing results openly.
-- List some concrete steps toward sharing results openly.
-- Describe how emerging technology like AI is currently impacting how we use, make, and share our science.
+- Listar lo que debe incluirse en un OSDMP para compartir resultados abiertamente.
+- Listar algunos pasos concretos para compartir resultados abiertamente.
+- Describir cómo la tecnología emergente, como la IA, está influyendo actualmente en la forma en que utilizamos, hacemos y compartimos nuestra ciencia.
 
-## Writing an OSDMP: What to Include in the OSDMP for Sharing Results Openly
+## Escribiendo un OSDMP: Qué incluir en el OSDMP para compartir resultados de forma abierta
 
-The process within an Open Science and Data Management Plans (OSDMP) to share data and software is covered in other modules, so here we will discuss how to share the other type of research outputs. Most proposals require that you include plans for publications such as peer reviewed manuscripts, technical reports, books, and conference materials.
+El proceso para compartir datos y software en el marco de un Plan de Ciencia Abierta y Gestión de Datos (Open Science and Data Management Plans, OSDMP) se trata en otros módulos, por lo que aquí hablaremos de cómo compartir el otro tipo de resultados de la investigación. La mayoría de las propuestas exigen que se incluyan planes para publicaciones como manuscritos revisados por pares, informes técnicos, libros y material para conferencias.
 
-Though not required, it can be a good idea to include plans for making your results publicly accessible in ways other than traditional publishing, e.g. online blog posts, tutorials, or other materials. After all, writing an OSDMP is often required for funding requests, and this can be a way to show proposal reviewers that you are thinking about how to best share your science.
+Aunque no es obligatorio, puede ser una buena idea incluir planes para hacer que tus resultados sean públicamente accesibles de formas distintas a la publicación tradicional, por ejemplo, entradas de blog en línea, tutoriales u otros materiales. Después de todo, la redacción de un OSDMP es a menudo un requisito para las solicitudes de financiación, y puede ser una forma de mostrar a quienes revisan las propuestas que estás pensando en la mejor manera de compartir tu ciencia.
 
-### Activity 5.1: Pen to Paper
+### Actividad 5.1: Del bolígrafo al papel
 
 <img src="../images/media/image21.png" style="width:350px;height:auto;" />
 
-Write a sample results section of an OSDMP that details how you would plan to make your results open. Think about an example from your research and what details you would need to include to convince reviewers that you will share open access results.
+Escribe una sección de resultados de muestra de un OSDMP que detalle cómo planearías hacer públicos tus resultados. Piensa en un ejemplo de tu investigación y qué detalles necesitarás incluir para convencer a quienes revisan que compartirás los resultados de acceso abierto.
 
-**Example 1:** This activity will result in 2 peer-reviewed publications that will be published green open- access. Pre-prints will be archived in PubSpace.
+**Ejemplo 1:** Esta actividad dará lugar a 2 publicaciones revisadas por pares que se publicarán en acceso abierto verde. Las Preimpresiones se archivarán en PubSpace.
 
-**Example 2:** This activity will result in the creation of computational notebooks, 4 conference abstracts and posters, 2 peer reviewed manuscripts, and 2 online plain-language articles, summarizing our results. Peer-reviewed publications will be published green open-access and pre-prints will be archived in PubSpace or the journals open-access preprint server. All other materials will be archived at Zenodo, assigned a DOI, and assigned a CC-BY license or permissive software license.
+**Ejemplo 2:** Esta actividad dará lugar a la creación de cuadernos computacionales, 4 resúmenes y pósteres para congresos, 2 manuscritos revisados por pares y 2 artículos en línea en lenguaje sencillo, que resumirán nuestros resultados. Las publicaciones revisadas por pares se publicarán en acceso abierto y las preimpresiones se archivarán en PubSpace o en el servidor de preimpresión de las revistas de acceso abierto. All other materials will be archived at Zenodo, assigned a DOI, and assigned a CC-BY license or permissive software license.
 
 For these examples, what other information or details could be added? If you were planning to write a tutorial about your science, what would you include?
 
