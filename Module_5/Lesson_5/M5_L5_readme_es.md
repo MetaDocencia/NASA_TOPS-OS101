@@ -36,36 +36,36 @@ Escribe una sección de resultados de muestra de un OSDMP que detalle cómo plan
 
 **Ejemplo 1:** Esta actividad dará lugar a 2 publicaciones revisadas por pares que se publicarán en acceso abierto verde. Las Preimpresiones se archivarán en PubSpace.
 
-**Ejemplo 2:** Esta actividad dará lugar a la creación de cuadernos computacionales, 4 resúmenes y pósteres para congresos, 2 manuscritos revisados por pares y 2 artículos en línea en lenguaje sencillo, que resumirán nuestros resultados. Las publicaciones revisadas por pares se publicarán en acceso abierto y las preimpresiones se archivarán en PubSpace o en el servidor de preimpresión de las revistas de acceso abierto. All other materials will be archived at Zenodo, assigned a DOI, and assigned a CC-BY license or permissive software license.
+**Ejemplo 2:** Esta actividad dará lugar a la creación de cuadernos computacionales, 4 resúmenes y pósteres para congresos, 2 manuscritos revisados por pares y 2 artículos en línea en lenguaje sencillo, que resumirán nuestros resultados. Las publicaciones revisadas por pares se publicarán en acceso abierto y las preimpresiones se archivarán en PubSpace o en el servidor de preimpresión de las revistas de acceso abierto. Todos los demás materiales se archivarán en Zenodo, se les asignará un DOI y se les asignará una licencia CC-BY o una licencia de software permisiva.
 
-For these examples, what other information or details could be added? If you were planning to write a tutorial about your science, what would you include?
+Para estos ejemplos, ¿qué otra información o detalles podrían añadirse? Si estuvieras planeando escribir un tutorial sobre tu ciencia, ¿qué incluirías?
 
-## Example Steps Toward More Open Results
+## Ejemplos de Pasos Hacia Resultados Más Abiertos
 
-[**NASA Announces Summer 2023 Hottest on Record**](https://www.nasa.gov/news-release/nasa-announces-summer-2023-hottest-on-record/)
+[**La NASA anuncia que el verano de 2023 será el más caluroso jamás registrado**](https://www.nasa.gov/news-release/nasa-Chances-Summer-2023-hottest-on-record/)
 
 <img src="../images/media/image75.jpeg" style="width:350px;height:auto;" />
 
-Image credit: NASA Earth Observatory/Lauren Dauphin.
+Crédito de la imagen: NASA Earth Observatory/Lauren Dauphin.
 
 ---
 
-When results and research objects are published openly, anyone can reproduce the scientific result. For topics like climate change, the transparency of results helps reduce misinformation and increases public trust in results.
+Cuando los resultados y los objetivos de investigación se publican abiertamente, cualquiera puede reproducir el resultado científico. Para temas como el cambio climático, la transparencia de los resultados ayuda a reducir la desinformación y aumenta la confianza del público en los resultados.
 
-Here is a GitHub [repository](https://github.com/jmunroe/OpenScienceExample_GISTEMPv4/tree/main) with an example of a [result](https://gist.github.com/jmunroe/74a1eda18d1473040ed91f2a1f02b1b5) made available as open access. This visualization is not perfect but provides a snapshot of a work in progress that can be shared with the community for feedback and refinement. This could be further refined, or perhaps serve as the start of a new effort that will extend the initial results. The results are more accessible, inclusive, and reproducible by being published openly.
+Aquí hay un [repositorio] GitHub(https://github.com/jmunroe/OpenScienceExample_GISTEMPv4/tree/main) con un ejemplo de un [resultado](https://gist.github.com/jmunroe/74a1eda18d1473040ed91f2a1f02b1b5) disponible como acceso abierto. Esta visualización no es perfecta, pero ofrece una instantánea de un trabajo en curso que puede compartirse con la comunidad para recabar opiniones y perfeccionarlo. Esto podría perfeccionarse aún más, o quizá servir como inicio de un nuevo esfuerzo que amplíe los resultados iniciales. Los resultados son más accesibles, inclusivos y reproducibles al publicarse abiertamente.
 
-There are lots of ways that open science can extend the span or scope of projects. Here are some steps you can take to share your open results in a way that makes your work more usable, reproducible, and inclusive:
+Hay muchas maneras en que la ciencia abierta puede ampliar la duración o el alcance de los proyectos. Estos son algunos pasos que puedes tomar para compartir tus resultados abiertos de forma que tu trabajo sea más utilizable, reproducible e inclusivo:
 
-- Add a Code of Conduct via the CODE_OF_CONDUCT file and link to other policies that apply to your work.
-- Add contributors and authorship guidelines via a CONTRIBUTING file.
-- Add your collaborators and team members' names with their permission.
-- Add your proposal but remove any sensitive information.
-- Create a preliminary roadmap and what goals the project is trying to achieve.
-- Create a project management, code and data folders where you can upload appropriate information as your project develops.
-- Create a resource list that your project requires.
-- Provide links to training materials that your collaborators and contributors may benefit from.
-- Use issues and project boards to communicate what is happening in the project.
-- Use Pull Request to invite reviews to new development of code and content.
+- Añade un Código de Conducta a través del archivo CÓDIGO_DE_CONDUCTA y enlaza a otras políticas que se aplican a tu trabajo.
+- Añade guías de personas colaboradoras y autoría a través de un archivo COLABORAR.
+- Añade a tu equipo con su permiso y a personas colaboradoras.
+- Añade tu propuesta pero elimina cualquier información sensible.
+- Elabora una hoja de ruta preliminar y determina qué objetivos pretendes alcanzar con el proyecto.
+- Crea una carpeta de gestión del proyecto, otra de código y otra de datos, en las que podrás cargar la información adecuada a medida que se desarrolle el proyecto.
+- Elabora una lista de los recursos necesarios para tu proyecto.
+- Proporciona enlaces a materiales de capacitación de los que puedan beneficiarse las personas colaboradoras.
+- Utiliza tableros de proyecto e incidencias para comunicar lo que está ocurriendo en el proyecto.
+- Utiliza solicitudes de extracción para invitar a revisiones a nuevos desarrollos de código y contenido.
 - Add user manual and executable notebooks to allow code testing.
 - Create and share executable notebooks that document how data is processed and the result obtained.
 - Create tutorials or short form videos demonstrating how a step in your research workflow was accomplished.
