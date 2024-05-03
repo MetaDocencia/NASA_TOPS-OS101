@@ -72,23 +72,23 @@ Los artículos revisados por pares de acceso abierto se archivan para su conserv
 
 Los científicos pueden compartir su progreso incremental a lo largo del proceso de investigación e invitar comentarios de la comunidad. Compartir más partes del proceso de investigación crea más interacciones entre los investigadores y puede mejorar el resultado final (que puede ser un artículo revisado por pares).
 
-Throughout this module we will show you how to use, make, and share open results.
+A lo largo de este módulo te mostraremos cómo usar, crear y compartir resultados abiertos.
 
-### The Practice of 'Open'
+### La Práctica de lo 'Abierto'
 
-Specifically, the "Use, Make, Share" format has been naturally embedded throughout the curriculum and should be a familiar format by now. Lesson 2 will cover "Using". Lesson 3 will cover "Making". Lesson 4 will cover "Sharing". Throughout this module, we will pay particular attention to manuscripts and other research products as examples because the previous modules covered "Use, Make, Share" in the context of components with data and software.
+Específicamente, el sistema "Usar, Hacer, Compartir" ha sido naturalmente integrado a lo largo del plan de estudios y debería resultarte un formato familiar en este momento. La Lección 2 cubrirá "Usar". La Lección 3, "Hacer". Y la Lección 4, "Compartir". A lo largo de este módulo, prestaremos especial atención a los manuscritos y otros productos de investigación como ejemplos porque los módulos anteriores cubrieron el sistema "Usar, Hacer, Compartir" en el contexto de componentes con datos y software.
 
 <img src="../images/media/thepracticeofopen.jpg" style="width:100%;height:auto;" />
 
-## Examples of Open Results
+## Ejemplos de resultados abiertos
 
-Let's broaden our perspectives on the types of **research objects** that are produced throughout the research process. Let’s take a look at some examples from different projects.
+Ampliemos nuestras perspectivas sobre los tipos de **objetos de investigación** que se producen a lo largo del proceso de investigación. Veamos algunos ejemplos de diferentes proyectos.
 
-### Reaching New Audiences
+### Alcanzar nuevas audiencias
 
 <img src="../images/media/image9.jpeg" style="width:350px;height:auto;" />
 
-Qiusheng Wu is an associate professor at University of Tennessee. He has published 500+ video tutorials on [YouTube](https://www.youtube.com/%40giswqs), which have gained 25K+ subscribers, and 1.1M+ views (as of 8/2023).
+Qiusheng Wu es profesor asociado en la Universidad de Tennessee. Ha publicado más de 500 tutoriales en vídeo en [YouTube](https://www.youtube.com/%40giswqs) (en inglés), los cuales han ganado más de 25 mil suscriptores y más de 1.1 millón de vistas (a partir de agosto del 2023).
 
 Professor Qiusheng Wu created a [YouTube channel](https://youtube.com/%40giswqs) in April 2020 for the purpose of sharing video tutorials on the [geemap Python package](https://geemap.org/) that he was developing. Since then, Wu has published over 500 video tutorials on open-source geospatial topics. The channel has gained over 25K subscribers, with more than 1 million views and 60K watch hours in total. On average, it receives 70 watch hours per day.
 
