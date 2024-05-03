@@ -267,13 +267,13 @@ En la elaboración y la planificación para compartir los resultados de manera a
 
 La colaboración es fundamental para todas las investigaciones científicas. El impacto positivo de la colaboración se logra cuando se apoya la diversidad para combinar una gama de habilidades, perspectivas y recursos y trabajar hacia un objetivo compartido. Los proyectos que aplican enfoques abiertos y reproducibles facilitan la participación de diversos colaboradores y el reconocimiento de sus aportes, al mismo tiempo que apoyan el desarrollo de soluciones de las que todos puedan beneficiarse.
 
-Involving and recognizing the roles of all contributors in making open results is an important part of open science, which we will discuss next.
+Haciendo participes y reconociendo el papel de todos los colaboradores en la obtención de resultados abiertos es una parte importante de la ciencia abierta, que debatiremos a continuación.
 
-### EHTC Case Study: Recognizing All Contributors
+### Estudio del caso EHTC: Reconociendo a todos los contribuidores
 
 <img src="../images/media/image52.jpeg" style="width:100%;height:auto;" />
 
-A map of the EHT. Stations active in 2017 and 2018 are shown with connecting lines and labeled in yellow, sites in commission are labeled in green, and legacy sites are labeled in red. From Paper II (Figure 1). IOPscience. https://iopscience.iop.org/journal/2041-8205/page/Focus_on_EHT
+Un mapa de la EHT. Las estaciones activas en 2017 y 2018 se muestran con líneas de conexión y etiquetadas en amarillo, los sitios en comisión se encuentran etiquetados en verde y los sitios heredados etiquetados en rojo. Del articulo II (Figura 1). IOPscience. https://iopscience.iop.org/journal/2041-8205/page/Focus_on_EHT
 
 ---
 
