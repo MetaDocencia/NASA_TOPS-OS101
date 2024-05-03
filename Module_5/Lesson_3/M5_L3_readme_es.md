@@ -423,8 +423,8 @@ Es importante establecer una referencia para cada equipo de investigación/proye
         <td>Comunicaciones sobre el proyecto y compromisos con las partes interesadas más allá del proyecto y la institución</td>
     </tr>
     <tr>
-        <td>Interacción con expertos y responsables de políticas de la organización</td>
-        <td>Revisión previa a la publicación, reuniones con el consejos asesores externos, informes regulares, informes posteriores a la publicación y contacto activo con los responsables de políticas pertinentes</td>
+        <td>Interacción con expertos y responsables de las políticas de la organización</td>
+        <td>Revisión previa a la publicación, reuniones con consejos asesores externos, reportes regulares, reportes posteriores a la publicación y contactar activamente a los responsables de políticas pertinentes</td>
     </tr>
     <tr>
         <td>Reconocimiento y autoría</td>
@@ -468,11 +468,11 @@ Es importante establecer una referencia para cada equipo de investigación/proye
     </tr>
     <tr>
         <td>Writing - Review & Editing</td>
-        <td>Preparation, creation and/or presentation of the published work by those from the research group, specifically critical review, commentary or revision – including pre-or post publication stages</td>
+        <td>La preparación, creación y/o presentación del trabajo por parte del grupo de investigación, abarcando las revisiones críticas, comentarios o correcciones e incluyendo las etapas pre y post publicación</td>
     </tr>
     <tr>
-        <td>Visualization</td>
-        <td>Preparation, creation and/or presentation of the published work, specifically visualization/ data presentation</td>
+        <td>Visualización</td>
+        <td>Preparación, creación y/o presentación de la obra publicada, específicamente visualización / presentación de datos</td>
     </tr>
     <tr>
         <td>Supervision</td>
