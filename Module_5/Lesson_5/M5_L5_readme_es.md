@@ -1,6 +1,6 @@
-# Lesson 5: From Theory to Practice
+# Lección 5: De la Teoría a la Práctica
 
-## Navigation
+## Temas a desarrollar
 
 - [Writing an OSDMP: What to Include in the OSDMP for Sharing Results Openly](#writing-an-osdmp-what-to-include-in-the-osdmp-for-sharing-results-openly)
 - [Example Steps Toward More Open Results](#example-steps-toward-more-open-results)
