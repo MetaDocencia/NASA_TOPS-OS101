@@ -277,14 +277,14 @@ Un mapa de la EHT. Las estaciones activas en 2017 y 2018 se muestran con líneas
 
 ---
 
-The Event Horizon Telescope (EHT) team involved 200 members from 59 institutes in 20 countries, from undergraduates to senior members of the field. They used an array that included eight radio telescopes at six geographic locations across the USA, Latin America, Europe and the South Pole. All collaborators were located in different geographic locations, had access to different instruments, collected data generated from telescopes in different locations and applied skills from across different teams to create groundbreaking results. Each contributor was acknowledged across different communication channels and given authorships in publications. EHTC also supports the "critical, independent analysis and interpretation" of their published results to facilitate transparency, rigor, and reproducibility ([EHTC website](https://eventhorizontelescope.org/blog/imaging-reanalyses-eht-data)).
+El equipo del Event Horizon Telescope (EHT) involucró a 200 miembros de 59 institutos en 20 países, desde estudiantes de grado hasta altos miembros del campo. Utilizaron una matriz que incluía ocho radiotelescopios en seis lugares geográficos de los Estados Unidos, América Latina, Europa y el Polo Sur. Todos los colaboradores se ubicaron en diferentes puntos geográficos, tuvieron acceso a diferentes instrumentos, recopilaron datos generados a partir de telescopios en diferentes lugares y aplicaron habilidades de diferentes equipos para crear resultados innovadores. Cada colaborador fue reconocido a través de diferentes canales de comunicación y por medio de autorizas en las publicaciones. EHTC también apoya el "análisis e interpretación críticos" de sus resultados publicados para facilitar la transparencia, el rigor y la reproducibilidad ([sitio web de EHTC](https://eventhorizontelescope.org/blog/imaging-reanalyses-eht-data)).
 
-### Making Open Results Starts with Contributors!
+### ¡Generar resultados abiertos comienza con los colaboradores!
 
-Making different research components and preparing to share them as open results involve a range of activities. Behind these activities are the contributors who engage in various responsibilities that include, but are not limited to:
+Crear diferentes componentes de investigación y prepararse para compartirlos como resultados abiertos implica una serie de actividades. Detrás de estas actividades se encuentran los contribuidores que asumen variadas responsabilidades que incluyen pero no se limitan a:
 
-- Conceptualizing the idea
-- Designing the project
+- Conceptualización de la idea
+- Diseñar el proyecto
 - Serving as advisor or mentor
 - Conducting experiment as a student, researcher, or research assistant
 - Creating tools essential for carrying out the research
@@ -419,8 +419,8 @@ Es importante establecer una referencia para cada equipo de investigación/proye
         <td>Asegúrate que el proyecto de investigación se someta a un proceso de revisión ética si es necesario</td>
     </tr>
     <tr>
-        <td>Communications and Engagement</td>
-        <td>Communications about the project and engagements with the stakeholders beyond the project and institution</td>
+        <td>Comunicaciones y compromiso</td>
+        <td>Comunicaciones sobre el proyecto y compromisos con las partes interesadas más allá del proyecto y la institución</td>
     </tr>
     <tr>
         <td>Engagement with Experts and Policymakers</td>
