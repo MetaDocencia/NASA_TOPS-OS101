@@ -285,14 +285,14 @@ Crear diferentes componentes de investigación y prepararse para compartirlos co
 
 - Conceptualización de la idea
 - Diseñar el proyecto
-- Serving as advisor or mentor
-- Conducting experiment as a student, researcher, or research assistant
-- Creating tools essential for carrying out the research
-- Providing data expertise
-- Developing software
-- Providing specialized expertise and support
-- Managing community and project requirements
-- Providing feedback to the results
+- Participar como asesor o mentor
+- Realizar experimentos como estudiante, investigador o asistente de investigación
+- Crear herramientas esenciales para llevar a cabo la investigación
+- Proveer experiencia en datos
+- Desarrollar software
+- Proveer conocimientos especializados y soporte
+- Gestionar requerimientos de la comunidad y del proyecto
+- Proporcionar comentarios a los resultados
 - Designing experiments and interpreting results
 - Manuscript writing and review
 - And [more](https://the-turing-way.netlify.app/collaboration/shared-ownership/shared-ownership-projects.html)!
