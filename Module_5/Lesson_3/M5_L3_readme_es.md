@@ -299,11 +299,11 @@ Crear diferentes componentes de investigación y prepararse para compartirlos co
 
 Frecuentemente las conversaciones sobre la contribución y la autoría tienen lugar hacia el final de un proyecto o cuando se prepara el borrador de una publicación científica. Sin embargo, como se ha aprendido en las lecciones anteriores, los resultados de la investigación se generan a lo largo de toda la vida de un proyecto de investigación. Por lo tanto, es importante construir un acuerdo al principio del proyecto sobre cómo se gestionará la contribución en el proyecto.
 
-Developing contribution guidelines and contributor agreements requires collaboratively defining what is considered contributions in your project, who among the current contributors will get authorship, who will get acknowledged as a contributor, what is the significance of the order in which authors are listed in a scientific publication, and who makes these decisions. Ensuring that all collaborators understand and agree to these guidelines before beginning the project is also important.
+Desarrollar pautas de contribución y acuerdos entre colaboradores requiere definir de manera colaborativa qué se considera contribuciones en el proyecto, quiénes entre los colaboradores actuales obtendrán autoría, quiénes serán reconocidos como colaboradores, cuál es la importancia del orden en el que se enumeran los autores en una publicación científica y quién toma estas decisiones. Garantizar que todos los colaboradores entiendan y acepten estas pautas antes de comenzar el proyecto también es importante.
 
-### Contributors and Authorship
+### Colaboradores y Autoría
 
-First and foremost, you must ensure that anyone who has contributed to the research project has their contributions recognized. With that shared understanding, in this lesson, you will explore what those recognitions as contributors or authors in your research project might look like.
+En primer lugar y sobre todo, se debe asegurar que se reconozcan sus contribuciones a cualquier persona que haya contribuido al proyecto de investigación. Con esta idea en mente, en esta lección, se explorará cómo se representarán esos reconocimientos a los colaboradores o autores de tu proyecto de investigación.
 
 Let's first define contributor and author roles.
 
