@@ -314,29 +314,29 @@ Brindar una atribución adecuada a los resultados abiertos es una responsabilida
 
 ### Pautas de citación para resultados publicados y no publicados
 
-Si un artículo se ha publicado formalmente en una revista, la cita debe remitir a la versión publicada en lugar de un servidor de pre-impresiones o de borradores.
+Si un artículo se ha publicado formalmente en una revista, la cita debe remitir a la versión publicada en lugar de un servidor de borradores o artículos aún no publicados.
 
-Take the time to locate the originating journal to provide an accurate citation.
+Tómate el tiempo necesario para localizar la revista de origen y proporcionar una cita más precisa.
 
 <img src="../images/media/image31.png" style="width:100%;height:auto;" />
 
-Preprint Server (Cite only if journal publication not available)
+Servidor de borradores o de manuscritos aún no publicados (Citar solo si no está disponible la publicación en una revista)
 
 ---
 
 <img src="../images/media/image32.png" style="width:100%;height:auto;" />
 
-Source Publication (Always cite)
+Fuente de la publicación (Citar siempre)
 
 ---
 
-If a paper that you wish to cite is not yet accepted for publication, you should follow the guidelines of the journal to which you are submitting your paper. A preprint reference citation typically includes author name(s), date of the most recent version posted, paper title, name of the preprint server, object type ("preprint"), and the DOI.
+Si un artículo que desea citar aún no ha sido aceptado para su publicación, debe seguir las pautas de la revista al cual está enviando su artículo. Una cita de referencia de un manuscrito que aún no está publicado o de un borrador típicamente incluye el nombre del o los autor(es), la fecha de la versión más reciente publicada, el título del artículo, el nombre del servidor en donde se encuentra el borrador del artículo, el tipo de objeto ("manuscrito no publicado") y el DOI.
 
 <img src="../images/media/image33.png" style="width:100%;height:auto;" />
 
-At the time of the Lesson preparation, the following paper did not yet appear as a journal publication.
+Al momento de la preparación de la presente sección, el siguiente artículo aún no había sido publicado en una revista.
 
-Jin, H., et al. 2023, "Optical color of Type Ib and Ic supernovae and implications for their progenitors," ApJ, preprint, arXiv:2304.10670.
+Jin, H., et al. 2023, "Optical color of Type Ib and Ic supernovae and implications for their progenitors," ApJ, manuscrito no publicado, arXiv:2304.10670.
 
 ---
 
@@ -411,20 +411,20 @@ In the Lesson 1 blog post [example](https://medium.com/pangeo/fake-it-until-you-
 
 In Lesson 1, the JWST case study was presented. The peer-reviewed [publication](https://www.nature.com/articles/s41586-022-05269-w#Ack1) that reported the first discovery of CO2 on another planet has been accessed 18,000+ times. Notice is that the authorship is attributed to the entire team. The Acknowledgements section duly explains the contributions of their collaborators and partners, "The results reported herein benefited during the design phase from collaborations and/or information exchange within NASA’s Nexus for Exoplanet System Science (NExSS) research coordination network sponsored by NASA's Science Mission Directorate." Also, "All the data and models presented in this publication can be found at [https://doi.org/10.5281/zenodo.6959427](https://doi.org/10.5281/zenodo.6959427)". And finally, they cite all the software! "The codes used in this publication to extract, reduce and analyze the data are as follows.."
 
-## Lesson 2: Summary
+## Lección 2: Resumen
 
-In this lesson, you learned:
+En esta lección, has aprendido:
 
 - Open results can be found using both Scholarly Search Portals and Web searches.
 - The reliability of a post can generally be evaluated by the trustworthiness of the website from which they originated from, the engagement of community members, and the scientific rigor of its content.
 - Users of open results, as inherent stewards of the open a source community, informally carry some responsibility to contribute to the community’s sustainability. This participation includes providing feedback to open results providers and developers.
 - Giving proper attribution to open results is an important and ethical responsibility for using open source materials. The process for citation is specific to the nature of the material.
 
-## Lesson 2: Knowledge Check
+## Lección 2: Evaluación
 
-Answer the following questions to test what you have learned so far.
+Responde las siguientes preguntas para poner a prueba lo que ha aprendido hasta ahora.
 
-_Question_
+_Pregunta_
 
 **01/02**
 
@@ -436,7 +436,7 @@ Which of the following could be a source of open results? Select all that apply.
 - Repositories
 - Open access papers
 
-_Question_
+_Pregunta_
 
 **02/02**
 
