@@ -475,27 +475,27 @@ Es importante establecer una referencia para cada equipo de investigación/proye
         <td>Preparación, creación y/o presentación de la obra publicada, específicamente visualización / presentación de datos</td>
     </tr>
     <tr>
-        <td>Supervision</td>
-        <td>Oversight and leadership responsibility for the research activity planning and execution, including mentorship external to the core team</td>
+        <td>Supervisión</td>
+        <td>Supervisión y responsabilidad de liderazgo para la planificación y ejecución de la actividad de investigación, incluida la tutoría externa al equipo principal</td>
     </tr>
 </tbody>
 </table>
 
-## How to Give Open Recognition
+## Cómo dar reconocimiento abierto
 
-To openly and fairly recognize all contributors, their names with the types of contributions they made should be listed in the project documentation. In manuscripts, it is a common practice to mention contributors’ roles under the ‘acknowledgement’ section, such as using CRedIT or similar taxonomy as provided in the table above. All contributors should be encouraged to provide ORCiDs associated with their names to make them identifiable.
+Para reconocer abierta y justamente a todos los colaboradores, se deben listar en la documentación del proyecto sus nombres junto con los tipos de contribuciones que realizaron. En los manuscritos, es una práctica común mencionar los roles de los colaboradores en la sección de 'agradecimientos', utilizando el sistema CRedIT u otro similar, como se proporciona en la tabla anterior. Todos los colaboradores deben ser alentados a proporcionar ORCiDs asociados con sus nombres para que sean identificables.
 
-Contribution statements in documentation and manuscripts can specify who did what in the official results. This is great for transparency. It is also a great way to guard against unfair power dynamics. Details about contribution type shows explicitly who works on which parts of results, and makes it easy to give fair authorship. For example: _"Pierro Asara: review and editing (equal). Kerys Jones: Conceptualization (lead); writing – original draft (lead); formal analysis (lead); writing – review and editing (equal). Elisha Roberto: Software (lead); writing – review and editing (equal). Hebei Wang: Methodology (lead); writing – review and editing (equal). Jinnie Wu: Conceptualization (supporting); Writing – original draft (supporting); Writing – review and editing (equal)."_
+Las declaraciones de contribución en la documentación y manuscritos pueden especificar qué hizo cada integrante en los resultados oficiales. Esto es excelente para la transparencia. También es una gran manera de protegerse contra dinámicas injustas del poder. Los detalles sobre el tipo de contribución muestran explícitamente quién trabajó en cada parte de los resultados, y facilitan otorgar una autoría justa. \*"Pierro Asara: revisión y edición (par). Kerys Jones: Conceptualización (líder); escritura – borrador original (líder); análisis formal (líder); escritura – revisión y edición (par). Elisha Roberto: Software (líder); escritura – revisión y edición (par). Hebei Wang: Metodología (líder); escritura – revisión y edición (par). Jinnie Wu: Conceptualización (apoyo); Escritura – borrador original (apoyo); Escritura – revisión y edición (par)
 
-If a GitHub repository and website exist, a dedicated page should be created to list and recognize all contributors. If someone minorly contributed to the paper, code or data, you could add them as an author or contributor to the GitHub and Zenodo releases respectively. Engaged collaborators and contributors not already involved in making research outputs should be given the opportunity to contribute to open results such as through presentation, posters, talks, blogs, podcasts, data, software as well as articles.
+Si existe un repositorio y un sitio web de GitHub, debe crearse una página dedicada para listar y reconocer a todos los colaboradores. Si alguien contribuyó de manera minoritaria al manuscrito, código o datos, podrías agregarlo como autor o colaborador en las versiones de GitHub y Zenodo, respectivamente. Los colaboradores y participantes que no estén directamente involucrados en la creación de resultados de investigación deberían tener la oportunidad de contribuir a otros resultados abiertos, tales como presentaciones, pósters, charlas, blogs, podcasts, datos, software, así como también artículos.
 
-### Activity 3.1: Draft a Contribution Guideline
+### Actividad 3.1: Redacta una guía de contribución
 
 <img src="../images/media/image21.png" style="width:350px;height:auto;"/>
 
-A standalone contribution guideline should be created for each open project, even when that means reusing an existing draft that the research team has used in another project.
+Debería crearse una guía de contribución independiente para cada proyecto abierto, incluso si eso significa reutilizar un borrador existente que el equipo de investigación ya haya utilizado.
 
-Note that this is different from "contributing" guidelines that describe "how" to contribute (for example on code repositories). Contribution guidelines should describe contribution types and ways to acknowledge them as discussed above.
+Tenga en cuenta que esto es diferente de las pautas de "contribuir" que describen "cómo" contribuir (por ejemplo en los catálogos de código). Contribution guidelines should describe contribution types and ways to acknowledge them as discussed above.
 
 Contribution guidelines are not set-in-stone, but rather:
 
