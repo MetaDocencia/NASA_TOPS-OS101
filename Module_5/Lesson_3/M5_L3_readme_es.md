@@ -508,9 +508,9 @@ Notice that many categories and criteria for authorship, such as represented in 
 
 Some projects may not follow traditional manuscripts as their outputs. For example, if software is a primary output from a project, there may be a need to define specific roles regarding code contributions. You can work with your research team to create a version of CRediT Taxonomy for your project, such as shared in an expanded version of the table above.
 
-When different kinds of contributorship have been identified, clarify how different contributors will be involved and acknowledged. This may include recommended communication and collaboration processes for the team members, as well as recognition and credit for different kinds of contributions they make.
+When different kinds of contributorship have been identified, clarify how different contributors will be involved and acknowledged. Esto puede incluir procesos de comunicación y colaboración recomendados para las personas que formen parte del equipo, así como reconocimiento y crédito por los distintos tipos de contribuciones que hagan.
 
-**Additional Information**
+**Información Adicional**
 
 For additional tips on how to acknowledge different kinds of contributors to developing a resource including authorship, check out [Acknowledging Contributors The Turing Way](https://the-turing-way.netlify.app/community-handbook/acknowledgement.html).
 
