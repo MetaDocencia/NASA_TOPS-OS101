@@ -308,13 +308,13 @@ Algunos ejemplos de plagio son:
 
 [HAZ CLIC PARA APRENDER MÁS](https://www.elsevier.com/editor/perk/plagiarism-complaints#0-introduction) (en inglés)
 
-## How to Cite Open Results
+## Cómo citar resultados abiertos
 
-Giving proper attribution to open results is an important and ethical responsibility for using open a source materials. The process for citation is specific to the nature of the material.
+Brindar una atribución adecuada a los resultados abiertos es una responsabilidad importante y ética al utilizar materiales de código abierto. El proceso de citación depende de la naturaleza del material.
 
-### Citation Guidelines for Published Versus Unpublished Results
+### Pautas de citación para resultados publicados y no publicados
 
-If a paper has been formally published in a journal, then your citation should point to the published version rather than to a preprint server.
+Si un artículo se ha publicado formalmente en una revista, la cita debe remitir a la versión publicada en lugar de un servidor de pre-impresiones o de borradores.
 
 Take the time to locate the originating journal to provide an accurate citation.
 
