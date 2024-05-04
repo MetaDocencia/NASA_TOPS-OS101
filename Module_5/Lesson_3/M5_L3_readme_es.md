@@ -305,19 +305,19 @@ Desarrollar pautas de contribución y acuerdos entre colaboradores requiere defi
 
 En primer lugar y sobre todo, se debe asegurar que se reconozcan sus contribuciones a cualquier persona que haya contribuido al proyecto de investigación. Con esta idea en mente, en esta lección, se explorará cómo se representarán esos reconocimientos a los colaboradores o autores de tu proyecto de investigación.
 
-Let's first define contributor and author roles.
+Primero definamos los roles de los autores y los colaboradores.
 
 <table>
   <thead>
     <tr>
-        <th>A "CONTRIBUTOR" ☑</th>
-        <th>AN "AUTHOR"</th>
+        <th>"COLABORADORES" ☑</th>
+        <th>"AUTORES"</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="2">
-            <p>A contributor is anyone who has done any activity that made it possible for the research to happen and results to be created, published or shared.</p>
+            <p>Un colaborador es cualquiera que haya realizado cualquier actividad que haya hecho posible que la investigación suceda y se creen resultados, publicado o compartido.</p>
         </td>
     </tr>
   </tbody>
@@ -326,39 +326,39 @@ Let's first define contributor and author roles.
 <table>
   <thead>
     <tr>
-        <th>A "CONTRIBUTOR"</th>
-        <th>AN "AUTHOR" ☑</th>
+        <th>"COLABORADORES"</th>
+        <th>"AUTORES" ☑</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="2">
-            <p>An author of an open result is a contributor who has given a substantial contribution to the conception or design of the work or the acquisition, analysis, or interpretation of the data for the published work.</p>
+            <p>Un autor de un resultado abierto es un colaborador que ha contribuido sustancialmente a la concepción o diseño de la obra o la adquisición,, o interpretación de los datos para la obra publicada.</p>
         </td>
     </tr>
   </tbody>
 </table>
 
-### Are All Authors Contributors and Vice Versa?
+### ¿Todos los autores son colaboradores y viceversa?
 
-An author is a contributor who actively carries out one or several of the tasks listed above ([National Institute of Health - NIH](https://oir.nih.gov/sourcebook/ethical-conduct/authorship-guidelines-resources/authorship-resources) and [ICMJE](https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html)). All authors are contributors, but all contributors may not be authors, for example, someone serving as a mentor, trainer or infrastructure maintainer. Ideally, all contributors are given the opportunity to author research outputs.
+Una autoria corresponde a una persona que realiza activamente una o varias de las tareas mencionadas anteriormente ([Instituto Nacional de Salud - NIH](https://oir.nih. ov/sourcebook/ethical-conduct/authorship-guidelines-resources/authorship-resources) y [ICMJE](https://www.icmje.org/recommendations/browse/roles-and-responsabilities/defining-the-role-of-authors-and-contributors.html)). Todos los autores son colaboradores, pero todos los colaboradores pueden no ser autores, por ejemplo, alguien que sirva como mentor, entrenador o mantenedor de infraestructura. Idealmente, todos los colaboradores tienen la oportunidad tener autoria sobre los resultados de la investigaciones.
 
-Given the importance traditionally placed on authorship in scientific publication and the fuzziness of the definitions (that often contain relative terms such as "substantial" or "extensive" leaving too much room for interpretation), it is not surprising that determining who amongst the contributors gets to be an author can lead to biased or unfair decisions, disputes between contributors, or at the very least leave someone resentful and feeling unappreciated.
+Dada la importancia que tradicionalmente se le atribuye a la autoría en la publicación científica y la ambigüedad de las definiciones (que a menudo contienen términos relativos como "sustancial" o "extensivo" que dejan demasiado margen para la interpretación), no es de extrañar que determinar quien merece una autoria pueda conducir a decisiones sesgadas o injustas, disputas entre los contribuyentes, o como mínimo dejar a alguien resentido y sentirse inapreciado.
 
-There is no single approach for recognizing contributors as authors, but here is what you should consider:
+No hay un único enfoque para reconocer a los contribuyentes como autores, pero esto es lo que se debería considerar:
 
 <table>
   <thead>
     <tr>
-        <th>GROUP POWER DYNAMICS &amp; EQUITY (E.G. SENIORITY, SYSTEMS OF OPPRESSION) ☑</th>
-        <th>THE TYPE OF CONTRIBUTION</th>
+        <th>DINAMICAS DE PODER EN GRUPO &amp; EQUIDAD (Por ejemplo,. SENIORIDAD, SISTEMAS DE OPRESIÓN) ☑</th>
+        <th>EL TIPO DE CONTRIBUCIÓN</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="2">
-            <p>Consider this hypothetical scenario: You are a postdoctoral fellow and the leading author of a research project. A rotating student spends 4 months in the lab helping you set up and perfect the experimental protocol that you will then use to carry out the experiments needed to answer your research question. They may even help you collect some preliminary data, but then they leave and later decide to join another lab. Would you provide authorship for the student?</p>
-            <p>It would be unethical not to give authorship or credit to someone who has provided significant help and contributed to the success of a research, even when they are no longer involved. A fair path in this scenario could be to contact the previous contributor and involve them in writing a relevant section of the manuscript.</p>
+            <p>Consideremos este hipotético escenario: Usted es un compañero postdoctoral y el principal autor de un proyecto de investigación. Un estudiante rotativo pasa 4 meses en el laboratorio ayudándote a establecer y perfeccionar el protocolo experimental que utilizarás para realizar los experimentos necesarios para responder a tu pregunta de investigación. Incluso pueden ayudarte a recoger algunos datos preliminares, pero luego se van y luego deciden unirse a otro laboratorio. ¿Proporcionarías la autoría para el estudiante?</p>
+            <p>Sería poco ético no dar a la autoría o crédito a alguien que ha prestado una ayuda significativa y ha contribuido al éxito de una investigación. incluso cuando ya no están implicados. Un camino justo en este escenario podría ser ponerse en contacto con el colaborador anterior e implicarlos en la escritura de una sección relevante del manuscrito.</p>
         </td>
     </tr>
   </tbody>
@@ -367,14 +367,14 @@ There is no single approach for recognizing contributors as authors, but here is
 <table>
   <thead>
     <tr>
-        <th>GROUP POWER DYNAMICS &amp; EQUITY (E.G. SENIORITY, SYSTEMS OF OPPRESSION)</th>
-        <th>THE TYPE OF CONTRIBUTION ☑</th>
+        <th>DINAMICAS DE PODER EN GRUPO &amp; EQUIDAD (Por ejemplo,. SENIORIDAD, SISTEMAS DE OPRESIÓN)</th>
+        <th>EL TIPO DE CONTRIBUCIÓN ☑</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="2">
-            <p>The NIH guidelines for authorship outline what type of contribution does or does not warrant authorship. Cada contribución se representa en una escala móvil y no tiene límites rígidos. Algunas contribuciones tienen más peso que otras. Por ejemplo, para "diseño e interpretación de resultados", casi todos los tipos de "ideas originales, planificaciones y aportes" resultan en autoría. Mientras que la simple supervisión del primer autor generalmente no resulta en autoría (a menos que también estén contribuyendo al artículo, por supuesto). Este es solo un ejemplo. ¡Necesitarás pensar en cómo se aplica esto en tu propio trabajo!</p>
+            <p>Las pautas del NIH para la autoría describen qué tipo de contribución justifica o no una autoría. Cada contribución se representa en una escala móvil y no tiene límites rígidos. Algunas contribuciones tienen más peso que otras. Por ejemplo, para "diseño e interpretación de resultados", casi todos los tipos de "ideas originales, planificaciones y aportes" resultan en autoría. Mientras que la simple supervisión del primer autor generalmente no resulta en autoría (a menos que también estén contribuyendo al artículo, por supuesto). Este es solo un ejemplo. ¡Necesitarás pensar en cómo se aplica esto en tu propio trabajo!</p>
         </td>
     </tr>
   </tbody>
