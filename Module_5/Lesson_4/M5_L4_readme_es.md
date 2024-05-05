@@ -315,7 +315,7 @@ Lee la historia sobre cómo la lista de correo electrónico de Joanne Cohn para 
 
 ### ¿Quién está compartiendo?
 
-Cuando se escribe un Plan de ciencia abierta y gestión de datos (OSDMP, por las siglas en inglés de Open Science and Data Management Plan), es importante incluir un plan sobre las funciones y responsabilidades necesarias para compartir los resultados. As discussed in lesson 3, your community will consist of members in different roles – some actively engaged, some with only a passing interest. Having a clear plan for sharing open results and how credit will be given will help everyone understand their contributions and roles and minimize conflict.
+Cuando se escribe un Plan de ciencia abierta y gestión de datos (OSDMP, por las siglas en inglés de Open Science and Data Management Plan), es importante incluir un plan sobre las funciones y responsabilidades necesarias para compartir los resultados. Como se explica en la lección 3, tu comunidad estará formada por miembros con diferentes funciones: algunos participarán activamente y otros sólo tendrán un interés pasajero. Contar con un plan claro para compartir los resultados abiertos y la forma en que se otorgará el crédito ayudará a que todos comprendan sus contribuciones y funciones y minimizará los conflictos.
 
 Lesson 3 describes in detail the different roles that people may play in sharing results. This should be clearly described In the OSDMP.
 
