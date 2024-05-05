@@ -495,16 +495,16 @@ Si existe un repositorio y un sitio web de GitHub, debe crearse una página dedi
 
 Debería crearse una guía de contribución independiente para cada proyecto abierto, incluso si eso significa reutilizar un borrador existente que el equipo de investigación ya haya utilizado.
 
-Tenga en cuenta que esto es diferente de las pautas de "contribuir" que describen "cómo" contribuir (por ejemplo en los catálogos de código). Contribution guidelines should describe contribution types and ways to acknowledge them as discussed above.
+Tenga en cuenta que esto es diferente de las pautas de "contribuir" que describen "cómo" contribuir (por ejemplo en los catálogos de código). Las pautas de contribución deben describir los tipos de contribuciones y las formas de reconocerlas como se discutió anteriormente.
 
-Contribution guidelines are not set-in-stone, but rather:
+Las pautas de contribución no están escritas en piedra, sino más bien:
 
-- Are discipline-dependent
-- Can be adapted for your unique situation
+- Dependen de la disciplina
+- Se puede adaptar a situaciones únicas
 
-You can begin by reviewing guidelines by [NIH](https://oir.nih.gov/sourcebook/ethical-conduct/authorship-guidelines-resources/authorship-resources) and [ICMJEs](https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html) for authorship contributions.
+Puedes comenzar revisando las pautas del [NIH](https://oir.nih.gov/sourcebook/ethical-conduct/authorship-guidelines-resources/authorship-resources) y de [ICMJEs](https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html) para las autorías.
 
-Notice that many categories and criteria for authorship, such as represented in the NIH guidelines' sliding scale, may be differently decided. For example, in some fields providing financial resources for a research project always warrants authorship. In other fields this is not the case.
+Ten en cuenta que muchas categorías y criterios para las autorías, como las representadas en la escala de la guía del NIH, pueden ser decididas de manera diferente. Por ejemplo, en algunas disciplinas, proporcionar recursos financieros para un proyecto de investigación siempre justifica la autoría. En otros campos, este no es el caso.
 
 Some projects may not follow traditional manuscripts as their outputs. For example, if software is a primary output from a project, there may be a need to define specific roles regarding code contributions. You can work with your research team to create a version of CRediT Taxonomy for your project, such as shared in an expanded version of the table above.
 
