@@ -233,23 +233,23 @@ The most common types of open access publishing are Green, Gold, and Diamond.
 <table style="width:100%;">
   <thead>
     <tr>
-        <th>GOLD OPEN ACCESS PUBLISHING</th>
-        <th>GREEN OPEN ACCESS PUBLISHING</th>
-        <th>DIAMOND OPEN ACCESS PUBLISHING ☑</th>
+        <th>PUBLICACIÓN EN ACCESO ABIERTO ORO</th>
+        <th>PUBLICACIÓN EN ACCESO ABIERTO VERDE</th>
+        <th>PUBLICACIÓN EN ACCESO ABIERTO DIAMANTE</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>Diamond Open Access are publications where there is neither a cost for reading the article or publishing an article. Diamond Open Access journals either have very low costs due to building on existing infrastructure and volunteer efforts, or are supported directly by foundations or institutions. For authors, Diamond Open Access publications typically allow the author to retain copyright and the final version of their article as it is published under an open access license.</p>
+            <p>Acceso abierto Diamante, son publicaciones en las que no hay costo alguno para leer o publicar un artículo. Las revistas de acceso abierto Diamante, o bien tienen costos muy bajos debido a que aprovechan la infraestructura existente y los esfuerzos de voluntarios, o bien cuentan con el apoyo directo de fundaciones o instituciones. Para los autores, las publicaciones de acceso abierto Diamante suelen permitir que el autor conserve los derechos de autor (copyrigh) y la versión final de su artículo, ya que se publica bajo una licencia de acceso abierto.</p>
         </td>
     </tr>
   </tbody>
 </table>
 
-### Pros and Cons of Preprints
+### Ventajas y desventajas de las preimpresiones (preprints)
 
-When publishing in a peer-reviewed journal, you can decide to share a pre-print. A preprint is a version of a paper prior to its publication in a journal\*. This can be the author’s version of the accepted manuscript after peer review or a version prior to submission to a journal.
+Al publicar en una revista revisada por pares, puedes decidir compartir una preimpresión. Una preimpresión es una versión de un artículo antes de su publicación en una revista\*. Puede tratarse de la versión del manuscrito aceptada por quien la escribe tras la revisión por pares o de una versión anterior a su presentación a una revista.
 
 <img src="../images/media/image57.png" style="width:20px;height:auto;" /> **The accepted manuscript is the final, peer-reviewed version of the article that has been accepted for publication by a publisher. The accepted manuscript includes all changes made during the peer review process and contains the same content as the ﬁnal published article, but it does not include the publisher’s copyediting, stylistic, or formatting edits that will appear in the ﬁnal journal publication (i.e., the version of record).**
 
