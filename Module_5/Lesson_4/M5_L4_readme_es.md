@@ -317,28 +317,28 @@ Lee la historia sobre cómo la lista de correo electrónico de Joanne Cohn para 
 
 Cuando se escribe un Plan de ciencia abierta y gestión de datos (OSDMP, por las siglas en inglés de Open Science and Data Management Plan), es importante incluir un plan sobre las funciones y responsabilidades necesarias para compartir los resultados. Como se explica en la lección 3, tu comunidad estará formada por miembros con diferentes funciones: algunos participarán activamente y otros sólo tendrán un interés pasajero. Contar con un plan claro para compartir los resultados abiertos y la forma en que se otorgará el crédito ayudará a que todos comprendan sus contribuciones y funciones y minimizará los conflictos.
 
-Lesson 3 describes in detail the different roles that people may play in sharing results. This should be clearly described In the OSDMP.
+En la Lección 3 se describen detalladamente las diferentes funciones que pueden desempeñar las personas en la puesta en común de resultados. Esto debe describirse claramente en el Plan de ciencia abierta y gestión de datos.
 
-### Predatory Publishers
+### Editoriales depredadoras
 
-Predatory Publishers are generally for-profit publishers that charge a publishing fee but provide few quality checks on the quality of the publication that would be expected from scholarly publications. They sometimes use the benefit of open access to entice authors to publish with them. If you are unsure if a publisher may be predatory, checking with your library staff is a good place to start.
+Las editoriales depredadoras suelen ser editoriales con ánimo de lucro que cobran una tasa de publicación pero proporcionan pocos controles de calidad de la publicación que cabría esperar de las publicaciones académicas. A veces utilizan la ventaja del acceso abierto para atraer a los autores a publicar con ellos. Si no está seguro de si una editorial puede ser depredadora, un buen punto de partida es consultar al personal de su biblioteca.
 
-There are many red flags in these requests for predatory publishers:
+Hay muchas señales de alarma en estas solicitudes de editoriales depredadoras:
 
-- There is an urgency and request for an extremely quick turnaround. A very fast publication time might indicate a less rigorous peer-review process.
-- Written English in correspondence is often poor quality with many grammatical errors. (Though it’s important to remember that this alone does not indicate predatory behavior, as grammatical mistakes can be made for innocent reasons, such as being a non-native speaker.)
-- The journal subject is nonspecific.
-- The solicitation is inaccurate or generic.
-- The email is often unsolicited, even if they claim that they're referring to a previous paper of yours. This might start with an inaccurate or generic solicitation such as "professor".
-- They emphasize ISSN indexing and/or impact factors, although this particular journal doesn’t have one. Consider Journal Citation Indicator (JCI) in addition to Journal Impact Factor (JIF).
-- The publisher/journal sends multiple emails soliciting manuscripts, special issues, and editorial roles.
-- They have a high number of special issues, such that the majority of the papers published appear in special issues.
-- Their name resembles the name of a prestigious journal.
-- They have a high self-citation rate, such as over 20%.
-- They have a very high acceptance rate of submitted papers.
-- They send frequent requests to submit/serve as editor.
+- Hay urgencia y se pide un plazo de entrega extremadamente rápido. Un plazo de publicación muy rápido podría indicar un proceso de revisión por pares menos riguroso.
+- El inglés escrito de la correspondencia suele ser de mala calidad, con muchos errores gramaticales. (Aunque es importante recordar que esto por sí solo no indica un comportamiento depredador, ya que los errores gramaticales pueden cometerse por razones inocentes, como ser un hablante no nativo).
+- El tema de la revista no es específico.
+- La solicitud es imprecisa o genérica.
+- El correo electrónico a menudo no es solicitado, incluso si afirman que se están refiriendo a un documento anterior suyo. Puede empezar con una solicitud imprecisa o genérica, como "profesor".
+- Hacen hincapié en la indexación del ISSN (International Standard Serial Number en inglés. Número Internacional Normalizado de Publicaciones Seriadas) y/o en los factores de impacto, aunque esta revista en concreto no los tenga. Considera el indicador de citas de revistas (JCI por las siglas en inglés de Journal Citation Indicator) además del factor de impacto de la revista (JIF por las siglas en inglés de Journal Impact Factor).
+- La editorial/revista envía múltiples correos electrónicos solicitando manuscritos, números especiales y funciones editoriales.
+- Tienen un elevado número de ediciones especiales, de modo que la mayoría de los artículos publicados aparecen en números especiales.
+- Su nombre se parece al de una revista prestigiosa.
+- Tienen un alto índice de autocitación, superior al 20%.
+- Tienen una tasa muy alta de aceptación de los trabajos enviados.
+- Envían con frecuencia solicitudes para presentar trabajos o ejercer de editor.
 
-Below are some final thoughts on what or what not to consider when deciding where to publish. As with many considerations you will encounter in academia, sometimes deciding the best place to publish will be determined by word of mouth conversations with peers. Read more on NOAA's [guidance on predatory publishing](https://libguides.library.noaa.gov/predatorypublishing).
+A continuación encontráis algunas reflexiones finales sobre lo que debéis o no debéis tener en cuenta a la hora de decidir dónde publicar. Como ocurre con muchas de las consideraciones que se plantean en el mundo académico, a veces la decisión sobre el mejor lugar para publicar vendrá determinada por las conversaciones de boca a boca con los pares. Lee más sobre la guía de NOA sobre la publicación depredadora (https://libguides.library.noaa.gov/predatorypublishing).
 
 ### Common Questions About Sharing Results
 
