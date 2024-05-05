@@ -251,28 +251,28 @@ The most common types of open access publishing are Green, Gold, and Diamond.
 
 Al publicar en una revista revisada por pares, puedes decidir compartir una preimpresión. Una preimpresión es una versión de un artículo antes de su publicación en una revista\*. Puede tratarse de la versión del manuscrito aceptada por quien la escribe tras la revisión por pares o de una versión anterior a su presentación a una revista.
 
-<img src="../images/media/image57.png" style="width:20px;height:auto;" /> **The accepted manuscript is the final, peer-reviewed version of the article that has been accepted for publication by a publisher. The accepted manuscript includes all changes made during the peer review process and contains the same content as the ﬁnal published article, but it does not include the publisher’s copyediting, stylistic, or formatting edits that will appear in the ﬁnal journal publication (i.e., the version of record).**
+<img src="../images/media/image57.png" style="width:20px;height:auto;" /> **El manuscrito admitido es la versión final, revisada por pares, del artículo que ha sido aceptado para su publicación por un editor.<0/>. El manuscrito aceptado incluye todos los cambios realizados durante el proceso de revisión por pares y tiene el mismo contenido que el artículo ﬁnal publicado, pero no incluye las correcciones de edición, estilo o de formato de edición que aparecerán en la publicación ﬁnal de la revista (es decir, la versión registrada)**
 
-**Source: https://science.nasa.gov/researchers/sara/faqs/osdmp.**
+Fuente: https://science.nasa.gov/researchers/sara/faqs/osdmp
 
-Many journals provide preprint services. If they don’t, there are many public preprint servers available. Often the funding agency will have a preferred public preprint server.
+Muchas revistas ofrecen servicios de preimpresión. Si no lo hacen, hay muchos servidores públicos de preimpresión disponibles. A menudo, la agencia de financiación tiene un servidor público de preimpresiones preferido.
 
-Preprints come with many advantages as well as perceived or potential disadvantages.
+Las preimpresiones presentan muchas ventajas, así como desventajas percibidas o potenciales.
 
 <table style="width:100%;">
   <thead>
     <tr>
-        <th>ADVANTAGES TO PUBLISHING WORK AS A PRE-PRINT ☑</th>
-        <th>POTENTIAL DISADVANTAGES</th>
+        <th>VENTAJAS DE PUBLICAR UN TRABAJO COMO PREPRINT☑</th>
+        <th>POSIBLES DESVENTAJAS</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="2">
             <ul>
-            <li>Quickly disseminate findings to communities in a timely manner.</li>
-            <li>Many field-specific preprint servers (e.g. arxiv.org, biorxiv.org, essoar.org) are free to both upload and read.</li>
-            <li>Community feedback on your work as it's being done.</li>
+            <li>Difundir rápidamente los hallazgos a las comunidades en el plazo debido.</li>
+            <li>Muchos servidores de preimpresos de campos específicos (p. ej., arxiv.org, biorxiv.org, essoar.org) se pueden cargar y leer de forma gratuita.</li>
+            <li>Comentarios de la comunidad sobre tu trabajo a medida que se realiza.</li>
             </ul>
         </td>
     </tr>
@@ -282,40 +282,40 @@ Preprints come with many advantages as well as perceived or potential disadvanta
 <table style="width:100%;">
   <thead>
     <tr>
-        <th>ADVANTAGES TO PUBLISHING WORK AS A PRE-PRINT</th>
-        <th>POTENTIAL DISADVANTAGES ☑</th>
+        <th>VENTAJAS DE PUBLICAR UN TRABAJO COMO PREPRINT</th>
+        <th>POSIBLES DESVENTAJAS ☑</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="2">
             <ul>
-            <li>Work may be shared with critical errors that may have been caught in peer review.</li>
-            <li>In some fields, there is a perception of lessened reliability or quality of research published as a peer print.</li>
-            <li>Some journals do not allow or accept articles if they have been submitted to a preprint server.</li>
+            <li>El trabajo puede compartirse con errores críticos que pueden haberse detectado en la revisión por pares.</li>
+            <li>En algunos campos, existe la percepción de una menor fiabilidad o calidad de la investigación publicada como impresión por pares.</li>
+            <li>Algunas revistas no permiten o no aceptan artículos si han sido enviados a un servidor de preimpresiones.</li>
             </ul>
         </td>
     </tr>
   </tbody>
 </table>
 
-### What to Consider When Making Preprints
+### Qué tener en cuenta al hacer preimpresiones
 
-When deciding to preprint your work, you will need to check:
+Cuando decidas preimprimir tu trabajo, deberás comprobar:
 
-1. The copyright policy of the journal with which you aim to publish.
-2. The version of the paper that can be deposited.
-3. When the paper is allowed to be made publicly available.
+1. La política de derechos de autor (Copyright) de la revista en la que deseas publicar.
+2. La versión del trabajo que puede depositarse.
+3. Cuándo se permite poner el trabajo a disposición del público.
 
-#### Additional Reading:
+#### Lecturas adicionales:
 
-Read the [story](https://pubs.aip.org/physicstoday/Online/29310/Joanne-Cohn-and-the-email-list-that-led-to-arXiv) about how Joanne Cohn's email list for preprints led to Paul Ginsparg's development of [arXiv](https://arxiv.org/).
+Lee la historia sobre cómo la lista de correo electrónico de Joanne Cohn para preimpresiones llevó a Paul Ginsparg al desarrollo de arXiv. (https://pubs.aip.org/physicstoday/Online/29310/Joanne-Cohn-and-the-email-list-that-led-to-arXiv) (https://arxiv.org/).
 
-## Other Considerations When Sharing
+## Otras consideraciones a la hora de compartir
 
-### Who is Sharing?
+### ¿Quién está compartiendo?
 
-When writing an OSDMP, it’s important to include a plan for the roles and responsibilities needed to share your results. As discussed in lesson 3, your community will consist of members in different roles – some actively engaged, some with only a passing interest. Having a clear plan for sharing open results and how credit will be given will help everyone understand their contributions and roles and minimize conflict.
+Cuando se escribe un Plan de ciencia abierta y gestión de datos (OSDMP, por las siglas en inglés de Open Science and Data Management Plan), es importante incluir un plan sobre las funciones y responsabilidades necesarias para compartir los resultados. As discussed in lesson 3, your community will consist of members in different roles – some actively engaged, some with only a passing interest. Having a clear plan for sharing open results and how credit will be given will help everyone understand their contributions and roles and minimize conflict.
 
 Lesson 3 describes in detail the different roles that people may play in sharing results. This should be clearly described In the OSDMP.
 
