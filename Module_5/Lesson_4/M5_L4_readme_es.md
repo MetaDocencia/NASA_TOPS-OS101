@@ -224,7 +224,7 @@ The most common types of open access publishing are Green, Gold, and Diamond.
     <tr>
         <td colspan="3">
             <p>Green Open Access is the process of self-archiving. The self-archiving movement aims to provide tools and assistance to scholars to deposit and disseminate their refereed journal articles in open institutional or subject-based repositories. You may choose to self-archive your work to make it more discoverable and/or after you’ve published it in a subscription journal to ensure there is an open version of your paper.</p>
-            <p>The Registry of Open Access Repositories contains a list of repositories that are available for researchers to self-archive. At the beginning of 2019, there were more than 4000 repositories. It is important to find yourself-archive community!</p>
+            <p>The Registry of Open Access Repositories contains a list of repositories that are available for researchers to self-archive. A principios de 2019 había más de 4000 repositorios. It is important to find yourself-archive community!</p>
         </td>
     </tr>
   </tbody>
