@@ -224,7 +224,7 @@ The most common types of open access publishing are Green, Gold, and Diamond.
     <tr>
         <td colspan="3">
             <p>Green Open Access is the process of self-archiving. The self-archiving movement aims to provide tools and assistance to scholars to deposit and disseminate their refereed journal articles in open institutional or subject-based repositories. You may choose to self-archive your work to make it more discoverable and/or after you’ve published it in a subscription journal to ensure there is an open version of your paper.</p>
-            <p>The Registry of Open Access Repositories contains a list of repositories that are available for researchers to self-archive. A principios de 2019 había más de 4000 repositorios. It is important to find yourself-archive community!</p>
+            <p>The Registry of Open Access Repositories contains a list of repositories that are available for researchers to self-archive. A principios de 2019 había más de 4000 repositorios. ¡Es importante encontrar una comunidad de autoarchivos!</p>
         </td>
     </tr>
   </tbody>
@@ -340,59 +340,60 @@ Hay muchas señales de alarma en estas solicitudes de editoriales depredadoras:
 
 A continuación encontráis algunas reflexiones finales sobre lo que debéis o no debéis tener en cuenta a la hora de decidir dónde publicar. Como ocurre con muchas de las consideraciones que se plantean en el mundo académico, a veces la decisión sobre el mejor lugar para publicar vendrá determinada por las conversaciones de boca a boca con los pares. Lee más sobre la guía de NOA sobre la publicación depredadora (https://libguides.library.noaa.gov/predatorypublishing).
 
-### Common Questions About Sharing Results
+### Preguntas frecuentes sobre la divulgación de resultados
 
-Sharing in different ways, especially without peer-review, can be intimidating. Maybe you have worried about the following questions:
+Compartir de diferentes maneras, especialmente sin revisión por pares, puede ser intimidante. Tal vez te hayan preocupado las siguientes preguntas:
 
-- **What if an open result is wrong?**<br>A tweet, post, or video is only a snapshot in time of a research result. It is understood by all working professional scientists that we are constantly learning and discovering new things. Making reproducible results will necessarily include different versions and revisions of an idea as it develops.
+- **¿Qué pasa si un resultado abierto es erróneo?**<br>Un tuit, un post o un vídeo no es más que una instantánea en el tiempo de un resultado de investigación. Quienes hacemos ciencia de manera profesional sabemos que estamos constantemente aprendiendo y descubriendo cosas nuevas. La elaboración de resultados reproducibles incluirá necesariamente diferentes versiones y revisiones de una idea a medida que se desarrolla.
 
-- **I have already published my science as an open result, so do I need to respond to community feedback forever?**<br>As long as you have done everything to make your work reproducible - you don’t need to worry. Open science can’t be carried solely by a single person. Open science communities can continue to update, refine, and develop your open science result if your work has been shared and openly licensed.<br><br>If you are able to address a question or a concern about your prior research, that’s great. It is also an ethical response to acknowledge that this is research that you are no longer actively involved with, but allow others to continue the work that you began.
+- **Ya he publicado mis resultados científicos de forma abierta, ¿tengo que responder siempre a los comentarios de la comunidad?**<br>Mientras hayas hecho todo lo posible para que tu trabajo sea reproducible, no tiene por qué preocuparse. La ciencia abierta no puede ser llevada a cabo únicamente por una persona. Las comunidades de ciencia abierta pueden seguir actualizando, perfeccionando y desarrollando sus resultados si tu trabajo ha sido compartido y con licencia abierta.<br><br>
+  Si eres capaz de responder a una pregunta o a una inquietud sobre tu investigación anterior, eso es estupendo. También es una respuesta ética reconocer que se trata de una investigación en la que usted ya no participa activamente, pero permite que otros continúen el trabajo que comenzaste.
 
-- **What if I can't do everything? Am I a bad open scientist?**<br>The short answer is no! You have only a limited amount of time. Even with collaborators, you can’t possibly do everything.<br><br><img src="../images/media/image69.png" style="width:150px;height:auto;" /> <img src="../images/media/image70.png" style="width:150px;height:auto;" />
+- **¿Y si no puedo hacerlo todo? ¿Soy un mal científico abierto?**<br>¡La respuesta es no! Sólo tienes una cantidad de tiempo limitada. Incluso con colaboradores no puedes hacer todo.<br><br><img src="../images/media/image69.png" style="width:150px;height:auto;" /> <img src="../images/media/image70.png" style="width:150px;height:auto;" />
 
-Sharing open results improves science - it is faster, more accessible, and more collaborative. In this lesson you have learned about all the different ways you can share open results. Think about how you might share something you are working on now!
+Compartir resultados abiertos mejora la ciencia: es más rápido, más accesible y más colaborativo. En esta lección has aprendido todas las formas de compartir resultados abiertos. ¡Piensa cómo podrías compartir algo en lo que esté trabajando ahora!
 
-## Lesson 4: Summary
+## Lección 4: Resumen
 
-In this lesson, you learned:
+En esta lección, has aprendido:
 
-- When to share open results and the different ways in which they can be shared. This includes: peer reviewed publications, conference proceedings, blog posts, videos, notebooks, and social media.
-- How to share open results including considerations around the license for the publication, routes for open access publications (Green, Gold, Diamond), and preprints as part of the publication process.
-- Considerations around sharing, including considerations around predatory publishers and common concerns around openly sharing of results.
+- Cuándo compartir resultados abiertos y las diferentes formas en que se pueden compartir. Esto incluye: publicaciones revisadas por pares, resúmenes de congresos, entradas de blog, vídeos, anotaciones y redes sociales.
+- Cómo compartir resultados abiertos, incluyendo consideraciones sobre la licencia de la publicación, rutas para publicaciones de acceso abierto (Verde, Oro, Diamante) y preimpresiones como parte del proceso de publicación.
+- Consideraciones en torno al uso compartido, incluyendo consideraciones en torno a los editores depredadores y preocupaciones comunes en torno al intercambio abierto de resultados.
 
-## Lesson 4: Knowledge Check
+## Lección 4: Evaluación
 
-Answer the following questions to test what you have learned so far.
+Responde a las siguientes preguntas para comprobar lo que has aprendido hasta ahora.
 
-_Question_
+Pregunta
 
 **01/03**
 
-Which of the following Creative Commons licenses is most commonly used for open access publications?
+¿Cuál de las siguientes licencias Creative Commons es la más utilizada para las publicaciones de acceso abierto?
 
 - CC BY-NC-SA
-- Copyright
+- Derechos de autor (Copyrights)
 - CC-BY
 - Apache 2.0
 
-_Question_
+Pregunta
 
 **02/03**
 
-Read the statement below and decide whether it's true or false.
+Lee la siguiente afirmación y decide si es verdadera o falsa.
 
-_Diamond open access is both free to publish and to read scientific articles._
+El acceso abierto de Diamante es gratuito tanto para publicar como para leer artículos científicos
 
-- True
-- False
+- Verdadero
+- Falso
 
-_Question_
+Pregunta
 
-**03/03**
+03/03
 
-Take a close look at the request for journal submission below. Does this request for journal submission seem reliable?
+Fíjate bien en la siguiente solicitud de envío a una revista. ¿Te parece fiable esta solicitud?
 
 <img src="../images/media/image74.jpeg" style="width:100%;height:auto;" />
 
-- Yes
+- Sí
 - No
