@@ -506,9 +506,9 @@ Puedes comenzar revisando las pautas del [NIH](https://oir.nih.gov/sourcebook/et
 
 Ten en cuenta que muchas categorías y criterios para las autorías, como las representadas en la escala de la guía del NIH, pueden ser decididas de manera diferente. Por ejemplo, en algunas disciplinas, proporcionar recursos financieros para un proyecto de investigación siempre justifica la autoría. En otros campos, este no es el caso.
 
-Some projects may not follow traditional manuscripts as their outputs. For example, if software is a primary output from a project, there may be a need to define specific roles regarding code contributions. You can work with your research team to create a version of CRediT Taxonomy for your project, such as shared in an expanded version of the table above.
+Algunos proyectos pueden no generar manuscritos tradicionales como resultado. Por ejemplo, si el software es el resultado principal de un proyecto, puede ser necesario establecer roles específicos para las contribuciones al código. Puedes trabajar con tu equipo de investigación para crear una versión de CRediT Taxonomy para tu proyecto, tal como se muestra en la versión ampliada de la tabla anterior.
 
-When different kinds of contributorship have been identified, clarify how different contributors will be involved and acknowledged. Esto puede incluir procesos de comunicación y colaboración recomendados para las personas que formen parte del equipo, así como reconocimiento y crédito por los distintos tipos de contribuciones que hagan.
+Una vez que se hayan identificado diferentes tipos de contribuciones, aclara cómo estarán involucrados y serán reconocidos los diferentes colaboradores. Esto puede incluir procesos de comunicación y colaboración recomendados para las personas que formen parte del equipo, así como reconocimiento y crédito por los distintos tipos de contribuciones que hagan.
 
 **Información Adicional**
 
