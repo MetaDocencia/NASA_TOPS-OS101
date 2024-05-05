@@ -117,7 +117,7 @@ Los diversos objetos de investigación, incluidos los conjuntos de datos y el so
 
 ## Cómo evaluar resultados abiertos
 
-"Garbage in, garbage out" – your own research products are only as good as the data used in your investigation.
+«Basura dentro, basura fuera»: sus propios productos de investigación sólo son tan buenos como los datos utilizados en su investigación.
 
 If you use poor quality data or materials from unreliable and unvetted sources as critical components of your research, you run the risk of producing flawed, or low-quality science that may harm your reputation as a scientist. Therefore, it is critical to assess the quality and reliability of open-results sources before you include them in your own work.
 
