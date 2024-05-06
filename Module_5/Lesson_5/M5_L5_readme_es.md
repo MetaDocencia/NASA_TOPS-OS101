@@ -65,19 +65,19 @@ Hay muchas maneras en que la ciencia abierta puede ampliar la duración o el alc
 - Elabora una lista de los recursos necesarios para tu proyecto.
 - Proporciona enlaces a materiales de capacitación de los que puedan beneficiarse las personas colaboradoras.
 - Utiliza tableros de proyecto e incidencias para comunicar lo que está ocurriendo en el proyecto.
-- Utiliza solicitudes de extracción para invitar a revisiones a nuevos desarrollos de código y contenido.
-- Add user manual and executable notebooks to allow code testing.
-- Create and share executable notebooks that document how data is processed and the result obtained.
-- Create tutorials or short form videos demonstrating how a step in your research workflow was accomplished.
-- Write a blog post about your experience wrestling with a particular research challenge and how you solved it.
-- Contribute to documentation to improve the open-source tools based on your own experience.
-- Connect your repository to Binder to allow online testing of your code and executable notebooks.
-- Link all the outputs that are generated outside this repository (like blog, video, forum post and podcast among others as discussed above).
-- Some advanced steps that should be applied as the project develops include continuous integration, containerisation, Citation CFF file and the creation of a simple web page to link all information.
+- Utiliza Solicitudes de Devolución para invitar a revisiones a nuevos desarrollos de código y contenido.
+- Añade manuales de usuario y cuadernos ejecutables para permitir pruebas de código.
+- Crea y comparte cuadernos ejecutables que documenten cómo se procesan los datos y el resultado obtenido.
+- Crea tutoriales o videos cortos que demuestren cómo se realizó un paso en el flujo de trabajo de tu investigación.
+- Escribe una entrada de blog sobre tu experiencia luchando con un reto de investigación concreto y cómo lo resolviste.
+- Contribuye a la documentación para mejorar las herramientas de código abierto basándote en tu propia experiencia.
+- Conecta tu repositorio a Binder para permitir pruebas en línea de tu código y cuadernos ejecutables.
+- Enlaza todas las salidas generadas fuera de este repositorio (como blogs, videos, publicaciones en foros y podcasts, entre otros, como se discutió anteriormente).
+- Algunos pasos avanzados que deberían aplicarse a medida que se desarrolla el proyecto son la integración continua, la contenedorización, el archivo CITACION CFF y la creación de una página web sencilla para enlazar toda la información.
 
-## How Emerging Technology Like AI is Changing How We Do Science
+## Cómo una tecnología emergente como la IA está cambiando nuestra forma de hacer ciencia
 
-Throughout these modules, the internet has been identified as a fundamental disruptive technology that changed how almost all of science is accomplished. Scientists rarely go to libraries to read the latest journal articles. Data is no longer mailed around the world on tape drives. Software isn’t shared via floppy disks. The internet helped create the modern scientific workflow and made science more interactive and accessible. Now AI tools are starting to disrupt science in a similar manner. AI is not only revolutionizing many aspects of our lives, it is also changing how we do science. As companies race to create and integrate new generative AI tools into every aspect of our lives, many scientists, institutions, journal publishers, and agencies are looking to see how to use these tools effectively, understand their reliability, accuracy, biases, and how to also use these cutting edge tools ethically. An additional concern is how any information shared with AI tools may be used to intentionally or unintentionally disclose confidential data, leading to privacy concerns.
+A lo largo de estos módulos, Internet ha sido identificada como una tecnología disruptiva fundamental que cambió la forma en que se realiza casi toda la ciencia. La comunidad científica rara vez va a las bibliotecas para leer los últimos artículos de una revista. Data is no longer mailed around the world on tape drives. Software isn’t shared via floppy disks. The internet helped create the modern scientific workflow and made science more interactive and accessible. Now AI tools are starting to disrupt science in a similar manner. AI is not only revolutionizing many aspects of our lives, it is also changing how we do science. As companies race to create and integrate new generative AI tools into every aspect of our lives, many scientists, institutions, journal publishers, and agencies are looking to see how to use these tools effectively, understand their reliability, accuracy, biases, and how to also use these cutting edge tools ethically. An additional concern is how any information shared with AI tools may be used to intentionally or unintentionally disclose confidential data, leading to privacy concerns.
 
 AI can help us use and share research. It can act as an accelerant, taking care of tedious tasks while leaving scientits free for more creative thought. These tools are better than humans at processing vast amounts of data, but humans are better at creative and nuanced thought. This is important to consider when determining whether or not to use AI. As an example, many people already use AI tools to help with their inbox management and writing emails with AI generated suggested content. Within science, there are many potential tasks that could potentially be expedited using AI, according to three studies published in Nature:
 
