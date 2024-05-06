@@ -544,56 +544,56 @@ Es importante destacar que sus esfuerzos han llevado a un reanálisis independie
 
 Si no se lo considera desde el principio, puede ser difícil asegurar la reproducibilidad de los resultados en la etapa de publicación. Suponiendo que has mantenido los resultados abiertos considerando su reproducibilidad, puedes empezar a ensamblarlos para conectarse con el informe final y la publicación con las referencias apropiadas a estudios anteriores.
 
-- Antes de escribir tu manuscrito, evalúa cada resultado para asegurarte de que se adjunta la licencia apropiada para su reutilización, de que se ha proporcionado la documentación y los colaboradores están listados claramente. You can decide to create a version of the record and point to a permanent identifier such as via Zenodo so that the link never breaks when sharing them on a public repository (such as GitLab/GitHub) or manuscripts with a visible list of contributors.
-- Your publications can be created individually (such as in EHTC case study) or by combining several outputs or pieces of information in manuscripts. These will include resource requirements, dependencies, software, data, repository where code is shared with documentation and contributor information, among other research artifacts.
-- The manuscript itself will describe research questions, methods as well as individual figures and tables explaining the results. When writing a manuscript, you can begin with figures by packaging data, code and parameters used, ensuring that information represented can be reproduced. You can find a detailed checklist in the publication by [Gil et al.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015EA000136) (2016).
+- Antes de escribir tu manuscrito, evalúa cada resultado para asegurarte de que has adjuntado la licencia apropiada para su reutilización, de que se ha proporcionado la documentación y los colaboradores están listados claramente. Puedes decidir crear una versión del registro y vincularlo a un identificador permanente a través de Zenodo para que el enlace no se rompa al compartirlo en un repositorio público (como GitLab/GitHub) o manuscritos con una lista visible de colaboradores.
+- Tus publicaciones pueden crearse individualmente (como las del caso de estudio de la EHTC) o combinando varios resultados o fuentes de información en manuscritos. Estos incluirán requerimientos de recursos, dependencias, software, datos, repositorio donde el código se comparte con la documentación y la información de las personas que colaboraron, entre otros artefactos de investigación.
+- El manuscrito en sí mismo describirá preguntas de investigación, métodos, figuras y tablas que expliquen los resultados. Al escribir un manuscrito, puedes comenzar con figuras que representen los datos empaquetados, el código y los parámetros usados, asegurándote de que la información representada pueda reproducirse. Puedes encontrar una lista detallada en la publicación de [Gil et al.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015EA000136) (2016).
 
-As demonstrated in the EHTC case study, a final step towards making open results could be to create a meta article and/or simple website/git page that centralizes all your research outputs. Different parts of research (individual open results) can be accessed centrally with details including open recognition for all contributors.
+Como se ha demostrado en el caso de estudio de la EHTC, un último paso para generar resultados abiertos podría ser crear un meta-artículo y/o página web/git simple que centralice todos tus resultados de investigación. Se puede acceder de forma centralizada a distintas partes de la investigación (resultados individuales abiertos) con detalles incluyendo el reconocimiento abierto para todas las personas que colaboraron.
 
-If you are looking for concrete actions you can take to make open results, pick one of these four items:
+Si estás buscando acciones concretas que puedas tomar para generar resultados abiertos, elige uno de estos cuatro elementos:
 
-- Improve how you define contributorship in your project and how authorship is assigned.
-- Ensure the data or software in your paper is uploaded to Zenodo with license and documentation including metadata and that the DOI is posted to your scientific report and publication.
-- Ensure that the process you use to collect data and perform its analysis, including all the dependencies and methods used in your data analysis pipeline, are clearly described to allow others to reproduce your results.
-- Create a centralized repository or a simple git page to centralize all research outputs with contributors list.
+- Mejora la forma en la que defines las contribuciónes en tu proyecto y cómo se asigna la autoría.
+- Asegúrate de que los datos o software de tu publicación se encuentren en Zenodo con licencia y documentación incluyendo metadatos y que el DOI esté publicado en tu informe científico y publicación.
+- Asegúrate de que el proceso que utilizas para recopilar y analizar datos, incluyendo todas las dependencias y métodos utilizados en tu pipeline de análisis de datos, se encuentren claramente descritos para permitir que otras personas reproduzcan tus resultados.
+- Cree un repositorio centralizado o una página simple de git para centralizar todas las salidas de investigación con la lista de personas que han colaborado.
 
-## Lesson 3: Summary
+## Lección 3: Resumen
 
-The steps that we highlight to make open results are not intractable. In fact, the steps we have highlighted are things we can do on a regular basis to ensure that all research artifacts can be shared later as open and reproducible results. In this lesson we learned:
+Los pasos que destacamos para lograr resultados abiertos no son particularmente complicados. De hecho, los pasos que hemos enumerado son cosas que podemos hacer regularmente para garantizar que todos los artefactos de investigación puedan ser compartidos más adelante como resultados abiertos y reproducibles. En esta lección aprendimos:
 
-- Approaches for making open results.
-- The importance of collaboration in making results.
-- How to recognize and credit all of the contributors who make results.
-- How to combine different open results to create scientific reports and reproducible outputs.
+- Métodos para generar resultados abiertos.
+- La importancia de la colaboración al crear resultados.
+- Cómo reconocer y dar crédito a todas las personas que han contribuido en la creación de los resultados.
+- Cómo combinar distintos resultados abiertos para crear reportes científicos simples y resultados reproducibles.
 
-## Lesson 3: Knowledge Check
+## Lección 3: Revisión de conocimientos
 
-Answer the following questions to test what you have learned so far.
+Responde las siguientes preguntas para poner a prueba lo que ha aprendido hasta ahora.
 
-_Question_
+_Pregunta_
 
 **01/02**
 
-1. Which of the following roles would be most appropriately credited with contributorship? Select all that apply.
+1. ¿Cuál de los siguientes roles sería más apropiado reconocer como contribución? Selecciona todos los que correspondan.
 
-- Original idea, planning, and input
-- Supervision of the project
-- Original experimental work
-- Data analysis
-- Drafting of manuscript
+- Idea original, planificación y aportes
+- Supervisión del proyecto
+- Trabajo experimental original
+- Análisis de datos
+- Redacción del borrador del manuscrito
 
-_Question_
+**Pregunta**
 
 **02/02**
 
-What is not an example of open research results?
+¿Cuál de estos no es un ejemplo de resultados abiertos de investigación?
 
-- Open access papers
-- Conference presentation
-- Internal team meeting notes
-- Regular reports shared online
-- Poster at a workshop
-- Blog post
-- Computational notebook on GitHub
-- Figure with a DOI (e.g, Zenodo or Figshare)
-- Pre-print of a paper
+- Publicaciones de acceso abierto
+- Presentación en una conferencia
+- Notas internas de una reunión de equipo
+- Reportes regulares compartidos en internet
+- Póster en un taller
+- Publicación en un blog
+- Notebook computacional en GitHub
+- Figura con un DOI (por ejemplo, Zenodo o Figshare)
+- Pre-impresión de una publicación
