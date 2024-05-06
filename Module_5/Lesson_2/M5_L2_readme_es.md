@@ -345,7 +345,7 @@ Jin, H., et al. 2023, "Optical color of Type Ib and Ic supernovae and implicatio
     <tr>
         <th>PARA UN DOCUMENTO CON UN DOI ☑</th>
         <th>PARA UN MATERIAL QUE NO TIENE UN DOI</th>
-        <th>FOR OTHER MATERIALS OR INTERACTIONS THAT WERE HELPFUL FOR YOUR RESEARCH</th>
+        <th>PARA OTROS DOCUMENTOS O INTERACCIONES QUE FUERON ÚTILES PARA LA INVESTIGACIÓN</th>
     </tr>
   </thead>
   <tbody>
