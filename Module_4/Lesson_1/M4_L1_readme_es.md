@@ -267,119 +267,119 @@ En las próximas lecciones discutiremos con más detalle las licencias. Cuando t
 
 ### Planificando la apertura: usando el sistema Usar, Hacer, Compartir para Código Abierto
 
-Funding agencies and journals are increasingly requiring researchers to share software.
+Las agencias de financiación y las revistas exigen cada vez más a los investigadores que compartan software.
 
-For example, NASA's ROSES, which solicits Earth science research proposals, requires researchers to make their software publicly available:
+Por ejemplo, el programa ROSES de la NASA, que solicita propuestas de investigación en ciencias de la Tierra, exige a los investigadores que pongan sus programas informáticos a disposición del público:
 
-#### "Data and software developed using Research Opportunities in Space and Earth Sciences (ROSES) funding in support of a peer-reviewed publication shall be made publicly available at the time of publication"
+#### «Los datos y el software desarrollados con financiación de Oportunidades de Investigación en Ciencias Espaciales y de la Tierra (ROSES) en apoyo de una publicación revisada por pares se pondrán a disposición del público en el momento de la publicación»
 
 [https://science.nasa.gov/researchers/sara/faqs/osdmp](https://science.nasa.gov/researchers/sara/faqs/osdmp)
 
-Planning for a research project requires researchers to determine their mode of collaboration and method of sharing code. This step is often documented in a Software Management Plan (SMP) within a research proposal. An SMP details the what, when, where, how, and who will be sharing the code or software.
+La planificación de un proyecto de investigación requiere que los investigadores determinen su modo de colaboración y el método para compartir el código. Este paso suele documentarse en un Plan de Gestión del Software (SMP) dentro de una propuesta de investigación. Un SMP detalla el qué, cuándo, dónde, cómo y quién compartirá el código o el software.
 
-## Software Management Plans (SMP)
+## Plan de gestión de software (SMP)
 
-Software management plans encompass both code and software.
+Los planes de gestión de software abarcan tanto el código como el software.
 
-|        |                                                                                                          |
-| ------ | -------------------------------------------------------------------------------------------------------- |
-| What?  | Description of types, management, preservation, and release of software.                 |
-| When?  | The schedule for software archiving and sharing.                                         |
-| Where? | Location where software will be shared and archived over the long term.                  |
-| How?   | Enable reuse of software through assigning a DOI, license, contribution guidelines, etc. |
-| Who?   | Roles and responsibilities of the team members.                                          |
+|          |                                                                                                                                                                 |
+| -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ¿Qué?    | Qué:\*\* Descripción de la gestión, conservación y distribución de software.                                                    |
+| ¿Cuando? | Cuándo:\*\* El cronograma para archivar y compartir software.                                                                   |
+| ¿Dónde?  | Dónde:\*\* Ubicación donde se compartirá y archivará el software a largo plazo.                                                 |
+| ¿Cómo?   | Cómo:\*\* Habilitar la reutilización del software mediante la asignación de un DOI, licencia, directrices de contribución, etc. |
+| ¿Quién?  | Quién:\*\* Roles, funciones y responsabilidades de los miembros del equipo.                                                     |
 
-As your research starts using, creating, and sharing code, the SMP provides a guidebook for everyone on the project that establishes a common understanding.
+A medida que su investigación comienza a utilizar, crear y compartir código, el SMP proporciona una guía para todos los participantes en el proyecto que establece un entendimiento común.
 
-Is your project sharing all code publicly or just code that goes into a publication? Will your team be contributing back to open-source projects or just writing code that builds on them to produce results? Considering these questions early will influence how much time and energy you may want to spend on documentation and how you plan to share the code.
+¿Está tu proyecto compartiendo todo el código públicamente o simplemente el código que entra en una publicación? ¿Contribuirá su equipo a los proyectos de código abierto o se limitará a escribir código basado en ellos para obtener resultados? Considerar estas cuestiones desde el principio influirá en la cantidad de tiempo y energía que quiera dedicar a la documentación y en cómo piensa compartir el código.
 
-### Open Code is a Spectrum
+### El Código Abierto es un espectro
 
-Just like data, code can be shared in many different ways to increase reusability. Code can be shared without any documentation, purely as a reproducibility artifact, or code can be well-written, documented, and openly-licensed to maximize re-use. Both of these approaches have value and depend on the time, energy, and funding that researchers have available.
+Al igual que los datos, el código puede compartirse de muchas maneras diferentes para aumentar la reusabilidad. El código puede ser compartido sin ninguna documentación, simplemente como un artefacto de reproducibilidad, o el código puede estar bien escrito, documentado y abiertamente licenciado para maximizar el reuso. Ambos enfoques tienen valor y dependen del tiempo, la energía y la financiación disponibles por los investigadores.
 
-- There is a spectrum of openness when it comes to open software that ranges from open- source software to closed source software.
-- An example of something “in between” could be an executable file with documentation on how the code works.
-- Some projects may be open from inception and continuously share all code throughout development. Others may share some of the code at the time of publication. Other projects may only make code available once funding ends. A variety of valid reasons factor into a project’s approach to sharing.
-- While some factors restrict the degree of openness that software can be, each step towards sharing advances the open science movement.
-- By sharing more ideas and software, communities have driven creative, scientific, and technological advancement faster than the restricted pace of closed science. Peer production and mass collaboration creates more sustainable software development.
+- Existe un espectro de apertura en lo que respecta al software libre que va desde el software de código abierto al software de código cerrado.
+- Un ejemplo de algo “intermedio” podría ser un archivo ejecutable con documentación sobre cómo funciona el código.
+- Algunos proyectos pueden abrirse desde el principio y compartir todo el código a lo largo del desarrollo. Otros pueden compartir parte del código en el momento de la publicación. Otros proyectos sólo pueden poner el código disponible una vez finalizada la financiación. Hay varias razones válidas que influyen en el planteamiento de un proyecto a la hora de compartir.
+- Aunque algunos factores restringen el grado de apertura que puede tener el software, cada paso hacia la apertura hace avanzar el movimiento de la ciencia abierta.
+- Al compartir más ideas y programas informáticos, las comunidades han impulsado el avance creativo, científico y tecnológico más rápidamente que el ritmo restringido de la ciencia cerrada. La producción entre iguales y la colaboración masiva crean un desarrollo de software más sostenible.
 
-While researchers and institutions may not be able to share all their code, they can make efforts to shift on the openness spectrum from closed code to open-source code and software.
+Aunque los investigadores y las instituciones no puedan compartir todo su código, sí pueden esforzarse por pasar del código cerrado al código y software de código abierto.
 
-_In the activity below, drag each slider to explore the spectrum of openness._
+_En la actividad de abajo, arrastra cada deslizador para explorar el espectro de la apertura._
 
 <img src="../images/media/image110.jpg" style="width:100%;height:auto;" />
 
-### The Practice of 'Open'
+### La Práctica de lo 'Abierto'
 
-Review how the key tasks in the software development life cycle are covered in the "Use, Make, Share" framework flow.
+Repase cómo se cubren las tareas clave del ciclo de vida de desarrollo de software en el flujo marco "Usar, Hacer, Compartir".
 
 <img src="../images/media/image290.png" style="width:100%;height:auto;" />
 
-As with open data, different aspects of open software are described in terms of Using, Making, and Sharing of open software.
+Al igual que ocurre con los datos abiertos, los distintos aspectos del software abierto se describen en términos de Uso, Creación y Puesta en común del software abierto.
 
-A key difference with software is that the process is typically more cyclical and repetitive than with data or results. Typically, software constantly evolves. Thus, the boundaries between "Use-Make- Share" are less rigid and the process is typically more dynamic and circular than pre-planned/fixed and sequential.
+Una diferencia clave con el software es que el proceso suele ser más cíclico y repetitivo que con los datos o los resultados. Por lo general, el software evoluciona constantemente. Así, los límites entre «Usar-Hacer-Compartir» son menos rígidos y el proceso suele ser más dinámico y circular que preplanificado/fijo y secuencial.
 
-### Activity 1.2: How Can You Use Open Software in Your Work to Advance Open Science
+### Actividad 1.2: Cómo puede utilizar el software abierto en su trabajo para promover la ciencia abierta
 
-In this activity, you are asked to reflect on how you have used and can use the open software principles to advance your work.
+En esta actividad, se le pide que reflexione sobre cómo ha utilizado y puede utilizar los principios de software abierto para hacer avanzar su trabajo.
 
-Consider the following questions:
+Considera los siguientes aspectos destacados:
 
-1. Have you used open software principles 1 in your work?
-2. What are some of the successes and challenges you have encountered?
-3. What resources did you find useful for advancing open software in your work?
+1. ¿Ha utilizado los principios de software abierto 1 en su trabajo?
+2. ¿Cuáles son algunos de los éxitos y retos con los que se ha enfrentado?
+3. ¿Qué recursos le resultaron útiles para impulsar el software abierto en su trabajo?
 
-#### Key Takeaways: How Can You Use Open Software in Your Work to Advance Open Science
+#### Actividad : Cómo puede utilizar el software abierto en su trabajo para promover la ciencia abierta
 
-- Open software is a collaborative activity.
-- We can all learn and benefit from each other in making our scientific software more open.
+- El software abierto es una actividad colaborativa.
+- Todos podemos aprender y beneficiarnos unos de otros haciendo que nuestro software científico sea más abierto.
 
-## Lesson 1: Summary
+## Lección 1: Resumen
 
-In this lesson, you learned that:
+En esta lección, has aprendido:
 
-- In open-source software, anyone can see the underlying source-code.
-- Open-source principles promote transparency, collaboration, sharing, inclusiveness, and communities.
-- Open-source software accelerates science, minimizes time and cost of repeated development of similar software and reproducing scientific computations, and can improve quality and trust in science.
-- Licenses for open-source software dictate its shareability and reusability to developers and prospective contributors. Funding entities and affiliated institutions may impose restrictions on how developers license their software.
-- A software management plan (SMP) is a project guidebook with a common understanding of data management practices that a research team can work from.
+- En el software de código abierto, cualquiera puede ver el código fuente.
+- Los principios del código abierto promueven la transparencia, la colaboración, el intercambio, la inclusión y las comunidades.
+- El software de código abierto acelera la ciencia, minimiza el tiempo y el coste del desarrollo repetido de software similar y la reproducción de cálculos científicos, y puede mejorar la calidad y la confianza en la ciencia.
+- Las licencias de los programas de código abierto dictan su compartibilidad y reutilización para los desarrolladores y posibles colaboradores. Las entidades financiadoras y las instituciones afiliadas pueden imponer restricciones a la forma en que los desarrolladores licencian su software.
+- Un plan de gestión de software (SMP) es una guía del proyecto con un consenso común de las prácticas de gestión de datos a partir del cual puede trabajar un equipo de investigación.
 
-## Lesson 1: Knowledge Check
+## Lección 1: Revisión de conocimientos
 
-Answer the following questions to test what you have learned so far.
+Responde las siguientes preguntas para poner a prueba lo que ha aprendido hasta ahora.
 
-_Question_
+Pregunta
 
 **01/03**
 
-Read the statement below and decide whether it's true or false:
+Lee la siguiente afirmación y decide si es verdadera o falsa:
 
-_Software is referred to as open source when it is publicly accessible; anyone can see, modify, and distribute the code as they see fit._
+_Se dice que un programa informático es de código abierto cuando es de acceso público; cualquiera puede ver, modificar y distribuir el código como mejor le parezca._
 
-- True
-- False
+- Verdadero
+- Falso
 
-_Question_
+Pregunta
 
-**02/03**
+02/03
 
-Which of the following are valid reasons why scientists keep their source code closed? Select all that apply.
+¿Cuáles de las siguientes son razones válidas para que los científicos mantengan cerrado su código fuente? Selecciona todos los que correspondan.
 
-- National security concerns
-- Institutional policies
-- Data privacy concerns
-- Attribution concerns
-- Quality concerns
+- Preocupación por la seguridad nacional
+- Políticas institucionales
+- Protección de datos
+- Problemas de atribución
+- Problemas de calidad
 
-_Question_
+Pregunta
 
-**03/03**
+03/03
 
-What are the main sections in a software management plan?
+¿Cuáles son las principales secciones de un plan de gestión de software?
 
-- Types of code and software
-- Schedule for sharing software
-- Where software will be shared and archived
-- What license it will be assigned
-- Roles and responsibilities of team members
-- All of the above
+- Tipos de código y software
+- Calendario para compartir software
+- Donde el software será compartido y archivado
+- Qué licencia será asignada
+- Roles y responsabilidades de los miembros del equipo
+- Todas las anteriores
