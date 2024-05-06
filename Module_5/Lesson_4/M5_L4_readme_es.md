@@ -309,7 +309,7 @@ Cuando decidas preimprimir tu trabajo, deberás comprobar:
 
 #### Lecturas adicionales:
 
-Lee la historia sobre cómo la lista de correo electrónico de Joanne Cohn para preimpresiones llevó a Paul Ginsparg al desarrollo de arXiv. (https://pubs.aip.org/physicstoday/Online/29310/Joanne-Cohn-and-the-email-list-that-led-to-arXiv) (https://arxiv.org/).
+Lee la [historia](https://pubs.aip.org/physicstoday/Online/29310/Joanne-Cohn-and-the-email-list-that-led-to-arXiv) sobre cómo la lista de correo electrónico de Joanne Cohn para preimpresiones llevó a Paul Ginsparg al desarrollo de [arXiv](https://arxiv.org/).
 
 ## Otras consideraciones a la hora de compartir
 
