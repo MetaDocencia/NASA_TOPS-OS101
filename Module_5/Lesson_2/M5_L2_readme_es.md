@@ -119,35 +119,35 @@ Los diversos objetos de investigación, incluidos los conjuntos de datos y el so
 
 «Basura dentro, basura fuera»: sus propios productos de investigación sólo son tan buenos como los datos utilizados en su investigación.
 
-If you use poor quality data or materials from unreliable and unvetted sources as critical components of your research, you run the risk of producing flawed, or low-quality science that may harm your reputation as a scientist. Therefore, it is critical to assess the quality and reliability of open-results sources before you include them in your own work.
+Si utiliza datos de mala calidad o materiales procedentes de fuentes poco fiables y no verificadas como componentes fundamentales de su investigación, corre el riesgo de producir ciencia defectuosa o de baja calidad que puede dañar su reputación como científico. Por lo tanto, es fundamental evaluar la calidad y fiabilidad de las fuentes de resultados abiertos antes de incluirlas en su propio trabajo.
 
-What are best practices for assessing the quality of alternative sources of data to research articles such as blog posts, youtube videos, and other research objects?
+¿Cuáles son las mejores prácticas para evaluar la calidad de fuentes de datos alternativas a los artículos de investigación, como entradas de blog, vídeos de youtube y otros objetos de investigación?
 
-### Attributes of Reputable Material
+### Atributos de un material reputado
 
-Let's take a look at the questions you might consider asking yourself when determining the reliability of any type of open results source.
+Echemos un vistazo a las preguntas que deberías plantearte a la hora de determinar la fiabilidad de cualquier tipo de fuente de resultados abierta.
 
-Here, we list questions under two categories: the open results material themselves, and the server they are downloaded from. The more questions here that can be answered in the affirmative, the lower the risk in utilizing the open results materials for your own research.
+Here, we list questions under two categories: the open results material themselves, and the server they are downloaded from. Cuantas más preguntas puedan responderse afirmativamente, menor será el riesgo de utilizar los materiales de resultados abiertos para su propia investigación.
 
 <table>
   <thead>
     <tr>
-        <th>THE MATERIAL ITSELF ☑</th>
-        <th>THE ASSOCIATED WEBSITE / SERVER</th>
-        <th>SOURCE RELIABILITY INDICATORS</th>
+        <th>EL PROPIO MATERIAL ☑</th>
+        <th>EL WEBSITE / SERVIDOR ASOCIADO</th>
+        <th>INDICADORES DE FIABILIDAD DE LAS FUENTES</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
             <ul>
-                <li>Is the material associated with a peer-reviewed publication?</li>
-                <li>Are the primary data associated with the results also open-source?</li>
-                <li>Is code used to generate the Open Results materials also open-source?</li>
-                <li>Are all fields and parameters clearly defined?</li>
-                <li>Is the derivation of measurement uncertainties clearly described?</li>
-                <li>Were any data or results excluded, and if so, were criteria provided?</li>
-                <li>Are authoring teams also members of the field?</li>
+                <li>¿El material está asociado con una publicación revisada por pares?</li>
+                <li>¿Los datos primarios asociados a los resultados también son de código abierto?</li>
+                <li>¿El código utilizado para generar los materiales de Open Results también es de código abierto?</li>
+                <li>¿Están definidos claramente todos los campos y parámetros?</li>
+                <li>¿Está claramente descrita la estimación de las incertidumbres de medición?</li>
+                <li>¿Se excluyó algún dato o resultado? En caso afirmativo, ¿se facilitaron los criterios de exclusión?</li>
+                <li>¿Los equipos de autores son también miembros del campo?</li>
             </ul>
         </td>
     </tr>
@@ -157,19 +157,19 @@ Here, we list questions under two categories: the open results material themselv
 <table>
   <thead>
     <tr>
-        <th>THE MATERIAL ITSELF</th>
-        <th>THE ASSOCIATED WEBSITE / SERVER ☑</th>
-        <th>SOURCE RELIABILITY INDICATORS</th>
+        <th>EL PROPIO MATERIAL </th>
+        <th>EL WEBSITE / SERVIDOR ASOCIADO</th>
+        <th>INDICADORES DE FIABILIDAD DE LAS FUENTES</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
             <ul>
-                <li>Does the host website's URL end in .edu, .gov or (if managed by a non-profit organization) in .org?</li>
-                <li>Does the host website provide contact information of the author and/or organization?</li>
-                <li>Is the host website updated on a frequent basis?</li>
-                <li>Is the host website free of advertisements and/or sponsored content, the presence of which could indicate bias?</li>
+                <li>¿La URL del sitio web anfitrión termina en .edu, .gov o (si lo gestiona una organización sin ánimo de lucro) en .org?</li>
+                <li>¿Proporciona el sitio web anfitrión información de contacto del autor y/o la organización?</li>
+                <li>¿Se actualiza con frecuencia el sitio web del anfitrión?</li>
+                <li>¿Está el sitio web anfitrión libre de publicidad y/o contenidos patrocinados, cuya presencia podría indicar parcialidad?</li>
             </ul>
         </td>
     </tr>
@@ -179,37 +179,37 @@ Here, we list questions under two categories: the open results material themselv
 <table>
   <thead>
     <tr>
-        <th>THE MATERIAL ITSELF</th>
-        <th>THE ASSOCIATED WEBSITE / SERVER</th>
-        <th>SOURCE RELIABILITY INDICATORS ☑</th>
+        <th>EL PROPIO MATERIAL </th>
+        <th>EL WEBSITE / SERVIDOR ASOCIADO</th>
+        <th>INDICADORES DE FIABILIDAD DE LAS FUENTES</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
             <ul>
-                <li>Is the result reproducible? Can you interact with the data and results? Have others reported being able to reproduce the results?</li>
-                <li>Is the author reliable? Have you seen them publish or share results in other forums?</li>
-                <li>Is the result from only a single author/voice or includes contributions from a broader community?</li>
-                <li>Does the post have a significant amount of likes/views and public comments? The value of a blog post with no comments or responses can be difficult to assess. Conversely, a thorough github discussion forum with multiple views shared indicated a robust post.</li>
-                <li>Is the result part of an active conversation? (Is the information still relevant and current?)</li>
+                <li>¿El resultado es reproducible? ¿Puedes interactuar con los datos y los resultados? ¿Han informado otras personas de que pueden reproducir los resultados?</li>
+                <li>¿Es el autor fiable? ¿Ha visto que publiquen o compartan resultados en otros foros?</li>
+                <li>¿Es el resultado de un solo autor/voz o incluye contribuciones de una comunidad más amplia?</li>
+                <li>¿Tiene el post una cantidad significativa de me gusta/opiniones y comentarios públicos? El valor de una entrada de blog sin comentarios ni respuestas puede ser difícil de evaluar. Por el contrario, un foro de discusión de github exhaustivo con múltiples opiniones compartidas indica una publicación sólida.</li>
+                <li>¿Es el resultado parte de una conversación activa? (¿Es la información todavía relevante y actual?)</li>
             </ul>
         </td>
     </tr>
   </tbody>
 </table>
 
-Adapted from [https://www.scribbr.com/working-with-sources/credible-sources/](https://www.scribbr.com/working-with-sources/credible-sources/)
+Adaptado de [https://www.scribbr.com/working-with-sources/credible-sources/](https://www.scribbr.com/working-with-sources/credible-sources/)
 
-Note that failure to meet one or many of the criteria does not automatically mean that the open results are of poor quality, but rather that more caution should be exercised if incorporated into your own research. It also means that you will have to invest more personal vetting of the material to ensure its quality is sufficient for your purposes.
+Tenga en cuenta que el hecho de no cumplir uno o varios de los criterios no significa automáticamente que los resultados abiertos sean de mala calidad, sino más bien que se debe tener más precaución si se incorporan a su propia investigación. También significa que tendrá que invertir más en el examen personal del material para asegurarse de que su calidad es suficiente para sus fines.
 
-Reliable Example: Qiusheng Wu YouTube videos (as mentioned in the previous lesson). Professor Wu is an expert in his field. He presents results along with notebooks that demonstrate reproducibility. Comments on his YouTube tutorial videos represent meaningful interactions between users reproducing results and the author.
+Ejemplo fiable: Los vídeos de YouTube de Qiusheng Wu (mencionados en la lección anterior). El Profesor Wu es un experto en su campo. Presenta los resultados junto con cuadernos que demuestran la reproducibilidad. Los comentarios en sus vídeos tutoriales de YouTube representan interacciones significativas entre los usuarios que reproducen los resultados y el autor.
 
-## How to Use Open Results
+## Cómo citar resultados abiertos
 
-While open results benefit science and have already provided valuable societal benefits, the misuse and incautious sharing of open materials can have far-reaching harmful effects. The end-user of open results bears the responsibility to ensure that the data they reference are used in a responsible manner and that any relevant guidelines for the use of the data are followed.
+Aunque los resultados abiertos benefician a la ciencia y ya han aportado valiosos beneficios a la sociedad, el uso indebido y el intercambio incauto de materiales abiertos pueden tener efectos perjudiciales de gran alcance. El usuario final de los resultados abiertos tiene la responsabilidad de garantizar que los datos a los que hace referencia se utilizan de forma responsable y que se siguen las directrices pertinentes para el uso de los datos.
 
-### How to Contribute and Provide Constructive Feedback
+### Cómo contribuir y proporcionar comentarios constructivos
 
 Contribuir y aportar comentarios constructivos son componentes vitales para un ecosistema de acceso abierto saludable, que garantice la sostenibilidad a largo plazo de los recursos abiertos al proporcionar mejoras continuas y ampliaciones de capacidad.
 
