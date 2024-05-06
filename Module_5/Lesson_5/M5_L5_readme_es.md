@@ -77,28 +77,28 @@ Hay muchas maneras en que la ciencia abierta puede ampliar la duración o el alc
 
 ## Cómo una tecnología emergente como la IA está cambiando nuestra forma de hacer ciencia
 
-A lo largo de estos módulos, Internet ha sido identificada como una tecnología disruptiva fundamental que cambió la forma en que se realiza casi toda la ciencia. La comunidad científica rara vez va a las bibliotecas para leer los últimos artículos de una revista. Data is no longer mailed around the world on tape drives. Software isn’t shared via floppy disks. The internet helped create the modern scientific workflow and made science more interactive and accessible. Now AI tools are starting to disrupt science in a similar manner. AI is not only revolutionizing many aspects of our lives, it is also changing how we do science. As companies race to create and integrate new generative AI tools into every aspect of our lives, many scientists, institutions, journal publishers, and agencies are looking to see how to use these tools effectively, understand their reliability, accuracy, biases, and how to also use these cutting edge tools ethically. An additional concern is how any information shared with AI tools may be used to intentionally or unintentionally disclose confidential data, leading to privacy concerns.
+A lo largo de estos módulos, Internet ha sido identificada como una tecnología disruptiva fundamental que cambió la forma en que se realiza casi toda la ciencia. La comunidad científica rara vez va a las bibliotecas para leer los últimos artículos de una revista. Los datos ya no se envían por correo a todo el mundo en unidades de cinta. El software ya no se comparte a través de disquetes flexibles. Internet ayudó a crear el flujo de trabajo científico moderno y ha hecho la ciencia más interactiva y accesible. Ahora las herramientas de IA están empezando a alterar la ciencia de una manera similar. La IA no sólo está revolucionando muchos aspectos de nuestras vidas, sino que también está cambiando nuestra forma de hacer ciencia. A medida que las empresas compiten por crear e integrar nuevas herramientas de IA generativa en cada aspecto de nuestras vidas, muchas personas que investigan y editan revistas, instituciones, y agencias buscan cómo utilizar estas herramientas de forma eficaz, comprender su fiabilidad, precisión y sesgos, y cómo utilizar también estas herramientas de vanguardia de forma ética. Otro motivo de preocupación es cómo la información compartida con las herramientas de IA puede utilizarse para revelar datos confidenciales de forma intencionada o no, lo que plantea problemas de privacidad.
 
-AI can help us use and share research. It can act as an accelerant, taking care of tedious tasks while leaving scientits free for more creative thought. These tools are better than humans at processing vast amounts of data, but humans are better at creative and nuanced thought. This is important to consider when determining whether or not to use AI. As an example, many people already use AI tools to help with their inbox management and writing emails with AI generated suggested content. Within science, there are many potential tasks that could potentially be expedited using AI, according to three studies published in Nature:
+La IA puede ayudarnos a usar y compartir la investigación. Puede actuar como un acelerador, ocupándose de las tareas tediosas y dejando libres a las personas que investigan para pensamientos más creativos. Estas herramientas son mejores que los humanos para procesar grandes cantidades de datos, pero los seres humanos son mejores para el pensamiento creativo y matizado. Esto es importante para tener en cuenta a la hora de determinar si usar o no la IA. Por ejemplo, muchas personas ya utilizan herramientas de IA para ayudarles a gestionar su bandeja de entrada y a redactar correos electrónicos con contenido sugerido generado por IA. Dentro de la ciencia, hay muchas tareas que podrían agilizarse utilizando la IA, según tres estudios publicados en Nature:
 
-- [AI science search engines are exploding in number — are they any good?](https://www.nature.com/articles/d41586-023-01273-w)
-- [How AI technology can tame the scientific literature](https://www.nature.com/articles/d41586-018-06617-5)
-- [AI and science: what 1,600 researchers think](https://www.nature.com/articles/d41586-023-02980-0)
+- [Los motores de búsqueda de ciencias de la IA explotan en número — ¿son buenos?](https://www.nature.com/articles/d41586-023-01273-w)
+- [Cómo la tecnología de IA puede domar la literatura científica](https://www.nature.com/articles/d41586-018-06617-5)
+- [IA y ciencia: lo que piensan 1.600 personas que investigan](https://www.nature.com/articles/d41586-023-02980-0)
 
-### Using AI:
+### Usando AI:
 
 <table>
   <thead>
     <tr>
-        <th>LITERATURE REVIEWS ☑</th>
-        <th>SEARCHING FOR RELEVANT DATASETS AND SOFTWARE TOOLS</th>
-        <th>LANGUAGE BARRIERS</th>
+        <th>REVISIONES DE LITERATURA ☑</th>
+        <th>BUSCANDO CONJUNTOS DE DATOS Y HERRAMIENTAS DE SOFTWARE RELEVANTES</th>
+        <th>BARRERAS LINGÜÍSTICAS</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>The ever-increasing volume of scientific literature has made it challenging for researchers to stay abreast of recent articles and find relevant older ones. AI tools can be used to create personalized recommendations for relevant articles as well as create summaries of them in various formats. Some examples of these tools include <a href="https://scisummary.com/dashboard">SciSummary</a>, <a href="https://www.summarizebot.com/">SummarizeBot</a>, <a href="https://www.scholarcy.com/">Scholarcy</a>, <a href="https://www.paperdigest.org/">Paper Digest</a>, <a href="https://www.scilynk.com/">Lynx AI</a>, <a href="https://www.tldrthis.com/">TLDR This.</a></p>
+            <p>El volumen cada vez mayor de la literatura científica ha dificultado que quienes investigan se mantengan al día de los artículos más recientes y encuentren los más antiguos. Las herramientas de IA se pueden utilizar para crear recomendaciones personalizadas para artículos relevantes, así como para crear resúmenes de los mismos en diversos formatos. Some examples of these tools include <a href="https://scisummary.com/dashboard">SciSummary</a>, <a href="https://www.summarizebot.com/">SummarizeBot</a>, <a href="https://www.scholarcy.com/">Scholarcy</a>, <a href="https://www.paperdigest.org/">Paper Digest</a>, <a href="https://www.scilynk.com/">Lynx AI</a>, <a href="https://www.tldrthis.com/">TLDR This.</a></p>
             <p>Possible drawbacks when using these tools include:</p>
             <ul>
                 <li>Potential introduction of biases</li>
