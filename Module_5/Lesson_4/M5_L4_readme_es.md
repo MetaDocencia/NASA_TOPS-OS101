@@ -92,14 +92,14 @@ Open access journals are peer-reviewed journals that are more accessible because
 In this activity, you will learn how to access information about a journal’s data archive policies. The Directory of Open Access Journals (DOAJ) provides an extensive index of open access journals around the globe. The DOAJ can be used to look up information, including data archiving policies, for journals that publish research. Let’s open up this website and look up the policies specific to your most-used journals.
 
 1. First, navigate to the [DOAJ website](https://doaj.org/).
-2. Type in the name of one of the following journals in the search box, and then click on the yellow "SEARCH" button.
+2. Escribe el nombre de una de las siguientes revistas en el cuadro de búsqueda y, a continuación, pulsa el botón amarillo «BUSCAR».
 
-- Atmospheric and Oceanic Science Letters
-- Swiss Journal of Geosciences
-- History of Geo-and Space Sciences <br><br>Note: You may input any journal desired but for this exercise use one of those listed to see the Sherpa/Romeo link that is listed in Step 5.
+- Cartas de Ciencias Atmosféricas y Oceánicas
+- Revista Suiza de Geociencias
+- Historia de las ciencias geológicas y espaciales <br><br>Nota: Puedes introducir cualquier revista que desees, pero para este ejercicio utiliza una de las listadas para ver el enlace Sherpa/Romeo que aparece en el Paso 5.
 
-3. The search results may show more than one match. Select the desired journal within the search results by clicking on the journal name.<br><br>A dashboard appears, giving information regarding publication fees, waiver policies, the type of open license used, and other information on multiple displayed titles.
-4. Click on the "archiving policy" link appearing in one of the displayed boxes as seen here. This will provide links to extensive information regarding the journal’s open access policies for the manuscript itself: <br><img src="../images/media/image59.png" style="width:300px;height:auto;" /><br>An extensive amount of information will be presented, including details on the publishing policies specific to the selected journal.
+3. Los resultados de la búsqueda pueden mostrar más de una coincidencia. Selecciona la revista deseada dentro de los resultados de la búsqueda haciendo clic en el nombre de la misma.<br><br>Aparecerá un panel de control con información relativa a las tarifas de publicación, las políticas de exención, el tipo de licencia abierta utilizada y otra información sobre los múltiples títulos mostrados.
+4. Haz clic en el enlace «política de archivo» que aparece en una de las casillas desplegadas, como se ve aquí. Este proporcionará los enlaces a una gran cantidad de información sobre las políticas de acceso abierto de la revista para el propio manuscrito: <br><img src="../images/media/image59.png" style="width:300px;height:auto;" /><br>Se presentará mucha información, incluyendo detalles sobre las políticas de publicación específicas de la revista seleccionada.
 5. Alternatively, to get a more condensed view of the journal’s policies, return to the DOAJ dashboard on the About page with the multiple boxes displayed, and click on the "Sherpa/Romeo" link as shown here.<br><img src="../images/media/image60.jpeg" style="width:300px;height:auto;" />
 6. On the Sherpa Romeo page, click on the journal name that is displayed in the list (the only journal displayed).<br><img src="../images/media/image63.jpeg" style="width:100%;height:auto;" />
 7. When you view the page, you see that it consolidates and summarizes the open access policies for that journal and associated materials. The published version is likely to be the most relevant (see red box in figure).<br><img src="../images/media/image64.jpeg" style="width:100%;height:auto;"/>
