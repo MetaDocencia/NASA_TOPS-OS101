@@ -343,20 +343,20 @@ Jin, H., et al. 2023, "Optical color of Type Ib and Ic supernovae and implicatio
 <table>
   <thead>
     <tr>
-        <th>PARA UN DOCUMENTO CON UN DOI ☑</th>
+        <th>PARA UN MATERIAL CON UN DOI ☑</th>
         <th>PARA UN MATERIAL QUE NO TIENE UN DOI</th>
-        <th>PARA OTROS DOCUMENTOS O INTERACCIONES QUE FUERON ÚTILES PARA LA INVESTIGACIÓN</th>
+        <th>PARA OTROS MATERIALES O INTERACCIONES QUE FUERON ÚTILES PARA LA INVESTIGACIÓN</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>To cite all of the following, follow existing guidelines and community best practices:</p>
+            <p>Para citar todo lo que sigue, siga las pautas existentes y las mejores prácticas habituales de la comunidad:</p>
             <ul>
-                <li>Cite publications</li>
-                <li>Cite data</li>
-                <li>Cite software</li>
-                <li>Cite any other object with a DOI. Since many journals will only allow authors to cite material that has a DOI, what do you do with other types of open results?</li>
+                <li>Cita publicaciones</li>
+                <li>Cita datos</li>
+                <li>Cita Sotwares</li>
+                <li>Cita cualquier otro objeto con un DOI. Teniendo en cuenta que muchas revistas sólo permiten a los autores citar material que tenga un DOI, ¿qué hacer con otros tipos de resultados abiertos?</li>
             </ul>
         </td>
     </tr>
@@ -366,18 +366,18 @@ Jin, H., et al. 2023, "Optical color of Type Ib and Ic supernovae and implicatio
 <table>
   <thead>
     <tr>
-        <th>FOR MATERIAL THAT HAS A DOI</th>
-        <th>FOR MATERIAL THAT DOES NOT HAVE A DOI ☑</th>
-        <th>FOR OTHER MATERIALS OR INTERACTIONS THAT WERE HELPFUL FOR YOUR RESEARCH</th>
+        <th>PARA UN MATERIAL CON UN DOI</th>
+        <th>PARA UN MATERIAL QUE NO TIENE UN DOI ☑</th>
+        <th>PARA OTROS MATERIALES O INTERACCIONES QUE FUERON ÚTILES PARA LA INVESTIGACIÓN</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>Examples include blog posts, videos, and notebooks.</p>
+            <p>Algunos ejemplos son publicaciones en blogs, vídeos y cuadernos.</p>
             <ul>
-                <li>You could also contact the author and ask them to obtain a DOI.</li>
-                <li>Leave a comment in the comments section or on the forum letting the author know about your publication.</li>
+                <li>También podrías ponerte en contacto con el autor y pedirle que obtenga un DOI.</li>
+                <li>Deja un comentario en la sección de comentarios o en el foro comunicando al autor tu publicación.</li>
             </ul>
         </td>
     </tr>
@@ -387,38 +387,38 @@ Jin, H., et al. 2023, "Optical color of Type Ib and Ic supernovae and implicatio
 <table>
   <thead>
     <tr>
-        <th>FOR MATERIAL THAT HAS A DOI</th>
-        <th>FOR MATERIAL THAT DOES NOT HAVE A DOI</th>
-        <th>FOR OTHER MATERIALS OR INTERACTIONS THAT WERE HELPFUL FOR YOUR RESEARCH ☑</th>
+        <th>PARA UN MATERIAL CON UN DOI</th>
+        <th>PARA UN MATERIAL QUE NO TIENE UN DOI</th>
+        <th>PARA OTROS MATERIALES O INTERACCIONES QUE FUERON ÚTILES PARA LA INVESTIGACIÓN ☑</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
             <ul>
-                <li>Acknowledge communities and forums that helped you advance your research in the Acknowledgements Section. Not only does this give them credit, but it helps others find those communities.</li>
-                <li>Citing open research results advances science by giving appropriate credit for all parts of the research process. This is essential for the cultural shift to open science; we must give credit for all types of contributions, and expect them in return. Participatory science allows more people, from more places, with different voices and experiences to participate in science.</li>
-                <li>Contributing and collaborating this way lowers the barriers (like conference fees) to participating in science and broadens who can participate.</li>
+                <li>Reconoce a las comunidades y a los foros que te han ayudado a avanzar en tu investigación en la sección de agradecimientos. Esto no sólo les da un reconocimiento, sino que ayuda a otras personas a encontrar a estas comunidades.</li>
+                <li>Citar los resultados de investigaciones abiertas hace que avance la ciencia al dar el reconocimiento adecuado a todas las partes del proceso de investigación. Esto es algo fundamental para lograr un cambio cultural en favor de la ciencia abierta; hay que reconocer el mérito de todo tipo de contribuciones y esperar reciprocidad. La ciencia colaborativa permite que más personas, de más lugares, con voces y experiencias diferentes participen en ciencia.</li>
+                <li>Contribuir y colaborar de este modo disminuye las barreras (como el costo de un congreso) para participar en ciencia y amplía el número de personas que pueden involucrarse.</li>
             </ul>
         </td>
     </tr>
   </tbody>
 </table>
 
-### Examples of Giving Credit
+### Ejemplos de Agradecimiento
 
-In the Lesson 1 blog post [example](https://medium.com/pangeo/fake-it-until-you-make-it-reading-goes-netcdf4-data-on-aws-s3-as-zarr-for-rapid-data-access-61e33f8fe685), researchers acknowledged people they worked with in an article they wrote that they found helpful, and two different communities, as well as the computational environment they worked on. This is a great example of giving credit: "I would like to thank Rich Signell (USGS) and Martin Durant (Anaconda) for their help in learning this process. If you're interested in seeing more detail on how this works, I recommend Rich's article from 2020 on the topic. I would also like to recognize [Pangeo](https://pangeo.io/) and [Pangeo-forge](https://pangeo-forge.org/) who work hard to make working with big data in geoscience as easy as possible. Work on this project was done on the Pangeo AWS deployment."
+En el ejemplo del blog de la Lección 1 [example](https://medium. om/pangeo/fake-it-until-you-make-it-reading-goes-netcdf4-data-on-aws-s3-as-zarr-for-rapid-data-access-61e33f8fe685), los investigadores agradecieron a las personas con las que trabajaron en un artículo que escribieron y que les resultó de ayuda, y a dos comunidades diferentes, así como al entorno computacional en el que trabajaron. Este es un buen ejemplo de cómo agradecer: "Me gustaría agradecer a Rich Signell (USGS) y Martin Durant (Anaconda) por su ayuda en el estudio de este proceso. Si te interesa ver con más detalle cómo funciona, te recomiendo el artículo de Rich del 2020 sobre el tema. También me gustaría reconocer [Pangeo](https://pangeo.io/) y [Pangeo-forge](https://pangeo-forge. rg/) quienes trabajan con mucho esfuerzo para facilitar el trabajo con grandes conjuntos de datos en geociencia. El trabajo en este proyecto se realizó en la implementación de AWS de Pangeo
 
-In Lesson 1, the JWST case study was presented. The peer-reviewed [publication](https://www.nature.com/articles/s41586-022-05269-w#Ack1) that reported the first discovery of CO2 on another planet has been accessed 18,000+ times. Notice is that the authorship is attributed to the entire team. The Acknowledgements section duly explains the contributions of their collaborators and partners, "The results reported herein benefited during the design phase from collaborations and/or information exchange within NASA’s Nexus for Exoplanet System Science (NExSS) research coordination network sponsored by NASA's Science Mission Directorate." Also, "All the data and models presented in this publication can be found at [https://doi.org/10.5281/zenodo.6959427](https://doi.org/10.5281/zenodo.6959427)". And finally, they cite all the software! "The codes used in this publication to extract, reduce and analyze the data are as follows.."
+En la Lección 1, se presentó el caso de JWST. El [artículo]revisado por pares (https://www.nature.com/articles/s41586-022-05269-w#Ack1) que reportó sobre el primer descubrimiento de CO2 en otro planeta ha sido consultada más de 18.000 veces. Cabe señalar que la autoría se atribuye a todo el equipo. La sección de Agradecimientos detalla debidamente las contribuciones de sus colaboradores y socios, "Los resultados informados aquí se beneficiaron durante la fase de diseño de colaboraciones e intercambios dentro de la red de coordinación de investigación Nexus for Exoplanet System Science (NExSS) de la NASA, patrocinada por la Dirección de Misiones Científicas de la NASA". Todos los datos y modelos presentados en esta publicación pueden consultarse en [https://doi.org/10.5281/zenodo.6959427](https://doi.org/10.5281/zenodo.6959427). Y por último, ¡citan todo el software! "Los códigos utilizados en esta publicación para extraer, reducir y analizar los datos son los siguientes.."
 
 ## Lección 2: Resumen
 
 En esta lección, has aprendido:
 
-- Open results can be found using both Scholarly Search Portals and Web searches.
-- The reliability of a post can generally be evaluated by the trustworthiness of the website from which they originated from, the engagement of community members, and the scientific rigor of its content.
-- Users of open results, as inherent stewards of the open a source community, informally carry some responsibility to contribute to the community’s sustainability. This participation includes providing feedback to open results providers and developers.
-- Giving proper attribution to open results is an important and ethical responsibility for using open source materials. The process for citation is specific to the nature of the material.
+- Los resultados abiertos se pueden encontrar tanto utilizando Portales Académicos de Búsqueda como mediante búsquedas en internet.
+- La confiabilidad de una publicación generalmente puede evaluarse por la confiabilidad del sitio web del que proviene, la participación de los miembros de la comunidad y el rigor científico de su contenido.
+- Los usuarios de resultados abiertos, como administradores inherentes de la comunidad de código abierto, tienen informalmente la responsabilidad de contribuir a la sostenibilidad de la comunidad. Esta participación incluye la comunicación de opiniones a quienes proporcionan y desarrollan resultados abiertos.
+- Dar una adecuada referencia a los resultados abiertos es una responsabilidad importante y ética a la hora de utilizar materiales de código abierto. La forma de citar los resultados depende de la especificidad del material.
 
 ## Lección 2: Evaluación
 
@@ -428,26 +428,26 @@ _Pregunta_
 
 **01/02**
 
-Which of the following could be a source of open results? Select all that apply.
+¿Cuál de las siguientes opciones podría ser una fuente de resultados abiertos? Selecciona todos los que correspondan.
 
-- Web searches
-- Papers accessed through a paid subscription
-- Materials made public after a 1-year exclusive-use/paid-subscription-only period
-- Repositories
-- Open access papers
+- Búsquedas en Internet
+- Artículos a los que se accedió a través de una suscripción pagada
+- Materiales hechos públicos después de un período exclusivo de 1 año de uso/suscripción pagado
+- Repositorios
+- Publicaciones de acceso abierto
 
 _Pregunta_
 
 **02/02**
 
-Which of the following characteristics suggest that a particular paper / data set is more likely to be a credible Open Result? Select all that apply.
+¿Cuál de las siguientes características hace suponer que un determinado artículo o conjunto de datos tiene más probabilidades de ser un resultado abierto creíble? Seleccione todas las opciones que correspondan.
 
-- The website lists its source of funding
-- The results are described in an associated peer-reviewer publication
-- Detailed documentation accompanies the data, including defined fields and parameters
-- Organization contact information is listed
-- The website was last updated in 2015
-- The webpage advertises open job positions with the funder
-- The author is an expert in the field
-- The webpage's URL ends in '.com'
-- The accompanying documentation states that "on inspection, data that were obvious outliers were excluded from the following analysis"
+- El sitio de internet menciona su fuente de financiación
+- Los resultados se describen en un artículo revisado por pares
+- El artículo se acompaña de datos, incluyendo campos definidos y parámetros
+- Se proporciona la información de contacto de la organización
+- La página de internet fue actualizada por última vez en 2015
+- La página de internet anuncia anuncia posiciones de trabajo abiertas con el financiador
+- El autor es un experto en el campo
+- La URL de la página de internet termina en '.com'
+- La documentación acompañante afirma que "al inspeccionar las distribuciones de los datos, se excluyeron del análisis los datos que eran valores atípicos"
