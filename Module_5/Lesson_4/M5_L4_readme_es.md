@@ -36,9 +36,9 @@ Las plataformas en las que compartes tu investigación dependen de lo que quiera
 
 Puedes comenzar compartiendo tus resultados en grupos pequeños, como talleres y conferencias, para luego avanzar hacia audiencias más grandes. A continuación, exploraremos las diversas razones que influyen en la elección del tamaño de los grupos para la comunicación de tus resultados.
 
-### At Workshops and Conferences
+### En talleres y conferencias
 
-Many of us attend scientific conferences, workshops, and other gatherings to discuss our science with peers. The costs associated with attendance and travel to these events may limit who has access to the material presented there. At these events, scientists often give talks or present posters that are not yet peer reviewed to invite feedback from the community and potentially recruit collaborators. These interactions are important for improving research projects, and are often done when a project is still ongoing so that researchers can gather feedback early in their scientific process.
+Muchos de nosotros asistimos a conferencias científicas, talleres y otros encuentros para discutir temas de nuestra disciplina con colegas. The costs associated with attendance and travel to these events may limit who has access to the material presented there. At these events, scientists often give talks or present posters that are not yet peer reviewed to invite feedback from the community and potentially recruit collaborators. These interactions are important for improving research projects, and are often done when a project is still ongoing so that researchers can gather feedback early in their scientific process.
 
 It is important to think about what audience you will be reaching at an event. Conferences have different policies about open access to materials presented at an event. Consider what you are sharing and who you want to share it with. For example, not all events provide long-term open access to workshop materials after the event. If you want to reach a larger audience or preserve the materials long-term, as a scientist, you have options to license and publish presented materials yourself (for example using Zenodo with a DOI) if an event doesn't do so.
 
