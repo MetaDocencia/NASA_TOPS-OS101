@@ -111,7 +111,7 @@ Este es un ejemplo de un sitio que puedes utilizar para saber si la política de
 
 ## Cómo compartir
 
-Perhaps the single most important step to make your results open is to assign them a globally unique and persistent identifier. This will give you a single code, URL, or number that you can use to uniquely refer to a research object. Any derived research object can use this identifier to link to it and create a traceable and rich history of use and development. Crucially, this identifier can be used by others to cite and credit your work ([source](https://opensciency.github.io/sprint-content/open-results/lesson3-apply-open-results.html)).
+Quizás el paso más importante para que tus resultados sean abiertos sea asignarles un identificador global único y persistente. Esto te brindará un código único, URL o número que podrás utilizar para referirte de forma exclusiva a un objeto de investigación. Any derived research object can use this identifier to link to it and create a traceable and rich history of use and development. Crucially, this identifier can be used by others to cite and credit your work ([source](https://opensciency.github.io/sprint-content/open-results/lesson3-apply-open-results.html)).
 
 The identifier must also be persistent. This guarantees that the identifier points to the same research object for a long period of time. What counts as "persistent" is, of course, a matter of degree since even the most stable identifier probably won't survive the Sun engulfing the Earth in a few billion years. In this context, "persistent" implies that it is registered in a database managed by an organization or system that is committed to maintaining it as stable and backwards compatible for the foreseeable future.
 
