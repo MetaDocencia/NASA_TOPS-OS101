@@ -26,15 +26,15 @@ Después de completar esta lección, deberías ser capaz de:
 
 Parte de llevar a cabo prácticas con el esquema de ciencia abierta es la posibilidad de ofrecer resultados colaborativos e interactivos. Compartir los diferentes tipos de objetos de investigación de manera temprana durante el proceso de investigación ayudará a aumentar la visibilidad de tu trabajo, al mismo tiempo en que podrá acelerarlo al aprovechar el conocimiento colectivo de la comunidad. Internet ha cambiado de manera sustancial el momento y la manera en que los científicos comunican los resultados.
 
-Planning to share your intermediate results at the beginning of your project makes sharing final results easier. The figure above illustrates many of the different objects that can be shared before the 'final' report or publication. Sharing and talking about your research as you are doing it, as well as engaging with other scientists, will increase the robustness of your work.
+Planificar el compartir tus resultados provisionales al inicio de tu proyecto puede simplificar notablemente el proceso de su divulgación en la fase final. La figura anterior ilustra muchos de los diferentes objetos que pueden ser compartidos antes de la versión 'final' de tu informe o publicación. Compartir y hablar sobre tu investigación mientras la realizas, así como interactuar con otros científicos, fortalecerá la calidad de tu trabajo.
 
-Ask questions. Share what you are working on. You will find that many involved in the scientific community want to help. The more you engage, the larger the audience and the more impact you will have when that 'final' publication is published.
+Haz preguntas. Comparte en qué estás trabajando. Descubrirás que muchos involucrados en la comunidad científica están dispuestos a ayudar. Cuanto más te involucres, mayor será la audiencia y mayor impacto tendrás cuando se publique la versión 'final' de tu trabajo.
 
-In the past few decades, scientists have made new connections and sought collaborators through letters and at conferences. However, this way of doing science tended to restrict who could participate. Today, most of these discussions take place on the internet, which has enabled new avenues for participatory science, open to all.
+En décadas pasadas, los científicos establecían nuevas conexiones al buscar colaboradores a través de cartas y en conferencias. Sin embargo, esta manera de hacer ciencia tendía a restringir quién podía participar. Hoy, la mayoría de estas discusiones tienen lugar en internet, lo que ha habilitado nuevas vías de comunicación para la ciencia colaborativa en la que todos pueden participar.
 
-The platforms where you share research depends on what you want to share. Reference the figure above and think about where you might share different types of information. How will this influence who you have an ability to engage with?
+Las plataformas en las que compartes tu investigación dependen de lo que quieras compartir. Revisa la figura anterior y piensa en dónde podrías compartir los diferentes objetos o tipos de información ahí presentados. ¿Cómo es que esto influirá en la forma en la que interactúes con alguien?
 
-Let's start with sharing in smaller groups (workshops and conferences) and move to larger audiences. There are distinct reasons for communicating results to different sizes of groups, as explored in the following sections.
+Puedes comenzar compartiendo tus resultados en grupos pequeños, como talleres y conferencias, para luego avanzar hacia audiencias más grandes. A continuación, exploraremos las diversas razones que influyen en la elección del tamaño de los grupos para la comunicación de tus resultados.
 
 ### At Workshops and Conferences
 
