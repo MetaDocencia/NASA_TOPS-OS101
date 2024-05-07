@@ -1,30 +1,30 @@
-# Lesson 4: Sharing Open Results
+# Lección 4: compartiendo resultados abiertos
 
-## Navigation
+## Navegación
 
-- [When to Share](#when-to-share)
-- [How to Share](#how-to-share)
-- [Other Considerations When Sharing](#other-considerations-when-sharing)
-- [Lesson 4: Summary](#lesson-4-summary)
-- [Lesson 4: Knowledge Check](#lesson-4-knowledge-check)
+- [¿Cuándo compartir?](#cuándo-compartir)
+- [¿Cómo compartir?](#cómo-compartir)
+- [Otras consideraciones al compartir](#otras-consideraciones-al-compartir)
+- [Lección 4: resumen](#lección-4-resumen)
+- [Lección 4: evaluación de conocimientos](#lección-4-evaluación-de-conocimientos)
 
-## Overview
+## Panorama general
 
-In lesson 3 you learned about how to make reproducible results. Now, we can finally think about how to best share those results. In this lesson we will place emphasis on publishing manuscripts as open access. You will learn what subtleties to consider when determining what journal to publish in, including how to make sense of a journal's policies on self-archiving. Finally, we discuss some commonly held concerns about sharing open access publications, and how to overcome them. Ultimately, we want to ensure that you have confidence in your decision to publish as open access.
+En la lección 3 aprendiste cómo lograr que tus resultados fueran reproducibles. Ahora, finalmente podemos pensar en cómo vamos a compartir esos resultados de la mejor manera. En esta lección, pondremos énfasis en la publicación de manuscritos en acceso abierto. Aprenderás qué sutilezas considerar al determinar en qué revista publicar, incluyendo cómo entender sus políticas de autoarchivo. Finalmente, discutiremos algunas preocupaciones que se presentan comúnmente sobre el compartir publicaciones en acceso abierto y cómo superarlas. En última instancia, queremos asegurarnos de que tengas confianza en tu decisión de publicar en acceso abierto.
 
-## Learning Objectives
+## Objetivos de aprendizaje
 
-After completing this lesson, you should be able to:
+Después de completar esta lección, deberías ser capaz de:
 
-- List ways that you can share open results to become a more collaborative, effective, scientist.
-- List different types of open access publications and considerations when sharing like licenses.
-- List some of the concerns around open access publishing, including responsibilities for authors, the threat of predatory publishers, and the fear of being wrong.
+- Enumerar maneras en las que puedes compartir resultados abiertos para convertirte en un científico más colaborativo y efectivo.
+- Enumerar diferentes tipos de publicaciones en acceso abierto y las consideraciones que hay que tener en cuenta al momento de compartirlas, tal como las licencias que estas poseerán.
+- Enumerar algunas de las preocupaciones en torno a la publicación en acceso abierto, incluyendo responsabilidades de los autores, la amenaza de revistas o editoriales depredadoras y/o el temor a equivocarse.
 
-## When to Share
+## ¿Cuándo compartir?
 
 <img src="../images/media/image7.jpeg" style="width:100%height:auto;" />
 
-Part of doing open science is enabling collaborative, interactive results. Sharing different types of research objects earlier in your research process helps increase visibility to your work and accelerates your efforts by drawing from the collective knowledge of others. The internet has fundamentally changed the timing of and manner in which scientists communicate results.
+Parte de llevar a cabo prácticas con el esquema de ciencia abierta es la posibilidad de ofrecer resultados colaborativos e interactivos. Compartir los diferentes tipos de objetos de investigación de manera temprana durante el proceso de investigación ayudará a aumentar la visibilidad de tu trabajo, al mismo tiempo en que podrá acelerarlo al aprovechar el conocimiento colectivo de la comunidad. Internet ha cambiado de manera sustancial el momento y la manera en que los científicos comunican los resultados.
 
 Planning to share your intermediate results at the beginning of your project makes sharing final results easier. The figure above illustrates many of the different objects that can be shared before the 'final' report or publication. Sharing and talking about your research as you are doing it, as well as engaging with other scientists, will increase the robustness of your work.
 
@@ -100,16 +100,16 @@ In this activity, you will learn how to access information about a journal’s d
 
 3. Los resultados de la búsqueda pueden mostrar más de una coincidencia. Selecciona la revista deseada dentro de los resultados de la búsqueda haciendo clic en el nombre de la misma.<br><br>Aparecerá un panel de control con información relativa a las tarifas de publicación, las políticas de exención, el tipo de licencia abierta utilizada y otra información sobre los múltiples títulos mostrados.
 4. Haz clic en el enlace «política de archivo» que aparece en una de las casillas desplegadas, como se ve aquí. Este proporcionará los enlaces a una gran cantidad de información sobre las políticas de acceso abierto de la revista para el propio manuscrito: <br><img src="../images/media/image59.png" style="width:300px;height:auto;" /><br>Se presentará mucha información, incluyendo detalles sobre las políticas de publicación específicas de la revista seleccionada.
-5. Alternatively, to get a more condensed view of the journal’s policies, return to the DOAJ dashboard on the About page with the multiple boxes displayed, and click on the "Sherpa/Romeo" link as shown here.<br><img src="../images/media/image60.jpeg" style="width:300px;height:auto;" />
-6. On the Sherpa Romeo page, click on the journal name that is displayed in the list (the only journal displayed).<br><img src="../images/media/image63.jpeg" style="width:100%;height:auto;" />
-7. When you view the page, you see that it consolidates and summarizes the open access policies for that journal and associated materials. The published version is likely to be the most relevant (see red box in figure).<br><img src="../images/media/image64.jpeg" style="width:100%;height:auto;"/>
-8. Review the page and determine which license the journal you selected has defined for reusability for manuscripts.
+5. Alternativamente, para obtener una visión más condensada de las políticas de la revista, vuelve al tablero de DOAJ en la página "Acerca de" con los múltiples cuadros desplegados, y haz clic en el enlace «Sherpa/Romeo» como se muestra aquí.<br><img src="../images/media/image60.jpeg" style="width:300px;height:auto;" />
+6. En la página Sherpa Romeo, cliquea en el nombre de la revista que aparece en la lista (la única revista que aparece).<br><img src="../images/media/image63.jpeg" style="width:100%;height:auto;" />
+7. Cuando veas la página, verás que resume y consolida las políticas de acceso abierto para esa revista y los materiales asociados. Es probable que la versión publicada sea la más relevante (véase el recuadro rojo de la figura).<br><img src="../images/media/image64.jpeg" style="width:100%;height:auto;"/>
+8. Revisa la página para determinar qué licencia ha definido la revista seleccionada para la reutilización de manuscritos.
 
-#### Activity Key Takeaways: Read the Open Access Policies of Publishers That You Use
+#### Actividades clave: Lee las políticas de acceso abierto de las editoriales que utilizas
 
-This is an example of a site that you can use to determine if a journal’s policy is consistent with how you wish to publish your open access results. Journal policies should always be reviewed and considered during the early planning phase of your project and well before submitting your manuscript for publication.
+Este es un ejemplo de un sitio que puedes utilizar para saber si la política de una revista es coherente con la forma en que deseas publicar tus resultados de acceso abierto. Las políticas de las revistas siempre deben revisarse y tenerse en cuenta durante la fase inicial de planificación del proyecto y mucho antes de enviar el manuscrito para su publicación.
 
-## How to Share
+## Cómo compartir
 
 Perhaps the single most important step to make your results open is to assign them a globally unique and persistent identifier. This will give you a single code, URL, or number that you can use to uniquely refer to a research object. Any derived research object can use this identifier to link to it and create a traceable and rich history of use and development. Crucially, this identifier can be used by others to cite and credit your work ([source](https://opensciency.github.io/sprint-content/open-results/lesson3-apply-open-results.html)).
 
