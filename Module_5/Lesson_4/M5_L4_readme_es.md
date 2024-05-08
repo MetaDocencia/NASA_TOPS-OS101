@@ -38,38 +38,38 @@ Puedes comenzar compartiendo tus resultados en grupos pequeños, como talleres y
 
 ### En talleres y conferencias
 
-Muchos de nosotros asistimos a conferencias científicas, talleres y otros encuentros para discutir temas de nuestra disciplina con colegas. The costs associated with attendance and travel to these events may limit who has access to the material presented there. At these events, scientists often give talks or present posters that are not yet peer reviewed to invite feedback from the community and potentially recruit collaborators. These interactions are important for improving research projects, and are often done when a project is still ongoing so that researchers can gather feedback early in their scientific process.
+Muchos de nosotros asistimos a conferencias científicas, talleres y otros encuentros para discutir temas de nuestra disciplina con colegas. Los costos asociados con la asistencia y el viaje a estos eventos pueden limitar el acceso a los materiales y exposiciones que se presentan allí. En estos eventos, los científicos a menudo dan charlas o presentan pósteres que aún no han sido revisados por pares, en donde aprovechan la oportunidad para invitar a la comunidad a emitir observaciones y potencialmente reclutar colaboradores. Estas interacciones son importantes para mejorar los proyectos de investigación y suelen realizarse cuando un proyecto aún está en curso para que los investigadores puedan recopilar comentarios temprano en su proceso científico.
 
-It is important to think about what audience you will be reaching at an event. Conferences have different policies about open access to materials presented at an event. Consider what you are sharing and who you want to share it with. For example, not all events provide long-term open access to workshop materials after the event. If you want to reach a larger audience or preserve the materials long-term, as a scientist, you have options to license and publish presented materials yourself (for example using Zenodo with a DOI) if an event doesn't do so.
+Es importante tener en mente el tipo de audiencia a la que potencialmente se le puede impactar en dichos eventos. Las conferencias tienen diferentes políticas sobre el acceso abierto a los materiales presentados en un evento. Considera qué estás ofreciendo y con quién quieres compartirlo. Por ejemplo, no todos los eventos ofrecen acceso abierto a largo plazo a los materiales del taller después del evento. Si deseas llegar a una audiencia más amplia o preservar los materiales a largo plazo, como científico, tienes opciones para licenciar y publicar abiertamente tú mismo los materiales que has presentado (por ejemplo, usando Zenodo con un DOI) en caso de que los organizadores del evento no lo hagan.
 
-### Other Forms of Interactive Feedback
+### Otras formas de obtener retroalimentación de manera interactiva
 
-Other forms of sharing can serve a similar purpose to share and document your results and/or software packages, and also allow for additional flexibility and openness! There are a number of additional resources that you can use
+Existen diferentes formas en las que se puede cumplir una función similar para compartir y documentar tus resultados y/o paquetes de software, ¡y también permitir una flexibilidad y nivel de apertura adicionales! Estas opciones pueden ser:
 
-- Blog posts and online articles
-- Short form videos and podcasts
-- Computational notebooks
-- Social media posts
-- Forum discussions
+- Publicar en blogs y/o artículos de difusión en línea
+- Elaborar videos cortos y podcasts
+- Utilizar cuadernos computacionales o 'interfaz notebook'
+- Publicar en redes sociales
+- Realizar discusiones en foros
 
-These different pathways allow for the dissemination of null results, intermediate science updates and/or software improvements. These alternative ways of sharing your work can benefit your research by facilitating extended dialogue between you and collaborators, and even the general public. Additionally, the public has easier access to these forms than they do to conferences.
+Estos diferentes medios permiten la diseminación de resultados no positivos, actualizaciones provicionales de la ciencia y/o mejoras de software. Estas formas alternativas de compartir tu trabajo pueden beneficiar tu investigación facilitando un diálogo extendido entre tú y tus colaboradores, e incluso con el público general. Además, es habitual que estas opciones de difusión sean de más fácil acceso que a las conferencias.
 
-Here are some specific examples of engagement across contemporary platforms for scientific collaboration:
+Aquí hay algunos ejemplos específicos de cómo se llevan a cambo estas interacciones a través de plataformas científicas colaborativas:
 
-- Blog posts such as the [Pangeo blog](https://medium.com/pangeo) - see examples of how to use different software tools for different science questions!
-- Computational notebooks as a way to demo software techniques (e.g. the [Project Pythia Cookbook Gallery](https://cookbooks.projectpythia.org/) showcasing computational science workflows in the Earth sciences).
-- Non-peer reviewed publications, such as [Research Notes of the AAS](https://journals.aas.org/research-notes/).
-- Team and/or Mission Science Pages, such as the [LUVOIR team's page](https://asd.gsfc.nasa.gov/luvoir/) or the Juno [mission's page.](https://www.missionjuno.swri.edu/)
-- Conference proceedings, such as from the [Society of Photo-Optical Instrumentation Engineers.](https://spie.org/publications/conference-proceedings)
-- Social media posts: [https://twitter.com/MartianColonist/status/1706824699349488036](https://twitter.com/MartianColonist/status/1706824699349488036)
+- Publicaciones en blogs, como en [Pangeo](https://medium.com/pangeo): ¡puedes observar ejemplos de cómo usar diferentes herramientas de software para distintas preguntas científicas!
+- Cuadernos computacionales como una forma de demostrar técnicas de programación (por ejemplo, la [Galería del Libro de Cocina del Proyecto Pythia](https://cookbooks.projectpythia.org/) mostrando flujos de trabajo de ciencias computacionales en las ciencias de la tierra).
+- Publicaciones que aún no están revisadas por pares, como las [Notas de Investigación de la AAS](https://journals.aas.org/research-notes/).
+- Páginas de equipos y/o misiones científicas, como la [página del equipo LUVOIR](https://asd.gsfc.nasa.gov/luvoir/) o la página de la [misión Juno](https://www.missionjuno.swri.edu/).
+- Actas de conferencias, como las de la [Sociedad de Ingenieros de Instrumentación Óptica y Fotónica](https://spie.org/publications/conference-proceedings).
+- Publicaciones en redes sociales: [Tweet del @MartianColonist](https://twitter.com/MartianColonist/status/1706824699349488036)
 
-<img src="../images/media/image57.png" style="width:20px;height:auto;" /> **Over the course of a 3 year study, the Journal of Medical Internet Research found that highly tweeted articles were 11 times more likely to be highly cited than less tweeted articles.**
+<img src="../images/media/image57.png" style="width:20px;height:auto;" /> **En el transcurso de un estudio de 3 años, el Journal of Medical Internet Research descubrió que los artículos más tuiteados tenían 11 veces más probabilidades de ser altamente citados que los artículos menos tuiteados.**
 
-### Publishing Reproducible Reports and Publications
+### Publicando investigaciones e informes reproducibles
 
-An open access report and paper can be reproducible when its data, software, and content are made available to the readers following best practices. There is a growing list of resources documenting how to make open results reproducible (such as [The Turing Way](https://the-turing-way.netlify.app/reproducible-research/reproducible-research) and [FORRT](https://forrt.org/)).
+Un informe y un artículo de acceso abierto pueden considerarse como reproducibles cuando sus datos, software y contenido subyacente se encuentran disponibles para los lectores siguiendo algunas prácticas recomendadas. Existe una lista creciente de recursos que documentan cómo hacer que los resultados abiertos sean reproducibles (como [The Turing Way](https://the-turing-way.netlify.app/reproducible-research/reproducible-research) y [FORRT](https://forrt.org/)).
 
-There are several examples (discussed in these lessons) that demonstrate how we can integrate technical and collaborative solutions to enable reproducibility. For example, executable notebooks allow interactivity and testing, training workshops invite feedback for improvement and GitHub/GitLab enable community based open review.
+Existen varios ejemplos (discutidos en estas lecciones) que demuestran cómo podemos integrar soluciones técnicas y colaborativas para habilitar esta reproducibilidad. Por ejemplo, los cuadernos computacionales permiten la interactividad y realización de pruebas, los talleres de capacitación invitan a la retroalimentación para la mejora y GitHub/GitLab habilitan la revisión abierta por la comunidad.
 
 **Scholarly Journals**
 
