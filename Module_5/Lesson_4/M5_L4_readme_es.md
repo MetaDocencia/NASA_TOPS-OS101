@@ -73,23 +73,23 @@ Existen varios ejemplos (discutidos en estas lecciones) que demuestran cómo pod
 
 **Revistas Académicas**
 
-Publicar trabajos en una revista revisada por pares constituye un fundamento básico de cómo se comparte la ciencia. Al mismo tiempo, se considera una vía importante para comunicar resultados que cuenten con rigor científico entre colegas. Las revistas académicas también actúan como un archivo de preservación a largo plazo de artículos de investigación científica. For many scientists, publishing in peer-reviewed journals and receiving citations are key factors in how they are evaluated for career advancement, positions appointments, committee memberships, and honors.
+Publicar trabajos en una revista revisada por pares constituye un fundamento básico de cómo se comparte la ciencia. Al mismo tiempo, se considera una vía importante para comunicar resultados que cuenten con rigor científico entre colegas. Las revistas académicas también actúan como un archivo de preservación a largo plazo de artículos de investigación científica. Para muchos científicos, publicar en revistas revisadas por pares y ser citados son factores clave para ser evaluados en el avance de su carrera, para recibir nombramientos, obtener reconocimiento o aspirar a formar parte de comités.
 
-Traditionally, authors pay an Article Processing Charge (APC) that can range from \$200-\$12000 USD. Higher profile journals often charge higher fees to authors. Accessing articles has traditionally been restricted by pay-walls that require a subscription or charge per article. Journals have different options for making your published work accessible to various communities.
+En este sentido, de manera recurrente los autores pueden llegar a pagar un Cargo por Procesamiento de Artículos (APC, por sus siglas en inglés) que puede variar entre $200 y $12,000 USD. Las revistas de mayor prestigio a menudo son las que cobran las tarifas más altas. El acceso a los artículos ha estado tradicionalmente restringido por muros de pago que requieren una suscripción o un cargo de consulta por artículo. Las revistas pueden contar con diferentes opciones para hacer que tu trabajo publicado sea accesible para todos.
 
-**Who Has Access to Journal Subscriptions?**
+**¿Quién tiene acceso a las suscripciones de revistas?**
 
-Paywalls limit who can access scientific research. This barrier acts to limit who can participate in science and erodes public trust in results. Part of open science is ensuring worldwide access to research.
+Los muros de pago limitan quién puede acceder a cierta investigación científica. Generalmente, esto puede generar una barrera en la participación y discución científica, lo que puede ocasionar una erosión en la confianza pública de sus resultados. Y parte de lo que pretende corregir la ciencia abierta es garantizar el acceso mundial a la investigación.
 
-**Open Access Journals**
+**Revistas de acceso abierto**
 
-Open access journals are peer-reviewed journals that are more accessible because they don’t require readers to have a subscription or pay to access the content. However, open access journals often require additional fees for the author. Open access peer-reviewed articles are archived by a more formal discussion of scientific ideas, interpretations, and conclusions. They form the basis of how researchers share results.
+Las revistas de acceso abierto son revistas revisadas por pares que son más accesibles porque no requieren que los lectores tengan una suscripción o paguen para acceder al contenido. Sin embargo, las revistas de acceso abierto, en algunos casos, pueden requerir tarifas para el autor. Los artículos revisados por pares de acceso abierto están archivados por una discusión más formal de ideas científicas, interpretaciones y conclusiones. Forman la base de cómo los investigadores comparten resultados.
 
-### Activity 4.1: Read the Open Access Policies of Publishers That You Use
+### Actividad 4.1: lee las políticas de acceso abierto de los servicios editoriales o revistas que utilizas
 
 <img src="../images/media/image21.png" style="width:350px;height:auto;" />
 
-In this activity, you will learn how to access information about a journal’s data archive policies. The Directory of Open Access Journals (DOAJ) provides an extensive index of open access journals around the globe. The DOAJ can be used to look up information, including data archiving policies, for journals that publish research. Let’s open up this website and look up the policies specific to your most-used journals.
+En esta actividad aprenderás cómo acceder a la información sobre las políticas de archivo de datos de una revista. El Directorio de Revistas de Acceso Abierto (DOAJ, por sus siglas en inglés) proporciona un índice extenso de revistas de acceso abierto de todo el mundo. The DOAJ can be used to look up information, including data archiving policies, for journals that publish research. Let’s open up this website and look up the policies specific to your most-used journals.
 
 1. First, navigate to the [DOAJ website](https://doaj.org/).
 2. Escribe el nombre de una de las siguientes revistas en el cuadro de búsqueda y, a continuación, pulsa el botón amarillo «BUSCAR».
