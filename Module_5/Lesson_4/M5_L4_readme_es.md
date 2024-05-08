@@ -71,9 +71,9 @@ Un informe y un artículo de acceso abierto pueden considerarse como reproducibl
 
 Existen varios ejemplos (discutidos en estas lecciones) que demuestran cómo podemos integrar soluciones técnicas y colaborativas para habilitar esta reproducibilidad. Por ejemplo, los cuadernos computacionales permiten la interactividad y realización de pruebas, los talleres de capacitación invitan a la retroalimentación para la mejora y GitHub/GitLab habilitan la revisión abierta por la comunidad.
 
-**Scholarly Journals**
+**Revistas Académicas**
 
-Publishing work in a peer-reviewed journal forms the traditionally written basis of how we share our science, and is important for communicating scientific detail and rigor to colleagues. Academic journals also act as a long-term archive of scientific research papers. For many scientists, publishing in peer-reviewed journals and receiving citations are key factors in how they are evaluated for career advancement, positions appointments, committee memberships, and honors.
+Publicar trabajos en una revista revisada por pares constituye un fundamento básico de cómo se comparte la ciencia. Al mismo tiempo, se considera una vía importante para comunicar resultados que cuenten con rigor científico entre colegas. Las revistas académicas también actúan como un archivo de preservación a largo plazo de artículos de investigación científica. For many scientists, publishing in peer-reviewed journals and receiving citations are key factors in how they are evaluated for career advancement, positions appointments, committee memberships, and honors.
 
 Traditionally, authors pay an Article Processing Charge (APC) that can range from \$200-\$12000 USD. Higher profile journals often charge higher fees to authors. Accessing articles has traditionally been restricted by pay-walls that require a subscription or charge per article. Journals have different options for making your published work accessible to various communities.
 
