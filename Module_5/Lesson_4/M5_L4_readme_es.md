@@ -124,7 +124,7 @@ Existen ejemplos de identificadores globalmente únicos y persistentes:
 <table style="width:100%;">
   <thead>
     <tr>
-        <th>DIGITAL OBJECT IDENTIFIER<br>10.1371/JOURNAL.PONE.0230416 ☑</th>
+        <th>IDENTIFICADOR DE OBJETO DIGITAL (DOI) <br>10.1371/JOURNAL.PONE.0230416 ☑</th>
         <th>ISBN-13: 978-0735619678</th>
         <th>THE INTERNET ARCHIVE</th>
     </tr>
@@ -132,7 +132,7 @@ Existen ejemplos de identificadores globalmente únicos y persistentes:
   <tbody>
     <tr>
         <td colspan="3">
-            <p>The Digital Object Identifier is provided by the International DOI Foundation, which ensures that each ID is unique and ensures that a DOI link always links to the correct object.</p>
+            <p>El identificador de objeto digital lo proporciona la Fundación Internacional DOI, que garantiza que cada identificador es único y asegura que un enlace DOI siempre enlaza con el objeto correcto.</p>
         </td>
     </tr>
   </tbody>
