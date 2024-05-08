@@ -113,13 +113,13 @@ Este es un ejemplo de un sitio que puedes utilizar para saber si la política de
 
 Quizás el paso más importante para que tus resultados sean abiertos sea asignarles un identificador global único y persistente. Esto te brindará un código único, URL o número que podrás utilizar para referirte de forma exclusiva a un objeto de investigación. Cualquier objeto de investigación derivado puede utilizar este identificador para enlazar con él y crear un historial rastreable de uso y desarrollo. Además, el identificador puede ser utilizado por otros para citar y acreditar tu trabajo ([fuente](https://opensciency.github.io/sprint-content/open-results/lesson3-apply-open-results.html)).
 
-El identificador también debe ser persistente. Esto garantiza que conduzca al mismo objeto de investigación durante un largo periodo de tiempo. Lo que cuenta como «persistente» es, por supuesto, una apreciación, ya que incluso el identificador más estable probablemente no sobrevivirá a que el Sol engulla la Tierra dentro de unos miles de millones de años. In this context, "persistent" implies that it is registered in a database managed by an organization or system that is committed to maintaining it as stable and backwards compatible for the foreseeable future.
+El identificador también debe ser persistente. Esto garantiza que conduzca al mismo objeto de investigación durante un largo periodo de tiempo. Lo que cuenta como «persistente» es, por supuesto, una apreciación, ya que incluso el identificador más estable probablemente no sobrevivirá a que el Sol engulla la Tierra dentro de unos miles de millones de años. En este contexto, «persistente» implica que está registrado en una base de datos gestionada por una organización o sistema que se compromete a mantenerlo estable y compatible con versiones anteriores en un futuro previsible.
 
-For example, URLs (for example, a personal website, GitHub repository, or cloud storage) are notoriously not persistent since they can change their contents frequently or become invalid without maintenance. On the other hand, Journal publications have a Digital Object Identifier (DOI) whose persistence is guaranteed by the International DOI Foundation.
+Por ejemplo, las URL (un sitio web personal, un repositorio de GitHub o un almacenamiento en la nube) son notoriamente poco persistentes, ya que pueden cambiar su contenido con frecuencia o dejar de ser válidas si no reciben mantenimiento. Por su parte, las publicaciones de revistas científicas tienen un Identificador de Objeto Digital (DOI) cuya persistencia está garantizada por la Fundación Internacional del DOI.
 
-As well as uniquely identifying each research object, it is important to be able to uniquely identify and cite all the authors and contributors. For this, it is recommended to get the permanent digital ID of each of the authors and contributors. [ORCID](https://orcid.org/) (Open Researcher and Contributor ID) is an online service where you can get a permanent digital identifier.
+Además de identificar unívocamente cada objeto de investigación, es importante poder identificar y citar unívocamente a todos los autores y colaboradores. Para ello, se recomienda obtener el identificador digital permanente de cada uno de ellos. [ORCID](https://orcid.org/) (Open Researcher and Contributor ID) es un servicio en línea que permite obtener un identificador digital permanente.
 
-There are examples of globally unique and persistent identifiers:
+Existen ejemplos de identificadores globalmente únicos y persistentes:
 
 <table style="width:100%;">
   <thead>
