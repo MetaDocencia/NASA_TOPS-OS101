@@ -166,47 +166,47 @@ Existen ejemplos de identificadores globalmente únicos y persistentes:
   <tbody>
     <tr>
         <td colspan="3">
-            <p><a href="https://web.archive.org/web/20220121051903/https://www.go-fair.org/">The Internet Archive</a> captures snapshots of websites and their links are really stable. Even if not ideal, it’s a handy tool for creating identifiers of websites easily.</p>
+            <p><a href="https://web.archive.org/web/20220121051903/https://www.go-fair.org/">El Archivo de Internet</a> (*Internet Archive*) captura instantáneas de sitios web y sus enlaces son realmente estables. Aunque no sea ideal, es una herramienta práctica para crear identificadores de sitios web fácilmente.</p>
         </td>
     </tr>
   </tbody>
 </table>
 
-### Licenses
+### Licencias
 
 <img src="../images/media/image67.png" style="width:350px;height:auto;" />
 
-By applying a license to your work, you make clear what others can do with the things you're sharing, as well as the conditions under which you're providing them (like the requirement to cite you). Another very important element to include with your research objects is clear rules for reuse (as is and for creating derivative work), which are often and most easily codified by the use of licenses.
+Al aplicar una licencia a tu trabajo, dejas claro qué pueden hacer los demás con las cosas que compartes, así como las condiciones en las que las proporcionas (como el requisito de citarte). Otro elemento muy importante que debes incluir con tus objetos de investigación son normas claras para su reutilización (tal cual y para la creación de obras derivadas), que a menudo se codifican más fácilmente mediante el uso de una licencia.
 
-Without a license, all rights are with the author of the research result. That means nobody else can use, copy, distribute, or modify the work without consent. A license gives this consent. If you do not have a license for each of the research objects that constitute your research result, it is effectively unusable by the whole research community.
+Sin licencia, todos los derechos corresponden al autor del resultado de la investigación. Eso significa que nadie más puede utilizar, copiar, distribuir o modificar la obra sin consentimiento. Una licencia otorga este consentimiento. Si no dispone de una licencia para cada uno de los objetos de investigación que constituyen el resultado de su investigación, ésta no podrá ser utilizada por toda la comunidad de investigación.
 
-Creative Commons licenses are usually used for written content (see Lesson 3 for a full description!). The benefit of a license, as opposed to the public domain, is that most require attribution to the original creators. The Creative Commons Attribution License, [CC-BY](https://wellcome.org/grant-funding/guidance/open-access-guidance/creative-commons-attribution-licence-cc), is the most common open access license for sharing publications as it requires attribution. There are other Creative Commons licenses used that may have different limitations on whether or not they can be commercially used, whether or not they can be modified and copied, and whether or not the licenses can be changed in further adaptations of code.
+Las licencias Creative Commons suelen utilizarse para contenidos escritos (véase la Lección 3 para una descripción completa). La ventaja de una licencia, a diferencia del dominio público, es que la mayoría exige la atribución a las personas creadoras originales. La Licencia de Atribución de Creative Commons, [CC-BY](https://wellcome.org/grant-funding/guidance/open-access-guidance/creative-commons-attribution-licence-cc), es la licencia de acceso abierto más común para compartir publicaciones, ya que requiere atribución. Existen otras licencias Creative Commons utilizadas que pueden tener diferentes limitaciones en cuanto a si pueden o no utilizarse comercialmente, si pueden o no modificarse y copiarse, y si las licencias pueden o no modificarse en posteriores adaptaciones del código.
 
-Your institutions, funding agency, or research proposal may require use of a specific license depending on the type of material that you produce from your research. For public agencies, CC-0 or CC-BY are generally recommended (or required) to maximize their return on investment and ensure widest possible re-use. Choosing a CC license that has additional restrictions (eg. -ND, -SA, -NC) can result in less reuse of data. As you share results on different platforms, look carefully to see what license is being applied!
+Las instituciones, agencias de financiación o propuestas de investigación pueden requerir el uso de una licencia específica en función del tipo de material que se produzca a partir de la investigación. En el caso de los organismos públicos, se suele recomendar (o exigir) CC-0 o CC-BY para maximizar el rendimiento de la inversión y garantizar la reutilización más amplia posible. Elegir una licencia CC que tenga restricciones adicionales (por ejemplo, -ND, -SA, -NC) puede dar lugar a una menor reutilización de los datos. Cuando compartas resultados en distintas plataformas, fíjate bien cuál es la licencia que se está aplicando!
 
-### Routes for Open Access Publishing
+### Vías para publicar en acceso abierto
 
 <img src="../images/media/image68.jpeg" style="width:100%;height:auto;" />
 
-Routes to publishing openly. The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 license. Original version on Zenodo. [http://doi.org/10.5281/zenodo.5706310](http://doi.org/10.5281/zenodo.5706310)
+Vías para publicar en abierto. Ilustración del proyecto Turing Way por Scriberia. Utilizado bajo licencia CC-BY 4.0. Versión original en Zenodo. [http://doi.org/10.5281/zenodo.5706310](http://doi.org/10.5281/zenodo.5706310)
 
 ---
 
-The most common types of open access publishing are Green, Gold, and Diamond.
+Los tipos más comunes de publicación en acceso abierto son Verde (_green route_), Dorado (_gold route_) y Diamante (_diamond route_).
 
 <table style="width:100%;">
   <thead>
     <tr>
-        <th>GOLD OPEN ACCESS PUBLISHING ☑</th>
-        <th>GREEN OPEN ACCESS PUBLISHING</th>
-        <th>DIAMOND OPEN ACCESS PUBLISHING</th>
+        <th>ACCESO ABIERTO DORADO ☑</th>
+        <th>ACCESO ABIERTO VERDE</th>
+        <th>ACCESO ABIERTO DIAMANTE</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>In Gold Open Access Publishing, authors pay an Article Processing Charge (APC) to a journal so that they publish the final version of your article under an open access license, which is then permanently and freely available online for anyone. The author will retain the copyright of their article, usually via a Creative Commons license of their choice, which dictates what others can do with the article. A criticism around gold Open Access publishing is the cost.</p>
-            <p>APCs can generally be around 2000 USD or in some cases more, which can therefore be prohibitive for authors across the globe. Some publishers offer discounts or waivers to authors from countries classified by the World Bank as low-income economies or APCs may be covered by your funder as part of your grant.</p>
+            <p>En el Acceso Abierto Dorado, las personas autoras pagan una tasa de procesamiento de artículos, APC (*Article Processing Charge*), a una revista para que ésta publique la versión final de su artículo bajo una licencia de acceso abierto, que luego queda disponible en línea de forma permanente y gratuita para cualquiera. Las personas autoras conservarán los derechos de autoría, normalmente a través de una licencia Creative Commons de su elección, que dicta lo que otros pueden hacer con el artículo. Una crítica en torno a la publicación dorada en Acceso Abierto es el costo.</p>
+            <p>Por lo general, los APC pueden rondar los 2000 USD o, en algunos casos, más, lo que puede resultar prohibitivo para las personas que hacen ciencia en muchas partes del mundo. Algunas editoriales ofrecen descuentos o exenciones a los autores de países clasificados por el Banco Mundial como economías de renta baja, o es posible que su financiador cubra las APC como parte de su subvención.</p>
         </td>
     </tr>
   </tbody>
