@@ -193,24 +193,25 @@ La IA puede ayudarnos a usar y compartir la investigación. Puede actuar como un
 
 ### Precauciones sobre el uso de herramientas de IA
 
-Las revistas están implementando cada vez más pautas y requisitos relacionados al uso de herramientas de IA durante el proceso de escritura. Muchos exigen que se divulgue el uso de herramientas de IA para escribir, crear imágenes u otros elementos y se identifique su método de uso. As is the case with all other material within an article, authors are fully responsible for ensuring that content is correct. Examples of this policy can be read in the AI guidelines of [Nature](https://www.nature.com/nature-portfolio/editorial-policies/ai) and [NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10318315/).
+Las revistas están implementando cada vez más pautas y requisitos relacionados al uso de herramientas de IA durante el proceso de escritura. Muchos exigen que se divulgue el uso de herramientas de IA para escribir, crear imágenes u otros elementos y se identifique su método de uso. Como sucede con todo otro material dentro de un artículo, las personas responsables de la autoría, deben garantizar que el contenido sea correcto. Ejemplos de esta política pueden ser leídos en las pautas de IA de [Nature](https://www.nature.com/nature-Firstio/editorial-policies/ai) y [NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10318315/).
 
-Furthermore, there are numerous examples of generative AI (for both code and content) delivering plagiarized information in violation of licenses, as well as fabricateding material including citations. Using these AI tools may lead to findings of academic and research misconduct should fabrication, falsification or plagiarism be contained within AI generated materials. So BE CAREFUL. Learn more about possible issues with AI in a [Nature example](https://www.nature.com/nature-index/news/artificial-intelligence-writing-tools-promise-faster-manuscripts-for-researchers) here.
+Además, existen numerosos ejemplos de IA generativa (tanto para código como para contenido)
+que entregan información plagiada en violación de las licencias, así como también fabrican material que incluye citas. El uso de estas herramientas de IA puede conducir a hallazgos de mala conducta académica y de investigación en caso de que los materiales generados por IA contengan fabricación, falsificación o plagio. Así que ten cuidado. Obtenga más información sobre posibles problemas con la IA en un [ejemplo de Nature](https://www.nature.com/nature-index/news/artificial-intelligence-writing-tools-promise-faster-manuscripts-for-researchers) aquí.
 
-At this time, and for these reasons, AI tools are generally not allowed in grant applications or in peer- review or proposal review activities.
+En este momento, y por estas razones, las herramientas de IA generalmente no están permitidas en las solicitudes de becas o en la revisión por pares o en las actividades de revisión de propuestas.
 
-The National Institutes of Health (NIH) has prohibited "scientific peer reviewers from using natural language processors, large language models, or other generative Artificial Intelligence (AI) technologies for analyzing and formulating peer review critiques for grant applications and R&D contract proposals." Utilizing AI in the peer review process is a breach of confidentiality because these tools "have no guarantee of where data is being sent, saved, viewed or used in the future." Using AI tools to help draft a critique or to assist with improving the grammar and syntax of a critique draft are both considered breaches of confidentiality. Read [NIH's AI policy](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-23-149.html) here.
+The National Institutes of Health (NIH) has prohibited "scientific peer reviewers from using natural language processors, large language models, or other generative Artificial Intelligence (AI) technologies for analyzing and formulating peer review critiques for grant applications and R&D contract proposals." Utilizar IA en el proceso de revisión por pares es una violación de la confidencialidad porque estas herramientas "no tienen garantía de dónde se enviarán, guardarán, verán o utilizarán los datos en el futuro." El uso de herramientas de IA para ayudar a redactar una crítica, o para ayudar a mejorar la gramática y la sintaxis de un borrador crítico, se consideran violaciones de la confidencialidad. Lee [política de IA de NIH](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-23-149.html) aquí.
 
-AI tools for science are developing rapidly. The science community's understanding of how to ethically and safely use AI is just developing as its use in research expands rapidly. The guidelines above offer a snapshot in time and will likely continue to evolve. If you choose to use these tools for scientific research, carefully consider how much to rely on them and how their biases may impact results, as cautioned in [this Nature article](https://www.nature.com/articles/d41586-023-02980-0). The internet has transformed the world and AI tools are likely to do the same. As with any tool, it is important they are used for the appropriate purpose and in an ethical manner.
+Las herramientas de IA para la ciencia se desarrollan rápidamente. La comprensión de la comunidad científica de cómo usar IA de forma ética y segura se está desarrollando a medida que su uso en la investigación se expande rápidamente. Las pautas anteriores ofrecen una instantánea en el tiempo y probablemente seguirán evolucionando. Si eliges utilizar estas herramientas para la investigación científica, considera cuidadosamente cuánto confiar en ellas y cómo sus sesgos pueden impactar los resultados, como se advierte en [este artículo de la Nature](https://www.nature.com/articles/d41586-023-02980-0). Internet ha transformado el mundo y es probable que las herramientas de IA hagan lo mismo. Como con cualquier herramienta, es importante que se utilicen con el fin apropiado y de forma ética.
 
-## Lesson 5: Summary
+## Lección 5: Resumen
 
-The steps that we highlight to make your research more reproducible and open will advance science and the impact of your research. In fact, the steps we have highlighted are things we can do immediately to ensure we make open and reproducible results.
+Los pasos que destacamos para hacer que tu investigación sea más reproducible y abierta impulsarán la ciencia y el impacto de tu investigación. De hecho, los pasos que hemos destacado son cosas que podemos hacer de inmediato para asegurarnos de obtener resultados abiertos y reproducibles.
 
-In this lesson, you learned:
+En esta lección, has aprendido:
 
-- How to include open results in the OSDMP.
-- An example of how results can be shared openly.
+- Cómo incluir resultados abiertos en el Plan de ciencia abierta y gestión de datos (OSDMP, por sus siglas en inglés).
+- Un ejemplo de cómo se pueden compartir los resultados abiertamente.
 - That developing AI tools are being used in all parts of the scientific workflow, they are changing rapidly, and there are still many open questions about how and when to use them.
 
 ## Lesson 5: Knowledge Check
