@@ -261,13 +261,13 @@ Puedes encontrar más formas de comunicar tu trabajo en [guía de comunicación]
 
 La ciencia abierta, como vimos en el módulo Ethos de las Ciencias Abiertas, debe mantener los estándares éticos más estrictos. Esto puede lograrse mediante la participación de diversas personas que colaboradoren en el desarrollo de los resultados científicos. Los enfoques participativos permiten integrar múltiples perspectivas y conocimientos en la investigación desde el inicio y garantizan que la revisión por pares se realice para todos los productos de forma iterativa, y no sólo para los artículos finales.
 
-En la elaboración y la planificación para compartir los resultados de manera abierta, se puede aplicar el principio de "tan abierto como sea posible, tan cerrado como sea necesario". Esto significa proteger la información confidencial, gestionar las prácticas de protección de datos cuando sea necesario y no compartir datos sensibles o información privada de las personas que puede ser utilizada indebidamente. Repositorios en línea, como GitHub y GitLab, permiten la interacción en línea además de servir al propósito técnico de tener control de versiones y alojar contenido. Por ejemplo, puedes usar [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) y [un tablero de proyecto](https://docs.github.com/en/github-ae%40latest/issues/organizing-your-work-with-project-boards/managing-project-boards/creating-a-project-board) para comunicar lo que está ocurriendo en un proyecto en cualquier punto dado. El uso de [Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) indica una invitación para que los pares revisen el nuevo desarrollo de código u otro contenido. Gracias a una serie de plantillas reutilizables, no es necesario configurar los repositorios desde cero. Por ejemplo, se puede utilizar directamente una [plantilla para proyectos de investigación reproducibles](https://github.com/the-turing-way/reproducible-project-template).
+En la elaboración y la planificación para compartir los resultados de manera abierta, se puede aplicar el principio de "tan abierto como sea posible, tan cerrado como sea necesario". Esto significa proteger la información confidencial, gestionar las prácticas de protección de datos cuando sea necesario y no compartir datos sensibles o información privada de las personas que pueda ser utilizada indebidamente. Repositorios en línea, como GitHub y GitLab, permiten la interacción en línea además de servir de manera tecnica a tener control de versiones y alojar contenido. Por ejemplo, puedes usar [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) y [un tablero de proyecto](https://docs.github.com/en/github-ae%40latest/issues/organizing-your-work-with-project-boards/managing-project-boards/creating-a-project-board) para comunicar lo que está ocurriendo en un proyecto en cualquier punto dado. El uso de [Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) indica una invitación para que los pares revisen el nuevo desarrollo de código u otro contenido. Gracias a una serie de plantillas reutilizables, no es necesario configurar los repositorios desde cero. Por ejemplo, se puede utilizar directamente una [plantilla para proyectos de investigación reproducibles](https://github.com/the-turing-way/reproducible-project-template).
 
 ## Función de los colaboradores en Ciencia Abierta
 
 La colaboración es fundamental para todas las investigaciones científicas. El impacto positivo de la colaboración se logra cuando se apoya la diversidad para combinar una gama de habilidades, perspectivas y recursos y trabajar hacia un objetivo compartido. Los proyectos que aplican enfoques abiertos y reproducibles facilitan la participación de diversos colaboradores y el reconocimiento de sus aportes, al mismo tiempo que apoyan el desarrollo de soluciones de las que todos puedan beneficiarse.
 
-Haciendo participes y reconociendo el papel de todos los colaboradores en la obtención de resultados abiertos es una parte importante de la ciencia abierta, que debatiremos a continuación.
+Hacer participes y reconocer el papel de todos los colaboradores en la obtención de resultados abiertos es una parte importante de la ciencia abierta, que debatiremos a continuación.
 
 ### Estudio del caso EHTC: Reconociendo a todos los contribuidores
 
@@ -277,13 +277,13 @@ Un mapa de la EHT. Las estaciones activas en 2017 y 2018 se muestran con líneas
 
 ---
 
-El equipo del Event Horizon Telescope (EHT) involucró a 200 miembros de 59 institutos en 20 países, desde estudiantes de grado hasta altos miembros del campo. Utilizaron una matriz que incluía ocho radiotelescopios en seis lugares geográficos de los Estados Unidos, América Latina, Europa y el Polo Sur. Todos los colaboradores se ubicaron en diferentes puntos geográficos, tuvieron acceso a diferentes instrumentos, recopilaron datos generados a partir de telescopios en diferentes lugares y aplicaron habilidades de diferentes equipos para crear resultados innovadores. Cada colaborador fue reconocido a través de diferentes canales de comunicación y por medio de autorizas en las publicaciones. EHTC también apoya el "análisis e interpretación críticos" de sus resultados publicados para facilitar la transparencia, el rigor y la reproducibilidad ([sitio web de EHTC](https://eventhorizontelescope.org/blog/imaging-reanalyses-eht-data)).
+El equipo del Event Horizon Telescope (EHT, en español Telescopio Horizonte de Sucesos) involucró a 200 miembros de 59 institutos en 20 países, desde estudiantes de grado hasta altos miembros del campo. Utilizaron una matriz que incluía ocho radiotelescopios en seis lugares geográficos de los Estados Unidos, América Latina, Europa y el Polo Sur. Todos los colaboradores se ubicaron en diferentes puntos geográficos, tuvieron acceso a diferentes instrumentos, recopilaron datos generados a partir de telescopios en diferentes lugares y aplicaron habilidades de diferentes equipos para crear resultados innovadores. Cada colaborador fue reconocido a través de diferentes canales de comunicación y por medio de autorias en las publicaciones. EHTC también apoya el "análisis e interpretación críticos" de sus resultados publicados para facilitar la transparencia, el rigor y la reproducibilidad ([sitio web de EHTC](https://eventhorizontelescope.org/blog/imaging-reanalyses-eht-data)).
 
 ### ¡Generar resultados abiertos comienza con los colaboradores!
 
 Crear diferentes componentes de investigación y prepararse para compartirlos como resultados abiertos implica una serie de actividades. Detrás de estas actividades se encuentran los contribuidores que asumen variadas responsabilidades que incluyen pero no se limitan a:
 
-- Conceptualización de la idea
+- Conceptualizar la idea
 - Diseñar el proyecto
 - Participar como asesor o mentor
 - Realizar experimentos como estudiante, investigador o asistente de investigación
@@ -317,7 +317,7 @@ Primero definamos los roles de los autores y los colaboradores.
   <tbody>
     <tr>
         <td colspan="2">
-            <p>Un colaborador es cualquiera que haya realizado cualquier actividad que haya hecho posible que la investigación suceda y se creen resultados, publicado o compartido.</p>
+            <p>Un colaborador es cualquiera que haya realizado cualquier actividad que haya hecho posible que la investigación suceda y se creen resultados, publicados o compartidos.</p>
         </td>
     </tr>
   </tbody>
@@ -333,7 +333,7 @@ Primero definamos los roles de los autores y los colaboradores.
   <tbody>
     <tr>
         <td colspan="2">
-            <p>Un autor de un resultado abierto es un colaborador que ha contribuido sustancialmente a la concepción o diseño de la obra o la adquisición,, o interpretación de los datos para la obra publicada.</p>
+            <p>Un autor de un resultado abierto es un colaborador que ha contribuido sustancialmente a la concepción o diseño de la obra o la adquisición, o interpretación de los datos para la publicación.</p>
         </td>
     </tr>
   </tbody>
@@ -341,24 +341,24 @@ Primero definamos los roles de los autores y los colaboradores.
 
 ### ¿Todos los autores son colaboradores y viceversa?
 
-Una autoria corresponde a una persona que realiza activamente una o varias de las tareas mencionadas anteriormente ([Instituto Nacional de Salud - NIH](https://oir.nih. ov/sourcebook/ethical-conduct/authorship-guidelines-resources/authorship-resources) y [ICMJE](https://www.icmje.org/recommendations/browse/roles-and-responsabilities/defining-the-role-of-authors-and-contributors.html)). Todos los autores son colaboradores, pero todos los colaboradores pueden no ser autores, por ejemplo, alguien que sirva como mentor, entrenador o mantenedor de infraestructura. Idealmente, todos los colaboradores tienen la oportunidad tener autoria sobre los resultados de la investigaciones.
+Una autoria corresponde a una persona que realiza activamente una o varias de las tareas mencionadas anteriormente ([Instituto Nacional de Salud - NIH](https://oir.nih. ov/sourcebook/ethical-conduct/authorship-guidelines-resources/authorship-resources) y [ICMJE](https://www.icmje.org/recommendations/browse/roles-and-responsabilities/defining-the-role-of-authors-and-contributors.html)). Todos los autores son colaboradores, pero es posible que no todos los colaboradores sean autores, por ejemplo, alguien que sirva como mentor, entrenador o mantenedor de infraestructura. Idealmente, todos los colaboradores tienen la oportunidad de tener autoria sobre los resultados de la investigaciones.
 
-Dada la importancia que tradicionalmente se le atribuye a la autoría en la publicación científica y la ambigüedad de las definiciones (que a menudo contienen términos relativos como "sustancial" o "extensivo" que dejan demasiado margen para la interpretación), no es de extrañar que determinar quien merece una autoria pueda conducir a decisiones sesgadas o injustas, disputas entre los contribuyentes, o como mínimo dejar a alguien resentido y sentirse inapreciado.
+Dada la importancia que tradicionalmente se le atribuye a la autoría en la publicación científica y la ambigüedad de las definiciones (que a menudo contienen términos relativos como "sustancial" o "extensivo" que dejan demasiado margen para la interpretación), no es de extrañar que determinar quien merece una autoria pueda conducir a decisiones sesgadas o injustas, disputas entre los contribuyentes, o como mínimo dejar a alguien resentido y con el sentimiento de ser menospreciado.
 
 No hay un único enfoque para reconocer a los contribuyentes como autores, pero esto es lo que se debería considerar:
 
 <table>
   <thead>
     <tr>
-        <th>DINAMICAS DE PODER EN GRUPO &amp; EQUIDAD (Por ejemplo,. SENIORIDAD, SISTEMAS DE OPRESIÓN) ☑</th>
+        <th>DINAMICAS DE PODER EN GRUPO &amp; EQUIDAD (Por ejemplo, SENIORIDAD, SISTEMAS DE OPRESIÓN) ☑</th>
         <th>EL TIPO DE CONTRIBUCIÓN</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="2">
-            <p>Consideremos este hipotético escenario: Usted es un compañero postdoctoral y el principal autor de un proyecto de investigación. Un estudiante rotativo pasa 4 meses en el laboratorio ayudándote a establecer y perfeccionar el protocolo experimental que utilizarás para realizar los experimentos necesarios para responder a tu pregunta de investigación. Incluso pueden ayudarte a recoger algunos datos preliminares, pero luego se van y luego deciden unirse a otro laboratorio. ¿Proporcionarías la autoría para el estudiante?</p>
-            <p>Sería poco ético no dar a la autoría o crédito a alguien que ha prestado una ayuda significativa y ha contribuido al éxito de una investigación. incluso cuando ya no están implicados. Un camino justo en este escenario podría ser ponerse en contacto con el colaborador anterior e implicarlos en la escritura de una sección relevante del manuscrito.</p>
+            <p>Consideremos este hipotético escenario: Usted es un estudiante postdoctoral y el principal autor de un proyecto de investigación. Un estudiante rotativo pasa 4 meses en el laboratorio ayudando a establecer y perfeccionar el protocolo experimental que se utilizará para realizar los experimentos necesarios para responder a la pregunta de la investigación. Incluso pueden ayudar en la obtención de datos preliminares, pero luego se van y deciden unirse a otro laboratorio. ¿Proporcionarías la autoría a el estudiante?</p>
+            <p>Sería poco ético no dar a la autoría o crédito a alguien que ha prestado una ayuda significativa y ha contribuido al éxito de una investigación incluso cuando ya no están implicados. Un camino justo en este escenario podría ser ponerse en contacto con el colaborador anterior e implicarlos en la escritura de una sección relevante del manuscrito.</p>
         </td>
     </tr>
   </tbody>
@@ -367,7 +367,7 @@ No hay un único enfoque para reconocer a los contribuyentes como autores, pero 
 <table>
   <thead>
     <tr>
-        <th>DINAMICAS DE PODER EN GRUPO &amp; EQUIDAD (Por ejemplo,. SENIORIDAD, SISTEMAS DE OPRESIÓN)</th>
+        <th>DINAMICAS DE PODER EN GRUPO &amp; EQUIDAD (Por ejemplo, SENIORIDAD, SISTEMAS DE OPRESIÓN)</th>
         <th>EL TIPO DE CONTRIBUCIÓN ☑</th>
     </tr>
   </thead>
