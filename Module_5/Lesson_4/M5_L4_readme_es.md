@@ -141,15 +141,15 @@ Existen ejemplos de identificadores globalmente únicos y persistentes:
 <table style="width:100%;">
   <thead>
     <tr>
-        <th>DIGITAL OBJECT IDENTIFIER<br>10.1371/JOURNAL.PONE.0230416</th>
+        <th>IDENTIFICADOR DE OBJETO DIGITAL<br>10.1371/JOURNAL.PONE.0230416</th>
         <th>ISBN-13: 978-0735619678 ☑</th>
-        <th>THE INTERNET ARCHIVE</th>
+        <th>EL ARCHIVO DE INTERNET</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>This is an International Standard Book Number, which has to be purchased by publishers by the International ISBN Agency.</p>
+            <p>Se trata de un número internacional normalizado para libros, que los editores deben adquirir a través de la Agencia Internacional del ISBN.</p>
         </td>
     </tr>
   </tbody>
@@ -158,9 +158,9 @@ Existen ejemplos de identificadores globalmente únicos y persistentes:
 <table style="width:100%;">
   <thead>
     <tr>
-        <th>DIGITAL OBJECT IDENTIFIER<br>10.1371/JOURNAL.PONE.0230416</th>
+        <th>IDENTIFICADOR DE OBJETO DIGITAL<br>10.1371/JOURNAL.PONE.0230416</th>
         <th>ISBN-13: 978-0735619678</th>
-        <th>THE INTERNET ARCHIVE ☑</th>
+        <th>EL ARCHIVO DE INTERNET ☑</th>
     </tr>
   </thead>
   <tbody>
