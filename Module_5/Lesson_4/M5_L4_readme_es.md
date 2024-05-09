@@ -215,15 +215,15 @@ Los tipos más comunes de publicación en acceso abierto son Verde (_green route
 <table style="width:100%;">
   <thead>
     <tr>
-        <th>GOLD OPEN ACCESS PUBLISHING</th>
-        <th>GREEN OPEN ACCESS PUBLISHING ☑</th>
-        <th>DIAMOND OPEN ACCESS PUBLISHING</th>
+        <th>ACCESO ABIERTO DORADO</th>
+        <th>ACCESO ABIERTO VERDE ☑</th>
+        <th>ACCESO ABIERTO DIAMANTE</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>Green Open Access is the process of self-archiving. The self-archiving movement aims to provide tools and assistance to scholars to deposit and disseminate their refereed journal articles in open institutional or subject-based repositories. You may choose to self-archive your work to make it more discoverable and/or after you’ve published it in a subscription journal to ensure there is an open version of your paper.</p>
+            <p>El Acceso Abierto Verde es el proceso de autoarchivo. El movimiento de autoarchivo tiene como objetivo proporcionar herramientas y asistencia a los académicos para depositar y difundir sus artículos de revistas arbitradas en repositorios abiertos institucionales o temáticos. You may choose to self-archive your work to make it more discoverable and/or after you’ve published it in a subscription journal to ensure there is an open version of your paper.</p>
             <p>The Registry of Open Access Repositories contains a list of repositories that are available for researchers to self-archive. A principios de 2019 había más de 4000 repositorios. ¡Es importante encontrar una comunidad de autoarchivos!</p>
         </td>
     </tr>
