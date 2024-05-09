@@ -89,9 +89,9 @@ Las revistas de acceso abierto son revistas revisadas por pares que son más acc
 
 <img src="../images/media/image21.png" style="width:350px;height:auto;" />
 
-En esta actividad aprenderás cómo acceder a la información sobre las políticas de archivo de datos de una revista. El Directorio de Revistas de Acceso Abierto (DOAJ, por sus siglas en inglés) proporciona un índice extenso de revistas de acceso abierto de todo el mundo. The DOAJ can be used to look up information, including data archiving policies, for journals that publish research. Let’s open up this website and look up the policies specific to your most-used journals.
+En esta actividad aprenderás cómo acceder a la información sobre las políticas de archivo de datos de una revista. El Directorio de Revistas de Acceso Abierto (DOAJ, por sus siglas en inglés) proporciona un índice extenso de revistas de acceso abierto de todo el mundo. El DOAJ se puede usar para buscar información, incluidas las políticas de archivo de datos para las revistas que publican investigaciones. Vamos a explorar su sitio web y buscar las políticas específicas de las revistas que más utilizas.
 
-1. First, navigate to the [DOAJ website](https://doaj.org/).
+1. Primero, navega al sitio [web del DOAJ](https://doaj.org/).
 2. Escribe el nombre de una de las siguientes revistas en el cuadro de búsqueda y, a continuación, pulsa el botón amarillo «BUSCAR».
 
 - Cartas de Ciencias Atmosféricas y Oceánicas
