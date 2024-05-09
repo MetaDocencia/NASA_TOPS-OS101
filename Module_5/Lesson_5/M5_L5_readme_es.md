@@ -98,13 +98,13 @@ La IA puede ayudarnos a usar y compartir la investigación. Puede actuar como un
   <tbody>
     <tr>
         <td colspan="3">
-            <p>El volumen cada vez mayor de la literatura científica ha dificultado que quienes investigan se mantengan al día de los artículos más recientes y encuentren los más antiguos. Las herramientas de IA se pueden utilizar para crear recomendaciones personalizadas para artículos relevantes, así como para crear resúmenes de los mismos en diversos formatos. Some examples of these tools include <a href="https://scisummary.com/dashboard">SciSummary</a>, <a href="https://www.summarizebot.com/">SummarizeBot</a>, <a href="https://www.scholarcy.com/">Scholarcy</a>, <a href="https://www.paperdigest.org/">Paper Digest</a>, <a href="https://www.scilynk.com/">Lynx AI</a>, <a href="https://www.tldrthis.com/">TLDR This.</a></p>
-            <p>Possible drawbacks when using these tools include:</p>
+            <p>El volumen cada vez mayor de la literatura científica ha dificultado que quienes investigan se mantengan al día de los artículos más recientes y encuentren los más antiguos. Las herramientas de IA se pueden utilizar para crear recomendaciones personalizadas para artículos relevantes, así como para crear resúmenes de los mismos en diversos formatos. Algunos ejemplos de estas herramientas incluyen <a href="https://scisummary.com/dashboard">SciSummary</a>, <a href="https://www.summarizebot.com/">SummarizeBot</a>, <a href="https://www.scholarcy.com/">Académica</a>, <a href="https://www.paperdigest.org/">Paper Digest</a>, <a href="https://www.scilynk.com/">Lynx AI</a>, <a href="https://www.tldrthis.com/">TLDR This.</a></p>
+            <p>Los posibles inconvenientes al usar estas herramientas incluyen:</p>
             <ul>
-                <li>Potential introduction of biases</li>
-                <li>Insufficient contextual understanding or interpretation</li>
-                <li>Possible inability to handle complex technical language</li>
-                <li>Incorrectly identifying key points</li>
+                <li>Introducción potencial de sesgos</li>
+                <li>Insuficiente comprensión o interpretación contextual</li>
+                <li>Posible incapacidad para manejar el lenguaje técnico complejo</li>
+                <li>Identificación incorrecta de puntos clave</li>
             </ul>
         </td>
     </tr>
@@ -114,15 +114,15 @@ La IA puede ayudarnos a usar y compartir la investigación. Puede actuar como un
 <table>
   <thead>
     <tr>
-        <th>LITERATURE REVIEWS</th>
-        <th>SEARCHING FOR RELEVANT DATASETS AND SOFTWARE TOOLS ☑</th>
-        <th>LANGUAGE BARRIERS</th>
+        <th>REVISIONES DE LITERATURA</th>
+        <th>COMPRANDO PARA DATOS RELEVANTES Y SOFTWARE TOLS ☑</th>
+        <th>BARRERAS LINGÜÍSTICAS</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>AI tools can be used to discover different datasets that may be relevant to a scientific query and recommend relevant software libraries.</p>
+            <p>Las herramientas de IA pueden utilizarse para descubrir diferentes conjuntos de datos que pueden ser relevantes para una consulta científica y recomendar bibliotecas de software relevantes.</p>
         </td>
     </tr>
   </tbody>
@@ -131,34 +131,34 @@ La IA puede ayudarnos a usar y compartir la investigación. Puede actuar como un
 <table>
   <thead>
     <tr>
-        <th>LITERATURE REVIEWS</th>
-        <th>SEARCHING FOR RELEVANT DATASETS AND SOFTWARE TOOLS</th>
-        <th>LANGUAGE BARRIERS ☑</th>
+        <th>REVISIONES DE LITERATURA</th>
+        <th>BUSCANDO CONJUNTOS DE DATOS Y HERRAMIENTAS DE SOFTWARE RELEVANTES</th>
+        <th>BARRERAS LINGÜÍSTICAS ☑</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>AI tools can be used to create automatic translations into different languages. Several of the tools above also offer translation.</p>
+            <p>Las herramientas de IA pueden utilizarse para crear traducciones automáticas a diferentes idiomas. Varias de las herramientas mencionadas también ofrecen traducción.</p>
         </td>
     </tr>
   </tbody>
 </table>
 
-### Making with AI:
+### Creando con IA:
 
 <table>
   <thead>
     <tr>
-        <th>CODE ☑</th>
-        <th>RESULTS</th>
+        <th>CÓDIGO ☑</th>
+        <th>RESULTADOS</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="2">
-            <p>AI tools can be used to generate code to perform analysis tasks and translate between programming languages. Some examples of these tools include <a href="https://github.com/features/copilot">Co-Pilot</a>, <a href="https://openai.com/blog/openai-codex">Codex</a>, <a href="https://chat.openai.com/auth/login">ChatGPT</a>, and <a href="https://alphacode.deepmind.com/">AlphaCode</a>.</p>
-            <p><strong>Usage tip:</strong> Popular large language models can be used to generate code, but it has been noted by many that breaking down tasks and using careful prompts helps generate better results.</p>
+            <p>Las herramientas de IA pueden utilizarse para generar código para realizar tareas de análisis y traducir entre lenguajes de programación. Algunos ejemplos de estas herramientas incluyen <a href="https://github.com/features/copilot">Co-Pilot</a>, <a href="https://openai.com/blog/openai-codex">Codex</a>, <a href="https://chat.openai.com/auth/login">ChatGPT</a>y <a href="https://alphacode.deepmind.com/">AlphaCode</a>.</p>
+            <p><strong>Consejo de uso:</strong> Modelos grandes de lenguaje populares pueden ser usados para generar código, pero muchos han notado que la ruptura de tareas y el uso de indicaciones cuidadosas ayudan a generar mejores resultados.</p>
         </td>
     </tr>
   </tbody>
@@ -167,33 +167,33 @@ La IA puede ayudarnos a usar y compartir la investigación. Puede actuar como un
 <table>
   <thead>
     <tr>
-        <th>CODE</th>
-        <th>RESULTS ☑</th>
+        <th>CÓDIGO</th>
+        <th>RESULTADOS ☑</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="2">
-            <p>AI tools can be used to generate text, summarize background materials, develop key points, develop images and figures, and conclusions. Using these tools may help non-native speakers communicate science in different languages more clearly. Additionally, they could be helpful to develop plain-language summaries, blog posts, and social media posts.</p>
-            <p>Some possible drawbacks when using these tools:</p>
+            <p>Las herramientas de IA se pueden utilizar para generar texto, resumir materiales de fondo, desarrollar puntos clave, desarrollar imágenes y figuras, y conclusiones. Usar estas herramientas puede ayudar a las personas no nativas a comunicar ciencia en diferentes idiomas de manera más clara. Additionally, they could be helpful to develop plain-language summaries, blog posts, and social media posts.</p>
+            <p>Los posibles inconvenientes al usar estas herramientas incluyen:</p>
             <ul>
-            <li>See the list above for a literature review.</li>
-            <li>Factual and commonsense reasoning mistakes because they do not (at this time) have the type of cognition or perception needed to understand language and its relationship to the external physical, biological, and social world (cite: <a href="https://www.tandfonline.com/doi/full/10.1080/08989621.2023.2168535">https://www.tandfonline.com/doi/full/10.1080/08989621.2023.2168535)</a>.</li>
+            <li>Vea la lista anterior para una revisión de la literatura.</li>
+            <li>Los errores de razonamiento fáctico y de sentido común porque no tienen (en este momento) el tipo de reconocimiento o percepción necesaria para entender el lenguaje y su relación con el mundo físico externo, biológico y social (cito: <a href="https://www.tandfonline.com/doi/full/10.1080/08989621.2023.2168535">https://www.tandfonline.com/doi/full/10.1080/08989621.2023.2168535)</a>.</li>
             </ul>
         </td>
     </tr>
   </tbody>
 </table>
 
-### Sharing with AI:
+### Compartiendo con IA:
 
-- Results - AI/ML models are increasingly being used in research. When sharing results, follow best practices as outlined in the [Ethical and Responsible Use of AI/ML in the Earth, Space, and Environmental Sciences](https://essopenarchive.org/users/536571/articles/635008-ethical-and-responsible-use-of-ai-ml-in-the-earth-space-and-environmental-sciences) article.
-- Incremental prompting can help create an outline for your research article. An example can be found on [X](https://twitter.com/MushtaqBilalPhD/status/1640243808851075072?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1640243808851075072%7Ctwgr%5E86f4269a3a6f05f7927bdb57e4f45654f827dc44%7Ctwcon%5Es1_\&ref_url=https%3A%2F%2Fwww.euronews.com%2Fnext%2F2023%2F08%2F07%2Fbest-ai-tools-academic-research-chatgpt-consensus-chatpdf-elicit-research-rabbit-scite).
-- AI tools can help identify where to share results and help write social media or other short posts based on your article.
+- Resultados - Los modelos IA/AA se utilizan cada vez más en investigación. Al compartir resultados, sigue las mejores prácticas descritas en el artículo [Uso ético y responsable de IA/AA en la Tierra, el Espacio y las Ciencias Ambientales](https://essopenarchive.org/users/536571/articles/635008-ethical-and-responsible-use-of-ai-ml-in-the-earth-space-and-environmental-sciences).
+- Las indicaciones incrementales pueden ayudar a crear un esquema para tu artículo de investigación. Se puede encontrar un ejemplo en [X](https://twitter.com/MushtaqBilalPhD/status/1640243808851075072?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1640243808851075072%7Ctwgr%5E86f4269a3a6f05f7927bdb57e4f45654f827dc44%7Ctwcon%5Es1_\&ref_url=https%3A%2F%2Fwww.euronews.com%2Fnext%2F2023%2F08%2F07%2Fbest-ai-tools-academic-research-chatgpt-consensus-chatpdf-elicit-research-rabbit-scite).
+- Las herramientas de IA pueden ayudar a identificar dónde compartir resultados y ayudar a escribir publicaciones breves en las redes sociales u otras publicaciones basadas en tu artículo.
 
-### Cautions About Use of AI Tools
+### Precauciones sobre el uso de herramientas de IA
 
-Journals are increasingly implementing guidelines and requirements concerning the usage of AI tools during the writing process. Many require that the use of AI tools for writing, images creation, or other elements must be disclosed and their method of use identified. As is the case with all other material within an article, authors are fully responsible for ensuring that content is correct. Examples of this policy can be read in the AI guidelines of [Nature](https://www.nature.com/nature-portfolio/editorial-policies/ai) and [NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10318315/).
+Las revistas están implementando cada vez más pautas y requisitos relacionados al uso de herramientas de IA durante el proceso de escritura. Muchos exigen que se divulgue el uso de herramientas de IA para escribir, crear imágenes u otros elementos y se identifique su método de uso. As is the case with all other material within an article, authors are fully responsible for ensuring that content is correct. Examples of this policy can be read in the AI guidelines of [Nature](https://www.nature.com/nature-portfolio/editorial-policies/ai) and [NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10318315/).
 
 Furthermore, there are numerous examples of generative AI (for both code and content) delivering plagiarized information in violation of licenses, as well as fabricateding material including citations. Using these AI tools may lead to findings of academic and research misconduct should fabrication, falsification or plagiarism be contained within AI generated materials. So BE CAREFUL. Learn more about possible issues with AI in a [Nature example](https://www.nature.com/nature-index/news/artificial-intelligence-writing-tools-promise-faster-manuscripts-for-researchers) here.
 
