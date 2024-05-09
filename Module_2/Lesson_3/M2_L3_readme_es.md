@@ -1,4 +1,4 @@
-# Lección 3: Herramientas para datos abiertos
+# Lección 3: Herramientas para Datos Abiertos
 
 ## Índice
 
