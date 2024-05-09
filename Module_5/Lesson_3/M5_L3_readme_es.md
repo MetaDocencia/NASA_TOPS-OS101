@@ -448,26 +448,26 @@ Es importante establecer una referencia para cada equipo de investigación/proye
     </tr>
     <tr>
         <td>Validación</td>
-        <td>Verification, whether as a part of the activity or separate, of the overall replication/ reproducibility of results/experiments and other research outputs - generalizable</td>
+        <td>La verificación generalizable de la replicación/reproducibilidad general de resultados/experimentos y otros productos de investigación, ya sea como parte de la actividad o de forma independiente</td>
     </tr>
     <tr>
-        <td>Investigation</td>
-        <td>Conducting a research and investigation process, specifically performing the experiments, or data/evidence collection</td>
+        <td>Investigación</td>
+        <td>Realizar un proceso de investigación e indagación, específicamente llevando a cabo los experimentos, o la recolección de datos/evidencia</td>
     </tr>
     <tr>
-        <td>Resources</td>
-        <td>Provision of study materials, reagents, materials, patients, laboratory samples, animals, instrumentation, computing resources, or other analysis tools</td>
+        <td>Recursos</td>
+        <td>Provisión de materiales de estudio, reactivos, materiales, pacientes, muestras de laboratorio, animales, instrumentación, recursos informáticos u otras herramientas de análisis</td>
     </tr>
     <tr>
-        <td>Data Curation</td>
-        <td>Management activities to annotate (produce metadata), scrub data and maintain research data (including software code, where it is necessary for interpreting the data itself) for initial use and later reuse (including licensing)</td>
+        <td>Curaduría de datos</td>
+        <td>Actividades de gestión para anotar (producir metadatos), depurar datos y mantener los datos de investigación (incluido el código de software, cuando sea necesario para interpretar los datos mismos) para su uso inicial y reutilización posterior (incluida la licencia)</td>
     </tr>
     <tr>
-        <td>Writing - Original Draft</td>
-        <td>Preparation, creation and/or presentation of the published work, specifically writing the initial draft (including substantive translation)</td>
+        <td>Escritura - Borrador Original</td>
+        <td>Preparación, creación y/o presentación del trabajo publicado, específicamente la redacción del primer borrador (incluidas traducciones sustanciales)</td>
     </tr>
     <tr>
-        <td>Writing - Review & Editing</td>
+        <td>Escritura - Revisión y Edición</td>
         <td>La preparación, creación y/o presentación del trabajo por parte del grupo de investigación, abarcando las revisiones críticas, comentarios o correcciones e incluyendo las etapas pre y post publicación</td>
     </tr>
     <tr>
