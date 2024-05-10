@@ -1,9 +1,9 @@
 # Lección 3: Herramientas para Datos Abiertos
 
-## Índice
+## Contenidos
 
-- [Introducción a Datos Abiertos](#introduction-to-open-data)
-- [Principios FAIR](#fair-principles)
+- [Introducción a los datos abiertos](#introduction-to-open-data)
+- [Principios FAIR](#principios-FAIR)
 - [Herramientas para ayudar a planificar la creación de datos abiertos](#tools-to-help-with-planning-for-open-data-creation)
 - [Herramientas para ayudar con el uso y la creación de datos abiertos](#tools-to-help-with-using-and-making-open-data)
 - [Lección 3: Resumen](#lesson-3-summary)
