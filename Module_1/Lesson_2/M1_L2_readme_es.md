@@ -1,4 +1,4 @@
-# Lección 2: ¿ Por qué es importante la Ciencia Abierta?
+# Lección 2: ¿Por qué es importante la Ciencia Abierta?
 
 ## Contenidos
 
@@ -11,7 +11,7 @@
 
 ## Resumen
 
-En esta lección aprendes cómo la adopción de la ciencia abierta te beneficia como investigador y sociedad. También aprenderemos sobre algunos de los desafíos y obstáculos que se presentan al utilizar los principios de la ciencia abierta y cómo superarlos.
+En esta lección, aprenderás cómo la adopción de la ciencia abierta beneficia a la sociedad y a ti en la investigación. También aprenderemos sobre algunos de los desafíos y obstáculos que se presentan al utilizar los principios de la ciencia abierta y cómo superarlos.
 
 ## Objetivos de aprendizaje
 
@@ -27,7 +27,7 @@ Al finalizar esta lección deberías ser capaz de:
 
 **Harlan Krumholz,**
 
-\*\*Colegio de Medicina de Yale, Reunión CZI, 2022 \*\*
+\*\*Escuela de Medicina de Yale, Reunión CZI, 2022 \*\*
 
 <img src="../images/media/harlanquote.jpg">
 
