@@ -309,7 +309,7 @@ _Selecciona cada pestaña para obtener más información._
 <table>
   <thead>
     <tr>
-        <th>LOCALIZABLE</th>
+        <th>FACIL DE ENCONTRAR</th>
         <th>ACCESIBLE</th>
         <th>INTEROPERABLE</th>
         <th>REUTILIZABLE ☑</th>
