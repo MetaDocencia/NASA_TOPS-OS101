@@ -522,7 +522,7 @@ Ya sea que se utilice software de código abierto, de código cerrado o comercia
 <table>
   <thead>
     <tr>
-        <th>LOCALIZABLE ☑</th>
+        <th>FÁCIL DE ENCONTRAR☑</th>
         <th>ACCESIBLE</th>
         <th>INTEROPERABLE</th>
         <th>REUTILIZABLE</th>
@@ -540,7 +540,7 @@ Ya sea que se utilice software de código abierto, de código cerrado o comercia
 <table>
   <thead>
     <tr>
-        <th>LOCALIZABLE</th>
+        <th>FÁCIL DE ENCONTRAR</th>
         <th>ACCESIBLE ☑</th>
         <th>INTEROPERABLE</th>
         <th>REUTILIZABLE</th>
@@ -558,7 +558,7 @@ Ya sea que se utilice software de código abierto, de código cerrado o comercia
 <table>
   <thead>
     <tr>
-        <th>LOCALIZABLE</th>
+        <th>FÁCIL DE ENCONTRAR</th>
         <th>ACCESIBLE</th>
         <th>INTEROPERABLE ☑</th>
         <th>REUTILIZABLE</th>
@@ -576,7 +576,7 @@ Ya sea que se utilice software de código abierto, de código cerrado o comercia
 <table>
   <thead>
     <tr>
-        <th>LOCALIZABLE</th>
+        <th>FÁCIL DE ENCONTRAR</th>
         <th>ACCESIBLE</th>
         <th>INTEROPERABLE</th>
         <th>REUTILIZABLE ☑</th>
