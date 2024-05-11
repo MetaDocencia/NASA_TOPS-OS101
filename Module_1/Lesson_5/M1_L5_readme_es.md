@@ -140,7 +140,7 @@ En el Módulo 2, te presentaremos algunas de las herramientas que no sólo hacen
 
 A lo largo del proceso de investigación, habrá diferentes productos y resultados obtenidos. Estos pueden ir desde conjuntos de datos (en inglés, data sets), muestras, código, informes, manuscritos, actas de conferencia, entradas de blog y videos. Cada uno de ellos tiene diferentes consideraciones sobre cómo hacerlas incluyendo cómo pueden hacerse de formas abiertas y colaborativas.
 
-También hay diferentes maneras de dirigir un proyecto científico. ¿Su proyecto va a ser abierto desde el comienzo o abierto en la publicación? Hay razones válidas para ambas actitudes, pero generalmente lo antes que abras los datos, el código y los resultados, más oportunidades hay para hacer crecer las redes de colaboración y construir con otros (lo que es bastante divertido). A menudo los investigadores eligen ser abiertos dentro de sus equipos de proyecto durante el desarrollo, el intercambio de datos, el código, y los resultados, pero sólo abren el proyecto al mundo una vez que sienten que tienen un resultado en el que pueden confiar. Si bien este enfoque ha sido la “norma” cultural dentro de muchas comunidades, esto está cambiando a medida que los grupos se sienten más cómodos con la apertura temprana en los proyectos y experimentan contribuciones valiosas de otras personas y se construyen nuevas redes de colaboración.
+También hay diferentes maneras de dirigir un proyecto científico. ¿Su proyecto va a ser abierto desde el comienzo o abierto en la publicación? Hay razones válidas para ambas actitudes, pero generalmente lo antes que abras los datos, el código y los resultados, más oportunidades hay para hacer crecer las redes de colaboración y construir con otros (lo que es bastante divertido). A menudo los investigadores eligen ser abiertos dentro de sus equipos de proyecto durante el desarrollo, el intercambio de datos, el código, y los resultados, pero sólo abren el proyecto al mundo una vez que sienten que tienen un resultado en el que pueden confiar. Si bien este enfoque ha sido la “norma” cultural dentro de muchas comunidades, esto está cambiando a medida que los grupos se sienten más cómodos con la apertura temprana en los proyectos y obtienen contribuciones valiosas de otras personas y se construyen nuevas redes de colaboración.
 
 Los módulos 3, 4 y 5 abordarán cómo generar tus datos, código y resultados abiertos.
 
@@ -208,7 +208,7 @@ Veamos qué resultados abiertos fueron producidos,  y mientras lo hacemos, echem
     <tbody>
         <tr>
             <td>Oportunidad</td>
-            <td>Crear un Plan de "Gobernanza": Un código abierto de conducta y una política de publicación que resalten las reglas de compromiso con el resultado final.</td>
+            <td>Crear un plan de "gobernanza": Un código abierto de conducta y una política de publicación que resalten las reglas del compromiso con el resultado final.</td>
         </tr>
         <tr>
             <td>Beneficios</td>
@@ -228,11 +228,11 @@ Veamos qué resultados abiertos fueron producidos,  y mientras lo hacemos, echem
     </tbody>
 </table>
 
-Una de las partes más importantes de la puesta en marcha de un proyecto es pensar quién va a trabajar en él y cómo trabajarán juntos los participantes. Antes de que se recojan las muestras, antes de que se descarguen los datos, antes de que se escriba el código - ¿cómo trabajarán todos juntos, cuáles son los roles y responsabilidades, y cómo y cuándo se compartirán los materiales. Esa fue una parte clave que acertó. este proyecto del JWST.
+Una de las partes más importantes de la puesta en marcha de un proyecto es pensar quienes van a trabajar en él y cómo trabajarán juntos. Antes de que se recojan las muestras, antes de que se descarguen los datos, antes de que se escriba el código - ¿cómo trabajarán todos juntos, cuáles son los roles y responsabilidades, y cómo y cuándo se compartirán los materiales?. Esa fue una parte clave que acertó. este proyecto del JWST.
 
 El equipo inicial, durante la fase de planificación, desarrolló y publicó abiertamente información en forma del [código de conducta](https://ers-transit.github.io/code-of-conduct.html) y la [política de publicación](https://ers-transit.github.io/documents/publication-policy-v1.0.pdf).
 
-Básicamente, pueden trabajar con nosotros, pero aquí están nuestras normas. Y luego los científicos líderes hablaron de esto regularmente con el equipo, especialmente a medida que este se expandió para que todo el mundo supiera lo que se esperaba de ellos y lo que obtendrían a cambio (¡crédito!).
+Básicamente, pueden trabajar con nosotros, pero aquí están nuestras normas. Y luego los científicos a cargo del proyecto hablaron de esto regularmente con el equipo, especialmente a medida que este se expandió, para que todo el mundo supiera lo que se esperaba de ellos y lo que obtendrían a cambio (¡crédito!).
 
 El resultado y el beneficio de publicar esta información fue la adición de nuevos miembros al equipo, y una cultura colaborativa e inclusiva acordada y establecida entre el equipo.
 
@@ -242,7 +242,7 @@ El equipo creció hasta casi 400 personas, todos trabajando juntos, todos sabien
 
 [HAZ CLIC PARA APRENDER MÁS](https://opensciency.github.io/sprint-content/open-results/lesson4-opportunities-and-credits.html)
 
-### Software de Código Abierto\*\*
+### Software de código abierto\*\*
 
 <img src="../images/media/image6.jpg" style="width: 100%; height: auto;" />
 
@@ -258,12 +258,12 @@ El equipo creció hasta casi 400 personas, todos trabajando juntos, todos sabien
             <td>Colaboración en una cadena de producción de software abierto para procesamiento de datos</td>
         </tr>
         <tr>
-            <td>Beneficios</td>
+            <td>Beneficio</td>
             <td>Disminución de esfuerzos duplicados, los colaboradores reciben reconocimiento por su trabajo y se acelera el proceso de preparación de datos</td>
         </tr>
         <tr>
             <td>Resultados</td>
-            <td>Cadena de producción de procesamiento de datos</td>
+            <td>Cadena de procesamiento de datos</td>
         </tr>
         <tr>
             <td>Disponibilidad</td>
