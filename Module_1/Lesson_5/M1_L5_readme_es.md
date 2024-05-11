@@ -168,7 +168,7 @@ Tómate un momento para responder las siguientes preguntas sobre tu investigaci�
 - ¿Cuáles son las herramientas y los procesos que actualmente utilizas? ¿Es fácil incluir a otras personas en la colaboración?
 - ¿Cómo se comparte o se planea compartir tu trabajo? ¿Puede alguien acceder a tus resultados?
 
-## Estudio de Caso: Los resultados de un Plan Abierto
+## Caso: Los resultados de un Plan Abierto
 
 <img style="width:100%;height:auto;" src="../images/media/natashaquote.jpg">
 
@@ -178,8 +178,7 @@ Los principios rectores de ciencia abierta de la NASA están centrados en nuestr
 
 ---
 
-Uno de los primeros [descubrimientos del telescopio espacial James Webb
-fue la primera detección de dióxido de carbono en la atmósfera de un planeta que orbitaba a otra estrella](https://www. asa.gov/feature/goddard/2022/nasa-s-webb-detects-carbon-dioxide-in-exoplanet-atmosphere). Este descubrimiento fue posible gracias a los principios ciencia abierta adoptados tanto por el proyecto como por el equipo.
+Uno de los primeros [descubrimientos del telescopio espacial James Webb fue la primera detección de Dióxido de Carbono en la atmósfera de un planeta que orbitaba a otra estrella](https://www.nasa.gov/feature/goddard/2022/nasa-s-webb-detects-carbon-dioxide-in-exoplanet-atmosphere). Este descubrimiento fue posible gracias a los principios ciencia abierta adoptados tanto por el proyecto como por el equipo.
 
 <img src="../images/media/image255.jpg" style="width: 100%; height: auto;" />
 
@@ -187,14 +186,14 @@ Crédito de la imagen: @AdobeStock 2023, dimazel
 
 <img src="../images/media/atmocomp.jpg" style="width: 100%; height: auto;" />
 
-Crédito de la Figura: NASA, ESA, CSA, Joseph Olmsted (STScI)
+Crédito de la figura: NASA, ESA, CSA, Joseph Olmsted (STScI)
 
 ---
 
 Esto se llevó a cabo como parte del Programa JWST Early Release Science (ERS) como parte del programa JWST ERS Exoplanet Transiting Community program (ERS-TRANSIT). Se trata de algunos de los primeros datos científicos que se tomaron con las instalaciones
 y que se pusieron disponibles de forma abierta. Sin embargo, el equipo comenzó su trabajo años antes de las observaciones e incluyó la ciencia abierta en cada etapa del proceso. El equipo trabajó en un formato abierto desde la ideación hasta el análisis, pasando por la publicación y la comunicación.
 
-Veamos qué resultados abiertos fueron producidos , y mientras lo hacemos, echemos un vistazo a las ventajas de hacerlo en cada etapa.
+Veamos qué resultados abiertos fueron producidos,  y mientras lo hacemos, echemos un vistazo a las ventajas de hacerlo en cada etapa.
 
 ### Planificando para hacer Ciencia Abierta
 
