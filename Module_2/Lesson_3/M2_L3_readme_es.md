@@ -7,7 +7,7 @@
 - [Herramientas para ayudar a planificar la creación de datos abiertos](#herramientas-para-ayudar-a-planificar-la-creación-de-datos-abiertos)
 - [Herramientas para ayudar con el uso y la creación de datos abiertos](#herramientas-para-ayudar-con-el-uso-y-la-creación-de-datos-abiertos)
 - [Lección 3: Resumen](#lección-3-resumen)
-- [Lección 3: Revisión De Conocimientos](#lesson-3-knowledge-check)
+- [Lección 3: Evaluación](#lección-3-evaluación)
 
 ## Descripción general
 
@@ -26,7 +26,7 @@ Al finalizar esta lección deberías ser capaz de:
 
 Los datos son una parte importante de la investigación científica y ¿por qué no lo serían? Son información para las herramientas que usamos, las historias que leemos y las decisiones que tomamos a diario.
 
-Por ejemplo, el [Servicio de Gestión de Emergencias de Copernicus](https://emergency.copernicus. u/) (en inglés, _Copernicus Emergency Management Service_), de acceso abierto e implementado por la Comisión Europea, produce datos de acceso abierto 24/7, que son recogidos por los satélites de la Agencia Espacial Europea (ESA, por las siglas en inglés de _European Space Agency_) y la NASA para producir mapas que den información para los esfuerzos en la preparación y la respuesta a desastres en todo el mundo. Este es sólo un ejemplo entre muchos otros que demuestran el valor de los datos, particularmente los datos públicos y abiertos, en nuestra vida cotidiana y por el bien público.
+Por ejemplo, el [Servicio de Gestión de Emergencias de Copernicus](https://emergency.copernicus.eu/) (en inglés, _Copernicus Emergency Management Service_), de acceso abierto e implementado por la Comisión Europea, produce datos de acceso abierto 24/7, que son recogidos por los satélites de la Agencia Espacial Europea (ESA, por las siglas en inglés de _European Space Agency_) y la NASA para producir mapas que den información para los esfuerzos en la preparación y la respuesta a desastres en todo el mundo. Este es sólo un ejemplo entre muchos otros que demuestran el valor de los datos, particularmente los datos públicos y abiertos, en nuestra vida cotidiana y por el bien público.
 
 Los datos compartidos abiertamente en la investigación científica aportan un valor enorme a la comunidad científica y más allá, desde las comunidades indígenas hasta las poblaciones urbanas. Antes de entender el impacto general de los datos, veamos primero qué son los datos en el contexto de la investigación científica. Específicamente, discutiremos la definición y las características de los datos abiertos.
 
@@ -49,11 +49,11 @@ Las siguientes secciones discuten formas de asegurar que los datos sean totalmen
 
 Al igual que al conducir en una carretera, si todo el mundo sigue las normas acordadas, todo va mucho mejor. Las reglas no necesitan ser exactamente las mismas en todas las regiones, sino compartir prácticas comunes basadas en información sobre seguridad y eficiencia.
 
-Por ejemplo, puede que conduzcas en el lado izquierdo o en el lado derecho de la carretera. Los dos están bien, esos detalles deben decidirlos las diferentes comunidades. Sin embargo, existen pautas generales compartidas por comunidades de todo el mundo, como la regla de conducir en la carretera y no en la acera, usar una señal de giro cuando sea apropiado, respetar los semáforos que dirigen el tráfico en los cruces de calles y seguir los límites de velocidad. Algunas comunidades pueden aplicar reglas más estrictas que otras, o ponerlas en práctica de forma diferente, pero estas pautas ayudan a todo el mundo a moverse de forma segura a través de un acierdo común sobre cómo conducir por las carreteras. Para los datos científicos, estas pautas son los principios Encontrable (_Findable_), Accesible (_Accesible_), Interoperable (_Interoperable_) y Reutilizable (_Reusable_), llamados Principios FAIR por sus siglas en inglés. Hacen por los datos lo que su título sugiere. Es decir, estos principios permiten a las demás personas (y a ustedes) encontrar, obtener, entender y usar correctamente los datos.
+Por ejemplo, puede que conduzcas en el lado izquierdo o en el lado derecho de la carretera. Los dos están bien, esos detalles deben decidirlos las diferentes comunidades. Sin embargo, existen pautas generales compartidas por comunidades de todo el mundo, como la regla de conducir en la carretera y no en la acera, usar una señal de giro cuando sea apropiado, respetar los semáforos que dirigen el tráfico en los cruces de calles y seguir los límites de velocidad. Algunas comunidades pueden aplicar reglas más estrictas que otras, o ponerlas en práctica de forma diferente, pero estas pautas ayudan a todo el mundo a moverse de forma segura a través de un acierdo común sobre cómo conducir por las carreteras. Para los datos científicos, estas pautas son los principios Fácil de encontrar (_Findable_), Accesible (_Accesible_), Interoperable (_Interoperable_) y Reutilizable (_Reusable_), llamados Principios FAIR por sus siglas en inglés. Hacen por los datos lo que su título sugiere. Es decir, estos principios permiten a las demás personas (y a ustedes) encontrar, obtener, entender y usar correctamente los datos.
 
-**Encontrable**:
+**Fácil de encontrar**:
 
-Para ser [encontrable:](https://www.go-fair.org/fair-principles/f1-meta-data-assigned-globally-unique-persistent-identifiers/)
+Para ser [fácil de encontrar:](https://www.go-fair.org/fair-principles/f1-meta-data-assigned-globally-unique-persistent-identifiers/)
 
 - Se asigna a los datos y a los resultados un identificador único y persistente a nivel global.
 - Los datos se describen con metadatos ricos.
