@@ -432,7 +432,7 @@ Discutiremos cada componente (datos, software y resultados) cuando cubramos cada
 
 ### Diseña Tu Ciencia para que sea Abierta
 
-Las organizaciones y agencias de financiación de todo el mundo están empezando a requerir planes científicos abiertos. En este plan de estudios, nos centraremos en el Plan de Ciencia Abierta y Gestión de Datos de la NASA (PCAGD) (en inglés, Open Science and Data Management Plan, OSDMP). Los planes de ciencia abierta no son exclusivos de la NASA. Sin embargo, saber cómo escribir uno para esta agencia debería prepararte para casi cualquier oportunidad de financiamiento.
+Organizaciones y agencias de financiamiento alrededor del mundo están empezando a exigir planes de ciencia abierta. En este plan de estudios, nos centraremos en el Plan de Ciencia Abierta y Gestión de Datos de la NASA (PCAGD) (en inglés, Open Science and Data Management Plan, OSDMP). Los planes de ciencia abierta no son exclusivos de la NASA. Sin embargo, saber cómo escribir uno para esta agencia debería prepararte para casi cualquier oportunidad de financiamiento.
 
 El PCAGD describe cómo se gestionará y se pondrá a disposición abiertamente la información que se producirá a partir de actividades científicas. Específicamente, un plan de estas características debe incluir secciones sobre gestión de datos, gestión de software y compartición de publicaciones. Si tu estudio tiene otros tipos de salidas, como muestras físicas, hardware o cualquier otra cosa, también debes incluirlas en el plan. Un PCAGD ayuda a los investigadores a pensar en los detalles de planificación para compartir resultados.
 
