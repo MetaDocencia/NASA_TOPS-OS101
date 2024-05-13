@@ -4,9 +4,9 @@
 
 - [Introducción a los datos abiertos](#introduction-to-open-data)
 - [Principios FAIR](#principios-FAIR)
-- [Herramientas para ayudar a planificar la creación de datos abiertos](#tools-to-help-with-planning-for-open-data-creation)
-- [Herramientas para ayudar con el uso y la creación de datos abiertos](#tools-to-help-with-using-and-making-open-data)
-- [Lección 3: Resumen](#lesson-3-summary)
+- [Herramientas para ayudar a planificar la creación de datos abiertos](#herramientas-para-ayudar-a-planificar-la-creación-de-datos-abiertos)
+- [Herramientas para ayudar con el uso y la creación de datos abiertos](#herramientas-para-ayudar-con-el-uso-y-la-creación-de-datos-abiertos)
+- [Lección 3: Resumen](#lección-3-resumen)
 - [Lección 3: Revisión De Conocimientos](#lesson-3-knowledge-check)
 
 ## Descripción general
