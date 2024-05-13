@@ -29,11 +29,11 @@ Selecciona el término para ver la descripción.
 
 **Código abierto** - Programas informáticos cuyo código fuente está a disposición del público en general para su uso o modificación a partir de su diseño original. Más información [aquí](https://en.wikipedia.org/wiki/Open_source)
 
-**Acceso abierto** - Acceso gratuito para todas las personas y uso sin restricciones de  la información y de los recursos.  Más información [aquí].
+**Acceso abierto** - Acceso gratuito para todas las personas y uso sin restricciones de  la información y de los recursos.  Más información [aquí.](https://en.unesco.org/open-access/what-open-access)
 
 **Interdisciplinario** – Combinar múltiples [disciplinas académicas](https://en.wikipedia.org/wiki/Academic_discipline) en  una misma actividad, como, por ejemplo, un proyecto de investigación. Más información [aquí].(https://en.wikipedia.org/wiki/Interdisciplinarity)
 
-**Equitativo** -  Más información [aquí].(https://www.who.int/health-topics/health-equity)
+**Equitativo** - Indica la ausencia de diferencias injustas, evitables o remediables entre grupos de personas, tanto si esos grupos se definen social, económica, demográfica o geográficamente como por otras dimensiones de desigualdad (por ejemplo, sexo, género, etnia, discapacidad u orientación sexual). Más información [aquí].(https://www.who.int/health-topics/health-equity)
 
 **Ciencia ciudadana o ciencia comunitaria** - La práctica de la participación ciudadana y la colaboración comunitaria en la investigación para aumentar el conocimiento científico. Más información [aquí].(https://education.nationalgeographic.org/resource/citizen-science/)
 
