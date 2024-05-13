@@ -434,7 +434,7 @@ Discutiremos cada componente (datos, software y resultados) cuando cubramos cada
 
 Organizaciones y agencias de financiamiento alrededor del mundo están empezando a exigir planes de ciencia abierta. En este plan de estudios, nos centraremos en el Plan de Ciencia Abierta y Gestión de Datos de la NASA (PCAGD) (en inglés, Open Science and Data Management Plan, OSDMP). Los planes de ciencia abierta no son exclusivos de la NASA. Sin embargo, saber cómo escribir uno para esta agencia debería prepararte para casi cualquier oportunidad de financiamiento.
 
-El PCAGD describe cómo se gestionará y se pondrá a disposición abiertamente la información que se producirá a partir de actividades científicas. Específicamente, un plan de estas características debe incluir secciones sobre gestión de datos, gestión de software y compartición de publicaciones. Si tu estudio tiene otros tipos de salidas, como muestras físicas, hardware o cualquier otra cosa, también debes incluirlas en el plan. Un PCAGD ayuda a los investigadores a pensar en los detalles de planificación para compartir resultados.
+El PCAGD describe cómo se gestiona y se pone a disposición del público la información que se produce a partir de actividad científica. Específicamente, un plan de estas características debe incluir secciones sobre gestión de datos, gestión de software y difusión de publicaciones. Si su estudio tiene otros tipos de resultados, tales como muestras físicas, hardware o cualquier otra cosa, debe incluirlos en el plan. Un PCAGD ayuda a los investigadores a pensar en los detalles sobre la forma en que planean compartir los resultados.
 
 ¡Un PCAGD bien escrito puede ayudarte a obtener financiamiento porque demuestra tus habilidades para hacer ciencia abierta!
 
@@ -444,7 +444,7 @@ Secciones de ejemplo para incluir en un PCAGD:
 
 1. Plan de Gestión de Datos (PGD) (en inglés, Data Managemente Plan, DMP)
 2. Plan de Gestión de Software (PGS) (en inglés, Software Management Plan, SMP)
-3. Publicaciones compartidas
+3. Difusión de Publicaciones
 4. Otras actividades de ciencia abierta
 5. Roles y responsabilidades
 
@@ -457,21 +457,21 @@ Los pasos para cada una de estas secciones deben incluir:
 - ¿Dónde?
   - Los repositorios y archivos que se utilizarán para compartir materiales
 - ¿Cómo?
-  - Los detalles de permiso para la reutilización de materiales (por ejemplo, licencias, documentación, metadatos)
+  - Los procedimientos de permiso para la reutilización de materiales (por ejemplo, licencias, documentación, metadatos)
 - ¿Quién?
   - Roles y responsabilidades de los miembros del equipo
 
 ### Plan de Gestión de Datos
 
-Las principales fundaciones y agencias de gobierno exigen en la actualidad que los científicos presenten un Plan de Gestión de Datos (PGD) junto con la propuesta de su plan de investigación. Los datos y otros elementos, como el código y las publicaciones, tienen su propio ciclo de vida y flujo de trabajo, que deben estar incluidos en el plan. Los PGD son un aspecto crítico de la ciencia abierta y ayudan a mantener a otros investigadores informados y encaminados durante todo el ciclo de vida de la gestión de datos.
+Las principales fundaciones y agencias de gobierno exigen en la actualidad que los científicos presenten un Plan de Gestión de Datos (PGD) junto con la propuesta de su plan de investigación. Los datos y otros elementos, como el código y las publicaciones, tienen su propio ciclo de vida y flujo de trabajo, que deben estar incluidos en el plan. Los PGD son un aspecto crítico de la ciencia abierta y ayudan a mantener a otros investigadores informados y encaminados durante todo el ciclo de la gestión de datos.
 
 Los PGD que tienen éxito suelen incluir una terminología clara sobre los principios FAIR y CARE y cómo se aplicarán.
 
-El ciclo de vida de la gestión de datos es típicamente circular. Los datos de la investigación son valiosos y reutilizables mucho después de que finaliza el apoyo financiero del proyecto. La reutilización de datos puede extenderse más allá de nuestra propia vida. Por lo tanto, al diseñar un proyecto o respaldar un corpus de datos existente, debemos ser conscientes de lo que sucede con los datos una vez finalizada nuestra propia interacción de investigación.
+El ciclo de vida de la gestión de datos es típicamente circular. Los datos de la investigación son de gran valor y se pueden reutilizar mucho tiempo después de que finalice el proyecto. La reutilización de datos puede extenderse más allá de nuestra propia vida. Por lo tanto, al diseñar un proyecto o respaldar un corpus de datos existente, debemos ser conscientes de lo que sucede con los datos una vez finalizada nuestra propia relación con la investigación.
 
 Los planes de gestión de datos suelen incluir lo siguiente:
 
-- Descripciones de los datos que se esperan producir a partir de las actividades propuestas, incluidos los tipos de datos que se producirán, la cantidad aproximada de cada tipo de datos esperado, el formato legible por máquina de los datos, el formato del archivo de datos y cualquier estándar aplicable a los datos o metadatos asociados.
+- La descripción de los datos que se espera producir a partir de las actividades propuestas, incluyendo los tipos de datos que se producirán, la cantidad aproximada prevista para cada tipo de datos, el formato de lectura de los datos, el formato del archivo de datos y cualquier norma aplicable a los datos o metadatos asociados.
 - El repositorio (o repositorios) que se utilizará para archivar los datos y metadatos que surjan de las actividades y el cronograma para ponerlos a disposición del público.
 - Descripción de los tipos de datos que están sujetos a leyes, regulaciones o políticas relevantes que los excluyen de los requisitos de intercambio.
 - Roles y responsabilidades del personal del proyecto que garantizará la implementación de los planes de gestión de datos.
