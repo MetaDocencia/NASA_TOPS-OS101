@@ -43,7 +43,7 @@ Esta lección destaca los beneficios de la ciencia abierta a una amplia gama de 
 
 <img src="../images/media/image377.jpg" style="width: 100%; height: auto;" />
 
-Imagen: Existen muchos beneficios en la Ciencia Abierta. [CC-BY Danny Kingsley y Sarah Brown](https://blogs.uef.fi/ueflibrary-bors/benefits-and-challenges-of-open-science/).
+Imagen: Existen muchos beneficios en la Ciencia Abierta. [CC-BY Danny Kingsley y Sarah Brown](https://blogs.uef.fi/ueflibrary-bors/benefits-and-challenges-of-open-science/) (en inglés) @Contextualizacion_MetaDocencia.
 
 ## Beneficios para ti
 
