@@ -214,7 +214,7 @@ En esta lección, has aprendido:
 - Un ejemplo de cómo se pueden compartir los resultados abiertamente.
 - Que las herramientas de IA en desarrollo se están utilizando en todas las partes del flujo de trabajo científico, están cambiando rápidamente, y todavía quedan muchas preguntas abiertas sobre cómo y cuándo utilizarlas.
 
-## Lección 5: Verificación de conocimientos
+## Lección 5: Evaluación
 
 Responde las siguientes preguntas para poner a prueba lo que ha aprendido hasta ahora.
 
@@ -296,7 +296,7 @@ A lo largo de este plan de estudios, nos hemos centrado en las habilidades neces
 
 [CLICK PARA MAS INFORMACION](https://opensciency.github.io/sprint-content/)
 
-**Curso en línea abierto masivo (MOOC, por sus siglas en inglés) sobre Ciecia Abierta**
+**Curso online, masivo y abierto (MOOC, por sus siglas en inglés) de Ciencia Abierta**
 
 [CLICK PARA MAS INFORMACION](https://opensciencemooc.eu/)
 
