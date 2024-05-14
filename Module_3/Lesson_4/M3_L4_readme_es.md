@@ -97,7 +97,7 @@ Algunas consideraciones específicas que pueden prevenir que compartas tus datos
 - Propiedad Intelectual, patentes
 - Otras: por favor piensa sobre lo que estás compartiendo y cuáles son las implicancias de hacerlo (por ejemplo, ¿tienes el permiso de todas las personas involucradas?)
 
-En el primer módulo de este curso, enumeramos varias razones por las que ciertos productos de investigación no deben ser compartidos. Repasaremos algunas de estas razones y entraremos en detalle en algunas que son particularmente relevantes para los datos.
+En el primer módulo de este curso, enumeramos varias razones por las que ciertos productos de investigación no deben ser compartidos. Repasaremos algunas de estas razones y profundizaremos en algunas que son especialmente relevantes para los datos.
 
 ### Exportación y Consideraciones de Seguridad
 
@@ -141,8 +141,8 @@ Si aún no tienes un repositorio de datos en mente, ten en cuenta lo siguiente p
 - ¿Quien te financia requiere un repositorio de datos específico?
 - ¿Tu organización o institución recomienda un repositorio de datos específico?
 - ¿Existe un repositorio de dominio específico que sea ampliamente usado en tu área de investigación?
-- ¿El repositorio provée acceso abierto a los datos?
-- ¿Crées que las herramientas que ofrece el repositorio para descubrimiento y distribución de datos son apropiadas para tus datos y los principios FAIR?
+- ¿El repositorio provee acceso abierto a los datos?
+- ¿Crees que las herramientas que ofrece el repositorio para descubrimiento y distribución de datos son apropiadas para tus datos y los principios FAIR?
 - ¿El repositorio requiere financiamiento de tu proyecto, se ajusta con tu presupuesto y requiere mantenimiento constante más allá del ciclo de vida del proyecto?
 
 Encuentra y compara los servicios, beneficios y limitaciones de los repositorios que estás considerando. Cada repositorio tendrá sus propios procesos y requerimientos para aceptar y albergar tus datos dependiendo de su nivel de financiamiento, propósito y base de usuarios.
