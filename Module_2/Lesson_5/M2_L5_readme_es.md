@@ -43,56 +43,56 @@ Las preimpresiones (_preprints_) han adquirido especial relevancia durante la pa
 
 6. **No se trata de un reemplazo de la revisión por pares:** Aunque las preimpresiones (_preprints_) son herramientas valiosas para el intercambio y la colaboración temprana, no son un sustituto de una publicación formal revisada por pares. Las personas investigadoras y lectoras deben examinar las preimpresiones (_preprints_) sabiendo que no han sido sometidas al riguroso proceso de revisión por pares que ofrecen las revistas.
 
-Las preimpresiones (_preprints_) son típicamente alojadas en servidores de preimpresiones, dedicados a diferentes campos científicos. Los ejemplos incluyen: [arXiv](https://arxiv.org/) (física, matemática), [bioRxiv](https://www.biorxiv.org/) (biología), [medRxiv](https://www.medrxiv.org/) (medicina), y [muchos otros](https://en.wikipedia.org/wiki/List_of_preprint_repositories). Estas plataformas ayudan a organizar y facilitar el intercambio de preimpesiones (_preprints_). El Marco de Ciencia Abierta (MCA) (en inglés, _Open Science Framework_, [OSF) proporciona un servicio](https://osf.io/preprints/#!) para buscar en múltiples servidores de preimpresión.
+Las preimpresiones (_preprints_) son típicamente alojadas en servidores de preimpresiones, dedicados a diferentes campos científicos. Los ejemplos incluyen: [arXiv](https://arxiv.org/) (física, matemática), [bioRxiv](https://www.biorxiv.org/) (biología), [medRxiv](https://www.medrxiv.org/) (medicina), y [muchos otros](https://en.wikipedia.org/wiki/List_of_preprint_repositories). Estas plataformas ayudan a organizar y facilitar el intercambio de preimpesiones (_preprints_). El Marco de Ciencia Abierta (MCA), [_Open Science Framework_] (OSF en inglés) proporciona un servicio (https://osf.io/preprints/#!) (en inglés) para buscar en múltiples servidores de preimpresión.
 
-Recuerda que las preimpresiones desempeñan un papel importante en la ciencia abierta, al promover un intercambio rápido y transparente de los resultados de la investigación en diversos ámbitos científicos. Ofrecen una valiosa plataforma para que las personas que investigan difundan su trabajo y recopilen retroalimentación, lo que en última instancia hace avanzar el conocimiento científico.
+Recuerda que las preimpresiones (_preprints_) desempeñan un papel importante en la ciencia abierta, al promover un intercambio rápido y transparente de los resultados de la investigación en diversos ámbitos científicos. Ofrecen una valiosa plataforma para que las personas que investigan difundan su trabajo y recopilen retroalimentación, lo que en última instancia hace avanzar el conocimiento científico.
 
 ### Descubre un Diario de Acceso Abierto para compartir tus resultados
 
 Una forma habitual de compartir un artículo es elegir una revista que ya sea totalmente de acceso abierto y adoptar su licencia. Una forma de descubrir revistas abiertas es utilizando el Directorio de Revistas de Acceso Abierto (en inglés, _Directory of Open Access Journals, DOAJ_).
 
-Para identificar la mejor revista de acceso abierto, puedes usar el [Directorio de Revistas de Acceso Abierto](https://doaj. rg/) (DOAJ) que proporciona un índice de búsqueda de todos los artículos y revistas de acceso abierto conocidas. El DOAJ y su página web sinérgica, Sherpa Romeo, sirven como herramientas útiles en las primeras etapas de la planificación de la investigación para ayudar a una persona que investiga a determinar qué revistas hay que tener en cuenta cuando llegue el momento de publicar sus resultados.
+Para identificar la mejor revista de acceso abierto, puedes usar el [Directorio de Revistas de Acceso Abierto](https://doaj.org/) (DOAJ) (en inglés) que proporciona un índice de búsqueda de todos los artículos y revistas de acceso abierto conocidas. El DOAJ y su página web sinérgica, Sherpa Romeo, sirven como herramientas útiles en las primeras etapas de la planificación de la investigación para ayudar a una persona que investiga a determinar qué revistas hay que tener en cuenta cuando llegue el momento de publicar sus resultados.
 
 ![](../images/media/image44.jpeg)
 
-### Actividad 5.1: Identificar una Revista de Acceso Abierto
+### Actividad 5.1: Identificar una revista de acceso abierto
 
-Para familiarizarte más con el [DOAJ](https://doaj.org/), visita [https://doaj.org/](https://doaj.org/) y busca _The Astronomical Journal_, publicado por la Sociedad Astronómica (_Americana American Astronomical Society_). Una vez que selecciones la revista, podrás ver los costos de publicación, detalles sobre licencias, derechos de retención de autoría, tiempo de publicación y otros detalles.
+Para familiarizarte más con el [DOAJ](https://doaj.org/), visita [https://doaj.org/] (en inglés) y busca _The Astronomical Journal_, publicado por la Sociedad Astronómica (_Americana American Astronomical Society_). Una vez que selecciones la revista, podrás ver los costos de publicación, detalles sobre licencias, derechos de retención de autoría, tiempo de publicación y otros detalles.
 
 Una vez que hayas encontrado la revista, responde a las siguientes preguntas:
 
 1. ¿Cuándo empezó a publicar como acceso abierto?
 2. ¿Qué licencia se utiliza para las publicaciones?
-3. ¿Qué derechos conservan los autores sobre sus publicaciones?
+3. ¿Qué derechos conservan las personas responsables de la autoría sobre sus publicaciones?
 
 **Nota:** Si las publicaciones no tienen acceso abierto, la revista no aparecerá en los resultados de búsqueda. Además, como DOAJ aplica criterios estrictos para figurar en su directorio, tampoco es probable que encuentres editoriales depredadoras.
 
-## Herramientas para Reproducibilidad
+## Herramientas para reproducibilidad
 
 En esta lección, vamos a profundizar en algunas herramientas disponibles para reproducibilidad (computacional).
 
-### ¿Qué es la Reproducibilidad?
+### ¿Qué es la reproducibilidad?
 
-El [Informe de Academias Nacionales 2019](https://www.nationalacademies.org/our-work/reproducibility-and-replicability-in-science) definió la reproducibilidad como:
+El [Informe de Academias Nacionales 2019](https://www.nationalacademies.org/our-work/reproducibility-and-replicability-in-science) (en inglés) definió la reproducibilidad como:
 
 - Reproducibilidad significa obtener resultados computacionales consistentes usando los mismos datos de entrada (_inputs_), pasos computacionales, métodos, código y condiciones de análisis.
 - Replicabilidad significa obtener resultados coherentes en todos los estudios destinados a responder a la misma pregunta científica, cada uno de los cuales ha obtenido sus propios datos.
 
-La búsqueda de la reproducibilidad tiene como objetivo garantizar que las personas investigadoras obtengan el mismo resultado al seguir los mismos pasos, así como permitirles copiar un entorno y desarrollar un resultado editando dicho entorno para aplicarlo a un problema similar. Esta característica adicional ofrece a otros la posibilidad de basarse directamente en trabajos anteriores y obtener más ciencia con la misma cantidad de financiamiento.
+La búsqueda de la reproducibilidad tiene como objetivo garantizar que las personas investigadoras obtengan el mismo resultado al seguir los mismos pasos, así como permitirles copiar un entorno y desarrollar un resultado editando dicho entorno para aplicarlo a un problema similar. Esta característica adicional ofrece a otras pesonas la posibilidad de basarse directamente en trabajos anteriores y obtener más ciencia con la misma cantidad de financiamiento.
 
 Herramientas para apoyar la reproducibilidad en los resultados de investigación:
 
 - [Jupyter Notebooks](https://jupyter.org/) - Una aplicación web para crear y compartir documentos computacionales. Ofrece una experiencia sencilla, ágil y centrada en los documentos.
-- [Jupyter Books](https://jupyterbook.org/en/stable/intro.html) - Construye libros y documentos atractivos, y de calidad editorial, a partir de contenido computacional.
-- [R Markdown](https://rmarkdown.rstudio.com/) - Produce documentos totalmente reproducibles. Utiliza una interfaz de cuaderno productiva para entrelazar texto narrativo y código, y producir resultados con un formato elegante.
+- [Jupyter Books](https://jupyterbook.org/en/stable/intro.html) (en inglés)- Construye libros y documentos atractivos, y de calidad editorial, a partir de contenido computacional.
+- [R Markdown](https://rmarkdown.rstudio.com/) (en inglés)- Produce documentos totalmente reproducibles. Utiliza una interfaz de cuaderno productiva para entrelazar texto narrativo y código, y producir resultados con un formato elegante.
 - [Binder](https://mybinder.org/) - Crea entornos de computación personalizados que pueden ser compartidos y utilizados por muchas personas de manera remota.
-- [Quarto](https://quarto.org/) - Combina los cuadernos Jupyter con opciones flexibles para producir resultados de calidad en una amplia variedad de formatos.
+- [Quarto](https://quarto.org/) (en inglés) - Combina los cuadernos Jupyter con opciones flexibles para producir resultados de calidad en una amplia variedad de formatos.
 
-**Note:** Como habrás observado, muchas herramientas de ciencia abierta requieren conocimientos intermedios o avanzados en materia de datos e información y programación, especialmente si se trata de proyectos de investigación que requieren una programación intensiva. Una de las mejores maneras de aprender estas habilidades es a través del contacto con las comunidades respectivas, que a menudo proporcionan capacitación y tutoría.
+**Nota:** Como habrás observado, muchas herramientas de ciencia abierta requieren conocimientos intermedios o avanzados en materia de datos e información y programación, especialmente si se trata de proyectos de investigación que requieren una programación intensiva. Una de las mejores maneras de aprender estas habilidades es a través del contacto con las comunidades respectivas, que a menudo proporcionan capacitación y tutoría.
 
-## Herramientas Adicionales para Resultados Abiertos
+## Herramientas adicionales para resultados abiertos
 
-### Herramientas para la Gestión de Proyectos Abiertos
+### Herramientas para la gestión de proyectos abiertos
 
 Los avances de las últimas décadas en herramientas de gestión de proyectos de investigación y laboratorios han contribuido a satisfacer la creciente demanda de rapidez, innovación y transparencia en la ciencia. Tales herramientas se desarrollan para apoyar la colaboración, asegurar la integración de datos, automatizar procesos, crear flujos de trabajo y aumentar la productividad.
 
