@@ -174,7 +174,7 @@ La IA puede ayudarnos a usar y compartir la investigación. Puede actuar como un
   <tbody>
     <tr>
         <td colspan="2">
-            <p>Las herramientas de IA se pueden utilizar para generar texto, resumir materiales de fondo, desarrollar puntos clave, desarrollar imágenes y figuras, y conclusiones. Usar estas herramientas puede ayudar a las personas no nativas a comunicar ciencia en diferentes idiomas de manera más clara. Additionally, they could be helpful to develop plain-language summaries, blog posts, and social media posts.</p>
+            <p>Las herramientas de IA se pueden utilizar para generar texto, resumir materiales de fondo, desarrollar puntos clave, desarrollar imágenes y figuras, y conclusiones. Usar estas herramientas puede ayudar a las personas no nativas a comunicar ciencia en diferentes idiomas de manera más clara. Además, podrían ser útiles para desarrollar resúmenes en lenguaje plano, publicaciones en blogs y publicaciones en redes sociales.</p>
             <p>Los posibles inconvenientes al usar estas herramientas incluyen:</p>
             <ul>
             <li>Vea la lista anterior para una revisión de la literatura.</li>
@@ -200,7 +200,7 @@ que entregan información plagiada en violación de las licencias, así como tam
 
 En este momento, y por estas razones, las herramientas de IA generalmente no están permitidas en las solicitudes de becas o en la revisión por pares o en las actividades de revisión de propuestas.
 
-The National Institutes of Health (NIH) has prohibited "scientific peer reviewers from using natural language processors, large language models, or other generative Artificial Intelligence (AI) technologies for analyzing and formulating peer review critiques for grant applications and R&D contract proposals." Utilizar IA en el proceso de revisión por pares es una violación de la confidencialidad porque estas herramientas "no tienen garantía de dónde se enviarán, guardarán, verán o utilizarán los datos en el futuro." El uso de herramientas de IA para ayudar a redactar una crítica, o para ayudar a mejorar la gramática y la sintaxis de un borrador crítico, se consideran violaciones de la confidencialidad. Lee [política de IA de NIH](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-23-149.html) aquí.
+El Instituto Nacional de Salud (NIH, por sus siglas en inglés) ha prohibido "a los revisores científicos por pares usar procesadores de lenguaje natural, grandes modelos de lenguaje, u otras tecnologías generativas de Inteligencia Artificial (IA) para analizar y formular críticas de revisión por pares para solicitudes de subvenciones y propuestas de contratos de Investigación y Desarrollo." Utilizar IA en el proceso de revisión por pares es una violación de la confidencialidad porque estas herramientas "no tienen garantía de dónde se enviarán, guardarán, verán o utilizarán los datos en el futuro." El uso de herramientas de IA para ayudar a redactar una crítica, o para ayudar a mejorar la gramática y la sintaxis de un borrador crítico, se consideran violaciones de la confidencialidad. Lee [política de IA de NIH](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-23-149.html) aquí.
 
 Las herramientas de IA para la ciencia se desarrollan rápidamente. La comprensión de la comunidad científica de cómo usar IA de forma ética y segura se está desarrollando a medida que su uso en la investigación se expande rápidamente. Las pautas anteriores ofrecen una instantánea en el tiempo y probablemente seguirán evolucionando. Si eliges utilizar estas herramientas para la investigación científica, considera cuidadosamente cuánto confiar en ellas y cómo sus sesgos pueden impactar los resultados, como se advierte en [este artículo de la Nature](https://www.nature.com/articles/d41586-023-02980-0). Internet ha transformado el mundo y es probable que las herramientas de IA hagan lo mismo. Como con cualquier herramienta, es importante que se utilicen con el fin apropiado y de forma ética.
 
@@ -212,32 +212,32 @@ En esta lección, has aprendido:
 
 - Cómo incluir resultados abiertos en el Plan de ciencia abierta y gestión de datos (OSDMP, por sus siglas en inglés).
 - Un ejemplo de cómo se pueden compartir los resultados abiertamente.
-- That developing AI tools are being used in all parts of the scientific workflow, they are changing rapidly, and there are still many open questions about how and when to use them.
+- Que las herramientas de IA en desarrollo se están utilizando en todas las partes del flujo de trabajo científico, están cambiando rápidamente, y todavía quedan muchas preguntas abiertas sobre cómo y cuándo utilizarlas.
 
-## Lesson 5: Knowledge Check
+## Lección 5: Verificación de conocimientos
 
-Answer the following questions to test what you have learned so far.
+Responde las siguientes preguntas para poner a prueba lo que ha aprendido hasta ahora.
 
-_Question_
+**Pregunta**
 
 **01/03**
 
-Read the statement below and decide whether it's true or false.
+Lee la siguiente afirmación y decide si es verdadera o falsa.
 
-_It is a good idea to include plans in your OSDMP for making your results available in ways outside of traditional publishing, e.g. online blog posts or tutorials._
+_Es una buena idea incluir planes en tu Plan de Ciencia Abierta y Gestión de Datos (OSDMP, por sus siglas en inglés) para que tus resultados estén disponibles de formas distintas a las de publicación tradicional, por ejmplo publicaciones de blogs o tutoriales en línea._
 
-- True
-- False
+- Verdadero
+- Falso
 
-_Question_
+**Pregunta**
 
 **02/03**
 
-Which of the following aspects of AI are considered as benefits? Select all that apply.
+¿Cuál de los siguientes aspectos de IA se consideran como beneficios? Selecciona todos los que correspondan.
 
-- Personalized journal article recommendations based on your discipline and interests
-- Recommendations for data and software relevant to your science project
-- Potential introduction of bias
+- Recomendaciones personalizadas de artículos de revistas basadas en tu disciplina e intereses
+- Recomendaciones de datos y software relevantes para tu proyecto de ciencia
+- Introducción potencial de sesgos
 - Factual mistakes
 - Translation between languages
 
