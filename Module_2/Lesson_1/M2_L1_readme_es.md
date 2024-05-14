@@ -111,7 +111,7 @@ Cuando se comparte código abierto, con frecuencia se hace a través de una plat
 
 ### Compartir un artículo abierto
 
-Los investigadores pueden optar por publicar en una revista con licencia de acceso abierto. Para ello, puede utilizarse el Directorio de Revistas de Acceso Abierto (DOAJ) y encontrar revistas que ofrezcan esta opción. (Véase el Módulo 5 - Resultados Abiertos)
+Los investigadores pueden optar por publicar en una revista con licencia de acceso abierto. Para ello, puede utilizarse el Directorio de Revistas de Acceso Abierto (DOAJ) y encontrar revistas que ofrezcan esta opción. (Ver el Módulo 5 - Resultados Abiertos)
 
 ### Compartir Resultados Abiertos
 
@@ -156,7 +156,7 @@ En esta lección hemos aprendido:
 
 ## Lección 1: Validación de conocimientos
 
-Responda las siguientes preguntas para probar lo que Ud ha aprendido hasta ahora.
+Responda las siguientes preguntas para evaluar  lo que has aprendido hasta ahora.
 
 _Pregunta_
 
@@ -169,7 +169,7 @@ _La ciencia abierta es el principio y la práctica de lograr que los productos y
 - Verdadero
 - Falso
 
-Pregunta
+_Pregunta_
 
 02/03
 
@@ -180,16 +180,16 @@ Pregunta
 - Inclusion
 - Fechas
 - Codigo
-- Paper / Resumen / Trabajo
+- Manuscrito
 
 Pregunta
 
-03/03
+**03/03**
 
 ¿Cuál de los siguientes es un tipo de software? Seleccione todas las que correspondan.
 
 - Propósito general
-- Operacional e Infraestructura
+- Operacional y de Infraestructura
 - Modelado y Simulación
 - Análisis
 - Material
