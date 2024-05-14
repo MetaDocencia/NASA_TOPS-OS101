@@ -490,31 +490,31 @@ Componentes generales de un plan de gestión de software:
 
 Como mínimo, un plan de gestión de software para investigaciones financiadas debe incluir:
 
-- Descripción del software que se espera producir a partir de las actividades propuestas, incluidos los tipos de software que se producirán, cómo se desarrollará el software y el agregado de nuevas funciones o actualizaciones al software existente. Esto puede incluir las plataformas utilizadas para el desarrollo, la gestión de proyectos y las mejores prácticas basadas en la comunidad, como documentación, pruebas, dependencias y control de versiones.
+- Descripción del software que se espera producir a partir de las actividades propuestas, incluidos los tipos de software que se producirán, la forma en que se desarrollará el software y la incorporación de nuevas funciones o actualizaciones al software existente. Se pueden incluir las plataformas utilizadas para todo lo vinculado con el desarrollo, la gestión del proyecto y las buenas prácticas basadas en la comunidad, como la documentación, las pruebas, las dependencias y el control de versiones.
 - El(los) repositorio(s) que se utilizarán para archivar el software que surja de las actividades y el cronograma para ponerlo a disposición del público.
 - Descripción del software que está sujeto a leyes, regulaciones o políticas relevantes que los excluyen de los requisitos para ser compartido.
 - Roles y responsabilidades del personal del proyecto que garantizará la implementación del plan de gestión de software.
 
 ### Plan de Ciencia Abierta
 
-El PCAGD también debe describir otros procesos abiertos. Esto incluye los tipos de publicaciones que se esperan producir a partir de las actividades, incluidos manuscritos revisados por pares, informes técnicos, materiales de conferencias y libros. Además, debe especificar los métodos que se esperan utilizar para hacer las publicaciones accesibles al público.
+El PCAGD también debe describir otros procesos abiertos. Esto incluye los tipos de publicaciones que se esperan producir a partir de las actividades, como ser los artículos revisados por pares, los informes técnicos, las publicaciones en conferencias y libros. Además, debe especificar los métodos que se esperan utilizar para que las publicaciones puedan ser accesibles al público.
 
-Asimismo, esta sección también puede incluir una descripción de actividades de ciencia abierta adicionales asociadas con el proyecto. Esto puede comprender:
+Asimismo, esta sección también puede incluir una descripción de las actividades adicionales de ciencia abierta asociadas con el proyecto. Esto puede comprender:
 
-- Celebrar talleres y reuniones científicas de forma abierta para permitir una amplia participación.
-- Prerregistro de planes de investigación con antelación a la realización de actividades científicas.
-- Proporcionar al personal del proyecto capacitación o entrenamiento en ciencia abierta (si no se describe en otra parte de la propuesta).
-- Implementar prácticas que apoyen la inclusión de comunidades amplias y diversas en el proceso científico lo más cerca posible del inicio de las actividades de investigación (si no se describen en otra parte de una propuesta).
-- Integrar prácticas de ciencia abierta en las actividades de ciencia ciudadana.
-- Contribuir o participar en comunidades de ciencia abierta.
+- El llevar a cabo talleres y reuniones científicas de forma abierta para permitir una amplia participación.
+- El prerregistro de planes de investigación antes de realizar una actividad científica.
+- El proporcionar al personal del proyecto capacitación o entrenamiento en ciencia abierta (si no se describe en otra parte de la propuesta).
+- La implementación de prácticas que apoyen la inclusión de comunidades amplias y diversas en el proceso científico lo más cerca posible del inicio de las actividades de investigación (si no se describen en otra parte de una propuesta).
+- La integración de prácticas de ciencia abierta en las actividades de ciencia ciudadana.
+- El contribuir o participar en comunidades de ciencia abierta.
 
 ### Plan de Publicaciones
 
 El plan de publicaciones es una pieza crucial del PCAGD. Dicho plan posee las siguientes características:
 
-- Describe cómo se gestionarán, publicarán y conservarán los resultados; en otras palabras, cómo se comunicarán los hallazgos.
-- Incluye planes para charlas en conferencias, documentos técnicos, artículos de revistas revisados por pares, libros y otros documentos similares.
-- Está escrito de conformidad con las normas y reglamentos de su organización, así como de su fuente de financiación.
+- Describe cómo se gestionarán, publicarán y conservarán los resultados; en otras palabras, cómo se hará la difusión de los resultados.
+- Incluye la planificación de presentaciones en conferencias, documentos técnicos, artículos en revistas con evaluación de pares, libros y otros documentos similares.
+- Debe redactarse conforme a las normas y reglamentos de su organización, así como de su agencia de financiación.
 - Al igual que los planes de datos y software, sirve como marco fundamental para el proyecto de principio a fin.
 
 ### Ejemplos de Requerimientos para Planes de Gestión de Ciencia Abierta
