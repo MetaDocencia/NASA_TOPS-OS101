@@ -78,10 +78,10 @@ Los resultados capturan los distintos productos de investigación del proceso ci
 - Entradas de blog
 - Vídeos y podcasts
 - Publicaciones en redes sociales
-- Resúmenes y presentaciones de la conferencias
+- Resúmenes y presentaciones en congresos
 - Foros de debate
 
-Puede que estemos familiarizados con el ciclo de vida de la investigación, pero aún desconozcamos los tipos de resultados que pueden compartirse abiertamente a lo largo de este proceso. Al compartir resultados, es importante ser lo más abiertos posible, con el objetivo de aumentar la reproducibilidad, la accesibilidad y la inclusión de nuestra ciencia. A lo largo del ciclo de vida de la investigación existen múltiples oportunidades para compartir abiertamente diferentes resultados, y estos pueden dar lugar a nuevas colaboraciones y líneas de investigación. En el Módulo 5 - Resultados abiertos se ofrecen más detalles sobre el alcance de los resultados abiertos.
+Puede que estemos familiarizados con el ciclo de vida de la investigación, pero aún desconozcamos los tipos de resultados que pueden compartirse abiertamente a lo largo de este proceso. Al compartir resultados, es importante ser lo más abiertos posible, con el objetivo de aumentar la reproducibilidad, la accesibilidad y la inclusión de nuestra ciencia. A lo largo del ciclo de vida de la investigación existen múltiples oportunidades para compartir abiertamente diferentes resultados, y estos pueden dar lugar a nuevas colaboraciones y líneas de investigación. En el Módulo 5 - Resultados abiertos, se ofrecen más detalles sobre el alcance de los resultados abiertos.
 
 ## Usando herramientas para la Ciencia Abierta en la práctica
 
@@ -99,17 +99,17 @@ La práctica de compartir estos componentes puede darse en distintos grados de e
 
 ### Compartir los Datos Abiertos
 
-Los datos pueden compartirse fácilmente a través de muchos servicios diferentes. La mejor forma de compartir datos científicos suele ser a través de un repositorio de datos a largo plazo que preserve los datos y los haga accesibles. La imagen ofrece algunas consideraciones a la hora de compartir los datos a través de [Zenodo](https://zenodo.org/), un repositorio de datos generalista. Estas consideraciones serían similares para otros repositorios de datos. En el Módulo 3 - Datos abiertos se brinda más información sobre la puesta en común de datos abiertos.
+Los datos pueden compartirse fácilmente a través de muchos servicios diferentes. La mejor forma de compartirlos suele ser a través de un repositorio de datos a largo plazo que preserve los datos y los haga accesibles. La imagen ofrece algunas consideraciones a la hora de compartir los datos a través de [Zenodo](https://zenodo.org/), un repositorio de datos generalista. Estas consideraciones serían similares para otros repositorios de datos. En el Módulo 3 - Datos abiertos, para obtener más detalles sobre cómo compartir datos abiertos.
 
 <img src="../images/media/image8.png" style="width:100%;height:auto;" />
 
-### Compartir Código Abierto
+### Compartir código abierto
 
-Cuando se comparte código abierto, con frecuencia se hace a través de una plataforma en línea de control de versiones que permite a otros contribuir al software y proporciona un historial de cambios en el mismo. Por ejemplo, muchos investigadores optan por publicar archivos de código en [GitHub](https://github.com/) con una licencia BSD de 3 cláusulas. Esto permite a otros contribuir y reutilizar el software. Los pasos para preservar el código y hacerlo accesible se tratan en el Módulo 4 - Código Abierto.
+Cuando se comparte código abierto, con frecuencia se hace a través de una plataforma en línea de control de versiones que permite a otros contribuir al software y proporciona un historial de cambios en el mismo. Por ejemplo, muchos investigadores optan por publicar archivos de código en [GitHub](https://github.com/) con una licencia BSD (de 3 cláusulas). Esto permite a otros contribuir y reutilizar el software. Los pasos para preservar el código y hacerlo accesible se tratan en el Módulo 4 - Código Abierto.
 
  <img src="../images/media/image9.png" style="width:100%;height:auto;" />
 
-### Compartir un Artículo Abierto
+### Compartir un artículo abierto
 
 Los investigadores pueden optar por publicar en una revista con licencia de acceso abierto. Para ello, puede utilizarse el Directorio de Revistas de Acceso Abierto (DOAJ) y encontrar revistas que ofrezcan esta opción. (Véase el Módulo 5 - Resultados Abiertos)
 
