@@ -9,7 +9,7 @@
 
 ## Descripción general
 
-En esta lección revisaremos la definición de ciencia abierta y algunos otros términos comunes, incluyendo productos de investigación, datos, software y resultados. Además, veremos ejemplos del uso en la práctica estas herramientas científicas abiertas. Para terminar, veremos el ejemplo de un grupo que compartió abiertamente sus datos, resultados, software y publicación científica.
+En esta lección revisaremos la definición de ciencia abierta y algunos otros términos comunes, incluyendo productos de investigación, datos, software y resultados. Además, veremos ejemplos del uso en la práctica estas herramientas científicas abiertas. La lección concluye con un ejemplo de cómo un grupo compartió sus datos, resultados, software y artículo de forma abierta.
 
 ## Objetivos de aprendizaje
 
@@ -40,14 +40,14 @@ El conocimiento científico, o los productos de investigación, toman la forma d
 
 <img src="../images/media/image6.png" style="width:350px;height:auto;" />
 
-En general, los datos son fragmentos de información sobre un tema, incluidas verdades teóricas, mediciones en bruto o valores muy procesados.
+En general, los datos son fragmentos de información sobre un tema, incluidas verdades teóricas, mediciones en bruto o valores altamente procesados.
 
 Incluso puede haber datos sobre los datos, denominados metadatos. En nuestras clases, cuando hablamos de datos nos referimos a información científica o técnicamente relevante que puede almacenarse digitalmente y a la que se puede acceder electrónicamente, como por ejemplo:
 
 - Información producida por misiones y experimentos, incluidas calibraciones, coeficientes y documentación
 - Información necesaria para validar las conclusiones científicas de las publicaciones revisadas por pares
 
-Los datos abiertos pueden tener muchas características, como metadatos ricos y sólidos, y estar disponibles en diversos formatos. Estas características se detallan más adelante en este módulo, y se desarrollan más en el módulo sobre Datos Abiertos.
+Los datos abiertos pueden tener muchas características, incluyendo metadatos nutridos y sólidos, y estar disponibles en una variedad de formatos. Estas características se detallan más adelante en este módulo, y se desarrollan aún más en el módulo sobre Datos Abiertos.
 
 ### ¿Qué es el Código?
 
