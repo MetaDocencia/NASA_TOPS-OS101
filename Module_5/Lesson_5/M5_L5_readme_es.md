@@ -238,87 +238,86 @@ _Es una buena idea incluir planes en tu Plan de Ciencia Abierta y Gestión de Da
 - Recomendaciones personalizadas de artículos de revistas basadas en tu disciplina e intereses
 - Recomendaciones de datos y software relevantes para tu proyecto de ciencia
 - Introducción potencial de sesgos
-- Factual mistakes
-- Translation between languages
+- Errores de Fin
+- Traducción entre idiomas
 
-_Question_
+**Pregunta**
 
 **03/03**
 
-Which of the following are steps you can take to share your open results online? Let's assume that, like the activity, you are sharing an interactive visualization.
+¿Cuáles de los siguientes son los pasos que puede tomar para compartir sus resultados abiertos en línea? Supongamos que, al igual que la actividad, estás compartiendo una visualización interactiva.
 
-- Host your project in a public GitHub repository
-- Assign an open license
-- Add a code of conduct to the GitHub repository
-- Add a user manual
-- Release your project on public repositories that assign DOIs
-- All of the above
+- Organiza tu proyecto en un repositorio público de GitHub
+- Asignar una licencia abierta
+- Añadir un código de conducta al repositorio de GitHub
+- Añadir un manual de usuario
+- Publica tu proyecto en los repositorios públicos que asignan DOIs
+- Todas las anteriores
 
-## Open Results Summary
+## Resumen acerca Datos Abiertos
 
-### Moving Toward an Open, Collaborative, and Inclusive Scientiﬁc Future
+### Avanzar hacia un futuro científico, abierto, colaborativo e inclusivo
 
-Science is meant to benefit society. Sharing our science helps ensure that it benefits society and informs the decisions of the public and policymakers, especially when funded by public agencies or governments. Going back to the 'Ethos of Open Science' module:
+La ciencia tiene como objetivo beneficiar a la sociedad. Compartir nuestra ciencia ayuda a garantizar que beneficie a la sociedad e informe de las decisiones del público y de los responsables de la formulación de políticas, especialmente cuando la financian agencias públicas o gobiernos. Volviendo al módulo 'Conjunto de Valores en Ciencia Abierta':
 
 <img src="../images/media/opensciencequote.jpg" style="width:100%;height:auto;" />
 
-"Open Science is the principle and practice of making research products and
-processes available to all, while respecting diverse cultures, maintaining security and privacy, and fostering collaborations, reproducibility, and equity"
+"La ciencia abierta es el principio y la práctica de lograr que los productos y procesos de investigación estén disponibles para todas las personas, mientras se respeta las diversas culturas, manteniendo la seguridad, privacidad, fomentando la colaboración, la reproducibilidad y la equidad"
 
 **https://open.science.gov/**
 
 ---
 
-Throughout this curriculum, we have focused on skills needed to make research products and processes available to all. The traditional practice of only sharing results limits insight into how science is done and may act to limit who can participate in science. By sharing your scientific process and working openly, you advance all of science in a more rapid and inclusive way. This curriculum will continue to evolve as science evolves and we welcome your contributions!
+A lo largo de este plan de estudios, nos hemos centrado en las habilidades necesarias para hacer que los productos y procesos de investigación estén a disposición de todas las personas. La práctica tradicional de compartir únicamente los resultados limita la visión de cómo se hace la ciencia y puede limitar quién puede participar en la ciencia. Al compartir tu proceso científico y trabajar abiertamente, avanza toda la ciencia de una manera más rápida e inclusiva. ¡Este plan de estudios continuará evolucionando a medida que evolucione la ciencia y agradecemos sus contribuciones!
 
-**Learn more about NASA's transformation to open science and join conversations following the link.**
+**Aprende más sobre la transformación de la NASA para abrir la ciencia y unirte a las conversaciones siguiendo el enlace.**
 
-[CLICK TO LEARN](https://nasa.github.io/Transform-to-Open-Science/)
+[CLICK PARA MAS INFORMACION](https://nasa.github.io/Transform-to-Open-Science/)
 
-## Open Science 101 Summary
+## Resumen Ciencia Abierta 101
 
-Congratulations! You have successfully completed Open Science 101! Thank you for taking the time to learn about open science - you are part of a broader movement to improve science and make our world better!
+¡Felicitaciones! ¡Has completado con éxito Ciencia Abierta 101! Gracias por tomarse el tiempo para aprender sobre la ciencia abierta ¡tu eres parte de un movimiento más amplio para mejorar la ciencia y hacer nuestro mundo mejor!
 
-Ready to learn more? Here are some great next steps:
+¿Listo para aprender más? Aquí hay algunos excelentes próximos pasos:
 
-### Learn more about and engage with TOPS!
+### ¡Aprenda más sobre y participe en TOPS!
 
-**TOPS website**
+**Sitio web TOPS**
 
-[CLICK TO LEARN](https://nasa.github.io/Transform-to-Open-Science/)
+[CLICK PARA MAS INFORMACION](https://nasa.github.io/Transform-to-Open-Science/)
 
-**TOPS GitHub Discussion Forum**
+\*\*Foro de discusión de GitHub TOPS \*\*
 
-[CLICK TO LEARN](https://github.com/nasa/Transform-to-Open-Science/discussions)
+[CLICK PARA MAS INFORMACION](https://github.com/nasa/Transform-to-Open-Science/discussions)
 
-### Learn more through online courses:
+### Aprende más a través de cursos en línea:
 
 **OpenSciency**
 
-[CLICK TO LEARN](https://opensciency.github.io/sprint-content/)
+[CLICK PARA MAS INFORMACION](https://opensciency.github.io/sprint-content/)
 
-**Open Science MOOC**
+**Curso en línea abierto masivo (MOOC, por sus siglas en inglés) sobre Ciecia Abierta**
 
-[CLICK TO LEARN](https://opensciencemooc.eu/)
+[CLICK PARA MAS INFORMACION](https://opensciencemooc.eu/)
 
-### Take your coding and data science skills to the next level!
+### ¡Lleva tus habilidades en programación y ciencias de datos al siguiente nivel!
 
 **Carpentries**
 
-[CLICK TO LEARN](https://carpentries.org/)
+[CLICK PARA MAS INFORMACION](https://carpentries.org/)
 
-### Read online guides and learn about ongoing open science community initiatives:
+### Lee guías en línea y aprende sobre las iniciativas en curso de la comunidad científica abierta:
 
 **The Turing Way**
 
-[CLICK TO LEARN](https://the-turing-way.netlify.app/index.html)
+[CLICK PARA MAS INFORMACION](https://the-turing-way.netlify.app/index.html)
 
-**Center for Open Science**
+**Centro de Ciencia Abierta**
 
-[CLICK TO LEARN](https://www.cos.io/)
+[CLICK PARA MAS INFORMACION](https://www.cos.io/)
 
 **Open Science NL**
 
-[CLICK TO LEARN](https://www.openscience.nl/en)
+[CLICK PARA MAS INFORMACION](https://www.openscience.nl/en)
 
-These are just a start - there are a lot more fantastic open science resources online! Keep your eye out for discipline-specific learning content that is currently being developed by NASA ScienceCore grantees, and that will be linked here once available!
+Estos son solo un comienzo: ¡hay muchos más recursos fantásticos de ciencia abierta en línea! ¡Mantente atento al contenido de aprendizaje de disciplinas específicas que están desarrollando actualmente los becarios de NASA ScienceCore, y que se vinculará aquí una vez que esté disponible!
