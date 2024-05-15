@@ -1,30 +1,30 @@
 # Lección 2: Herramientas generales para la ciencia abierta
 
-## Navegación
+## Contenidos
 
 - [Introducción a las herramientas de ciencia abierta](#introduccion-a-las-herramientas-de-ciencia-abierta)
 - [Identificadores persistentes](#identificadores-persistentes)
 - [Herramientas útiles de ciencia abierta](#herramientas-utiles-de-ciencia-abierta)
 - [Planes de ciencia abierta y gestión de datos](#planes-de-ciencia-abierta-y-gestion-de-datos)
 - [Lección 2: Resumen](#leccion-2-resumen)
-- [Lección 2: Validación de conocimientos](#leccion-2-validacion-conocimientos)
+- [Lección 2: Evaluación](#leccion-2-evaluacion)
 
 ## Descripción general
 
-Esta lección presenta las herramientas de mayor uso en ciencia abierta. Inicia brindando una breve introducción a las herramientas de ciencia abierta y describe identificadores persistentes, una de las herramientas de ciencia abierta más comunes que garantiza la reproducibilidad, la accesibilidad y el reconocimiento de los productos científicos. Le siguen descripciones de otras herramientas comunes de ciencia abierta que son aplicables independientemente de su campo de estudio. Esta lección concluye con una descripción de la ciencia abierta y los planes de gestión de datos, los cuáles son un componente clave para compartir su ciencia durante todo el proceso de investigación.
+Esta lección presenta las herramientas de mayor uso en ciencia abierta. Inicia brindando una breve introducción a las herramientas de ciencia abierta y describe identificadores persistentes, una de las herramientas de ciencia abierta más comunes que garantiza la reproducibilidad, la accesibilidad y el reconocimiento de los productos científicos. Le siguen descripciones de otras herramientas comunes de ciencia abierta que son aplicables independientemente de su campo de estudio. Esta lección concluye con una descripción de la ciencia abierta y los planes de gestión de datos, los cuáles son un componente clave para compartir tu ciencia durante todo el proceso de investigación.
 
 ## Objetivos de aprendizaje
 
 Después de completar esta lección, debería poder:
 
-- Recordemos la definición de herramientas de ciencia abierta.
+- Recordar la definición de herramientas de ciencia abierta.
 - Describir qué es un identificador persistente y dar un ejemplo.
 - Enumerar algunas herramientas científicas abiertas comúnmente utilizadas que respaldan la investigación.
 - Enumerar los componentes de un Plan de Ciencia Abierta y Gestión de Datos y lo que incluyen.
 
 ## Introducción a las herramientas de ciencia abierta
 
-La palabra "herramientas" se refiere a cualquier tipo de recurso o instrumento que pueda utilizarse para respaldar su investigación. En este sentido, las herramientas pueden ser una colección de recursos útiles que usted pueda consultar durante su investigación, software que usted podría utilizar para crear y gestionar sus datos o incluso la infraestructura humana, como una red comunitaria a la que usted se une para obtener más orientación y apoyo en asuntos específicos.
+La palabra "herramientas" se refiere a cualquier tipo de recurso o instrumento que pueda utilizarse para respaldar su investigación. En este sentido, las herramientas pueden ser una colección de recursos útiles que puedas consultar durante tu investigación, software que podrías utilizar para crear y gestionar tus datos o incluso la infraestructura humana, como una red comunitaria a la que puedas unirte para obtener más orientación y apoyo en asuntos específicos.
 
 En este contexto, las herramientas de ciencia abierta son cualquier herramienta que permita y facilite la apertura en la investigación y apoye prácticas responsables de ciencia abierta. Es importante señalar que las herramientas de ciencia abierta suelen ser de código abierto y/o de uso libre, pero no siempre es así.
 
@@ -32,7 +32,7 @@ Las herramientas de ciencia abierta se pueden utilizar para:
 
 - **Descubrimiento** - Herramientas de descubrmiento de información para utilizar en tu investigación.
 - **Análisis** - Herramientas para procesar los resultados de tu investigación, por ejemplo, herramientas para el análisis de datos y su visualización.
-- **Redacción** - Herramientas para producir contenidos, como planes de gestión de datos, presentaciones y preimpresos (_prepints_).
+- **Redacción** - Herramientas para producir contenidos, como planes de gestión de datos, presentaciones y preprints.
 - **Publicaciones** - Herramientas para compartir y/o conservar investigaciones.
 - **Divulgación** - Herramientas para promocionar tu investigación.
 
@@ -545,21 +545,21 @@ INSTITUTOS GLOBALES
 - Agencia Japonesa de Ciencia y Tecnología
   - [Acceso Abierto a Publicaciones de Investigación y Gestión de Datos de Investigación](https://www.jst.go.jp/EN/about/openscience/guideline_openscience_en_r4.pdf)
 
-Y recuerda, ¡la ciencia abierta tiene matices! Aunque uno de los principios de la ciencia abierta es compartir sus productos, no todos los productos pueden o deben compartirse. La organización o agencia de financiación puede especificar cómo los comparte. Al embarcarte en la adopción de la ciencia abierta para un proyecto, considera si el tema y el enfoque de tu proyecto permitirán compartirlo. Piensa en las siguientes preguntas:
+Y recuerda, ¡la ciencia abierta tiene matices! Aunque uno de los principios de la ciencia abierta es compartir sus productos, no todos los productos pueden o deben compartirse. La organización o agencia de financiación puede especificar cómo los comparte. Al adoptar los principios de la ciencia abierta para un proyecto, considera si el tema y el enfoque de tu proyecto son adecuados para ser compartidos. Piensa en las siguientes preguntas:
 
 - ¿Se pueden compartir los productos de la investigación?
 - ¿Quién te ayudó a obtener tus datos?
-- ¿Ellos se beneficiarán de la liberación?
+- ¿Se beneficiarán de la divulgación?
 - ¿Quién tiene la responsabilidad y autoridad de lo que sucede con los datos?
 - ¿Deberían compartirse los productos de la investigación?
 
-En los siguientes módulos encontrarás más detalles sobre cómo escribir estos planes para datos, código y resultados.
+En los siguientes módulos encontrarás más detalles sobre cómo redactar los planes de datos, códigos y resultados.
 
 ## Lección 2: Resumen
 
 En esta lección aprendimos:
 
-- La definición de herramientas científicas, ejemplos comunes y qué parte del flujo de trabajo científico pueden respaldar.
+- La definición de herramientas científicas, sus ejemplos más comunes y qué parte del proceso científico pueden ayudar.
 - La definición y el propósito de los identificadores persistentes. La utilidad de ORCID y DOI en el proceso científico.
 - Ejemplos de herramientas científicas abiertas útiles y comunes, como metadatos, documentación, repositorios y prerregistro.
 - Los pasos para redactar un plan de gestión de datos y ciencia abierta.
@@ -585,11 +585,11 @@ _Pregunta_
 
 Completa la afirmación:
 
-_Bien, metadatos claros _____._
+_Unos metadatos adecuados y precisos _____._
 
 Selecciona todas las que correspondan.
 
-- Mejoran la capacidad de búsqueda
+- Facilitan la búsqueda
 - Mejoran la accesibilidad
 - Mejoran la interoperabilidad
 - Mejoran la reutilización
