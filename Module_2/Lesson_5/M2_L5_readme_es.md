@@ -149,11 +149,11 @@ Algunos ejemplos de software de gestión de referencias son:
 
 ### _Zotero_
 
-Zotero ayuda a gestionar metadatos y citas de software, datos y publicaciones a través de una interfaz de arrastrar y soltar. El equipo investigador pueden utilizar la herramienta para generar automáticamente archivos de citas (por ejemplo, en formato BibTeX).
+Zotero ayuda a gestionar metadatos y citas de software, datos y publicaciones a través de una interfaz de arrastrar y soltar. El equipo investigador puede utilizar esta herramienta para generar automáticamente archivos de citas (por ejemplo, en formato BibTeX).
 
 - Código abierto
-- Arrastre y suelte archivos PDF para importar metadatos
-- Palabra + plugins del navegador
+- Arrastrar y soltar archivos PDF para importar metadatos
+- Word + plugins del navegador
 - Exportar citas a BibTeX
 
 <img src="../images/media/image53.jpeg" style="width:100%;height:auto;" />
@@ -166,7 +166,7 @@ En esta lección has aprendido:
 - Herramientas para la reproducibilidad y replicación de tus estudios.
 - Herramientas adicionales que están disponibles para ayudar a gestionar los resultados abiertos, incluyendo la gestión de proyectos y la gestión de referencias.
 
-## Lección 5: Revisión de conocimientos
+## Lección 5: Evaluación
 
 Responde las siguientes preguntas para poner a prueba lo que has aprendido hasta ahora.
 
