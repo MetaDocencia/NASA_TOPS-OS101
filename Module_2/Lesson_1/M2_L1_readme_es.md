@@ -99,7 +99,7 @@ La práctica de compartir estos componentes puede darse en distintos grados de e
 
 ### Compartir los Datos Abiertos
 
-Los datos pueden compartirse fácilmente a través de muchos servicios diferentes. La mejor forma de compartirlos suele ser a través de un repositorio de datos a largo plazo que preserve los datos y los haga accesibles. La imagen ofrece algunas consideraciones a la hora de compartir los datos a través de [Zenodo](https://zenodo.org/), un repositorio de datos generalista. Estas consideraciones serían similares para otros repositorios de datos. En el Módulo 3 - Datos abiertos, para obtener más detalles sobre cómo compartir datos abiertos.
+Los datos pueden compartirse fácilmente a través de muchos servicios diferentes. La mejor forma de compartirlos suele ser a través de un repositorio de datos a largo plazo que los preserve y los haga accesibles. La imagen ofrece algunas consideraciones a la hora de compartir datos a través de [Zenodo](https://zenodo.org/), un repositorio de datos generalista. Estas consideraciones serían similares para otros repositorios de datos. Ver el Módulo 3 - Datos abiertos, para obtener más detalles sobre cómo compartir datos abiertos.
 
 <img src="../images/media/image8.png" style="width:100%;height:auto;" />
 
