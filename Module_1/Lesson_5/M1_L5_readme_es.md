@@ -128,7 +128,7 @@ Continuando con el flujo de trabajo, este diagrama actualizado muestra ahora los
 
 La idea de que la ciencia abierta puede afectar a todo tu flujo de trabajo científico puede parecer abrumadora e inalcanzable, pero recuerda, la ciencia abierta se da a través de todo un espectro –incluso los pequeños pasos hacia la apertura conducen a una ciencia más accesible, inclusiva y reproducible. Y el programa Open Science 101 está aquí para ayudarte a atravesar este proceso.
 
-En esta sección, presentamos el sistema "Usar, Hacer, Compartir" que puede empezar a aumentar gradualmente tu adopción de la ciencia abierta dependiendo de la naturaleza y el alcance de tu proyecto. ¡A lo largo del curso, exploraremos cómo puede ser utilizado este marco para hacer tu ciencia más abierta!
+En esta sección, presentamos el sistema "Usar, Hacer, Compartir" que puede empezar a aumentar gradualmente tu adopción de la ciencia abierta dependiendo de la naturaleza y el alcance de tu proyecto. ¡A lo largo del curso, exploraremos cómo puede ser utilizado este marco de trabajo para hacer tu ciencia más abierta!
 
 ### ¿Qué recursos utilizarás?
 
