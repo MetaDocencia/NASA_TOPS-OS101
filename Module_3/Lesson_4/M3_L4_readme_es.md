@@ -158,18 +158,18 @@ La Casa Blanca presenta una buena descripción general de las características d
 Los buenos repositorios compartirán (u ofrecerán) sus datos abiertos a través de protocolos estándar, como HTTPS o SFTP. Las formas más habituales de hacerlo son:
 
 - Permitir a las personas usuarias la posibilidad de ver una lista de archivos en los que pueden hacer clic y descargar a través de una interfaz intuitiva.
-- Crear una API documentada para que quienes utilizan la herramienta generen una lista de enlaces de archivos que cumplan con los criterios de búsqueda y que se puedan descargar de forma automatizada (es decir, acceso a datos de máquina a máquina).
+- Crear una Interfaz de Programación de Aplicaciones (en inglés, _Application Programming Interface, API_) documentada para que quienes utilizan la herramienta generen una lista de enlaces de archivos que cumplan con los criterios de búsqueda y que se puedan descargar de forma automatizada (es decir, acceso a datos de máquina a máquina).
 
-Adicionalmente, los repositorios pueden requerir autorización y autentificación (por ejemplo, iniciar sesión con nombre de usuario/contraseñas) para acceder a los datos. Si bien esto está permitido según los principios FAIR, puede violar los principios de la Ciencia Abierta si no todas las personas pueden registrarse.
+Adicionalmente, los repositorios pueden requerir autorización y autentificación (por ejemplo, iniciar sesión con nombre de usuario/contraseñas) para acceder a los datos. Si bien esto está permitido según los principios FAIR (Fácil de encontrar, Accesible, Interoperable y Reutilizable), puede violar los principios de la Ciencia Abierta si no todas las personas pueden registrarse.
 
-### Trabajar con un repositorio
+### Trabajando con un repositorio
 
 <table>
   <thead>
     <tr>
         <th>COMENZAR A TRABAJAR CON UN REPOSITORIO ☑</th>
         <th>MANTENIMIENTO DE DATOS EN EL REPOSITORIO</th>
-        <th>ARCHIVAR DATOS EN EL REPOSITORIO</th>
+        <th>ARCHIVANDO DATOS EN EL REPOSITORIO</th>
     </tr>
   </thead>
   <tbody>
@@ -177,7 +177,7 @@ Adicionalmente, los repositorios pueden requerir autorización y autentificació
         <td colspan="3">
             <p>Los requisitos del repositorio pueden variar ampliamente. Revisa siempre los requisitos del repositorio para ver qué acciones necesitas llevar a cabo una vez cuando consideres empezar a trabajar con ellos. También ten en cuenta que algunos repositorios cuentan con personal que ayuda con el proceso de compartir datos, mientras que otros dependen de que sepas cómo compartir tus propios datos.</p>
             <p>Si utilizas un repositorio que tiene personal para ayudarte con el proceso, podrían solicitar revisar y comentar tu plan de gestión de datos.</p>
-            <p>El repositorio puede solicitar que realice algunas pruebas de su muestra de datos para evaluar:</p>
+            <p>El repositorio puede solicitar que realices algunas pruebas de tu muestra de datos para evaluar:</p>
             <ul>
             <li>Que el formato de datos que pretendes utilizar sea compatible.</li>
             <li>Que las variables del conjunto de datos estén nombradas como se espera.</li>
@@ -195,7 +195,7 @@ Adicionalmente, los repositorios pueden requerir autorización y autentificació
     <tr>
         <th>COMENZAR A TRABAJAR CON UN REPOSITORIO</th>
         <th>MANTENIMIENTO DE DATOS EN EL REPOSITORIO ☑</th>
-        <th>ARCHIVAR DATOS EN EL REPOSITORIO</th>
+        <th>ARCHIVANDO DATOS EN EL REPOSITORIO</th>
     </tr>
   </thead>
   <tbody>
