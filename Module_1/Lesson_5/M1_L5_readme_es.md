@@ -150,11 +150,11 @@ Los módulos 3, 4 y 5 abordarán cómo generar tus datos, código y resultados a
 
 Crédito de la imagen: Freepik.com
 
-Donde elijas compartir tus materiales y resultados de investigación tendrá una gran influencia en su impacto – cuán fácil sea para los demás encontrarlo, cuánto tiempo esté disponible, y lo fácil que sea reutilizarlo.
+Donde elijas compartir tus materiales y tus resultados de investigación tendrá una gran influencia en su impacto – cuán fácil será para los demás encontrarlo, cuánto tiempo estará disponible, y lo fácil que será reutilizarlo.
 
-¿Compartirás datos en un archivo lleno de columnas con números no etiquetados sin ninguna unidad o explicación o, en cambio, estará en un formato abierto y estándar, y siguiendo los [principios FAIR (Fácil de encontrar, Accesible, Interoperable y Reutilizable)](https://www.go-fair.org/fair-principles/)? El módulo 3 cuenta con más detalles para ayudarte a entender mejor cómo compartir tus datos y explica las ideas como FAIR (Encontrable, Accesible, Interoperable y Reutilizable), y buenas prácticas a la hora de compartir datos. Esto incluye diferentes consideraciones sobre dónde compartir tus datos, así como para que sea de manera accesible y preservada.
+¿Compartirás datos en un archivo lleno de columnas con números no etiquetados sin ninguna unidad o explicación o, en cambio, estará en un formato abierto y estándar, y siguiendo los [principios FAIR (Fácil de encontrar, Accesible, Interoperable y Reutilizable)](https://www.go-fair.org/fair-principles/)? El módulo 3 cuenta con más detalles para ayudarte a entender mejor cómo compartir tus datos y explica las ideas como FAIR, y buenas prácticas a la hora de compartir datos. Esto incluye diferentes consideraciones sobre dónde compartir tus datos, así como para que sea de manera accesible y preservada.
 
-Para el software, ya que a menudo se actualiza y cambia, muchos investigadores lo comparten primero en una plataforma con control de versiones como GitHub o GitLab, pero luego archivan una versión de la misma en un repositorio que tiene capacidades de preservación a largo plazo – ¡aprendé más sobre esto en el Módulo 4!
+En el caso del software, ya que a menudo se actualiza y cambia, muchos investigadores lo comparten primero en una plataforma con control de versiones como GitHub o GitLab, pero luego archivan una versión de la misma en un repositorio que tiene capacidades de preservación a largo plazo – ¡aprendé más sobre esto en el Módulo 4!
 
 En el caso de los resultados, las publicaciones de acceso abierto y los servidores de prepublicación son lugares comunes para compartirlos. El módulo 5 trata todas estas opciones.
 
@@ -172,13 +172,13 @@ Tómate un momento para responder las siguientes preguntas sobre tu investigaci�
 
 <img style="width:100%;height:auto;" src="../images/media/natashaquote.jpg">
 
-Los principios rectores de ciencia abierta de la NASA están centrados en nuestro trabajo de lanzamiento temprano de la ciencia (Early Release Science), apoyando un proceso científico inclusivo, transparente y colaborativo
+Las pautas de la ciencia abierta de la NASA están centradas en nuestro trabajo de Ciencia de temprana liberación (ERS, por sus siglas en inglés), apoyando un proceso científico inclusivo, transparente y colaborativo.
 
 **Coautora Dra. Natasha Batalha**
 
 ---
 
-Uno de los primeros [descubrimientos del telescopio espacial James Webb fue la primera detección de Dióxido de Carbono en la atmósfera de un planeta que orbitaba a otra estrella](https://www.nasa.gov/feature/goddard/2022/nasa-s-webb-detects-carbon-dioxide-in-exoplanet-atmosphere). Este descubrimiento fue posible gracias a los principios ciencia abierta adoptados tanto por el proyecto como por el equipo.
+Uno de los primeros [descubrimientos del telescopio espacial James Webb (JWST, por sus siglas en inglés) fue la primera detección de Dióxido de Carbono en la atmósfera de un planeta que orbitaba a otra estrella](https://www.nasa.gov/feature/goddard/2022/nasa-s-webb-detects-carbon-dioxide-in-exoplanet-atmosphere). Este descubrimiento fue posible gracias a los principios de la ciencia abierta adoptados tanto por el proyecto como por el equipo.
 
 <img src="../images/media/image255.jpg" style="width: 100%; height: auto;" />
 
@@ -190,7 +190,7 @@ Crédito de la figura: NASA, ESA, CSA, Joseph Olmsted (STScI)
 
 ---
 
-Esto se llevó a cabo como parte del Programa JWST Early Release Science (ERS) como parte del programa JWST ERS Exoplanet Transiting Community program (ERS-TRANSIT). Se trata de algunos de los primeros datos científicos que se tomaron con las instalaciones
+Esto se llevó a cabo como parte del Programa de Ciencia de Liberación Temprana (ERS, por sus siglas en inglés) del JWST como parte del programa de la Comunidad de Exoplanetas en Tránsito del JWST ERS (ERS-TRANSIT). Se trata de algunos de los primeros datos científicos que se tomaron con las instalaciones
 y que se pusieron disponibles de forma abierta. Sin embargo, el equipo comenzó su trabajo años antes de las observaciones e incluyó la ciencia abierta en cada etapa del proceso. El equipo trabajó en un formato abierto desde la ideación hasta el análisis, pasando por la publicación y la comunicación.
 
 Veamos qué resultados abiertos fueron producidos,  y mientras lo hacemos, echemos un vistazo a las ventajas de hacerlo en cada etapa.
@@ -211,11 +211,11 @@ Veamos qué resultados abiertos fueron producidos,  y mientras lo hacemos, echem
             <td>Crear un plan de "gobernanza": Un código abierto de conducta y una política de publicación que resalten las reglas del compromiso con el resultado final.</td>
         </tr>
         <tr>
-            <td>Beneficios</td>
+            <td>Beneficio</td>
             <td>Incorporación de nuevos miembros y facilitación de la colaboración.</td>
         </tr>
         <tr>
-            <td>Resultados</td>
+            <td>Resultado</td>
             <td>Código de conducta y política de publicación.</td>
         </tr>
         <tr>
@@ -228,7 +228,7 @@ Veamos qué resultados abiertos fueron producidos,  y mientras lo hacemos, echem
     </tbody>
 </table>
 
-Una de las partes más importantes de la puesta en marcha de un proyecto es pensar quienes van a trabajar en él y cómo trabajarán juntos. Antes de que se recojan las muestras, antes de que se descarguen los datos, antes de que se escriba el código - ¿cómo trabajarán todos juntos, cuáles son los roles y responsabilidades, y cómo y cuándo se compartirán los materiales?. Esa fue una parte clave que acertó. este proyecto del JWST.
+Una de las partes más importantes de la puesta en marcha de un proyecto es pensar quienes van a trabajar en él y cómo trabajarán juntos. Antes de que se recojan las muestras, antes de que se descarguen los datos, antes de que se escriba el código - ¿cómo trabajarán todos juntos, cuáles serán los roles y responsabilidades, y cómo y cuándo se compartirán los materiales?. Esa fue una parte clave que acertó. este proyecto del JWST.
 
 El equipo inicial, durante la fase de planificación, desarrolló y publicó abiertamente información en forma del [código de conducta](https://ers-transit.github.io/code-of-conduct.html) y la [política de publicación](https://ers-transit.github.io/documents/publication-policy-v1.0.pdf).
 
@@ -263,7 +263,7 @@ El equipo creció hasta casi 400 personas, todos trabajando juntos, todos sabien
         </tr>
         <tr>
             <td>Resultados</td>
-            <td>Cadena de procesamiento de datos</td>
+            <td>Ciclo de procesamiento de datos</td>
         </tr>
         <tr>
             <td>Disponibilidad</td>
@@ -275,12 +275,12 @@ El equipo creció hasta casi 400 personas, todos trabajando juntos, todos sabien
     </tbody>
 </table>
 
-Como la mayoría de los datos, JWST es complicado y necesita procesamiento y cadenad de producción de datos. La precisión necesaria para lograr este tipo de detección requiere un análisis detallado de las observaciones y una amplia gama de conocimientos.
+Como la mayoría de los datos, JWST es complicado y necesita procesamiento y ciclos de producción de datos. La precisión necesaria para lograr este tipo de detección requiere un análisis detallado de las observaciones y una amplia gama de conocimientos.
 
 Durante la fase de implementación, el equipo colaboró en la creación del software de procesamiento de datos, para que todos se beneficiaran. Imagínese el esfuerzo malgastado si las 400 personas hubieran escrito el software ellos mismos. El beneficio y el resultado fue que gracias a este esfuerzo de colaboración, el equipo disminuyó los esfuerzos duplicados, los colaboradores obtuvieron crédito por su trabajo, el software fue más preciso, y se aceleró el proceso de generación de datos. ¡EUREKA!, el software fue [creado de forma abierta](https://github.com/kevin218/Eureka)
 con [documentación](https://eurekadocs.readthedocs.io/en/latest/) y publicado con una [revision por pares del paquete de software.](https://joss.theoj.org/papers/10.21105/joss.04503)
 
-¡Pero no tuvieron que empezar de cero! El equipo ERS-TRANSIT fue capaz de construir sobre el trabajo de otros. El software construido con la [cadena de producción de software JWST](https://github.com/spacetelescope/jwst) fue desarrollado de forma abierta por el equipo de la misión JWST. Además, fueron capaces de construir un ecosistema de software de código abierto mucho más grande usando Python y Astropy.
+¡Pero no tuvieron que empezar de cero! El equipo ERS-TRANSIT fue capaz de construir sobre el trabajo de otros. El software construido con el [ciclo de procesamiento de software de JWST](https://github.com/spacetelescope/jwst) fue desarrollado de forma abierta por el equipo de la misión JWST. Además, fueron capaces de construir un ecosistema de software de código abierto mucho más grande usando Python y Astropy.
 
 ### Del Acceso Abierto a los Resultados
 
@@ -302,7 +302,7 @@ con [documentación](https://eurekadocs.readthedocs.io/en/latest/) y publicado c
             <td>Permite que los colaboradores reciban crédito individual por sus contribuciones, lo que proporciona un mayor incentivo para su participación</td>
         </tr>
         <tr>
-            <td>Resultados</td>
+            <td>Resultado</td>
             <td>Productos intermedios, modelos y datos finales</td>
         </tr>
         <tr>
