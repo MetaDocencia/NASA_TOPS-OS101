@@ -145,9 +145,9 @@ Si aún no tienes un repositorio de datos en mente, ten en cuenta lo siguiente p
 - ¿Crees que las herramientas que ofrece el repositorio para descubrimiento y distribución de datos son apropiadas para tus datos y los principios FAIR?
 - ¿El repositorio requiere financiamiento de tu proyecto, se ajusta con tu presupuesto y requiere mantenimiento constante más allá del ciclo de vida del proyecto?
 
-Encuentra y compara los servicios, beneficios y limitaciones de los repositorios que estás considerando. Cada repositorio tendrá sus propios procesos y requerimientos para aceptar y albergar tus datos dependiendo de su nivel de financiamiento, propósito y base de usuarios.
+Encuentra y compara los servicios, beneficios y limitaciones de los repositorios que estás considerando. Cada repositorio tendrá sus propios procesos y requerimientos para aceptar y albergar tus datos dependiendo de su nivel de financiamiento, propósito y base de personas usuarias.
 
-De la misma manera, cada repositorio proporcionará un conjunto diferente de funcionalidades y servicios dependiendo de su nivel de financiamiento, propósito y base de usuarios.
+De la misma manera, cada repositorio proporcionará un conjunto diferente de funcionalidades y servicios dependiendo de su nivel de financiamiento, propósito y base de personas usuarias.
 
 Los datos sensibles pueden tener procesos adicionales de anonimización o aceptación, o restricciones sobre quién puede acceder a los datos.
 
@@ -155,7 +155,7 @@ La Casa Blanca presenta una buena descripción general de las características d
 
 ### Garantizar la accesibilidad
 
-Los buenos repositorios compartirán (u ofrecerán) sus datos abiertos a través de protocolos estándar, como HTTPS o SFTP. Las formas comunes de hacer esto son:
+Los buenos repositorios compartirán (u ofrecerán) sus datos abiertos a través de protocolos estándar, como HTTPS o SFTP. Las formas más habituales de hacerlo son:
 
 - Permitir a las personas usuarias la posibilidad de ver una lista de archivos en los que pueden hacer clic y descargar a través de una interfaz intuitiva.
 - Crear una API documentada para que quienes utilizan la herramienta generen una lista de enlaces de archivos que cumplan con los criterios de búsqueda y que se puedan descargar de forma automatizada (es decir, acceso a datos de máquina a máquina).
