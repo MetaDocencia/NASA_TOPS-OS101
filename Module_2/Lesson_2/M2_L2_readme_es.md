@@ -46,24 +46,24 @@ Un identificador persistente digital (o _PID_ por sus siglas en inglés) es una 
 
 <img style="width:350px;height:auto;" src="../images/media/m2orcidlogo.jpg">
 
-El identificador único conocido como ORCID (Open Researcher and Contributor Identifier) pretende proporcionar información válida sobre la identidad de una persona. A continuación, se enlistan algunos detalles clave sobre los ORCID.
+El identificador único conocido como ORCID (en inglés, _Open Researcher and Contributor Identifier_) proporciona información válida sobre la identidad de una persona. A continuación, se enlistan algunos detalles clave sobre los ORCID.
 
 Un código numérico gratuito no propietario que:
 
 - Identifica de manera única y persistente a autores y colaboradores que participan en la producción de comunicaciones académicas.
 - Similar a los números de identificación fiscal para propósitos tributarios (dependiendo del país de residencia).
 
-Los ORCID se utilizan para vincular a los investigadores con sus investigaciones y productos relacionados con la investigación. Es un identificador único de 16 dígitos que describe a los investigadores individualmente. Este identificador se enlaza con diferentes organizaciones, incluyendo editoriales, para vincular productos de investigación, como artículos publicados, al perfil ORCID del investigador. Los ORCID están diseñados para preservarse a lo largo de la carrera profesional de una persona, y ayudan a evitar confusiones cuando la información sobre un investigador se actualiza con el tiempo (por ejemplo, cambio de carrera o de nombre). (cite: [https://orcid.org/](https://orcid.org/))
+Los ORCID se utilizan para vincular a los investigadores con sus investigaciones y productos relacionados con la investigación. Es un número de 16 dígitos que identifica individualmente a las personas investigan y que se integra con diferentes organizaciones, incluyendo editoriales, para vincular productos de investigación, como artículos publicados, al perfil ORCID de la persona investigadora. Los ORCID están diseñados para preservarse a lo largo de la carrera profesional de una persona, y ayudan a evitar confusiones cuando la información sobre la persona investigadora se actualiza con el tiempo (por ejemplo, cambio de carrera o de nombre). (cita: [https://orcid.org/](https://orcid.org/))
 
 Gran cantidad de editoriales, institutos académicos y organismos gubernamentales respaldan la utilización de ORCID. En 2023, ORCID reportó más de 1,300 organizaciones miembros y más de 9 millones de cuentas activas anuales. Puedes vincularlo con tu información profesional (afiliaciones, subvenciones, publicaciones, revisión por pares y más).
 
-### Digital Object Identifier (DOI)
+### Identificador de objeto digital (DOI)
 
-Un 'Identificador de Objeto Digital' o DOI es un identificador persistente utilizado para citar datos, software, artículos de revistas y otros tipos de medios (incluidos diapositivas de presentaciones, entradas de blogs, videos, logotipos, etc.).
+Un DOI (por las siglas en inglés de _Digital Object Identifier_) es un identificador persistente utilizado para citar datos, software, artículos de revistas y otros tipos de medios (incluidos diapositivas de presentaciones, entradas de blogs, videos, logotipos, etc.).
 
 A diferencia de las URLs, que suelen ser inconstantes o inestables, los DOI son referencias permanentes a documentos en internet. Dado a que un DOI es estático, cada nueva versión de datos o software que desees citar necesitará un nuevo DOI. Algunos proveedores de DOI permiten que un solo DOI refiera a "todas las versiones" del mismo objeto y a una serie de DOI individuales para cada versión específica. Normalmente, los individuos no pueden solicitar un DOI por sí mismos, sino que deben hacerlo a través de una organización intermediaria autorizada que pueda hacerlo por ellos.
 
-¡Crear un DOI para tu producto de investigación puede asegurar su perdurabilidad! Esto significa que si citas un DOI en un artículo de investigación, puedes estar seguro de que los futuros lectores podrán seguir esa cita hasta su fuente, incluso si los sitios web han cambiado completamente entretanto.
+¡Crear un DOI para tu producto de investigación puede asegurar su perdurabilidad! Esto significa que si citas un DOI en un artículo de investigación, puedes confiar en que quienes lo lean en el futuro podrán seguir esa cita hasta su fuente, incluso si los sitios web han cambiado completamente entretanto.
 
 Por ejemplo, el DOI: [10.5067/TERRA-AQUA/CERES/EBAF-TOA_L3B004.1](https://doi.org/10.5067/TERRA-AQUA/CERES/EBAF-TOA_L3B004.1) siempre resolverá en una página web que explica qué es el conjunto de datos CERES_EBAF-TOA_Edition4.1 y cómo descargarlo. (¡Mira la captura de pantalla abajo si tienes curiosidad por saber qué es realmente este conjunto de datos!)
 
@@ -93,11 +93,11 @@ En esta actividad debes buscar el DOI para un conjunto de datos o un software qu
 
 **Actividad para llevar: Encontrar y resolver un DOI**
 
-Esta actividad variará según el DOI que elija utilizar. Sin embargo, si has utilizado el ejemplo presentado, debería encontrar el DOI: 10.5067/TERRA-AQUA/CERES/EBAF-TOA_L3B004.1
+Esta actividad variará según el DOI que elijas utilizar. Sin embargo, si has utilizado el ejemplo presentado, debería encontrar el DOI: 10.5067/TERRA-AQUA/CERES/EBAF-TOA_L3B004.1
 
 Y después del paso 5, deberías volver a la página https://asdc.larc.nasa.gov/project/CERES/CERES_EBAF-TOA_Edition4.1
 
-Esto es lo fácil que debería ser para tus lectores encontrar y utilizar la información de citación que les proporciones.
+Esto es lo fácil que debería ser para quienes lean tus artículos encontrar y utilizar la información de citación que les proporciones.
 
 ### Ejemplos de Identificadores Persistentes (PID) en acción
 
@@ -114,7 +114,7 @@ Esto es lo fácil que debería ser para tus lectores encontrar y utilizar la inf
   <tbody>
     <tr>
         <td colspan="3">
-            <p>La necesidad de un identificador persistente (PID) comienza cuando un investigador escribe un código de programación. Para hacer posible la búsqueda del código, el investigador sube su código a un repositorio y registra un DOI para su script. Ahora otros pueden valorar, usar el código y citarlo correctamente.</p>
+            <p>La necesidad de un identificador persistente (PID) comienza cuando una persona investigadora escribe un código de programación. Para hacer posible la búsqueda del código, la persona investigadora sube su código a un repositorio y registra un DOI para su script. Ahora otros pueden valorar, usar el código y citarlo correctamente.</p>
         </td>
     </tr>
   </tbody>
@@ -131,7 +131,7 @@ Esto es lo fácil que debería ser para tus lectores encontrar y utilizar la inf
   <tbody>
     <tr>
         <td colspan="3">
-            <p>Un comité de planificación de un taller redacta de manera colaborativa un documento que resume los resultados de un taller. Recopilan los ORCID de todos los que participaron en el taller y los asientan en el documento. Finalmente, publican en una revista académica que automáticamente le asigna un DOI al artículo.</p>
+            <p>Un comité de planificación de un taller redacta de manera colaborativa un documento que resume los resultados de un taller. Recopilan los ORCID de todas las personas que participaron en el taller y los asientan en el documento. Finalmente, publican en una revista académica que automáticamente le asigna un DOI al artículo.</p>
         </td>
     </tr>
   </tbody>
@@ -148,7 +148,7 @@ Esto es lo fácil que debería ser para tus lectores encontrar y utilizar la inf
   <tbody>
     <tr>
         <td colspan="3">
-            <p>Un científico se presenta en una conferencia en línea y da una breve charla. Este deposita sus diapositivas en un repositorio en línea, luego crea un DOI para facilitar su difusión con algunos colegas y propiciar su correcta citación.</p>
+            <p>Una persona que hace ciencia se presenta en una conferencia en línea y da una breve charla. Esta deposita sus diapositivas en un repositorio en línea, luego crea un DOI para facilitar su difusión entre colegas y propiciar su correcta citación.</p>
         </td>
     </tr>
   </tbody>
