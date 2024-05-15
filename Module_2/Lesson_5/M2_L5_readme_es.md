@@ -98,9 +98,9 @@ Los avances de las últimas décadas en herramientas de gestión de proyectos de
 
 Los grupos de investigación pueden utilizar ahora herramientas de gestión de proyectos para esfuerzos muy especializados. Utilizan plataformas existentes o desarrollan su propio software para compartir materiales dentro del grupo y gestionar proyectos o tareas.
 
-Existen plataformas y herramientas perfectamente adaptadas a las necesidades (y frustraciones) de quienes investigan. A menudo han sido creadas por quienes hacen ciencia para quienes hacen ciencia. Para explorar algunos ejemplos, pasemos a la ciencia experimental.
+Existen plataformas y herramientas perfectamente adaptadas a las necesidades (y frustraciones) de quienes investigan. A menudo son creadas por las personas que hacen ciencia para quienes hacen ciencia. Para explorar algunos ejemplos, pasemos a la ciencia experimental.
 
-Un término y un resultado de investigación comúnmente utilizados son los protocolos. Un protocolo puede definirse como "un método de procedimiento predefinido escrito para el diseño y la realización de experimentos". Los protocolos se escriben siempre que es deseable estandarizar un método de laboratorio para garantizar la reproducción satisfactoria de los resultados por parte de otras personas del mismo laboratorio o de otros laboratorios", según la Guía de Investigación en Ciencias Biológicas de la Universidad de Delaware (EE. UU.).
+Un término y un resultado de investigación comúnmente utilizados son los protocolos. Un protocolo puede definirse como "un método escrito, predefinido, para realizar un procedimiento en el diseño e implementación de experimentos". Los protocolos se escriben siempre que es deseable estandarizar un método de laboratorio para garantizar la reproducción satisfactoria de los resultados por parte de otras personas del mismo laboratorio o de otros laboratorios", según la Guía de Investigación en Ciencias Biológicas de la Universidad de Delaware (EE. UU.).
 
 En un sentido más amplio, protocolo comprende flujos de trabajo informáticos documentados, procedimientos operativos con instrucciones paso a paso o incluso listas de comprobación de seguridad.
 
