@@ -168,7 +168,7 @@ Tómate un momento para responder las siguientes preguntas sobre tu investigaci�
 - ¿Cuáles son las herramientas y los procesos que actualmente utilizas? ¿Es fácil incluir a otras personas en la colaboración?
 - ¿Cómo se comparte o se planea compartir tu trabajo? ¿Puede alguien acceder a tus resultados?
 
-## Caso: Los resultados de un Plan Abierto
+## Caso: Los resultados de un plan abierto
 
 <img style="width:100%;height:auto;" src="../images/media/natashaquote.jpg">
 
