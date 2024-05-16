@@ -318,7 +318,7 @@ _Selecciona cada pestaña para obtener más información._
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Garantizar que los datos sean reutilizables por los miembros de tu comunidad:</p>
+            <p>Para garantizar que los datos sean reutilizables por los miembros de tu comunidad:</p>
             <ul>
                 <li>Asegúrate de que los metadatos describan con precisión los datos y sus variables, así como cualquier particularidad o limitación.</li>
                 <li>Especifica licencias de uso claras para tus datos.</li>
