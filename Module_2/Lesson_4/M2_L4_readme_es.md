@@ -473,7 +473,7 @@ Git/GitHub / GitLAB y Bitbucket son opciones populares para repositorios de soft
               <li>Es una ubicación para compartir código.</li>
               <li>Utilice a menudo sistemas de control de versiones como Git, Mercurial y Subversion para realizar un seguimiento de los cambios</li>
               <li>Por lo general, contiene la última versión de desarrollo (a veces denominada "maestra" o "troncal") de un proyecto de software, en la que los desarrolladores pueden trabajar activamente.</li>
-              <li>Se utiliza para el desarrollo colaborativo de software y el intercambio de código entre un equipo o una comunidad de desarrolladores.</li>
+              <li>Se utiliza para el desarrollo colaborativo de software y para compartir código entre un equipo o una comunidad de desarrolladores.</li>
             </ul>
             <p><strong>Nota importante:</strong> Un repositorio no es más que un lugar para alojar código. Hoy en día, un sistema de control de versiones y un repositorio suelen ser la misma cosa. Es importante entender la distinción. Sin embargo, algunos sitios web son puramente dropboxes para ejecutables de código o archivos zip de código fuente.</p>
         </td>
