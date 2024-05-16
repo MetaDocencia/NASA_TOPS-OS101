@@ -278,18 +278,18 @@ Una vez que estés en condiciones de enviar tus datos al repositorio, busca las 
 
 ### ¿Quién desarrollará la documentación de datos y los metadatos?
 
-Determinar quién trabajará con el repositorio, realizará el inventario de los datos, metadatos y documentación transferidos. Esta función podría incluir la tarea de completar los metadatos requeridos en las bases de datos para que los archivos sean fáciles de encontrar.
+Determinar quién trabajará con el repositorio, haga un inventario de los datos transferidos, los metadatos y la documentación. Esta función podría incluir la tarea de completar los metadatos requeridos en las bases de datos para que los archivos sean fáciles de encontrar.
 
 Es posible que algunas de estas tareas se puedan realizar a través de la interfaz del repositorio. Sin embargo, algunos tipos de repositorios pueden requerir que se interactúe con sus equipos de administración. Para este rol, determinar quién:
 
 - Proporcionará sugerencias para organizar el contenido de datos y logística.
 - Desarrollará los metadatos.
-- Desarrollará la documentación (por ejemplo, archivo LEEME o reporte)
+- Desarrollará la documentación (por ejemplo, el archivo LEEME o el reporte)
 - Extraerá metadatos de los archivos de datos, archivos de metadatos (si corresponde) y documentación para llenar la base de datos de metadatos y solicitará metadatos adicionales según sea necesario.
 
 ### ¿Quién ayudará con la reutilización de datos?
 
-Una vez que el repositorio haya puesto tus datos a disposición, alguien de tu equipo debe probar el acceso a los datos (su accesibilidad) y los métodos de distribución (su encontrabilidad). Si es posible, identificar quién trabajará con el repositorio para optimizar/modificar herramientas para un acceso humano intuitivo y estandarizar el acceso de máquinas. Este rol requiere alguien que:
+Una vez que el repositorio haya puesto tus datos a disposición, alguien de tu equipo debe probar el acceso a los datos (su accesibilidad) y los métodos de distribución (su disponibilidad). Si es posible, identificar quién trabajará con el repositorio para optimizar/modificar herramientas para un acceso humano intuitivo y estandarizar el acceso de máquinas. Este rol requiere alguien que:
 
 - Comunique claramente los protocolos abiertos necesarios para los datos/metadatos.
 - Proporcione casos de uso de datos reales a quien edita los datos, para que pueda optimizar y/o modificar herramientas de distribución de datos basadas en los metadatos disponibles.
@@ -299,7 +299,7 @@ Una vez que el repositorio haya puesto tus datos a disposición, alguien de tu e
 
 La publicación de los datos debe ser respetuosa con las comunidades que puedan estar involucradas. Esto significa pensar en temas de privacidad y sensibilidades culturales. Alguna persona del equipo se encargará de identificar y desarrollar orientación sobre:
 
-- Preocupaciones de privacidad y procesos de aprobación para su divulgación - ¿los datos están adecuadamente anonimizados?
+- Cuestiones de privacidad y procesos de aprobación para la publicación: ¿se han hecho correctamente anónimos los datos?
 - Cómo interactuar con las comunidades de referencia.
 - Cómo se pueden interpretar correctamente los datos.
 - ¿Existe alguna restricción de datos que pueda ser necesaria para garantizar que la publicación de los datos sea respetuosa con la comunidad a la que pertenecen? Por ejemplo, derechos colectivos e individuales para el consentimiento libre, previo e informado de recopilación y uso de dichos datos; incluida la elaboración de políticas y protocolos para la recolección de datos.
@@ -310,8 +310,8 @@ A continuación se exponen las conclusiones principales de esta lección:
 
 - ¿Cuándo se pueden compartir los datos? Determinar en qué punto de un proyecto tiene más sentido compartir nuestros datos. Recordar que no todos los datos pueden o deben compartirse.
 - ¿Dónde compartir los datos? Se recomienda compartir en un repositorio de datos público, hay muchos tipos de repositorios para elegir.
-- ¿Cómo permitir la reutilización de los datos? Asegúrese de que los metadatos sean apropiados y aceptados por la comunidad, asigne un DOI e información de citación, para asegurarse de que se pueda encontrar y citar fácilmente.
-- ¿Quién ayuda a compartir los datos? Hay muchos pasos en la creación y publicación de datos, y es importante pensar en quién será responsable de cada paso.
+- ¿Cómo permitir la reutilización de los datos? Asegúrese de que los metadatos sean apropiados y aceptados por la comunidad, asigne un DOI y elabore una referencia de citación para garantizar que se puede encontrar y citar fácilmente.
+- ¿Quién ayuda a compartir los datos? Hay muchos pasos en la creación y publicación de datos, es importante pensar en quién será responsable de cada paso.
 
 ## Lección 4: Evaluación
 
@@ -323,7 +323,7 @@ _Pregunta_
 
 Los datos no se pueden compartir si son:
 
-- De control de tráfico internacional de armas.
+- De control de tráfico internacional de armas (ITAR).
 - Información no clasificada controlada.
 - Sujeto a cuestiones de propiedad intelectual, derechos de autoría y licencias.
 - Todas las anteriores.
@@ -339,13 +339,13 @@ Es una buena práctica empezar a trabajar con un repositorio _____.
 - lo más pronto posible
 - Cuando se tienen datos de prueba listos
 - Después de obtener un DOI
-- Cuando esté listo para publicar sus datos
+- Cuando estés listo para publicar tus datos
 
 _Pregunta_
 
 **03/04**
 
-¿Cuál de las siguientes opciones podría ayudarte a obtener un DOI para tus datos?:
+¿Cuál de las siguientes opciones puede ayudarte a obtener un DOI para tus datos:
 
 - El repositorio con el que estás trabajando.
 - Tu organización de origen.
@@ -361,4 +361,4 @@ _Pregunta_
 - Desarrollar una guía sobre la privacidad y sensibilidad cultural de los datos.
 - Desarrollar la documentación de datos y los metadatos.
 - Asignar un DOI a los datos.
-- Verificar la integridad de los datos, metadatos y transferencia de documentación.
+- Verificar la integridad de los datos, metadatos y gestión de la documentación.
