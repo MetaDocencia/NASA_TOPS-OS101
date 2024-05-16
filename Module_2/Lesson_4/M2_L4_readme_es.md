@@ -414,7 +414,7 @@ Pros: (beneficios):
 
 - Alto poder computacional
 
-Cons: (Contras - Problemas):
+Contras: (Problemas):
 
 - Por lo general, es propiedad de una institución en particular y está administrada por ella; es posible que deba estar afiliado a esa institución para obtener acceso a su HPC
 - Es posible que tenga que esperar mucho tiempo para ejecutar el código, ya que normalmente se comparte entre muchas personas y grupos
@@ -429,10 +429,10 @@ Pros: (Beneficios):
 - Normalmente accesible para cualquier persona con conexión a Internet
 - Opciones de precios bajo demanda: solo tienes que pagar por lo que usas
 
-Cons: (Contras, Problemas):
+Contras: (Problemas):
 
 - Alto costo por cálculo
-- Falta de transparencia en los costos - Ej. puede costar mucho leer datos de diferentes regiones de la nube, pero es posible que no siempre quede claro en qué región se encuentran sus datos y su computadora de procesamiento
+- Falta de transparencia en los costos - Ej. leer datos de diferentes regiones de la nube puede costar mucho dinero, pero no siempre está claro en qué región se encuentran los datos y los cálculos
 - Puede requerir algún conocimiento adicional sobre cómo funciona trabajar, procesar, computar en la nube
 
 Ejemplos de proveedores de Clouding o Cloud Computing o Trabajar, procesar, computar en la Nube:
