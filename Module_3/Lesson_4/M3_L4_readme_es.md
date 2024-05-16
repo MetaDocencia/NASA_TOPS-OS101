@@ -237,37 +237,37 @@ Por lo general, las personas no pueden solicitar un identificador de objeto digi
 - Tu organización
 - Quien realiza la edición (si el conjunto de datos es parte de una publicación)
 
-Los responsables de datos deberán facilitar información resumida para la página de inicio de DOI, si es necesario. Quiénes comparten datos deben tener en cuenta las sugerencias de los responsables de datos, cumplir las reglas de DOI y así crear las páginas de destino. Si es posible, debe reservarse un DOI antes de crear los datos.
+Los responsables de datos deberán facilitar información resumida para la página de inicio de DOI, si es necesario. Quiénes comparten datos deben tener en cuenta las sugerencias de los responsables de datos, cumplir las reglas de DOI y así crear las páginas de destino. Si es posible, debes reservar una DOI antes de generar tus datos.
 
-### Garantizar la encontrabilidad
+### Garantizar la facilidad de búsqueda
 
-Los repositorios se encargan del compartir, distribuir y curar datos. Algunos servicios adicionales que pueden ofrecer incluyen:
+Los repositorios se encargan de compartir, distribuir y conservar los datos. Algunos servicios adicionales que pueden ofrecer incluyen:
 
-- La asignación de un identificador persistente (como un DOI) a tu conjunto de datos.
-- Indexación y/o registro de tus datos y metadatos en varios servicios para que puedan ser buscados y encontrados en línea (esto es, a través de motores de búsqueda).
-- Provisión de retroalimentación a quienes crean datos para ayudarles a optimizar sus metadatos para facilitar su búsqueda.
-- Coordinación con quienes producen los datos para garantizar que los metadatos redirigen al DOI.
-- Asegurar que el DOI esté asociado con una página de destino con información sobre tus datos.
+- La asignación de un identificador persistente (como un DOI) a tu conjunto/colección/registro de datos.
+- La indexación y/o registro de tus datos y metadatos en diversos servicios para que se puedan buscar y encontrar en línea (es decir, a través de motores de búsqueda).
+- Proveer retroalimentación a los responsables de los datos para ayudarles a optimizar sus metadatos y facilitar su búsqueda.
+- Coordinación con los responsables de datos para garantizar que los metadatos hagan referencia al DOI.
+- Asegurarse que el DOI está asociado a una página de publicación de resultados con información sobre sus datos.
 
 ### Facilitar la cita de tus datos
 
-El objetivo es hacer que sea fácil citar tus datos. Las mejores prácticas incluyen:
+El objetivo es hacer práctico citar tus datos. Las mejores prácticas incluyen:
 
-- Incluir una enunciación de cita que contenga tu DOI.
-- Diferentes repositorios y revistas tienen diferentes estándares sobre cómo citar datos. Si tu repositorio lo fomenta, incluye un archivo .CFF con tus datos que explique cómo citarlos.
-- Identificar claramente a autores de datos y/o su institución en tu cita.
-  - Esto permite a quienes acceden a los datos ponerse en contacto con quienes los crearon si tienen preguntas o descubren problemas.
+- Incluir una enunciación/referencia de cita que contenga tu DOI.
+- Diferentes repositorios y revistas tienen diferentes estándares sobre cómo citar datos. Si tu repositorio lo permite, incluye un archivo .CFF con tus datos explicando cómo citarlos.
+- Identifique claramente a los responsables de los datos y/o a su institución en la cita.
+  - Esto permite a quienes acceden a los datos ponerse en contacto con los responsables si tienen preguntas o descubren problemas.
   - Incluir el ORCiD de cada autor de los datos cuando sea posible en la cita.
 
-Ahora que tus datos están en un repositorio, tienen una enunciación de cita y DOI, ¡publícalos para que sean reutilizables y recuérdales a quienes los usan que citen tus datos en sus trabajos!
+Ahora que tus datos están en un repositorio y tienen una referencia de cita y un DOI, publícalo entre tus usuarios y recuérdales que citen tus datos en sus trabajos.
 
 ## ¿Quién es responsable de compartir datos?
 
 Compartir datos abiertamente es un esfuerzo en equipo. Una parte importante de la planificación de los datos abiertos es planear y acordar las funciones y responsabilidades de quien garantizará la implementación del plan.
 
-Entonces, ¿qué hay que hacer? ¡Documentar estos roles y responsabilidades en tu Plan de Gestión de Datos ayudará al equipo a a mantenerse organizado y hacer ciencia más rápido! Un plan detallado y bien redactado debe incluir:
+Entonces, ¿qué hay que hacer? ¡Documentar estos roles y responsabilidades en tu Plan de Gestión de Datos ayudará al equipo a a mantenerse organizado y hacer ciencia más rápido! Un plan detallado y bien redactado debiera incluir:
 
-### ¿Quién moverá los datos al repositorio?
+### ¿Quién se encargará de almacenar los datos en un repositorio?
 
 Una vez que estés en condiciones de enviar tus datos al repositorio, busca las recomendaciones del mismo para cargar los datos. Determina quién trabajará con el repositorio para llevar a cabo los siguientes tipos de actividades:
 
