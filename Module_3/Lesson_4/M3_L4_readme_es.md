@@ -237,7 +237,7 @@ Por lo general, las personas no pueden solicitar un identificador de objeto digi
 - Tu organización
 - Quien realiza la edición (si el conjunto de datos es parte de una publicación)
 
-Las personas que crean conjuntos datos deben proporcionar información resumida sobre la(s) página(s) de destino de DOI si es necesario. Aquellas que comparten datos deben tener en cuenta las sugerencias de quienes los proveen, cumplir con las pautas del DOI y crear el enlace a la(s) página(s) de destino. Si es posible, debe reservarse un DOI antes de crear los datos.
+Los responsables de datos deberán facilitar información resumida para la página de inicio de DOI, si es necesario. Quiénes comparten datos deben tener en cuenta las sugerencias de los responsables de datos, cumplir las reglas de DOI y así crear las páginas de destino. Si es posible, debe reservarse un DOI antes de crear los datos.
 
 ### Garantizar la encontrabilidad
 
