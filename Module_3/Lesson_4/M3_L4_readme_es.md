@@ -202,7 +202,7 @@ Adicionalmente, los repositorios pueden requerir autorización y autentificació
     <tr>
         <td colspan="3">
             <p>A medida que avanzas en el ciclo de vida de tu proyecto, utiliza los procesos de actualización, revisión y reenvío de tu repositorio para mantener actualizados los archivos de datos. Cualquier nueva versión de los datos que desees compartir a través del repositorio tendrá que pasar por un proceso similar al del conjunto de datos inicial.</p>
-            <p>Todas las nuevas versiones del conjunto de datos que quieras compartir a través del repositorio deben someterse al mismo proceso de revisión del PGD, verificación de cumplimiento y procedimiento de carga que el conjunto de datos inicial.</p>
+            <p>Todas las nuevas versiones del conjunto de datos que quieras compartir a través del repositorio deben someterse al mismo proceso de revisión del Plan de Gestión de Datos (PGD) (en inglés, _Data Management Plan, DMP_)verificación de cumplimiento y procedimiento de carga que el conjunto de datos inicial.</p>
         </td>
     </tr>
   </tbody>
