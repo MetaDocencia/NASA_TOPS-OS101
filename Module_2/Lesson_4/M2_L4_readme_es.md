@@ -537,27 +537,27 @@ Herramienta que ayuda a los desarrolladores de software a gestionar y realizar u
   </tbody>
 </table>
 
-## Lección 4: Resumen Temario Desarrollo
+## Lección 4: Resumen
 
-En esta lección, aprendiste:
+En esta lección has aprendido:
 
 - La utilidad de las herramientas digitales que gestionan, fomentan la colaboración y albergan código abierto.
 - Cómo los sistemas de control de versiones como Git y plataformas como GitHub pueden aumentar la colaboración y la gestión del código.
 - Algunas herramientas comunes para editar código abierto, incluidos entornos de desarrollo integrados (IDE) como Visual Studio Code y Jupyter Notebooks.
 - La diferencia entre repositorios y archivos de software, y también cómo los contenedores de software pueden ayudar a compartir y reproducir el código.
 
-## Lección 4: Validación de conocimientos
+## Lección 4: Evaluación
 
-Responda las siguientes preguntas para poner a prueba lo que ha aprendido hasta ahora.
+Responda las siguientes preguntas para evaluar lo que has aprendido hasta ahora.
 
 _Pregunta_
 
 **01/03**
 
-¿Cuál NO es un beneficio para usar control de versiones y plataformas de control de versiones?
+¿Cuál de las siguientes NO es una ventaja de utilizar plataformas de control de versiones?
 
 - Capacidad para realizar un seguimiento de los cambios que se han realizado
-- No puedes volver atrás para hacer cambios
+- No se puede volver hacia atrás para hacer cambios
 - Facilidad de colaboración en el código, con otros
 - Directorio limpio y ordenado: no es necesario realizar varias copias de archivos
 - Un sistema de respaldo muy específico para su trabajo
