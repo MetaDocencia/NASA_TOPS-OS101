@@ -389,7 +389,7 @@ Sigue estos pasos:
 
 7. Tómate algo de tiempo para mirar un poco más de cerca el Cuaderno Computacional. Verás que hay texto (incluyendo encabezados, enlaces ¡e incluso una tabla justo al principio!), código y figuras integradas juntos Este es sólo un ejemplo de cómo los científicos utilizan cuadernos computacionales para su investigación.
 
-Puedes examinar más recursos de aprendizaje del Proyecto Pythia Python a través de su [Libro de Fundamentos] (https://foundations.projectpythia.org/landing-page.html), puedes ver ejemplos de flujos de trabajo de investigación avanzados en las geociencias que utilizan la computación. Jupyter Notebooks (que ellos llaman "[CookBooks o Guias Rapidas](https://cookbooks.projectpythia.org/)") para ver más ejemplos de cómo se utilizan los Jupyter Notebooks en la ciencia. Si estás interesado en las geociencias, ¡puedes contribuir con tu propio Jupyter Notebook, si tienes uno que quisieras compartir!
+Puedes examinar más recursos de aprendizaje del Proyecto Pythia Python a través de su [Libro de Fundamentos] (https://foundations.projectpythia.org/landing-page.html), puedes ver ejemplos más avanzados de flujos de trabajo de investigación en geociencias que utilizan la computación Jupyter Notebooks, (que ellos llaman "[CookBooks o Guias Rapidas](https://cookbooks.projectpythia.org/)") para ver más ejemplos de cómo se utilizan los Jupyter Notebooks en la ciencia. Si te interesan las geociencias, ¡puedes contribuir con tu propio Jupyter Notebook, en el caso de que tengas uno que quieras compartir!
 
 ### Plataformas de desarrollo
 
@@ -503,7 +503,7 @@ Git/GitHub / GitLAB y Bitbucket son opciones populares para repositorios de soft
 
 **Contenedores**
 
-Un contenedor de software es un paquete independiente y ejecutable que incluye todo lo necesario para ejecutar una pieza de software, incluido el código, el tiempo de ejecución, las herramientas del sistema, la configuración del entorno y las bibliotecas. Los contenedores son entornos aislados que contienen la aplicación y todo lo necesario para ejecutarla, lo que garantiza coherencia y portabilidad entre diferentes entornos informáticos. Un contenedor es una herramienta útil que puede proporcionar eficiencia, escalabilidad y facilidad de implementación. Algunos ejemplos de herramientas de contenedores ampliamente utilizadas son Kubernetes, Docker, y Apache Mesos.
+Un contenedor de software es un paquete independiente y ejecutable que incluye todo lo necesario para ejecutar una pieza de software, e incluye el código, el tiempo de ejecución, las herramientas del sistema, la configuración del entorno y las bibliotecas. Los contenedores son entornos aislados que contienen la aplicación y todo lo necesario para ejecutarla, lo que garantiza coherencia y portabilidad entre diferentes entornos informáticos. Un contenedor es una herramienta útil que puede proporcionar eficiencia, escalabilidad y facilidad de implementación. Algunos ejemplos de herramientas de contenedores ampliamente utilizadas son Kubernetes, Docker, y Apache Mesos.
 
 ### Actividad 4.2: Herramientas de combinación
 
