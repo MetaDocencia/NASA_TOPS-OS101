@@ -53,7 +53,7 @@ Una forma habitual de compartir un artículo es elegir una revista que ya sea to
 
 Para identificar la mejor revista de acceso abierto, puedes usar el [Directorio de Revistas de Acceso Abierto](https://doaj.org/) (DOAJ) (en inglés) que proporciona un índice de búsqueda de todos los artículos y revistas de acceso abierto conocidas. El DOAJ y su página web sinérgica, Sherpa Romeo, sirven como herramientas útiles en las primeras etapas de la planificación de la investigación para ayudar a una persona que investiga a determinar qué revistas hay que tener en cuenta cuando llegue el momento de publicar sus resultados.
 
-![](../images/media/image44.jpeg)
+![](../images/media/image51.jpeg)
 
 ### Actividad 5.1: Identificar una revista de acceso abierto
 
