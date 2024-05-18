@@ -368,7 +368,7 @@ _Pregunta_
 
 **01/03**
 
-¿Cuál de los siguientes métodos puede utilizarse para encontrar datos?
+¿Cuál de los siguientes métodos pueden utilizarse para encontrar datos?
 
 - Uso de términos de búsqueda apropiados
 - Investigar datos identificados por DOI en publicaciones
