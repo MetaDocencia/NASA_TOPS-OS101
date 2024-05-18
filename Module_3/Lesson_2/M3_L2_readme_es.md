@@ -200,7 +200,7 @@ _Seleccione cada pestaña para obtener más información._
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Los repositorios especializados (típicamente para datos de asuntos específicos de datos) proporcionan soporte e información sobre los estándares requeridos para metadatos y más.</p>
+            <p>Los repositorios especializados (normalmente para datos de temas específicos) ofrecen apoyo e información sobre las normas necesarias para metadatos y más.</p>
             <p>Algunos ejemplos son:</p>
             <ul>
                 <li>Astronomía: <a href="https://archive.stsci.edu/">Datos del telescopio Hubble</a></li>
@@ -224,7 +224,7 @@ _Seleccione cada pestaña para obtener más información._
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Muchas universidades y organizaciones apoyan la gestión de datos y de software de investigación con repositorios, conocidos como repositorios institucionales, para ayudar a sus investigadores con los requisitos de cumplimiento.</p>
+            <p>Muchas universidades y organizaciones apoyan la gestión de datos y de software de investigación con repositorios, conocidos como repositorios institucionales, que ayudan a sus investigadores con los requisitos reglamentarios.</p>
         </td>
     </tr>
   </tbody>
@@ -258,25 +258,25 @@ _Seleccione cada pestaña para obtener más información._
 
 - Ningún repositorio único, motor de búsqueda o buscador de publicaciones tendrá acceso a todos los datos abiertos disponibles.
 - Los términos de búsqueda pueden no ser consistentes en todas las fuentes o campos de la ciencia.
-- Es esencial familiarizarse con las nomenclaturas estándar y los términos de metadatos apropiados para la aplicación.
+- Es esencial familiarizarse con la nomenclaturas estándar y con los términos de metadatos apropiados para la aplicación.
 - No existe una receta infalible. Es posible que sea necesario probar numerosos términos y fuentes de datos antes de encontrar datos relevantes.
 
-### Actividad 2.1: Descubrir los datos abiertos</strong>
+### Actividad 2.1: Descubrir datos abiertos</strong>
 
 Unir el tipo de repositorio con la definición correcta.
 
-|                                     |                                                                               |
-| ----------------------------------- | ----------------------------------------------------------------------------- |
-| Repositorios generales              | Diseñados para todas las comunidades y accesibles a todos                     |
-| Repositorios específicos de dominio | Repositorios que son típicamente diseñados para datos sobre temas específicos |
-| Repositorios institucionales        | Repositorios gestionados por universidades y organizaciones                   |
-| Repositorios nacionales             | Repositorios financiados por el gobierno                                      |
+|                                     |                                                                |
+| ----------------------------------- | -------------------------------------------------------------- |
+| Repositorios generales              | Diseñados para todas las comunidades y de fácil acceso a todos |
+| Repositorios específicos de dominio | Repositorios que habitualmente se destinan a datos específicos |
+| Repositorios institucionales        | Repositorios gestionados por universidades y organizaciones    |
+| Repositorios nacionales             | Repositorios financiados por el gobierno                       |
 
 ## Evaluando datos abiertos
 
 <img src="../images/media/image24.png" style="width:100%;height:auto;" />
 
-El uso de datos abiertos para un proyecto depende de una serie de factores, como la calidad de los datos, las condiciones de acceso y reutilización, la posibilidad de encontrar los datos, etc. Algunos elementos esenciales que permiten evaluar la pertinencia y utilidad de los conjuntos de datos son (adaptado del [curso GODAN Action Open Data](https://aims.gitbook.io/open-data-mooc/unit-3-using-open-data/lesson-2.2-quality-and-provenance)):
+El uso de datos abiertos para un proyecto depende de una serie de factores, como la calidad de los datos, las condiciones de acceso y reutilización, la facilidad de encontrar los datos, etc. Algunos elementos esenciales que permiten evaluar la pertinencia y utilidad de los conjuntos de datos son (adaptado del [curso GODAN Action Open Data](https://aims.gitbook.io/open-data-mooc/unit-3-using-open-data/lesson-2.2-quality-and-provenance)):
 
 **Preguntas prácticas**
 
@@ -294,7 +294,7 @@ El uso de datos abiertos para un proyecto depende de una serie de factores, como
 - ¿Están disponibles los datos en un formato adecuado al contenido?
 - ¿Se dispone de los datos desde una ubicación consistente?
 - ¿Están los datos bien estructurados y pueden ser leídos de manera automatizada?
-- ¿Están definidos los términos y acrónimos complejos de los datos?
+- ¿Se describen los términos y acrónimos complejos que aparecen en los datos?
 - ¿Utilizan los datos un esquema o estándar de datos?
 - ¿Hay alguna API disponible para acceder a los datos?
 - ¿Qué herramientas o programas informáticos se necesitan para utilizar estos datos?
@@ -305,7 +305,7 @@ El uso de datos abiertos para un proyecto depende de una serie de factores, como
 - ¿Se trata de datos en los que ya confía un gran número de personas?
 - ¿Están los datos respaldados oficialmente?
 - ¿Existen acuerdos de nivel de servicio para los datos?
-- ¿Está claro quién mantiene los datos y quién puede ser contactado sobre los mismos?
+- ¿Está claro quién mantiene los datos y con quién se debe contactar?
 
 [[cite: https://aims.gitbook.io/open-data-mooc/unit-3-using-open-data/lesson-2.2-quality-and-provenance](https://aims.gitbook.io/open-data-mooc/unit-3-using-open-data/lesson-2.2-quality-and-provenance)]
 
@@ -313,15 +313,15 @@ Muchas de estas preguntas pueden responderse consultando la documentación y los
 
 ## Utilizando datos abiertos
 
-### La importancia de la cita
+### La importancia citar
 
 Los agradecimientos y las citas contribuyen a fomentar una cultura de intercambio de datos sin temor a que se roben ideas o reconocimientos. Si un investigador puede confiar en que su trabajo será citado y utilizado para impulsar el desarrollo de la ciencia, la idea de abrir los datos resulta más atractiva y beneficiosa para ambas partes. Se recomienda el uso de prácticas de citación estándar para garantizar el debido reconocimiento.
 
 Citar los datos también contribuye a la transparencia del uso que se hace de ellos. Al citar los datos, los autores originales y los nuevos investigadores pueden seguir fácilmente cómo se utilizan los datos para responder a diferentes preguntas.
 
-### Revisar las pautas para citar
+### Revisar las pautas de citación
 
-Muchos conjuntos de datos y repositorios explican cómo prefieren que se les cite. La cita suele incluir:
+Muchos conjuntos de datos y repositorios especifican cómo deben ser citados. La cita suele incluir:
 
 - Los autores y sus instituciones
 - Título
@@ -334,11 +334,11 @@ Muchos conjuntos de datos y repositorios explican cómo prefieren que se les cit
 
 <img src="../images/media/image25.jpeg" style="width:100%;height:auto;" />
 
-Este es un ejemplo de un archivo CITATION.cff sencillo. Fuente: [GitHub](https://github.com/)
+Este es un sencillo ejemplo de archivo CITATION.cff. Fuente: [GitHub](https://github.com/)
 
 ---
 
-La mayoría de los conjuntos de datos exigen (como mínimo) que al citarlos se indique el productor de los datos, el nombre del archivo que los alberga, el nombre del conjunto de datos, la fecha del conjunto de datos y el DOI.
+La mayoría de los conjuntos de datos exigen (como mínimo) que al citarlos se indique el responsable de los datos, el nombre del archivo que los alberga, el nombre del conjunto de datos, la fecha del conjunto de datos y el DOI.
 
 ### Citar datos abiertos: Ejemplos
 
