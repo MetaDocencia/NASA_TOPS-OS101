@@ -261,17 +261,17 @@ Existen razones válidas que restringen la capacidad de una persona dedicada a l
 
 El [manual colaborativo de ciencia de datos de The Turing Way](https://the-turing-way.netlify.app/reproducible-research/licensing) dice acerca de las restricciones para compartir código abierto, "Como con cualquier otra cosa en la sociedad, parte de lo que puedes hacer y de lo que no puedes hacer en el desarrollo de software (o hardware) está determinado por la ley. Por lo tanto, la definición de una licencia es un aspecto importante para compartir/publicar proyectos de código abierto ya que da claridad para cualquiera que busque reusar un proyecto de código abierto. Sin una licencia, cualquiera que quiera reusarla tendrá ambigüedad jurídica en cuanto al estado de uso de tu propiedad intelectual".
 
-Para ser considerado de código abierto, el software requiere una licencia que cumpla con la definición de Código Abierto. Uno de los criterios de esta definición exige que las licencias de código abierto "[deben permitir modificaciones y obras derivadas, y deben permitir que se distribuyan bajo los mismos términos que la licencia del software original](https://opensource.org/licenses/)".
+Para ser considerado de código abierto, el software requiere una licencia que cumpla con la definición de Código Abierto. Uno de los criterios de esta definición exige que las licencias de código abierto "[deben permitir que las modificaciones y sus derivadas, se distribuyan bajo los mismos términos que la licencia del software original](https://opensource.org/licenses/)"
 
-En las próximas lecciones discutiremos con más detalle las licencias. Cuando trabajas en un proyecto puedes usar código desarrollado por otras personas, desarrollar tu propio código y luego compartirlo. Las licencias afectan a todos los aspectos de este proceso y es importante entender cómo diferentes licencias pueden afectar tu capacidad para compartir tu código en el momento de la publicación. También es importante que tengas en cuenta cualquier requerimiento de tu institución o de quien te financia acerca de cómo licenciar tu software.
+En las próximas lecciones discutiremos con más detalle las licencias. A medida que trabajas en un proyecto, es posible que quieras utilizar código desarrollado por otros, desarrollar tu propio código y luego compartirlo. Las licencias afectan a todos los aspectos de este proceso y es importante entender cómo diferentes licencias pueden afectar tu capacidad para compartir tu código en el momento de la publicación. También es importante que tengas en cuenta cualquier requerimiento de tu institución o de quien te financia acerca de cómo licenciar tu software.
 
-### Planificando la apertura: usando el sistema Usar, Hacer, Compartir para Código Abierto
+### Planificando la apertura: Utilización del concepto «usar, hacer, compartir» para el código abierto
 
-Las agencias de financiación y las revistas exigen cada vez más a los investigadores que compartan software.
+Las agencias de financiación y las revistas exigen cada vez más a los investigadores a que compartan software.
 
 Por ejemplo, el programa ROSES de la NASA, que solicita propuestas de investigación en ciencias de la Tierra, exige a los investigadores que pongan sus programas informáticos a disposición del público:
 
-#### «Los datos y el software desarrollados con financiación de Oportunidades de Investigación en Ciencias Espaciales y de la Tierra (ROSES) en apoyo de una publicación revisada por pares se pondrán a disposición del público en el momento de la publicación»
+#### «Los datos y el software desarrollados mediante el programa de financiamiento de Oportunidades de Investigación en Ciencias Espaciales y de la Tierra (ROSES) en apoyo de una publicación revisada por un comité de evaluación, se pondrán a disposición del público en el momento de la publicación»
 
 [https://science.nasa.gov/researchers/sara/faqs/osdmp](https://science.nasa.gov/researchers/sara/faqs/osdmp)
 
@@ -281,17 +281,17 @@ La planificación de un proyecto de investigación requiere que los investigador
 
 Los planes de gestión de software abarcan tanto el código como el software.
 
-|          |                                                                                                                                                                 |
-| -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ¿Qué?    | Qué:\*\* Descripción de la gestión, conservación y distribución de software.                                                    |
-| ¿Cuando? | Cuándo:\*\* El cronograma para archivar y compartir software.                                                                   |
-| ¿Dónde?  | Dónde:\*\* Ubicación donde se compartirá y archivará el software a largo plazo.                                                 |
-| ¿Cómo?   | Cómo:\*\* Habilitar la reutilización del software mediante la asignación de un DOI, licencia, directrices de contribución, etc. |
-| ¿Quién?  | Quién:\*\* Roles, funciones y responsabilidades de los miembros del equipo.                                                     |
+|          |                                                                                                                           |
+| -------- | ------------------------------------------------------------------------------------------------------------------------- |
+| ¿Qué?    | Qué:\*\* Descripción de la gestión, conservación y distribución de software.              |
+| ¿Cuando? | Cuándo:\*\* El cronograma para archivar y compartir software.                             |
+| ¿Dónde?  | Dónde:\*\* Ubicación donde se compartirá y archivará el software a largo plazo.           |
+| ¿Cómo?   | \*\*Habilitar reusar el software mediante la asignación de un DOI, licencia, normas de contribución, etc. |
+| ¿Quién?  | Quién:\*\* Roles, funciones y responsabilidades de los miembros del equipo.               |
 
-A medida que su investigación comienza a utilizar, crear y compartir código, el SMP proporciona una guía para todos los participantes en el proyecto que establece un entendimiento común.
+A medida que su investigación comienza a utilizar, crear y compartir código, el SMP proporciona una guía para todos los participantes en el proyecto, con el fin de establecer un entendimiento común.
 
-¿Está tu proyecto compartiendo todo el código públicamente o simplemente el código que entra en una publicación? ¿Contribuirá su equipo a los proyectos de código abierto o se limitará a escribir código basado en ellos para obtener resultados? Considerar estas cuestiones desde el principio influirá en la cantidad de tiempo y energía que quiera dedicar a la documentación y en cómo piensa compartir el código.
+¿Tu proyecto comparte todo el código públicamente o sólo el que va a una publicación? ¿Contribuirá su equipo a los proyectos de código abierto o se limitará a escribir código basado en ellos para obtener resultados? Considerar estas cuestiones desde el principio influirá en la cantidad de tiempo y energía que quiera dedicar a la documentación y en cómo piensa compartir el código.
 
 ### El Código Abierto es un espectro
 
