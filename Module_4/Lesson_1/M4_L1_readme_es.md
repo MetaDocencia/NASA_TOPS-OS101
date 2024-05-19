@@ -311,28 +311,28 @@ _En la actividad siguiente, arrastra cada control deslizante para explorar el es
 
 ### La Práctica de lo 'Abierto'
 
-Repase cómo se resuelven las tareas clave del ciclo de vida de desarrollo de software en el esquema del marco de trabajo «Usar, Hacer, Compartir».
+Repase cómo se resuelven las tareas clave del ciclo de vida de desarrollo de software en el esquema del concepto de trabajo «Usar, Hacer, Compartir».
 
 <img src="../images/media/image290.png" style="width:100%;height:auto;" />
 
 Al igual que ocurre con los datos abiertos, los distintos aspectos del software abierto se describen en términos de Uso, Creación y Puesta en común del software abierto.
 
-Una diferencia clave con el software es que el proceso suele ser más cíclico y repetitivo que con los datos o los resultados. Por lo general, el software evoluciona constantemente. Así, los límites entre «Usar-Hacer-Compartir» son menos rígidos y el proceso suele ser más dinámico y circular que preplanificado/fijo y secuencial.
+Una diferencia clave con el software es que el proceso suele ser más cíclico y repetitivo que con los datos o los resultados. Por lo general, el software evoluciona constantemente. Así, los límites entre «Usar-Hacer-Compartir» son menos rígidos y el proceso suele ser más dinámico y circular que preplanificado/configurado y secuencial.
 
-### Actividad 1.2: Cómo puede utilizar el software abierto en su trabajo para promover la ciencia abierta
+### Actividad 1.2: ¿Cómo puedes utilizar el software abierto en tu trabajo para impulsar la ciencia abierta?.
 
-En esta actividad, se le pide que reflexione sobre cómo ha utilizado y puede utilizar los principios de software abierto para hacer avanzar su trabajo.
+En esta actividad se le pide reflexionar sobre cómo ha utilizado y puede utilizar los principios del software abierto para avanzar en su trabajo.
 
-Considera los siguientes aspectos destacados:
+Reflexione sobre las siguientes preguntas:
 
 1. ¿Ha utilizado los principios de software abierto 1 en su trabajo?
-2. ¿Cuáles son algunos de los éxitos y retos con los que se ha enfrentado?
-3. ¿Qué recursos le resultaron útiles para impulsar el software abierto en su trabajo?
+2. ¿Cuáles son algunos de los éxitos y desafíos con los que se ha enfrentado?
+3. ¿Qué recursos encontró útiles para impulsar el software abierto en su trabajo?
 
-#### Actividad : Cómo puede utilizar el software abierto en su trabajo para promover la ciencia abierta
+#### Aspectos clave: Cómo puede utilizar el software abierto en su trabajo para hacer avanzar la ciencia abierta
 
 - El software abierto es una actividad colaborativa.
-- Todos podemos aprender y beneficiarnos unos de otros haciendo que nuestro software científico sea más abierto.
+- Todos podemos aprender y beneficiarnos mutuamente a la hora de hacer más abierto nuestro software científico.
 
 ## Lección 1: Resumen
 
@@ -341,12 +341,12 @@ En esta lección, has aprendido:
 - En el software de código abierto, cualquiera puede ver el código fuente.
 - Los principios del código abierto promueven la transparencia, la colaboración, el intercambio, la inclusión y las comunidades.
 - El software de código abierto acelera la ciencia, minimiza el tiempo y el coste del desarrollo repetido de software similar y la reproducción de cálculos científicos, y puede mejorar la calidad y la confianza en la ciencia.
-- Las licencias de los programas de código abierto dictan su compartibilidad y reutilización para los desarrolladores y posibles colaboradores. Las entidades financiadoras y las instituciones afiliadas pueden imponer restricciones a la forma en que los desarrolladores licencian su software.
-- Un plan de gestión de software (SMP) es una guía del proyecto con un consenso común de las prácticas de gestión de datos a partir del cual puede trabajar un equipo de investigación.
+- Las licencias de los programas de código abierto establecen la posibilidad de compartirlos y re-usarlos para los desarrolladores y posibles colaboradores. Las entidades financiadoras y las instituciones afiliadas pueden imponer restricciones a la forma en que los desarrolladores licencian su software.
+- Un plan de gestión de software (SMP) es una guía de proyecto con un entendimiento común de las prácticas de gestión de datos a partir del cual puede trabajar un equipo de investigación.
 
 ## Lección 1: Revisión de conocimientos
 
-Responde las siguientes preguntas para poner a prueba lo que ha aprendido hasta ahora.
+Responde a las siguientes preguntas para comprobar lo que has aprendido hasta ahora.
 
 Pregunta
 
@@ -365,10 +365,10 @@ Pregunta
 
 ¿Cuáles de las siguientes son razones válidas para que los científicos mantengan cerrado su código fuente? Selecciona todos los que correspondan.
 
-- Preocupación por la seguridad nacional
+- Asuntos de seguridad nacional
 - Políticas institucionales
-- Protección de datos
-- Problemas de atribución
+- Privacidad de los datos
+- Cuestiones de atribución
 - Problemas de calidad
 
 Pregunta
