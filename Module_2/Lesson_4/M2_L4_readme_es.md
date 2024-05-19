@@ -1,19 +1,19 @@
-# Lección 4: Herramientas para Código Abierto
+# Lección 4: Herramientas para código abierto
 
 ## Contenidos
 
-- [Introducción al Código Abierto](#introduction-to-open-code)
-- [Herramientas para Control de Versiones](./Lesson_4#tools-for-version-control)
+- [Introducción al código abierto](#introduction-to-open-code)
+- [Herramientas para control de versiones](./Lesson_4#tools-for-version-control)
 - [Herramientas para editar código](./Lesson_4#tools-for-editing-code)
-- [Herramientas Adicionales](./Lesson_4#additional-tools)
+- [Herramientas adicionales](./Lesson_4#additional-tools)
 - [Lección 4: Resumen](#lesson-4-summary)
 - [Lección 4: Evaluación](#lesson-4-knowledge-check)
 
-## Repaso
+## Descripción general
 
 Esta lección nos presenta algunas herramientas útiles para trabajar con código abierto. Aprenderemos acerca de las diversas herramientas disponibles para desarrollar, almacenar y compartir código abierto, desde el control de versiones hasta software de edición de código hasta contenedores.
 
-## Objetivos de Aprendizaje
+## Objetivos de aprendizaje
 
 Después de completar esta lección, deberías poder:
 
@@ -22,17 +22,17 @@ Después de completar esta lección, deberías poder:
 - Listar algunas herramientas para editar software y algunas de sus características.
 - Distinguir entre repositorios de software y archivos de software.
 
-## Introducción al Código Abierto
+## Introducción al código abierto
 
 En la lección 3 aprendimos sobre herramientas útiles para trabajar con datos científicos. Ahora, proporcionaremos una visión general de las herramientas comúnmente utilizadas que nos ayudan a escribir y ejecutar código informático para explorar, analizar, y visualizar nuestros datos científicos. Más adelante en el Módulo 4, de Código Abierto, discutiremos en mayor detalle lo que significa hacer nuestro código abierto, y recorreremos los pasos para poder encontrar, crear y compartir código abierto.
 
-Entender cómo trabajar con el código científico es esencial en el panorama moderno de la investigación basada en datos. Las herramientas presentadas en esta lección abarcan una amplia gama de recursos diseñados para agilizar, mejorar y optimizar el proceso de desarrollo, mantenimiento y colaboración en el desarrollo de código para la investigación científica. Permiten crear código robusto y eficiente, en muchas ocasiones aprovechando el conocimiento colectivo de la comunidad de código abierto. En la búsqueda de la reproducibilidad y la transparencia, estas herramientas también pueden facilitar el intercambio y la difusión del código científico, fomentando la colaboración y asegurando que los fundamentos de la investigación científica permanezcan abiertos y accesibles para todos.
+Entender cómo trabajar con código científico es esencial en el panorama moderno de la investigación basada en datos. Las herramientas presentadas en esta lección abarcan una amplia gama de recursos diseñados para agilizar, mejorar y optimizar el proceso de desarrollo, mantenimiento y colaboración en el desarrollo de código para la investigación científica. Permiten crear código robusto y eficiente, en muchas ocasiones aprovechando el conocimiento colectivo de la comunidad de código abierto. En la búsqueda de la reproducibilidad y la transparencia, estas herramientas también pueden facilitar el intercambio y la difusión del código científico, fomentando la colaboración y asegurando que los fundamentos de la investigación científica permanezcan abiertos y accesibles para todas las personas.
 
-### Precedente Histórico para crear código abierto: Sistema operativo Linux
+### Precedente histórico para crear código abierto: sistema operativo Linux
 
 ¿La idea de escribir código abierto es un nuevo concepto? ¡No!
 
-#### Contexto: Desarrollo de Linux OS
+#### Contexto: Desarrollo del sistema operativo Linux
 
 [HAZ CLIC PARA CONOCER MÁS](https://en.wikipedia.org/wiki/History_of_Linux/)(en inglés)
 
@@ -40,15 +40,15 @@ Entender cómo trabajar con el código científico es esencial en el panorama mo
 - Casi inmediatamente liberado para ser examinado.
 - Muchos ojos → Muchos errores encontrados → Muchas correcciones.
 
-## Herramientas para Control de versiones
+## Herramientas para control de versiones
 
 ### Control de versiones
 
 El control de versiones es la práctica de rastrear y gestionar los cambios realizados en el código u otro tipo de archivos. Puede que nos resulte familiar si lo asociamos con el "Seguimiento de cambios" en programas como Microsoft Word. Esta es una forma de control de versiones, aunque no la más adecuada para trabajar con código. El control de versiones se considera una práctica estándar en la comunidad de desarrollo de software, y simplifica la gestión de código a través del tiempo.
 
-La forma general de utilizar el control de versiones comienza inicializando una carpeta en su plataforma informática con el sistema de control de versiones que esté utilizando. Un sistema de control de versiones rastrea automáticamente todos los cambios realizados por los colaboradores, le permite trabajar sin conexión y volver más tarde con actualizaciones. Escribe el código como lo haces habitualmente en el editor de código que elijas. Una vez que se ha escrito código o se han realizado actualizaciones en el existente, se introducen los cambios en el sistema de control de versiones para crear una especie de "punto de control" al que se puede volver más tarde si es necesario. Luego agrega o actualiza más código, y vuelve a confirmar los cambios. Cada confirmación requiere que se añada un mensaje breve que permita describir brevemente qué cambios se han hecho. Estos mensajes sirven como metadatos que aseguran que las personas colaboradoras y usuarias, e inclusive tú en el futuro, entiendan su proceso de desarrollo en un momento dado.
+La forma general de utilizar el control de versiones comienza inicializando una carpeta en su plataforma informática con el sistema de control de versiones que esté utilizando. Un sistema de control de versiones rastrea automáticamente todos los cambios realizados por las personas que colaboran, y les permite trabajar sin conexión y volver más tarde con actualizaciones. Escribe el código como lo haces habitualmente en el editor de código que elijas. Una vez que se ha escrito código o se han realizado actualizaciones en el existente, se introducen los cambios en el sistema de control de versiones para crear una especie de "punto de control" al que se puede volver más tarde si es necesario. Luego agrega o actualiza más código, y vuelve a confirmar los cambios. Cada confirmación requiere que se añada un mensaje breve que permita describir brevemente qué cambios se han hecho. Estos mensajes sirven como metadatos que aseguran que las personas colaboradoras y usuarias, e inclusive tú en el futuro, entiendan su proceso de desarrollo en un momento dado.
 
-Esto puede sonar como un proceso simple y en muchos sentidos lo es! Entonces, ¿por qué es tan importante? Especialmente cuando se trata de codificar, la posibilidad de crear una captura en el mismo momento de un la creación de un fragmento de código puede ser muy útil. Por ejemplo, puede tener un fragmento de código que produce el resultado previsto, pero luego desea añadir una nueva función. Se puede optar por copiar ese archivo de código para no perder el estado actual, y luego trabajar en un archivo nuevo. Esto puede resultar bastante engorroso cuando existen varios archivos que son diferentes versiones de la misma pieza de código. O en lugar de crear un nuevo archivo, se puede escribir código para la nueva función directamente en el archivo original, pero ahora éste arroja errores cuando se intenta ejecutarlo, y es difícil recordar qué líneas se añadieron desde la última vez que el código se ejecutó sin errores. Usando el control de versiones, estos problemas se resuelven porque podemos volver al punto de control cuando el código se ejecutó limpiamente, y así evitar la necesidad de crear múltiples copias para guardar el trozo de código original.
+Esto puede sonar como un proceso simple y ¡en muchos sentidos lo es! Entonces, ¿por qué es tan importante? Especialmente cuando se trata de codificar, la posibilidad de crear una captura en el tiempo de un fragmento de código puede resultar muy útil. Por ejemplo, puede tener un fragmento de código que produce el resultado previsto, pero luego desea añadir una nueva función. Se puede optar por copiar ese archivo de código para no perder el estado actual, y luego trabajar en un archivo nuevo. Esto puede resultar engorroso bastante rápido cuando existen varios archivos que son diferentes versiones de la misma pieza de código. O en lugar de crear un nuevo archivo, se puede escribir código para la nueva función directamente en el archivo original, pero ahora éste arroja errores cuando se intenta ejecutarlo, y es difícil recordar qué líneas se añadieron desde la última vez que el código se ejecutó sin errores. Usando el control de versiones, estos problemas se resuelven porque podemos volver al punto de control cuando el código se ejecutó limpiamente, y así evitar la necesidad de crear múltiples copias para guardar el trozo de código original.
 
 Hay muchas otras características de los sistemas de control de versiones, tales como el concepto de crear "ramas" que le permiten trabajar en nuevas actualizaciones de un trozo de código de forma independiente y paralela a la pieza original de código. Una rama es una desviación del código original, pero puede ser fusionada de nuevo en el código original cuando se desee. Todos estos conceptos son aún más útiles cuando se colabora con otras personas utilizando plataformas de control de versiones, una práctica de colaboración que veremos más adelante en esta lección.
 
@@ -80,14 +80,14 @@ Hay dos estilos principales de sistemas de control de versiones de software:
   <thead>
     <tr>
         <th>CENTRALIZADO</th>
-        <th>DISTRIBUIDO (MÁS POPULAR)</th>
+        <th>DISTRIBUIDO (MÁS POPULAR) ☑</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="2">
             <p>Control:</p>
-            <p>El sistema de cada desarrollador puede conservar una copia del código base<br>.
+            <p>El sistema de cada persona que desarrolla puede conservar una copia del código base<br>.
             Ejemplos:</p>
             <ul>
               <li>Git</li>
@@ -102,7 +102,7 @@ Utilizar un sistema distribuido de control de versiones como Git le da más flex
 
 **Ejemplo: Git**
 
-El sistema de control de versiones más popular para el desarrollo de software es Git. Git es de código abierto y se utiliza habitualmente junto con sitios web de alojamiento de software como GitHub y GitLab (más información sobre ellos en la siguiente sección), que permiten colaborar y compartir código. También puede usarse en una computadora local cuando se escribe código propio. Git suele ejecutarse en la línea de comandos, pero también existen otras interfaces para utilizar Git, como GitHub Desktop y algunos editores de código que incluyen integración con Git (más información sobre esto más adelante).
+El sistema de control de versiones más popular para el desarrollo de software es Git. Git es de código abierto y se utiliza habitualmente junto con sitios web de alojamiento de software como GitHub y GitLab (más información sobre ellos en la siguiente sección), que permiten colaborar y compartir código. También puede usarse en una computadora local cuando se escribe código propio. Git suele ejecutarse en la línea de comandos, pero también existen otras interfaces para utilizar Git, como el escritorio de GitHub y algunos editores de código que incluyen integración con Git (más información sobre esto más adelante).
 
 <img src="../images/media/image33.png" style="width:350px;height:auto;" />
 
@@ -110,7 +110,7 @@ El sistema de control de versiones más popular para el desarrollo de software e
 
 ---
 
-Git es muy potente y ampliamente utilizado (según una encuesta de desarrollador de Stack Overflow](https://survey. tackoverflow.co/2022), más del 87% de los desarrolladores usan Git), pero eso no significa que sea fácil de aprender. Hay muy buenos recursos para aprender Git (ver abajo). Si al principio Git resulta confuso, ¡es importante saber que muchas personas tienen dificultad para entenderlo! (¡Incluso hay un cómic XKCD al respecto!). Para una formación en profundidad en Git, por favor vea la lección de Carpentry de Software, que se enumera a continuación: [ Control de versiones con Git: Summary y Setup (swcarpentry.github.io)](https://swcarpentry.github.io/git-novice/)
+Git es muy potente y ampliamente utilizado (según una [encuesta] de Stack Overflow https://survey.stackoverflow.co/2022) (en inglés), más del 87% de las personas que se dedican a desarrollar usan Git), pero eso no significa que sea fácil de aprender. Hay muy buenos recursos para aprender Git (ver abajo). Si al principio Git resulta confuso, ¡es importante saber que muchas personas tienen dificultad para entenderlo! (¡Incluso hay un cómic XKCD al respecto!). Para una formación en profundidad en Git, por favor vea la lección de Carpentry de Software, que se enumera a continuación: [ Control de versiones con Git: Summary y Setup (swcarpentry.github.io)](https://swcarpentry.github.io/git-novice/)
 
 ### Plataformas de control de versiones
 
