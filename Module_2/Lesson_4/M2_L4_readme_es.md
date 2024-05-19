@@ -110,7 +110,7 @@ El sistema de control de versiones más popular para el desarrollo de software e
 
 ---
 
-Git es muy potente y ampliamente utilizado (según una [encuesta] de Stack Overflow https://survey.stackoverflow.co/2022) (en inglés), más del 87% de las personas que se dedican a desarrollar usan Git), pero eso no significa que sea fácil de aprender. Hay muy buenos recursos para aprender Git (ver abajo). Si al principio Git resulta confuso, ¡es importante saber que muchas personas tienen dificultad para entenderlo! (¡Incluso hay un cómic XKCD al respecto!). Para una formación en profundidad en Git, por favor vea la lección de Carpentry de Software, que se enumera a continuación: [ Control de versiones con Git: Summary y Setup (swcarpentry.github.io)](https://swcarpentry.github.io/git-novice/)
+Git es muy potente y ampliamente utilizado (según [una encuesta de Stack Overflow] (https://survey.stackoverflow.co/2022) (en inglés), más del 87% de las personas que se dedican a desarrollar usan Git), pero eso no significa que sea fácil de aprender. Hay muchos buenos recursos para aprender Git (ver más abajo). Si al principio Git resulta confuso, ¡es importante saber que muchas personas tienen dificultad para entenderlo! (¡Incluso hay un cómic XKCD al respecto!). Para una formación en profundidad en Git, por favor vea la lección de Carpentry de Software, que se enumera a continuación: [ Control de versiones con Git: Resumen y configuración (swcarpentry.github.io)](https://swcarpentry.github.io/git-novice/) (en inglés)
 
 ### Plataformas de control de versiones
 
