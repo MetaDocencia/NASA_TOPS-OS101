@@ -291,27 +291,27 @@ Los planes de gestión de software abarcan tanto el código como el software.
 
 A medida que su investigación comienza a utilizar, crear y compartir código, el SMP proporciona una guía para todos los participantes en el proyecto, con el fin de establecer un entendimiento común.
 
-¿Tu proyecto comparte todo el código públicamente o sólo el que va a una publicación? ¿Contribuirá su equipo a los proyectos de código abierto o se limitará a escribir código basado en ellos para obtener resultados? Considerar estas cuestiones desde el principio influirá en la cantidad de tiempo y energía que quiera dedicar a la documentación y en cómo piensa compartir el código.
+¿Tu proyecto comparte todo el código públicamente o sólo el que va a una publicación? ¿Contribuirá tu equipo a los proyectos de código abierto o se limitará a escribir código basado en ellos para obtener resultados? Considerar estas cuestiones desde el principio influirá en la cantidad de tiempo y energía que quiera dedicar a la documentación y en cómo piensa compartir el código.
 
 ### El Código Abierto es un espectro
 
-Al igual que los datos, el código puede compartirse de muchas maneras diferentes para aumentar la reusabilidad. El código puede ser compartido sin ninguna documentación, simplemente como un artefacto de reproducibilidad, o el código puede estar bien escrito, documentado y abiertamente licenciado para maximizar el reuso. Ambos enfoques tienen valor y dependen del tiempo, la energía y la financiación disponibles por los investigadores.
+Al igual que los datos, el código puede compartirse de muchas maneras diferentes para aumentar la reusabilidad. El código puede compartirse sin documentación alguna, simplemente como un artefacto de reproducibilidad, o puede estar bien escrito, documentado y con licencia abierta para maximizar su re-uso. Ambos enfoques son valiosos y dependen del tiempo, la energía y la financiación que dispongan los investigadores.
 
 - Existe un espectro de apertura en lo que respecta al software libre que va desde el software de código abierto al software de código cerrado.
 - Un ejemplo de algo “intermedio” podría ser un archivo ejecutable con documentación sobre cómo funciona el código.
-- Algunos proyectos pueden abrirse desde el principio y compartir todo el código a lo largo del desarrollo. Otros pueden compartir parte del código en el momento de la publicación. Otros proyectos sólo pueden poner el código disponible una vez finalizada la financiación. Hay varias razones válidas que influyen en el planteamiento de un proyecto a la hora de compartir.
+- Algunos proyectos pueden abrirse desde el principio y compartir todo el código a lo largo del desarrollo. Otros pueden compartir parte del código en el momento de la publicación. Es posible que otros proyectos sólo pongan a disposición el código una vez finalizada la financiación. Existen diversas razones válidas que influyen en el enfoque de un proyecto a la hora de compartir.
 - Aunque algunos factores restringen el grado de apertura que puede tener el software, cada paso hacia la apertura hace avanzar el movimiento de la ciencia abierta.
-- Al compartir más ideas y programas informáticos, las comunidades han impulsado el avance creativo, científico y tecnológico más rápidamente que el ritmo restringido de la ciencia cerrada. La producción entre iguales y la colaboración masiva crean un desarrollo de software más sostenible.
+- Al compartir más ideas y programas informáticos, las comunidades han impulsado el avance creativo, científico y tecnológico más rápidamente que el ritmo restringido de la ciencia cerrada. La producción en equipo y la colaboración masiva crean un desarrollo de software más sostenible.
 
 Aunque los investigadores y las instituciones no puedan compartir todo su código, sí pueden esforzarse por pasar del código cerrado al código y software de código abierto.
 
-_En la actividad de abajo, arrastra cada deslizador para explorar el espectro de la apertura._
+_En la actividad siguiente, arrastra cada control deslizante para explorar el espectro de la apertura._
 
 <img src="../images/media/image110.jpg" style="width:100%;height:auto;" />
 
 ### La Práctica de lo 'Abierto'
 
-Repase cómo se cubren las tareas clave del ciclo de vida de desarrollo de software en el flujo marco "Usar, Hacer, Compartir".
+Repase cómo se resuelven las tareas clave del ciclo de vida de desarrollo de software en el esquema del marco de trabajo «Usar, Hacer, Compartir».
 
 <img src="../images/media/image290.png" style="width:100%;height:auto;" />
 
