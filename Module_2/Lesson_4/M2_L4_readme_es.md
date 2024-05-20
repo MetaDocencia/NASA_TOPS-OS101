@@ -271,7 +271,7 @@ A continuación se muestra un ejemplo de un desarrollador que accidentalmente es
 
  <img src="../images/media/image35.png" style="width:100%;height:auto;" />
 
-Otra característica útil en VS Code (así como muchos otros editores de código) es Git Integration. En lugar de usar una ventana de Terminal, ¡puedes hacer unos pocos clics e integrar fácilmente Git en tu flujo de trabajo!
+Otra característica útil en VS Code (así como en muchos otros editores de código) es Git Integration. En lugar de usar una ventana de Terminal, ¡puedes hacer unos pocos clics e integrar fácilmente Git en tu flujo de trabajo!
 
 Desde el VS Code puedes:
 
@@ -290,7 +290,7 @@ Los investigadores que realizan análisis estadísticos tienden a utilizar los l
 
 Fuente: https://es.wikipedia.org/wiki/File:RStudio_IDE_screenshot.png
 
-### Editores de texto plano para programar
+### Editores de Texto Plano para Programar
 
 La mayoría de los ordenadores portátiles o de escritorio que ejecutan sistemas operativos estándar (Windows, MacOS, Linux) tienen múltiples editores de texto plano preinstalados que se pueden utilizar para programar. Es beneficioso saber cómo utilizar al menos uno, porque hace que la edición de programas y archivos sea un proceso rápido.
 
@@ -309,7 +309,7 @@ La mayoría de los ordenadores portátiles o de escritorio que ejecutan sistemas
     <tr class="odd">
       <td>
         <ul>
-        <li>Ligero</li>
+        <li>Lígero</li>
         <li>Muchos se distribuyen nativamente con el sistema operativo (SO) (en inglés, _Operating System, OS_)</li>
         </ul>
       </td>
@@ -359,11 +359,11 @@ Dado que Jupyter Notebook permite integrar código con visualizaciones y texto, 
 
 Si quieres sumergirte en el tema, consulta la lección "Primeros pasos con Jupyter" del Proyecto Pythia, orientada a científicos sin conocimientos previos de programación.
 
-### Actividad 4.1: Ejecuta Jupyter Notebook desde el navegador
+### Actividad 4.1: Ejecuta Jupyter Notebook desde el Navegador
 
 Usemos un ejemplo del Proyecto Pythia para mostrar cómo los cuadernos computacionales pueden ser usados en la ciencia. Proyecto Pythia es un centro educativo para la comunidad geocientifica. Tienen algunos grandes recursos de aprendizaje y ejemplos de cuadernos de investigación, desarrollados y mantenidos por la comunidad, y de libre acceso.
 
-En esta actividad, ejecutarás código Python preescrito en un Jupyter Notebook, desde tu navegador, para hacer gráficos relacionados con el fenómenos El Niño-Oscilación del Sur (o ENSO). Utilizarás el paquete de software de código abierto llamado Xarray para leer los datos de temperatura de la superficie del mar de un modelo climático global (Modelo comunitario del Sistema Tierra) (en ingles, Community Earth System Model, CESM_), y crear algunas visualizaciones de eventos ENSO a lo largo de los últimos 20 años. El objetivo es recrear el gráfico siguiente para los últimos ~20 años. Esta figura muestra los años y la magnitud de los eventos de El Niño en rojo y de los eventos de La Niña en azul.
+En esta actividad, ejecutarás código Python preescrito en un Jupyter Notebook, desde tu navegador, para hacer gráficos relacionados con el fenómenos El Niño-Oscilación del Sur (o ENSO). Utilizarás el paquete de software de código abierto llamado Xarray para leer los datos de temperatura de la superficie del mar de un modelo climático global (Modelo Comunitario del Sistema Tierra) (en ingles, Community Earth System Model, CESM_), y crear algunas visualizaciones de eventos ENSO a lo largo de los últimos 20 años. El objetivo es recrear el gráfico siguiente para los últimos ~20 años. Esta figura muestra los años y la magnitud de los eventos de El Niño en rojo y de los eventos de La Niña en azul.
 
 ![](../images/media/image39.jpeg)
 
@@ -379,7 +379,7 @@ Sigue estos pasos:
 3. Después de cargar el Cuaderno Computacional, deberías ver algo como lo siguiente. Nota – ¡Esto realmente utiliza la vista de JupyterLab!
    ![](../images/media/calculatingenso2.jpg)
 4. Puedes tomarte un poco de tiempo para repasar el texto y el código del Cuaderno Computacional, pero ten en cuenta que esta lección presupone muchos conocimientos previos, por lo que está bien si no lo entiendes todo. ¡Aún puedes apreciar las bonitas gráficas que estás a punto de hacer!
-5. ¡Ahora tu estás listo para ejecutar el Cuaderno Computacional! Para hacer eso, puedes ir al menú "Ejecutar" en la parte superior izquierda de la ventana de JupyterLab y elegir "Ejecutar todas las celdas":
+5. ¡Ahora estás listo para ejecutar el Cuaderno Computacional! Para hacer eso, puedes ir al menú "Ejecutar" en la parte superior izquierda de la ventana de JupyterLab y elegir "Ejecutar todas las celdas":
    ![](../images/media/calculatingenso3.jpg)
 6. Esto solo debería tomar unos pocos segundos, y si te desplazas hacia abajo, puedes ver un par de visualizaciones bonitas que acabas de crear:<br>_Usa los botones "\<" y "\>" para navegar entre las imágenes._
 
@@ -387,7 +387,7 @@ Sigue estos pasos:
 
 ![](../images/media/image44.jpeg)
 
-7. Tómate algo de tiempo para mirar un poco más de cerca el Cuaderno Computacional. Verás que hay texto (incluyendo encabezados, enlaces ¡e incluso una tabla justo al principio!), código y figuras integradas juntos Este es sólo un ejemplo de cómo los científicos utilizan cuadernos computacionales para su investigación.
+7. Tómate algo de tiempo para mirar un poco más de cerca el Cuaderno Computacional. Verás que hay texto (incluyendo encabezados, enlaces ¡e incluso una tabla justo al principio!), código y figuras integradas de manera conjunta. Este es sólo un ejemplo de cómo los científicos utilizan cuadernos computacionales para su investigación.
 
 Puedes examinar más recursos de aprendizaje del Proyecto Pythia Python a través de su [Libro de Fundamentos] (https://foundations.projectpythia.org/landing-page.html), puedes ver ejemplos más avanzados de flujos de trabajo de investigación en geociencias que utilizan la computación Jupyter Notebooks, (que ellos llaman "[CookBooks o Guias Rapidas](https://cookbooks.projectpythia.org/)") para ver más ejemplos de cómo se utilizan los Jupyter Notebooks en la ciencia. Si te interesan las geociencias, ¡puedes contribuir con tu propio Jupyter Notebook, en el caso de que tengas uno que quieras compartir!
 
