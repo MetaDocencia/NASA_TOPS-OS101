@@ -130,9 +130,9 @@ Fuente: [https://medium.com/dataseries/mastering-matplotlib-part-1-a480109171e3]
 
 Matplotlib es actualmente la biblioteca de gráficos más utilizada del lenguaje de programación Python y un componente básico de la plataforma científica Python, junto con NumPy, SciPy e IPython. Matplotlib se utilizó para la visualización de datos durante el aterrizaje de la nave Phoenix en Marte en 2008 y para la creación de la primera imagen de un agujero negro.
 
-### Estudio del caso/proyecto JWST: Informes y publicaciones
+### Estudio del caso/proyecto JWST: Informes y publicación
 
-Y por último, pero no por ello menos importante, tenemos el ejemplo del equipo científico del JWST del Módulo 1 sobre cómo informaron sus resultados. Esto se produjo de varias formas, desde la publicación de un artículo de revisión por pares, preprints, publicaciones en blogs y redes sociales. Su publicación revisada por pares se publicó en formato de libre acceso en Nature junto con una preimpresión a través de arXiv.
+Y por último, pero no por ello menos importante, tenemos el ejemplo del equipo científico del JWST del Módulo 1 sobre cómo informaron sus resultados. Esto se produjo de varias formas, desde la publicación de un artículo de revisión por pares, preimpresiones (_preprints_), publicaciones en blogs y redes sociales. Su publicación revisada por pares se publicó en formato de libre acceso en Nature junto con una preimpresión (_preprint_) a través de arXiv.
 
 Las plataformas de comunicación abiertas ampliaron el alcance y la audiencia de los resultados.
 
@@ -142,15 +142,15 @@ Fuente: https://arxiv.org/abs/2208.11692
 
 ---
 
-El público está interesado en lo que estás haciendo, y llegar a él, implica comunicación a través de plataformas tradicionales y nuevas. La publicación de resultados en plataformas como Twitter/X, Youtube, TikTok, blogs, sitios web y otras plataformas de medios sociales es cada vez más habitual. La difusión a través de las redes sociales aumenta drásticamente el alcance y la audiencia de tu trabajo. Se han realizado estudios sobre el impacto que esto tiene, en los índices de citas. Por ejemplo, The Journal of Medical Internet Research (JMIR) realizó por tres años un [estudio](https://www.jmir.org/) sobre el éxito relativo de los artículos de JMIR tanto en Twitter como en el mundo académico. Descubrieron que los artículos con mayor número de tweets tenían 11 veces mayor probabilidad de ser citados que los artículos con menos tweets.
+El público está interesado en lo que estás haciendo, y llegar a él, implica comunicación a través de plataformas tradicionales y nuevas. La publicación de resultados en plataformas como Twitter/X, Youtube, TikTok, blogs, sitios web y otras plataformas de medios sociales es cada vez más habitual. La difusión a través de las redes sociales aumenta drásticamente el alcance y la audiencia de tu trabajo. Se han realizado estudios sobre el impacto que esto tiene, en los índices de citas. Por ejemplo, The Journal of Medical Internet Research (JMIR) realizó por tres años un [estudio](https://www.jmir.org/) sobre el éxito relativo de los artículos de JMIR tanto en Twitter como en el mundo académico. Descubrieron que los artículos muy tuiteados tenían 11 veces más probabilidades de ser más citados que los artículos menos tuiteados.
 
 Las plataformas de divulgación abiertas ampliaron notablemente el alcance y la audiencia de los resultados.
 
 <img src="../images/media/image14.jpeg" style="width:100%;height:auto;" />
 
-Twitter, ahora X \#1: https://twitter.com/cornerof_thesky/status/1595086671275589632?s=20
+Twitter, ahora X \#1: https://twitter.com/cornerof_thesky/status/1595086671275589632?s=20 (en inglés)
 
-Twitter, ahora X \#2: https://twitter.com/V_Parmentier/status/1595127493199302656?s=20
+Twitter, ahora X \#2: https://twitter.com/V_Parmentier/status/1595127493199302656?s=20 (en inglés)
 
 TikTok: https://www.tiktok.com/@astrojaket/video/7168878696906886405
 
@@ -160,15 +160,15 @@ YouTube: https://www.youtube.com/watch?v=cI-kM_wPbbQ
 
 ## ¿Qué es la crisis de la reproductibilidad?
 
-En 2016 una [encuesta Nature](https://www.nature.com/articles/533452a) sobre reproducibilidad, encontró que, de 1576 investigadores, «Más del 70% de los investigadores han intentado y fracasado en reproducir los experimentos de otro científico, y más de la mitad, han fracasado en reproducir sus propios experimentos». «La “crisis de la reproducibilidad” en la ciencia es una preocupación creciente por varios estudios de reproducibilidad en los que no se reprodujeron resultados positivos anteriores.
+En 2016 una [encuesta Nature](https://www.nature.com/articles/533452a) (en inglés) sobre reproducibilidad, encontró que, de 1.576 investigadores, «Más del 70% de las personas que investigan han intentado y fracasado en reproducir los experimentos de otro equipo científico, y más de la mitad, han fracasado en reproducir sus propios experimentos». La “crisis de la reproducibilidad” en la ciencia es una preocupación creciente por varios estudios de reproducibilidad en los que no se reprodujeron los resultados positivos anteriores.
 
-Si queremos resolver la crisis de reproducibilidad, debemos tener en cuenta todo el flujo de trabajo de la investigación. El hecho, que el 70% de los investigadores no pudieran reproducir los resultados de otros científicos, resulta alarmante, sobre todo si se tiene en cuenta que la reproducibilidad de la ciencia, es la piedra angular del método científico.
+Si queremos resolver la crisis de reproducibilidad, debemos tener en cuenta todo el flujo de trabajo de la investigación. El hecho, que el 70% de las personas que investigan no pudieran reproducir los resultados de otros equipos científicos, resulta alarmante, sobre todo si se tiene en cuenta que la reproducibilidad de la ciencia, es la piedra angular del método científico.
 
 <img src="../images/media/image15.png" style="width:350px;height:auto;" />
 
 A estas alturas, ya debería ser obvio que existan muchos incentivos personales, para aplicar los principios de la ciencia abierta, a lo largo de todas las etapas del proceso de investigación. Al hacer que los resultados sean abiertos en todo momento, aumenta la posibilidad de reproducir sus propios resultados.
 
-Aunque la reproducibilidad de los propios resultados pueda parecer un logro trivial, un [estudio de Nature de 2016](https://www.nature.com/articles/533452a) descubrió que el 50% de los investigadores son incapaces de reproducir sus propios experimentos. Esto pone de relieve el aspecto crítico de la crisis de reproducibilidad. Esto también tiene implicaciones para la investigación, más allá de la capacidad de mejorar su investigación.
+Aunque la reproducibilidad de los propios resultados pueda parecer un logro trivial, un [estudio de Nature de 2016](https://www.nature.com/articles/533452a) (en inglés) descubrió que el 50% de las personas que investigan son incapaces de reproducir sus propios experimentos. Esto pone de relieve el aspecto crítico de la crisis de reproducibilidad. Esto también tiene implicaciones para la investigación, más allá de la capacidad de mejorar su investigación.
 
 ### ¿Cuál es la causa de esta crisis de reproducibilidad?
 
@@ -180,15 +180,15 @@ Las tres causas principales de la crisis de reproducibilidad son:
 2. A menudo se omiten por completo los datos intermedios.
 3. A menudo sólo se piensa en los resultados, en el momento de la publicación.
 
-Debemos pensar en todo el procedimiento de investigación, como un resultado. Por ejemplo, los artículos científicos describen de manera poco precisa los métodos computacionales, lo que requiere un gran esfuerzo por parte de los demás para entenderlos y reutilizarlos.
+Debemos pensar en todo el proceso de investigación, como un resultado. Por ejemplo, los artículos científicos describen de manera poco precisa los métodos computacionales, lo que requiere un gran esfuerzo por parte de los demás para entenderlos y reutilizarlos.
 
-Los artículos a menudo no contienen la información suficiente para que otros investigadores reproduzcan los resultados, incluso cuando se publican conjuntos de datos, según dos estudios publicados en [Nature Genetics](https://www.nature.com/articles/ng.295) y [Nature Methods](https://www.nature.com/articles/nmeth.1333). A menudo, los resultados de los datos sin procesar o datos intermedios y los programas informáticos correspondientes, no se facilitan junto con el artículo final, lo que limita la capacidad del lector para intentar reproducirlos.
+Los artículos a menudo no contienen la información suficiente para que otros investigadores reproduzcan los resultados, incluso cuando se publican conjuntos de datos, según dos estudios publicados en [Genética en Nature](https://www.nature.com/articles/ng.295) (en inglés) y [Métodos en Nature](https://www.nature.com/articles/nmeth.1333) (en inglés). A menudo, los resultados de los datos sin procesar o datos intermedios y los programas informáticos correspondientes, no se facilitan junto con el artículo final, lo que limita la capacidad del lector para intentar reproducirlos.
 
-Según otros dos estudios publicados en [Briefings in Bioinformatics](https://academic.oup.com/bib/article/12/3/288/258098) y [Nature Physics](https://www.nature.com/articles/nphys3313), sin acceso a los códigos fuente de los artículos, la reproducibilidad resulta complicada.
+Según otros dos estudios publicados en [Sesiones Informaticas en Bioinformatics](https://academic.oup.com/bib/article/12/3/288/258098) (en ingkés) y [Física en Nature](https://www.nature.com/articles/nphys3313) (en inglés), sin acceso a los códigos fuente de los artículos, la reproducibilidad resulta complicada.
 
 ### Lucha contra la crisis de reproducibilidad
 
-Si su procedimiento de investigación utiliza los principios de los resultados abiertos, como se muestra en el ejemplo, le ayudará a superar la crisis de la reproducibilidad.
+Si su flujo de trabajo de investigación utiliza los principios de los resultados abiertos, como se muestra en el ejemplo, esto le ayudará a superar la crisis de la reproducibilidad.
 
 Podemos crear procesos de trabajo reproducibles y combatir esta crisis, teniendo en cuenta los resultados abiertos en cada etapa del ciclo de vida de la investigación. Un Plan de Ciencia Abierta y Gestión de Datos (OSDMP, por sus siglas en inglés) ayuda a los investigadores en la planificación de todos los aspectos de la publicación abierta, determinando cómo pondrán a disposición el software y los datos. Este plan puede ser compartido públicamente desde el principio a través de una práctica llamada pre-registro, donde los investigadores determinan su plan de análisis y el procedimiento de recopilación de datos antes de que comience un proyecto (discutido previamente en la Lección 2 del Módulo 2).
 
