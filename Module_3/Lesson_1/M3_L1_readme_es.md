@@ -298,7 +298,7 @@ _Selecciona cada pestaña para obtener más información._
             <p>Para garantizar que los datos sean interoperables en tu comunidad:</p>
             <ul>
                 <li>Reporta los datos en formato estándar comunitario.</li>
-                <li>Utiliza metadatos estandarizados existentes, si están disponibles, para minimizar los problemas de "pérdida en la traducción" y respaldar la legibilidad automática.</li>
+                <li>Utiliza metadatos estandarizados existentes, si están disponibles, para minimizar los problemas generados por mala comunicación de la informacion y respaldar la legibilidad automática.</li>
                 <li>El uso de terminologías controladas, vocabularios y ontologías es necesario para respaldar la interoperabilidad, pero puede que aún no estén disponibles en todos los campos de investigación.</li>
             </ul>
         </td>
