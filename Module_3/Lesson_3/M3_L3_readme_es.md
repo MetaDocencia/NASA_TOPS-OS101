@@ -74,14 +74,14 @@ Algunos desafíos del uso de datos en formatos no abiertos incluyen:
 
 ### Ejemplos de Formatos de Datos Abiertos
 
-Algunos ejemplos de formatos de datos abiertos incluyen:
+Algunos ejemplos de formatos de datos abiertos son:
 
 _Selecciona cada tarjeta para obtener más información._
 
 |                                                                                                       |                                                                                                                                                                                                                  |
 | ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Valores separados por comas (CSV)                                                  | Por simplicidad, legibilidad, compatibilidad, fácil intercambio de datos.                                                                                                                        |
-| Formato de datos jerárquicos (HDF)                                                 | Para almacenar y recuperar datos de forma eficiente, compresión y soporte multidimensional.                                                                                                      |
+| Valores separados por comas (CSV)                                                  | Por simplicidad, legibilidad, compatibilidad y facilidad para compartir datos.                                                                                                                   |
+| Formato de datos jerárquicos (HDF)                                                 | Para almacenar y recuperar datos de forma eficiente, con compresión y soporte multidimensional.                                                                                                  |
 | Formulario de datos comunes de red (NetCDF)                                        | Para autodescripción y portabilidad, subconjunto de datos eficiente (extracción de porciones específicas de conjuntos de datos grandes), estandarización e interoperabilidad. |
 | Modelo de investigación-estudio- ensayo (ISA) para estudios de ciencias de la vida | Para la organización estructurada de datos, integración de datos e interoperabilidad entre experimentos, reproducibilidad y transparencia.                                                       |
 | Sistema de transporte de imágenes flexible (FITS)                                  | Como estándar para datos astronómicos, metadatos y cabeceras de imagen flexibles y extenibles, compresión eficiente de datos y archivado de grandes conjuntos de datos.                          |
@@ -127,7 +127,7 @@ Para ser legibles por las computadoras, los metadatos deben haber sido estandari
 
 También hay paquetes de software que pueden leer metadatos y mejorar la experiencia del usuario de manera significativa. Por ejemplo, [Xarray](https://docs.xarray.dev/en/stable/index.html) es un paquete de software desarrollado por la comunidad de código abierto que se utiliza ampliamente en la climatología y la biomédicina, entre muchas otras disciplinas. Según su sitio web, "¡Xarray hace que trabajar con matrices multidimensionales con etiquetas en Python sea simple, eficiente y divertido!". ¡Es la parte "etiquetada" donde entran los metadatos estandarizados! Xarray puede interpretar los nombres de las variables y las dimensiones sin el aporte de la persona usuaria, haciendo el flujo de trabajo más fácil y menos propenso a cometer errores (Ejemplo, quienes lo utilizan no tienen que recordar qué eje corresponde al "tiempo" - sólo tienen que llamar al eje con la etiqueta "tiempo").
 
-Existen muchos estándares para los campos y estructuras de los metadatos para describir la información general de los datos. Utilice un estándar de su dominio cuando corresponda, o uno que sea solicitado por su repositorio de datos.
+Existen muchas normas sobre los campos de metadatos y la estructura para describir la información general de los datos. Utilice un estándar de su dominio cuando corresponda, o uno que sea solicitado por su repositorio de datos.
 
 ### Mejores prácticas de etiquetado de los metadatos
 
@@ -138,10 +138,10 @@ Metadatos útiles e informativos:
 - Es lo más descriptivo posible.
 - Es autodescriptivo.
 
-Recuerda que cuantos más metadatos añadas, más fácil será para los usuarios de tus datos utilizarlos de manera eficaz. Cuando dudes:
+Recuerda que cuantos más metadatos añadas, más fácil será para las personas usuarias de tus datos utilizarlos de manera eficaz. Cuando dudes:
 
 - Busca y cumple con los estándares de repositorio/comunidad.
-- Investiga recursos de ciencia abierta en línea para los metadatos, por ejemplo, [Turing Way.] (Vía Turística.)(https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-metadata.html)
+- Investiga recursos de ciencia abierta en línea para los metadatos, por ejemplo, [Vía Turística](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-metadata.html)
 
 **Anexo de etiquetado de metadatos de la NASA**
 
@@ -152,11 +152,11 @@ SPD-41a requiere campos de los metadatos que validen las conclusiones científic
 - Incluir información sobre cómo se recolectaron los datos (por ejemplo, qué equipo/instrumentos se utilizaron).
 - Incluir información sobre qué variables/parámetros fueron incluidos en este conjunto de datos.
 
-### Documentación de acompañamiento
+### Documentación Complementaria
 
-Al crear sus datos, además de añadir metadatos, es una buena práctica crear un documento al que los usuarios puedan hacer referencia. El documento puede hacerse como un archivo README, una guía de usuario o incluso de inicio rápido (o bien los tres).
+Al crear tus datos, además de añadir metadatos, es una buena práctica crear un documento al que las personas usuarias puedan hacer referencia. El documento puede hacerse como un archivo LÉEME, una guía de usuario o incluso de inicio rápido (o bien los tres).
 
-README y otros archivos de documentación pueden incluir información como:
+LÉEME y otros archivos de documentación pueden incluir información como:
 
 - Datos de contacto
 - Información acerca de las variables
@@ -166,21 +166,21 @@ README y otros archivos de documentación pueden incluir información como:
 - Información sobre la estructura y el nombre de archivo de los datos
 - Referencias a publicaciones que describen el conjunto de datos y/o su procesamiento
 
-La intención es ayudar a los usuarios a entender rápidamente cómo pueden usar los datos y responder a preguntas comunes que se hagan sobre tus datos. Puede leer más información y ver una plantilla de README junto con un ejemplo (particularmente relevante para las ciencias médicas) en [this Harvard Medical School website.] (este sitio web de la Escuela Médica de Harvard.) (https://datamanagement.hms.harvard.edu/collect-analyze/documentation-metadata/readme-files)
+La intención es ayudar a los usuarios a entender rápidamente cómo pueden usar los datos y responder a preguntas comunes que se hagan sobre tus datos. Puedes leer más información y ver una plantilla de LÉEME junto con un ejemplo (particularmente relevante para las ciencias médicas) en [este sitio web de la Escuela Médica de Harvard.] (https://datamanagement.hms.harvard.edu/collect-analyze/documentation-metadata/readme-files)
 
-### Directrices para la versiones de datos
+### Directrices para la Versiones de Datos
 
 Establece un esquema de versiones para tus datos. Este es un método para mantener un seguimiento de las iteraciones de los datos que muestran el seguimiento de los cambios y la capacidad de revertir a una revisión anterior.
 
-La versión adecuada genera una copia cambiada de un objeto de datos que está únicamente etiquetado con un número de versión. Esto permite a los usuarios rastrear cambios y corregir los errores.
+La versión adecuada genera una copia cambiada de un objeto de datos que está únicamente etiquetado con un número de versión. Esto permite a las personas usuarias rastrear cambios y corregir los errores.
 
-La versión adecuada preserva la calidad y la procedencia de los datos (el origen, la historia y los pasos de procesamiento que conducen al conjunto de datos) por:
+La versión adecuada preserva la calidad y la procedencia de los datos (el origen, la historia y los pasos de procesamiento que conducen al conjunto de datos):
 
 - Proporcionando un registro de trazabilidad desde la fuente de los datos a través de todos los aspectos de su transmisión, almacenamiento y procesamiento hasta su forma final.
 - Guardando archivos de datos en pasos clave a lo largo del proceso.
 - Apuntando a la verificación/validación de la descarga respecto a los hallazgos originales.
 
-## Hacer los datos reutilizables a través de licencias
+## Haciendo los datos reutilizables a través de licencias
 
 <img src="../images/media/image32.jpeg" style="width:100%;height:auto;" />
 
@@ -188,25 +188,25 @@ Fuente de la imagen: [xkcd.com](https://www.explainxkcd.com/wiki/index.php/File:
 
 ---
 
-Los datos son propiedad intelectual de quienes investigan, o posiblemente de quien financia o la/s institución/es. Los datos son propiedad intelectual, pero eso no significa que no puedan ser utilizados por otros investigadores (con una atribución apropiada).
+Los datos son propiedad intelectual de quienes investigan, o posiblemente de quien financia o la/s institución/es. Los datos son propiedad intelectual, pero eso no significa que no puedan ser utilizados por otras personas investigadoras (con la debida atribución).
 
 <img style="width:100%;height:auto;" src="../images/media/applylicensetoyourwork.jpg">
 
-"Al aplicar una licencia a tu trabajo, dejas claro lo que otros pueden hacer con las cosas que estás compartiendo, y también las condiciones bajo las que los estás proporcionando (como citarte). También puedes exigir a quienes copien tu trabajo que hagan cosas a cambio".
+"Al aplicar una licencia a tu trabajo, dejas claro lo que otras personas pueden hacer con las cosas que estás compartiendo, y también las condiciones bajo las que los estás proporcionando (como citarte). También puedes exigir a quienes copien tu trabajo que hagan cosas a cambio.
 
 **Base de Conocimiento de Ciencia Abierta [Open Science Knowledge Base](https://www.cos.io/)**
 
 ---
 
-Si no licencias tu trabajo, otros no pueden o no deberían volver a usarlo- aunque quisieras. Como se mencionó previamente en este módulo, una licencia es un documento legal que le dice a las personas usuarias cómo pueden utilizar el conjunto de datos. Es importante entender las condiciones de la licencia de un conjunto de datos antes de la reutilización de esos datos para evitar cualquier infracción de derechos de autor u otras cuestiones de propiedad intelectual.
+Si no licencias tu trabajo, otras personas no pueden -o no deberían- volver a usarlo aunque quisieras. Como se mencionó previamente en este módulo, una licencia es un documento legal que le dice a las personas usuarias cómo pueden utilizar el conjunto de datos. Es importante entender las condiciones de la licencia de un conjunto de datos antes de la reutilización de esos datos, para evitar cualquier infracción de derechos de autoría u otras cuestiones de propiedad intelectual.
 
 Un conjunto de datos sin licencia no significa que los datos estén abiertos; el uso de un conjunto de datos sin licencia no es algo ético. Contactar con quien haya creado los datos y obtener los permisos explícitos, suponiendo que aplican una licencia, es el mejor camino a seguir.
 
-Es crucial entender cuándo y dónde se aplica la licencia. Por ejemplo, los datos creados con fondos públicos de investigación del Gobierno de los Estados Unidos son, por defecto, de dominio público. Sin embargo, esto solo aplica a la jurisdicción de los Estados Unidos. Para que esto se aplique internacionalmente, quienes sean creadores de datos deben seleccionar una licencia abierta.
+Es crucial entender cuándo y dónde se aplica la licencia. Por ejemplo, los datos creados con fondos públicos de investigación del Gobierno de los Estados Unidos son, por defecto, de dominio público. Sin embargo, esto solo aplica a la jurisdicción de los Estados Unidos. Para que esto se aplique internacionalmente, quienes crean datos deben seleccionar una licencia abierta.
 
 <img src="../images/media/image34.jpeg" style="width:100%;height:auto;" />
 
-Existen varios tipos diferentes de licencias que se construyen entre sí. Las licencias "Creative Commons" (CC) son utilizadas a menudo para conjuntos de datos. CC0 (también conocido como "dominio público") es la licencia que permite la mayor reutilización porque tiene las menores restricciones sobre lo que los usuarios pueden hacer. Aunque la licencia CC0 no requiere explícitamente de citas, debes seguir las mejores prácticas de la comunidad y citar la fuente de los datos. CC-BY es otra licencia común utilizada para datos científicos que requiere citación. A partir de ahí, puedes añadir restricciones sobre el uso comercial, la capacidad de adaptar o modificar los datos o requisitos para compartir con la misma licencia. Estos otros aditivos reducen la usabilidad al añadir restricciones, para que otras personas de ciencia no puedan utilizar los datos debido a restricciones institucionales o legales. Las agencias de financiación pueden requerir el uso de una licencia en específico. Para las agencias públicas, a menudo es CC-0 o CC-BY, para maximizar su rentabilidad de la inversión y asegurar la reutilización más amplia posible.
+Existen varios tipos diferentes de licencias que se construyen entre sí. Las licencias Creative Commons (CC) son utilizadas a menudo para conjuntos de datos. CC0 (también conocido como "dominio público") es la licencia que permite la mayor reutilización porque tiene las menores restricciones sobre lo que las personas usuarias pueden hacer. Aunque la licencia CC0 no requiere explícitamente de citas, debes seguir las mejores prácticas de la comunidad y citar la fuente de los datos. CC-BY es otra licencia común utilizada para datos científicos que requiere citación. A partir de ahí, puedes añadir restricciones sobre el uso comercial, la capacidad de adaptar o modificar los datos o requisitos para compartir con la misma licencia. Estos otros aditivos reducen la usabilidad al añadir restricciones, para que otras personas de ciencia no puedan utilizar los datos debido a restricciones institucionales o legales. Las agencias de financiación pueden requerir el uso de una licencia en específico. Para las agencias públicas, a menudo es CC-0 o CC-BY, para maximizar su rentabilidad de la inversión y asegurar la reutilización más amplia posible.
 
 ### Ejemplo de Licencias de Datos y su Reutilización
 
