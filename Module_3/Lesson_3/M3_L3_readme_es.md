@@ -93,35 +93,35 @@ Al adoptar normas abiertas, los autores pueden evitar barreras innecesarias y ma
 
 ### Incorporación de documentación y metadatos para la reusabilidad
 
-Los metadatos y la documentación de datos describen los datos para que otros y nosotros podamos usarlos y entenderlos mejor. Aunque los metadatos y la documentación están relacionados, hay una distinción importante. Los metadatos están estructurados, estandarizados y son legibles por computadora. La documentación no está estructurada y puede ser cualquier formato (a menudo un archivo de texto que acompaña los datos).
+Los metadatos y la documentación de datos describen los datos para que otros y nosotros podamos usarlos y entenderlos mejor. Aunque los metadatos y la documentación están relacionados, hay una distinción importante. Los metadatos están estructurados, estandarizados y son legibles por computadora. La documentación no está estructurada y puede tener cualquier formato (a menudo, un archivo de texto que acompaña a los datos).
 
-Para comprender mejor la documentación y los metadatos, tomemos un ejemplo de una receta de internet. Muchas de estas recetas comienzan con una larga descripción e historia de la receta, y tal vez consejos de cocina o repostería para el plato, antes de enumerar los ingredientes e instrucciones de cocción paso a paso.
+Para comprender mejor la documentación y los metadatos, tomemos un ejemplo de una receta de internet. Muchas de estas recetas empiezan, antes de enumerar los ingredientes y las instrucciones de preparación paso a paso, con una larga descripción e historia de la receta, y tal vez consejos para la cocción u horneado de ese plato.
 
-- Los ingredientes e instrucciones son como los metadatas. Se pueden indexar y buscar a través de Google y otros motores de búsqueda.
-- El texto descriptivo que incluye el fondo y el contexto de la receta son como la documentación. Son más libres, y no estandarizados.
+- Los ingredientes y las instrucciones son como los metadatos. Se pueden indexar y buscar a través de Google y otros motores de búsqueda.
+- El texto descriptivo que incluye el fondo y el contexto de la receta equivalen a la documentación. Son más flexibles y no están estandarizados.
 
-Ya discutimos los metadatos antes en este módulo, ¡pero es lo suficientemente importante como para que nos repitamos un poco! También discutiremos otros tipos de documentación, como los archivos README.
+Ya hablamos de los metadatos antes en este módulo, pero son tan importantes que vamos a insistir un poco más. También hablaremos de otros tipos de documentación, como los archivos README.
 
 ### Metadatos: para humanos y máquinas
 
-Los metadatos pueden facilitar la evaluación de la calidad del conjunto de datos y el intercambio de datos respondiendo a preguntas clave. También es la principal forma en que los usuarios encontrarán información sobre su conjunto de datos. Incluye información clave sobre temas, como:
+Los metadatos pueden ayudar en la evaluación de la calidad del conjunto de datos y al intercambio de datos respondiendo a preguntas clave. Son también, la principal forma en que los usuarios van a encontrar la información sobre un conjunto de datos. Incluye información clave sobre temas, como:
 
 - Cómo se recolectaron y procesaron los datos
 - Qué variables/parámetros se incluyen en el conjunto de datos
 - Qué variables están incluidas y con qué variables están relacionadas
 - Quién recopiló los datos (equipo científico, organización, etc.)
-- Cómo y dónde encontrar los datos (p. ej., DOI)
+- Cómo y dónde encontrar los datos (por ejemplo, DOI)
 - Cómo citar los datos
 - Qué región espacio-temporal / tiempo cubren los datos
 - Toda información legal, directriz o estándar sobre los datos
 
-### ¿Por qué añadir metadatos?
+### ¿Por qué incluir los metadatos?
 
 Los metadatos mejoran la búsqueda y la accesibilidad de los datos permitiendo potencialmente tanto a los humanos como a las computadoras leer e interpretar los conjuntos de datos. Los beneficios de crear metadatos sobre tus datos incluyen:
 
-- Ayuda a los usuarios a entender los datos y si/cómo pueden ser usados/citados.
+- Ayuda a los usuarios a entender qué son los datos y si pueden utilizarlos o citarlos, o cómo hacerlo.
 - Ayuda a los usuarios a ubicar los datos, especialmente cuando los metadatos son legibles y están estandarizados para ser interpretados por aplicaciones.
-- Puede facilitar el análisis con herramientas de software que interpretan metadatos estandarizados (por ejemplo, Xarray).
+- Puede facilitar el análisis con herramientas informáticas que interpreten metadatos estandarizados (por ejemplo, Xarray).
 
 Para ser legibles por las computadoras, los metadatos deben haber sido estandarizados. Un ejemplo de un estándar aceptado por la comunidad para etiquetar conjuntos de datos climáticos son las [Convenciones de CF](http://cfconventions.org/).
 
