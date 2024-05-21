@@ -120,11 +120,11 @@ Desde '2003: vamos a mapear el Reino Unido hasta 2023: más de 1,5 millones de c
 
 ### Nuevas visualizaciones para compartir resultados
 
-Matplotlib fue desarrollado alrededor de 2002 por el postdoctorado John Hunter para visualizar algunos datos de neurobiología en los que estaba trabajando. El no era desarrollador de software, ¡era neurobiólogo! Podría haberse limitado a publicar el artículo en una revista revisada por pares, y tal vez haber compartido su código para crear las figuras, pero en lugar de eso inició un proyecto abierto en GitHub y pensó: «bueno, si esto es útil para mí, tal vez lo sea para otros...».
+Matplotlib fue desarrollado alrededor de 2002 por el postdoctorado John Hunter para visualizar algunos datos de neurobiología en los que estaba trabajando. El no era desarrollador de software, ¡era neurobiólogo! Podría haberse limitado a publicar el artículo en una revista revisada por pares, y tal vez haber compartido su código para crear las figuras, pero en lugar de eso inició un proyecto abierto en GitHub y pensó: «bueno, si esto es útil para mí, tal vez lo sea para otras personas...».
 
 <img src="../images/media/image12.jpeg" style="width:100%;height:auto;" />
 
-Fuente: [https://medium.com/dataseries/mastering-matplotlib-part-1-a480109171e3](https://medium.com/dataseries/mastering-matplotlib-part-1-a480109171e3)
+Fuente: [https://medium.com/dataseries/mastering-matplotlib-part-1-a480109171e3](https://medium.com/dataseries/mastering-matplotlib-part-1-a480109171e3) (en inglés)
 
 ---
 
