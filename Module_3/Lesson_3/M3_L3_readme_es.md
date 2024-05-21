@@ -1,19 +1,19 @@
-# Haciendo datos abiertos (open data)
+# Lección 3: Hacer que los datos sea abiertos
 
-## Índice
+## Temas a desarrollar
 
-- [Descripción general](#resumen)
+- [Descripción general](#overview)
 - [Objetivos de Aprendizaje](#learning-objectives)
-- [Planificando para los Datos Abiertos](#planning-for-open-data)
-- [Seleccionando Formatos y Herramientas de Datos para la Interoperabilidad](#selecting-data-formats-and-tools-for-interoperability)
-- [Haciendo los Datos Reusables Mediante la Documentación](#making-the-data-reusable-through-documentation)
-- [Haciendo los Datos Reusables Mediante Licencias](#making-the-data-reusable-through-licensing)
+- [Planificación de datos abiertos](#planning-for-open-data)
+- [Selección de formatos y herramientas de datos para la Interoperabilidad](#selecting-data-formats-and-tools-for-interoperability)
+- [Hacer que los datos sean reusables mediante la documentación](#making-the-data-reusable-through-documentation)
+- [Hacer que los datos sean reusables mediante licencias](#making-the-data-reusable-through-licensing)
 - [Lección 3: Resumen](#lesson-3-summary)
 - [Lección 3: Revisión De Conocimientos](#lesson-3-knowledge-check)
 
 ## Descripción general
 
-En esta lección, aprendes los criterios y las tareas necesarias para asegurar que los conjuntos de datos que creas sean abiertos y reutilizables. La lección comienza con una discusión sobre la creación de un plan de gestión de datos, continúa con temas sobre la selección de formatos de datos abiertos y cómo incluir metadatos, archivos Readme y control de versiones para sus datos. Se completa con una discusión sobre licencias abiertas para datos.
+En esta lección, aprenderás los criterios y las tareas necesarias para asegurar que los conjuntos de datos que creas sean abiertos y reusables. La lección comienza con una discusión sobre la creación de un plan de gestión de datos, continúa con temas sobre la selección de formatos de datos abiertos y cómo incluir metadatos, archivos README y control de versiones para sus datos. Se completa con una discusión sobre licencias abiertas para datos.
 
 ## Objetivos de aprendizaje
 
@@ -25,38 +25,38 @@ Después de completar este módulo, deberías poder:
 
 ## Planificación de datos abiertos
 
-La mejor práctica al comenzar su viaje de datos abiertos es crear un Plan de Gestión de Datos (PGD). Esto describe cómo administrará, preservará y publicará sus datos durante y después de un proyecto de investigación. Elementos comunes en los PGD relevantes para datos abiertos incluyen una descripción de lo siguiente:
+La mejor práctica al comenzar su viaje de datos abiertos es crear un Plan de Gestión de Datos (PGD). Un PGD describe cómo se administrará, se preservará y se publicará los datos durante y después de un proyecto de investigación. Entre los elementos comunes de los PGD relevantes para los datos abiertos se incluye incluyen una descripción de lo siguiente:
 
 |          |                                                                                   |
 | -------- | --------------------------------------------------------------------------------- |
-| ¿Qué?    | Formatos de datos y (cuando sea relevante) estándares          |
-| ¿Cuándo? | Cuando y si compartir datos                                                       |
-| ¿Dónde?  | Los repositorios previstos para archivar los datos                                |
-| ¿Cómo?   | Cómo permite el plan la reutilización de datos                                    |
+| ¿Qué?    | Formato y (si es relevante) estándares de datos                |
+| ¿Cuándo? | ¿Cuándo, y si, se pueden compartir los datos?                                     |
+| ¿Dónde?  | Los repositorios destinados a datos archivados                                    |
+| ¿Cómo?   | Cómo permite el plan el reuso de los datos                                        |
 | ¿Quién?  | Roles y responsabilidades de los miembros del equipo en la implementación del PGD |
 
 En esta lección, abordaremos algunas pasos comunes para generar datos. Específicamente, nos centraremos en el "qué" de hacer datos. Esto incluye, qué formatos de datos deben utilizarse y los estándares a seguir para que los datos sean tan abiertos y tan fáciles de usar como sea posible.
 
-Como primer paso, compruebe si su institución o fuente de financiamiento tiene guías, estándares o plantillas para PGDs.
+Como primer paso, compruebe si su institución o organismo de financiamiento tiene guías, normas o plantillas para PGDs.
 
 ## Selección de Formatos de Datos y Herramientas para Interoperabilidad
 
-### Consideraciones de Formato de Datos
+### Consideraciones del Formato de los Datos
 
 Son preferibles los formatos de datos que son compatibles con los usados por la comunidad, legibles por computadora, libres, modificables y abiertos. Puede parecer que hay tantos formatos de datos como diferentes tipos de datos. Cuando piense en seleccionar un formato de datos, considere lo siguiente:
 
 - ¿Es el formato compatible con el tipo, forma y tamaño de los datos?
-- ¿El formato de datos tiene soporte adecuado para metadatos?
-- ¿Hay herramientas disponibles para leer fácilmente el formato de los datos o se necesitan herramientas especializadas?
-- ¿Se utiliza el formato de datos de forma rutinaria en su disciplina? Los estándares comunitarios garantizan compatibilidad, interoperabilidad y facilidad de uso al intercambiar o compartir datos entre investigadores u organizaciones de la misma comunidad.
+- ¿Tiene el formato de datos un soporte de metadatos adecuado?
+- ¿Hay herramientas disponibles o se necesitan herramientas especializadas para leer el formato de los datos?
+- ¿El formato de los datos se utiliza habitualmente en su su disciplina? Las normas comunitarias garantizan la compatibilidad, interoperabilidad y facilidad de uso a la hora de intercambiar o compartir datos entre investigadores u organizaciones de la misma comunidad.
 
 <img src="../images/media/image31.png" style="width:100%;height:auto;" />
 
-Investiga si tu agencia de financiación, instituciones y/o repositorio de datos tiene requisitos adicionales o alguna guía sobre los formatos de datos.
+Consulte si su organismo de financiación, institución o repositorio de datos tiene requisitos adicionales o alguna guía sobre los formatos de datos.
 
 ### Formatos de datos no abiertos
 
-Un formato de datos cerrado (sin soporte y o de propiedad privada) se refiere a un formato de archivo al que no se puede acceder libremente, no está estandarizado o ampliamente soportado por diferentes aplicaciones de software. Aquí hay algunos ejemplos de formatos de datos cerrados/con derechos de propiedad:
+Un formato de datos no abierto (sin soporte, cerrado y/o de propiedad privada) se refiere a un formato de archivo que no es de libre acceso, no está estandarizado o ampliamente soportado por diferentes aplicaciones de software. Aquí hay algunos ejemplos de formatos de datos cerrados/con derechos de propiedad:
 
 - **Adobe Photoshop (.psd):** El formato de archivo es propiedad de Adobe Photoshop, un popular software de edición de imágenes.
 - **Microsoft Word (.doc/.docx):** Un formato de archivo con derechos de propiedad usado para almacenar datos de procesamiento de texto.
@@ -68,7 +68,7 @@ Algunos desafíos del uso de datos en formatos no abiertos incluyen:
 
 - Problema al abrir el archivo debido a problemas de compatibilidad.
 - La necesidad de instalar software o convertidores adicionales, lo que conduce a frustración y molestias.
-- El contratiempo inicial atenúa el entusiasmo por usar tus datos.
+- El contratiempo inicial frena el entusiasmo por utilizar tus datos.
 - Convertir los datos a un formato universal puede llevar a un formato único o características que no se traducen bien, haciendo que los datos pierdan parte de su valor.
 - Las nuevas políticas de datos abiertos pueden limitar el intercambio de datos privados, ya que a menudo no es compatible con el concepto de fácil distribución.
 
