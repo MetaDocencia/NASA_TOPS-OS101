@@ -78,20 +78,20 @@ Algunos ejemplos de formatos de datos abiertos son:
 
 _Selecciona cada tarjeta para obtener más información._
 
-|                                                                                                       |                                                                                                                                                                                                                  |
-| ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Valores separados por comas (CSV)                                                  | Por simplicidad, legibilidad, compatibilidad y facilidad para compartir datos.                                                                                                                   |
-| Formato de datos jerárquicos (HDF)                                                 | Para almacenar y recuperar datos de forma eficiente, con compresión y soporte multidimensional.                                                                                                  |
-| Formulario de datos comunes de red (NetCDF)                                        | Para autodescripción y portabilidad, subconjunto de datos eficiente (extracción de porciones específicas de conjuntos de datos grandes), estandarización e interoperabilidad. |
-| Modelo de investigación-estudio- ensayo (ISA) para estudios de ciencias de la vida | Para la organización estructurada de datos, integración de datos e interoperabilidad entre experimentos, reproducibilidad y transparencia.                                                       |
-| Sistema de transporte de imágenes flexible (FITS)                                  | Como estándar para datos astronómicos, metadatos y cabeceras de imagen flexibles y extenibles, compresión eficiente de datos y archivado de grandes conjuntos de datos.                          |
-| Formato común de datos (CDF)                                                       | Para un formato auto-descriptivo legible en múltiples sistemas operativos, lenguajes de programación y entornos de software, datos multidimensionales e inclusión de metadatos.                  |
+|                                                                                                                                 |                                                                                                                                                                                                                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Valores separados por comas (Comma Separated Values, CSV)                                                    | Por simplicidad, legibilidad, compatibilidad y facilidad para compartir datos.                                                                                                                                                                                                               |
+| Formato de datos jerárquicos (Hierarchical Data Forma, HDF)                                                  | Para almacenar y recuperar datos de forma eficiente, con compresión y soporte multidimensional.                                                                                                                                                                                              |
+| Network Common Data Form (NetCDF)                                                                            | Permite la autodescripción y portabilidad de los datos, ofrece la posibilidad de seleccionar eficientemente subconjuntos de datos (extracción de porciones específicas de conjuntos de datos grandes), cooperand con la estandarización e interoperabilidad de los datos. |
+| Modelo de Investigación-Estudio-Ensayo (Investigation-Study-Assay, ISA) para estudios de ciencias de la vida | Para la organización estructurada de datos, integración de datos e interoperabilidad entre experimentos, reproducibilidad y transparencia.                                                                                                                                                   |
+| Sistema de transporte de imágenes flexible (Flexible Image Transport System, FITS)                           | Como un estándar para datos astronómicos, metadatos flexibles y extensibles y encabezados de imágenes, compresión de datos eficiente y archivado de grandes conjuntos de datos.                                                                                                              |
+| Formato común de datos (Common Data Format, CDF)                                                             | Para un formato auto-descriptivo legible en múltiples sistemas operativos, lenguajes de programación y entornos de software, datos multidimensionales e inclusión de metadatos.                                                                                                              |
 
-Al incorporar estándares abiertos, los autores pueden evitar barreras innecesarias y maximizar sus posibilidades de hacer que los datos sean útiles para sus comunidades.
+Al adoptar normas abiertas, los autores pueden evitar barreras innecesarias y maximizar sus posibilidades de hacer que los datos sean útiles para sus comunidades.
 
-## Hacer los datos reutilizables a través de la documentación
+## Hacer que los datos sean reusables mediante la documentación
 
-### Incorporación de documentación y metadatos para facilitar la reutilización
+### Incorporación de documentación y metadatos para la reusabilidad
 
 Los metadatos y la documentación de datos describen los datos para que otros y nosotros podamos usarlos y entenderlos mejor. Aunque los metadatos y la documentación están relacionados, hay una distinción importante. Los metadatos están estructurados, estandarizados y son legibles por computadora. La documentación no está estructurada y puede ser cualquier formato (a menudo un archivo de texto que acompaña los datos).
 
@@ -214,11 +214,11 @@ Aquí hay un ejemplo de cómo una licencia de datos puede afectar a la reutiliza
 
 <img src="../images/media/image35.jpeg" style="width:100%;height:auto;" />
 
-Cita de Figura: IPCC (Ecuadre y contexto en: En: Calentamiento global de 1.5 °C. Un Reporte Especial de IPCC) "[Framing and Context in : In: Global warming of 1.5°C. An IPCC Special Report](https://www.researchgate.net/publication/369301788_Framing_and_Context_in_In_Global_warming_of_15C_An_IPCC_Special_Report?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoiX2RpcmVjdCJ9fQ)" 2020
+Cita de Figura: IPCC (Encuadre y contexto en: Calentamiento global de 1.5 °C. Un Reporte Especial de IPCC) "[Framing and Context in: Global warming of 1.5°C. An IPCC Special Report](https://www.researchgate.net/publication/369301788_Framing_and_Context_in_In_Global_warming_of_15C_An_IPCC_Special_Report)" 2020
 
 ---
 
-Esto significó que cualquier uso comercial estaba restringido. Empresas de seguro, corporaciones globales, y cualquier tipo de organización que quería utilizarlos para fines comerciales - estaban teniendo que hacer su propio modelado o simplemente decidiendo no desarrollar recursos relacionados con proyecciones climáticas (como riesgo de incendios, riesgo de inundaciones, y cómo eso puede afectar al transporte, al comercio y al lugar donde vivimos). Esto afectó directamente a la reutilización de estos datos y creó trabajo adicional. La última versión de los datos CMIP se está moviendo a CC-BY [latest version of CMIP data is moving to CC-BY](https://pcmdi.llnl.gov/CMIP6/TermsOfUse/TermsOfUse6-2.html) debido a los impactos negativos de las restricciones -NC-SA.
+Esto significó que cualquier uso comercial estaba restringido. Empresas de seguro, corporaciones globales, y cualquier tipo de organización que quería utilizarlos para fines comerciales estaban teniendo que hacer su propio modelado o, simplemente, decidiendo no desarrollar recursos relacionados con proyecciones climáticas (como riesgo de incendios, riesgo de inundaciones, y cómo eso puede afectar al transporte, al comercio y al lugar donde vivimos). Esto afectó directamente a la reutilización de estos datos y creó trabajo adicional. La última versión de los datos CMIP se está moviendo a CC-BY [latest version of CMIP data is moving to CC-BY](https://pcmdi.llnl.gov/CMIP6/TermsOfUse/TermsOfUse6-2.html) debido a los impactos negativos de las restricciones -NC-SA.
 
 ## Lección 3: Resumen
 
@@ -226,7 +226,7 @@ A continuación se exponen los aportes principales de esta lección:
 
 - Es una buena práctica crear un plan abierto de gestión de datos que incluya temas abiertos.
 - Un paso crítico para hacer datos abiertos es la evaluación y la selección de formatos de datos abiertos.
-- Siempre añadir documentación que permita a otras personas que investigan evaluar la relevancia y la reutilización de tu producto. Esto incluye a los metadatos, archivos README y los detalles del control de versiones.
+- Siempre añadir documentación que permita a otras personas que investigan evaluar la relevancia y la reutilización de tu producto. Esto incluye a los metadatos, archivos LÉEME y los detalles del control de versiones.
 - Es importante asignar una licencia abierta a tus datos para permitir su reutilización.
 
 ## Lección 3: Prueba de Conocimiento
@@ -260,7 +260,7 @@ _Pregunta_
 
 Lee la siguiente afirmación e indica si es Verdadera o Falsa.
 
-_Los metadatos sólo son útiles para el uso de datos en herramientas interoperables y no mejoran la búsqueda y el encontrar los datos._
+_Los metadatos sólo son útiles para utilizar los datos en herramientas interoperables y no mejoran la capacidad de búsqueda y localización de los datos._
 
 - Verdadero
 - Falso
