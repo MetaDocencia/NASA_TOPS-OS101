@@ -1,16 +1,16 @@
 # Lección 5: De la teoría a la práctica
 
-## Temas a desarrollar
+## Contenidos
 
 - [Resumen](#resumen)
-- [Objetivos del aprendizaje](#objetivos-del-aprendizaje)
-- [Organizar ciencia abierta y gestión de datos](#organizar-ciencia-abierta-y-gestion-de-datos)
+- [Objetivos de aprendizaje](#objetivos-de-aprendizaje)
+- [Planes de gestión de datos y ciencia abierta](#planes-de-gestion-de-datos-y-ciencia-abierta)
 - [¿Cómo planeamos hacer nuestro código abierto?](#cómo-planeamos-hacer-nuestro-codigo-abierto)
-- [Involucrar personas/Generar interés y construir comunidades](#generar-interes-y-construir-comunidades)
+- [Generar interés y construir comunidades](#generar-interes-y-construir-comunidades)
 - [Contribuir a proyectos de software de código abierto](#contribuir-proyectos-software-de-codigo abierto)
 - [Recursos adicionales](#recursos-adicionales)
 - [Lección 5: Resumen](#leccion-5-resumen)
-- [Lección 5: Validar conocimientos](#leccion-5-validar-conocimientos)
+- [Lección 5: Evaluación](#leccion-5-evaluacion)
 - [Código abierto: Resumen](#codigo-abierto-resumen)
 
 ## Descripción/Desarrollo general
