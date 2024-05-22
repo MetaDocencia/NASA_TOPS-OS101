@@ -205,13 +205,13 @@ Todos estos archivos se pueden abrir con los editores de texto más comunes. Hay
 **NetCDF, HDF, FITS** -
 Estos archivos requieren herramientas de software especiales para ver sus contenidos. Muchas de estas herramientas también visualizarán los datos.
 
-- NetCDF y HDF: La mayoría de los archivos se visualizan fácilmente usando la librería de software de código abierto [Xarray](https://docs.xarray.dev/en/stable/) en Python o la biblioteca de software de código abierto [ncdf4](https://cran.r-project.org/web/packages/ncdf4/index.html) en R.
+- NetCDF y HDF: la mayoría de los archivos se visualizan fácilmente usando software de código abierto, como la biblioteca [Xarray](https://docs.xarray.dev/en/stable/) en Python o [ncdf4](https://cran.r-project.org/web/packages/ncdf4/index.html) en R.
 - FITS: Hay muchas opciones, hay una lista en [https://fits.gsfc.nasa.gov/fits_viewer.html](https://fits.gsfc.nasa.gov/fits_viewer.html)
 
 **ZARR, COG, PARQUETO** -
-Estos archivos requieren herramientas de software especiales para ver su contenido. Muchas de estas herramientas también visualizan los datos.
+Estos archivos requieren herramientas de software especiales para ver su contenido. Muchas de estas herramientas permiten también visualizar los datos.
 
-- Zarr: Los archivos se visualizan fácilmente utilizando la biblioteca de software de código abierto [Xarray](https://docs.xarray.dev/en/stable/) en Python o la biblioteca [Pizzar](https://github.com/keller-mark/pizzarr) en R.
+- Zarr: los archivos se visualizan fácilmente utilizando software de código abierto, como las bibliotecas [Xarray](https://docs.xarray.dev/en/stable/) en Python o [Pizzar](https://github.com/keller-mark/pizzarr) en R.
 - COG: Los archivos se visualizan utilizando la biblioteca de software de código abierto [rioXarray](https://corteva.github.io/rioxarray/html/index.html) en Python o la biblioteca [terra](https://cran.r-project.org/web/packages/terra/index.html) en R.
 - Parquet: Los archivos se visualizan utilizando la biblioteca de software de código abierto [Pandas](https://pandas.pydata.org/) en Python o la biblioteca [Arrow](https://arrow.apache.org/docs/r/reference/read_parquet.html) en R.
 
