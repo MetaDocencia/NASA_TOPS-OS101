@@ -193,7 +193,7 @@ Los formatos que se consideran más interoperables según los criterios anterior
 
 ### Inspección de datos
 
-Los formatos de datos modernos permiten almacenar mucho más que simples puntos de datos. Una vez que se adoptan estos estándares (por ejemplo, NetCDF), la búsqueda de los contenidos en cada archivo puede ser asistida por una variedad de herramientas que juntas ayudan a mapear los datos primarios y/o mostrar los metadatos asociados. Existen varias herramientas para inspeccionar datos, siendo demasiadas para mencionarlas todas aquí. Las herramientas destacables con las que comenzar incluyen:
+Los formatos de datos modernos permiten almacenar mucho más que datos puntuales. Una vez que se adoptan estos estándares (por ejemplo, NetCDF), la búsqueda de los contenidos en cada archivo puede ser asistida por una variedad de herramientas que juntas ayudan a mapear los datos primarios y/o mostrar los metadatos asociados. Existen varias herramientas para inspeccionar datos, siendo demasiadas para mencionarlas todas aquí. Las herramientas destacables con las que comenzar incluyen:
 
 **CSV, XML, JSON** -
 Todos estos archivos se pueden abrir con los editores de texto más comunes. Hay algunas herramientas que pueden crear vistas de los archivos más fáciles de usar, como:
