@@ -1,13 +1,13 @@
 # Lección 2: Uso de datos abiertos
 
-## Temas a desarrollar
+## Contenidos
 
-- Cómo descubrir resultados abiertos
-- Cómo evaluar resultados abiertos
-- Cómo usar resultados abiertos
-- Cómo citar resultados abiertos
-- [Lección 2: Resumen](#leccion-2-resumen)
-- [Lección 2: Evaluación](#lección-2-Evaluación)
+- [Cómo Descubrir Resultados Abiertos](#how-to-discover-open-results)
+- [Cómo Evaluar Resultados Abiertos](#how-to-assess-open-results)
+- [Cómo Evaluar Resultados Abiertos](#how-to-assess-open-results)
+- [Cómo Citar Resultados Abiertos](#how-to-cite-open-results)
+- [Lección 2: Resumen](#lesson-2-summary)
+- [Lección 2: Evaluación](#lesson-2-knowledge-check)
 
 ## Visión general
 
