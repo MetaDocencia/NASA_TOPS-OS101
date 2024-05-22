@@ -213,19 +213,19 @@ Aunque los resultados abiertos benefician a la ciencia y ya han aportado valioso
 
 Contribuir y aportar comentarios constructivos son componentes vitales para un ecosistema de acceso abierto saludable, que garantice la sostenibilidad a largo plazo de los recursos abiertos al proporcionar mejoras continuas y ampliaciones de capacidad.
 
-En nuestro sistema actual, hay creadores y receptores de resultados. Este escenario presenta una vía de sentido único sin bucles de respuestas o de devolución, sin comunicación de datos a los editores y sin intercambio entre intermediarios.
+En nuestro sistema actual, hay personas creadoras y consumidoras de resultados. Este escenario presenta una vía de sentido único sin bucles de respuestas o de devolución, sin comunicación de datos a quienes editan y sin intercambio entre personas intermediarias.
 
-La práctica de producir resultados abiertos pretende fomentar un sistema en el que existan circuitos de comunicación entre usuarios y creadores. Los usuarios comparten con el creador su trabajo depurado, integrado o mejorado. Esta comunicación crea un proceso simbiótico y sostenible del que todos se benefician.
+La práctica de producir resultados abiertos pretende fomentar un sistema en el que existan circuitos de comunicación entre quienes usan y crean. Las personas usuarias comparten su trabajo depurado, integrado o mejorado con quien lo creó. Esta comunicación crea un proceso simbiótico y sostenible del que todos y todas se benefician.
 
-### Tus responsabilidades como usuario de resultados abiertos
+### Tus responsabilidades como persona usuaria de resultados abiertos
 
-- Los usuarios deben familiarizarse con las pautas para colaboradores publicadas en los repositorios de resultados abiertos y seguir las políticas asociadas. ¿Y si no hay pautas para los colaboradores? ¡Contacta a los creadores!
-- Proporcione siempre comentarios de forma respetuosa y comprensiva.
-- Si descubres un error en los materiales de Resultados Abiertos, la acción ética a tomar es contactar al autor (o al repositorio, dependiendo de la naturaleza del problema) y darles la oportunidad de corregir el problema, en lugar de ignorar el problema o (¡peor aún!) aprovechar un problema reparable para elevar tu propia investigación.
+- Las personas usuarias deben familiarizarse con las pautas para colaborar publicadas en los repositorios de resultados abiertos, y seguir las políticas asociadas. ¿Y si no hay pautas para colaborar? ¡Contacta a las personas creadoras!
+- Proporciona siempre comentarios de forma respetuosa y comprensiva.
+- Si descubres un error en los materiales de Resultados Abiertos, la acción ética a tomar es contactar al autor o autora (o al repositorio, dependiendo de la naturaleza del problema) y darles la oportunidad de corregir el problema, en lugar de ignorar el problema o (¡peor aún!) aprovechar un problema reparable para elevar tu propia investigación.
 
 ### Diferentes Maneras de Comentar
 
-#### Usar Problemas de GitHub (GitHub issues)
+#### Usar Problemas de GitHub
 
 <table>
 <colgroup>
@@ -237,7 +237,7 @@ La práctica de producir resultados abiertos pretende fomentar un sistema en el 
         <td>
             <img src="../images/media/image29.png" style="width:100%;height:auto;"/>
         </td>
-        <td>Ventaja: La interacción es abierta y otros miembros de la comunidad pueden ver los problemas en curso que se están abordando.</td>
+        <td>Ventaja: La interacción es abierta y otras personas de la comunidad pueden ver los problemas en curso que se están abordando.</td>
     </tr>
     <tr>
         <td>
@@ -248,13 +248,13 @@ La práctica de producir resultados abiertos pretende fomentar un sistema en el 
 </tbody>
 </table>
 
-**Trabajar con Problemas de GitHub (GitHub Issues)**
+**Trabajar con Problemas de GitHub**
 
 Consulta este blog para conocer la etiqueta general de problemas
 
 [ABRIR](https://www.w3.org/International/i18n-activity/guidelines/issues.html)
 
-#### Enviar un correo electrónico al autor
+#### Enviar un correo electrónico al autor o autora
 
 <table>
 <colgroup>
@@ -266,7 +266,7 @@ Consulta este blog para conocer la etiqueta general de problemas
         <td>
             <img src="../images/media/image29.png" style="width:100%;height:auto;"/>
         </td>
-        <td>Contras: la comunicación es privada. La información generalmente no se comparte con la comunidad a menos que el creador cree una nueva versión.</td>
+        <td>Contras: la comunicación es privada. La información generalmente no se comparte con la comunidad a menos que quien la creó desarrolle una nueva versión.</td>
     </tr>
     <tr>
         <td>
@@ -279,14 +279,14 @@ Consulta este blog para conocer la etiqueta general de problemas
 
 ### Obtener crédito por las aportaciones
 
-Si tus aportes resultan en una contribución intelectual sustancial al trabajo, es razonable esperar la oportunidad de ser coautor en una futura versión del resultado abierto. Las pautas de contribución asociadas deberían contemplar esta posibilidad y gestionar las expectativas antes de que se realicen aportaciones.
+Si tus aportes resultan en una contribución intelectual sustancial al trabajo, es razonable esperar la oportunidad de coautoría en una futura versión del resultado abierto. Las pautas de contribución asociadas deberían contemplar esta posibilidad y gestionar las expectativas antes de que se realicen aportaciones.
 
 Lamentablemente, muchas veces no existen pautas de contribución y no está claro qué es "sustancial".
 
-### Responsabilidades del Usuario de Resultados Abiertos
+### Responsabilidades de quienes utilizan Resultados Abiertos
 
 - **Cumplimiento de la Seguridad Institucional:** Descarga siempre el código de una fuente autorizada y conoce/sigue las políticas de seguridad informática de tu institución.
-- **Políticas de Licencia:** Comprende y respete la(s) licencia(s) asociada(s) con los materiales de resultados abiertos que estás utilizando.
+- **Políticas de Licencia:** Comprende y respeta la(s) licencia(s) asociada(s) con los materiales de resultados abiertos que estás utilizando.
 - **Atribución y contribución:** Proporciona una atribución adecuada para los resultados abiertos utilizados y contribuye a la comunidad de resultados abiertos.
 
 Además, da crédito a los repositorios que proporcionan materiales de código abierto en la sección de agradecimientos de su artículo. Si el repositorio proporciona un modelo de agradecimientos en su enlace "Acerca de", sigue esa sugerencia. De lo contrario, una frase genérica como "Este trabajo ha hecho uso de <inserte el nombre del repositorio>." será suficiente.
