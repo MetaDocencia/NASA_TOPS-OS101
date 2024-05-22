@@ -1,37 +1,37 @@
-# Lección 4: Compartiendo Código abierto
+# Lección 4: Compartir Código abierto
 
-## Índice
+## Temas a desarrollar
 
-- [Resumen](#resumen)
+- [Descripción general](#descripcion-general)
 - [Objetivos de Aprendizaje](#objetivos-de-aprendizaje)
-- [Planeando compartir tu código](#planning-to-share-your-code)
+- [Planificación para compartir tu código](#planning-to-share-your-code)
 - [Preocupaciones legales y de seguridad](./Lesson_4#legal-and-security-concerns)
 - [Cuando: El Cronograma para Archivar y Compartir Código.](./Lesson_4#when-the-schedule-for-code-archiving-and-sharing)
 - [Dónde: Dónde Compartir Código Abierto](./Lesson_4#where-to-share-open-code)
-- [Cómo: Cómo habilitar la reutilización del código](./Lesson_4#how-to-enable-reuse-of-code)
+- [Cómo: Cómo habilitar la reusabilidad del código](./Lesson_4#how-to-enable-reuse-of-code)
 - [Quién: Roles y Responsibilidades de los Miembros del Equipo en la Implementación del SMP](./Lesson_4#who-roles-and-responsibilities-of-the-team-members-in-implementing-the-smp)
 - [Lección 4: Resumen](#lesson-4-summary)
-- [Lección 4: Revisión De Conocimientos](#lección-4-revisión-de-conocimientos)
+- [Lección 4: Evaluación](#leccion-4-evaluacion)
 
 ## Resumen
 
 En esta lección aprenderás los pasos para compartir el software que desarrollaste. Estos pasos incluyen determinar si el software debe compartirse, cuándo y dónde, qué funciones son necesarias y cómo permitir que otros utilicen el código.
 
-## Objetivos de Aprendizaje del Módulo
+## Objetivos de aprendizaje
 
 Después de completar este módulo, deberías ser capaz de:
 
 - Describir lo que significa compartir código: para archivar o para desarrollar código.
-- Evaluar si debe compartir su código y listar consideraciones de seguridad importantes.
+- Evaluar si se debe compartir el código y enumerar las consideraciones importantes en materia de seguridad.
 - Describir las mejores prácticas para cuándo y dónde compartir código.
-- Recordar las prácticas más habituales para ayudar a otros a reutilizar tu código.
-- Listar los roles y responsabilidades para compartir y mantener código compartido.
+- Recordar las prácticas más habituales para ayudar a otros a reusar tu código.
+- Enumerar los roles y las responsabilidades para compartir y mantener el código compartido.
 
-## Planificar para compartir tu código
+## Planificación para compartir tu código
 
 <img src="../images/media/image540.png" style="width:350px;height:auto;" />
 
-He estado trabajando en un código y ahora un nuevo colaborador quiere utilizarlo. ¡Genial! ¿Cuál es la mejor manera de compartir el código? ¿Por correo electrónico? ¿Cuándo debo compartir el código y qué debo incluir para asegurar que esta persona pueda utilizarlo fácilmente?"
+Estuve trabajando en un código y ahora un nuevo colaborador quiere utilizarlo. ¡Genial! ¿Cuál es la mejor manera de compartir el código? ¿Por correo electrónico? ¿Cuándo debo compartir el código y qué debo incluir para asegurar que esta persona pueda utilizarlo fácilmente?"
 
 ### ¿Qué significa "Compartir" tu código?
 
