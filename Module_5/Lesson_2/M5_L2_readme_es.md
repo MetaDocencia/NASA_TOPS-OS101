@@ -289,7 +289,7 @@ Lamentablemente, muchas veces no existen pautas de contribución y no está clar
 - **Políticas de Licencia:** Comprende y respeta la(s) licencia(s) asociada(s) con los materiales de resultados abiertos que estás utilizando.
 - **Atribución y contribución:** Proporciona una atribución adecuada para los resultados abiertos utilizados y contribuye a la comunidad de resultados abiertos.
 
-Además, da crédito a los repositorios que proporcionan materiales de código abierto en la sección de agradecimientos de su artículo. Si el repositorio proporciona un modelo de agradecimientos en su enlace "Acerca de", sigue esa sugerencia. De lo contrario, una frase genérica como "Este trabajo ha hecho uso de <inserte el nombre del repositorio>." será suficiente.
+Además, da crédito a los repositorios que proporcionan materiales de código abierto en la sección de agradecimientos de tu artículo. Si el repositorio proporciona un modelo de agradecimientos en su enlace "Acerca de", sigue esa sugerencia. De lo contrario, una frase genérica como "Este trabajo ha hecho uso de <inserte el nombre del repositorio>." será suficiente.
 
 ### Evitar el Plagio al Utilizar Resultados Abiertos
 
@@ -297,7 +297,7 @@ Las pautas habituales que ha estado utilizando en su investigación todo el tiem
 
 Algunos ejemplos de plagio son:
 
-- Copia palabra por palabra sin permiso y sin reconocimiento de la fuente.
+- Copiar palabra por palabra sin permiso y sin reconocimiento de la fuente.
 - Copiar componentes (tablas, procesos, equipos) sin citar la fuente.
 - Parafrasear una idea sin citar correctamente la fuente.
 - Reciclar el propio trabajo anterior y presentarlo como un nuevo documento.
@@ -330,13 +330,13 @@ Fuente de la publicación (Citar siempre)
 
 ---
 
-Si un artículo que desea citar aún no ha sido aceptado para su publicación, debe seguir las pautas de la revista al cual está enviando su artículo. Una cita de referencia de un manuscrito que aún no está publicado o de un borrador típicamente incluye el nombre del o los autor(es), la fecha de la versión más reciente publicada, el título del artículo, el nombre del servidor en donde se encuentra el borrador del artículo, el tipo de objeto ("manuscrito no publicado") y el DOI.
+Si un artículo que desea citar aún no ha sido aceptado para su publicación, debe seguir las pautas de la revista al cual está enviando tu artículo. Una cita de referencia de un manuscrito que aún no está publicado o de un borrador típicamente incluye el nombre de la o las persona(s) autora(s), la fecha de la versión más reciente publicada, el título del artículo, el nombre del servidor en donde se encuentra el borrador del artículo, el tipo de objeto ("manuscrito no publicado") y el DOI.
 
 <img src="../images/media/image33.png" style="width:100%;height:auto;" />
 
 Al momento de la preparación de la presente sección, el siguiente artículo aún no había sido publicado en una revista.
 
-Jin, H., et al. 2023, "Optical color of Type Ib and Ic supernovae and implications for their progenitors," ApJ, manuscrito no publicado, arXiv:2304.10670.
+Jin, H., et al. 2023, "El color óptico de las supernovas de tipo Ib y Ic y sus implicaciones para sus progenitores," ApJ, manuscrito no publicado, arXiv:2304.10670.
 
 ---
 
@@ -351,12 +351,12 @@ Jin, H., et al. 2023, "Optical color of Type Ib and Ic supernovae and implicatio
   <tbody>
     <tr>
         <td colspan="3">
-            <p>Para citar todo lo que sigue, siga las pautas existentes y las mejores prácticas habituales de la comunidad:</p>
+            <p>Para citar todo lo que sigue, sigue las pautas existentes y las mejores prácticas habituales de la comunidad:</p>
             <ul>
                 <li>Cita publicaciones</li>
                 <li>Cita datos</li>
-                <li>Cita Sotwares</li>
-                <li>Cita cualquier otro objeto con un DOI. Teniendo en cuenta que muchas revistas sólo permiten a los autores citar material que tenga un DOI, ¿qué hacer con otros tipos de resultados abiertos?</li>
+                <li>Cita software</li>
+                <li>Cita cualquier otro objeto con un DOI. Teniendo en cuenta que muchas revistas sólo permiten a las personas autoras citar material que tenga un DOI, ¿qué hacer con otros tipos de resultados abiertos?</li>
             </ul>
         </td>
     </tr>
@@ -376,8 +376,8 @@ Jin, H., et al. 2023, "Optical color of Type Ib and Ic supernovae and implicatio
         <td colspan="3">
             <p>Algunos ejemplos son publicaciones en blogs, vídeos y cuadernos.</p>
             <ul>
-                <li>También podrías ponerte en contacto con el autor y pedirle que obtenga un DOI.</li>
-                <li>Deja un comentario en la sección de comentarios o en el foro comunicando al autor tu publicación.</li>
+                <li>También podrías ponerte en contacto con lo creó y pedirle que obtenga un DOI.</li>
+                <li>Deja un comentario en la sección de comentarios o en el foro comunicando la persona autora tu publicación.</li>
             </ul>
         </td>
     </tr>
@@ -407,22 +407,22 @@ Jin, H., et al. 2023, "Optical color of Type Ib and Ic supernovae and implicatio
 
 ### Ejemplos de Agradecimiento
 
-En el ejemplo del blog de la Lección 1 [example](https://medium. om/pangeo/fake-it-until-you-make-it-reading-goes-netcdf4-data-on-aws-s3-as-zarr-for-rapid-data-access-61e33f8fe685), los investigadores agradecieron a las personas con las que trabajaron en un artículo que escribieron y que les resultó de ayuda, y a dos comunidades diferentes, así como al entorno computacional en el que trabajaron. Este es un buen ejemplo de cómo agradecer: "Me gustaría agradecer a Rich Signell (USGS) y Martin Durant (Anaconda) por su ayuda en el estudio de este proceso. Si te interesa ver con más detalle cómo funciona, te recomiendo el artículo de Rich del 2020 sobre el tema. También me gustaría reconocer [Pangeo](https://pangeo.io/) y [Pangeo-forge](https://pangeo-forge. rg/) quienes trabajan con mucho esfuerzo para facilitar el trabajo con grandes conjuntos de datos en geociencia. El trabajo en este proyecto se realizó en la implementación de AWS de Pangeo
+En el ejemplo del blog de la Lección 1 [example](https://medium.com/pangeo/fake-it-until-you-make-it-reading-goes-netcdf4-data-on-aws-s3-as-zarr-for-rapid-data-access-61e33f8fe685), quienes investigan agradecieron a las personas con las que trabajaron en un artículo que escribieron y que les resultó de ayuda, y a dos comunidades diferentes, así como al entorno computacional en el que trabajaron. Este es un buen ejemplo de cómo agradecer: "Me gustaría agradecer a Rich Signell (USGS) y Martin Durant (Anaconda) por su ayuda en el estudio de este proceso. Si te interesa ver con más detalle cómo funciona, te recomiendo el artículo de Rich del 2020 sobre el tema. También me gustaría reconocer [Pangeo](https://pangeo.io/) y [Pangeo-forge](https://pangeo-forge.org/) quienes trabajan con mucho esfuerzo para facilitar el trabajo con grandes conjuntos de datos en geociencia. El trabajo en este proyecto se realizó en la implementación de AWS de Pangeo
 
-En la Lección 1, se presentó el caso de JWST. El [artículo]revisado por pares (https://www.nature.com/articles/s41586-022-05269-w#Ack1) que reportó sobre el primer descubrimiento de CO2 en otro planeta ha sido consultada más de 18.000 veces. Cabe señalar que la autoría se atribuye a todo el equipo. La sección de Agradecimientos detalla debidamente las contribuciones de sus colaboradores y socios, "Los resultados informados aquí se beneficiaron durante la fase de diseño de colaboraciones e intercambios dentro de la red de coordinación de investigación Nexus for Exoplanet System Science (NExSS) de la NASA, patrocinada por la Dirección de Misiones Científicas de la NASA". Todos los datos y modelos presentados en esta publicación pueden consultarse en [https://doi.org/10.5281/zenodo.6959427](https://doi.org/10.5281/zenodo.6959427). Y por último, ¡citan todo el software! "Los códigos utilizados en esta publicación para extraer, reducir y analizar los datos son los siguientes.."
+En la Lección 1, se presentó el caso de JWST. El [artículo]revisado por pares (https://www.nature.com/articles/s41586-022-05269-w#Ack1) que informaba del primer descubrimiento de CO2 en otro planeta ha sido consultada más de 18.000 veces. Cabe señalar que la autoría se atribuye a todo el equipo. La sección de Agradecimientos detalla debidamente las contribuciones de quienes colaboraron, "Los resultados informados aquí se beneficiaron durante la fase de diseño de colaboraciones e intercambios dentro de la red de coordinación de investigación Nexus for Exoplanet System Science (NExSS) de la NASA, patrocinada por la Dirección de Misiones Científicas de la NASA". Todos los datos y modelos presentados en esta publicación pueden consultarse en [https://doi.org/10.5281/zenodo.6959427](https://doi.org/10.5281/zenodo.6959427). Y por último, ¡citan todo el software! "Los códigos utilizados en esta publicación para extraer, reducir y analizar los datos son los siguientes.."
 
 ## Lección 2: Resumen
 
 En esta lección, has aprendido:
 
 - Los resultados abiertos se pueden encontrar tanto utilizando Portales Académicos de Búsqueda como mediante búsquedas en internet.
-- La confiabilidad de una publicación generalmente puede evaluarse por la confiabilidad del sitio web del que proviene, la participación de los miembros de la comunidad y el rigor científico de su contenido.
-- Los usuarios de resultados abiertos, como administradores inherentes de la comunidad de código abierto, tienen informalmente la responsabilidad de contribuir a la sostenibilidad de la comunidad. Esta participación incluye la comunicación de opiniones a quienes proporcionan y desarrollan resultados abiertos.
+- La confiabilidad de una publicación generalmente puede evaluarse por la confiabilidad del sitio web del que proviene, la participación de la comunidad y el rigor científico de su contenido.
+- Quienes utilizan resultados abiertos, en tanto son las personas que inherentemente administran la comunidad de código abierto, tienen informalmente la responsabilidad de contribuir a la sostenibilidad de la comunidad. Esta participación incluye la comunicación de opiniones a quienes proporcionan y desarrollan resultados abiertos.
 - Dar una adecuada referencia a los resultados abiertos es una responsabilidad importante y ética a la hora de utilizar materiales de código abierto. La forma de citar los resultados depende de la especificidad del material.
 
 ## Lección 2: Evaluación
 
-Responde las siguientes preguntas para poner a prueba lo que ha aprendido hasta ahora.
+Responde las siguientes preguntas para poner a prueba lo que has aprendido hasta ahora.
 
 _Pregunta_
 
@@ -447,7 +447,7 @@ _Pregunta_
 - El artículo se acompaña de datos, incluyendo campos definidos y parámetros
 - Se proporciona la información de contacto de la organización
 - La página de internet fue actualizada por última vez en 2015
-- La página de internet anuncia anuncia posiciones de trabajo abiertas con el financiador
-- El autor es un experto en el campo
+- La página de internet anuncia posiciones de trabajo abiertas con quien financia
+- La persona autora es experta en el campo
 - La URL de la página de internet termina en '.com'
 - La documentación acompañante afirma que "al inspeccionar las distribuciones de los datos, se excluyeron del análisis los datos que eran valores atípicos"
