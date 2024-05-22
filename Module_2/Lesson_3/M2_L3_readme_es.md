@@ -211,34 +211,33 @@ Estos archivos requieren herramientas de software especiales para ver sus conten
 **ZARR, COG, PARQUETO** -
 Estos archivos requieren herramientas de software especiales para ver su contenido. Muchas de estas herramientas permiten también visualizar los datos.
 
-- Zarr: los archivos se visualizan fácilmente utilizando software de código abierto, como las bibliotecas [Xarray](https://docs.xarray.dev/en/stable/) en Python o [Pizzar](https://github.com/keller-mark/pizzarr) en R.
-- COG: Los archivos se visualizan utilizando la biblioteca de software de código abierto [rioXarray](https://corteva.github.io/rioxarray/html/index.html) en Python o la biblioteca [terra](https://cran.r-project.org/web/packages/terra/index.html) en R.
-- Parquet: Los archivos se visualizan utilizando la biblioteca de software de código abierto [Pandas](https://pandas.pydata.org/) en Python o la biblioteca [Arrow](https://arrow.apache.org/docs/r/reference/read_parquet.html) en R.
+- Zarr: los archivos se visualizan fácilmente utilizando software de código abierto, como las bibliotecas [Xarray](https://docs.xarray.dev/en/stable/) de Python o [Pizzar](https://github.com/keller-mark/pizzarr) en R.
+- COG: los archivos se visualizan utilizando la biblioteca [rioXarray](https://corteva.github.io/rioxarray/html/index.html) en Python o la biblioteca [terra](https://cran.r-project.org/web/packages/terra/index.html) en R.
+- Parquet: los archivos se visualizan fácilmente utilizando software de código abierto, como las bibliotecas [Pandas](https://pandas.pydata.org/) en Python o [Arrow](https://arrow.apache.org/docs/r/reference/read_parquet.html) en R.
 
 ### Evaluación FAIR
 
-¿Qué tan "FAIR" son tus datos? Dos grupos, FAIRsharing.org (https://fairsharing.org/) y la Alianza para los Datos de Investigación (RDA (https://www.rd-alliance.org/)), han desarrollado las Métricas FAIR (https://www.nature.com/articles/sdata2018118) y el Modelo de Madurez de Datos FAIR (https://www.rd-alliance.org/group/fair-data-maturity-model-wg/outcomes/fair-data-maturity-model-specification-and-guidelines-0) para ayudar a evaluar el grado de 'FAIR'-ness de un conjunto de datos.
-Existen herramientas de código abierto para ayudar a los investigadores a evaluar sus datos:
+¿Qué tan "FAIR" son tus datos? Dos grupos - [FAIRsharing.org](https://fairsharing.org/) y la [Research Data Alliance (RDA)](https://www.rd-alliance.org/) (en español, Alianza para los Datos de Investigación) - han desarrollado las [Métricas FAIR](https://www.nature.com/articles/sdata2018118) y el [Modelo de Madurez de Datos FAIR](https://www.rd-alliance.org/group/fair-data-maturity-model-wg/outcomes/fair-data-maturity-model-specification-and-guidelines-0) para ayudar a evaluar el grado de 'FAIR'-dad de un conjunto de datos. Existen herramientas de código abierto para ayudar a los investigadores a evaluar sus datos:
 
 **AUSTRALIAN RESEARCH DATA COMMONS (ARDC)**
 
 Cuestionario en línea (manual) - Ideal para:
 
-- Desencadenar debates en las fases iniciales de estudio de la aplicación de FAIR
+- Desencadenar debates en las fases iniciales de estudio, considerando la implementación de los principios FAIR.
 - Identificar áreas de mejora
 
 Las salidas incluyen:
 
 - Barra de progreso para cada principio FAIR
-- Barra de progreso para cada principio FAIR
+- Barra de progreso agregada para todos los principios
 
 **FAIR-CHECKER**
 
-Automatizado a través del sitio web o API
+Herramienta automatizada a través del sitio web o API
 
 Mejor para:
 
-- Escalabilidad a muchos conjuntos de datos
+- Escalabilidad de bases de datos
 - Identificar áreas de mejora
 
 Las salidas incluyen:
@@ -247,55 +246,55 @@ Las salidas incluyen:
 
 **F-UJI**
 
-Automatizado a través del sitio web o API
+Herramienta automatizada a través del sitio web o API
 
-Mejor para:
+Ideal para:
 
-- Escalabilidad a muchos conjuntos de datos
+- Escalabilidad de bases de datos
 - Documentación detallada de la herramienta
 
-Las salidas incluyen:
+Los resultados incluyen:
 
-- Un gráfico con puntuaciones y detalles
+- Un informe y gráfico con puntuaciones y detalles
 
-SERVICIOS DE EVALUACIÓN FAIR
+**FAIR EVALUATION SERVICES**
 
-Automatizado a través del sitio web o API
+Herramienta automatizada a través del sitio web o API
 
-Mejor para:
+Ideal para:
 
 - Escalabilidad a muchos conjuntos de datos
 - Para generar una evaluación personalizada
 
-Las salidas incluyen:
+Los resultados incluyen:
 
 - Un informe detallado y un gráfico
 
 ## Lección 3: Resumen
 
-En esta lección has aprendido:
+En esta lección aprendiste:
 
 - Los diferentes tipos de datos científicos, incluyendo datos primarios, secundarios, publicados y metadatos.
-- Una lista de prácticas de ciencia abierta para aplicar los principios FAIR que hacen que los datos y resultados sean fácilmente accesibles a un amplio abanico de personas.
-- Herramientas digitales para ayudar a planificar la creación y el intercambio de datos abiertos.
+- Una lista de prácticas de ciencia abierta para aplicar los principios FAIR que hacen que los datos y resultados sean fácilmente accesibles a muchas personas.
+- Herramientas digitales que facilitan la planificación, creación e intercambio de datos abiertos.
 
-## Lección 3: Prueba de Conocimiento
+## Lección 3: Evaluación
 
-Responda a las siguientes preguntas para probar lo que has aprendido hasta ahora.
+Responde las siguientes preguntas para probar lo que has aprendido hasta ahora.
 
 _Pregunta_
 
 **01/03**
 
-Seleccione los principios FAIR de la siguiente lista. Seleccione todas las opciones que correspondan.
+Seleccione los principios FAIR de la siguiente lista. Selecciona todas las opciones que correspondan.
 
 - Reproducibilidad
-- Reutilizable
-- responsable
-- Localizable
+- Reusable
+- Responsable
+- Fácil de encontrar
 - Interactivo
 - Interoperable
-- Interpolado
+- Intercalado
 - Accesible
 - Autorizable
 
@@ -303,17 +302,17 @@ _Pregunta_
 
 **02/03**
 
-¿Cuál de las siguientes opciones puede ayudar a que tus datos sean FAIR? Seleccione todas las opciones que correspondan.
+¿Cuál de las siguientes opciones puede ayudar a que tus datos sean FAIR? Selecciona todas las opciones que correspondan.
 
 - Obtener una licencia para tus datos
-- Asegurarse de desarrollar tus propios metadatos
+- Desarrollar tus propios metadatos
 - Obtener un PID para tus datos
 
 _Pregunta_
 
 **03/03**
 
-¿Cuáles de los siguientes son ejemplos de repositorios? Seleccione todas las opciones que correspondan.
+¿Cuáles de los siguientes son ejemplos de repositorios? Selecciona todas las opciones que correspondan.
 
 - Zenodo
 - Dataverse
