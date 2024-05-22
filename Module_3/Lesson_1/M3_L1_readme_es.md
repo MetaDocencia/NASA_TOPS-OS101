@@ -353,7 +353,7 @@ Una buena práctica al comenzar tu viaje con datos abiertos es crear un Plan de 
 
 |           |                                                                                                                     |
 | --------- | ------------------------------------------------------------------------------------------------------------------- |
-| ¿Qué?     | Formato y (si es relevante) estándares de datos.                                 |
+| ¿Qué?     | Tipos, volumen, formato y (si es relevante) estándares de datos.                 |
 | ¿Cuando?  | El cronograma para archivar y compartir.                                                            |
 | ¿Dónde?   | Los repositorios destinados a datos archivados.                                                     |
 | ¿Cómo?    | Cómo el plan permite la conservación a largo plazo de los datos.                                    |
