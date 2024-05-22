@@ -13,7 +13,7 @@
 - [Lección 5: Evaluación](#leccion-5-evaluacion)
 - [Código abierto: Resumen](#codigo-abierto-resumen)
 
-## Descripción/Desarrollo general
+## Descripción general
 
 Esta lección relaciona los conceptos de desarrollo de software de acceso o de código abierto con el funcionamiento de un plan de gestión de software. La lección presenta también, el aspecto comunitario del software de código abierto. Comienza con una discusión sobre cómo redactar planes de gestión de software, luego continúa con información sobre cómo conectarse con comunidades de software de código abierto. Esta información está contextualizada con una introducción a los beneficios de una comunidad de software y los roles involucrados en estos grupos. También se presenta una lista de comunidades y te solicitan que explores e interactúes con algunas de ellas. La lección concluye con sugerencias útiles para contribuir al software de código abierto y recursos adicionales.
 
