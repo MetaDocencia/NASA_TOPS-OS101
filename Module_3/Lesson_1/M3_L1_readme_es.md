@@ -155,17 +155,17 @@ Los datos abiertos también benefician a tu investigación y tu carrera. Para em
 
 Hacer ciencia abierta no sólo permite que otras personas entiendan y reproduzcan tus resultados, ¡sino que también te permite hacerlo! Implementar principios de ciencia abierta como la buena documentación y el control de versiones le ayudan, a potenciales colaboradores y al resto de las personas a entender sus resultados. En 2 horas, 2 semanas, o 2 años, todavía podrá entender lo que hizo.
 
-Beneficios específicos de la apertura de datos para usted como persona:
+Beneficios específicos que tendrás si tus datos son abiertos:
 
 - Nunca perderás el acceso a tu trabajo anterior, sin importar el instituto al que estés afiliado. Muchos investigadores se mueven por instituciones y organizaciones y, al tener sus datos accesibles públicamente en repositorios, siempre tendrá acceso a ellos.
-- Tus datos pueden ser citados y obtendrás crédito.
+- Cuando tus datos sean citados obtendrás el crédito correspondiente.
 - Las publicaciones que incluyen enlaces a datos se citan más, según un [estudio](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230416) de 2020
 
-La implementación de buenas prácticas para la ciencia abierta puede fortalecer las propuestas de financiación. Las agencias de financiación se están dando cuenta de que compartir abiertamente la investigación proporciona un mayor retorno de su inversión. Los productos de investigación bien documentados también demuestran la calidad de su trabajo, lo que ayuda con la comunicación pública y también puede atraer colaboradores de calidad. Todo el mundo prefiere trabajar con personas fiables y que hagan un buen trabajo.
+La implementación de buenas prácticas para la ciencia abierta puede fortalecer tus propuestas de financiación. Las agencias de financiación se están dando cuenta de que compartir abiertamente la investigación proporciona un mayor retorno de su inversión. Los productos de investigación bien documentados también demuestran la calidad de tu trabajo, lo que ayuda con la comunicación pública y también puede atraer colaboradores de calidad. Todo el mundo prefiere trabajar con personas confiables y que hagan un buen trabajo.
 
 ### Actividad 1.1 Revisión de Datos Abiertos
 
-Toma un momento para reflexionar sobre lo que significa para tí compartir datos.
+Tómate un momento para reflexionar sobre lo que significa para tí compartir datos.
 
 <img style="width:100%;height:auto;" src="../images/media/image6.jpeg">
 
@@ -173,17 +173,17 @@ Fuente de la imagen: CC-by [openaire](https://www.openaire.eu/blogs/open-researc
 
 ---
 
-La nube de palabras muestra la variedad de significados e interpretaciones que la gente tiene sobre los datos abiertos. ¿Cuántos términos en la nube de palabras reconoces? ¿Alguno de ellos es nuevo para ti?
+La nube de palabras muestra la variedad de significados e interpretaciones que tiene la gente sobre los datos abiertos. ¿Cuántos términos de la nube de palabras reconoces? ¿Alguno de ellos es nuevo para ti?
 
 ## Desafíos de los Datos Abiertos
 
-Si bien los datos abiertos tienen muchos beneficios, su creación y uso también pueden plantear desafíos. A lo largo de este módulo, analizamos muchos de estos desafíos y posibles soluciones. En esta sección, analizamos algunas de las preocupaciones más comunes junto con acciones para mitigarlas.
+Si bien los datos abiertos tienen muchos beneficios, su creación y uso también pueden plantear desafíos. A lo largo de este módulo analizaremos muchos de estos desafíos y sus posibles soluciones. En esta sección, analizamos algunas de las preocupaciones más comunes junto con acciones para mitigarlas.
 
-**Ejemplo: ¿Hay algún perjuicio para los Datos Abiertos?**
+**Ejemplo: ¿Existen riesgos para los datos abiertos?**
 
-Se ha demostrado que los datos abiertos marginan o explotan aún más las iniciativas de pequeña escala impulsadas por la comunidad, como en [el caso](https://thebulletin.org/2022/05/how-a-dispute-over-sharing-coronavirus-genomes-is-threatening-a-vital-tool-for-tracking-variants/) de investigadores africanos que no recibieron el debido crédito ni compensación por la secuenciación de su genoma durante la pandemia de COVID-19. Esto se explora más a fondo en la siguiente sección a medida que presentamos formas de mitigar los daños que podrían ocurrir a través del intercambio de datos irreflexivo e irresponsable.
+Se ha demostrado que los datos abiertos marginan o explotan aún más las iniciativas de pequeña escala impulsadas por la comunidad, como en [el caso](https://thebulletin.org/2022/05/how-a-dispute-over-sharing-coronavirus-genomes-is-threatening-a-vital-tool-for-tracking-variants/) de personas investigadoras africanas que no recibieron el debido crédito ni compensación por la secuenciación de su genoma durante la pandemia de COVID-19. Esto se explora más a fondo en la siguiente sección, en la que presentamos formas de mitigar los daños que podrían ocurrir como consecuencia del intercambio de datos irreflexivo e irresponsable.
 
-### Restricciones al Compartir Datos
+### Restricciones para compartir datos
 
 Algunos datos sólo deben compartirse con mucho cuidado o no compartirse en absoluto. Las razones para no compartir pueden incluir:
 
@@ -192,9 +192,9 @@ Algunos datos sólo deben compartirse con mucho cuidado o no compartirse en abso
 - Asuntos indígenas/culturales/de conservación.
 - Los datos incluyen propiedad intelectual.
 
-Es importante estar familiarizado con las políticas sobre el intercambio de tus datos y las políticas de tu agencia de financiación, institución o las leyes sobre protección de datos. Esto se analiza con más detalle en módulos posteriores.
+Es importante estar familiarizado con las políticas que rigen el intercambio de datos y las políticas de tu agencia de financiación, institución o legislación en materia de protección de datos. Esto se analiza con más detalle en módulos posteriores.
 
-### Miedos Comunes en el Intercambio de Datos Abiertos
+### Temores comunes a la hora de compartir datos
 
 #### <img style="width:20px;height:auto;" src="../images/media/image7.png"> NOTA: Analizaremos muchos de los conceptos mencionados en la columna de discusión/mitigación más adelante en este módulo.
 
