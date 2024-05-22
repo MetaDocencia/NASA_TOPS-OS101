@@ -369,7 +369,7 @@ Se proporcionarán más detalles sobre cómo crear estos planes en la lección "
 
 ### Flujo de trabajo científico
 
-Hay una variedad de modelos de flujo de trabajo científico que aclaran y facilitan la comprensión de los principios y prácticas de la ciencia abierta. Los datos juegan un papel central en el flujo de trabajo científico, donde los usuarios pueden proponer crear nuevos datos, recopilar y empaquetar sus datos durante su proyecto, y luego archivarlos para su almacenamiento/usabilidad/reutilización a largo plazo.
+Hay una variedad de modelos de flujo de trabajo científico que aclaran y facilitan la comprensión de los principios y prácticas de la ciencia abierta. Los datos juegan un papel central en el flujo de trabajo, donde los usuarios pueden proponer crear nuevos datos, recopilar y empaquetar sus datos durante su proyecto, y luego archivarlos para su almacenamiento/uso/reuso a largo plazo.
 
 Para este plan de estudios, utilizamos el modelo de flujo de trabajo de [Opensciency](https://opensciency.github.io/sprint-content/open-results/lesson1-research-process-and-results.html#what-research-objects-are-commonly-associated-with-research-stages). Se utiliza para ilustrar que, independientemente del modelo de flujo de trabajo que se utilice, la adopción de datos abiertos se realiza en todo el flujo de trabajo y producción de entregables asociados.
 
@@ -453,7 +453,7 @@ En esta lección, aprendiste:
 
 ## Lección 1: Evaluación
 
-Responde las siguientes preguntas para poner a prueba lo que ha aprendido hasta ahora.
+Responde las siguientes preguntas para poner a prueba lo que has aprendido hasta ahora.
 
 _Pregunta_
 
@@ -461,7 +461,7 @@ _Pregunta_
 
 Lee la siguiente afirmación e indica si es Verdadera o Falsa.
 
-_Los datos abiertos pueden ser libremente utilizados, reutilizados y redistribuidos por cualquiera, sujeto, como mucho, al requisito de atribuir y compartir por igual._
+_Los datos abiertos pueden ser libremente utilizados, reusados y redistribuidos por cualquiera, sujeto, como mucho, al requisito de atribuir y compartir por igual._
 
 - Verdadero
 - Falso
@@ -470,11 +470,11 @@ _Pregunta_
 
 **02/04**
 
-Termina esa frase:
+Termina la frase:
 
 _Hacer que los datos estén abiertos te ayuda porque _____._
 
-- tus datos pueden ser citados y se te reconocerá el mérito
+- tus datos pueden ser citados y se te dará credito
 - no perderás el acceso a tus datos, incluso si cambias de institución
 - tus publicaciones tienen más probabilidades de ser citadas cuando se vinculan a datos abiertos
 - todas las anteriores
@@ -488,7 +488,7 @@ Seleccione los principios FAIR de la siguiente lista. Selecciona todos los que c
 - Reproducibilidad
 - Reutilizable
 - Responsable
-- Localizable
+- Fácil de encontrar
 - Interactivo
 - Interoperable
 - Interpolado
