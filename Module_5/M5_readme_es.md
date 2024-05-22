@@ -1,10 +1,10 @@
-# Introducción a la Ciencia Abierta Módulo 5: Resultados Abiertos
+# Módulo 5: Resultados Abiertos
 
-Te damos la bienvenida a Introducción a la Ciencia Abierta: Resultados Abiertos
+**Te Damos la Bienvenida al Módulo de Resultados Abiertos**
 
 ## Acerca de este módulo
 
-¡Te damos la bienvenida a Resultados Abiertos! Este módulo se enfoca en brindarte las herramientas necesarias para iniciar una colaboración científica estableciendo pautas que garanticen a quienes colaboran, la posibilidad de generar una contribución ética. El módulo comienza con un caso de uso de la ciencia abierta en acción, seguido de una revisión sobre cómo descubrir y evaluar resultados abiertos. A continuación, se centra en cómo publicar resultados, lo que incluye una lista de verificación de tareas. El módulo concluye con orientación específica para escribir la sección de compartir resultados de los Planes de Gestión de Ciencia Abierta y Datos (PGCAD). También reflexionaremos sobre cómo nuestra sociedad y tecnología están en constante cambio en la forma en que hacemos ciencia.
+¡Te damos la bienvenida a Resultados Abiertos! Este módulo se centra en brindarte las herramientas que necesitas para iniciar una colaboración científica mediante la creación de pautas para los contribuyentes que garanticen una colaboración ética. El módulo comienza con un caso de uso de la ciencia abierta en acción, seguido de una revisión sobre cómo descubrir y evaluar resultados abiertos. A continuación, se centra en cómo publicar resultados, lo que incluye una lista de verificación de tareas. Finalmente, el módulo concluye con una orientación específica para la escritura de la sección de compartir resultados de los Planes de Gestión de Ciencia Abierta y Datos (PGCAD). También reflexionaremos sobre cómo nuestra sociedad y tecnología están en constante cambio en la forma en que hacemos ciencia.
 
 ### Objetivos de aprendizaje del módulo
 
