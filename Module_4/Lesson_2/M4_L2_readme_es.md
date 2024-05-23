@@ -100,11 +100,11 @@ En este ejemplo, practicaremos la búsqueda de código de acceso abierto en GitH
 
 **Ejemplo de contexto**
 
-GitHub permite a los usuarios colaborar en un proyecto compartido y realizar un seguimiento de sus cambios con control de versiones. Los usuarios pueden crear un repositorio y otorgar acceso a otros, o darle acceso abierto. GitHub involucra una gran comunidad de usuarios de acceso abierto que ponen su código a disposición de forma gratuita.
+GitHub permite a los usuarios colaborar en un proyecto compartido y seguir sus cambios con el control de versiones. Los usuarios pueden crear un repositorio y otorgar acceso a otros, o darle acceso abierto. GitHub implica a una gran comunidad de usuarios de acceso abierto que ponen su código disponible de forma libre.
 
 **Instrucciones**
 
-Comienza visitando el sitio web de GitHub para buscar paquetes de software disponibles abiertamente. Deberás crear una cuenta gratuita para esta acción. Ahora navega en la página Código de Búsqueda para acceder a tutoriales sobre la interfaz y conocer las capacidades del portal de búsqueda. Alternativamente, puedes ingresar de forma simple tus términos en la barra de búsqueda mientras estás en tu página de perfil. Luego, ingresa las palabras clave relacionadas. Busca "Lomb Scargle" y encuentra varios repositorios con código relevante en varios idiomas, junto con miles de fragmentos de código relacionados. ¡Felicitaciones! Has comenzado tu viaje hacia el software de acceso abierto y ahora puedes ver el trabajo de miles de personas que alguna vez estuvieron donde tú estás ahora. ¡Arriba y adelante!
+Comienza visitando el sitio web de GitHub para buscar paquetes de software disponibles abiertamente. Deberás crear una cuenta gratuita para esta acción. Ahora navega en la página Código de Búsqueda para acceder a tutoriales sobre la interfaz y conocer las capacidades del portal de búsqueda. Alternativamente, puedes ingresar de forma simple tus términos en la barra de búsqueda mientras estás en tu página de perfil. Luego, en la barra de busqueda, ingresa las palabras clave relacionadas. Busca "Lomb Scargle" y aparecerán varios repositorios con código relevante en varios lenguajes de programación (Julia y Python), junto con miles de partes de código relacionados. ¡Felicitaciones! Has comenzado tu viaje hacia el software de acceso abierto y ahora puedes ver el trabajo de miles de personas que alguna vez estuvieron donde tú estás ahora. ¡Arriba y adelante!
 
 <img src="../images/media/image335.jpg" style="width:100%;height:auto;" />
 
@@ -116,7 +116,7 @@ Captura de pantalla de los fragmentos de código devueltos por nuestra búsqueda
 
 ---
 
-Con el software abierto, saber dónde buscar y qué buscar puede ser un problema desafiante. Siempre puedes comenzar con una búsqueda en Google. Sin embargo, puede resultar valioso reflexionar sobre algunas de las preguntas que guían el proceso de descubrimiento. Si el usuario carece de experiencia relevante, también puede resultar útil involucrar a colegas experimentados en esta etapa.
+Con el software abierto, saber dónde buscar y qué buscar puede ser un problema desafiante. Siempre puedes comenzar con una búsqueda en Google. Sin embargo, puede ser valioso reflexionar sobre algunas de las preguntas que guían el proceso de búsqueda. Si el usuario carece de experiencia relevante, también puede resultar útil involucrar a colegas experimentados en esta etapa.
 
 Revisa el diagrama de flujo que ilustra cómo la búsqueda sigue la definición de la necesidad.
 
