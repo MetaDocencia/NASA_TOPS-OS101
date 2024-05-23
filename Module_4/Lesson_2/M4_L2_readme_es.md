@@ -4,8 +4,8 @@
 
 - [Resumen](#resumen)
 - [Objetivos de Aprendizaje](#objetivos-de-aprendizaje)
-- [Descubrir Código Abierto y Software](#descubrir-código-abierto-y-software)
-- [Evaluar Código Abierto y Software](#evaluar-código-abierto-y-software)
+- [Descubrir Código Abierto y Software](#descubrir-codigo-abierto-y-software)
+- [Evaluar Código Abierto y Software](#evaluar-codigo-abierto-y-software)
 - [Reutilizar Código Abierto](#reutilizar-código-abierto)
 - [Citar y Reconocer el uso de Código Abierto](#citar-y-reconocer-el-uso-de-código-abierto)
 - [Lección 2: Resumen](#lección-2-resumen)
@@ -13,20 +13,20 @@
 
 ## Descripción General
 
-En esta lección, aprederás los pasos para utilizar código abierto en tu trabajo. Estos pasos incluyen descubrir, evaluar, reutilizar, citar y reconocer.
+En esta lección, aprenderá los pasos para utilizar código abierto disponible en tu trabajo. Estos pasos incluyen descubrir, evaluar, re-usar, citar y reconocer.
 
 ## Objetivos de Aprendizaje
 
 Después de completar esta lección, deberías ser capaz de:
 
-- Describir el proceso de uso de código abierto y enumerar algunos elementos clave para descubrir código.
+- Describir el proceso de uso de código abierto y enumerar algunos elementos clave para encontrar código.
 - Describir las cuatro consideraciones clave al evaluar el software abierto: funcionalidad, interoperabilidad, seguridad y licencias.
 - Enumerar algunos problemas comunes que surgen al reutilizar Código Abierto y las mejores prácticas para resolverlos.
 - Describir cómo, dónde y bajo qué circunstancias se debe reconocer (citar) el código.
 
 ## Descubriendo Código Abierto y Software
 
-Mucha gente descubre el código a través de conversaciones con sus colegas o leyendo artículos de revistas y asistiendo a charlas en conferencias. Esta es una excelente manera de conocer el código que podría tener aplicaciones para problemas científicos.
+Mucha gente descubre el código a través de conversaciones con sus colegas o leyendo artículos de revistas y asistiendo a charlas en conferencias. Esta es una excelente forma de encontrar código que puede tener aplicaciones para su problema científico.
 
 ¿De que otras maneras alguien puede buscar código abierto? Como primer paso, puede buscar código que ya exista porque es probable que otras personas hayan tenido un problema similar y publicado su código en línea. Una manera común de buscar código existente es mediante un motor de búsqueda general. Los motores de búsqueda ofrecen un indicador de la relevancia de un código, con sus respecticas actualizaciones y frecuencia de referencias.
 
