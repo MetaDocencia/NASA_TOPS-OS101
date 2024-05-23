@@ -341,24 +341,24 @@ Primero definamos los roles de autores y colaboradores.
 
 ### ¿Todas las personas autoras son colaboradoras y viceversa?
 
-Una autoría corresponde a una persona que realiza activamente una o varias de las tareas mencionadas anteriormente ([National Institute of Health - NIH](https://oir.nih.gov/sourcebook/ethical-conduct/authorship-guidelines-resources/authorship-resources) y [ICMJE](https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html)). Todos los autores son colaboradores, pero es posible que no todos los colaboradores sean autores, por ejemplo, alguien que sirva como mentor, entrenador o mantenedor de infraestructura. Idealmente, todos los colaboradores tienen la oportunidad de tener autoria sobre los resultados de la investigaciones.
+Una autoría corresponde a una persona que realiza activamente una o varias de las tareas mencionadas anteriormente ([National Institute of Health - NIH](https://oir.nih.gov/sourcebook/ethical-conduct/authorship-guidelines-resources/authorship-resources) y [ICMJE](https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html)). Todas las personas autoras son colaboradoras, pero es posible que no todas las personas colaboradoras sean autoras, por ejemplo, alguien que contribuye mediante mentoría, capacitación o mantenimiento de infraestructura. Idealmente, todas las personas colaboradoras tienen la oportunidad de tener autoría sobre los resultados de la investigación.
 
-Dada la importancia que tradicionalmente se le atribuye a la autoría en la publicación científica y la ambigüedad de las definiciones (que a menudo contienen términos relativos como "sustancial" o "extensivo" que dejan demasiado margen para la interpretación), no es de extrañar que determinar quien merece una autoria pueda conducir a decisiones sesgadas o injustas, disputas entre los contribuyentes, o como mínimo dejar a alguien resentido y con el sentimiento de ser menospreciado.
+Dada la importancia que tradicionalmente se le atribuye a la autoría en la publicación científica y la ambigüedad de las definiciones (que a menudo contienen términos relativos, como "sustancial" o "extensivo", que dejan demasiado margen para interpretaciones subjetivas), no es de extrañar que determinar quién merece una autoría pueda conducir a decisiones sesgadas o injustas, disputas entre personas colaboradoras, o como mínimo, dejar a alguna persona resentida y con el sentimiento de ser menospreciada.
 
-No hay un único enfoque para reconocer a los contribuyentes como autores, pero esto es lo que se debería considerar:
+No hay un único enfoque para reconocer a las personas contribuyentes como autoras, pero esto es lo que se debería considerar:
 
 <table>
   <thead>
     <tr>
-        <th>DINAMICAS DE PODER EN GRUPO &amp; EQUIDAD (Por ejemplo, SENIORIDAD, SISTEMAS DE OPRESIÓN) ☑</th>
+        <th>DINAMICAS DE PODER EN GRUPO &amp; EQUIDAD (Por ejemplo, jerarquía, sistemas de opresión) ☑</th>
         <th>EL TIPO DE CONTRIBUCIÓN</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="2">
-            <p>Consideremos este hipotético escenario: Usted es un estudiante postdoctoral y el principal autor de un proyecto de investigación. Un estudiante rotativo pasa 4 meses en el laboratorio ayudando a establecer y perfeccionar el protocolo experimental que se utilizará para realizar los experimentos necesarios para responder a la pregunta de la investigación. Incluso pueden ayudar en la obtención de datos preliminares, pero luego se van y deciden unirse a otro laboratorio. ¿Proporcionarías la autoría a el estudiante?</p>
-            <p>Sería poco ético no dar a la autoría o crédito a alguien que ha prestado una ayuda significativa y ha contribuido al éxito de una investigación incluso cuando ya no están implicados. Un camino justo en este escenario podría ser ponerse en contacto con el colaborador anterior e implicarlos en la escritura de una sección relevante del manuscrito.</p>
+            <p>Considera este escenario hipotético: Eres estudiante postdoctoral y autor principal de un proyecto de investigación. Un estudiante rotativo pasa 4 meses en el laboratorio ayudando a establecer y perfeccionar el protocolo experimental que se utilizará para realizar los experimentos necesarios para responder a la pregunta de la investigación. Incluso pueden ayudar en la obtención de datos preliminares, pero luego se van y deciden unirse a otro laboratorio. ¿Proporcionarías la autoría a el estudiante?</p>
+            <p>Sería poco ético no dar a la autoría o crédito a alguna persona que ha prestado una ayuda significativa y ha contribuido al éxito de una investigación incluso cuando ya no esté implicada. Un camino justo en este escenario podría ser ponerse en contacto con el colaborador anterior e implicarlos en la escritura de una sección relevante del manuscrito.</p>
         </td>
     </tr>
   </tbody>
