@@ -1,6 +1,6 @@
 # Lección 4: Compartir Código abierto
 
-## Temas a desarrollar
+## Contenidos
 
 - [Descripción general](#descripcion-general)
 - [Objetivos de Aprendizaje](#objetivos-de-aprendizaje)
@@ -13,7 +13,7 @@
 - [Lección 4: Resumen](#lesson-4-summary)
 - [Lección 4: Evaluación](#leccion-4-evaluacion)
 
-## Resumen
+## Descripción general
 
 En esta lección aprenderás los pasos para compartir el software que desarrollaste. Estos pasos incluyen determinar si el software debe compartirse, cuándo y dónde, qué funciones son necesarias y cómo permitir que otros utilicen el código.
 
@@ -35,11 +35,11 @@ Estuve trabajando en un código y ahora un nuevo colaborador quiere utilizarlo. 
 
 ### ¿Qué significa "Compartir" tu código?
 
-Hay dos categorías principales de compartir: compartir el desarrollo y el suministro de un registro a largo plazo.
+Para compartir, existen dos categorías principales: el compartir para el desarrollo y el proporcionar un registro a largo plazo.
 
 ### Desarrollo de código abierto
 
-Escribir código científico suele ser un proceso dinámico y colaborativo en el que contribuyen varias personas y el código evoluciona con el tiempo. En este tipo de proyectos, es beneficioso desarrollar código abierto en una plataforma de alojamiento de repositorios públicos como Github, Bitbucket, GitLab, etc. desde el principio del proyecto. Esto garantiza que todas las actualizaciones se compartan abiertamente en la web y puedan llegar a colaboradores y usuarios potencialmente interesados casi en tiempo real.
+Escribir código científico suele ser un proceso dinámico y colaborativo en el que contribuyen varias personas y el código evoluciona con el tiempo. En este tipo de proyectos, es beneficioso desarrollar código abierto en una plataforma pública de alojamiento de repositorios como Github, Bitbucket, GitLab, etc. desde el principio del proyecto. Esto garantiza que todas las actualizaciones se compartan abiertamente en la web y puedan llegar a colaboradores y usuarios potencialmente interesados casi en tiempo real.
 
 ### Compartir Código Abierto
 
