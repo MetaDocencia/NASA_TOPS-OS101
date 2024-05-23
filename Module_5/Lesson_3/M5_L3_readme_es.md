@@ -297,7 +297,7 @@ Crear diferentes componentes de investigación y prepararse para compartirlos co
 - Escribir y revisar manuscritos
 - ¡Y [mas](https://the-turing-way.netlify.app/collaboration/shared-ownership/shared-ownership-projects.html)!
 
-Frecuentemente las conversaciones sobre la contribución y la autoría tienen lugar hacia el final de un proyecto o cuando se prepara el borrador de una publicación científica. Sin embargo, como se ha aprendido en las lecciones anteriores, los resultados de la investigación se generan a lo largo de toda la vida de un proyecto de investigación. Por lo tanto, es importante construir un acuerdo al principio del proyecto sobre cómo se gestionará la contribución en el proyecto.
+Frecuentemente las conversaciones sobre la contribución y la autoría tienen lugar hacia el final de un proyecto o cuando se prepara el borrador de una publicación científica. Sin embargo, como se ha aprendido en las lecciones anteriores, los resultados de la investigación se generan a lo largo de toda la vida de un proyecto de investigación. Por lo tanto, es importante construir un acuerdo al principio del proyecto sobre cómo se gestionarán las contribuciones en el mismo.
 
 Desarrollar pautas de contribución y acuerdos entre colaboradores requiere definir de manera colaborativa qué se considera contribuciones en el proyecto, quiénes entre los colaboradores actuales obtendrán autoría, quiénes serán reconocidos como colaboradores, cuál es la importancia del orden en el que se enumeran los autores en una publicación científica y quién toma estas decisiones. Garantizar que todos los colaboradores entiendan y acepten estas pautas antes de comenzar el proyecto también es importante.
 
@@ -305,19 +305,19 @@ Desarrollar pautas de contribución y acuerdos entre colaboradores requiere defi
 
 En primer lugar y sobre todo, se debe asegurar que se reconozcan sus contribuciones a cualquier persona que haya contribuido al proyecto de investigación. Con esta idea en mente, en esta lección, se explorará cómo se representarán esos reconocimientos a los colaboradores o autores de tu proyecto de investigación.
 
-Primero definamos los roles de los autores y los colaboradores.
+Primero definamos los roles de autores y colaboradores.
 
 <table>
   <thead>
     <tr>
         <th>"COLABORADORES" ☑</th>
-        <th>"AUTORES"</th>
+        <th>PERSONA "AUTORA"</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="2">
-            <p>Un colaborador es cualquiera que haya realizado cualquier actividad que haya hecho posible que la investigación suceda y se creen resultados, publicados o compartidos.</p>
+            <p>Una persona colaboradora es cualquiera que haya realizado alguna actividad que haya hecho posible que la investigación se lleve a cabo y que se generen resultados, se publiquen o se compartan.</p>
         </td>
     </tr>
   </tbody>
@@ -326,22 +326,22 @@ Primero definamos los roles de los autores y los colaboradores.
 <table>
   <thead>
     <tr>
-        <th>"COLABORADORES"</th>
-        <th>"AUTORES" ☑</th>
+        <th>PERSONA "COLABORADORA"</th>
+        <th>PERSONA "AUTORA" ☑</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="2">
-            <p>Un autor de un resultado abierto es un colaborador que ha contribuido sustancialmente a la concepción o diseño de la obra o la adquisición, o interpretación de los datos para la publicación.</p>
+            <p>Una persona autora de un resultado abierto es una persona colaboradora que ha contribuido sustancialmente en la concepción o diseño del trabajo, o en la adquisición, análisis o interpretación de los datos para la publicación.</p>
         </td>
     </tr>
   </tbody>
 </table>
 
-### ¿Todos los autores son colaboradores y viceversa?
+### ¿Todas las personas autoras son colaboradoras y viceversa?
 
-Una autoria corresponde a una persona que realiza activamente una o varias de las tareas mencionadas anteriormente ([Instituto Nacional de Salud - NIH](https://oir.nih. ov/sourcebook/ethical-conduct/authorship-guidelines-resources/authorship-resources) y [ICMJE](https://www.icmje.org/recommendations/browse/roles-and-responsabilities/defining-the-role-of-authors-and-contributors.html)). Todos los autores son colaboradores, pero es posible que no todos los colaboradores sean autores, por ejemplo, alguien que sirva como mentor, entrenador o mantenedor de infraestructura. Idealmente, todos los colaboradores tienen la oportunidad de tener autoria sobre los resultados de la investigaciones.
+Una autoría corresponde a una persona que realiza activamente una o varias de las tareas mencionadas anteriormente ([National Institute of Health - NIH](https://oir.nih.gov/sourcebook/ethical-conduct/authorship-guidelines-resources/authorship-resources) y [ICMJE](https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html)). Todos los autores son colaboradores, pero es posible que no todos los colaboradores sean autores, por ejemplo, alguien que sirva como mentor, entrenador o mantenedor de infraestructura. Idealmente, todos los colaboradores tienen la oportunidad de tener autoria sobre los resultados de la investigaciones.
 
 Dada la importancia que tradicionalmente se le atribuye a la autoría en la publicación científica y la ambigüedad de las definiciones (que a menudo contienen términos relativos como "sustancial" o "extensivo" que dejan demasiado margen para la interpretación), no es de extrañar que determinar quien merece una autoria pueda conducir a decisiones sesgadas o injustas, disputas entre los contribuyentes, o como mínimo dejar a alguien resentido y con el sentimiento de ser menospreciado.
 
