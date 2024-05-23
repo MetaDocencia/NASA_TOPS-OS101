@@ -190,9 +190,9 @@ Según otros dos estudios publicados en [Sesiones Informaticas en Bioinformatics
 
 Si su flujo de trabajo de investigación utiliza los principios de los resultados abiertos, como se muestra en el ejemplo, esto le ayudará a superar la crisis de la reproducibilidad.
 
-Podemos crear procesos de trabajo reproducibles y combatir esta crisis, teniendo en cuenta los resultados abiertos en cada etapa del ciclo de vida de la investigación. Un Plan de Ciencia Abierta y Gestión de Datos (OSDMP, por sus siglas en inglés) ayuda a los investigadores en la planificación de todos los aspectos de la publicación abierta, determinando cómo pondrán a disposición el software y los datos. Este plan puede ser compartido públicamente desde el principio a través de una práctica llamada pre-registro, donde los investigadores determinan su plan de análisis y el procedimiento de recopilación de datos antes de que comience un proyecto (discutido previamente en la Lección 2 del Módulo 2).
+Podemos crear procesos de trabajo reproducibles y combatir esta crisis, teniendo en cuenta los resultados abiertos en cada etapa del ciclo de vida de la investigación. Un Plan de Ciencia Abierta y Gestión de Datos (OSDMP, por sus siglas en inglés) ayuda a los investigadores a pensar y planificar todos los aspectos de la distribución, así, como a determinar el modo en que pondrán a disponibilidad el software y los datos. Este plan puede compartirse públicamente desde el principio mediante una práctica denominada registro previo, donde los investigadores determinan su plan de análisis y el procedimiento de recopilación de datos antes de iniciar un estudio (analizado anteriormente en la Lección 2 del Módulo 2).
 
-### Actividad 1.1: ¿Qué debieras hacer?
+### Actividad 1.1: ¿Qué podrías hacer?
 
 <img src="../images/media/image21.png" style="width:350px;height:auto" />
 
