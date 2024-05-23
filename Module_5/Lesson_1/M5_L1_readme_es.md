@@ -196,7 +196,7 @@ Podemos crear procesos de trabajo reproducibles y combatir esta crisis, teniendo
 
 <img src="../images/media/image21.png" style="width:350px;height:auto" />
 
-Repensemos su proceso de investigación. Identifique los objetos de investigación que podrían compartirse (o podrían haberse compartido) como resultados abiertos de un proyecto en el que participe o haya participado. ¿Cuáles son los puntos de mayor prioridad para superar la crisis de reproducibilidad en cada área del proceso del trabajo de investigación?
+Replanteémonos su proceso de trabajo de investigación. Identifique los objetos de investigación que pueden ser (o han podido ser) compartidos como resultados abiertos de un proyecto en el que está o estuvo involucrado. ¿Cuáles son los puntos de mayor prioridad para superar la crisis de reproducibilidad en cada área del proceso del trabajo de investigación?
 
 - Ideas
 - Planificación
