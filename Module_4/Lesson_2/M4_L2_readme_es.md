@@ -28,7 +28,7 @@ Después de completar esta lección, deberías ser capaz de:
 
 Mucha gente descubre el código a través de conversaciones con sus colegas o leyendo artículos de revistas y asistiendo a charlas en conferencias. Esta es una excelente forma de encontrar código que puede tener aplicaciones para su problema científico.
 
-¿De que otras maneras alguien puede buscar código abierto? Como primer paso, puede buscar código que ya exista porque es probable que otras personas hayan tenido un problema similar y publicado su código en línea. Una manera común de buscar código existente es mediante un motor de búsqueda general. Los motores de búsqueda ofrecen un indicador de la relevancia de un código, con sus respecticas actualizaciones y frecuencia de referencias.
+¿De que otras maneras alguien puede buscar código abierto? Como primer paso, puede buscar código que ya exista porque es probable que otras personas hayan tenido un problema similar y hayan publicado su código en línea. Una manera común de buscar código existente es mediante un motor de búsqueda general. Los motores de búsqueda ofrecen un indicador de la relevancia de un código, con sus respecticas actualizaciones y frecuencia de referencias.
 
 |            |                                                                                                                                                                                                                                                                                                                                                                                                              |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -36,41 +36,41 @@ Mucha gente descubre el código a través de conversaciones con sus colegas o le
 | Ejercicio  | Búsqueda General sobre el término "Software para modelado de turbulencias oceánicas"                                                                                                                                                                                                                                                                                                                         |
 | Resultados | Modelo General de Turbulencia Oceánica (en inglés, GOTM)                                                                                                                                                                                                                                                                                                                                  |
 
-Esta búsqueda exitosa se basa en que los desarrolladores de GOTM abran su código.
+El éxito de esta búsqueda se debe a que los desarrolladores de GOTM han hecho público su código.
 
-### El Descubrimiento Depende de los Principios FAIR
+### El acceso al software abierto depende de que los desarrolladores sigan los principios FAIR
 
-Descubrir software abierto depende de que los desarrolladores hagan que su software sea fácil de encontrar. Los principios Encontrable, Accesible, Interoperable y Reutilizable (en inglés, FAIR) para software de investigación sugieren:
+Descubrir software abierto depende de que los desarrolladores hagan que su software sea fácil de encontrar. Los principios Encontrable, Accesible, Interoperable y Reutilizable (en inglés, FAIR) para software de investigación, sugieren:
 
 - El software y sus metadatos asociados deben ser fáciles de encontrar para humanos y máquinas.
-- El software debe describirse con metadatos ricos, indexables y con capacidad de búsqueda.
+- El software debe ser descrito con metadatos enriquecidos, accesibles e indexables.
 - El software debe poder encontrarse desde todos los puntos de búsqueda relevantes
 
 Referencia: "The FAIR Guiding Principles for scientific data management and stewardship" Wilkinson, M. D. et al. The FAIR Guiding Principles for scientific data management and stewardship. Sci Data 3, 160018 (2016). Véase también el Módulo 1.
 
-Sin embargo, es posible que tengas necesidades más específicas. Las siguientes secciones cubren formas adicionales para ayudar a descubrir software relevante que satisfaga demandas de investigación específicas.
+Sin embargo, puedes tener necesidades más específicas. En las siguientes secciones se describen otras formas de descubrir software que satisfaga las necesidades específicas de la investigación.
 
 ### Cómo Buscar Código Abierto
 
 Una búsqueda exitosa de código abierto exige un propósito claramente definido. Los desarrolladores primero deben determinar las tareas que esperan que realice su código. Los requisitos asociados con estas tareas pueden determinar el lenguaje de programación más adecuado.
 
-A continuación, familiarízate con la terminología de otras personas que crearon software abierto con requisitos similares a los tuyos. Las palabras clave relacionadas con su propósito o requisitos de programación pueden servir como punto de partida al buscar código relevante. Estas palabras clave se pueden encontrar en foros comunitarios sobre programación de código abierto y en artículos de revistas científicas relacionadas. Con la adopción de principios de acceso abierto por parte de muchas revistas académicas, los futuros programadores pueden examinar artículos científicos de campos relacionados con su investigación para encontrar, y en ocasiones hacer uso, del código existente que satisfaga sus requisitos.
+A continuación, familiarízate con la terminología de otras personas que crearon software abierto con requisitos similares a los tuyos. Las palabras clave relacionadas con su propósito o requisitos de programación pueden servir como punto de partida al buscar código relevante. Estas palabras clave pueden encontrarse en foros de las comunidades sobre programación de código abierto y en artículos de revistas científicas relacionadas. Con la adopción de principios de acceso abierto por parte de muchas revistas académicas, los futuros programadores pueden examinar artículos científicos de campos relacionados con su investigación para encontrar, y en ocasiones hacer uso, del código existente que satisfaga sus requisitos.
 
 ### Conoce Dónde Buscar
 
 El ecosistema de software abierto es vasto, orgánico, multifacético y altamente distribuido.
 
-Si busca software científico, los estándares comunitarios exigen cada vez más que el código se publique y se vincule a artículos científicos.
+Si buscas software científico, los estándares comunitarios exigen cada vez más que el código se publique y se vincule a artículos científicos.
 
 <img src="../images/media/image333.jpg" style="width:350px;height:auto;" />
 
 Por lo tanto, la literatura científica y sus archivos de códigos auxiliares son cada vez más un excelente lugar para buscar código abierto científico.
 
-La mayor parte del código abierto no es desarrollado por ni para científicos. Sin embargo, el código abierto permite investigar todos los días.
+La mayor parte del código abierto no está desarrollado por o para científicos. Sin embargo, el código abierto permite investigar todos los días.
 
 ### Dónde Buscar Depende de tu Necesidad
 
-Existen varios motores de búsqueda populares para fragmentos de código. Primero, simplemente puedes buscar en Google. Otros motores de búsqueda comúnmente utilizados son GitHub Code Search y Stack Overflow. Estos motores de búsqueda te permiten buscar fragmentos de código específicos por lenguaje de programación, palabra clave u otros criterios. GitHub Code Search desarrolla la búsqueda en GitHub, un popular repositorio de códigos para software científico. En tanto, Stack Overflow establece la búsqueda en foros donde los usuarios discuten soluciones a problemas de codificación.
+Hay varios buscadores populares de fragmentos de código. Primero, simplemente puedes buscar en Google. Otros motores de búsqueda comúnmente usados son GitHub Code Search y Stack Overflow. Estos motores de búsqueda te permiten buscar por fragmentos de código específicos, por lenguaje de programación, palabra clave u otros criterios. GitHub Code Search desarrolla la búsqueda en GitHub, un popular repositorio de códigos para software científico. En tanto, Stack Overflow establece la búsqueda en foros donde los usuarios discuten soluciones a problemas de codificación.
 
 #### Ejemplos de repositorios de código:
 
@@ -98,7 +98,7 @@ Existen varios motores de búsqueda populares para fragmentos de código. Primer
 
 En este ejemplo, practicaremos la búsqueda de código de acceso abierto en GitHub. Analicemos un escenario en el que te gustaría buscar el método de Lomb y Scargle para estimar un espectro de potencia.
 
-**Bases**
+**Ejemplo de contexto**
 
 GitHub permite a los usuarios colaborar en un proyecto compartido y realizar un seguimiento de sus cambios con control de versiones. Los usuarios pueden crear un repositorio y otorgar acceso a otros, o darle acceso abierto. GitHub involucra una gran comunidad de usuarios de acceso abierto que ponen su código a disposición de forma gratuita.
 
