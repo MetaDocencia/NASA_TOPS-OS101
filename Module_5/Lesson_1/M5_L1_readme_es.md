@@ -128,7 +128,7 @@ Fuente: [https://medium.com/dataseries/mastering-matplotlib-part-1-a480109171e3]
 
 ---
 
-Matplotlib es actualmente la biblioteca de gráficos más utilizada del lenguaje de programación Python y un componente básico de la plataforma científica Python, junto con NumPy, SciPy e IPython. Matplotlib se utilizó para la visualización de datos durante el aterrizaje de la nave Phoenix en Marte en 2008 y para la creación de la primera imagen de un agujero negro.
+Matplotlib es actualmente la librería o biblioteca de gráficas más utilizada en el lenguaje de programación Python y un componente principal del conjunto de librerías o bibliotecas científicas de Python, junto con NumPy, SciPy e IPython. Matplotlib se utilizó para la visualización de datos durante el aterrizaje de la nave Phoenix en Marte en 2008 y para la creación de la primera imagen de un agujero negro.
 
 ### Estudio del caso/proyecto JWST: Informes y publicación
 
