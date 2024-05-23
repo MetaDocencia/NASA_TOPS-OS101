@@ -41,23 +41,23 @@ Para compartir, existen dos categorías principales: el compartir para el desarr
 
 Escribir código científico suele ser un proceso dinámico y colaborativo en el que contribuyen varias personas y el código evoluciona con el tiempo. En este tipo de proyectos, es beneficioso desarrollar código abierto en una plataforma pública de alojamiento de repositorios como Github, Bitbucket, GitLab, etc. desde el principio del proyecto. Esto garantiza que todas las actualizaciones se compartan abiertamente en la web y puedan llegar a colaboradores y usuarios potencialmente interesados casi en tiempo real.
 
-### Compartir Código Abierto
+### Archivado Código Abierto
 
-El archivado garantiza que su código científico sea accesible a largo plazo y puede satisfacer los requisitos de archivado de organismos y organizaciones de financiación. La accesibilidad a largo plazo ayuda a otras personas a reproducir sus resultados mucho después de la publicación. Archivar por sí solo no promueve el desarrollo continuo ni la colaboración. El archivado es una conservación estática y a largo plazo de su software, no una evolución del mismo.
+El archivado garantiza que tu código científico sea accesible a largo plazo y pueda cumplir con los requisitos de archivado de organismos de financiación e instituciones. La accesibilidad a largo plazo ayuda a otros a reproducir tus resultados mucho tiempo después de tu publicación. El archivado por sí solo no fomenta el desarrollo continuo ni la colaboración. Se trata de preservar el software de forma estática y a largo plazo, no de hacerlo evolucionar.
 
-### ¿Debe compartir su software?
+### ¿Deberías compartir tu software?
 
-Existen varias preocupaciones legales y de seguridad a tener en cuenta a la hora de crear o usar software abierto.
+Hay varias cuestiones legales y de seguridad que hay que tener en cuenta a la hora de crear o usar software abierto.
 
-- Cualquier software que crees suele considerarse propiedad intelectual y puede estar controlado por las políticas de tu organización.
+- Por lo general, cualquier software que crees se considera propiedad intelectual y puede estar controlado por las políticas de tu institución.
 - Tales políticas pueden influir en cuán abiertamente se puede compartir el software y, por lo tanto, su licencia.
-- La descarga y contribución a proyectos de software libre puede estar regulada por las políticas de seguridad informática de su organización.
+- La descarga y contribución a proyectos de software libre puede estar regulada por las políticas de seguridad informática de tu institución.
 
-En cambio, si el software se creó con financiación externa (gubernamental), algunos organismos de financiación pueden exigir que el software se comparta abiertamente.
+En cambio, si el software se desarrolló con financiación externa (del gobierno), algunos organismos de financiamiento pueden exigir que el software se comparta abiertamente.
 
-### Plan de gestión de software (SMP)
+### Plan de gestión de software (PGS)
 
-¿Recuerdas las partes del Plan de Gestión de Software? ¿Qué debemos tener en cuenta cuando se trata de compartir?
+¿Recuerdas las partes del Plan de Gestión de Software? ¿Qué debemos tener en cuenta a la hora de compartir?
 
 - **Qué:** Descripción de la gestión, conservación y distribución de software.
 - **Cuándo:** El cronograma para archivar y compartir software.
