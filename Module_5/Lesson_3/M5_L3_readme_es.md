@@ -487,15 +487,15 @@ Para reconocer abierta y justamente a todos los colaboradores, se deben listar e
 
 Las declaraciones de contribución en la documentación y manuscritos pueden especificar qué hizo cada integrante en los resultados oficiales. Esto es excelente para la transparencia. También es una gran manera de protegerse contra dinámicas injustas del poder. Los detalles sobre el tipo de contribución muestran explícitamente quién trabajó en cada parte de los resultados, y facilitan otorgar una autoría justa. \*"Pierro Asara: revisión y edición (par). Kerys Jones: Conceptualización (líder); escritura – borrador original (líder); análisis formal (líder); escritura – revisión y edición (par). Elisha Roberto: Software (líder); escritura – revisión y edición (par). Hebei Wang: Metodología (líder); escritura – revisión y edición (par). Jinnie Wu: Conceptualización (apoyo); Escritura – borrador original (apoyo); Escritura – revisión y edición (par)
 
-Si existe un repositorio y un sitio web de GitHub, debe crearse una página dedicada para listar y reconocer a todos los colaboradores. Si alguien contribuyó de manera minoritaria al manuscrito, código o datos, podrías agregarlo como autor o colaborador en las versiones de GitHub y Zenodo, respectivamente. Los colaboradores y participantes que no estén directamente involucrados en la creación de resultados de investigación deberían tener la oportunidad de contribuir a otros resultados abiertos, tales como presentaciones, pósters, charlas, blogs, podcasts, datos, software, así como también artículos.
+Si existe un repositorio y un sitio web de GitHub, debe crearse una página dedicada para listar y reconocer a todos los colaboradores. Si alguien contribuyó de manera minoritaria al manuscrito, código o datos, podrías agregarlo como autor o colaborador en las versiones de GitHub y Zenodo, respectivamente. Las personas que colaboran y participan, que no estén directamente involucradas en la creación de resultados de investigación, deberían tener la oportunidad de contribuir a otros resultados abiertos tales como presentaciones, pósters, charlas, blogs, podcasts, datos, software, así como también artículos.
 
-### Actividad 3.1: Redacta una guía de contribución
+### Actividad 3.1: Redacta una guía de pautas
 
 <img src="../images/media/image21.png" style="width:350px;height:auto;"/>
 
-Debería crearse una guía de contribución independiente para cada proyecto abierto, incluso si eso significa reutilizar un borrador existente que el equipo de investigación ya haya utilizado.
+Debería crearse una guía de pautas independiente para cada proyecto abierto, incluso si eso significa reutilizar un borrador existente que el equipo de investigación ya haya utilizado.
 
-Tenga en cuenta que esto es diferente de las pautas de "contribuir" que describen "cómo" contribuir (por ejemplo en los catálogos de código). Las pautas de contribución deben describir los tipos de contribuciones y las formas de reconocerlas como se discutió anteriormente.
+Ten en cuenta que esto es diferente de las pautas de "contribuir" que describen "cómo" contribuir (por ejemplo, en los catálogos de código). Las pautas de contribución deben describir los tipos de contribuciones y las formas de reconocerlas como se discutió anteriormente.
 
 Las pautas de contribución no están escritas en piedra, sino más bien:
 
