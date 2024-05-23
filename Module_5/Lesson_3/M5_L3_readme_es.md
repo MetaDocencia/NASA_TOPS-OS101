@@ -548,12 +548,12 @@ Si no se lo considera desde el principio, puede ser difícil asegurar la reprodu
 - Tus publicaciones pueden crearse individualmente (como las del caso de estudio de la EHTC) o combinando varios resultados o fuentes de información en manuscritos. Estos incluirán requerimientos de recursos, dependencias, software, datos, repositorio donde el código se comparte con la documentación y la información de las personas que colaboraron, entre otros artefactos de investigación.
 - El manuscrito en sí mismo describirá preguntas de investigación, métodos, figuras y tablas que expliquen los resultados. Al escribir un manuscrito, puedes comenzar con figuras que representen los datos empaquetados, el código y los parámetros usados, asegurándote de que la información representada pueda reproducirse. Puedes encontrar una lista detallada en la publicación de [Gil et al.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015EA000136) (2016).
 
-Como se ha demostrado en el caso de estudio de la EHTC, un último paso para generar resultados abiertos podría ser crear un meta-artículo y/o página web/git simple que centralice todos tus resultados de investigación. Se puede acceder de forma centralizada a distintas partes de la investigación (resultados individuales abiertos) con detalles incluyendo el reconocimiento abierto para todas las personas que colaboraron.
+Como se ha demostrado en el caso de estudio de la EHTC, un último paso para generar resultados abiertos podría ser crear un meta-artículo y/o página web/git simple que centralice todos tus resultados de investigación. Se puede acceder de forma centralizada a distintas partes de la investigación (resultados individuales abiertos) con detalles, incluyendo el reconocimiento abierto para todas las personas que colaboraron.
 
 Si estás buscando acciones concretas que puedas tomar para generar resultados abiertos, elige uno de estos cuatro elementos:
 
 - Mejora la forma en la que defines las contribuciónes en tu proyecto y cómo se asigna la autoría.
-- Asegúrate de que los datos o software de tu publicación se encuentren en Zenodo con licencia y documentación incluyendo metadatos y que el DOI esté publicado en tu informe científico y publicación.
+- Asegúrate de que los datos o software de tu publicación se encuentren en Zenodo con licencia y documentación, incluyendo metadatos y que el DOI esté publicado en tu informe científico y publicación.
 - Asegúrate de que el proceso que utilizas para recopilar y analizar datos, incluyendo todas las dependencias y métodos utilizados en tu pipeline de análisis de datos, se encuentren claramente descritos para permitir que otras personas reproduzcan tus resultados.
 - Cree un repositorio centralizado o una página simple de git para centralizar todas las salidas de investigación con la lista de personas que han colaborado.
 
@@ -566,7 +566,7 @@ Los pasos que destacamos para lograr resultados abiertos no son particularmente 
 - Cómo reconocer y dar crédito a todas las personas que han contribuido en la creación de los resultados.
 - Cómo combinar distintos resultados abiertos para crear reportes científicos simples y resultados reproducibles.
 
-## Lección 3: Revisión de conocimientos
+## Lección 3: Evaluación
 
 Responde las siguientes preguntas para poner a prueba lo que ha aprendido hasta ahora.
 
@@ -574,7 +574,7 @@ _Pregunta_
 
 **01/02**
 
-1. ¿Cuál de los siguientes roles sería más apropiado reconocer como contribución? Selecciona todos los que correspondan.
+1. ¿A cuál de las siguientes funciones se le atribuiría más apropiadamente la condición de colaborador? Selecciona todos los que correspondan.
 
 - Idea original, planificación y aportes
 - Supervisión del proyecto
