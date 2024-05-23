@@ -190,22 +190,22 @@ Según otros dos estudios publicados en [Sesiones Informaticas en Bioinformatics
 
 Si su flujo de trabajo de investigación utiliza los principios de los resultados abiertos, como se muestra en el ejemplo, esto le ayudará a superar la crisis de la reproducibilidad.
 
-Podemos crear procesos de trabajo reproducibles y combatir esta crisis, teniendo en cuenta los resultados abiertos en cada etapa del ciclo de vida de la investigación. Un Plan de Ciencia Abierta y Gestión de Datos (OSDMP, por sus siglas en inglés) ayuda a los investigadores a pensar y planificar todos los aspectos de la distribución, así, como a determinar el modo en que pondrán a disponibilidad el software y los datos. Este plan puede compartirse públicamente desde el principio mediante una práctica denominada registro previo, donde los investigadores determinan su plan de análisis y el procedimiento de recopilación de datos antes de iniciar un estudio (analizado anteriormente en la Lección 2 del Módulo 2).
+Podemos crear procesos de trabajo reproducibles y combatir esta crisis, teniendo en cuenta los resultados abiertos en cada etapa del ciclo de vida de la investigación. Un Plan de Ciencia Abierta y Gestión de Datos (OSDMP, por sus siglas en inglés) ayuda al equipo investigador a pensar y planificar todos los aspectos de la distribución al determinar cómo harán que el software y los datos estén disponibles. Este plan puede compartirse públicamente desde el principio mediante una práctica denominada prerregistro, donde las personas que investigan determinan su plan de análisis y el procedimiento de recolección de datos antes de iniciar un estudio (analizado anteriormente en la Lección 2 del Módulo 2).
 
 ### Actividad 1.1: ¿Qué podrías hacer?
 
 <img src="../images/media/image21.png" style="width:350px;height:auto" />
 
-Replanteémonos su proceso de trabajo de investigación. Identifique los objetos de investigación que pueden ser (o han podido ser) compartidos como resultados abiertos de un proyecto en el que está o estuvo involucrado. ¿Cuáles son los puntos de mayor prioridad para superar la crisis de reproducibilidad en cada área del proceso del trabajo de investigación?
+Repensemos su flujo de trabajo de investigación. Identifique los objetos de investigación que podrían (o podrían haber sido) compartidos como resultados abiertos de un proyecto en el que está o estuvo involucrado. ¿Cuáles son los puntos de mayor prioridad para superar la crisis de reproducibilidad en cada área del proceso del trabajo de investigación?
 
-- Ideas
+- Ideación
 - Planificación
 - Diseño del proyecto
-- Participación y formación
-- Recopilación de datos
-- Manipulación de datos
+- Compromiso y capacitación
+- Recolección de datos
+- Gestión de datos
 - Exploración de los datos
-- Protección / Almacenamiento
+- Almacenamiento
 - Informes y publicación
 
 **La aplicación de los principios de la ciencia abierta en todas las etapas del proceso de investigación tiene muchas ventajas personales**
@@ -216,21 +216,21 @@ Replanteémonos su proceso de trabajo de investigación. Identifique los objetos
 
 El equipo de OpenSciency creó una gran tabla que describe, todos los diferentes tipos de objetos de investigación que se pueden compartir y que son posibles de crear, a lo largo del ciclo de vida de la investigación.
 
-\*\*La tabla completa está disponible aquí
+**La tabla completa está disponible aquí**
 
 [CLICK PARA MAS INFORMACION](https://opensciency.github.io/sprint-content/open-results/lesson1-research-process-and-results.html#research-stages-and-open-result-table)
 
 Pensar en compartir todo de forma inmediata, puede resultar agotador cuando se está empezando. Para avanzar, concéntrese en cómo puede elegir el elemento más importante. Aquí se ha reducido la lista a un par de artículos por categoría. Además, puede pensar en acortar aún más la lista cuando esté empezando. Por ejemplo, puede que, para trabajar, compartir el código utilizado para procesar los datos sea el elemento más importante para la reproducibilidad. Por lo tanto, compartir código sería un buen punto de partida para iniciar el trabajo ó experiencia en ciencia abierta. Los pequeños pasos que damos son los que nos hacen avanzar hacia una ciencia abierta sostenible.
 
 - **Propuesta:** Las propuestas pueden compartirse en Zenodo y en plataformas de subvención abiertas como [ogrants.org](https://www.ogrants.org/).
-- **Planificación:** Los proyectos pueden preinscribirse antes de comenzar.
-- **Diseño del proyecto:** Se pueden publicar las pautas de los colaboradores o un código de conducta en Zenodo, GitHub o en las páginas web del equipo.
-- **Interacción y formación:** Las guias de los procesos de desarrollo del trabajo de investigación, pueden compartirse con el equipo a través de GitHub y publicarse en Zenodo.
+- **Planificación:** Los proyectos pueden prerregistrarse antes de comenzar.
+- **Diseño del proyecto:** Se pueden publicar las pautas de las personas que colaboran o un código de conducta en Zenodo, GitHub o en las páginas web del equipo.
+- **Compromiso y capacitación:** Las guias de los procesos de desarrollo del trabajo de investigación, pueden compartirse con el equipo a través de GitHub y publicarse en Zenodo.
 - **Recopilación de datos:** Los datos sin procesar pueden compartirse a través de repositorios de datos.
 - **Gestión de Datos:** El código puede compartirse a través de repositorios de software.
 - **Exploración de datos:** Las guias de los procesos (notebooks), pueden ser compartidas a través de GitHub y publicadas en Zenodo.
 - **Almacenamiento:** Los planes de gestión de datos para almacenamiento de la información pueden publicarse en Zenodo.
-- \*\*Informes y publicación
+- **Informes y publicación:**
   - Libre acceso a artículos revisados para publicaciones
   - Guias de Procedimientos (Jupyter Notebooks..???)
   - Código de conducta, instrucciones para colaboradores, políticas de publicación
