@@ -1,6 +1,6 @@
 # Lección 3: Hacer que los datos sea abiertos
 
-## Temas a desarrollar
+## Contenidos
 
 - [Descripción general](#overview)
 - [Objetivos de Aprendizaje](#learning-objectives)
