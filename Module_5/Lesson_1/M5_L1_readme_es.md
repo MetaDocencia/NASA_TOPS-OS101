@@ -1,6 +1,6 @@
 # Lección 1: Introducción a Resultados Abiertos
 
-## Temas a desarrollar
+## Contenidos
 
 - [¿Qué objetos de investigación se crean a lo largo del ciclo de investigación?](#what-research-objects-are-created-throughout-the-research-cycle)
 - [Ejemplos de resultados abiertos](#examples-of-open-results)
