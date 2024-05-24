@@ -120,13 +120,13 @@ El OSF está diseñado para ser una plataforma colaborativa en la que quienes la
 
 ---
 
-### Mejores prácticas para un registro de proyectos
+### Mejores prácticas para un Registro de Proyecto
 
-Es habitual que los distintos tipos de resultados se conserven en lugares diferentes para optimizar su descubrimiento y reutilización. Un Registro de Proyectos actualizado proporciona una visión rápida de todos los resultados. Las mejores prácticas para gestionar un Registro de Proyectos incluyen:
+Es habitual que los distintos tipos de resultados se conserven en lugares diferentes para optimizar su descubrimiento y reutilización. Un Registro de Proyecto actualizado proporciona una visión rápida de todos los resultados. Las mejores prácticas para gestionar un Registro de Proyecto incluyen:
 
-- Crear y actualizar un Registro de Proyectos junto con la conservación de los resultados (como se ha descrito anteriormente) en forma de hoja de cálculo u otro tipo de lista. Puede tratarse de un registro actualizado para todo el proyecto o de un registro nuevo para cada meta.
+- Crear y actualizar un Registro de Proyecto junto con la conservación de los resultados (como se ha descrito anteriormente) en forma de hoja de cálculo u otro tipo de lista. Puede tratarse de un registro actualizado para todo el proyecto o de un registro nuevo para cada meta.
 - Incluya en cada entrada del registro una descripción del objeto, la cita preferida y el identificador persistente (por ejemplo, DOI), así como cualquier otra información útil que respalde el proyecto. Para los resultados que no tengan un identificador persistente, facilitar una URL y una descripción.
-- Conservar el registro del proyecto como un componente de éste. Muchos financiadores requieren en sus informes anuales una lista tanto de las publicaciones revisadas por pares como de todos los resultados del proyecto. El registro del proyecto puede facilitarse al financiador durante el proceso de elaboración del informe, o utilizarse como herramienta de seguimiento para ayudar a completar el informe.
+- Conservar el Registro del Proyecto como un componente de éste. Muchos financiadores requieren en sus informes anuales una lista tanto de las publicaciones revisadas por pares como de todos los resultados del proyecto. El Registro del Proyecto puede facilitarse al financiador durante el proceso de elaboración del informe, o utilizarse como herramienta de seguimiento para ayudar a completar el informe.
 
 ### Gestión de citas utilizando software de gestión de referencias
 
