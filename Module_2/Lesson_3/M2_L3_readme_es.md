@@ -193,7 +193,7 @@ Los formatos que se consideran más interoperables según los criterios anterior
 
 ### Inspección de datos
 
-Los formatos de datos modernos permiten almacenar mucho más que datos puntuales. Una vez que se adoptan estos estándares (por ejemplo, NetCDF), la búsqueda de los contenidos en cada archivo puede ser asistida por una variedad de herramientas que juntas ayudan a mapear los datos primarios y/o mostrar los metadatos asociados. Existen varias herramientas para inspeccionar datos, siendo demasiadas para mencionarlas todas aquí. Las herramientas destacables con las que comenzar incluyen:
+Los formatos de datos modernos permiten almacenar mucho más que datos puntuales. Una vez que se adoptan estos estándares (por ejemplo, NetCDF), la búsqueda de los contenidos en cada archivo puede ser asistida por una variedad de herramientas que juntas ayudan a mapear los datos primarios y/o mostrar los metadatos asociados. Existen varias herramientas para inspeccionar datos, siendo demasiadas para mencionarlas todas aquí. Herramientas recomendadas para comenzar:
 
 **CSV, XML, JSON** -
 Todos estos archivos se pueden abrir con los editores de texto más comunes. Hay algunas herramientas que pueden crear vistas de los archivos más fáciles de usar, como:
@@ -206,7 +206,7 @@ Todos estos archivos se pueden abrir con los editores de texto más comunes. Hay
 Estos archivos requieren herramientas de software especiales para ver sus contenidos. Muchas de estas herramientas también visualizarán los datos.
 
 - NetCDF y HDF: la mayoría de los archivos se visualizan fácilmente usando software de código abierto, como la biblioteca [Xarray](https://docs.xarray.dev/en/stable/) en Python o [ncdf4](https://cran.r-project.org/web/packages/ncdf4/index.html) en R.
-- FITS: Hay muchas opciones, hay una lista en [https://fits.gsfc.nasa.gov/fits_viewer.html](https://fits.gsfc.nasa.gov/fits_viewer.html)
+- FITS: hay muchas opciones de software que permiten visualizar y trabajar con este formato de archivo. En [https://fits.gsfc.nasa.gov/fits_viewer.html](https://fits.gsfc.nasa.gov/fits_viewer.html) se ofrece una lista exhaustiva (en inglés).
 
 **ZARR, COG, PARQUETO** -
 Estos archivos requieren herramientas de software especiales para ver su contenido. Muchas de estas herramientas permiten también visualizar los datos.
