@@ -231,7 +231,7 @@ Pensar en compartir todo de forma inmediata, puede resultar agotador cuando se e
 - **Exploración de datos:** Las guias de los procesos (notebooks), pueden ser compartidas a través de GitHub y publicadas en Zenodo.
 - **Almacenamiento:** Los planes de gestión de datos para almacenamiento de la información pueden publicarse en Zenodo.
 - **Informes y publicación:**
-  - Libre acceso a artículos revisados para publicaciones
+  - Libre acceso a artículos revisados por pares
   - Guias de Procedimientos (Jupyter Notebooks..???)
   - Código de conducta, instrucciones para colaboradores, políticas de publicación
   - Publicaciones en Blogs
