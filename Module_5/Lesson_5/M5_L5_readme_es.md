@@ -320,4 +320,4 @@ A lo largo de este plan de estudios, nos hemos centrado en las habilidades neces
 
 [CLICK PARA MAS INFORMACION](https://www.openscience.nl/en)
 
-Estos son solo un comienzo: ¡hay muchos más recursos fantásticos de ciencia abierta en línea! ¡Mantente atento al contenido de aprendizaje de disciplinas específicas que están desarrollando actualmente los becarios de NASA ScienceCore, y que se vinculará aquí una vez que esté disponible!
+Estos son solo un comienzo: ¡hay muchos más recursos fantásticos de ciencia abierta en línea! ¡Sigue de cerca el contenido de aprendizaje de disciplinas específicas que están desarrollando actualmente los becarios de NASA ScienceCore, y que se vinculará aquí una vez que esté disponible!
