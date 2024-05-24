@@ -218,11 +218,11 @@ Imagen de Patrick Hochstenbach, CC0 1.0; La imagen ilustra cada principio FAIR.
 
 ---
 
-### FAIR: Encontrable, Accesible, Interoperable, Reutilizable
+### FAIR: Fácil de encontrar, Accesible, Interoperable, Reutilizable
 
-La gran mayoría de los datos actuales se comparten en línea. Los principios FAIR ayudan a los investigadores a hacer un mejor uso de sus datos científicos y a interactuar con una audiencia más amplia de lo que permitirían las técnicas obsoletas. Los datos FAIR son más valiosos para la ciencia porque son más fáciles de usar. Los datos pueden ser FAIR independientemente de si se comparten abiertamente o no. Si los datos se comparten abiertamente, ser FAIR ayuda con la reutilización y amplía el impacto científico de los datos.
+La gran mayoría de los datos actuales se comparten en línea. Los principios FAIR ayudan a las personas investigadoras a hacer un mejor uso de sus datos científicos y a interactuar con una audiencia más amplia de lo que permitirían las técnicas obsoletas. Los datos FAIR son más valiosos para la ciencia porque son más fáciles de usar. Los datos pueden ser FAIR independientemente de si se comparten abiertamente o no. Si los datos se comparten abiertamente, ser FAIR ayuda con la reutilización y amplía el impacto científico de los datos.
 
-Los principios FAIR no abarcan instrucciones de implementación integrales para cada tipo de datos, pero ofrecen información general para mejorar la capacidad de compartir y reutilizar. A veces se necesita un esfuerzo grupal y/o un largo proceso de producción para que los datos y los resultados sean FAIR. El proceso comienza en la etapa de planificación de un proyecto de investigación. A menudo se necesita un plan de gestión de datos y ciencia abierta bien coordinado para cumplir plenamente con FAIR, dependiendo del tamaño y el tipo de proyecto para el que se utilizan los datos.
+Los principios FAIR no abarcan instrucciones de aplicación exhaustivas para cada tipo de datos, pero ofrecen ideas generales para mejorar la capacidad de compartir y reutilizar. A veces se necesita un esfuerzo grupal y/o un largo proceso de producción para que los datos y los resultados sean FAIR. El proceso comienza en la etapa de planificación de un proyecto de investigación. A menudo se necesita un plan de gestión de datos y ciencia abierta bien coordinado para cumplir plenamente con FAIR, dependiendo del tamaño y el tipo de proyecto para el que se utilizan los datos.
 
 **Puede encontrar información actualizada sobre los principios FAIR en el sitio web de la iniciativa GO FAIR**
 
@@ -238,7 +238,7 @@ _Selecciona cada pestaña para obtener más información._
         <th>ENCONTRABLE ☑</th>
         <th>ACCESIBLE</th>
         <th>INTEROPERABLE</th>
-        <th>REUTILIZABLE</th>
+        <th>REUSABLE</th>
     </tr>
   </thead>
   <tbody>
@@ -246,7 +246,7 @@ _Selecciona cada pestaña para obtener más información._
         <td colspan="4">
             <p>Para garantizar que los miembros de tu comunidad puedan encontrar los datos:</p>
             <ul>
-            <li>Deposita datos en repositorios para preservarlos a lo largo del tiempo.</li>
+            <li>Deposita datos en repositorios, para preservarlos a lo largo del tiempo.</li>
             <li>Asigna a tu conjunto de datos un identificador persistente (PID), como un identificador de objeto digital (DOI)</li>
             <li>Agrega metadatos enriquecidos y autodescriptivos en tus archivos de datos y registre los metadatos en un catálogo de metadatos que permitirá que tus datos se seleccionen adecuadamente.</li>
                 <ul>
