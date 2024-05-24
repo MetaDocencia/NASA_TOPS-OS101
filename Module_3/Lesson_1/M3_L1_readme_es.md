@@ -247,7 +247,7 @@ _Selecciona cada pestaña para obtener más información._
             <p>Para garantizar que los miembros de tu comunidad puedan encontrar los datos:</p>
             <ul>
             <li>Deposita datos en repositorios, para preservarlos a lo largo del tiempo.</li>
-            <li>Asigna a tu conjunto de datos un identificador persistente (PID), como un identificador de objeto digital (DOI)</li>
+            <li>Asigna a tu conjunto de datos un identificador persistente (PID), como un identificador de objeto digital (DOI).</li>
             <li>Agrega metadatos enriquecidos y autodescriptivos en tus archivos de datos y registre los metadatos en un catálogo de metadatos que permitirá que tus datos se seleccionen adecuadamente.</li>
                 <ul>
                 <li>Ten en cuenta que algunas imágenes o archivos binarios no se pueden indexar ni buscar fácilmente y necesitarán archivos de metadatos o diccionarios complementarios para garantizar que se puedan descubrir en una búsqueda.</li>
