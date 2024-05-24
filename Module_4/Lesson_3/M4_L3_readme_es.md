@@ -185,50 +185,50 @@ Su software debe estar documentado dentro del código fuente. Cada función debe
 
 ### Documentación sobre el código para el usuario
 
-Si estás desarrollando código que esperas que otros usen, escribe un manual sobre cómo utilizar el código. Como el código se desarrolla constantemente, es mucho más fácil documentarlo mientras o incluso antes de escribir cualquier código.
+Si estás desarrollando código que esperas que otras personas usen, escribe un manual sobre cómo utilizar el código. Como el código se desarrolla constantemente, es mucho más fácil documentarlo mientras o incluso antes de escribir cualquier código.
 
-Si escribe su documentación dentro del propio código. hay piezas de software que pueden extraerla, formatearla y presentarla como un manual pulido. Ejemplos de documentación generada a partir del código se pueden ver para [Astropy](https://docs.astropy.org/en/latest/) o [NumPy](https://numpy.org/doc/stable/).
+Si escribes la documentación dentro del propio código, hay software que pueden extraerla, formatearla y presentarla como un manual pulido. Ejemplos de documentación generada a partir del código se pueden ver para [Astropy](https://docs.astropy.org/en/latest/) o [NumPy](https://numpy.org/doc/stable/).
 
-Se ven maravillosos, pero también muy similares. Estos sitios fueron generados por completo a partir de comentarios y documentos escritos en el código fuente. Diferente de los comentarios escritos para las personas que desarrollan el código anterior estos comentarios fueron escritos específicamente para el público de usuarios externos del código: el manual.
+Se ven maravillosos, pero también muy similares. Estos sitios fueron generados por completo a partir de comentarios y documentos escritos en el código fuente. A diferencia de los comentarios escritos para las personas desarrolladoras del código, éstos comentarios fueron redactados específicamente para la audiencia de usuarios externos del código: el manual.
 
-Aunque hay varios paquetes de software para la generación automática de documentación, los más utilizados son [Sphinx](https://www.sphinx-doc. rg/es/master/) para Python y [D](https://www.doxygen.nl/index.html)[oxygen](https://www.doxygen.nl/index.html) para casi todo lo demás. [M](https://www.markdownguide.org/)[arkdown](https://www.markdownguide.org/) también es una opción popular para el lenguaje de formato para la documentación.
+Aunque hay varios paquetes de software para la generación automática de documentación, los más utilizados son [Sphinx](https://www.sphinx-doc. rg/es/master/) para Python y [Doxygen](https://www.doxygen.nl/index.html) para casi todo lo demás. [M](https://www.markdownguide.org/)[arkdown](https://www.markdownguide.org/) también es una opción popular para el lenguaje de formato para la documentación.
 
 ### Programación y documentación
 
-**Establecer un entorno de desarrollo** - Establecer un entorno de desarrollo apropiado te ayudará a escribir un código bueno, limpio y te ayudará a mantener el proyecto a medida que evoluciona.
+**Establecer un Entorno de Desarrollo** - Establecer un entorno de desarrollo apropiado te ayudará a escribir un código bueno, limpio y te ayudará a mantener el proyecto a medida que evoluciona.
 
-- Configure cualquier herramienta necesaria para escribir el código. Tal vez un EDI (Entorno de Desarrollo Integrado) o editor de texto. Algunos ejemplos populares incluyen el código VS, Pycharm, R Studio, Xcode.
-- Configure un gestor de paquetes. Por ejemplo, para Python, se podría usar 'anaconda' o 'poetry'.
-- Cree un entorno virtual específico a tu proyecto para aislar sus dependencias (y sus versiones) de las utilizadas para otros proyectos
+- Configura cualquier herramienta necesaria para escribir el código. Tal vez un EDI (Entorno de Desarrollo Integrado) o editor de texto. Algunos ejemplos populares incluyen el código VS, Pycharm, R Studio, Xcode.
+- Configura un gestor de paquetes. Por ejemplo, para Python, se podría usar 'anaconda' o 'poetry'.
+- Crea un entorno virtual específico de tu proyecto para aislar sus dependencias (y sus versiones) de las utilizadas para otros proyectos
 
-**Estructuración de archivos y carpetas** - Cómo estructurar los archivos en tu proyecto desde el principio contribuirá al éxito de los resultados finales.
+**Estructuración de archivos y carpetas** - La forma en que estructuras los archivos de tu proyecto, desde el principio, contribuirá al éxito de los resultados finales.
 
-Diferentes lenguajes de programación tienen diferentes estructuras de carpetas estándar. Familiarizarse con los estándares antes de empezar, ya que ayudará a otros a colaborar y probablemente le salvará de dificultades más adelante.
+Los distintos lenguajes de programación tienen diferentes estructuras de carpetas estándar. Familiarízate con los estándares antes de comenzar, ya que esto ayudará a otras personas a colaborar y, probablemente, te evitará dificultades más adelante.
 
-Hay una variedad de estructuras de código de ejemplo que se pueden utilizar para empezar. Por ejemplo, para Python hay Cookiecutter y una plantilla de paquete Astropy.
+Hay una variedad de estructuras de código de ejemplo que se pueden utilizar para empezar. Por ejemplo, para Python, hay Cookiecutter y una plantilla de paquete Astropy.
 
 ## ¿Qué licencia deberíamos elegir para nuestro código?
 
-### Consideraciones de licencia cuando se usa software abierto
+### Consideraciones de Licencia cuando se utiliza Software Abierto
 
 <img src="../images/media/image130.png" style="width:350px;height:auto;" />
 
-Las licencias de software de código abierto son la base para cómo los científicos usan, elaboran y comparten código y software. Entender algunos de los matices de estas licencias es importante porque afectará a cómo tu proyecto puede licenciar y compartir código.
+Las licencias de software de código abierto son fundamentales para cómo los científicos usan, crean y comparten código y software. Entender algunos de los matices de estas licencias es importante porque afectará el modo en que tu proyecto puede licenciar y compartir código.
 
 Una licencia de software es un documento legal que establece los derechos de las personas que desarrollan y usan una pieza de software.
 
-Una licencia de código abierto es un tipo de licencia de software, aprobada por la Open Source Initiative (OSI), en español, Iniciativa de Código Abierto, conforme a la Definición de Código Abierto. Una licencia de código abierto otorga permisos a cualquier persona para inspeccionar, usar, modificar y distribuir el código fuente del software para cualquier propósito.
+Una licencia de código abierto es un tipo de licencia de software, aprobada por la Iniciativa de Código Abierto (en inglés, _Open Source Initiative, OSI_), conforme a la Definición de Código Abierto. Una licencia de código abierto otorga permisos a cualquier persona para inspeccionar, usar, modificar y distribuir el código fuente del software para cualquier propósito.
 
-Las licencias aseguran que las personas que desarrollan el software reciben crédito y control sobre cómo se utiliza su trabajo. Sin licencia, se asume que el software tiene derechos de autor y sin permisos. Las personas que programan incluyen licencias para permitir reutilizaciones.
+Las licencias aseguran que las personas que desarrollan el software reciban crédito y control sobre cómo se utiliza su trabajo. Sin licencia, se asume que el software tiene derechos de autoría y sin permisos. Las personas que programan incluyen licencias para permitir reutilizaciones.
 
 Las licencias toman varias formas para describir:
 
-- Obligaciones contractuales (si existen) entre las personas que desarrollan y las que los usan.
-- Lo que las personas que usan el software pueden hacer con él.
-- A quiénes las personas que usan el software pueden distribuirlo (si existe tal derecho).
-- Período de tiempo que las personas que usan el software tienen derecho a utilizarlo.
+- Obligaciones contractuales (si existen) entre las personas que desarrollan y las que usan.
+- Lo que las personas usuarias del software pueden hacer con él.
+- A quiénes pueden, las personas usuarias del software, distribuirlo (si existe tal derecho).
+- Periodo de tiempo durante el cual la persona usuaria tiene derecho a utilizar el software.
 
-### Algunos tipos comunes de licencia de software
+### Algunos Tipos Comunes de Licencia de Software
 
 _Haz clic en '+' para ver más información._
 
@@ -244,11 +244,11 @@ Puede vincularse a bibliotecas de código abierto, y el código puede ser licenc
 
 **Permisivo**
 
-Ofrece a las personas que usan el software una libertad amplia, pero no completa, para reutilizar o volver a otorgar licencias.
+Ofrece a las personas usuarias del software una libertad amplia, pero no completa, para reutilizar o volver a otorgar licencias.
 
 **No permisiva**
 
-Permite al conjunto de usuarios reutilizar, pero también otorga la responsabilidad a las personas que lo utilizan de compartir sus cambios con la comunidad.
+Permite a las personas usuarias reutilizar, pero también otorga la responsabilidad de compartir sus cambios con la comunidad.
 
 Copyleft
 
@@ -260,15 +260,15 @@ No se puede copiar, modificar ni distribuir.
 
 ---
 
-Antes de elegir una licencia, consulte primero con su organización o empleador. Pueden tener pautas específicas acerca de qué licencia de software se le permite usar. Tu subsidio de investigación también puede estipular los tipos de licencia permitidos. El plan de gestión de software debe especificar qué licencia planea usar.
+Antes de elegir una licencia, consulta primero con tu organización o quien te emplea. Pueden tener pautas específicas acerca de qué licencia de software es la que puedes usar. Tu subsidio de investigación también puede estipular los tipos de licencia permitidos. El plan de gestión de software debe especificar qué licencia planeas usar.
 
-Si una licencia no es compartida con un código, se asume por defecto que está protegido por derechos de autor en los Estados Unidos (https://www.copyright.gov/help/faq/faq-general.html). No necesita estar registrado, y se asume que está protegido automáticamente por los derechos de autor en el momento en que se crea.
+Si una licencia no es compartida con un código, se asume por defecto que está protegido por derechos de autoría en los Estados Unidos (https://www.copyright.gov/help/faq/faq-general.html). No necesita ser registrado, y se asume que está automáticamente protegido por derechos de autoría en el momento en que se crea.
 
-Para el software, la licencia se comparte en un archivo llamado LICENCIA en la parte superior del repositorio. Es una ubicación estándar que la gente sabrá mirar. No es mala práctica poner también una línea con la versión de la licencia en la parte superior de cada archivo de código, con un puntero hacia donde se podría encontrar la licencia completa.
+Para el software, la licencia se comparte en un archivo llamado LICENCIA en la parte superior del repositorio. Es una ubicación estándar que la gente sabrá que hay que mirar. No es mala práctica poner también una línea con la versión de la licencia en la parte superior de cada archivo de código, con un puntero hacia donde se podría encontrar la licencia completa.
 
 ### Tipos de licencias de software de código abierto
 
-Hay dos tipos principales de licencias de código abierto. Permisiva y protectora (a veces denominada copy-left). La diferencia en este tipo de licencias se relaciona principalmente con el tipo de licencia que el conjunto de usuarios del código pueden aplicar a sus trabajos derivados.
+Hay dos tipos principales de licencias de código abierto. Permisiva y protectora (a veces denominada copy-left). La diferencia entre estos tipos de licencias está relacionada principalmente con el tipo de licencia que las personas usuarias del código pueden aplicar a sus obras derivadas.
 
 <table>
   <thead>
@@ -280,8 +280,8 @@ Hay dos tipos principales de licencias de código abierto. Permisiva y protector
   <tbody>
     <tr>
         <td colspan="2">
-            <p>La Iniciativa de Código Abierto define una licencia de software permisiva como una licencia que garantiza la libertad de usar, modificar, redistribuir y crear obras derivadas. Un ejemplo de este tipo de licencia es la licencia Apache 2.0 de la Apache Software Foundation (en español, Fundación de Software Apache). Es la licencia permisiva más popular y ampliamente utilizada.</p>
-            <p>El conjunto de usuarios tienen una amplia libertad de reutilización bajo esta licencia. Generalmente son libres de incorporar el código en su proyecto o de usarlo como deseen. Las personas que utilizan un código abierto con licencia permisiva en un producto podrían volver a implementar el software de código abierto con una amplia gama de licencias, incluyendo el software patentado de código cerrado.</p>
+            <p>La Iniciativa de Código Abierto define una licencia de software permisiva como aquella que garantiza las libertades de uso, modificación, redistribución y creación de obras derivadas. Un ejemplo de este tipo de licencia es la licencia Apache 2.0 de la Fundación de Software Apache (en inglés, _Apache Software Foundation_). Es la licencia permisiva más popular y ampliamente utilizada.</p>
+            <p>Las personas usuarias tienen una amplia libertad de reutilización bajo esta licencia. Generalmente son libres de incorporar el código en su proyecto o de utilizarlo como deseen. Las personas que utilizan un código abierto con licencia permisiva en un producto podrían volver a implementar el software de código abierto con una amplia gama de licencias, incluyendo el software patentado de código cerrado.</p>
         </td>
     </tr>
   </tbody>
@@ -297,7 +297,7 @@ Hay dos tipos principales de licencias de código abierto. Permisiva y protector
   <tbody>
     <tr>
         <td colspan="2">
-            <p>Las licencias protectoras (copyleft) son una técnica legal para conceder ciertas libertades sobre copias de obras protegidas por derechos de autor con el requisito de que se preserven los mismos derechos en las obras derivadas. Esto permite a los usuarios reutilizar, pero también requiere que compartan sus cambios con la comunidad utilizando la misma licencia. Un ejemplo de licencia protectora es la Licencia Pública General (en inglés, GPL) que garantiza que los usuarios tengan la libertad y responsabilidad de compartir sus cambios con la comunidad. Es la licencia de protección más utilizada. Estos tipos de licencias pueden dar como resultado una menor reutilización por parte de los usuarios que prefieren o se les exige que utilicen únicamente licencias permisivas.</p>
+            <p>Las licencias protectoras (copyleft) son una técnica legal para conceder ciertas libertades sobre copias de obras protegidas por derechos de autoría con el requisito de que se preserven los mismos derechos en las obras derivadas. Esto permite a los usuarios reutilizar, pero también requiere que compartan sus cambios con la comunidad utilizando la misma licencia. Un ejemplo de licencia protectora es la Licencia Pública General (en inglés, GPL) que garantiza que los usuarios tengan la libertad y responsabilidad de compartir sus cambios con la comunidad. Es la licencia de protección más utilizada. Estos tipos de licencias pueden dar como resultado una menor reutilización por parte de los usuarios que prefieren o se les exige que utilicen únicamente licencias permisivas.</p>
         </td>
     </tr>
   </tbody>
