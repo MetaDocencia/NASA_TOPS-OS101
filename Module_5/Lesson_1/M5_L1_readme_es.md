@@ -232,7 +232,7 @@ Pensar en compartir todo de forma inmediata, puede resultar agotador cuando se e
 - **Almacenamiento:** Los planes de gestión de datos para almacenamiento de la información pueden publicarse en Zenodo.
 - **Informes y publicación:**
   - Libre acceso a artículos revisados por pares
-  - Interfaz de notebook
+  - Cuadernos computacionales
   - Código de conducta, pautas para las personas que colaboran, políticas de publicación
   - Publicaciones en Blogs
   - Vídeos de corta duración y podcasts
