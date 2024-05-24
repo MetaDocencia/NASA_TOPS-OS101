@@ -232,8 +232,8 @@ Pensar en compartir todo de forma inmediata, puede resultar agotador cuando se e
 - **Almacenamiento:** Los planes de gestión de datos para almacenamiento de la información pueden publicarse en Zenodo.
 - **Informes y publicación:**
   - Libre acceso a artículos revisados por pares
-  - Guias de Procedimientos (Jupyter Notebooks..???)
-  - Código de conducta, instrucciones para colaboradores, políticas de publicación
+  - Interfaz de notebook
+  - Código de conducta, pautas para las personas que colaboran, políticas de publicación
   - Publicaciones en Blogs
   - Vídeos de corta duración y podcasts
   - Publicaciones en redes sociales
@@ -244,14 +244,14 @@ Pensar en compartir todo de forma inmediata, puede resultar agotador cuando se e
 
 En esta lección, aprendiste que:
 
-- El proceso de desarrollo de la investigación científica contemporánea implica ser abierto en cuanto a procesos y productos. Los productos (resultados) de la investigación incluyen mucho más que el informe final, lo que supone un cambio drástico respecto a la noción histórica de resultado científico.
-- En cada etapa del proceso de desarrollo de la investigación se producen resultados que podemos considerar objetos de investigación.
-- Podemos combatir la crisis de reproducibilidad compartiendo estos objetos de investigación en cada etapa de nuestro proceso de desarrollo de la investigación.
-- Existen ejemplos asombrosos de grupos de investigación, que comparten distintos tipos de resultados de acceso abierto!
+- El flujo de trabajo científico contemporáneo implica ser abierto en cuanto a procesos y productos. Los productos de la investigación (resultados) incluyen mucho más que el informe final, lo que supone un cambio drástico respecto a la noción histórica de resultado científico.
+- En cada etapa del proceso de desarrollo de la investigación se producen objetos de investigación que podemos considerar resultados.
+- Podemos combatir la crisis de reproducibilidad compartiendo estos objetos de investigación en cada etapa de nuestro flujo de trabajo en investigación.
+- ¡Existen ejemplos asombrosos de grupos de investigación que comparten distintos tipos de resultados de acceso abierto!
 
 Empecemos a pensar en lo que podemos hacer inmediatamente, para avanzar hacia los procesos de desarrollo de investigación abierta.
 
-## Lección 1: Validación / Verificación de conocimientos
+## Lección 1: Evaluación
 
 Responde a las siguientes preguntas para comprobar lo que has aprendido hasta ahora.
 
@@ -259,13 +259,13 @@ _Pregunta_
 
 **01/02**
 
-De las siguientes opciones, ¿Cuál se ajusta a la definición de «objeto de investigación»?
+De las siguientes opciones, ¿Cuál se ajusta a la definición de "objeto de investigación"?
 
 - Datos sin procesar
 - Blog / Publicación
 - Propuesta
 - Código de conducta
-- Todo lo anterior
+- Todas las anteriores
 
 _Pregunta_
 
@@ -276,4 +276,4 @@ _Pregunta_
 - Los métodos intermedios de investigación suelen describirse de manera poco formal o no se describen en absoluto.
 - A menudo se omiten por completo los datos intermedios.
 - A menudo sólo pensamos en los resultados en el momento de la publicación.
-- Todo lo anterior
+- Todas las anteriores
