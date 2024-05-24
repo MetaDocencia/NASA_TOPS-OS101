@@ -248,7 +248,7 @@ Pasos para esta actividad:
 <img src="../images/media/zenododoi6.jpg" style="width:100%;height:auto" />
 
 7. Añade una etiqueta 'test'. Es posible que tengas que crear una nueva etiqueta para 'test' si se te solicita.
-8. Desplázate hacia abajo y haz clic en el botón verde 'publicar publicación' (en inglés, _publish release_)
+8. Desplázate hacia abajo y haz clic en el botón verde 'publicar lanzamiento' (en inglés, _publish release_)
 
 <img src="../images/media/zenododoi8.jpg" style="width:100%;height:auto" />
 
@@ -257,7 +257,7 @@ Pasos para esta actividad:
 
 <img src="../images/media/zenododoi10.jpg" style="width:100%;height:auto" />
 
-Zenodo archiva tu repositorio y emite un nuevo DOI cada vez que creas un nuevo GitHub [versión](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases). Sigue los pasos en "[Administrar versiones en un repositorio](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository)" para crear una nueva.
+Zenodo archiva tu repositorio y emite un nuevo DOI cada vez que creas un nuevo [lanzamiento](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases) GitHub. Sigue los pasos en "[Administrar lanzamientos en un repositorio](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository)" para crear una nueva.
 
 ### Haciendo Fácil Citar tu Código
 
@@ -277,7 +277,7 @@ No entraremos en detalles aquí, pero puedes consultar el [repositorio github de
 
 ## ¿Cuáles son los roles y las responsabilidades de quienes participan del equipo en la implementación del PGS?
 
-Cuando se escribe un Plan de Gestión de Software (PGS) (en inglés, _Software Management Plan, SMP_), es importante incluir un plan para los roles y responsabilidades necesarios para compartir y (si corresponde) mantener tu código. Tu comunidad estará formada por personas con diferentes roles: algunos participarán activamente, otras sólo tendrán un interés pasajero. A veces, varios roles pueden ser hechos fácilmente por una persona (por ejemplo, si sólo estás archivando una pieza de código).
+Cuando se escribe un Plan de Gestión de Software (PGS) (en inglés, _Software Management Plan, SMP_), es importante incluir un plan para los roles y responsabilidades necesarios para compartir y (si corresponde) mantener tu código. Tu comunidad estará formada por personas con diferentes roles: algunos participarán activamente, otras sólo tendrán un interés pasajero. A veces, una sola persona puede desempeñar fácilmente varias funciones (por ejemplo, si sólo estás archivando una pieza de código).
 
 Algunos roles podrían incluir:
 
