@@ -248,11 +248,11 @@ _Selecciona cada pestaña para obtener más información._
             <ul>
             <li>Deposita datos en repositorios, para preservarlos a lo largo del tiempo.</li>
             <li>Asigna a tu conjunto de datos un identificador persistente (PID), como un identificador de objeto digital (DOI).</li>
-            <li>Agrega metadatos enriquecidos y autodescriptivos en tus archivos de datos y registre los metadatos en un catálogo de metadatos que permitirá que tus datos se seleccionen adecuadamente.</li>
+            <li>Agrega metadatos enriquecidos y autodescriptivos en tus archivos de datos, y registra los metadatos en un catálogo de metadatos que permitirá que estos se seleccionen adecuadamente.</li>
                 <ul>
                 <li>Ten en cuenta que algunas imágenes o archivos binarios no se pueden indexar ni buscar fácilmente y necesitarán archivos de metadatos o diccionarios complementarios para garantizar que se puedan descubrir en una búsqueda.</li>
                 </ul>
-            <li>Automatiza el intercambio de sus metadatos con comunidades específicas, si corresponde.</li>
+            <li>Automatiza el intercambio de tus metadatos con comunidades específicas, si corresponde.</li>
             </ul>
         </td>
     </tr>
@@ -262,10 +262,10 @@ _Selecciona cada pestaña para obtener más información._
 <table>
   <thead>
     <tr>
-        <th>ENCONTRABLE</th>
+        <th>FÁCIL DE ENCONTRAR</th>
         <th>ACCESIBLE ☑</th>
         <th>INTEROPERABLE</th>
-        <th>REUTILIZABLE</th>
+        <th>REUSABLE</th>
     </tr>
   </thead>
   <tbody>
@@ -275,8 +275,8 @@ _Selecciona cada pestaña para obtener más información._
             <ul>
                 <li>Archiva en un repositorio de datos/centro de datos con protocolos de acceso estandarizados.</li>
                 <li>Los protocolos de acceso al repositorio deben estar bien definidos e idealmente deberían admitir el acceso de máquina a máquina.</li>
-                <li>Proporciona información sobre cómo los usuarios pueden acceder a tus datos, idealmente de forma automatizada y basada en máquinas.</li>
-                <li>Si el contenido completo no puede estar disponible abiertamente por algún motivo (sensibilidad de los datos, acceso poco frecuente a los datos, problemas de almacenamiento de archivos), los metadatos aún pueden estar disponibles abiertamente para que los usuarios puedan averiguar a quién deben contactar para solicitar los datos (de ser posible).</li>
+                <li>Provee información sobre cómo pueden acceder los usuarios a tus datos, idealmente de forma automatizada y computacional.</li>
+                <li>Si el contenido completo no puede estar disponible abiertamente por algún motivo (sensibilidad de los datos, acceso poco frecuente a los datos, problemas de almacenamiento de los archivos), los metadatos pueden ponerse a disposición del público para que los usuarios puedan averiguar a quién deben contactar para solicitar los datos (de ser posible).</li>
             </ul>
         </td>
     </tr>
@@ -286,10 +286,10 @@ _Selecciona cada pestaña para obtener más información._
 <table>
   <thead>
     <tr>
-        <th>ENCONTRABLE</th>
+        <th>FÁCIL DE ENCONTRAR</th>
         <th>ACCESIBLE</th>
         <th>INTEROPERABLE ☑</th>
-        <th>REUTILIZABLE</th>
+        <th>REUSABLE</th>
     </tr>
   </thead>
   <tbody>
