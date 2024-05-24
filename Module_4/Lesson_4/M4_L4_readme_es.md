@@ -65,27 +65,27 @@ En cambio, si el software se desarrolló con financiación externa (del gobierno
 - **Cómo:** Habilitar la reutilización del software mediante la asignación de un DOI, licencia, directrices de contribución, etc.
 - **Quién:** Roles, funciones y responsabilidades de los miembros del equipo.
 
-## Cuestiones jurídicas y de seguridad
+## Cuestiones legales y de seguridad
 
 <table>
   <thead>
     <tr>
-        <th>CONCIONES LEGALES ☑</th>
+        <th>CUESTIONES LEGALES ☑</th>
         <th>CUESTIONES DE SEGURIDAD</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="2">
-            <p>Cualquiera que escriba código de investigación y software debe familiarizarse con las políticas de su organización sobre compartir y publicar software. Las agencias de financiación, gubernamentales o privadas, pueden tener estrictos requisitos de apertura del software. En otros casos, compartir software puede no estar permitido por la organización.</p>
-            <p>Las cuestiones jurídicas pueden incluir preguntas como:</p>
+            <p>Todo aquel que escriba código y software de investigación debe familiarizarse con las políticas de su institución en materia de compartir y publicar software. Las organismos de financiamiento, gubernamentales o privados, pueden tener requisitos estrictos en cuanto a software abierto. En otras ocasiones, la institución puede no permitir que se comparta el software.</p>
+            <p>Las cuestiones legales pueden incluir preguntas como:</p>
             <ul>
                 <li>¿Es un desarrollador o una institución el propietario del software?</li>
-                <li>¿El compartir (o no compartir) el software viola las políticas de la agencia de financiación?</li>
-                <li>¿Existen leyes o normativas locales que regulen el intercambio de propiedad intelectual?</li>
+                <li>¿El compartir (o no compartir) el software viola las políticas del organismo de financiamiento?</li>
+                <li>¿Existen leyes o normas en tu zona que regulen compartir la propiedad intelectual?</li>
                 <li>¿Qué licencia de software se necesita?</li>
             </ul>
-            <p><strong>Una vez que decida participar o iniciar un nuevo proyecto de software abierto, familiarícese con las políticas y prácticas de su organización.</strong></p>
+            <p><strong>Cuando decidas participar o iniciar un nuevo proyecto de software libre, familiarízate con las políticas y prácticas de tu institución.</strong></p>
             <p>Más información sobre los aspectos legales <a href="https://opensource.guide/legal/">aquí</a>.</p>
         </td>
     </tr>
