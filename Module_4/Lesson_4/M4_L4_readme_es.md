@@ -95,45 +95,45 @@ En cambio, si el software se desarrolló con financiación externa (del gobierno
 <table>
   <thead>
     <tr>
-        <th>CONCIONES LEGALES</th>
+        <th>CUESTIONES LEGALES</th>
         <th>CUESTIONES DE SEGURIDAD ☑</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="2">
-            <p>La seguridad es una preocupación a la hora de compartir software. Los malhechores pueden adjuntar códigos maliciosos a los programas informáticos en un intento de infiltrarse en los sistemas informáticos a través de las vulnerabilidades de seguridad, exponiendo potencialmente información sensible y privada que puede acarrear grandes pérdidas económicas a los usuarios. La seguridad es una preocupación a la hora de compartir software.</p>
+            <p>La seguridad es una preocupación a la hora de compartir software. Las personas malintencionadas pueden adjuntar códigos maliciosos a los programas en un intento de infiltrarse en los sistemas informáticos a través de vulnerabilidades de seguridad, exponiendo potencialmente información sensible y privada que puede acarrear grandes pérdidas económicas a los usuarios. Los riesgos de seguridad deben tenerse en cuenta a la hora de compartir software.</p>
             <p>Las cuestiones de seguridad pueden incluir:</p>
             <ul>
-                <li>¿Permite la política de Tecnologías de la Información (TI) de tu organización que compruebes el código que quieres utilizar en tu máquina?</li>
-                <li>¿Tiene buena reputación el repositorio al que desea contribuir?</li>
+                <li>¿La política de tecnologías de la información (TI) de tu institución permite que pongas a prueba el código que quieres usar en tu máquina?</li>
+                <li>¿Tiene buena reputación el repositorio al que quieres contribuir?</li>
                 <li>¿Hay algún problema abierto relacionado con la seguridad del código?</li>
             </ul>
-            <p><strong>Una vez que decida participar o iniciar un nuevo proyecto de software abierto, familiarícese con las políticas y prácticas de su organización.</strong></p>
+            <p><strong>Cuando decidas participar o iniciar un nuevo proyecto de software libre, familiarízate con las políticas informáticas de tu institución.</strong></p>
             <p>Más información sobre los aspectos legales <a href="https://opensource.guide/legal/">aquí</a>.</p>
         </td>
     </tr>
   </tbody>
 </table>
 
-### Compartir programas informáticos creados con fondos de agencias estadounidenses
+### Compartir programas informáticos creados con fondos de organismos de los Estados Unidos
 
 Muchos organismos federales ya permiten (si no exigen) compartir el código creado en el marco de sus programas de subsidios. Por ejemplo:
 
 - [NASA](https://www.nasa.gov/open/open-source-development.html) "...estamos llegando activamente a proyectos dentro de la NASA para hacer uso de ...recursos para publicar código abierto."
-- [Departamento de Comercio de EE.UU.](https://www.commerce.gov/about/policies/source-code) «...requiere que las agencias desarrollen planes para liberar al menos el 20 por ciento del nuevo código fuente desarrollado a medida como Software de Código Abierto (OSS) al encargar nuevo software a medida».
-- [USGS](https://www.usgs.gov/survey-manual/im-osqi-2019-01-review-and-approval-scientific-software-release) «...las versiones de software se consideran bienes de dominio público y, por lo general, están disponibles sin restricciones».
+- [Departamento de Comercio de los EE.UU.](https://www.commerce.gov/about/policies/source-code) "...requiere que las organismos desarrollen planes para liberar al menos el 20 por ciento del nuevo código fuente desarrollado a medida como Software de Código Abierto (OSS) al encargar un nuevo software hecho a medida."
+- [USGS](https://www.usgs.gov/survey-manual/im-osqi-2019-01-review-and-approval-scientific-software-release) "...las versiones de software se consideran bienes de dominio público y, por lo general, están disponibles sin restricciones."
 
-¿Está financiado por un subsidio? Lea la convocatoria original de la subvención para ver si se permite/requiere la publicación de su código y compruebe si contiene algún texto sobre la gestión del software y alguna condición para publicar su código. En caso de duda, póngase en contacto con su organización para obtener información adicional.
+¿Recibes dinero de un subsidio? Lee la convocatoria original del subsido para ver si te permite/requiere la publicación del código y comprueba si contiene algún texto sobre la gestión del software y alguna condición para publicar el código. En caso de duda, ponte en contacto con tu institución para obtener información adicional.
 
-### Actividad 4.1: Encuentra las políticas de lanzamiento de software de tu organización
+### Actividad 4.1: Encuentra las Políticas de Publicación de Software de tu Institución
 
 <img style="width:350px;height:auto;" src="../images/media/lightbulb.png">
 
 Supongamos que desea iniciar un nuevo proyecto de código abierto:
 
-- Conozca las políticas de su organización en materia de publicación de software.
-- ¿Cuál es el proceso para liberar su software?
+- Conoce las políticas de tu institución en materia de publicación de software.
+- ¿Cuál es el proceso para liberar un software?
 - ¿Alguien en su organización tiene que aprobar esta versión?
 - ¿Existen políticas con respecto a los contribuyentes externos?
 - ¿Su organización requiere una atribución o crédito específico?
