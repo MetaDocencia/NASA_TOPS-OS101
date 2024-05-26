@@ -111,13 +111,13 @@ Este es un ejemplo de un sitio que puedes utilizar para saber si la política de
 
 ## Cómo compartir
 
-Quizás el paso más importante para que tus resultados sean abiertos sea asignarles un identificador global único y persistente. Esto te brindará un código único, URL o número que podrás utilizar para referirte de forma exclusiva a un objeto de investigación. Cualquier objeto de investigación derivado puede utilizar este identificador para enlazar con él y crear un historial rastreable de uso y desarrollo. Además, el identificador puede ser utilizado por otros para citar y acreditar tu trabajo ([fuente](https://opensciency.github.io/sprint-content/open-results/lesson3-apply-open-results.html)).
+Quizás el paso más importante para que tus resultados sean abiertos sea asignarles un identificador global único y persistente. Esto te brindará un código único, URL o número que podrás utilizar para referirte de forma exclusiva a un objeto de investigación. Cualquier objeto de investigación derivado puede utilizar este identificador para enlazar con él y crear un historial rastreable de uso y desarrollo. Además, el identificador puede ser utilizado por otros para citar y acreditar tu trabajo ([fuente](https://opensciency.github.io/sprint-content/open-results/lesson3-apply-open-results.html)) (en inglés).
 
 El identificador también debe ser persistente. Esto garantiza que conduzca al mismo objeto de investigación durante un largo periodo de tiempo. Lo que cuenta como «persistente» es, por supuesto, una apreciación, ya que incluso el identificador más estable probablemente no sobrevivirá a que el Sol engulla la Tierra dentro de unos miles de millones de años. En este contexto, «persistente» implica que está registrado en una base de datos gestionada por una organización o sistema que se compromete a mantenerlo estable y compatible con versiones anteriores en un futuro previsible.
 
-Por ejemplo, las URL (un sitio web personal, un repositorio de GitHub o un almacenamiento en la nube) son notoriamente poco persistentes, ya que pueden cambiar su contenido con frecuencia o dejar de ser válidas si no reciben mantenimiento. Por su parte, las publicaciones de revistas científicas tienen un Identificador de Objeto Digital (DOI) cuya persistencia está garantizada por la Fundación Internacional del DOI.
+Por ejemplo, las URL (un sitio web personal, un repositorio de GitHub o un almacenamiento en la nube) son notoriamente poco persistentes, ya que pueden cambiar su contenido con frecuencia o dejar de ser válidas si no reciben mantenimiento. Por su parte, las publicaciones de revistas científicas tienen un Identificador de Objeto Digital (DOI por sus siglas en inglés) cuya persistencia está garantizada por la Fundación Internacional del DOI.
 
-Además de identificar unívocamente cada objeto de investigación, es importante poder identificar y citar unívocamente a todos los autores y colaboradores. Para ello, se recomienda obtener el identificador digital permanente de cada uno de ellos. [ORCID](https://orcid.org/) (Open Researcher and Contributor ID) es un servicio en línea que permite obtener un identificador digital permanente.
+Además de identificar unívocamente cada objeto de investigación, es importante poder identificar y citar unívocamente a todos los autores y colaboradores. Para ello, se recomienda obtener el identificador digital permanente de cada uno de ellos. ID abierto de investigador y colaborador ([ORCID](https://orcid.org/) por sus siglas en inglés) es un servicio en línea que permite obtener un identificador digital permanente.
 
 Existen ejemplos de identificadores globalmente únicos y persistentes:
 
@@ -126,7 +126,7 @@ Existen ejemplos de identificadores globalmente únicos y persistentes:
     <tr>
         <th>IDENTIFICADOR DE OBJETO DIGITAL (DOI) <br>10.1371/JOURNAL.PONE.0230416 ☑</th>
         <th>ISBN-13: 978-0735619678</th>
-        <th>THE INTERNET ARCHIVE</th>
+        <th>EL ARCHIVO DE INTERNET</th>
     </tr>
   </thead>
   <tbody>
@@ -166,7 +166,7 @@ Existen ejemplos de identificadores globalmente únicos y persistentes:
   <tbody>
     <tr>
         <td colspan="3">
-            <p><a href="https://web.archive.org/web/20220121051903/https://www.go-fair.org/">El Archivo de Internet</a> (*Internet Archive*) captura instantáneas de sitios web y sus enlaces son realmente estables. Aunque no sea ideal, es una herramienta práctica para crear identificadores de sitios web fácilmente.</p>
+            <p><a href="https://web.archive.org/web/20220121051903/https://www.go-fair.org/">El Archivo de Internet</a> (*The Internet Archive*) captura instantáneas de sitios web y sus enlaces son realmente estables. Aunque no sea ideal, es una herramienta práctica para crear identificadores de sitios web fácilmente.</p>
         </td>
     </tr>
   </tbody>
@@ -176,19 +176,19 @@ Existen ejemplos de identificadores globalmente únicos y persistentes:
 
 <img src="../images/media/image67.png" style="width:350px;height:auto;" />
 
-Al aplicar una licencia a tu trabajo, dejas claro qué pueden hacer los demás con las cosas que compartes, así como las condiciones en las que las proporcionas (como el requisito de citarte). Otro elemento muy importante que debes incluir con tus objetos de investigación son normas claras para su reutilización (tal cual y para la creación de obras derivadas), que a menudo se codifican más fácilmente mediante el uso de una licencia.
+Al aplicar una licencia a tu trabajo, dejas claro qué pueden hacer los demás con las cosas que compartes, así como las condiciones en las que las proporcionas (como el requisito de citarte). Otro elemento muy importante que debes incluir con tus objetos de investigación son normas claras para su reuso (tal cual y para la creación de obras derivadas), que a menudo se codifican más fácilmente mediante el uso de una licencia.
 
 Sin licencia, todos los derechos corresponden al autor del resultado de la investigación. Eso significa que nadie más puede utilizar, copiar, distribuir o modificar la obra sin consentimiento. Una licencia otorga este consentimiento. Si no dispone de una licencia para cada uno de los objetos de investigación que constituyen el resultado de su investigación, ésta no podrá ser utilizada por toda la comunidad de investigación.
 
-Las licencias Creative Commons suelen utilizarse para contenidos escritos (véase la Lección 3 para una descripción completa). La ventaja de una licencia, a diferencia del dominio público, es que la mayoría exige la atribución a las personas creadoras originales. La Licencia de Atribución de Creative Commons, [CC-BY](https://wellcome.org/grant-funding/guidance/open-access-guidance/creative-commons-attribution-licence-cc), es la licencia de acceso abierto más común para compartir publicaciones, ya que requiere atribución. Existen otras licencias Creative Commons utilizadas que pueden tener diferentes limitaciones en cuanto a si pueden o no utilizarse comercialmente, si pueden o no modificarse y copiarse, y si las licencias pueden o no modificarse en posteriores adaptaciones del código.
+Las licencias Creative Commons suelen utilizarse para contenidos escritos (véase la Lección 3 para una descripción completa). La ventaja de una licencia, a diferencia del dominio público, es que la mayoría exige la atribución a las personas creadoras originales. La Licencia de Atribución de Creative Commons, [CC-BY](https://wellcome.org/grant-funding/guidance/open-access-guidance/creative-commons-attribution-licence-cc) (en inglés), es la licencia de acceso abierto más común para compartir publicaciones, ya que requiere atribución. Existen otras licencias Creative Commons utilizadas que pueden tener diferentes limitaciones en cuanto a si pueden o no utilizarse comercialmente, si pueden o no modificarse y copiarse, y si las licencias pueden o no modificarse en posteriores adaptaciones del código.
 
-Las instituciones, agencias de financiación o propuestas de investigación pueden requerir el uso de una licencia específica en función del tipo de material que se produzca a partir de la investigación. En el caso de los organismos públicos, se suele recomendar (o exigir) CC-0 o CC-BY para maximizar el rendimiento de la inversión y garantizar la reutilización más amplia posible. Elegir una licencia CC que tenga restricciones adicionales (por ejemplo, -ND, -SA, -NC) puede dar lugar a una menor reutilización de los datos. Cuando compartas resultados en distintas plataformas, fíjate bien cuál es la licencia que se está aplicando!
+Las instituciones, agencias de financiación o propuestas de investigación pueden requerir el uso de una licencia específica en función del tipo de material que se produzca a partir de la investigación. En el caso de los organismos públicos, se suele recomendar (o exigir) CC-0 o CC-BY para maximizar el rendimiento de la inversión y garantizar la reutilización más amplia posible. Elegir una licencia CC que tenga restricciones adicionales (por ejemplo, -ND, -SA, -NC) puede dar lugar a un menor reuso de los datos. Cuando compartas resultados en distintas plataformas, fíjate bien cuál es la licencia que se está aplicando!
 
 ### Vías para publicar en acceso abierto
 
 <img src="../images/media/image68.jpeg" style="width:100%;height:auto;" />
 
-Vías para publicar en abierto. Ilustración del proyecto Turing Way por Scriberia. Utilizado bajo licencia CC-BY 4.0. Versión original en Zenodo. [http://doi.org/10.5281/zenodo.5706310](http://doi.org/10.5281/zenodo.5706310)
+Vías para publicar  de manera abierta. Ilustración del proyecto el metodo Turing por Scriberia. Utilizado bajo licencia CC-BY 4.0. Versión original en Zenodo. [http://doi.org/10.5281/zenodo.5706310](http://doi.org/10.5281/zenodo.5706310)
 
 ---
 
