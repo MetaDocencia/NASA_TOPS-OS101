@@ -333,25 +333,25 @@ _Pregunta_
 
 **01/06**
 
-Lee la siguiente afirmación e indica si es Verdadera o Falsa:
+Lee la siguiente afirmación e indica si es verdadera o falsa:
 
 _No necesito compartir mi código si no tengo intención de seguir desarrollándolo._
 
 - Verdadero
 - Falso
 
-Pregunta
+_Pregunta_
 
 **02/06**
 
-Lee la siguiente afirmación e indica si es Verdadera o Falsa:
+Lee la siguiente afirmación e indica si es verdadera o falsa:
 
-_Añadir el código a un repositorio de GitHub no es suficiente para archivar mi código._
+_Añadir el código a un repositorio de GitHub es suficiente para archivar mi código._
 
 - Verdadero
 - Falso
 
-Pregunta
+_Pregunta_
 
 **03/06**
 
@@ -366,7 +366,7 @@ _Pregunta_
 
 **04/06**
 
-Lee la siguiente afirmación e indica si es Verdadera o Falsa:
+Lee la siguiente afirmación e indica si es verdadera o falsa:
 
 _Publicar tu software en un repositorio de software utilizado por los gestores de paquetes habituales facilita a las personas usuarias la instalación de su software._
 
@@ -377,11 +377,11 @@ _Pregunta_
 
 **05/06**
 
-¿Cuáles de las siguientes, si las hay, son formas en las que puedes ayudar a otras personas a reutilizar tu código? Selecciona todos los que correspondan.
+¿Cuáles de las siguientes, si las hay, son formas en las que puedes ayudar a otras personas a reutilizar tu código? Selecciona todas los que correspondan.
 
 - Asignar una licencia adecuada
-- Añadir un archivo llamado "CONTRIBUTING" con pautas de colaboradores
-- Añadir un archivo "CITATION" con información de citas
+- Añadir un archivo llamado "CONTRIBUCIÓN" con pautas para las personas que colaboran
+- Añadir un archivo "CITACIÓN" con información de citas
 
 _Pregunta_
 
