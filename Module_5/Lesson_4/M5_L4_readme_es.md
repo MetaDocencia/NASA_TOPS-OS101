@@ -103,7 +103,7 @@ En esta actividad aprenderás cómo acceder a la información sobre las polític
 5. Alternativamente, para obtener una visión más condensada de las políticas de la revista, vuelve al tablero de DOAJ en la página "Acerca de" con los múltiples cuadros desplegados, y haz clic en el enlace «Sherpa/Romeo» como se muestra aquí.<br><img src="../images/media/image60.jpeg" style="width:300px;height:auto;" />
 6. En la página Sherpa Romeo, cliquea en el nombre de la revista que aparece en la lista (la única revista que aparece).<br><img src="../images/media/image63.jpeg" style="width:100%;height:auto;" />
 7. Cuando veas la página, verás que resume y consolida las políticas de acceso abierto para esa revista y los materiales asociados. Es probable que la versión publicada sea la más relevante (véase el recuadro rojo de la figura).<br><img src="../images/media/image64.jpeg" style="width:100%;height:auto;"/>
-8. Revisa la página para determinar qué licencia ha definido la revista seleccionada para la reutilización de manuscritos.
+8. Revisa la página para determinar qué licencia ha definido la revista seleccionada para el reuso de manuscritos.
 
 #### Actividades clave: Lee las políticas de acceso abierto de las editoriales que utilizas
 
