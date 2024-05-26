@@ -298,7 +298,7 @@ _Selecciona cada pestaña para obtener más información._
             <p>Para garantizar que los datos sean interoperables en tu comunidad:</p>
             <ul>
                 <li>Reporta los datos en formato estándar comunitario.</li>
-                <li>Utiliza metadatos estandarizados existentes, si están disponibles, para minimizar los problemas generados por mala comunicación de la informacion y respaldar la legibilidad automática.</li>
+                <li>Utiliza metadatos estandarizados existentes, si están disponibles, para minimizar los problemas generados por mala comunicación de la informacion y para respaldar la legibilidad automática.</li>
                 <li>El uso de terminologías controladas, vocabularios y ontologías es necesario para respaldar la interoperabilidad, pero puede que aún no estén disponibles en todos los campos de investigación.</li>
             </ul>
         </td>
@@ -318,7 +318,7 @@ _Selecciona cada pestaña para obtener más información._
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Para garantizar que los datos sean reutilizables por los miembros de tu comunidad:</p>
+            <p>Para garantizar que los datos sean reusables por los miembros de tu comunidad:</p>
             <ul>
                 <li>Asegúrate de que los metadatos describan con precisión los datos y sus variables, así como cualquier particularidad o limitación.</li>
                 <li>Especifica licencias de uso claras para tus datos.</li>
@@ -341,9 +341,9 @@ Los metadatos son importantes para que los motores de búsqueda encuentren datos
 
 Una licencia es un documento legal que indica a los usuarios cómo pueden utilizar un conjunto de datos en particular. Si no licencias tu trabajo, otros no podrán o no deberían reutilizarlo, ¡aunque lo quieras! Es imprescindible conocer las condiciones de licencia de un conjunto de datos antes de reutilizarlos. Sin una buena comprensión de lo que permite una licencia, los usuarios de los datos pueden enfrentarse a problemas de infracción de derechos de autor u otros problemas de propiedad intelectual.
 
-Para asegurar la reutilización libre de tus datos, puedes recurrir a una licencia abierta. Una licencia abierta contiene un lenguaje que describe la capacidad del usuario para acceder, reutilizar y redistribuir el conjunto de datos. Hay muchos tipos de licencias de datos que tienen distintos grados de apertura, y que se tratarán con más detalle en la lección "Creación de datos abiertos".
+Para asegurar la reutilización libre de tus datos, puedes recurrir a una licencia abierta. Una licencia abierta contiene un lenguaje que describe la capacidad del usuario para acceder, reusar y redistribuir el conjunto de datos. Hay muchos tipos de licencias de datos que tienen distintos grados de apertura, y que se tratarán con más detalle en la lección "Creación de datos abiertos".
 
-## Planificar la apertura: Utilización del marco "Usar, hacer, compartir" para Código Abierto
+## Planificar la apertura: Utilización del marco "Usar, hacer, compartir" para código abierto
 
 ### Planificar proyectos de ciencia abierta y gestión de datos
 
@@ -361,9 +361,9 @@ Una buena práctica al comenzar tu viaje con datos abiertos es crear un Plan de 
 
 Consulta si tu institución o tu organismo de financiación dispone de pautas, normas o modelos para PGDs. Sino, hay entidades que también disponen de guías y muestras de PGD, como ser:
 
-- [USGS](https://www.usgs.gov/data-management/data-management-plans)
+- [USGS](https://www.usgs.gov/data-management/data-management-plans) (en inglés)
 - [NOAA](https://marinedebris.noaa.gov/sites/default/files/DataManagementPlanGuidance%26Sample.pdf)
-- [NSF](https://new.nsf.gov/funding/data-management-plan)
+- [NSF](https://new.nsf.gov/funding/data-management-plan)  (en inglés)
 
 Se proporcionarán más detalles sobre cómo crear estos planes en la lección "De la teoría a la práctica".
 
