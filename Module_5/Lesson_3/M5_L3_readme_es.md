@@ -1,13 +1,13 @@
-# Lección 3: Haciendo Los Resultados Abiertos
+# Lección 3: Haciendo Resultados Abiertos
 
 ## Contenidos
 
-- [Cómo hacer los resultados abiertos](#how-to-make-open-results)
-- [Rol de contribuidores en ciencia abierta](#role-of-contributors-in-open-science)
-- [Cómo dar reconocimiento abierto](#how-to-give-open-recognition)
+- [Cómo Hacer Resultados Abiertos](#how-to-make-open-results)
+- [Rol de Contribuyentes en Ciencia Abierta](#role-of-contributors-in-open-science)
+- [Cómo Brindar Reconocimiento Abierto](#how-to-give-open-recognition)
 - [Combinar Resultados Abiertos para Informes Científicos y Publicaciones](#combining-open-results-for-scientific-reporting-and-publications)
 - [Lección 3: Resumen](#lesson-3-summary)
-- [Lección 3: Validar conocimientos](#lesson-3-knowledge-check)
+- [Lección 3: Evaluación](#lesson-3-knowledge-check)
 
 ## Resumen
 
