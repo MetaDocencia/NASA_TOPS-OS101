@@ -22,33 +22,33 @@ Esta lección relaciona los conceptos de desarrollo de software de acceso o de c
 Después de completar esta lección, deberías saber:
 
 - Recordar la definición de un plan de gestión de software, potencialmente como parte de un plan de gestión de datos y de ciencia abierta, y dónde encontrar recursos útiles.
-- Enumerar/Listar formas de interactuar y contribuir en las comunidades de software de código abierto.
+- Enumerar formas de interactuar y contribuir en las comunidades de software de código abierto.
 
-## Planificar proyectos de ciencia abierta y gestión de datos
+## Planes de gestión de datos y ciencia abierta
 
 <img style="width: 100%; height: auto;" src="../images/media/codebg.jpg">
 
-"Un Plan de Gestión de Datos y Ciencia Abierta de la NASA (OSDMP) describe cómo se gestionará y se pondrá a disposición abiertamente la información científica producida, a partir de actividades científicas financiadas por la NASA. El OSDMP debe incluir secciones sobre gestión de datos, gestión de software e intercambio de publicaciones"
+"Un Plan de Gestión de Datos y Ciencia Abierta de la NASA (PGDCA) describe cómo se gestionará y se pondrá a disposición abiertamente la información científica producida, a partir de actividades científicas financiadas por la NASA. El PGDCA debe incluir secciones sobre gestión de datos, gestión de software e intercambio de publicaciones"
 
 **[https://science.nasa.gov/researchers/sara/faqs/](https://science.nasa.gov/researchers/sara/faqs/)**
 
 ---
 
-Secciones de ejemplo para incluir en un OSDMP:
+Secciones de ejemplo para incluir en un PGDCA:
 
-- Plan de gestión de datos (DMP)
-- Plan de gestión de software (SMP)
+- Plan de gestión de datos (PGD)
+- Plan de gestión de software (PGS)
 - Compartir publicaciones
 - Otras actividades de ciencia abierta
-- Roles o Funciones y responsabilidades
+- Roles y responsabilidades
 
-#### Recuerde los pasos para un SMP de las lecciones anteriores
+#### Recuerde los pasos para un PGS de las lecciones anteriores
 
 - **Qué:** Descripción de la gestión, preservación y lanzamiento del software.
 - **Cuándo:** El cronograma para archivar y compartir software.
 - **Dónde:** Ubicación donde se compartirá y archivará el software a largo plazo.
 - **Cómo:** Habilite la reutilización del software mediante la asignación de un DOI, una licencia, pautas de contribución, etc.
-- **Quién:** Roles, funciones y responsabilidades de los miembros del equipo.
+- **Quién:** Roles y responsabilidades de los miembros del equipo.
 
 <img style="width: 350px; height: auto;" src="../images/media/recallsteps.jpg">
 
@@ -60,10 +60,10 @@ Si está planificando un proyecto que requiere un plan de gestión de datos, red
 
 |                                      |                                                                                                                                                                                                                                                                                                                |
 | ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| SMP Se requiere o es necesario       | Necesita un SMP para: <ul><li>Proponer financiación (por ejemplo, NASA, NSF y probablemente, pronto en todas partes)</li><li>Colaborar en un equipo que pretende publicar el código al público</li> <li>Gestionar con éxito cualquier misión o proyecto grande</li></ul>    |
-| SMP No se requiere o no es necesario | Probablemente no necesites un SMP si estás trabajando en: <ul><li>Sólo un artículo (o un grupo muy pequeño de colaboradores)</li><li>La exploración inicial de ideas o la experimentación con el análisis de código</li><li>Actividades centradas en la educación</li></ul> |
+| PGS Se requiere o es necesario       | Necesita un PGS para: <ul><li>Proponer financiación (por ejemplo, NASA, NSF y probablemente, pronto en todas partes)</li><li>Colaborar en un equipo que pretende publicar el código al público</li> <li>Gestionar con éxito cualquier misión o proyecto grande</li></ul>    |
+| PGS No se requiere o no es necesario | Probablemente no necesites un PGS si estás trabajando en: <ul><li>Sólo un artículo (o un grupo muy pequeño de colaboradores)</li><li>La exploración inicial de ideas o la experimentación con el análisis de código</li><li>Actividades centradas en la educación</li></ul> |
 
-Quizás tu proyecto no encaje en estas categorías. Por ejemplo, si tu objetivo es que otros reproduzcan tus resultados, entonces redactar un SMP queda a tu decisión.
+Quizás tu proyecto no encaje en estas categorías. Por ejemplo, si tu objetivo es que otros reproduzcan tus resultados, entonces redactar un PGS queda a tu decisión.
 
 El siguiente material supone que ha alcanzado el umbral/nivel y está escribiendo un plan de gestión de datos/software.
 
@@ -78,13 +78,13 @@ Si solicita financiación, es casi seguro que habrá requisitos específicos de 
 - [esciencecenter.nl/national-guidelines-for-software-management-plans/](https://www.esciencecenter.nl/national-guidelines-for-software-management-plans/)
 - [https://zenodo.org/record/7589725](https://zenodo.org/record/7589725)
 
-**Políticas/Reglas/Normativas**
+**Normativas**
 
-¿Cuáles son las políticas/reglas/normas para un SMP? (¿Qué dice la agencia de financiación que hagamos?)
+¿Cuáles son las normas para un PGS? (¿Qué dice la agencia de financiación que hagamos?)
 
 - Formatos de datos
-- Plan para datos/códigos archivo/preservación
-- Roles, funciones y responsabilidades
+- Plan para archivo/preservación de datos/códigos
+- Roles y responsabilidades
 
 ### Agencias de financiamiento
 
@@ -102,11 +102,11 @@ Science/AAAS establece explícitamente que "en general, todo el código informá
 
 Las instituciones individuales donde trabajamos imponen restricciones muy variables al software de código abierto debido a preocupaciones de seguridad, privacidad, propiedad intelectual, comerciales u otras que no necesariamente se alinean con el espíritu de la ciencia abierta. Es importante colaborar con la comunidad institucional para facilitar el movimiento hacia políticas que faciliten el software de código abierto como base de la ciencia abierta.
 
-### Actividad 5.1: Escribir un SMP
+### Actividad 5.1: Escribir un PGS
 
-En esta actividad, revise el SMP y piense en estas preguntas:
+En esta actividad, revise el PGS y piense en estas preguntas:
 
-- ¿Qué tipos de software describe el SMP?
+- ¿Qué tipos de software describe el PGS?
 - ¿Cuándo se compartirá?
 - ¿Dónde se compartirá?
 - ¿Cómo se compartirá para que sea un artículo citable?
@@ -116,15 +116,15 @@ En esta actividad, revise el SMP y piense en estas preguntas:
 - ¿Los resultados son reproducibles sin el código IDL original?
 - ¿Hay cosas en el plan de ejemplo que agregaría o sobre las que sería más específico?
 
-#### Ejemplo de Plan de Gestión de Software (SMP siglas en inglés)
+#### Ejemplo de Plan de Gestión de Software (PGS)
 
 **1. Tipos de software esperados**
 
-Utilizaremos modelos de simulación establecidos para realizar simulaciones iniciales para este trabajo. Estos modelos de simulación están escritos en Fortran y desarrollados durante la última década. Si bien no están disponibles públicamente, están disponibles para que los utilice el proyecto (comunicación privada). Los modelos de simulación conducirán a la generación de archivos de salida como se describe en el Plan de gestión de datos (DMP). Desarrollaremos software de análisis en Python para analizar los archivos de salida del modelo, lo que permitirá el desarrollo de productos de datos derivados, mapas y figuras. El desarrollo del software de análisis Python se compartirá en un repositorio de GitHub.
+Utilizaremos modelos de simulación establecidos para realizar simulaciones iniciales para este trabajo. Estos modelos de simulación están escritos en Fortran y desarrollados durante la última década. Si bien no están disponibles públicamente, están disponibles para que los utilice el proyecto (comunicación privada). Los modelos de simulación conducirán a la generación de archivos de salida como se describe en el plan de gestión de datos (PGD). Desarrollaremos software de análisis en Python para analizar los archivos de salida del modelo, lo que permitirá el desarrollo de productos de datos derivados, mapas y figuras. El desarrollo del software de análisis Python se compartirá en un repositorio de GitHub.
 
-**2. Desarrollo de Análisis de Software**
+**2. Desarrollo de análisis de software**
 
-Todo el desarrollo nuevo del código Python se desarrollará abiertamente en GitHub por los miembros del proyecto. Publicaremos y seguiremos el Código de conducta establecido para el desarrollo de software de nuestro proyecto de investigación, incluye pautas para las contribuciones de miembros adicionales de la comunidad científica.
+Todo el desarrollo nuevo del código Python se desarrollará abiertamente en GitHub por los miembros del proyecto. Publicaremos y seguiremos el código de conducta establecido para el desarrollo de software de nuestro proyecto de investigación, incluye pautas para las contribuciones de miembros adicionales de la comunidad científica.
 
 **3. Repositorios y cronogramas para compartir software**
 
@@ -134,9 +134,9 @@ Este trabajo apoyará el desarrollo de dos artículos de revistas revisados ​�
 
 Este trabajo no respalda un mayor desarrollo de los modelos de simulación de Fortran existentes, que se mantienen de forma independiente. No tenemos permiso para compartir públicamente el código fuente de Fortran para los modelos de simulación.
 
-**5. Roles, funciones y responsabilidades**
+**5. Roles y responsabilidades**
 
-Los estudiantes de doctorado y postdoctorados completarán el modelado de simulación inicial y el desarrollo del software de análisis Python. El PI de este proyecto tiene la responsabilidad general de la ejecución de este plan.
+Los estudiantes de doctorado y postdoctorados completarán el modelado de simulación inicial y el desarrollo del software de análisis Python. Quien dirija este proyecto tiene la responsabilidad general de la ejecución de este plan.
 
 ## Interesar, involucrar y construir comunidades
 
