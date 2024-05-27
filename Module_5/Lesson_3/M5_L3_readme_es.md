@@ -357,8 +357,8 @@ No hay un único enfoque para reconocer a las personas contribuyentes como autor
   <tbody>
     <tr>
         <td colspan="2">
-            <p>Considera este escenario hipotético: Eres estudiante postdoctoral y autor principal de un proyecto de investigación. Un estudiante rotativo pasa 4 meses en el laboratorio ayudando a establecer y perfeccionar el protocolo experimental que se utilizará para realizar los experimentos necesarios para responder a la pregunta de la investigación. Incluso pueden ayudar en la obtención de datos preliminares, pero luego se van y deciden unirse a otro laboratorio. ¿Proporcionarías la autoría a el estudiante?</p>
-            <p>Sería poco ético no dar a la autoría o crédito a alguna persona que ha prestado una ayuda significativa y ha contribuido al éxito de una investigación incluso cuando ya no esté implicada. Un camino justo en este escenario podría ser ponerse en contacto con el colaborador anterior e implicarlos en la escritura de una sección relevante del manuscrito.</p>
+            <p>Considera este escenario hipotético: Eres estudiante postdoctoral y autor principal de un proyecto de investigación. Una persona estudiante rotativa pasa 4 meses en el laboratorio ayudando a establecer y perfeccionar el protocolo experimental que se utilizará para realizar los experimentos necesarios para responder a la pregunta de la investigación. Incluso pueden ayudar en la obtención de datos preliminares, pero luego se van y deciden unirse a otro laboratorio. ¿Proporcionarías autoría a esa persona estudiante?</p>
+            <p>Sería poco ético no dar autoría o crédito a alguna persona que ha prestado una ayuda significativa y ha contribuido al éxito de una investigación incluso cuando ya no esté implicada. Un camino justo en este escenario podría ser ponerse en contacto con el colaborador anterior e implicarlos en la escritura de una sección relevante del manuscrito.</p>
         </td>
     </tr>
   </tbody>
