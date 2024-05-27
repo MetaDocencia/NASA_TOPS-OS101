@@ -362,7 +362,7 @@ Una buena práctica al comenzar tu viaje con datos abiertos es crear un Plan de 
 Consulta si tu institución o tu organismo de financiación dispone de pautas, normas o modelos para PGDs. Sino, hay entidades que también disponen de guías y muestras de PGD, como ser:
 
 - [USGS](https://www.usgs.gov/data-management/data-management-plans) (en inglés)
-- [NOAA](https://marinedebris.noaa.gov/sites/default/files/DataManagementPlanGuidance%26Sample.pdf)
+- [NOAA](https://marinedebris.noaa.gov/sites/default/files/DataManagementPlanGuidance%26Sample.pdf) (en inglés)
 - [NSF](https://new.nsf.gov/funding/data-management-plan)  (en inglés)
 
 Se proporcionarán más detalles sobre cómo crear estos planes en la lección "De la teoría a la práctica".
