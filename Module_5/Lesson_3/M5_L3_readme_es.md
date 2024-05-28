@@ -423,20 +423,20 @@ Es importante establecer una referencia para cada equipo de investigación/proye
         <td>Comunicaciones sobre el proyecto y compromisos con las partes interesadas más allá del proyecto y la institución</td>
     </tr>
     <tr>
-        <td>Interacción con expertos y responsables de las políticas de la organización</td>
-        <td>Revisión previa a la publicación, reuniones con consejos asesores externos, reportes regulares, reportes posteriores a la publicación y contactar activamente a los responsables de políticas pertinentes</td>
+        <td>Interacción con personas expertas y responsables de las políticas de la organización</td>
+        <td>Revisión previa a la publicación, reuniones con la junta asesora externa, informes regulares, reportes posteriores a la publicación y contactar activamente a las personas responsables de políticas pertinentes</td>
     </tr>
     <tr>
         <td>Reconocimiento y autoría</td>
-        <td>Evaluando incentivos, estableciendo un sistema de valor justo y reconociendo equitativamente a todos los colaboradores</td>
+        <td>Evaluar incentivos, estableciendo un sistema de valor justo, reconociendo equitativamente a quienes colaboran</td>
     </tr>
     <tr>
         <td>Diseño del proyecto</td>
-        <td>Planificación técnica, recomendaciones de expertos, supervisión u orientación, desarrollo de hojas de ruta e hitos del proyecto, desarrollo de herramientas y plantillas</td>
+        <td>Planificación técnica, recomendaciones de personas expertas, supervisión u orientación, desarrollo de hojas de ruta e hitos del proyecto, desarrollo de herramientas y plantillas</td>
     </tr>
     <tr>
         <td>Conceptualización</td>
-        <td>Ideas; formulación o evolución de objetivos y metas globales de investigación</td>
+        <td>Ideas, formulación y/o evolución de objetivos y metas generales de investigación</td>
     </tr>
     <tr>
         <td>Metodología</td>
@@ -448,7 +448,7 @@ Es importante establecer una referencia para cada equipo de investigación/proye
     </tr>
     <tr>
         <td>Validación</td>
-        <td>La verificación generalizable de la replicación/reproducibilidad general de resultados/experimentos y otros productos de investigación, ya sea como parte de la actividad o de forma independiente</td>
+        <td>Verificación, ya sea como parte de la actividad o de manera independiente, de la replicación/reproducibilidad general de resultados/experimentos y otros resultados de investigación generalizables</td>
     </tr>
     <tr>
         <td>Investigación</td>
@@ -456,11 +456,11 @@ Es importante establecer una referencia para cada equipo de investigación/proye
     </tr>
     <tr>
         <td>Recursos</td>
-        <td>Provisión de materiales de estudio, reactivos, materiales, pacientes, muestras de laboratorio, animales, instrumentación, recursos informáticos u otras herramientas de análisis</td>
+        <td>Proveer de materiales de estudio, reactivos, materiales, pacientes, muestras de laboratorio, animales, instrumentación, recursos informáticos u otras herramientas de análisis</td>
     </tr>
     <tr>
         <td>Curaduría de datos</td>
-        <td>Actividades de gestión para anotar (producir metadatos), depurar datos y mantener los datos de investigación (incluido el código de software, cuando sea necesario para interpretar los datos mismos) para su uso inicial y reutilización posterior (incluida la licencia)</td>
+        <td>Actividades de gestión de registro (producir metadatos), depuración y mantenimiento de los datos de investigación (incluido el código de software, cuando sea necesario para interpretar los mismos) para su uso inicial y reutilización posterior (incluida la licencia)</td>
     </tr>
     <tr>
         <td>Escritura - Borrador Original</td>
@@ -468,7 +468,7 @@ Es importante establecer una referencia para cada equipo de investigación/proye
     </tr>
     <tr>
         <td>Escritura - Revisión y Edición</td>
-        <td>La preparación, creación y/o presentación del trabajo por parte del grupo de investigación, abarcando las revisiones críticas, comentarios o correcciones e incluyendo las etapas pre y post publicación</td>
+        <td>Preparación, creación y/o presentación del trabajo por parte del equipo de investigación, abarcando las revisiones críticas, comentarios o correcciones, incluyendo las etapas de pre y post publicación</td>
     </tr>
     <tr>
         <td>Visualización</td>
@@ -476,7 +476,7 @@ Es importante establecer una referencia para cada equipo de investigación/proye
     </tr>
     <tr>
         <td>Supervisión</td>
-        <td>Supervisión y responsabilidad de liderazgo para la planificación y ejecución de la actividad de investigación, incluida la tutoría externa al equipo principal</td>
+        <td>Responsabilidad de supervisión y liderazgo para la planificación y ejecución de la actividad de investigación, incluida la tutoría externa al equipo principal</td>
     </tr>
 </tbody>
 </table>
