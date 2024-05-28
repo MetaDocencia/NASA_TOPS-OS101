@@ -1,14 +1,14 @@
 # Lección 5: De la Teoría a la Práctica
 
-## Temas a desarrollar
+## Contenidos
 
 - [Escribiendo un Plan de Gestión de Datos de Ciencia Abierta: Qué incluír en un OSDMP para compartir resultados abiertos](#writing-an-osdmp-what-to-include-in-the-osdmp-for-sharing-results-openly)
 - [Ejemplo de pasos hacia resultados más abiertos](#ejemplo-pasos-hacia-resultados-mas-abiertos)
 - [Cómo una tecnología emergente como la IA está cambiando nuestra forma de hacer ciencia](#cómo-tecnología-emergente-como-ia-está-cambiando-cómo-hacemos-ciencia)
 - [Lección 5: Resumen](#lesson-5-summary)
 - [Lección 5: Evaluación](#leccion-5-Evaluación)
-- [Resumen de Resultados Abiertos](#resultados-abiertos-resumen)
-- [Resumen Introducción a la Ciencia Abierta](#ciencia-abierta-101-resumen)
+- [Resumen de resultados abiertos](#open-results-resumy)
+- [Resumen de Introducción a la Ciencia Abierta](#open-science-101-summary)
 
 ## Descripción General
 
