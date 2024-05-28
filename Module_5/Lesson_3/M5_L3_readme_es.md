@@ -358,7 +358,7 @@ No hay un único enfoque para reconocer a las personas contribuyentes como autor
     <tr>
         <td colspan="2">
             <p>Considera este escenario hipotético: Eres estudiante postdoctoral y autor principal de un proyecto de investigación. Una persona estudiante rotativa pasa 4 meses en el laboratorio ayudando a establecer y perfeccionar el protocolo experimental que se utilizará para realizar los experimentos necesarios para responder a la pregunta de la investigación. Incluso pueden ayudar en la obtención de datos preliminares, pero luego se van y deciden unirse a otro laboratorio. ¿Proporcionarías autoría a esa persona estudiante?</p>
-            <p>Sería poco ético no dar autoría o crédito a alguna persona que ha prestado una ayuda significativa y ha contribuido al éxito de una investigación incluso cuando ya no esté implicada. Un camino justo en este escenario podría ser ponerse en contacto con el colaborador anterior e implicarlos en la escritura de una sección relevante del manuscrito.</p>
+            <p>Sería poco ético no dar autoría o crédito a alguna persona que ha prestado una ayuda significativa y ha contribuido al éxito de una investigación incluso cuando ya no esté implicada. Un camino justo en este escenario podría ser ponerse en contacto con quienes han colaborado anteriormente e implicarles en la escritura de una sección relevante del manuscrito.</p>
         </td>
     </tr>
   </tbody>
@@ -367,24 +367,24 @@ No hay un único enfoque para reconocer a las personas contribuyentes como autor
 <table>
   <thead>
     <tr>
-        <th>DINAMICAS DE PODER EN GRUPO &amp; EQUIDAD (Por ejemplo, SENIORIDAD, SISTEMAS DE OPRESIÓN)</th>
+        <th>DINAMICAS DE PODER EN GRUPO &amp; EQUIDAD (Por ejemplo, jerarquía, sistemas de opresión) ☑</th>
         <th>EL TIPO DE CONTRIBUCIÓN ☑</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="2">
-            <p>Las pautas del NIH para la autoría describen qué tipo de contribución justifica o no una autoría. Cada contribución se representa en una escala móvil y no tiene límites rígidos. Algunas contribuciones tienen más peso que otras. Por ejemplo, para "diseño e interpretación de resultados", casi todos los tipos de "ideas originales, planificaciones y aportes" resultan en autoría. Mientras que la simple supervisión del primer autor generalmente no resulta en autoría (a menos que también estén contribuyendo al artículo, por supuesto). Este es solo un ejemplo. ¡Necesitarás pensar en cómo se aplica esto en tu propio trabajo!</p>
+            <p>Las pautas del NIH para la autoría describen qué tipo de contribución justifica o no una autoría. Cada contribución se representa en una escala variable y no tiene límites rígidos. Algunas contribuciones tienen más peso que otras. Por ejemplo, para "diseño e interpretación de resultados", casi todos los tipos de "ideas originales, planificaciones y aportes" resultan en autoría. En cambio, simplemente supervisar a la persona primera en autoría generalmente no resulta en autoría (a menos que también se esté contribuyendo al artículo, por supuesto). Este es solo un ejemplo. ¡Necesitarás pensar cómo se aplica esto en tu propio trabajo!</p>
         </td>
     </tr>
   </tbody>
 </table>
 
-Una comunicación clara sobre roles y responsabilidades al inicio del proyecto, y pautas sobre cómo se determinarán las autorías, puede ayudar a mitigar algunos de estos problemas.
+Una comunicación clara sobre roles y responsabilidades al inicio del proyecto y pautas sobre cómo se determinarán las autorías, puede ayudar a mitigar algunos de estos problemas.
 
-### Roles diversos entre colaboradores
+### Diversidad de roles de los colaboradores
 
-Es importante establecer una referencia para cada equipo de investigación/proyecto sobre los diferentes tipos de responsabilidades y oportunidades disponibles para los colaboradores, así como el reconocimiento que recibirá cada uno de ellos. [CRediT Taxonomy](https://credit.niso.org/) representa los roles típicamente desempeñados por los colaboradores de una investigación en la creación de una producción científica. A continuación, proporcionamos una tabla con roles de investigación que amplían la taxonomía de CRediT para incluir otras contribuciónes ([Sharan, 2022](https://zenodo.org/record/8403386)). Utilizando esto como punto de partida, se puede facilitar la discusión mediante un diálogo abierto entre los miembros del equipo para establecer un entendimiento compartido y un acuerdo sobre los diversos roles de los colaboradores, incluida la autoría de publicaciones. La distinción entre los tipos de contribución puede ayudar a establecer expectativas claras sobre las responsabilidades y cómo pueden ser reconocidas en un proyecto.
+Es importante establecer una referencia para cada equipo de investigación/proyecto sobre los diferentes tipos de responsabilidades y oportunidades disponibles para quienes colaboran, así como el reconocimiento que recibirá cada persona. [CRediT Taxonomy](https://credit.niso.org/) representa los roles típicamente desempeñados por las personas colaboradoras de una investigación en la creación de una producción científica. A continuación, proporcionamos una tabla con roles de investigación que amplían la taxonomía de CRediT para incluir otras contribuciones ([Sharan, 2022](https://zenodo.org/record/8403386)). Utilizando esto como punto de partida, se puede facilitar la discusión mediante un diálogo abierto entre quienes integran el equipo para establecer un entendimiento compartido y un acuerdo sobre los diversos roles de colaboración, incluida la autoría de publicaciones. La distinción entre tipos de contribución puede ayudar a establecer expectativas claras sobre las responsabilidades y cómo pueden ser reconocidas en un proyecto.
 
 <table>
 <colgroup>
@@ -404,19 +404,19 @@ Es importante establecer una referencia para cada equipo de investigación/proye
     </tr>
     <tr>
         <td>Adquisición de fondos</td>
-        <td>La adquisición del respaldo financiero para el proyecto que conduzca a generar la investigación y las publicaciones</td>
+        <td>Adquisición del respaldo financiero para el proyecto que conduzca a generar la investigación y las publicaciones</td>
     </tr>
     <tr>
-        <td>Participación en comunidades</td>
+        <td>Participación comunitaria</td>
         <td>Conectar con los interesados en el proyecto, habilitar la colaboración, identificar recursos y administrar las interacciones de los colaboradores</td>
     </tr>
     <tr>
         <td>Equidad, Diversidad, Inclusión y Accesibilidad (EDIA)</td>
-        <td>Enfoques inclusivos para la colaboración e investigación, involucrar a contribuyentes diversos, accesibilidad de recursos, consideración de discapacidades, neurodiversidades y otras consideraciones para una participación equitativa</td>
+        <td>Enfoques inclusivos para la colaboración e investigación, involucrar contribuciones diversas, accesibilidad de recursos, consideración de discapacidades, neurodiversidades y otras consideraciones para una participación equitativa</td>
     </tr>
     <tr>
         <td>Revisión ética</td>
-        <td>Asegúrate que el proyecto de investigación se someta a un proceso de revisión ética si es necesario</td>
+        <td>Asegurar que el proyecto de investigación se someta a un proceso de revisión ética, si es necesario</td>
     </tr>
     <tr>
         <td>Comunicaciones y compromiso</td>
