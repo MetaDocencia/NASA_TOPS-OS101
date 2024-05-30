@@ -2,34 +2,34 @@
 
 ## Contenidos
 
-- [Resumen](#resumen)
-- [Objetivos de Aprendizaje](#objetivos-de-aprendizaje)
+- [Descripción general](#descripcióngeneral)
+- [Objetivos de aprendizaje](#objetivos-de-aprendizaje)
 - [Introducción](#introduccion)
 - [Definición y Consideraciones de Datos Abiertos](#definicion-y-consideraciones-de-datos-abiertos)
-- [Beneficios de los Datos Abiertos](#beneficios-de-los-datos-abiertos)
-- [Desafíos de los Datos Abiertos](#desafios-de-los-datos-abiertos)
-- [Aplicando Principios FAIR](#aplicando-principios-fair)
-- [Planificando la Apertura: Usando el Sistema Usar, Hacer, Compartir para los Datos Abiertos](#planificando-la-apertura-usando-el-sistema-usar-hacer-compartir-para-los-datos-abiertos)
+- [Beneficios de los datos abiertos](#beneficios-de-los-datos-abiertos)
+- [Desafíos de los datos abiertos](#desafios-de-los-datos-abiertos)
+- [Aplicando los principios FAIR](#aplicando-principios-fair)
+- [Planificando la apertura: Usando el método de Usar, Hacer, Compartir para los datos abiertos](#planificando-la-apertura-usando-el-método-usar-hacer-compartir-para-los-datos-abiertos)
 - [Lección 1: Resumen](#leccion-1-resumen)
-- [Lección 1: Revisión De Conocimientos](#leccion-1-revision-de-conocimientos)
+- [Lección 1: Evaluación](#leccion-1-evaluación)
 
-## Resumen
+## Descripción general
 
-Esta lección define los datos abiertos, sus beneficios y las prácticas que permiten que los datos sean abiertos. Además, la lección analiza más de cerca cómo los principios FAIR aplican a los datos abiertos así como al papel crítico de los metadatos. Finaliza con una breve discusión sobre cómo planificar para datos abiertos en el flujo de trabajo científico y tareas basadas en el marco de usar, hacer y compartir.
+En esta lección se definen los datos abiertos, sus beneficios y las prácticas que permiten que los datos sean abiertos. Además, la lección profundiza en el modo en que los principios FAIR se aplican a los datos abiertos, así como en el papel crítico de los metadatos. Concluye con una breve discusión sobre cómo planificar los datos abiertos en el flujo de trabajo científico, y las tareas guiadas por el marco «usar, hacer, compartir».
 
 ## Objetivos de Aprendizaje
 
-Después de completar este módulo, deberías poder:
+Después de completar esta lección, deberías poder:
 
 - Definir qué son los datos abiertos y cómo los principios FAIR y CARE se utilizan para guiar las prácticas de datos abiertos
 - Enumerar los beneficios de los datos abiertos
-- Explicar cómo el marco de usar, hacer y compartir puede ser utilizado para modificar el plan científico para datos abiertos
+- Explicar cómo el marco de «usar, hacer y compartir» puede ser utilizado para modificar el plan científico para datos abiertos
 
 ## Introducción
 
-Los datos hacen avanzar a la ciencia. Los datos se guardan de manera electrónica para permitir más análisis e investigación. Las tecnologías digitales integradas en cada aspecto de la investigación científica moderna han llevado a la producción de grandes cantidades de datos.
+Los datos hacen avanzar a la ciencia. Estos se almacenan electrónicamente para permitir su posterior análisis e investigación. Las tecnologías digitales integradas en cada aspecto de la investigación científica moderna han llevado a la producción de grandes cantidades de datos.
 
-Los datos abiertos son un pilar esencial de la ciencia abierta. En muchos sentidos, los datos abiertos son una extensión natural de la ciencia abierta más allá de las publicaciones científicas que incluyen los resultados digitales de la investigación. Así se han convertido en una parte integral del movimiento de la ciencia abierta ya que los datos abiertos permiten que todas las personas vean, usen y verifiquen resultados publicados. Los datos abiertos hacen que la ciencia sea más accesible, inclusiva y reproducible. Para que esto funcione, es necesario que los datos se disponibilicen en formatos que otras personas puedan usar, incluyendo metadatos que describan a los datos, y con documentación útil. Una vez disponibles, los datos abiertos facilitan nuevos descubrimientos y usos.
+Los datos abiertos son un pilar esencial de la ciencia abierta. En muchos sentidos, los datos abiertos son una expansión natural de la ciencia abierta más allá de las publicaciones académicas, para incluir los resultados digitales de la investigación. Así se han convertido en una parte integral del movimiento de la ciencia abierta ya que los datos abiertos permiten que todas las personas vean, usen y verifiquen resultados publicados. Los datos abiertos hacen que la ciencia sea más accesible, inclusiva y reproducible. Para que esto funcione, es necesario que los datos se disponibilicen en formatos que otras personas puedan usar, incluyendo metadatos que describan a los datos, y con documentación útil. Una vez disponibles, los datos abiertos facilitan nuevos descubrimientos y usos.
 
 ### Ejemplo: ¿Cómo Vivirían los Humanos en la Luna o Viajarían a Marte Cuando el Entorno Espacial Amenaza la Salud Humana de Tantas Maneras?
 
