@@ -37,23 +37,23 @@ Pérdida de tejido óseo, vértigo, anemia, atrofia muscular, mayor riesgo de c�
 
 <img src="../images/media/image2.jpeg" style="width:100%;height:auto;" />
 
-**Ejemplo:** Usando datos biológicos de astronautas de GeneLab, [científicos recientemente encontraron](https://www.nature. om/articles/s41576-020-00322-8) cuál puede ser el motivo de muchos de los efectos secundarios del viaje al espacio: el estrés mitocondrial.
+**Ejemplo:** Usando datos biológicos de astronautas de GeneLab, [la comunidad científica recientemente encontró](https://www.nature.com/articles/s41576-020-00322-8) cuál puede ser el motivo de muchos de los efectos secundarios del viaje al espacio: el estrés mitocondrial.
 
 [Mira el Video](https://www.youtube.com/watch?v=BPVSErzNtME\&embeds_referring_euri=https%3A%2F%2Fopenscience101.org%2F\&feature=emb_imp_woyt)
 
-Las mitocondrias son componentes dentro de nuestras células que afectan las funciones respiratorias y energéticas. Este descubrimiento podría ser crucial para superar los problemas relacionados a la salud humana en el espacio. Entender las bases de este problema podría ayudar a las personas que investigan a desarrollar contramedidas y terapias para mantener sanas a las personas en el espacio durante periódos más largos de tiempo.
+Las mitocondrias son componentes de nuestras células que afectan a la función respiratoria y energética. Este descubrimiento podría ser crucial para superar los problemas relacionados a la salud humana en el espacio. Comprender el origen de este problema podría ayudar a la comunidad científica a desarrollar soluciones y terapias para mantener a las personas sanas en el espacio durante periodos de tiempo más largos.
 
-## Definiciones y Consideraciones de los Datos Abiertos
+## Definiciones y consideraciones de los datos abiertos
 
-### ¿Qué son los Datos?
+### ¿Qué son los datos?
 
 <img src="../images/media/image3.jpeg" style="width:350px;height:auto;" />
 
-La Comunidad de The Turing Way. Esta ilustración fue creada por Scriberia junto con la comunidad de The Turing Way, utilizada bajo una licencia CC-BY 4.0. DOI: 10.5281/zenodo.3332807
+La Comunidad _The Turing Way_. Esta ilustración fue creada por Scriberia junto con la comunidad de _The Turing Way_, utilizada bajo una licencia CC-BY 4.0. DOI: 10.5281/zenodo.3332807
 
 ---
 
-Los datos son cualquier tipo de información que se recolecte, observe o cree en el contexto de una investigación. Hoy en día, los datos se almacenan cada vez más electrónicamente en formato digital.
+Los datos son cualquier tipo de información que se recolecte, observe o cree en el contexto de una investigación. Hoy en día, los datos se almacenan cada vez más en formato digital.
 
 Los datos incluyen:
 
