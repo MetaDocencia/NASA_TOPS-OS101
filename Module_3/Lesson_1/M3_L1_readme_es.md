@@ -57,14 +57,14 @@ Los datos son cualquier tipo de información que se recolecte, observe o cree en
 
 Los datos incluyen:
 
-**Datos primarios (crudos)** – Los datos primarios se refieren a datos que son directamente recolectados o creados por las personas que investigan. Las preguntas de investigación guían la recopilación de los datos. Por lo general, una persona que investiga formulará una pregunta, desarrollará una metodología y comenzará a recopilar los datos. Algunos ejemplos de datos primarios incluyen:
+**Datos primarios (crudos)** – Los datos primarios son los recolectados o creados directamente por las personas que investigan. Las preguntas de investigación guían la recopilación de los datos. Por lo general, una persona que investiga formulará una pregunta, desarrollará una metodología y comenzará a recopilar los datos. Algunos ejemplos de datos primarios incluyen:
 
 - Respuestas a entrevistas, cuestionarios y encuestas.
 - Datos adquiridos a partir de mediciones registradas, incluyendo datos de teledetección.
-- Datos adquiridos a partir de muestras físicas y especímenes constituyen la base de muchos estudios.
-- Datos generados a partir de modelos y simulaciones.
+- Los datos obtenidos a partir de muestras físicas y especímenes constituyen la base de muchos estudios.
+- Los datos generados a partir de modelos y simulaciones.
 
-**Datos Secundarios y Procesados** – Los datos secundarios normalmente se refieren a datos que son usados por alguien diferente de quién recolectó o generó los datos. A menudo, esto puede incluir datos que han sido procesados a partir de su estado crudo para ser más fácilmente utilizados por otras personas.
+**Datos secundarios y procesados** - Los datos secundarios son los que utiliza una persona distinta de la que los recopiló o generó. A menudo, esto puede incluir datos que han sido procesados a partir de su estado bruto para ser más fácilmente utilizables por otras personas.
 
 **Datos Publicados** – Los datos publicados son aquellos compartidos para abordar un estudio científico en particular y/o para uso general. Mientras que los datos publicados pueden coincidir con datos primarios y secundarios, nombramos a los "datos publicados" como su propia categoría para enfatizar que estos conjuntos de datos están idealmente bien documentados y son fáciles de usar.
 
