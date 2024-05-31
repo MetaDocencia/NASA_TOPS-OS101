@@ -33,7 +33,7 @@ Los datos abiertos son un pilar esencial de la ciencia abierta. En muchos sentid
 
 ### Ejemplo: ¿Cómo vivirán los humanos en la Luna o viajarán a Marte si el entorno espacial amenaza la salud humana de múltiples maneras?
 
-Pérdida de tejido óseo, vértigo, anemia, atrofia muscular, mayor riesgo de cáncer - estos son solo algunos de los efectos secundarios de viajar al espacio para los humanos. Para estudiar estos riesgos de viajar al espacio para la salud humana, personas que investigan de todo el mundo usan la plataforma de código abierto de la NASA, GeneLab. GeneLab recopila grandes cantidades de datos de biología espacial sobre muestras humanas y de organismos modelo expuestos a condiciones de viajes espaciales. Sus respositorios digitales y físicos incluyen información celular, sobre ADN, ARN y proteínas. Al ser una plataforma abierta, los datos de GeneLab son públicamente accesibles y sin ningún costo.
+Pérdida de tejido óseo, vértigo, anemia, atrofia muscular, mayor riesgo de cáncer - estos son solo algunos de los efectos secundarios de viajar al espacio para los humanos. Para estudiar estos riesgos de viajar al espacio para la salud humana, las personas que investigan de todo el mundo usan la plataforma GeneLab de código abierto de la NASA. GeneLab recopila grandes cantidades de datos de biología espacial sobre muestras humanas y de organismos modelo expuestos a condiciones de viajes espaciales. Sus respositorios digitales y físicos incluyen información celular, sobre ADN, ARN y proteínas. Al ser una plataforma abierta, los datos de GeneLab son públicamente accesibles y sin ningún costo.
 
 <img src="../images/media/image2.jpeg" style="width:100%;height:auto;" />
 
