@@ -1,226 +1,229 @@
-# Lesson 1: Introduction to Open Code
+# Lección 1: Introducción al Código Abierto
 
-## Navigation
+## Contenidos
 
-- [Overview](#overview)
-- [Learning Objectives](#learning-objectives)
-- [Success Stories](#success-stories)
-- [Definitions and Considerations of Open Code](#definitions-and-considerations-of-open-code)
-- [Principles, Benefits, and Challenges](#principles-benefits-and-challenges)
-- [When Not to Share](#when-not-to-share)
-- [Software Management Plans (SMP)](#software-management-plans-smp)
-- [Lesson 1: Summary](#lesson-1-summary)
-- [Lesson 1: Knowledge Check](#lesson-1-knowledge-check)
+- [Descripción general](#descripcióngeneral)
+- [Objetivos de aprendizaje](#objetivos-de-aprendizaje)
+- [Historias de éxito](#historias-de-éxito)
+- [Definición y consideraciones sobre los datos abiertos](./Lesson_1#definición-y-consideraciones-sobre-los-datos-abiertos)
+- [Principios, beneficios, y desafíos](./Lección_1#principios-beneficios-y-desafíos)
+- [Cuándo no compartir](#cuando-no-compartir)
+- [Planes de gestión de software (PGS)](./Lección_1#planes-de-gestión-de-software-pgs)
+- [Lección 1: Resumen](#leccion-1-resumen)
+- [Lección 1: Revisión De Conocimientos](#lesson-1-revisión-de-conocimientos)
 
-## Overview
+## Descripción general
 
-This lesson defines the key terms, core principles, benefits, and challenges of open code. The practice of making code openly available to the public occurs within a spectrum from more to less protected. Ethical and legal conditions can limit the degree of openness that researchers can permit. This lesson will introduce the critical questions to consider when determining the appropriate accessibility of code to external users along with best practices to overcome common constraints to maximize availability. The lesson concludes with a discussion on the software lifecycle and how it fits with the "Use, Make, Share" framework and its relationship to a management plan.
+Esta lección define los términos clave, los principios básicos, las ventajas y los retos del código abierto. La práctica de desarrollar código y ponerlo a disposición del público se da dentro de un espectro que va de más a menos protegido. La condiciones éticas y legales pueden limitar el grado de apertura que que pueden permitirse los investigadores. En esta lección se presentarán las preguntas críticas que hay que tener en cuenta a la hora de determinar la accesibilidad adecuada del código para los usuarios externos, junto con las mejores prácticas para superar las limitaciones habituales y maximizar la disponibilidad. La lección finaliza con una discusión sobre el ciclo de vida del software y cómo encaja en el marco de "Usar, Hacer, Compartir" y su relación a un plan de gestión.
 
-## Learning Objectives
+## Objetivos de aprendizaje
 
-After completing this lesson, you should be able to:
+Al completar la lección, podremos:
 
-- Define open-source software and distinguish it from closed-source software.
-- List common benefits and challenges to the production of open code and describe how researchers can respond to some of the challenges while maximizing openness when appropriate.
-- Describe the function and purpose of a Software Management Plan, as its utility as a guidebook for everyone involved in a scientific project.
+- Definir software de código abierto y distinguirlo del software de código cerrado.
+- Enumerar los beneficios y los retos más comunes de la producción de código abierto y describir cómo pueden responder los investigadores a algunos de los desafíos al tiempo que maximizan la apertura, cuando esto aplique.
+- Describir la función y el propósito de un Plan de Gestión de Software, y su uso como una guía para todos los involucrados en un proyecto científico.
 
-## Success Stories
+## Historias de éxito
 
-Why does good science demand that researchers make their code open-access? Sharing your code (and data) makes it easier for others to reproduce your results, helping to validate findings and reduce resources required to duplicate experiments. As a bonus, this decision can lead to new collaborations made possible through a shared dataset and common understanding of scientific material.
+¿Por qué el buen quehacer científico demanda que los investigadores abran el acceso a su código? Compartir el código (y los datos) facilita que otros reproduzcan los resultados, lo que ayuda a validar los descubrimientos y a reducir los recursos necesarios para duplicar los experimentos. Como un bonus, esta decisión puede dar lugar a nuevas colaboraciones, posibles gracias a un conjunto de datos compartido y a una comprensión común de un material científico.
 
-Many journals and funding agencies require that you share your code at the time of publication. However, the prospect of opening code up to criticism, not receiving attribution, or missing out on a result that external researchers discover can deter scientists from making their code open-access. What if people find an error? What if they criticize your coding style? What if they take your code and publish a new result without including you? This module will help you gain confidence in sharing your code by walking you through the basic details to consider when practicing open-science.
+Muchas revistas y agencias de financiación exigen compartir el código en el momento de la publicación. Sin embargo, la perspectiva de abrir el código a la crítica, no recibir reconocimiento o no participar de un resultado que descubran investigadores externos puede disuadir a los científicos de hacer su código de acceso abierto. ¿Qué pasaría si alguien encuentra un error? ¿Y si critican el estilo de codificación? ¿Y si usan el código y publican un nuevo resultado sin incluirnos? Este módulo está orientado a ayudarnos a ganar confianza a la hora de compartir nuestro código, ya que recorreremos los detalles básicos a tener en cuenta cuando se practica la ciencia abierta.
 
-Let's review some well-known examples of groups that shared their code and what the impacts were:
+Repasemos algunos ejemplos conocidos de grupos que compartieron su código, y cuáles fueron los impactos:
 
-Use buttons to navigate between the examples.
+Los botones pueden utilizarse para navegar entre los ejemplos.
 
 <img src="../images/media/image394.jpg" style="width:350px;height:auto;" />
 
-The first image of a black hole would not have been possible in this decade if all the required code had to be written solely by the scientists involved. These scientists were able to use well-tested, community accepted open-source software to conduct their analysis and create this now famous image. Dr. Katie Bouman and her team commended the critical role that open-source contributors played in her team's effort to image the first black hole. This breakthrough was made possible by open-source libraries that provided robust and freely available code. The code used to capture this image was crafted by 21,485 contributors. Sophisticated iterative data processing pipelines and algorithms used by Dr. Bouman's team were community developed and tested, making robust and reproducible science possible without having to rewrite every piece of software needed.
+La primera imagen de un agujero negro no habría sido posible en esta década si todo el código necesario hubiera tenido que ser escrito únicamente por los científicos implicados. Estos científicos pudieron utilizar un software de código abierto bien probado y aceptado por la comunidad para realizar sus análisis y crear esta imagen ahora famosa. La Dra. Katie Bouman y su equipo elogiaron el papel fundamental que desempeñaron los colaboradores de código abierto en el esfuerzo de su equipo por obtener imágenes del primer agujero negro. Este avance fue posible gracias a las bibliotecas de código abierto, que ofrecían un código robusto y de libre acceso. El código utilizado para capturar esta imagen fue creado por 21.485 colaboradores. Los sofisticados algoritmos y pipelines iterativos de procesamiento de datos utilizados por el equipo de la Dra. Bouman fueron desarrollados y probados por la comunidad, lo que hizo posible una ciencia robusta y reproducible sin tener que reescribir cada pieza de software necesaria.
 
 <img src="../images/media/image553.png" style="width:350px;height:auto;" />
 
-This is the Ingenuity helicopter, or as the engineers call her, Ginny. She got to Mars by hitching a ride on the Perseverance rover, landing in the Jezero Crater in 2021.
+Este es el helicóptero Ingenio, o como lo llaman los ingenieros, Ginny. Llegó a Marte haciendo autostop en el explorador Perseverance, que aterrizó en el cráter Jezero en 2021.
 
-This is a video of Ginny's first flight. She took off, got about ten feet off the ground, did a spin and landed. This groundbreaking flight proved that powered flight on Mars is achievable, opening up the door for an entirely new era of exploration.
+Este es un vídeo del primer vuelo de Ginny. Despegó, se elevó unos tres metros del suelo, dio una vuelta y aterrizó. Este vuelo pionero demostró que es posible volar a Marte con propulsión y abrió las puertas a una nueva era de exploración.
 
-But Ginny's achievements also reflect another new era; one of truly open and inclusive science.
+Pero los logros de Ginny también reflejan otra nueva era, la de una ciencia verdaderamente abierta e inclusiva.
 
-Behind that 4-pound helicopter are more than 12,000 people who contributed code, documentation, design, and more thanks to the open-source software which was used to power her. Everyone who contributed to the open-source software libraries that Ginny used received a badge on their GitHub page that showed they helped fly the first helicopter on Mars.
+Detrás de ese helicóptero de 4 libras hay más de 12.000 personas que contribuyeron con código, documentación, diseño y mucho más gracias al software de código abierto que se utilizó para impulsarlo. Todos los que contribuyeron a las bibliotecas de software de código abierto que Ginny utilizó recibieron una insignia en su página de GitHub que mostraba que habían ayudado a pilotar el primer helicóptero en Marte.
 
-In addition, Ginny's final software developed at the Jet Propulsion Lab, called F prime, was itself open-source and has been used since in flight research, drones, and CubeSats. In fact, F prime had been copied to other people's repositories more than 1,200 times.
+Además, el software final de Ginny desarrollado en el Jet Propulsion Lab, llamado F prime, era a su vez de código abierto y se ha utilizado desde entonces en la investigación de vuelos, drones y nanosatélites (CubeSats). De hecho, F prime se había copiado en repositorios de otras personas más de 1.200 veces.
 
 <img src="../images/media/image408.jpg" style="width:350px;height:auto;" />
 
-Most space telescope data is embargoed for 12 months with only the lead scientist and their selected team allowed to work with the data. In a unique case, a small portion of data from NASA's new James Webb Space Telescope (JWST) offered an early-release program. This JWST data was made available immediately.
+La mayoría de los datos de los telescopios espaciales se embargan durante 12 meses y sólo el equipo científico principal puede trabajar con ellos. En un caso único, se ofreció la liberación anticipada de una pequeña porción de los datos del nuevo telescopio espacial James Webb (JWST) de la NASA. Estos datos del JWST estuvieron disponibles inmediatamente.
 
-How scary is that? To know that everyone you know is going to have access at the exact same time. The anxiety and stress of feeling as if you don’t publish first, you might not have a job, or you might not have the next job that you want.
+¿Cuán aterrador es eso? Saber que todos todas las personas van a tener acceso exactamente al mismo tiempo. La ansiedad y el estrés de sentir que si no publicamos primero, puede que no tengamos trabajo, o que no tengamos el siguiente trabajo que deseamos.
 
-In one case, a team decided to work fully in the open and collaborate with this early- release data. The result? 20+ planned papers and the first discovery of carbon dioxide on another planet - hinting at the possibility of discovering new life.
+En un caso, un equipo decidió trabajar totalmente en abierto y colaborar con estos datos de publicación temprana. ¿Cuál fue el resultado? Más de 20 artículos planeados y el primer descubrimiento de dióxido de carbono en otro planeta, lo que insinúa la posibilidad de descubrir nueva vida.
 
-Co-author Dr. Natasha Batalha employed open science principles to enable this rapid discovery using the new JWST data. In the years leading up to the JWST release, Dr. Batalha's team formed a collaborative group of 341 members. Once JWST data was made public, the data reduction and scientific interpretation could be reproduced through open software then archived. The research team’s first article was made available as open- access on an archived preprint server and published in Nature.
+La Dra. Natasha Batalha, coautora del estudio, empleó principios de ciencia abierta para hacer posible este rápido descubrimiento utilizando los nuevos datos del JWST. En los años anteriores al lanzamiento del JWST, el equipo del Dr. Batalha formó un grupo colaborativo de 341 miembros. Una vez que los datos del JWST se hicieron públicos, la reducción de los datos y la interpretación científica se pudieron reproducir mediante software abierto y luego archivarse. El primer artículo del equipo de investigación estuvo disponible en acceso abierto en formato preprint y luego se publicó en Nature.
 
-Notably, Dr. Batalha's team published the first identification of CO2 in an exoplanet’s atmosphere from spectra taken with JWST. This was conducted with JWST’s Early Release Science Program data, the first science data taken by the facility. The team worked in an open-format from ideation, to analysis, through to publication and communication.
+De este modo, el equipo de la Dra. Batalha publicó la primera identificación de CO2 en la atmósfera de un exoplaneta a partir de espectros tomados con JWST. Esto se llevó a cabo con los datos del Programa Científico de Liberación Temprana del JWST, los primeros datos científicos tomados por la instalación. El equipo trabajó en un formato abierto, desde la idea al análisis, pasando por la publicación y la comunicación.
 
-This example illustrates the benefits of applying open science principles to rapidly produce meaningful research. The team worked in an open format from ideation, to analysis, through to publication and communication.
+Este ejemplo ilustra los beneficios de aplicar principios de ciencia abierta para producir rápidamente investigaciones significativas. El equipo trabajó en un formato abierto, desde la idea al análisis, pasando por la publicación y la comunicación.
 
 <img src="../images/media/image168.jpg" style="width:350px;height:auto;" />
 
-New open-source sets of climate models incorporate features that aim to make climate research more collaborative, efficient and reliable.
+Los nuevos conjuntos de modelos climáticos de código abierto incorporan características que pretenden hacer la investigación climática más colaborativa, eficiente y fiable.
 
-Scientists have published an open-source framework of climate models (Isca) which contains models that are easy to obtain, completely free, documented, and come with software to make installation and operation easier. All changes are documented and can be reverted. Therefore, anyone can easily use the same models.
+Las personas que participan de la investigación han publicado un marco de modelos climáticos de código abierto (Isca) que contiene modelos fáciles de obtener, totalmente gratuitos, documentados y con programas informáticos que facilitan su instalación y funcionamiento. Todos los cambios están documentados y pueden revertirse. Por lo tanto, cualquiera puede utilizar fácilmente los mismos modelos.
 
-Although the Isca model was initially used to examine the tropical upper atmosphere, researchers from other fields of science have used it to study the life cycle of weather systems, the Indian monsoon, and the effect of volcanic eruptions on climate.
+Aunque el modelo Isca se utilizó inicialmente para examinar la atmósfera tropical superior, las personas investigadoras de otros campos de la ciencia lo han empleado para estudiar el ciclo vital de los sistemas meteorológicos, el monzón indio y el efecto de las erupciones volcánicas en el clima.
 
-New research across all of these fields was possible within only one year of the Isca’s first publication. This is how we want all of science to work!
+Tan sólo un año después de la primera publicación del Isca fue posible realizar nuevas investigaciones en todos estos campos. ¡Así es como nos gustaría que funcione toda la ciencia!
 
-Credit:
+Crédito:
 
 [https://theconversation.com/making-climate-models-open-source-makes-them-even-more-useful-90929](https://theconversation.com/making-climate-models-open-source-makes-them-even-more-useful-90929)
 
-## Definitions and Considerations of Open Code
+## Definiciones y consideraciones del código abierto
 
-All science builds on what has already been accomplished. Code is no different. Many scientists use code to do data analysis. This process begins with the acquisition of data, either by running an experiment or model that generates data or by identifying observational data that may be useful to test a hypothesis. Next, the data is analyzed. It is very likely that the code required to read or analyze a new data set was already created by someone. The existing code might require some degree of modification to meet a researcher’s unique parameters. Even the development of a new model can incorporate specific elements of existing code from different sources.
+Toda ciencia se construye en base a lo que ya se ha logrado. El código no es la excepción. Muchos científicos utilizan código para realizar análisis de datos. Este proceso comienza con la adquisición de datos, ya sea ejecutando un experimento o modelo que genere datos o identificando datos observacionales que puedan ser útiles para probar una hipótesis. A continuación se analizan los datos. Es muy probable que el código necesario para leer o analizar un nuevo conjunto de datos ya haya sido creado por alguien. Sin embargo, el código existente puede requerir cierto grado de modificación para ajustarse a los parámetros específicos de un investigador. Incluso el desarrollo de un nuevo modelo puede incorporar elementos específicos de códigos existentes de distintas fuentes.
 
-Understanding how to find and use others' code, create your own, and share it is an important part of advancing open science. Just like good data management practices, knowing some of the details about how to share it will not only help you use it later, but also help others understand how to use and cite it so you get credit!
+Entender cómo encontrar y utilizar el código de otros, crear el propio y compartirlo es una parte importante del avance de la ciencia abierta. Al igual que las buenas prácticas de gestión de datos, conocer algunos detalles sobre cómo compartirlos no sólo te ayudará a utilizarlos más adelante, sino también a que otros sepan cómo utilizarlos y citarlos para que se te reconozca el mérito.
 
 <img src="../images/media/image247.jpg" style="width:100%;height:auto;" />
 
-Code example from [https://github.com/UCB-stat-159-s23/site/blob/main/lectures/climate-data.ipynb](https://github.com/UCB-stat-159-s23/site/blob/main/lectures/climate-data.ipynb)
+Ejemplo de código de [https://github.com/UCB-stat-159-s23/site/blob/main/lectures/climate-data.ipynb](https://github.com/UCB-stat-159-s23/site/blob/main/lectures/climate-data.ipynb)
 
-### What is Code vs Software?
+### ¿Qué es el código versus el software?
 
 <img src="../images/media/image109.png" style="width:350px;height:auto;" />
 
-When we write "software," we are actually writing text code and using an interpreter or compiler to translate it into a program that the machine can run. Code is a language that humans can type and understand. Software is often a collection of programs, data, and other information that a computer system uses to perform specific tasks. An example is a software library, which is a suite of data and programming code that is used to develop software programs and applications.
+Cuando escribimos "software", en realidad estamos escribiendo código de texto y utilizando un intérprete o compilador para traducirlo en un programa que la máquina pueda ejecutar. El código es un lenguaje que los humanos pueden escribir y entender. El software, suele ser un conjunto de programas, datos y otra información que un sistema informático utiliza para realizar tareas específicas. Un ejemplo es una biblioteca de software, que es un conjunto de datos y código de programación que se utiliza para desarrollar programas y aplicaciones de software.
 
-Often, scientists write and publish code that helps others reproduce their results rather than creating software packages. But many scientists aren’t starting their code from scratch. There are large open- source software libraries that scientists use and contribute to, such as scipy, astropy, matplotlib, and others. These libraries let everyone do science faster and better because they have been written, tested, and are used by thousands if not hundreds of thousands of people. These libraries have been widely adopted because they are open-source – which makes it easier to collaborate with anyone, anywhere.
+A menudo, las personas que hacen ciencia escriben y publican código que ayuda a otros a reproducir sus resultados, en lugar de crear paquetes de software. Pero muchas de estas personas no empiezan su código desde cero. Existen grandes bibliotecas de software de código abierto que los científicos utilizan y a las que contribuyen, como scipy, astropy, matplotlib y otras. Estas bibliotecas permiten a todo el mundo hacer ciencia más rápido y mejor porque han sido escritas, probadas y utilizadas por miles, sino cientos de miles, de personas. Estas bibliotecas han sido ampliamente adoptadas porque son de código abierto, lo que facilita la colaboración con cualquiera y en cualquier lugar.
 
-### What is Open Source Software
+### Qué es software de código abierto (Open Source Software)
 
-**Open-source software** is distributed with its source code without cost, making it available for others to use, modify, and distribute with its original rights and permissions.
+**El software de código abierto (Open-source software)** se distribuye con su código fuente sin coste alguno, poniéndolo a disposición de las personas para que lo utilicen, modifiquen y distribuyan con sus derechos y permisos originales.
 
-Often, open-source software is transparently shared in a public repository, and sometimes maintained through collaboration. Open-source software development is the basis for a vast range of research software packages.
+A menudo, el software de código abierto se comparte de forma transparente en un repositorio público y, en ocasiones, se mantiene gracias a la colaboración. A menudo, el software de código abierto se comparte de forma transparente en un repositorio público y, en ocasiones, se mantiene gracias a la colaboración.
 
-There are a variety of license choices that can be made for open software which can allow the creator to retain various levels of ownership and rights. The choice of license impacts reuse by others. But first, let’s break down the main types of software scientists use based on their purpose by showing examples of each type.
+Hay una variedad de opciones de licencia que se pueden elegir para el software abierto, las cuales pueden permitir al autor conservar diferentes niveles de propiedad y derechos. La elección de la licencia tiene un impacto en la reutilización por otros. Pero antes, vamos a desglosar los principales tipos de software que utiliza la comunidad científica en función de su propósito, mostrando ejemplos de cada tipo.
 
-### Types of Software
+### Tipos de software
 
-Scientists use and produce a wide variety of different types of software during projects. While many researchers might just use equations in a spreadsheet, others may use open source libraries for advanced machine learning model development and plotting results, while others may contribute to open-source libraries in their field and grow their reputation and impact that way. Here are some examples of different types of software that you might encounter.
+Las personas que investigan utilizan y producen una gran variedad de programas informáticos durante sus proyectos. Si bien muchas personas que investigan pueden simplemente usar ecuaciones en una hoja de cálculo, otros pueden utilizar bibliotecas de código abierto para el desarrollo avanzado de modelos de aprendizaje automático y para graficar resultados, mientras que otros pueden contribuir a bibliotecas de código abierto en su campo y aumentar así su reputación e impacto. Aquí tienes algunos ejemplos de diferentes tipos de software que podrías encontrar:
 
-**General Purpose Software** – General purpose software is produced for wide use and not specialized scientific purposes. This includes both commercial software and open-source software. Many widely used productivity software packages are open- source success stories:
+**Software de propósito general** - El software de propósito general se produce para un uso amplio y no para fines científicos especializados. Esto incluye software comercial y software de código abierto. Muchos de los programas de productividad más utilizados son éxitos del código abierto:
 
-- Linux kernel, GNU userspace, and various Linux and UNIX distributions
-- PostgreSQL – open source enterprise-grade database
-- WordPress and Apache web hosting tools
-- Firefox and Chrome
-  - Chrome's engine is Chromium which is forked from WebKit which was forked KHTML. This was possible because it had a license that allowed for this type of reuse. All major browsers today except Firefox can be traced back to KHTML.
-- Android operating system among others
-  - You can look at the Android source code, but you can't modify it and install it on a device. And even if you could, you couldn't use any of the standard services (e.g. Google Store) with that. So it's "open" in the same sense that last night's lottery numbers are "open".
+- Núcleo Linux (Linux kernel), espacio de usuario GNU, y varias distribuciones Linux y UNIX
+- PostgreSQL: base de datos de nivel empresarial empresarial con código abierto
+- Herramientas de alojamiento web para WordPress y Apache
+- Firefox y Chrome
+  - El motor de Chrome es Chromium, que es una bifurcación de WebKit, que a su vez es una bifurcación de KHTML Esto fue posible porque tenía una licencia que permitía este tipo de reutilización.  Todos los principales navegadores actuales, excepto Firefox, se remontan a KHTML.
+- Sistema operativo Android, entre otros
+  - Puedes mirar el código fuente de Android, pero no puedes modificarlo e instalarlo en un dispositivo. Y, aunque pudieras, no podrías utilizar ninguno de los servicios estándar (por ejemplo, Google Store) con él. Así que es "abierto" en el mismo sentido que los números de la lotería de anoche son "abiertos".
 
-**Operational Software** – Operational software is used by data centers and large information technology facilities to provide data services. For example:
+**Software Operativo**- El software operativo es utilizado por centros de datos y grandes instalaciones de tecnología de la información para proporcionar servicios de datos. Por ejemplo:
 
-- [Fprime](https://nasa.github.io/fprime/) – Space mission flight software
+- [Fprime](https://nasa.github.io/fprime/) – Software de vuelo para misiones espaciales
 
-**Infrastructure Software** – Infrastructure software is used by data centers and large information technology facilities to provide data services. Examples include:
+**Software de infraestructura** - Los centros de datos y las grandes instalaciones de tecnología de la información utilizan software de infraestructura para proporcionar servicios de datos. Los ejemplos incluyen:
 
-- [Fprime](https://nasa.github.io/fprime/) – Space mission flight software
-- [PODAAC](https://github.com/podaac) – Distributed archiving and processing software
-- [UFS](https://github.com/ufs-community) – Operational weather forecasting model software
-- Metadata Compliance Checker, APIs, Web apps, [Giovanni](https://www.earthdata.nasa.gov/technology/giovanni), [McIDAS](https://en.wikipedia.org/wiki/McIDAS)
+- [Fprime](https://nasa.github.io/fprime/) – Software de vuelo para misiones espaciales
+- [PODAAC](https://github.com/podaac) – Software de archivo y procesamiento distribuido
+- [UFS](https://github.com/ufs-community) – Software de modelos operativos de pronóstico del tiempo
+- Verificador de Cumplimiento de Metadatos (Metadata Compliance Checker), APIs, Aplicaciones web, [Giovanni](https://www.earthdata.nasa.gov/technology/giovanni), [McIDAS](https://en.wikipedia.org/wiki/McIDAS)
 
-**Libraries** – Libraries are generic tools for implementing well-known algorithms, providing statistical analysis, or visualization which are incorporated in other software categories. Examples include:
+**Bibliotecas** - Las bibliotecas son herramientas genéricas para implementar algoritmos conocidos, proporcionar análisis estadísticos o visualización de datos que se incorporan a otras categorías de software.
+Los ejemplos incluyen:
 
-- [NumPy](https://github.com/numpy) – Scientific computing with python
-- [scikit-image](https://github.com/scikit-image/) – Image processing algorithms in python
-- [deal.II](https://github.com/dealii/dealii) – Library of algorithms to solve partial differential equations with finite elements
+- [NumPy](https://github.com/numpy) – Informática científica con python
+- [scikit-image](https://github.com/scikit-image/) - Algoritmos de procesamiento de imágenes en python
+- [deal.II](https://github.com/dealii/dealii) - Biblioteca de algoritmos para resolver ecuaciones diferenciales parciales con elementos finitos
 
-**Modeling and Simulation Software** – Modeling and Simulation Software either implements solutions to mathematical equations given input data and boundary conditions, or infers models from data. They often use libraries.
-Examples include: first-principles models, data-assimilation tools, empirical models, machine learning, mission planning and engineering tools, among others.
+**Software de modelización y simulación** - El software de modelización y simulación implementa soluciones a ecuaciones matemáticas a partir de datos de entrada y condiciones límite, o infiere modelos a partir de datos.
+A menudo usan bibliotecas.
+Algunos ejemplos incluyen: modelos de primeros principios, herramientas de asimilación de datos, modelos empíricos, aprendizaje de máquinas, planificación de misiones y herramientas de ingeniería, entre otros.
 
-- [OpenFOAM](https://github.com/OpenFOAM) – Computational fluid dynamics software
-- [MOM6](https://github.com/mom-ocean/MOM6) – General ocean circulation model
-- [ASPECT](https://github.com/geodynamics/aspect) – Planetary convection software
-- Atmospheric radiative transfer, stellar evolution, upper ocean turbulence, solar wind predictions, orbit
-  propagation (e.g., OpenGGCM, MESA)
+- [OpenFOAM](https://github.com/OpenFOAM) – Software de dinámica de fluidos computacional
+- [MOM6](https://github.com/)[video] -ocean/MOM6) – Modelo de circulación oceánica general
+- [ASPECT](https://github.com/geodynamics/aspect) – Software de convección planetaria
+- Transferencia radiativa atmosférica, evolución estelar, turbulencia oceánica superior, predicciones del viento solar, propagación orbital (por ejemplo, OpenGGCM, MESA)
 
-**Analysis Software** - Analysis software is developed to manipulate measurements or model results to visualize or gain understanding. This software often evolves from single-use utility software and may incorporate libraries.
+**Software de análisis** - El software de análisis se desarrolla para manipular mediciones o resultados de modelos con el fin de visualizarlos o comprenderlos mejor.
+Este software suele evolucionar a partir del software utilitario de un solo uso y puede incorporar bibliotecas.
 
-- [Photutils](https://photutils.readthedocs.io/en/stable/index.html) – tools for detecting and performing photometry of astronomical sources
+- [Photutils](https://photutils.readthedocs.io/en/stable/index.html) – herramientas para detectar y realizar fotometría de fuentes astronómicas
 
-**Single-Use Utility Software** – Single-use utility software is written for use in unique instances, such as making a plot for a paper, or manipulating data in a specific way. This code often uses libraries for analysis, plotting, or reading data. This software is the most common type that gets included into Open Science and Data Management Plans (OSDMP), which we will talk about shortly. Examples include:
+**Software de utilidad de uso único** - El software de utilidad de un solo uso está escrito para su uso en casos únicos, como hacer un gráfico para un artículo o manipular datos de una manera específica.
+Este tipo de código a menudo utiliza bibliotecas para análisis, visualización o lectura de datos. Este tipo de software es el más común que se incluye en los Planes de Gestión de Ciencia Abierta y Datos (Open Science and Data Management Plans- OSDMP), sobre los cuales hablaremos en breve. Los ejemplos incluyen:
 
-- [Angus et al. 2019](https://ui.adsabs.harvard.edu/abs/2019AJ....158..173A/abstract) – [Fitting a gyro relation to Praesepe](https://github.com/RuthAngus/stardate/blob/master/paper/code/Fitting_Praesepe.ipynb)
-- [Webb telescope spots CO2 on exoplanet for the first time: what it means for finding alien life](https://www.nature.com/articles/d41586-022-02350-2). All the data and models presented in this publication can be found [here](https://doi.org/10.5281/zenodo.6959427).
-- [Constraining the increased frequency of global precipitation extremes under warming](https://www.nature.com/articles/s41558-022-01329-1)
-- Code at: [https://doi.org/10.5281/zenodo.6288035](https://doi.org/10.5281/zenodo.6288035) (2022)
+- [Angus et al. 2019](https://ui.adsabs.harvard.edu/abs/2019AJ....158..173A/abstract) - [Ajustando una relación giroscópica a Praesepe](https://github.com/RuthAngus/stardate/blob/master/paper/code/Fitting_Praesepe.ipynb)
+- [El telescopio espacial Webb detecta CO2 en un exoplaneta por primera vez: qué significa para encontrar vida extraterrestre](https://www.nature.com/articles/d41586-022-02350-2). Todos los datos y modelos presentados en esta publicación pueden consultarse [aquí](https://doi.org/10.5281/zenodo.6959427).
+- [Limitando el aumento de la frecuencia de las precipitaciones extremas en el mundo bajo el calentamiento global](https://www.nature.com/articles/s41558-022-01329-1)
+- Código disponible en: [https://doi.org/10.5281/zenodo.6288035](https://doi.org/10.5281/zenodo.6288035) (2022)
 
-## Principles, Benefits, and Challenges
+## Principios, ventajas y retos
 
-### Principles of Open Code
+### Principios del Código Abierto
 
-Open software principles are derived from open-source software best practices. They establish guidelines that advance open science and aim to enhance the value and impact of research.
+Los principios del software abierto se derivan de las mejores prácticas del software de código abierto. Establecen directrices que hacen avanzar la ciencia abierta y pretenden aumentar el valor y el impacto de la investigación.
 
-|                       |                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Transparency          | Whether you are developing software or solving a business problem, we all have access to the information and materials necessary for doing our best work. When these materials are accessible, we can build upon each other's ideas and discoveries. We can make more effective decisions and understand how those decisions affect us.                                     |
-| Collaboration         | When we're free to participate, we can enhance each other's work in unanticipated ways. When we can modify what others have shared, we unlock new possibilities. By initiating new projects together, we can solve problems that no one can solve alone. And when we implement open standards, we enable others to contribute in the future.                |
-| Share early and often | Rapid prototypes can lead to rapid discoveries. An iterative approach leads to better solutions faster. When you're free to experiment, you can look at problems in new ways and seek answers in new places. You can learn by doing.                                                                                                                        |
-| Inclusive             | Good ideas can come from anywhere, and the best ideas should win. Only by including diverse perspectives in our conversations can we be certain we've identified the best ideas, and good decision-makers continually seek those perspectives. We may not operate by consensus, but successful work determines which projects gather support and effort from the community. |
-| Community             | Communities form when different people unite around a common purpose. Shared values guide decision making, and community goals supersede individual interests and agendas.                                                                                                                                                                                                                  |
+|                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Transparencia                       | Ya sea que estemos desarrollando software o resolviendo un problema empresarial, todos tenemos acceso a la información y los materiales necesarios para hacer mejor nuestro trabajo. Cuando estos materiales son accesibles, podemos basarnos en las ideas y descubrimientos de los demás. Podemos tomar decisiones más eficaces y entender cómo nos afectan esas decisiones.                                                                           |
+| Colaboración                        | Cuando somos libres de participar, podemos mejorar el trabajo de los demás de formas inesperadas. Cuando podemos modificar lo que otras personas han compartido, desbloqueamos nuevas posibilidades. Al iniciar nuevos proyectos juntos, podemos resolver problemas que nadie puede resolver por sí solo. Y cuando aplicamos normas abiertas, permitimos que otros contribuyan en el futuro.                                            |
+| Compartir temprano y frecuentemente | Los prototipos rápidos pueden conducir a descubrimientos rápidos. Un enfoque iterativo conduce a mejores soluciones con mayor rapidez. Cuando tienes libertad para experimentar, puedes plantearte los problemas de nuevas formas y buscar respuestas en nuevos lugares. Puedes aprender con la práctica.                                                                                                                               |
+| Inclusivo                           | Las buenas ideas pueden venir de cualquier parte, y las mejores deben ganar. Sólo mediante la inclusión de perspectivas diversas en nuestras conversaciones podemos estar seguros de haber identificado las mejores ideas, y los buenos responsables de la toma de decisiones buscan continuamente esas perspectivas. Puede que no funcionemos por consenso, pero el éxito del trabajo determina qué proyectos reúnen apoyo y esfuerzo de la comunidad. |
+| Comunidad                           | Las comunidades se forman cuando diferentes personas se unen alrededor de un propósito común. Los valores compartidos guían la toma de decisiones, y los objetivos de la comunidad prevalecen sobre los intereses y agendas individuales.                                                                                                                                                                                                                               |
 
-Credit: [The open source way \| Opensource.com](https://opensource.com/open-source-way)
+Crédito: [El camino del código abierto| Opensource.com](https://opensource.com/open-source-way)
 
 <img src="../images/media/image530.png" style="width:100%;height:auto;" />
 
-Sharing code enhances science because it enables reproducibility, reusability, and replicability. The decision to share code benefits the scientific community because it increases transparency, participation, and collaboration. Sharing code at any point in the research process can be valuable.
+Compartir código mejora la ciencia porque permite la reproducibilidad, la reutilización y la replicabilidad. La decisión de compartir el código beneficia a la comunidad científica porque aumenta la transparencia, la participación y la colaboración. Compartir código en cualquier punto del proceso de investigación puede ser valioso.
 
-In most cases, the source code used to generate results in peer-reviewed papers should be published, cited, and accessible.
+En la mayoría de los casos, el código fuente utilizado para generar resultados en documentos revisados por pares debe ser publicado, citado y accesible.
 
-### Benefits of Moving to Open Software
+### Ventajas de pasarse al software abierto
 
-Science moves faster when researchers are able to work together, help correct errors, build on each other's results, and share resources. Sharing software is a key part of open science that:
+La ciencia avanza más rápido cuando las personas que investigan son capaces de trabajar juntas, ayudan a corregir errores, se basan en los resultados de los demás y comparten recursos. Compartir software es una parte clave de la ciencia abierta que:
 
-- Accelerates science by making it easier to use and build on software developed in previous work.
-- Minimizes the time and cost of repeated development of similar software and the reproduction of scientific computations.
-- Increases the potential number of users and developers and thus helps improve quality and trust in the software.
-- Increases the likelihood that developers gain visibility, sustainability, software quality, and advance their employability.
+- Acelera la ciencia haciendo más fácil el uso y la construcción de software desarrollado en trabajos anteriores.
+- Minimiza el tiempo y el costo del desarrollo repetido de software similar y la reproducción de cálculos científicos.
+- Aumenta el número potencial de personas usuarias y desarrolladoras y ayuda a mejorar la calidad y la confianza en el software.
+- Aumenta la probabilidad de que quienes desarrollan obtengan visibilidad, sostenibilidad, calidad de software y avance su empleabilidad.
 
-### Challenges of Moving to Open Software
+### Desafíos de mudarse al software abierto
 
-It is not uncommon for research groups to spend years developing code, writing papers with the results, and gaining scientific influence by not sharing the code. Anyone new who wants to work on a similar project is at a huge disadvantage because they would have to start from scratch. Also, anyone wanting to work in that area is forced to collaborate with the group. This group retains a very real competitive advantage by keeping it closed source. However, this approach stifles innovation and hurts scientific progress. Many funding agencies are now requiring that code is shared at the time of publication, if not before. But challenges and fears remain:
+No es raro que los grupos de investigación pasen años desarrollando código, escribiendo artículos con los resultados y ganando influencia científica al no compartir el código. Cualquier persona nueva que quiera trabajar en un proyecto similar se encuentra en gran desventaja porque tendría que empezar de cero. Así, cualquiera que quiera trabajar en esa área se ve obligado a colaborar con el grupo. Este grupo conserva una ventaja competitiva muy real al mantener el código cerrado. Sin embargo, este enfoque sofoca la innovación y perjudica el progreso científico. Muchas agencias de financiación están exigiendo que el código se comparta en el momento de la publicación, si no antes. Sin embargo, siguen existiendo desafíos y temores:
 
-- Openness has costs: time spent documenting, publishing, responding to users/maintenance and cleaning up/enhancing quality.
-- Effort is required to learn how to leverage the new tools and knowledge (resources are available to ease this effort).
+- La apertura tiene costos: tiempo de documentación, publicación, respuesta a las personas usuarias/mantenimiento y limpieza/mejora de la calidad.
+- Se requiere un esfuerzo para aprender a aprovechar las nuevas herramientas y conocimientos (hay recursos disponibles para facilitar este esfuerzo).
 
-| Fear                                                                                            | Discussion/Mitigation:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Scooping: What if someone re-uses my code to publish a result I was working on? | Yes, this can happen. But, in many fields, if it is clear that someone is actively working on a problem, the decision by another scoop may have a short term gain but long-term loss. In the scientific community, reputations serve as a cultural currency and being collaborative generally leads to increased career successes. If you are sharing your code, ensure it has a digital object identifier (DOI) so you get credit. This does not prevent anyone from using it or extending your analysis, but it does ensure you will get credit for your contribution. There is a nice article about this here. |
-| Misinterpretation or misuse                                                                     | Provide sufficient contextual information (documentation) to allow others to understand your code fully to reduce this risk.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| My code will be used, but not cited                                                             | While it is not common for researchers to cite code, data, or other non-published articles, science ethics dictates that you should be cited if your work is used. Remember to appropriately cite the material of others so that you're not adding to the problem.                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| Code is too sensitive to share                                                                  | User controlled access to help maintain sensitivity and security.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| It won't be useful to anyone else                                                               | You never know how materials might be used. Individuals who contributed a wide variety of seemingly unrelated software projects ended up helping NASA land a rover on Mars!                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Miedo                                                                                            | Discusión/Mitigación:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ¿Qué pasa si alguien reutiliza mi código para publicar un resultado en el que estaba trabajando? | Sí, esto puede ocurrir. Sin embargo, en muchos campos, si está claro que alguien está trabajando activamente en un problema, la decisión de otra persona de adelantarse puede significar una ganancia a corto plazo pero una pérdida a largo plazo. En la comunidad científica, las reputaciones funcionan como una moneda cultural y generalmente colaborar con otras personas conduce a mayores éxitos profesionales. Si estás compartiendo tu código, asegúrate de que tienes un identificador de objeto digital (en inglés, _Digital Object Identifier, DOI_) para obtener crédito. Esto no impide que nadie utilice ni amplíe tu análisis, pero sí garantiza que obtendrás crédito por tu contribución. Hay un buen artículo sobre esto aquí. |
+| Error de interpretación o uso indebido                                                           | Proporciona suficiente información contextual (documentación) para permitir que otras personas entiendan plenamente tu código para reducir este riesgo.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Mi código será usado, pero no citado                                                             | Aunque no es común que las personas investigadoras citen código, datos u otros artículos no publicados, la ética científica dicta que se debe citar si se utiliza tu trabajo. Recuerda citar adecuadamente el material de otras personas para que no agraves el problema.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| El código es demasiado sensible para compartirlo                                                 | Acceso controlado por quien usa el código para ayudar a mantener la sensibilidad y la seguridad.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| No será útil para nadie más                                                                      | Nunca sabes cómo se podrían usar los materiales. ¡Hay personas que aportaron una amplia variedad de proyectos de software, sin relación aparente, y terminaron ayudando a la NASA a aterrizar un vehículo en Marte!                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 
-#### Ultimately, you are free to deploy the open software principles and resources in your research to maximize its impact and meet the expectations of your sponsors and community while managing costs.
+#### En última instancia, eres libre de implementar los principios y recursos del software abierto en tu investigación para maximizar su impacto y cumplir con las expectativas de tu espónsor y de tu comunidad mientras gestionas los costos.
 
-### Activity 1.1: Relating Principles to Benefits and Challenges
+### Actividad 1.1: Relacionando los principios con los beneficios y desafíos
 
-Determine whether a statement is a benefit or challenge by dragging each to the correct box.
+Determina si cada afirmación es un beneficio o un desafío arrastrándola a la caja correcta.
 
 <table>
   <thead>
     <tr>
-      <th colspan="2">Benefits</th>
+      <th colspan="2">Beneficios</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Makes it easier to use and build on software developed in previous work.</td>
-      <td>Users are free to use and modify Open Software minimizing duplicated effort.</td>
+      <td>Hace más fácil el uso y la construcción de software desarrollado en trabajos anteriores.</td>
+      <td>Las personas que usan Software Abierto son libres de usarlo y modificarlo, minimizando la duplicación de esfuerzos.</td>
     </tr>
     <tr>
-      <td>Can increase usage of the software, which can help improve software quality.</td>
-      <td>Open Software developers can gain visibility & sustainability of their software.</td>
+      <td>Puede aumentar el uso del software, lo que puede ayudar a mejorar su calidad.</td>
+      <td>Las personas que desarrollan Software Abierto pueden ganar visibilidad y sostenibilidad para su software.</td>
     </tr>
   </tbody>
 </table>
@@ -228,155 +231,155 @@ Determine whether a statement is a benefit or challenge by dragging each to the 
 <table>
   <thead>
     <tr>
-      <th colspan="2">Challenges</th>
+      <th colspan="2">Desafíos</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Requires extra time for activities like documenting, publishing, & maintenance.</td>
-      <td>Effort is required to learn how to leverage the new tools and knowledge.</td>
+      <td>Requiere tiempo extra para actividades como documentación, publicación y mantenimiento.</td>
+      <td>Se necesita esfuerzo para aprender a aprovechar las nuevas herramientas y conocimientos.</td>
     </tr>
   </tbody>
 </table>
 
-**Key Takeaways: Relating Principles to Benefits and Challenges**
+**Conclusiones principales: Relacionando los principios con los beneficios y desafíos**
 
-- Making software more open by following the principles has benefits and challenges, which are related.
-- Greater benefits typically come with greater challenges.
-- In most cases, individual scientists and society will both benefit from more open software.
+- Hacer al software más abierto siguiendo los principios tiene beneficios y desafíos, los cuales están relacionados.
+- Mayores beneficios suelen venir con mayores desafíos.
+- En la mayoría de los casos, las personas que se dedican a la ciencia y la sociedad entera se beneficiarán de un software más abierto.
 
-## When Not to Share
+## Cuándo no compartir
 
-There are valid reasons that restrict a researcher’s ability to share their complete code or software packages. Some of these reasons may include:
+Existen razones válidas que restringen la capacidad de una persona dedicada a la investigación para compartir su código completo o sus paquetes de software. Algunas de estas razones pueden incluir:
 
-- The code incorporates a country’s military secrets or its dissemination violates national interests or security concerns.
-- The code incorporates intellectual property or patented data and information.
-- Institutional policies or organizational regulations do not permit the sharing of code.
-- Think about what you are sharing and the implications of sharing it (for example - do you have permission from everyone involved?).
+- El código incorpora secretos militares de un país, o su diseminación viola intereses nacionales o trae problemas de seguridad.
+- El código posee propiedad intelectual o datos e información patentados.
+- Las políticas institucionales o las regulaciones de la organización no permiten compartir el código.
+- Piensa en lo que estás compartiendo y las implicaciones de compartirlo (por ejemplo, ¿tienes permiso de todas las personas involucradas?).
 
-### Licensing Code
+### Estableciendo una licencia para el código
 
-The [collaborative data science handbook by The Turing Way](https://the-turing-way.netlify.app/reproducible-research/licensing) says of restrictions to open source sharing, "As with anything else in society, some of what you can and cannot do in software (or hardware) development is determined by the law. Licensing is therefore an important aspect of sharing/publishing open source projects as it provides clarity for anyone looking to reuse an open source project. Without licenses in place, anyone who wants to reuse it will be left with legal ambiguity as to the status of using your intellectual property."
+El [manual colaborativo de ciencia de datos de The Turing Way](https://the-turing-way.netlify.app/reproducible-research/licensing) dice acerca de las restricciones para compartir código abierto, "Como con cualquier otra cosa en la sociedad, parte de lo que puedes hacer y de lo que no puedes hacer en el desarrollo de software (o hardware) está determinado por la ley. Por lo tanto, la definición de una licencia es un aspecto importante para compartir/publicar proyectos de código abierto ya que da claridad para cualquiera que busque reusar un proyecto de código abierto. Sin una licencia, cualquiera que quiera reusarla tendrá ambigüedad jurídica en cuanto al estado de uso de tu propiedad intelectual".
 
-To be considered open source, software requires a license that complies with the Open Source Definition. One criteria of this definition demands that open source licenses "[must allow modifications and derived works, and must allow them to be distributed under the same terms as the license of the original software](https://opensource.org/licenses/)."
+Para ser considerado de código abierto, el software requiere una licencia que cumpla con la definición de Código Abierto. Uno de los criterios de esta definición exige que las licencias de código abierto "[deben permitir que las modificaciones y sus derivadas, se distribuyan bajo los mismos términos que la licencia del software original](https://opensource.org/licenses/)"
 
-In the next lessons, licenses will be discussed in more detail. As you are working on a project, you may want to use code developed by others, develop your own code, and then share it. Licenses affect all aspects of this process and it is important to understand how different licenses may affect your ability to share your code at the time of publication. It is also important to consider any requirements from your funder or institution about how you license your software.
+En las próximas lecciones discutiremos con más detalle las licencias. A medida que trabajas en un proyecto, es posible que quieras utilizar código desarrollado por otros, desarrollar tu propio código y luego compartirlo. Las licencias afectan a todos los aspectos de este proceso y es importante entender cómo diferentes licencias pueden afectar tu capacidad para compartir tu código en el momento de la publicación. También es importante que tengas en cuenta cualquier requerimiento de tu institución o de quien te financia acerca de cómo licenciar tu software.
 
-### Planning for Openness: Using the Use, Make, Share Framework for Open Code
+### Planificando la apertura: Utilización del concepto «usar, hacer, compartir» para el código abierto
 
-Funding agencies and journals are increasingly requiring researchers to share software.
+Las agencias de financiación y las revistas exigen cada vez más a los investigadores a que compartan software.
 
-For example, NASA's ROSES, which solicits Earth science research proposals, requires researchers to make their software publicly available:
+Por ejemplo, el programa ROSES de la NASA, que solicita propuestas de investigación en ciencias de la Tierra, exige a los investigadores que pongan sus programas informáticos a disposición del público:
 
-#### "Data and software developed using Research Opportunities in Space and Earth Sciences (ROSES) funding in support of a peer-reviewed publication shall be made publicly available at the time of publication"
+#### «Los datos y el software desarrollados mediante el programa de financiamiento de Oportunidades de Investigación en Ciencias Espaciales y de la Tierra (ROSES) en apoyo de una publicación revisada por un comité de evaluación, se pondrán a disposición del público en el momento de la publicación»
 
 [https://science.nasa.gov/researchers/sara/faqs/osdmp](https://science.nasa.gov/researchers/sara/faqs/osdmp)
 
-Planning for a research project requires researchers to determine their mode of collaboration and method of sharing code. This step is often documented in a Software Management Plan (SMP) within a research proposal. An SMP details the what, when, where, how, and who will be sharing the code or software.
+La planificación de un proyecto de investigación requiere que los investigadores determinen su modo de colaboración y el método para compartir el código. Este paso suele documentarse en un Plan de Gestión del Software (SMP) dentro de una propuesta de investigación. Un SMP detalla el qué, cuándo, dónde, cómo y quién compartirá el código o el software.
 
-## Software Management Plans (SMP)
+## Plan de gestión de software (SMP)
 
-Software management plans encompass both code and software.
+Los planes de gestión de software abarcan tanto el código como el software.
 
-|        |                                                                                                          |
-| ------ | -------------------------------------------------------------------------------------------------------- |
-| What?  | Description of types, management, preservation, and release of software.                 |
-| When?  | The schedule for software archiving and sharing.                                         |
-| Where? | Location where software will be shared and archived over the long term.                  |
-| How?   | Enable reuse of software through assigning a DOI, license, contribution guidelines, etc. |
-| Who?   | Roles and responsibilities of the team members.                                          |
+|          |                                                                                                                           |
+| -------- | ------------------------------------------------------------------------------------------------------------------------- |
+| ¿Qué?    | Qué:\*\* Descripción de la gestión, conservación y distribución de software.              |
+| ¿Cuando? | Cuándo:\*\* El cronograma para archivar y compartir software.                             |
+| ¿Dónde?  | Dónde:\*\* Ubicación donde se compartirá y archivará el software a largo plazo.           |
+| ¿Cómo?   | \*\*Habilitar reusar el software mediante la asignación de un DOI, licencia, normas de contribución, etc. |
+| ¿Quién?  | Quién:\*\* Roles, funciones y responsabilidades de los miembros del equipo.               |
 
-As your research starts using, creating, and sharing code, the SMP provides a guidebook for everyone on the project that establishes a common understanding.
+A medida que su investigación comienza a utilizar, crear y compartir código, el SMP proporciona una guía para todos los participantes en el proyecto, con el fin de establecer un entendimiento común.
 
-Is your project sharing all code publicly or just code that goes into a publication? Will your team be contributing back to open-source projects or just writing code that builds on them to produce results? Considering these questions early will influence how much time and energy you may want to spend on documentation and how you plan to share the code.
+¿Tu proyecto comparte todo el código públicamente o sólo el que va a una publicación? ¿Contribuirá tu equipo a los proyectos de código abierto o se limitará a escribir código basado en ellos para obtener resultados? Considerar estas cuestiones desde el principio influirá en la cantidad de tiempo y energía que quiera dedicar a la documentación y en cómo piensa compartir el código.
 
-### Open Code is a Spectrum
+### El Código Abierto es un espectro
 
-Just like data, code can be shared in many different ways to increase reusability. Code can be shared without any documentation, purely as a reproducibility artifact, or code can be well-written, documented, and openly-licensed to maximize re-use. Both of these approaches have value and depend on the time, energy, and funding that researchers have available.
+Al igual que los datos, el código puede compartirse de muchas maneras diferentes para aumentar la reusabilidad. El código puede compartirse sin documentación alguna, simplemente como un artefacto de reproducibilidad, o puede estar bien escrito, documentado y con licencia abierta para maximizar su re-uso. Ambos enfoques son valiosos y dependen del tiempo, la energía y la financiación que dispongan los investigadores.
 
-- There is a spectrum of openness when it comes to open software that ranges from open- source software to closed source software.
-- An example of something “in between” could be an executable file with documentation on how the code works.
-- Some projects may be open from inception and continuously share all code throughout development. Others may share some of the code at the time of publication. Other projects may only make code available once funding ends. A variety of valid reasons factor into a project’s approach to sharing.
-- While some factors restrict the degree of openness that software can be, each step towards sharing advances the open science movement.
-- By sharing more ideas and software, communities have driven creative, scientific, and technological advancement faster than the restricted pace of closed science. Peer production and mass collaboration creates more sustainable software development.
+- Existe un espectro de apertura en lo que respecta al software libre que va desde el software de código abierto al software de código cerrado.
+- Un ejemplo de algo “intermedio” podría ser un archivo ejecutable con documentación sobre cómo funciona el código.
+- Algunos proyectos pueden abrirse desde el principio y compartir todo el código a lo largo del desarrollo. Otros pueden compartir parte del código en el momento de la publicación. Es posible que otros proyectos sólo pongan a disposición el código una vez finalizada la financiación. Existen diversas razones válidas que influyen en el enfoque de un proyecto a la hora de compartir.
+- Aunque algunos factores restringen el grado de apertura que puede tener el software, cada paso hacia la apertura hace avanzar el movimiento de la ciencia abierta.
+- Al compartir más ideas y programas informáticos, las comunidades han impulsado el avance creativo, científico y tecnológico más rápidamente que el ritmo restringido de la ciencia cerrada. La producción en equipo y la colaboración masiva crean un desarrollo de software más sostenible.
 
-While researchers and institutions may not be able to share all their code, they can make efforts to shift on the openness spectrum from closed code to open-source code and software.
+Aunque los investigadores y las instituciones no puedan compartir todo su código, sí pueden esforzarse por pasar del código cerrado al código y software de código abierto.
 
-_In the activity below, drag each slider to explore the spectrum of openness._
+_En la actividad siguiente, arrastra cada control deslizante para explorar el espectro de la apertura._
 
 <img src="../images/media/image110.jpg" style="width:100%;height:auto;" />
 
-### The Practice of 'Open'
+### La Práctica de lo 'Abierto'
 
-Review how the key tasks in the software development life cycle are covered in the "Use, Make, Share" framework flow.
+Repase cómo se resuelven las tareas clave del ciclo de vida de desarrollo de software en el esquema del concepto de trabajo «Usar, Hacer, Compartir».
 
 <img src="../images/media/image290.png" style="width:100%;height:auto;" />
 
-As with open data, different aspects of open software are described in terms of Using, Making, and Sharing of open software.
+Al igual que ocurre con los datos abiertos, los distintos aspectos del software abierto se describen en términos de Uso, Creación y Puesta en común del software abierto.
 
-A key difference with software is that the process is typically more cyclical and repetitive than with data or results. Typically, software constantly evolves. Thus, the boundaries between "Use-Make- Share" are less rigid and the process is typically more dynamic and circular than pre-planned/fixed and sequential.
+Una diferencia clave con el software es que el proceso suele ser más cíclico y repetitivo que con los datos o los resultados. Por lo general, el software evoluciona constantemente. Así, los límites entre «Usar-Hacer-Compartir» son menos rígidos y el proceso suele ser más dinámico y circular que preplanificado/configurado y secuencial.
 
-### Activity 1.2: How Can You Use Open Software in Your Work to Advance Open Science
+### Actividad 1.2: ¿Cómo puedes utilizar el software abierto en tu trabajo para impulsar la ciencia abierta?.
 
-In this activity, you are asked to reflect on how you have used and can use the open software principles to advance your work.
+En esta actividad se le pide reflexionar sobre cómo ha utilizado y puede utilizar los principios del software abierto para avanzar en su trabajo.
 
-Consider the following questions:
+Reflexione sobre las siguientes preguntas:
 
-1. Have you used open software principles 1 in your work?
-2. What are some of the successes and challenges you have encountered?
-3. What resources did you find useful for advancing open software in your work?
+1. ¿Ha utilizado los principios de software abierto 1 en su trabajo?
+2. ¿Cuáles son algunos de los éxitos y desafíos con los que se ha enfrentado?
+3. ¿Qué recursos encontró útiles para impulsar el software abierto en su trabajo?
 
-#### Key Takeaways: How Can You Use Open Software in Your Work to Advance Open Science
+#### Aspectos clave: Cómo puede utilizar el software abierto en su trabajo para hacer avanzar la ciencia abierta
 
-- Open software is a collaborative activity.
-- We can all learn and benefit from each other in making our scientific software more open.
+- El software abierto es una actividad colaborativa.
+- Todos podemos aprender y beneficiarnos mutuamente a la hora de hacer más abierto nuestro software científico.
 
-## Lesson 1: Summary
+## Lección 1: Resumen
 
-In this lesson, you learned that:
+En esta lección, has aprendido:
 
-- In open-source software, anyone can see the underlying source-code.
-- Open-source principles promote transparency, collaboration, sharing, inclusiveness, and communities.
-- Open-source software accelerates science, minimizes time and cost of repeated development of similar software and reproducing scientific computations, and can improve quality and trust in science.
-- Licenses for open-source software dictate its shareability and reusability to developers and prospective contributors. Funding entities and affiliated institutions may impose restrictions on how developers license their software.
-- A software management plan (SMP) is a project guidebook with a common understanding of data management practices that a research team can work from.
+- En el software de código abierto, cualquiera puede ver el código fuente.
+- Los principios del código abierto promueven la transparencia, la colaboración, el intercambio, la inclusión y las comunidades.
+- El software de código abierto acelera la ciencia, minimiza el tiempo y el coste del desarrollo repetido de software similar y la reproducción de cálculos científicos, y puede mejorar la calidad y la confianza en la ciencia.
+- Las licencias de los programas de código abierto establecen la posibilidad de compartirlos y re-usarlos para los desarrolladores y posibles colaboradores. Las entidades financiadoras y las instituciones afiliadas pueden imponer restricciones a la forma en que los desarrolladores licencian su software.
+- Un plan de gestión de software (SMP) es una guía de proyecto con un entendimiento común de las prácticas de gestión de datos a partir del cual puede trabajar un equipo de investigación.
 
-## Lesson 1: Knowledge Check
+## Lección 1: Revisión de conocimientos
 
-Answer the following questions to test what you have learned so far.
+Responde a las siguientes preguntas para comprobar lo que has aprendido hasta ahora.
 
-_Question_
+Pregunta
 
 **01/03**
 
-Read the statement below and decide whether it's true or false:
+Lee la siguiente afirmación y decide si es verdadera o falsa:
 
-_Software is referred to as open source when it is publicly accessible; anyone can see, modify, and distribute the code as they see fit._
+_Se dice que un programa informático es de código abierto cuando es de acceso público; cualquiera puede ver, modificar y distribuir el código como mejor le parezca._
 
-- True
-- False
+- Verdadero
+- Falso
 
-_Question_
+Pregunta
 
-**02/03**
+02/03
 
-Which of the following are valid reasons why scientists keep their source code closed? Select all that apply.
+¿Cuáles de las siguientes son razones válidas para que los científicos mantengan cerrado su código fuente? Selecciona todos los que correspondan.
 
-- National security concerns
-- Institutional policies
-- Data privacy concerns
-- Attribution concerns
-- Quality concerns
+- Asuntos de seguridad nacional
+- Políticas institucionales
+- Privacidad de los datos
+- Cuestiones de atribución
+- Problemas de calidad
 
-_Question_
+Pregunta
 
-**03/03**
+03/03
 
-What are the main sections in a software management plan?
+¿Cuáles son las principales secciones de un plan de gestión de software?
 
-- Types of code and software
-- Schedule for sharing software
-- Where software will be shared and archived
-- What license it will be assigned
-- Roles and responsibilities of team members
-- All of the above
+- Tipos de código y software
+- Calendario para compartir software
+- Donde el software será compartido y archivado
+- Qué licencia será asignada
+- Roles y responsabilidades de los miembros del equipo
+- Todas las anteriores

@@ -1,138 +1,138 @@
-# Lesson 4: Sharing Open Results
+# Lección 4: compartiendo resultados abiertos
 
-## Navigation
+## Navegación
 
-- [When to Share](#when-to-share)
-- [How to Share](#how-to-share)
-- [Other Considerations When Sharing](#other-considerations-when-sharing)
-- [Lesson 4: Summary](#lesson-4-summary)
-- [Lesson 4: Knowledge Check](#lesson-4-knowledge-check)
+- [¿Cuándo compartir?](#cuándo-compartir)
+- [¿Cómo compartir?](#cómo-compartir)
+- [Otras consideraciones al compartir](#otras-consideraciones-al-compartir)
+- [Lección 4: resumen](#lección-4-resumen)
+- [Lección 4: evaluación de conocimientos](#lección-4-evaluación-de-conocimientos)
 
-## Overview
+## Panorama general
 
-In lesson 3 you learned about how to make reproducible results. Now, we can finally think about how to best share those results. In this lesson we will place emphasis on publishing manuscripts as open access. You will learn what subtleties to consider when determining what journal to publish in, including how to make sense of a journal's policies on self-archiving. Finally, we discuss some commonly held concerns about sharing open access publications, and how to overcome them. Ultimately, we want to ensure that you have confidence in your decision to publish as open access.
+En la lección 3 aprendiste cómo lograr que tus resultados fueran reproducibles. Ahora, finalmente podemos pensar en cómo vamos a compartir esos resultados de la mejor manera. En esta lección, pondremos énfasis en la publicación de manuscritos en acceso abierto. Aprenderás qué sutilezas considerar al determinar en qué revista publicar, incluyendo cómo entender sus políticas de autoarchivo. Finalmente, discutiremos algunas preocupaciones que se presentan comúnmente sobre el compartir publicaciones en acceso abierto y cómo superarlas. En última instancia, queremos asegurarnos de que tengas confianza en tu decisión de publicar en acceso abierto.
 
-## Learning Objectives
+## Objetivos de aprendizaje
 
-After completing this lesson, you should be able to:
+Después de completar esta lección, deberías ser capaz de:
 
-- List ways that you can share open results to become a more collaborative, effective, scientist.
-- List different types of open access publications and considerations when sharing like licenses.
-- List some of the concerns around open access publishing, including responsibilities for authors, the threat of predatory publishers, and the fear of being wrong.
+- Enumerar maneras en las que puedes compartir resultados abiertos para convertirte en un científico más colaborativo y efectivo.
+- Enumerar diferentes tipos de publicaciones en acceso abierto y las consideraciones que hay que tener en cuenta al momento de compartirlas, tal como las licencias que estas poseerán.
+- Enumerar algunas de las preocupaciones en torno a la publicación en acceso abierto, incluyendo responsabilidades de los autores, la amenaza de revistas o editoriales depredadoras y/o el temor a equivocarse.
 
-## When to Share
+## ¿Cuándo compartir?
 
 <img src="../images/media/image7.jpeg" style="width:100%height:auto;" />
 
-Part of doing open science is enabling collaborative, interactive results. Sharing different types of research objects earlier in your research process helps increase visibility to your work and accelerates your efforts by drawing from the collective knowledge of others. The internet has fundamentally changed the timing of and manner in which scientists communicate results.
+Parte de llevar a cabo prácticas con el esquema de ciencia abierta es la posibilidad de ofrecer resultados colaborativos e interactivos. Compartir los diferentes tipos de objetos de investigación de manera temprana durante el proceso de investigación ayudará a aumentar la visibilidad de tu trabajo, al mismo tiempo en que podrá acelerarlo al aprovechar el conocimiento colectivo de la comunidad. Internet ha cambiado de manera sustancial el momento y la manera en que los científicos comunican los resultados.
 
-Planning to share your intermediate results at the beginning of your project makes sharing final results easier. The figure above illustrates many of the different objects that can be shared before the 'final' report or publication. Sharing and talking about your research as you are doing it, as well as engaging with other scientists, will increase the robustness of your work.
+Planificar el compartir tus resultados provisionales al inicio de tu proyecto puede simplificar notablemente el proceso de su divulgación en la fase final. La figura anterior ilustra muchos de los diferentes objetos que pueden ser compartidos antes de la versión 'final' de tu informe o publicación. Compartir y hablar sobre tu investigación mientras la realizas, así como interactuar con otros científicos, fortalecerá la calidad de tu trabajo.
 
-Ask questions. Share what you are working on. You will find that many involved in the scientific community want to help. The more you engage, the larger the audience and the more impact you will have when that 'final' publication is published.
+Haz preguntas. Comparte en qué estás trabajando. Descubrirás que muchos involucrados en la comunidad científica están dispuestos a ayudar. Cuanto más te involucres, mayor será la audiencia y mayor impacto tendrás cuando se publique la versión 'final' de tu trabajo.
 
-In the past few decades, scientists have made new connections and sought collaborators through letters and at conferences. However, this way of doing science tended to restrict who could participate. Today, most of these discussions take place on the internet, which has enabled new avenues for participatory science, open to all.
+En décadas pasadas, los científicos establecían nuevas conexiones al buscar colaboradores a través de cartas y en conferencias. Sin embargo, esta manera de hacer ciencia tendía a restringir quién podía participar. Hoy, la mayoría de estas discusiones tienen lugar en internet, lo que ha habilitado nuevas vías de comunicación para la ciencia colaborativa en la que todos pueden participar.
 
-The platforms where you share research depends on what you want to share. Reference the figure above and think about where you might share different types of information. How will this influence who you have an ability to engage with?
+Las plataformas en las que compartes tu investigación dependen de lo que quieras compartir. Revisa la figura anterior y piensa en dónde podrías compartir los diferentes objetos o tipos de información ahí presentados. ¿Cómo es que esto influirá en la forma en la que interactúes con alguien?
 
-Let's start with sharing in smaller groups (workshops and conferences) and move to larger audiences. There are distinct reasons for communicating results to different sizes of groups, as explored in the following sections.
+Puedes comenzar compartiendo tus resultados en grupos pequeños, como talleres y conferencias, para luego avanzar hacia audiencias más grandes. A continuación, exploraremos las diversas razones que influyen en la elección del tamaño de los grupos para la comunicación de tus resultados.
 
-### At Workshops and Conferences
+### En talleres y conferencias
 
-Many of us attend scientific conferences, workshops, and other gatherings to discuss our science with peers. The costs associated with attendance and travel to these events may limit who has access to the material presented there. At these events, scientists often give talks or present posters that are not yet peer reviewed to invite feedback from the community and potentially recruit collaborators. These interactions are important for improving research projects, and are often done when a project is still ongoing so that researchers can gather feedback early in their scientific process.
+Muchos de nosotros asistimos a conferencias científicas, talleres y otros encuentros para discutir temas de nuestra disciplina con colegas. Los costos asociados con la asistencia y el viaje a estos eventos pueden limitar el acceso a los materiales y exposiciones que se presentan allí. En estos eventos, los científicos a menudo dan charlas o presentan pósteres que aún no han sido revisados por pares, en donde aprovechan la oportunidad para invitar a la comunidad a emitir observaciones y potencialmente reclutar colaboradores. Estas interacciones son importantes para mejorar los proyectos de investigación y suelen realizarse cuando un proyecto aún está en curso para que los investigadores puedan recopilar comentarios temprano en su proceso científico.
 
-It is important to think about what audience you will be reaching at an event. Conferences have different policies about open access to materials presented at an event. Consider what you are sharing and who you want to share it with. For example, not all events provide long-term open access to workshop materials after the event. If you want to reach a larger audience or preserve the materials long-term, as a scientist, you have options to license and publish presented materials yourself (for example using Zenodo with a DOI) if an event doesn't do so.
+Es importante tener en mente el tipo de audiencia a la que potencialmente se le puede impactar en dichos eventos. Las conferencias tienen diferentes políticas sobre el acceso abierto a los materiales presentados en un evento. Considera qué estás ofreciendo y con quién quieres compartirlo. Por ejemplo, no todos los eventos ofrecen acceso abierto a largo plazo a los materiales del taller después del evento. Si deseas llegar a una audiencia más amplia o preservar los materiales a largo plazo, como científico, tienes opciones para licenciar y publicar abiertamente tú mismo los materiales que has presentado (por ejemplo, usando Zenodo con un DOI) en caso de que los organizadores del evento no lo hagan.
 
-### Other Forms of Interactive Feedback
+### Otras formas de obtener retroalimentación de manera interactiva
 
-Other forms of sharing can serve a similar purpose to share and document your results and/or software packages, and also allow for additional flexibility and openness! There are a number of additional resources that you can use
+Existen diferentes formas en las que se puede cumplir una función similar para compartir y documentar tus resultados y/o paquetes de software, ¡y también permitir una flexibilidad y nivel de apertura adicionales! Estas opciones pueden ser:
 
-- Blog posts and online articles
-- Short form videos and podcasts
-- Computational notebooks
-- Social media posts
-- Forum discussions
+- Publicar en blogs y/o artículos de difusión en línea
+- Elaborar videos cortos y podcasts
+- Utilizar cuadernos computacionales o 'interfaz notebook'
+- Publicar en redes sociales
+- Realizar discusiones en foros
 
-These different pathways allow for the dissemination of null results, intermediate science updates and/or software improvements. These alternative ways of sharing your work can benefit your research by facilitating extended dialogue between you and collaborators, and even the general public. Additionally, the public has easier access to these forms than they do to conferences.
+Estos diferentes medios permiten la diseminación de resultados no positivos, actualizaciones provicionales de la ciencia y/o mejoras de software. Estas formas alternativas de compartir tu trabajo pueden beneficiar tu investigación facilitando un diálogo extendido entre tú y tus colaboradores, e incluso con el público general. Además, es habitual que estas opciones de difusión sean de más fácil acceso que a las conferencias.
 
-Here are some specific examples of engagement across contemporary platforms for scientific collaboration:
+Aquí hay algunos ejemplos específicos de cómo se llevan a cambo estas interacciones a través de plataformas científicas colaborativas:
 
-- Blog posts such as the [Pangeo blog](https://medium.com/pangeo) - see examples of how to use different software tools for different science questions!
-- Computational notebooks as a way to demo software techniques (e.g. the [Project Pythia Cookbook Gallery](https://cookbooks.projectpythia.org/) showcasing computational science workflows in the Earth sciences).
-- Non-peer reviewed publications, such as [Research Notes of the AAS](https://journals.aas.org/research-notes/).
-- Team and/or Mission Science Pages, such as the [LUVOIR team's page](https://asd.gsfc.nasa.gov/luvoir/) or the Juno [mission's page.](https://www.missionjuno.swri.edu/)
-- Conference proceedings, such as from the [Society of Photo-Optical Instrumentation Engineers.](https://spie.org/publications/conference-proceedings)
-- Social media posts: [https://twitter.com/MartianColonist/status/1706824699349488036](https://twitter.com/MartianColonist/status/1706824699349488036)
+- Publicaciones en blogs, como en [Pangeo](https://medium.com/pangeo): ¡puedes observar ejemplos de cómo usar diferentes herramientas de software para distintas preguntas científicas!
+- Cuadernos computacionales como una forma de demostrar técnicas de programación (por ejemplo, la [Galería del Libro de Cocina del Proyecto Pythia](https://cookbooks.projectpythia.org/) mostrando flujos de trabajo de ciencias computacionales en las ciencias de la tierra).
+- Publicaciones que aún no están revisadas por pares, como las [Notas de Investigación de la AAS](https://journals.aas.org/research-notes/).
+- Páginas de equipos y/o misiones científicas, como la [página del equipo LUVOIR](https://asd.gsfc.nasa.gov/luvoir/) o la página de la [misión Juno](https://www.missionjuno.swri.edu/).
+- Actas de conferencias, como las de la [Sociedad de Ingenieros de Instrumentación Óptica y Fotónica](https://spie.org/publications/conference-proceedings).
+- Publicaciones en redes sociales: [Tweet del @MartianColonist](https://twitter.com/MartianColonist/status/1706824699349488036)
 
-<img src="../images/media/image57.png" style="width:20px;height:auto;" /> **Over the course of a 3 year study, the Journal of Medical Internet Research found that highly tweeted articles were 11 times more likely to be highly cited than less tweeted articles.**
+<img src="../images/media/image57.png" style="width:20px;height:auto;" /> **En el transcurso de un estudio de 3 años, el Journal of Medical Internet Research descubrió que los artículos más tuiteados tenían 11 veces más probabilidades de ser altamente citados que los artículos menos tuiteados.**
 
-### Publishing Reproducible Reports and Publications
+### Publicando investigaciones e informes reproducibles
 
-An open access report and paper can be reproducible when its data, software, and content are made available to the readers following best practices. There is a growing list of resources documenting how to make open results reproducible (such as [The Turing Way](https://the-turing-way.netlify.app/reproducible-research/reproducible-research) and [FORRT](https://forrt.org/)).
+Un informe y un artículo de acceso abierto pueden considerarse como reproducibles cuando sus datos, software y contenido subyacente se encuentran disponibles para los lectores siguiendo algunas prácticas recomendadas. Existe una lista creciente de recursos que documentan cómo hacer que los resultados abiertos sean reproducibles (como [The Turing Way](https://the-turing-way.netlify.app/reproducible-research/reproducible-research) y [FORRT](https://forrt.org/)).
 
-There are several examples (discussed in these lessons) that demonstrate how we can integrate technical and collaborative solutions to enable reproducibility. For example, executable notebooks allow interactivity and testing, training workshops invite feedback for improvement and GitHub/GitLab enable community based open review.
+Existen varios ejemplos (discutidos en estas lecciones) que demuestran cómo podemos integrar soluciones técnicas y colaborativas para habilitar esta reproducibilidad. Por ejemplo, los cuadernos computacionales permiten la interactividad y realización de pruebas, los talleres de capacitación invitan a la retroalimentación para la mejora y GitHub/GitLab habilitan la revisión abierta por la comunidad.
 
-**Scholarly Journals**
+**Revistas Académicas**
 
-Publishing work in a peer-reviewed journal forms the traditionally written basis of how we share our science, and is important for communicating scientific detail and rigor to colleagues. Academic journals also act as a long-term archive of scientific research papers. For many scientists, publishing in peer-reviewed journals and receiving citations are key factors in how they are evaluated for career advancement, positions appointments, committee memberships, and honors.
+Publicar trabajos en una revista revisada por pares constituye un fundamento básico de cómo se comparte la ciencia. Al mismo tiempo, se considera una vía importante para comunicar resultados que cuenten con rigor científico entre colegas. Las revistas académicas también actúan como un archivo de preservación a largo plazo de artículos de investigación científica. Para muchos científicos, publicar en revistas revisadas por pares y ser citados son factores clave para ser evaluados en el avance de su carrera, para recibir nombramientos, obtener reconocimiento o aspirar a formar parte de comités.
 
-Traditionally, authors pay an Article Processing Charge (APC) that can range from \$200-\$12000 USD. Higher profile journals often charge higher fees to authors. Accessing articles has traditionally been restricted by pay-walls that require a subscription or charge per article. Journals have different options for making your published work accessible to various communities.
+En este sentido, de manera recurrente los autores pueden llegar a pagar un Cargo por Procesamiento de Artículos (APC, por sus siglas en inglés) que puede variar entre $200 y $12,000 USD. Las revistas de mayor prestigio a menudo son las que cobran las tarifas más altas. El acceso a los artículos ha estado tradicionalmente restringido por muros de pago que requieren una suscripción o un cargo de consulta por artículo. Las revistas pueden contar con diferentes opciones para hacer que tu trabajo publicado sea accesible para todos.
 
-**Who Has Access to Journal Subscriptions?**
+**¿Quién tiene acceso a las suscripciones de revistas?**
 
-Paywalls limit who can access scientific research. This barrier acts to limit who can participate in science and erodes public trust in results. Part of open science is ensuring worldwide access to research.
+Los muros de pago limitan quién puede acceder a cierta investigación científica. Generalmente, esto puede generar una barrera en la participación y discución científica, lo que puede ocasionar una erosión en la confianza pública de sus resultados. Y parte de lo que pretende corregir la ciencia abierta es garantizar el acceso mundial a la investigación.
 
-**Open Access Journals**
+**Revistas de acceso abierto**
 
-Open access journals are peer-reviewed journals that are more accessible because they don’t require readers to have a subscription or pay to access the content. However, open access journals often require additional fees for the author. Open access peer-reviewed articles are archived by a more formal discussion of scientific ideas, interpretations, and conclusions. They form the basis of how researchers share results.
+Las revistas de acceso abierto son revistas revisadas por pares que son más accesibles porque no requieren que los lectores tengan una suscripción o paguen para acceder al contenido. Sin embargo, las revistas de acceso abierto, en algunos casos, pueden requerir tarifas para el autor. Los artículos revisados por pares de acceso abierto están archivados por una discusión más formal de ideas científicas, interpretaciones y conclusiones. Forman la base de cómo los investigadores comparten resultados.
 
-### Activity 4.1: Read the Open Access Policies of Publishers That You Use
+### Actividad 4.1: lee las políticas de acceso abierto de los servicios editoriales o revistas que utilizas
 
 <img src="../images/media/image21.png" style="width:350px;height:auto;" />
 
-In this activity, you will learn how to access information about a journal’s data archive policies. The Directory of Open Access Journals (DOAJ) provides an extensive index of open access journals around the globe. The DOAJ can be used to look up information, including data archiving policies, for journals that publish research. Let’s open up this website and look up the policies specific to your most-used journals.
+En esta actividad aprenderás cómo acceder a la información sobre las políticas de archivo de datos de una revista. El Directorio de Revistas de Acceso Abierto (DOAJ, por sus siglas en inglés) proporciona un índice extenso de revistas de acceso abierto de todo el mundo. El DOAJ se puede usar para buscar información, incluidas las políticas de archivo de datos para las revistas que publican investigaciones. Vamos a explorar su sitio web y buscar las políticas específicas de las revistas que más utilizas.
 
-1. First, navigate to the [DOAJ website](https://doaj.org/).
-2. Type in the name of one of the following journals in the search box, and then click on the yellow "SEARCH" button.
+1. Primero, navega al sitio [web del DOAJ](https://doaj.org/).
+2. Escribe el nombre de una de las siguientes revistas en el cuadro de búsqueda y, a continuación, pulsa el botón amarillo «BUSCAR».
 
-- Atmospheric and Oceanic Science Letters
-- Swiss Journal of Geosciences
-- History of Geo-and Space Sciences <br><br>Note: You may input any journal desired but for this exercise use one of those listed to see the Sherpa/Romeo link that is listed in Step 5.
+- Cartas de Ciencias Atmosféricas y Oceánicas
+- Revista Suiza de Geociencias
+- Historia de las ciencias geológicas y espaciales <br><br>Nota: Puedes introducir cualquier revista que desees, pero para este ejercicio utiliza una de las listadas para ver el enlace Sherpa/Romeo que aparece en el Paso 5.
 
-3. The search results may show more than one match. Select the desired journal within the search results by clicking on the journal name.<br><br>A dashboard appears, giving information regarding publication fees, waiver policies, the type of open license used, and other information on multiple displayed titles.
-4. Click on the "archiving policy" link appearing in one of the displayed boxes as seen here. This will provide links to extensive information regarding the journal’s open access policies for the manuscript itself: <br><img src="../images/media/image59.png" style="width:300px;height:auto;" /><br>An extensive amount of information will be presented, including details on the publishing policies specific to the selected journal.
-5. Alternatively, to get a more condensed view of the journal’s policies, return to the DOAJ dashboard on the About page with the multiple boxes displayed, and click on the "Sherpa/Romeo" link as shown here.<br><img src="../images/media/image60.jpeg" style="width:300px;height:auto;" />
-6. On the Sherpa Romeo page, click on the journal name that is displayed in the list (the only journal displayed).<br><img src="../images/media/image63.jpeg" style="width:100%;height:auto;" />
-7. When you view the page, you see that it consolidates and summarizes the open access policies for that journal and associated materials. The published version is likely to be the most relevant (see red box in figure).<br><img src="../images/media/image64.jpeg" style="width:100%;height:auto;"/>
-8. Review the page and determine which license the journal you selected has defined for reusability for manuscripts.
+3. Los resultados de la búsqueda pueden mostrar más de una coincidencia. Selecciona la revista deseada dentro de los resultados de la búsqueda haciendo clic en el nombre de la misma.<br><br>Aparecerá un panel de control con información relativa a las tarifas de publicación, las políticas de exención, el tipo de licencia abierta utilizada y otra información sobre los múltiples títulos mostrados.
+4. Haz clic en el enlace «política de archivo» que aparece en una de las casillas desplegadas, como se ve aquí. Este proporcionará los enlaces a una gran cantidad de información sobre las políticas de acceso abierto de la revista para el propio manuscrito: <br><img src="../images/media/image59.png" style="width:300px;height:auto;" /><br>Se presentará mucha información, incluyendo detalles sobre las políticas de publicación específicas de la revista seleccionada.
+5. Alternativamente, para obtener una visión más condensada de las políticas de la revista, vuelve al tablero de DOAJ en la página "Acerca de" con los múltiples cuadros desplegados, y haz clic en el enlace «Sherpa/Romeo» como se muestra aquí.<br><img src="../images/media/image60.jpeg" style="width:300px;height:auto;" />
+6. En la página Sherpa Romeo, cliquea en el nombre de la revista que aparece en la lista (la única revista que aparece).<br><img src="../images/media/image63.jpeg" style="width:100%;height:auto;" />
+7. Cuando veas la página, verás que resume y consolida las políticas de acceso abierto para esa revista y los materiales asociados. Es probable que la versión publicada sea la más relevante (véase el recuadro rojo de la figura).<br><img src="../images/media/image64.jpeg" style="width:100%;height:auto;"/>
+8. Revisa la página para determinar qué licencia ha definido la revista seleccionada para el reuso de manuscritos.
 
-#### Activity Key Takeaways: Read the Open Access Policies of Publishers That You Use
+#### Actividades clave: Lee las políticas de acceso abierto de las editoriales que utilizas
 
-This is an example of a site that you can use to determine if a journal’s policy is consistent with how you wish to publish your open access results. Journal policies should always be reviewed and considered during the early planning phase of your project and well before submitting your manuscript for publication.
+Este es un ejemplo de un sitio que puedes utilizar para saber si la política de una revista es coherente con la forma en que deseas publicar tus resultados de acceso abierto. Las políticas de las revistas siempre deben revisarse y tenerse en cuenta durante la fase inicial de planificación del proyecto y mucho antes de enviar el manuscrito para su publicación.
 
-## How to Share
+## Cómo compartir
 
-Perhaps the single most important step to make your results open is to assign them a globally unique and persistent identifier. This will give you a single code, URL, or number that you can use to uniquely refer to a research object. Any derived research object can use this identifier to link to it and create a traceable and rich history of use and development. Crucially, this identifier can be used by others to cite and credit your work ([source](https://opensciency.github.io/sprint-content/open-results/lesson3-apply-open-results.html)).
+Quizás el paso más importante para que tus resultados sean abiertos sea asignarles un identificador global único y persistente. Esto te brindará un código único, URL o número que podrás utilizar para referirte de forma exclusiva a un objeto de investigación. Cualquier objeto de investigación derivado puede utilizar este identificador para enlazar con él y crear un historial rastreable de uso y desarrollo. Además, el identificador puede ser utilizado por otros para citar y acreditar tu trabajo ([fuente](https://opensciency.github.io/sprint-content/open-results/lesson3-apply-open-results.html)) (en inglés).
 
-The identifier must also be persistent. This guarantees that the identifier points to the same research object for a long period of time. What counts as "persistent" is, of course, a matter of degree since even the most stable identifier probably won't survive the Sun engulfing the Earth in a few billion years. In this context, "persistent" implies that it is registered in a database managed by an organization or system that is committed to maintaining it as stable and backwards compatible for the foreseeable future.
+El identificador también debe ser persistente. Esto garantiza que conduzca al mismo objeto de investigación durante un largo periodo de tiempo. Lo que cuenta como «persistente» es, por supuesto, una apreciación, ya que incluso el identificador más estable probablemente no sobrevivirá a que el Sol engulla la Tierra dentro de unos miles de millones de años. En este contexto, «persistente» implica que está registrado en una base de datos gestionada por una organización o sistema que se compromete a mantenerlo estable y compatible con versiones anteriores en un futuro previsible.
 
-For example, URLs (for example, a personal website, GitHub repository, or cloud storage) are notoriously not persistent since they can change their contents frequently or become invalid without maintenance. On the other hand, Journal publications have a Digital Object Identifier (DOI) whose persistence is guaranteed by the International DOI Foundation.
+Por ejemplo, las URL (un sitio web personal, un repositorio de GitHub o un almacenamiento en la nube) son notoriamente poco persistentes, ya que pueden cambiar su contenido con frecuencia o dejar de ser válidas si no reciben mantenimiento. Por su parte, las publicaciones de revistas científicas tienen un Identificador de Objeto Digital (DOI por sus siglas en inglés) cuya persistencia está garantizada por la Fundación Internacional del DOI.
 
-As well as uniquely identifying each research object, it is important to be able to uniquely identify and cite all the authors and contributors. For this, it is recommended to get the permanent digital ID of each of the authors and contributors. [ORCID](https://orcid.org/) (Open Researcher and Contributor ID) is an online service where you can get a permanent digital identifier.
+Además de identificar unívocamente cada objeto de investigación, es importante poder identificar y citar unívocamente a todos los autores y colaboradores. Para ello, se recomienda obtener el identificador digital permanente de cada uno de ellos. ID abierto de investigador y colaborador ([ORCID](https://orcid.org/) por sus siglas en inglés) es un servicio en línea que permite obtener un identificador digital permanente.
 
-There are examples of globally unique and persistent identifiers:
+Existen ejemplos de identificadores globalmente únicos y persistentes:
 
 <table style="width:100%;">
   <thead>
     <tr>
-        <th>DIGITAL OBJECT IDENTIFIER<br>10.1371/JOURNAL.PONE.0230416 ☑</th>
+        <th>IDENTIFICADOR DE OBJETO DIGITAL (DOI) <br>10.1371/JOURNAL.PONE.0230416 ☑</th>
         <th>ISBN-13: 978-0735619678</th>
-        <th>THE INTERNET ARCHIVE</th>
+        <th>EL ARCHIVO DE INTERNET</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>The Digital Object Identifier is provided by the International DOI Foundation, which ensures that each ID is unique and ensures that a DOI link always links to the correct object.</p>
+            <p>El identificador de objeto digital lo proporciona la Fundación Internacional DOI, que garantiza que cada identificador es único y asegura que un enlace DOI siempre enlaza con el objeto correcto.</p>
         </td>
     </tr>
   </tbody>
@@ -141,15 +141,15 @@ There are examples of globally unique and persistent identifiers:
 <table style="width:100%;">
   <thead>
     <tr>
-        <th>DIGITAL OBJECT IDENTIFIER<br>10.1371/JOURNAL.PONE.0230416</th>
+        <th>IDENTIFICADOR DE OBJETO DIGITAL<br>10.1371/JOURNAL.PONE.0230416</th>
         <th>ISBN-13: 978-0735619678 ☑</th>
-        <th>THE INTERNET ARCHIVE</th>
+        <th>EL ARCHIVO DE INTERNET</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>This is an International Standard Book Number, which has to be purchased by publishers by the International ISBN Agency.</p>
+            <p>Se trata de un número internacional normalizado para libros, que los editores deben adquirir a través de la Agencia Internacional del ISBN.</p>
         </td>
     </tr>
   </tbody>
@@ -158,55 +158,55 @@ There are examples of globally unique and persistent identifiers:
 <table style="width:100%;">
   <thead>
     <tr>
-        <th>DIGITAL OBJECT IDENTIFIER<br>10.1371/JOURNAL.PONE.0230416</th>
+        <th>IDENTIFICADOR DE OBJETO DIGITAL<br>10.1371/JOURNAL.PONE.0230416</th>
         <th>ISBN-13: 978-0735619678</th>
-        <th>THE INTERNET ARCHIVE ☑</th>
+        <th>EL ARCHIVO DE INTERNET ☑</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p><a href="https://web.archive.org/web/20220121051903/https://www.go-fair.org/">The Internet Archive</a> captures snapshots of websites and their links are really stable. Even if not ideal, it’s a handy tool for creating identifiers of websites easily.</p>
+            <p><a href="https://web.archive.org/web/20220121051903/https://www.go-fair.org/">El Archivo de Internet</a> (*The Internet Archive*) captura instantáneas de sitios web y sus enlaces son realmente estables. Aunque no sea ideal, es una herramienta práctica para crear identificadores de sitios web fácilmente.</p>
         </td>
     </tr>
   </tbody>
 </table>
 
-### Licenses
+### Licencias
 
 <img src="../images/media/image67.png" style="width:350px;height:auto;" />
 
-By applying a license to your work, you make clear what others can do with the things you're sharing, as well as the conditions under which you're providing them (like the requirement to cite you). Another very important element to include with your research objects is clear rules for reuse (as is and for creating derivative work), which are often and most easily codified by the use of licenses.
+Al aplicar una licencia a tu trabajo, dejas claro qué pueden hacer los demás con las cosas que compartes, así como las condiciones en las que las proporcionas (como el requisito de citarte). Otro elemento muy importante que debes incluir con tus objetos de investigación son normas claras para su reuso (tal cual y para la creación de obras derivadas), que a menudo se codifican más fácilmente mediante el uso de una licencia.
 
-Without a license, all rights are with the author of the research result. That means nobody else can use, copy, distribute, or modify the work without consent. A license gives this consent. If you do not have a license for each of the research objects that constitute your research result, it is effectively unusable by the whole research community.
+Sin licencia, todos los derechos corresponden al autor del resultado de la investigación. Eso significa que nadie más puede utilizar, copiar, distribuir o modificar la obra sin consentimiento. Una licencia otorga este consentimiento. Si no dispone de una licencia para cada uno de los objetos de investigación que constituyen el resultado de su investigación, ésta no podrá ser utilizada por toda la comunidad de investigación.
 
-Creative Commons licenses are usually used for written content (see Lesson 3 for a full description!). The benefit of a license, as opposed to the public domain, is that most require attribution to the original creators. The Creative Commons Attribution License, [CC-BY](https://wellcome.org/grant-funding/guidance/open-access-guidance/creative-commons-attribution-licence-cc), is the most common open access license for sharing publications as it requires attribution. There are other Creative Commons licenses used that may have different limitations on whether or not they can be commercially used, whether or not they can be modified and copied, and whether or not the licenses can be changed in further adaptations of code.
+Las licencias Creative Commons suelen utilizarse para contenidos escritos (véase la Lección 3 para una descripción completa). La ventaja de una licencia, a diferencia del dominio público, es que la mayoría exige la atribución a las personas creadoras originales. La Licencia de Atribución de Creative Commons, [CC-BY](https://wellcome.org/grant-funding/guidance/open-access-guidance/creative-commons-attribution-licence-cc) (en inglés), es la licencia de acceso abierto más común para compartir publicaciones, ya que requiere atribución. Existen otras licencias Creative Commons utilizadas que pueden tener diferentes limitaciones en cuanto a si pueden o no utilizarse comercialmente, si pueden o no modificarse y copiarse, y si las licencias pueden o no modificarse en posteriores adaptaciones del código.
 
-Your institutions, funding agency, or research proposal may require use of a specific license depending on the type of material that you produce from your research. For public agencies, CC-0 or CC-BY are generally recommended (or required) to maximize their return on investment and ensure widest possible re-use. Choosing a CC license that has additional restrictions (eg. -ND, -SA, -NC) can result in less reuse of data. As you share results on different platforms, look carefully to see what license is being applied!
+Las instituciones, agencias de financiación o propuestas de investigación pueden requerir el uso de una licencia específica en función del tipo de material que se produzca a partir de la investigación. En el caso de los organismos públicos, se suele recomendar (o exigir) CC-0 o CC-BY para maximizar el rendimiento de la inversión y garantizar la reutilización más amplia posible. Elegir una licencia CC que tenga restricciones adicionales (por ejemplo, -ND, -SA, -NC) puede dar lugar a un menor reuso de los datos. Cuando compartas resultados en distintas plataformas, fíjate bien cuál es la licencia que se está aplicando!
 
-### Routes for Open Access Publishing
+### Vías para publicar en acceso abierto
 
 <img src="../images/media/image68.jpeg" style="width:100%;height:auto;" />
 
-Routes to publishing openly. The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 license. Original version on Zenodo. [http://doi.org/10.5281/zenodo.5706310](http://doi.org/10.5281/zenodo.5706310)
+Vías para publicar  de manera abierta. Ilustración del proyecto el metodo Turing por Scriberia. Utilizado bajo licencia CC-BY 4.0. Versión original en Zenodo. [http://doi.org/10.5281/zenodo.5706310](http://doi.org/10.5281/zenodo.5706310)
 
 ---
 
-The most common types of open access publishing are Green, Gold, and Diamond.
+Los tipos más comunes de publicación en acceso abierto son Verde (_green route_), Dorado (_gold route_) y Diamante (_diamond route_).
 
 <table style="width:100%;">
   <thead>
     <tr>
-        <th>GOLD OPEN ACCESS PUBLISHING ☑</th>
-        <th>GREEN OPEN ACCESS PUBLISHING</th>
-        <th>DIAMOND OPEN ACCESS PUBLISHING</th>
+        <th>ACCESO ABIERTO DORADO ☑</th>
+        <th>ACCESO ABIERTO VERDE</th>
+        <th>ACCESO ABIERTO DIAMANTE</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>In Gold Open Access Publishing, authors pay an Article Processing Charge (APC) to a journal so that they publish the final version of your article under an open access license, which is then permanently and freely available online for anyone. The author will retain the copyright of their article, usually via a Creative Commons license of their choice, which dictates what others can do with the article. A criticism around gold Open Access publishing is the cost.</p>
-            <p>APCs can generally be around 2000 USD or in some cases more, which can therefore be prohibitive for authors across the globe. Some publishers offer discounts or waivers to authors from countries classified by the World Bank as low-income economies or APCs may be covered by your funder as part of your grant.</p>
+            <p>En el Acceso Abierto Dorado, las personas autoras pagan una tasa de procesamiento de artículos, APC (*Article Processing Charge*), a una revista para que ésta publique la versión final de su artículo bajo una licencia de acceso abierto, que luego queda disponible en línea de forma permanente y gratuita para cualquiera. Las personas autoras conservarán los derechos de autoría, normalmente a través de una licencia Creative Commons de su elección, que dicta lo que otros pueden hacer con el artículo. Una crítica en torno a la publicación dorada en Acceso Abierto es el costo.</p>
+            <p>Por lo general, los APC pueden rondar los 2000 USD o, en algunos casos, más, lo que puede resultar prohibitivo para las personas que hacen ciencia en muchas partes del mundo. Algunas editoriales ofrecen descuentos o exenciones a los autores de países clasificados por el Banco Mundial como economías de renta baja, o es posible que su financiador cubra las APC como parte de su subvención.</p>
         </td>
     </tr>
   </tbody>
@@ -215,16 +215,16 @@ The most common types of open access publishing are Green, Gold, and Diamond.
 <table style="width:100%;">
   <thead>
     <tr>
-        <th>GOLD OPEN ACCESS PUBLISHING</th>
-        <th>GREEN OPEN ACCESS PUBLISHING ☑</th>
-        <th>DIAMOND OPEN ACCESS PUBLISHING</th>
+        <th>ACCESO ABIERTO DORADO</th>
+        <th>ACCESO ABIERTO VERDE ☑</th>
+        <th>ACCESO ABIERTO DIAMANTE</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>Green Open Access is the process of self-archiving. The self-archiving movement aims to provide tools and assistance to scholars to deposit and disseminate their refereed journal articles in open institutional or subject-based repositories. You may choose to self-archive your work to make it more discoverable and/or after you’ve published it in a subscription journal to ensure there is an open version of your paper.</p>
-            <p>The Registry of Open Access Repositories contains a list of repositories that are available for researchers to self-archive. At the beginning of 2019, there were more than 4000 repositories. It is important to find yourself-archive community!</p>
+            <p>El Acceso Abierto Verde es el proceso de autoarchivo. El movimiento de autoarchivo tiene como objetivo proporcionar herramientas y asistencia a los académicos para depositar y difundir sus artículos de revistas arbitradas en repositorios abiertos institucionales o temáticos. Puedes optar por autoarchivar tu trabajo para hacerlo más fácil de descubrir, o después de haberlo publicado en una revista de suscripción para asegurarte de que existe una versión abierta de tu artículo.</p>
+            <p>El Registro de Repositorios de Acceso Abierto contiene una lista de repositorios disponibles para que las personas investigadoras se autoarchiven. A principios de 2019 había más de 4000 repositorios. ¡Es importante encontrar una comunidad de autoarchivos!</p>
         </td>
     </tr>
   </tbody>
@@ -233,46 +233,46 @@ The most common types of open access publishing are Green, Gold, and Diamond.
 <table style="width:100%;">
   <thead>
     <tr>
-        <th>GOLD OPEN ACCESS PUBLISHING</th>
-        <th>GREEN OPEN ACCESS PUBLISHING</th>
-        <th>DIAMOND OPEN ACCESS PUBLISHING ☑</th>
+        <th>PUBLICACIÓN EN ACCESO ABIERTO ORO</th>
+        <th>PUBLICACIÓN EN ACCESO ABIERTO VERDE</th>
+        <th>PUBLICACIÓN EN ACCESO ABIERTO DIAMANTE</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>Diamond Open Access are publications where there is neither a cost for reading the article or publishing an article. Diamond Open Access journals either have very low costs due to building on existing infrastructure and volunteer efforts, or are supported directly by foundations or institutions. For authors, Diamond Open Access publications typically allow the author to retain copyright and the final version of their article as it is published under an open access license.</p>
+            <p>Acceso abierto Diamante, son publicaciones en las que no hay costo alguno para leer o publicar un artículo. Las revistas de acceso abierto Diamante, o bien tienen costos muy bajos debido a que aprovechan la infraestructura existente y los esfuerzos de voluntarios, o bien cuentan con el apoyo directo de fundaciones o instituciones. Para los autores, las publicaciones de acceso abierto Diamante suelen permitir que el autor conserve los derechos de autor (copyrigh) y la versión final de su artículo, ya que se publica bajo una licencia de acceso abierto.</p>
         </td>
     </tr>
   </tbody>
 </table>
 
-### Pros and Cons of Preprints
+### Ventajas y desventajas de las preimpresiones (preprints)
 
-When publishing in a peer-reviewed journal, you can decide to share a pre-print. A preprint is a version of a paper prior to its publication in a journal\*. This can be the author’s version of the accepted manuscript after peer review or a version prior to submission to a journal.
+Al publicar en una revista revisada por pares, puedes decidir compartir una preimpresión. Una preimpresión es una versión de un artículo antes de su publicación en una revista\*. Puede tratarse de la versión del manuscrito aceptada por quien la escribe tras la revisión por pares o de una versión anterior a su presentación a una revista.
 
-<img src="../images/media/image57.png" style="width:20px;height:auto;" /> **The accepted manuscript is the final, peer-reviewed version of the article that has been accepted for publication by a publisher. The accepted manuscript includes all changes made during the peer review process and contains the same content as the ﬁnal published article, but it does not include the publisher’s copyediting, stylistic, or formatting edits that will appear in the ﬁnal journal publication (i.e., the version of record).**
+<img src="../images/media/image57.png" style="width:20px;height:auto;" /> **El manuscrito admitido es la versión final, revisada por pares, del artículo que ha sido aceptado para su publicación por un editor.<0/>. El manuscrito aceptado incluye todos los cambios realizados durante el proceso de revisión por pares y tiene el mismo contenido que el artículo ﬁnal publicado, pero no incluye las correcciones de edición, estilo o de formato de edición que aparecerán en la publicación ﬁnal de la revista (es decir, la versión registrada)**
 
-**Source: https://science.nasa.gov/researchers/sara/faqs/osdmp.**
+Fuente: https://science.nasa.gov/researchers/sara/faqs/osdmp
 
-Many journals provide preprint services. If they don’t, there are many public preprint servers available. Often the funding agency will have a preferred public preprint server.
+Muchas revistas ofrecen servicios de preimpresión. Si no lo hacen, hay muchos servidores públicos de preimpresión disponibles. A menudo, la agencia de financiación tiene un servidor público de preimpresiones preferido.
 
-Preprints come with many advantages as well as perceived or potential disadvantages.
+Las preimpresiones presentan muchas ventajas, así como desventajas percibidas o potenciales.
 
 <table style="width:100%;">
   <thead>
     <tr>
-        <th>ADVANTAGES TO PUBLISHING WORK AS A PRE-PRINT ☑</th>
-        <th>POTENTIAL DISADVANTAGES</th>
+        <th>VENTAJAS DE PUBLICAR UN TRABAJO COMO PREPRINT☑</th>
+        <th>POSIBLES DESVENTAJAS</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="2">
             <ul>
-            <li>Quickly disseminate findings to communities in a timely manner.</li>
-            <li>Many field-specific preprint servers (e.g. arxiv.org, biorxiv.org, essoar.org) are free to both upload and read.</li>
-            <li>Community feedback on your work as it's being done.</li>
+            <li>Difundir rápidamente los hallazgos a las comunidades en el plazo debido.</li>
+            <li>Muchos servidores de preimpresos de campos específicos (p. ej., arxiv.org, biorxiv.org, essoar.org) se pueden cargar y leer de forma gratuita.</li>
+            <li>Comentarios de la comunidad sobre tu trabajo a medida que se realiza.</li>
             </ul>
         </td>
     </tr>
@@ -282,117 +282,118 @@ Preprints come with many advantages as well as perceived or potential disadvanta
 <table style="width:100%;">
   <thead>
     <tr>
-        <th>ADVANTAGES TO PUBLISHING WORK AS A PRE-PRINT</th>
-        <th>POTENTIAL DISADVANTAGES ☑</th>
+        <th>VENTAJAS DE PUBLICAR UN TRABAJO COMO PREPRINT</th>
+        <th>POSIBLES DESVENTAJAS ☑</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="2">
             <ul>
-            <li>Work may be shared with critical errors that may have been caught in peer review.</li>
-            <li>In some fields, there is a perception of lessened reliability or quality of research published as a peer print.</li>
-            <li>Some journals do not allow or accept articles if they have been submitted to a preprint server.</li>
+            <li>El trabajo puede compartirse con errores críticos que pueden haberse detectado en la revisión por pares.</li>
+            <li>En algunos campos, existe la percepción de una menor fiabilidad o calidad de la investigación publicada como impresión por pares.</li>
+            <li>Algunas revistas no permiten o no aceptan artículos si han sido enviados a un servidor de preimpresiones.</li>
             </ul>
         </td>
     </tr>
   </tbody>
 </table>
 
-### What to Consider When Making Preprints
+### Qué tener en cuenta al hacer preimpresiones
 
-When deciding to preprint your work, you will need to check:
+Cuando decidas preimprimir tu trabajo, deberás comprobar:
 
-1. The copyright policy of the journal with which you aim to publish.
-2. The version of the paper that can be deposited.
-3. When the paper is allowed to be made publicly available.
+1. La política de derechos de autor (Copyright) de la revista en la que deseas publicar.
+2. La versión del trabajo que puede depositarse.
+3. Cuándo se permite poner el trabajo a disposición del público.
 
-#### Additional Reading:
+#### Lecturas adicionales:
 
-Read the [story](https://pubs.aip.org/physicstoday/Online/29310/Joanne-Cohn-and-the-email-list-that-led-to-arXiv) about how Joanne Cohn's email list for preprints led to Paul Ginsparg's development of [arXiv](https://arxiv.org/).
+Lee la [historia](https://pubs.aip.org/physicstoday/Online/29310/Joanne-Cohn-and-the-email-list-that-led-to-arXiv) sobre cómo la lista de correo electrónico de Joanne Cohn para preimpresiones llevó a Paul Ginsparg al desarrollo de [arXiv](https://arxiv.org/).
 
-## Other Considerations When Sharing
+## Otras consideraciones a la hora de compartir
 
-### Who is Sharing?
+### ¿Quién está compartiendo?
 
-When writing an OSDMP, it’s important to include a plan for the roles and responsibilities needed to share your results. As discussed in lesson 3, your community will consist of members in different roles – some actively engaged, some with only a passing interest. Having a clear plan for sharing open results and how credit will be given will help everyone understand their contributions and roles and minimize conflict.
+Cuando se escribe un Plan de ciencia abierta y gestión de datos (OSDMP, por las siglas en inglés de Open Science and Data Management Plan), es importante incluir un plan sobre las funciones y responsabilidades necesarias para compartir los resultados. Como se explica en la lección 3, tu comunidad estará formada por miembros con diferentes funciones: algunos participarán activamente y otros sólo tendrán un interés pasajero. Contar con un plan claro para compartir los resultados abiertos y la forma en que se otorgará el crédito ayudará a que todos comprendan sus contribuciones y funciones y minimizará los conflictos.
 
-Lesson 3 describes in detail the different roles that people may play in sharing results. This should be clearly described In the OSDMP.
+En la Lección 3 se describen detalladamente las diferentes funciones que pueden desempeñar las personas en la puesta en común de resultados. Esto debe describirse claramente en el Plan de ciencia abierta y gestión de datos.
 
-### Predatory Publishers
+### Editoriales depredadoras
 
-Predatory Publishers are generally for-profit publishers that charge a publishing fee but provide few quality checks on the quality of the publication that would be expected from scholarly publications. They sometimes use the benefit of open access to entice authors to publish with them. If you are unsure if a publisher may be predatory, checking with your library staff is a good place to start.
+Las editoriales depredadoras suelen ser editoriales con ánimo de lucro que cobran una tasa de publicación pero proporcionan pocos controles de calidad de la publicación que cabría esperar de las publicaciones académicas. A veces utilizan la ventaja del acceso abierto para atraer a los autores a publicar con ellos. Si no está seguro de si una editorial puede ser depredadora, un buen punto de partida es consultar al personal de su biblioteca.
 
-There are many red flags in these requests for predatory publishers:
+Hay muchas señales de alarma en estas solicitudes de editoriales depredadoras:
 
-- There is an urgency and request for an extremely quick turnaround. A very fast publication time might indicate a less rigorous peer-review process.
-- Written English in correspondence is often poor quality with many grammatical errors. (Though it’s important to remember that this alone does not indicate predatory behavior, as grammatical mistakes can be made for innocent reasons, such as being a non-native speaker.)
-- The journal subject is nonspecific.
-- The solicitation is inaccurate or generic.
-- The email is often unsolicited, even if they claim that they're referring to a previous paper of yours. This might start with an inaccurate or generic solicitation such as "professor".
-- They emphasize ISSN indexing and/or impact factors, although this particular journal doesn’t have one. Consider Journal Citation Indicator (JCI) in addition to Journal Impact Factor (JIF).
-- The publisher/journal sends multiple emails soliciting manuscripts, special issues, and editorial roles.
-- They have a high number of special issues, such that the majority of the papers published appear in special issues.
-- Their name resembles the name of a prestigious journal.
-- They have a high self-citation rate, such as over 20%.
-- They have a very high acceptance rate of submitted papers.
-- They send frequent requests to submit/serve as editor.
+- Hay urgencia y se pide un plazo de entrega extremadamente rápido. Un plazo de publicación muy rápido podría indicar un proceso de revisión por pares menos riguroso.
+- El inglés escrito de la correspondencia suele ser de mala calidad, con muchos errores gramaticales. (Aunque es importante recordar que esto por sí solo no indica un comportamiento depredador, ya que los errores gramaticales pueden cometerse por razones inocentes, como ser un hablante no nativo).
+- El tema de la revista no es específico.
+- La solicitud es imprecisa o genérica.
+- El correo electrónico a menudo no es solicitado, incluso si afirman que se están refiriendo a un documento anterior suyo. Puede empezar con una solicitud imprecisa o genérica, como "profesor".
+- Hacen hincapié en la indexación del ISSN (International Standard Serial Number en inglés. Número Internacional Normalizado de Publicaciones Seriadas) y/o en los factores de impacto, aunque esta revista en concreto no los tenga. Considera el indicador de citas de revistas (JCI por las siglas en inglés de Journal Citation Indicator) además del factor de impacto de la revista (JIF por las siglas en inglés de Journal Impact Factor).
+- La editorial/revista envía múltiples correos electrónicos solicitando manuscritos, números especiales y funciones editoriales.
+- Tienen un elevado número de ediciones especiales, de modo que la mayoría de los artículos publicados aparecen en números especiales.
+- Su nombre se parece al de una revista prestigiosa.
+- Tienen un alto índice de autocitación, superior al 20%.
+- Tienen una tasa muy alta de aceptación de los trabajos enviados.
+- Envían con frecuencia solicitudes para presentar trabajos o ejercer de editor.
 
-Below are some final thoughts on what or what not to consider when deciding where to publish. As with many considerations you will encounter in academia, sometimes deciding the best place to publish will be determined by word of mouth conversations with peers. Read more on NOAA's [guidance on predatory publishing](https://libguides.library.noaa.gov/predatorypublishing).
+A continuación encontráis algunas reflexiones finales sobre lo que debéis o no debéis tener en cuenta a la hora de decidir dónde publicar. Como ocurre con muchas de las consideraciones que se plantean en el mundo académico, a veces la decisión sobre el mejor lugar para publicar vendrá determinada por las conversaciones de boca a boca con los pares. Lee más sobre la guía de NOA sobre la publicación depredadora (https://libguides.library.noaa.gov/predatorypublishing).
 
-### Common Questions About Sharing Results
+### Preguntas frecuentes sobre la divulgación de resultados
 
-Sharing in different ways, especially without peer-review, can be intimidating. Maybe you have worried about the following questions:
+Compartir de diferentes maneras, especialmente sin revisión por pares, puede ser intimidante. Tal vez te hayan preocupado las siguientes preguntas:
 
-- **What if an open result is wrong?**<br>A tweet, post, or video is only a snapshot in time of a research result. It is understood by all working professional scientists that we are constantly learning and discovering new things. Making reproducible results will necessarily include different versions and revisions of an idea as it develops.
+- **¿Qué pasa si un resultado abierto es erróneo?**<br>Un tuit, un post o un vídeo no es más que una instantánea en el tiempo de un resultado de investigación. Quienes hacemos ciencia de manera profesional sabemos que estamos constantemente aprendiendo y descubriendo cosas nuevas. La elaboración de resultados reproducibles incluirá necesariamente diferentes versiones y revisiones de una idea a medida que se desarrolla.
 
-- **I have already published my science as an open result, so do I need to respond to community feedback forever?**<br>As long as you have done everything to make your work reproducible - you don’t need to worry. Open science can’t be carried solely by a single person. Open science communities can continue to update, refine, and develop your open science result if your work has been shared and openly licensed.<br><br>If you are able to address a question or a concern about your prior research, that’s great. It is also an ethical response to acknowledge that this is research that you are no longer actively involved with, but allow others to continue the work that you began.
+- **Ya he publicado mis resultados científicos de forma abierta, ¿tengo que responder siempre a los comentarios de la comunidad?**<br>Mientras hayas hecho todo lo posible para que tu trabajo sea reproducible, no tiene por qué preocuparse. La ciencia abierta no puede ser llevada a cabo únicamente por una persona. Las comunidades de ciencia abierta pueden seguir actualizando, perfeccionando y desarrollando sus resultados si tu trabajo ha sido compartido y con licencia abierta.<br><br>
+  Si eres capaz de responder a una pregunta o a una inquietud sobre tu investigación anterior, eso es estupendo. También es una respuesta ética reconocer que se trata de una investigación en la que usted ya no participa activamente, pero permite que otros continúen el trabajo que comenzaste.
 
-- **What if I can't do everything? Am I a bad open scientist?**<br>The short answer is no! You have only a limited amount of time. Even with collaborators, you can’t possibly do everything.<br><br><img src="../images/media/image69.png" style="width:150px;height:auto;" /> <img src="../images/media/image70.png" style="width:150px;height:auto;" />
+- **¿Y si no puedo hacerlo todo? ¿Practico mal la Ciencia Abierta?**<br>¡La respuesta corta es no! Sólo tienes una cantidad de tiempo limitada. Incluso con colaboradores no puedes hacer todo.<br><br><img src="../images/media/image69.png" style="width:150px;height:auto;" /> <img src="../images/media/image70.png" style="width:150px;height:auto;" />
 
-Sharing open results improves science - it is faster, more accessible, and more collaborative. In this lesson you have learned about all the different ways you can share open results. Think about how you might share something you are working on now!
+Compartir resultados abiertos mejora la ciencia: es más rápido, más accesible y más colaborativo. En esta lección has aprendido todas las formas de compartir resultados abiertos. ¡Piensa cómo podrías compartir algo en lo que esté trabajando ahora!
 
-## Lesson 4: Summary
+## Lección 4: Resumen
 
-In this lesson, you learned:
+En esta lección, has aprendido:
 
-- When to share open results and the different ways in which they can be shared. This includes: peer reviewed publications, conference proceedings, blog posts, videos, notebooks, and social media.
-- How to share open results including considerations around the license for the publication, routes for open access publications (Green, Gold, Diamond), and preprints as part of the publication process.
-- Considerations around sharing, including considerations around predatory publishers and common concerns around openly sharing of results.
+- Cuándo compartir resultados abiertos y las diferentes formas en que se pueden compartir. Esto incluye: publicaciones revisadas por pares, resúmenes de congresos, entradas de blog, vídeos, anotaciones y redes sociales.
+- Cómo compartir resultados abiertos, incluyendo consideraciones sobre la licencia de la publicación, rutas para publicaciones de acceso abierto (Verde, Oro, Diamante) y preimpresiones como parte del proceso de publicación.
+- Consideraciones en torno al uso compartido, incluyendo consideraciones en torno a los editores depredadores y preocupaciones comunes en torno al intercambio abierto de resultados.
 
-## Lesson 4: Knowledge Check
+## Lección 4: Evaluación
 
-Answer the following questions to test what you have learned so far.
+Responde a las siguientes preguntas para comprobar lo que has aprendido hasta ahora.
 
-_Question_
+Pregunta
 
 **01/03**
 
-Which of the following Creative Commons licenses is most commonly used for open access publications?
+¿Cuál de las siguientes licencias Creative Commons es la más utilizada para las publicaciones de acceso abierto?
 
 - CC BY-NC-SA
-- Copyright
+- Derechos de autor (Copyrights)
 - CC-BY
 - Apache 2.0
 
-_Question_
+Pregunta
 
 **02/03**
 
-Read the statement below and decide whether it's true or false.
+Lee la siguiente afirmación y decide si es verdadera o falsa.
 
-_Diamond open access is both free to publish and to read scientific articles._
+El acceso abierto de Diamante es gratuito tanto para publicar como para leer artículos científicos
 
-- True
-- False
+- Verdadero
+- Falso
 
-_Question_
+Pregunta
 
-**03/03**
+03/03
 
-Take a close look at the request for journal submission below. Does this request for journal submission seem reliable?
+Fíjate bien en la siguiente solicitud de envío a una revista. ¿Te parece fiable esta solicitud?
 
 <img src="../images/media/image74.jpeg" style="width:100%;height:auto;" />
 
-- Yes
+- Sí
 - No

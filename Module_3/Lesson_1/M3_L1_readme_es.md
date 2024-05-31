@@ -1,259 +1,258 @@
-# Lesson 1: Introduction to Open Data
+# Lección 1: Introducción a los Datos Abiertos
 
-## Navigation
+## Contenidos
 
-- [Overview](#overview)
-- [Learning Objectives](#learning-objectives)
-- [Introduction](#introduction)
-- [Definition and Considerations of Open Data](#definition-and-considerations-of-open-data)
-- [Benefits of Open Data](#benefits-of-open-data)
-- [Challenges of Open Data](#challenges-of-open-data)
-- [Applying FAIR Principles](#applying-fair-principles)
-- [Planning for Openness: Using the Use, Make, Share Framework for Open Data](#planning-for-openness-using-the-use-make-share-framework-for-open-data)
-- [Lesson 1: Summary](#lesson-1-summary)
-- [Lesson 1: Knowledge Check](#lesson-1-knowledge-check)
+- [Descripción general](#descripcióngeneral)
+- [Objetivos de aprendizaje](#objetivos-de-aprendizaje)
+- [Introducción](#introduccion)
+- [Definición y Consideraciones de Datos Abiertos](#definicion-y-consideraciones-de-datos-abiertos)
+- [Beneficios de los datos abiertos](#beneficios-de-los-datos-abiertos)
+- [Desafíos de los datos abiertos](#desafios-de-los-datos-abiertos)
+- [Aplicando los principios FAIR](#aplicando-principios-fair)
+- [Planificando la apertura: Usando el método de Usar, Hacer, Compartir para los datos abiertos](#planificando-la-apertura-usando-el-método-usar-hacer-compartir-para-los-datos-abiertos)
+- [Lección 1: Resumen](#leccion-1-resumen)
+- [Lección 1: Evaluación](#leccion-1-evaluación)
 
-## Overview
+## Descripción general
 
-This lesson defines open data, its benefits, and the practices that enable data to be open. In addition, the lesson takes a closer look at how FAIR applies to open data as well as at the criticall role of metadata. It wraps up with a brief discussion on how to plan for open data in the scientific workflow and tasks guided by the use, make, share framework.
+En esta lección se definen los datos abiertos, sus beneficios y las prácticas que permiten que los datos sean abiertos. Además, la lección profundiza en el modo en que los principios FAIR se aplican a los datos abiertos, así como en el papel crítico de los metadatos. Concluye con una breve discusión sobre cómo planificar los datos abiertos en el flujo de trabajo científico, y las tareas guiadas por el marco «usar, hacer, compartir».
 
-## Learning Objectives
+## Objetivos de Aprendizaje
 
-After completing this lesson, you should be able to:
+Después de completar esta lección, deberías poder:
 
-- Define what open data is and how the FAIR and CARE principles are used to guide open data practices
-- List the benefits of open data
-- Explain how the use, make, share framework can be used to modify the scientific plan for open data
+- Definir qué son los datos abiertos y cómo los principios FAIR y CARE se utilizan para guiar las prácticas de datos abiertos
+- Enumerar los beneficios de los datos abiertos
+- Explicar cómo el marco de «usar, hacer y compartir» puede ser utilizado para modificar el plan científico para datos abiertos
 
-## Introduction
+## Introducción
 
-Data drives science forward. Data are stored electronically to enable further analysis and research. Digital technologies integrated into every aspect of modern scientific research has led to the production of large amounts of data.
+Los datos hacen avanzar a la ciencia. Estos se almacenan electrónicamente para permitir su posterior análisis e investigación. Las tecnologías digitales integradas en cada aspecto de la investigación científica moderna han llevado a la producción de grandes cantidades de datos.
 
-Open data is an essential pillar of open science. In many ways, open data are a natural expansion of open science beyond scholarly publications to include digital research outputs. It has since become an integral part of the open science movement as open data allows anyone to see, use, and verify published results. Open data makes science more accessible, inclusive, and reproducible. In order to support this, data needs to be made available in formats that others can use, include metadata that describes the data, and provided with helpful documentation. When made available, open data enables new discoveries and unforeseen uses.
+Los datos abiertos son un pilar esencial de la ciencia abierta. En muchos sentidos, los datos abiertos son una expansión natural de la ciencia abierta más allá de las publicaciones académicas, para incluir los resultados digitales de la investigación. Así se han convertido en una parte integral del movimiento de la ciencia abierta ya que los datos abiertos permiten que todas las personas vean, usen y verifiquen resultados publicados. Los datos abiertos hacen que la ciencia sea más accesible, inclusiva y reproducible. Para que esto funcione, es necesario que los datos se disponibilicen en formatos que otras personas puedan usar, incluir metadatos que describan a los datos y contar con documentación útil. Una vez disponibles, los datos abiertos facilitan nuevos descubrimientos y usos.
 
-### Example: How Will Humans Live on the Moon or Travel to Mars When the Space Environment Threatens Human Health in Multiple Ways?
+### Ejemplo: ¿Cómo vivirán los humanos en la Luna o viajarán a Marte si el entorno espacial amenaza la salud humana de múltiples maneras?
 
-Bone loss, vertigo, anemia, muscle atrophy, increased risk for cancer - these are just some of the human side effects of space travel. To study these human health risks of space travel, scientists around the world use NASA's open-source GeneLab platform. GeneLab aggregates large volumes of space biology data on human and model organism samples exposed to spaceflight conditions. Their digital and physical repositories include cell info as well as DNA, RNA, and proteins. As an open-source platform, GeneLab data are publicly accessible at no cost.
+Pérdida de tejido óseo, vértigo, anemia, atrofia muscular, mayor riesgo de cáncer - estos son solo algunos de los efectos secundarios de viajar al espacio para los humanos. Para estudiar estos riesgos de viajar al espacio para la salud humana, las personas que investigan de todo el mundo usan la plataforma GeneLab de código abierto de la NASA. GeneLab recopila grandes cantidades de datos de biología espacial sobre muestras humanas y de organismos modelo expuestos a condiciones de viajes espaciales. Sus respositorios digitales y físicos incluyen información celular, sobre ADN, ARN y proteínas. Al ser una plataforma abierta, los datos de GeneLab son públicamente accesibles y sin ningún costo.
 
 <img src="../images/media/image2.jpeg" style="width:100%;height:auto;" />
 
-**Example:** Using astronaut biological data from GeneLab, [scientists recently found](https://www.nature.com/articles/s41576-020-00322-8) what may be the culprit behind many of the side effects from travel to space: mitochondrial stress.
+**Ejemplo:** Usando datos biológicos de astronautas de GeneLab, [la comunidad científica recientemente encontró](https://www.nature.com/articles/s41576-020-00322-8) cuál puede ser el motivo de muchos de los efectos secundarios del viaje al espacio: el estrés mitocondrial.
 
-[Watch Video](https://www.youtube.com/watch?v=c9moR-KQpDQ\&embeds_referring_euri=https%3A%2F%2Fopenscience101.org%2F\&feature=emb_imp_woyt)
+[Mira el Video](https://www.youtube.com/watch?v=BPVSErzNtME\&embeds_referring_euri=https%3A%2F%2Fopenscience101.org%2F\&feature=emb_imp_woyt)
 
-Mitochondria are components within our cells that affect respiratory and energy function. This discovery could be crucial to overcoming human health- related problems in space. Understanding the source of this issue could help scientists develop countermeasures and therapies to keep people healthy in space for longer periods of time.
+Las mitocondrias son componentes de nuestras células que afectan a la función respiratoria y energética. Este descubrimiento podría ser crucial para superar los problemas relacionados a la salud humana en el espacio. Comprender el origen de este problema podría ayudar a la comunidad científica a desarrollar soluciones y terapias para mantener a las personas sanas en el espacio durante periodos de tiempo más largos.
 
-## Definition and Considerations of Open Data
+## Definiciones y consideraciones de los datos abiertos
 
-### What is Data?
+### ¿Qué son los datos?
 
 <img src="../images/media/image3.jpeg" style="width:350px;height:auto;" />
 
-The Turing Way Community. This illustration is created by Scriberia with The Turing Way community, used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807
+La Comunidad _The Turing Way_. Esta ilustración fue creada por Scriberia junto con la comunidad de _The Turing Way_, utilizada bajo una licencia CC-BY 4.0. DOI: 10.5281/zenodo.3332807
 
 ---
 
-Data are any type of information that is collected, observed, or created in the context of research. Today, data are increasingly stored electronically in a digital format.
+Los datos son cualquier tipo de información que se recolecte, observe o cree en el contexto de una investigación. Hoy en día, los datos se almacenan cada vez más en formato digital.
 
-Data includes:
+Los datos incluyen:
 
-**Primary (raw) data** – Primary data refers to data that are directly collected or created by researchers. Research questions guide the collection of the data. Typically, a researcher will formulate a question, develop a methodology and start collecting the data. Some examples of primary data include:
+**Datos primarios (crudos)** – Los datos primarios son los recolectados o creados directamente por las personas que investigan. Las preguntas de investigación guían la recopilación de los datos. Por lo general, una persona que investiga formulará una pregunta, desarrollará una metodología y comenzará a recopilar los datos. Algunos ejemplos de datos primarios incluyen:
 
-- Responses to interviews, questionnaires, and surveys.
-- Data acquired from recorded measurements, including remote sensing data.
-- Data acquired from physical samples and specimens form the base of many studies.
-- Data generated from models and simulations.
+- Respuestas a entrevistas, cuestionarios y encuestas.
+- Datos adquiridos a partir de mediciones registradas, incluyendo datos de teledetección.
+- Los datos obtenidos a partir de muestras físicas y especímenes constituyen la base de muchos estudios.
+- Los datos generados a partir de modelos y simulaciones.
 
-**Secondary & Processed data** – Secondary data typically refers to data that is used by someone different than who collected or generated the data. Often, this may include data that has been processed from its raw state to be more readily usable by others.
+**Datos secundarios y procesados** - Los datos secundarios son los que utiliza una persona distinta de la que los recopiló o generó. A menudo, esto puede incluir datos que han sido procesados a partir de su estado bruto para ser más fácilmente utilizables por otras personas.
 
-**Published data** – Published data are the data shared to address a particular scientific study and/or for general use. While published data can overlap with primary and secondary data types, we have "published data" as its own category to emphasize that such datasets are ideally well-documented and easy to use.
+**Datos Publicados** – Los datos publicados son aquellos compartidos para abordar un estudio científico en particular y/o para uso general. Mientras que los datos publicados pueden coincidir con datos primarios y secundarios, nombramos a los "datos publicados" como su propia categoría para enfatizar que estos conjuntos de datos están idealmente bien documentados y son fáciles de usar.
 
-**Metadata** – Metadata are a special type of data that describe other data or objects (e.g. samples). They are often used to provide a standard set of information about a dataset to enable easy use and interpretation of the data.
+**Metadatos** – los metadatos son un tipo especial de datos que describen otros datos u objetos (por ejemplo, muestras). Normalmente se utilizan para proporcionar información estándar sobre un conjunto de datos con el fin de facilitar su uso e interpretación.
 
-The term open data are defined in the open data handbook from the Open Knowledge Foundation:
+El término datos abiertos se define en el manual de datos abierto de la Open Knowledge Foundation:
 
 <img style="width:100%;height:auto;" src="../images/media/opendatahandbookquote.jpg">
 
-"Open data are data that can be freely used, reused and redistributed by anyone – subject only, at most, to the requirement to attribute and share alike."
+"Los datos abiertos son datos que pueden ser libremente utilizados, reutilizados y redistribuidos por cualquiera, sujetos únicamente, como mucho, al requisito de atribuir y compartir de la misma manera."
 
-**Open Data Handbook from the Open Knowledge Foundation**
-
----
-
-When talking about data in the context of this module, we focus on the data that you are preparing to share, such as data affiliated with a scientific publication, regardless of what type that is. While you could share (and many do) laboratory notebooks, preliminary analyses, intermediate data products, drafts of scientific papers, plans for future research and similar items, these aren't usually required by funding agencies or institutions and thus won’t be in focus for this module.
-
-To quote from a [published paper about data reuse](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9542848/), researchers are mostly looking for data which is "comprehensive, easy to obtain, easy to manipulate, and believable." For these criteria to be fulfilled, the data should:
-
-- Be sufficiently described with appropriate metadata, which greatly affects open data reusability. There is no one size fits all for metadata as its collection is guided by your data.
-- Have the appropriate license, copyright, and citation information.
-- Have appropriate access information.
-- Be findable in an accredited or trustworthy resource.
-- Be accompanied with history of changes and versioning.
-- Include details of all processing steps.
-
-Not all data may be shared or shared with all this information. There are different reasons why it might not be possible. However, the more information shared about data helps increase the reliability and reusability of the information.
-
-## Beneﬁts of Open Data
-
-Data underpins almost all of science. Openly sharing data with others enables reproducibility, transparency, validation, reuse, and collaborations. Data plays a significant role in our day-to-day lives. Open data, in particular, plays a key role. Open data are only common in our society and you have likely already benefited from this form in some way. The impacts of open data include facilitating:
+**Manual de Datos Abiertos de la Open Knowledge Foundation**
 
 ---
 
-**Greater Good** – Data plays a significant role in our day-to-day lives. Open data, in particular, has played a key role. If you pause and think about it, you may realize that open data are not only common in our society, but you might have benefited from and used open data yourself.
+Cuando hablamos de datos en el contexto de este módulo, nos enfocamos en los datos que estás preparando para compartir, como datos asociados a una publicación específica, sin importar de qué tipo de datos se trate. Si bien podrías compartir (y muchas personas lo hacen) libretas de laboratorio, análisis preliminares, productos de datos intermedios, borradores de publicaciones científicas, planes para investigaciones futuras y otras cosas similares, estos normalmente no son requeridos por agencias o instituciones financiadoras y por lo tanto no serán el foco de este módulo.
 
-Each country or territory often provides open access to a variety of socioeconomic information about the population, community, and business in its jurisdiction. These data are often called census survey data which may include the aggregated statistics of gender, race, ethnicity, education, income, and health data of a community. These data are often used to understand the composition of a local neighborhood and are critical to inform decisions on resource allocation to ensure the quality of life for the community.
+Para citar un [artículo publicado sobre la reutilización de datos](https://www.ncbi.nlm.nih. ov/pmc/articles/PMC9542848/), las personas que investigan buscan principalmente datos que sean "fáciles de comprender, de obtener, de manipular y creíbles." Para que se cumplan estos criterios, los datos deberían:
 
-#### Example: Open Data Helps Provide Life-Saving Information in the Face of Climate Change
+- Estar lo suficientemente descritos con metadatos apropiados, que afectan en gran medida la reusabilidad de los datos. No hay una estructura única para los metadatos ya que su recopilación estará guiada por tus datos.
+- Tener la licencia, los derechos de autor y la información de citación apropiada.
+- Tener información de acceso apropiada.
+- Ser encontrables en un recurso acreditado o confiable.
+- Estar acompañados con una historia de cambios y versionado.
+- Incluir detalles de todos los pasos de procesamiento.
 
-The changing climate poses a significant risk to our daily lives and has been responsible for intensifying drought, increasing flooding and devastating fire incidents worldwide. Open data are therefore critical in providing life-saving information to adapt to the changing climate and help assess the climate risks where we live. Government agencies have been providing public access to long-term weather and climate information for decades (e.g., National Oceanic Atmospheric Administration in the U.S., UK Met Office, European Centre for Medium-Range Weather Forecasts). A more recent initiative stems from organizations developing value-added open-data products to advise society on the risk of a changing climate. One recent example is the flood and fire risk in the United States developed by a non-profit organization [First Street Foundation.](https://firststreet.org/)
+No todos los datos pueden ser compartidos o ser compartidos con toda esta información. Hay distintas razones por las que esto puede no ser posible. Sin embargo, una gran cantidad información compartida sobre los datos ayudará a aumentar la confiabilidad y reusabilidad de la información.
 
-**Policy Change**
+## Beneficios de los Datos Abiertos
 
-#### Example: Predicting Climate Change Effects in Arctic Communities
-
-Open data can lead to policy change that directly impacts the lives of communities, such as those destined to suffer first from the slow changes to the Arctic. A [study](https://www.nature.com/articles/s41467-018-07557-4) in Nature employed [OpenStreetMap](https://www.openstreetmap.org/about) data to help produce maps of projected environmental changes in the Arctic. These maps helped emphasize the need for adaptation-based policies at community and regional levels to avoid stagnation of change in the light of a sudden and dramatically worsening situation fueled by climate change.
-
-**Global Emergency Response**
-
-#### Example: COVID-19
-
-The COVID-19 pandemic demonstrated to the world, in real-time, how the collective movement of researchers sharing their data (such as sharing of
-coronavirus genome data) can lead to an unprecedented number of discoveries in a relatively short amount of time. This directly impacted radical vaccine development efforts and the timely control of the COVID-19 infection. These insights will continue to pay off, with this research spurring future developments.
-
-Data sharing has many benefits and can aid access to knowledge. However, it is important to consider where the data has come from, who should have a say in its interpretation and use, and how the data can be shared responsibly.
-
-**Citizen Science**
-
-#### Example: Water Quality Testing in Beirut
-
-A citizen scientist is a citizen or amateur scientist who collaborates with professional researchers to help gather or interpret data on a broader spatial and temporal scale than the researchers might be able to achieve on their own. This outsourcing of responsibility helps members of the public engage in scientific pursuits that ultimately benefit them and allow research to be conducted on a grander scale than that might be possible with only professional researchers. Citizen science is gaining popularity and recognition as a valuable contribution to scientific advancements.
-
-For example, volunteer citizen scientists in Beirut were recruited from 50 villages to help test water quality [cite: chapter 5 of Contextualizing
-Openness: Situating Open Science]. These volunteers were trained to be able to conduct the tests and in turn, not only was the data collected to inform the scientific advancements, the citizen scientists had the opportunity to learn to better manage their water resources and were able to improve conditions, creating a mutually beneficial interaction.
-
-**Open Data and Equitable Sharing of Knowledge**
-
-Free distribution of knowledge increases participation in science. Open data are central to fostering science that is inclusive and diverse, with direct and relevant benefits to impacted individuals and communities. This integration with communities is particularly important in the mission towards the equitable sharing of knowledge.
-
-In a research ecosystem where knowledge is a commodity, with the main currency in the form of published papers and hoarded datasets, exclusion from research can limit scientific progress and negatively impact community outcomes. Those excluded from traditional science resources are often from low and lower middle income countries. Opening our data in an inclusive and easily reusable way is one step toward purposeful inclusion of underrepresented groups in science.
-
-#### Example: Recognition and Compensation for the Work of African Ebola Researchers
-
-During the West African Ebola outbreak from 2014-2016, West African researchers actively worked to collect blood sample data to better understand the Ebola virus and to help put a stop to the rapid spread of the virus. However, most of the blood samples were sent overseas to the US and Europe, where researchers used those data samples to author papers about Ebola. According to the paper ["Science under fire: Ebola researchers fight to test drugs and vaccines in a war zone",](https://www.nature.com/articles/d41586-019-02258-4) "This frustrated researchers in the countries ravaged by the virus, who had hoped that studying aspects of the epidemic would strengthen their ability to respond to future infectious- disease outbreaks."
-
-By fostering a global research culture of transparency and validation, where the work of underrepresented groups is celebrated and compensated, we will create a sustainable model that ensures under-represented communities (such as women, under-represented communities, indigenous scholars, non- Anglophone scholars) a voice in how the global and nuanced narrative of science is developed.
+Los datos sustentan casi toda la ciencia. Compartir abiertamente los datos con otras personas facilita la reproducibilidad, transparencia, validación, reutilización y colaboraciones. Los datos juegan un rol muy importante en nuestro día a día. Los datos abiertos, en particular, juegan un rol clave. Los datos abiertos son comunes en nuestra sociedad y probablemente ya te hayas beneficiado de ellos en algún momento. Los impactos de la ciencia abierta incluyen facilitar:
 
 ---
 
-Open data that are purposefully inclusive and open to scrutiny, benefit scientific innovation by allowing for a more diverse and robust scientific process that draws from multiple perspectives. This openness also allows for the early identification of mistaken insights as well as early intervention for unforeseen harms to impacted communities.
+**Un Bien Mayor** - Los datos juegan un rol muy importante en nuestra vida cotidiana. Los datos abiertos, en particular, juegan un rol clave. Si hace una pausa y piensa en ello, puede darse cuenta de que los datos abiertos no solo son comunes en nuestra sociedad, sino que usted mismo podría haberse beneficiado y utilizado los datos abiertos.
 
-Open data allows non-traditional researchers to contribute to scientific development and bring their unique insights to the table. With these benefits in mind, we should always bear in mind that Open Data requires careful consideration of its potential downsides that results from failure to provide due credit and consultation with potentially vulnerable and/or marginalized communities. The next lesson “Using Open Data” discusses important considerations for the responsible management, collection, and use of open data by all stakeholders.
+Cada país o territorio a menudo proporciona acceso abierto a una variedad de información socioeconómica sobre la población, la comunidad y los negocios en su jurisdicción. Estos datos a menudo se llaman datos de encuestas censales y pueden incluir estadísticas agregadas de género, raza, etnicidad, educación, ingresos y datos de salud de una comunidad. Estos datos se utilizan a menudo para entender la composición de un vecindario local y son críticos para las decisiones informadas sobre la asignación de recursos para asegurar la calidad de vida de la comunidad.
 
-### Beneﬁts to You
+#### Ejemplo: los datos abiertos ayudan a proporcionar información que salva vidas frente al cambio climático
 
-Open data also benefits your research and career. For starters, you are your own future collaborator!
+El cambio climático plantea un riesgo importante para nuestra vida diaria y ha sido responsable de la intensificación de las sequías, el aumento de las inundaciones y los devastadores incendios en todo el mundo. Por lo tanto, los datos abiertos son fundamentales para proporcionar información que salve vidas para adaptarse al cambio climático y ayudar a evaluar los riesgos climáticos donde vivimos. Las agencias gubernamentales han estado proporcionando acceso público a información meteorológica y climática a largo plazo durante décadas (p.ej. National Oceanic Atmospheric Administration in the U.S., UK Met Office, European Centre for Medium-Range Weather Forecasts). Las agencias gubernamentales han estado proporcionando acceso público a información meteorológica y climática a largo plazo durante décadas. Por ejemplo, la Administración Nacional Oceánica y Atmosférica (National Oceanic and Atmospheric Administration, NOAA) en los Estados Unidos, la Oficina Meteorológica del Reino Unido (Met Office) y el Centro Europeo para Predicciones Meteorológicas a Plazo Medio (ECMWF). Un ejemplo reciente es el riesgo de inundación e incendio en los Estados Unidos desarrollado por una organización sin fines de lucro [First Street Foundation.](https://firststreet.org/)
 
-Doing open science not only lets other people understand and reproduce your results, but lets you do so as well! Implementing open science principles like good documentation and version control helps you, potential collaborators, and everyone else to understand your results. In 2 hours, 2 weeks, or 2 years, you will still be able to understand what you did.
+**Cambio de Política**
 
-Specific benefits of opening data for you as an individual:
+#### Ejemplo: Predicción de los efectos del cambio climático en las comunidades árticas
 
-- You will never lose access to your previous work, no matter what institute you are affiliated with. Many researchers move around institutions and organizations and by having your data publicly accessible in repositories, you will always have access to them.
-- Your data can be cited and you will get credit.
-- Publications that include links to data are cited more, according to a 2020 [study.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230416)
+Los datos abiertos pueden llevar al cambio de políticas que impacten directamente en las vidas de las comunidades, como aquellas destinadas a sufrir primero los lentos cambios en el Ártico. Un estudio (https://www.nature.com/articles/s41467-018-07557-4) publicado en Nature empleó [OpenStreetMap](https://www.openstreetmap.org/about) datos para ayudar a producir mapas de los cambios ambientales proyectados en el Ártico. Estos mapas ayudaron a enfatizar la necesidad de políticas basadas en la adaptación a nivel comunitario y regional para evitar el estancamiento del cambio a la luz de una situación que empeora repentina y dramáticamente impulsada por el cambio climático.
 
-Implementing best practices for open science can strengthen your funding proposals. Funding agencies are realizing that openly sharing research provides more return on their investment. Well-documented research products also demonstrate the quality of your work, which helps with public communication and can also attract quality collaborators. Everybody prefers to work with people who are reliable and do a good job.
+**Respuesta global de emergencia**
 
-### Activity 1.1 Open Data Review
+#### Ejemplo: COVID-19
 
-Take a moment to reflect on what data sharing means to you.
+La pandemia COVID-19 demostró al mundo, en tiempo real, cómo el movimiento colectivo de las personas que investigan compartiendo sus datos como el intercambio de datos del genoma del coronavirus
+(https://www.nature.com/articles/d41586-021-00305-7#:~:text=Other%20researchers%20say%20that%20restrictions,while%20protecting%20data%20providers) puede conducir a una cantidad sin precedentes de descubrimientos en un período de tiempo relativamente corto. Esto afectó directamente los esfuerzos radicales de desarrollo de vacunas y al control oportuno de la infección COVID-19. Estos conocimientos seguirán dando sus frutos y esta investigación estimulará desarrollos futuros.
+
+El intercambio de datos tiene muchos beneficios y puede ayudar al acceso al conocimiento. Sin embargo, es importante considerar de dónde proceden los datos, quién debería tener voz y voto en su interpretación y uso, y cómo los datos pueden ser compartidos de forma responsable.
+
+**Ciencia Ciudadana**
+
+#### Ejemplo: Pruebas de calidad del agua en Beirut
+
+Estas personas voluntarias se formaron para realizar las pruebas. No solo se recogieron datos para informar los avances científicos, sino que quienes participaron en este proyecto de Ciencia Ciudadana tuvieron la oportunidad de aprender a gestionar mejor sus recursos hídricos y pudieron mejorar las condiciones, creando una interacción mutuamente beneficiosa. Esta subcontratación de la responsabilidad ayuda a los miembros del público a emprender actividades científicas que les beneficien en última instancia y permiten la investigación a gran escala, lo que podría únicamente llevarse a cabo con profesionales de la investigación. La ciencia ciudadana está ganando popularidad y reconocimiento como una contribución valiosa a los avances científicos.
+
+Por ejemplo, personas voluntarias científicas ciudadanas de Beirut fueron reclutados de 50 aldeas para ayudar a probar la calidad del agua[cito: capítulo 5 de [Contextualizar
+Abierta: Situación de Open Science](https://idrc-crdi. /es/libro/contextualizing-openness-situating-open-science)]. Estas personas voluntarias fueron formadas para poder llevar a cabo las pruebas y, a su vez, no sólo los datos fueron recogidos para informar de los avances científicos, sino que las personas científicas ciudadanas tuvieron la oportunidad de aprender a gestionar mejor sus recursos hídricos y pudieron mejorar las condiciones, creando una interacción mutuamente beneficiosa.
+
+**Datos abiertos e intercambio equitativo de conocimientos**
+
+La libre distribución del conocimiento aumenta la participación en la ciencia. Los datos abiertos son fundamentales para fomentar la ciencia que es inclusiva y diversa, con beneficios directos y relevantes para las personas y las comunidades afectadas. Esta integración con las comunidades es particularmente importante en la misión de compartir el conocimiento de manera equitativa.
+
+En un ecosistema de investigación donde el conocimiento es una mercancía, cuya principal moneda son los artículos publicados y conjuntos de datos acaparados, la exclusión de la investigación puede limitar el progreso científico y afectar negativamente los resultados de la comunidad. Las personas excluidas de los recursos científicos tradicionales suelen pertenecer a países de ingresos medios bajos y bajos. Abrir nuestros datos de una manera inclusiva y fácilmente reutilizable es un paso hacia la inclusión intencionada de grupos subrepresentados en la ciencia.
+
+#### Ejemplo: reconocimiento y compensación por el trabajo del equipo investigador africano del ébola
+
+Durante el brote de ébola en África Occidental entre 2014 y 2016, el equipo de investigación de África Occidental trabajó activamente para recolectar datos de muestras de sangre con el fin de comprender mejor el virus del ébola y ayudar a detener la rápida propagación del virus. Sin embargo, la mayoría de las muestras de sangre se enviaron al extranjero, a EE. UU. y Europa, donde los investigadores utilizaron esas muestras de datos para escribir artículos sobre el ébola. Según el artículo ["Ciencia bajo fuego: el equipo investigador del ébola lucha por probar drogas y vacunas en una zona de guerra",](https://www.nature.com/artículos/d41586-019-02258-4) "Esto frustró a las personas que investigan de los países devastados por el virus, que esperaban que el estudio de aspectos de la epidemia fortaleciera su capacidad para responder a futuros brotes de enfermedades infecciosas"
+
+Al fomentar una cultura de investigación global de transparencia y validación, donde el trabajo de los grupos subrepresentados sea celebrado y compensado, crearemos un modelo sostenible que garantice que las comunidades subrepresentadas (como las mujeres, las comunidades subrepresentadas, las eruditas indígenas, las eruditas no anglófonas) una voz sobre cómo se desarrolla la narrativa global y matizada de la ciencia.
+
+---
+
+Los datos abiertos que son deliberadamente inclusivos y abiertos al escrutinio benefician la innovación científica al permitir un proceso científico más diverso y sólido que se basa en múltiples perspectivas. Esta apertura también permite la identificación temprana de las ideas erróneas así como la intervención temprana para daños imprevistos a las comunidades afectadas.
+
+Los datos abiertos permiten a los equipos de investigacón no tradicionales a contribuir al desarrollo científico y poner sus ideas únicas sobre la mesa. Con estos beneficios en mente, siempre debemos tener presente que los Datos Abiertos requieren una cuidadosa consideración de sus posibles desventajas que resultan de no brindar el debido crédito y consulta a comunidades potencialmente vulnerables y/o marginadas. La siguiente lección “Uso de datos abiertos” analiza consideraciones importantes para la gestión responsable, recopilación y uso de datos abiertos por parte de todas las partes interesadas.
+
+### Beneficios para ti
+
+Los datos abiertos también benefician a tu investigación y tu carrera. Para empezar, ¡eres tu propio futuro colaborador!
+
+Hacer ciencia abierta no sólo permite que otras personas entiendan y reproduzcan tus resultados, ¡sino que también te permite hacerlo! Implementar principios de ciencia abierta como la buena documentación y el control de versiones le ayudan, a potenciales colaboradores y al resto de las personas a entender sus resultados. En 2 horas, 2 semanas, o 2 años, todavía podrá entender lo que hizo.
+
+Beneficios específicos que tendrás si tus datos son abiertos:
+
+- Nunca perderás el acceso a tu trabajo anterior, sin importar el instituto al que estés afiliado. Muchos investigadores se mueven por instituciones y organizaciones y, al tener sus datos accesibles públicamente en repositorios, siempre tendrá acceso a ellos.
+- Cuando tus datos sean citados obtendrás el crédito correspondiente.
+- Las publicaciones que incluyen enlaces a datos se citan más, según un [estudio](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230416) de 2020
+
+La implementación de buenas prácticas para la ciencia abierta puede fortalecer tus propuestas de financiación. Las agencias de financiación se están dando cuenta de que compartir abiertamente la investigación proporciona un mayor retorno de su inversión. Los productos de investigación bien documentados también demuestran la calidad de tu trabajo, lo que ayuda con la comunicación pública y también puede atraer colaboradores de calidad. Todo el mundo prefiere trabajar con personas confiables y que hagan un buen trabajo.
+
+### Actividad 1.1 Revisión de Datos Abiertos
+
+Tómate un momento para reflexionar sobre lo que significa para tí compartir datos.
 
 <img style="width:100%;height:auto;" src="../images/media/image6.jpeg">
 
-Image source: CC-by [openaire](https://www.openaire.eu/blogs/open-research-data-the-fairest-data-is-the-future-of-science-estonia-national-openaire-event-1)
+Fuente de la imagen: CC-by [openaire](https://www.openaire.eu/blogs/open-research-data-the-fairest-data-is-the-future-of-science-estonia-national-openaire-event-1)
 
 ---
 
-The word cloud showcases the variety of meanings and interpretations that people have about open data. How many terms in the word cloud do you
-recognize? Are any of them new to you?
+La nube de palabras muestra la variedad de significados e interpretaciones que tiene la gente sobre los datos abiertos. ¿Cuántos términos de la nube de palabras reconoces? ¿Alguno de ellos es nuevo para ti?
 
-## Challenges of Open Data
+## Desafíos de los Datos Abiertos
 
-While open data has many benefits, there can also be challenges to its creation and use. Throughout this Module, we discuss many of these challenges and possible solutions. In this section, we discuss a few of the most common concerns along with actions to mitigate them.
+Si bien los datos abiertos tienen muchos beneficios, su creación y uso también pueden plantear desafíos. A lo largo de este módulo analizaremos muchos de estos desafíos y sus posibles soluciones. En esta sección, analizamos algunas de las preocupaciones más comunes junto con acciones para mitigarlas.
 
-**Example: Are There Any Harms to Open Data?**
+**Ejemplo: ¿Existen riesgos para los datos abiertos?**
 
-Open data has been demonstrated to further marginalize or exploit small- scale and community driven initiatives, such as in [the case](https://thebulletin.org/2022/05/how-a-dispute-over-sharing-coronavirus-genomes-is-threatening-a-vital-tool-for-tracking-variants/) of African researchers neither receiving due credit nor compensation for their genome sequencing during the COVID-19 pandemic. This is further explored in the next section as we introduce ways of mitigating harms that could happen via unthoughtful and irresponsible sharing of data.
+Se ha demostrado que los datos abiertos marginan o explotan aún más las iniciativas de pequeña escala impulsadas por la comunidad, como en [el caso](https://thebulletin.org/2022/05/how-a-dispute-over-sharing-coronavirus-genomes-is-threatening-a-vital-tool-for-tracking-variants/) de personas investigadoras africanas que no recibieron el debido crédito ni compensación por la secuenciación de su genoma durante la pandemia de COVID-19. Esto se explora más a fondo en la siguiente sección, en la que presentamos formas de mitigar los daños que podrían ocurrir como consecuencia del intercambio de datos irreflexivo e irresponsable.
 
-### Restrictions on Sharing Data
+### Restricciones para compartir datos
 
-Some data should only be shared very carefully or not at all. Reasons not to share can include:
+Algunos datos sólo deben compartirse con mucho cuidado o no compartirse en absoluto. Las razones para no compartir pueden incluir:
 
-- Data includes a country’s military secrets or violations of national interests.
-- Data includes private medical information or an individual’s personally identifiable data.
-- Indigenous/cultural/conservation concerns.
-- Data includes intellectual property.
+- Los datos incluyen secretos militares de un país o violaciones de los intereses nacionales.
+- Los datos incluyen información médica privada o datos de identificación personal de un individuo.
+- Asuntos indígenas/culturales/de conservación.
+- Los datos incluyen propiedad intelectual.
 
-It is important to be familiar with the policies around sharing of your data and policies from your funding agency, institution, or laws around data protection. These are further discussed in later modules.
+Es importante estar familiarizado con las políticas que rigen el intercambio de datos y las políticas de tu agencia de financiación, institución o legislación en materia de protección de datos. Esto se analiza con más detalle en módulos posteriores.
 
-### Common Fears Around Sharing Open Data
+### Temores comunes a la hora de compartir datos
 
-#### <img style="width:20px;height:auto;" src="../images/media/image7.png"> NOTE: We will discuss many of the concepts mentioned in the discussion/mitigation column later in this module.
+#### <img style="width:20px;height:auto;" src="../images/media/image7.png"> NOTA: Analizaremos muchos de los conceptos que se mencionan en la columna de discusión/mitigación más adelante en este módulo.
 
-|                                                                                                                       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Fear: Scooping: What if someone re-uses my data to publish a result I was working on? | Yes, this can happen. But, in many fields, if it is clear that someone is actively working on a problem, the decision by another to scoop may have a short term gain but long-term loss. In science, reputations are very important and being collaborative generally leads to increased career successes. If you are sharing your data, ensure it has a digital object identifier (DOI). This does not prevent someone from using your data without attribution, but it helps make it easy for others to cite your data. There is a nice article about this [here](https://datascience.codata.org/articles/10.5334/dsj-2017-029). |
-| Fear: Misinterpretation or Misuse                                                                     | Provide sufficient contextual information (documentation) to allow others to understand your data fully to reduce this risk.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| Fear: My data will be used but not cited                                                              | While it is not common for researchers to cite data, science ethics dictates that you should be cited if your work is used. And remember to cite others' data, so you’re not adding to the problem!                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| Fear: Data are too sensitive to share                                                                 | Use controlled access to help maintain sensitivity and security.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| Fear: My data won't be useful to anyone else                                                          | You never know how materials might be used! [Sailors in the 1800s collected temperature data](https://www.npr.org/templates/story/story.php?storyId=113916471) that is an important part of our ocean climate record today!                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Miedo: Apropiación: ¿Qué pasa si alguien reutiliza mis datos para publicar un resultado en el que yo estaba trabajando? | Sí, esto puede suceder. Pero en muchos ámbitos, si está claro que alguien está trabajando activamente en un problema, la decisión de otro de sacar provecho puede tener una ganancia a corto plazo pero una pérdida a largo plazo. En ciencia, la reputación es muy importante y la colaboración generalmente conduce a mayores éxitos profesionales. Si compartes tus datos, asegúrate de que tengan un identificador de objeto digital (DOI). Esto no impide que alguien use tus datos sin atribución, pero ayuda a que otros puedan citar tus datos más fácilmente. Hay un buen artículo sobre esto [aquí](https://datascience.codata.org/articles/10.5334/dsj-2017-029). |
+| Miedo: Mala Interpretación o Mal Uso                                                                                                    | Para reducir este riesgo, puedes proporcionar suficiente información contextual (documentación) que permita a los demás comprender plenamente tus datos.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Miedo: Mis datos serán utilizados pero no citados                                                                                       | Si bien no es común que las personas en investigación citen datos, la ética científica dicta que se debe citar si se utiliza tu trabajo. ¡Y recuerda citar los datos de los demás para no contribuir al problema!                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Miedo: los datos son demasiado sensibles para compartirlos                                                                              | Puedes utilizar el acceso controlado para ayudar a mantener la confidencialidad y la seguridad.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Miedo: Mis datos no serán útiles para nadie más                                                                                         | ¡Nunca se sabe cómo se pueden utilizar los materiales! [¡Los marineros del siglo XIX recogieron datos de temperatura](https://www.npr.org/templates/story/story.php?storyId=113916471) que hoy son una parte importante de nuestro registro climático oceánico!                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 
-These are all valid concerns when sharing data openly, but as indicated by the global move towards open science, the overall benefits outweigh the concerns.
+Todas estas son preocupaciones válidas cuando se comparten datos abiertamente, pero como lo muestra el movimiento global hacia la ciencia abierta, los beneficios generales superan las preocupaciones.
 
-Ultimately, you are free to deploy the open data principles and resources in your research to maximize its impact and meet the expectations of your sponsors and community while managing costs.
+En última instancia, eres libre de implementar los principios y recursos de los datos abiertos en tu investigación para maximizar su impacto y cumplir con las expectativas de quienes patrocinan y de la comunidad, mientras reduces los costos.
 
-## Applying FAIR Principles
+## Aplicación de los Principios FAIR
 
 <img src="../images/media/image9.png" style="width:100%;height:auto;" />
 
-Image by Patrick Hochstenbach, CC0 1.0; image illustrates the each FAIR principle
+Imagen de Patrick Hochstenbach, CC0 1.0; La imagen ilustra cada principio FAIR.
 
 ---
 
-### FAIR: Findable, Accessible, Interoperable, Reusable
+### FAIR: Fácil de encontrar, Accesible, Interoperable, Reutilizable
 
-The vast majority of data today is shared online. FAIR principles help researchers make better use of, and engage with a broader audience with, their scientific data than outdated techniques would allow. FAIR data are more valuable for science because they are easier to use. Data can be FAIR regardless of whether it is openly shared or not. If data are openly shared, being FAIR helps with reuse and expands the scientific impact of the data.
+La gran mayoría de los datos actuales se comparten en línea. Los principios FAIR ayudan a las personas investigadoras a hacer un mejor uso de sus datos científicos y a interactuar con una audiencia más amplia de lo que permitirían las técnicas obsoletas. Los datos FAIR son más valiosos para la ciencia porque son más fáciles de usar. Los datos pueden ser FAIR independientemente de si se comparten abiertamente o no. Si los datos se comparten abiertamente, ser FAIR ayuda con la reutilización y amplía el impacto científico de los datos.
 
-FAIR principles don’t encompass comprehensive implementation instructions for every type of data, but offer general insights to improve shareability and reusability. Sometimes it takes a group effort and/or a long production process to make data and results FAIR. The process starts in the planning stage of a research project. A well-coordinated open science and data management plan is often needed for full compliance with FAIR, depending on the size and type of project the data are used for.
+Los principios FAIR no abarcan instrucciones de aplicación exhaustivas para cada tipo de datos, pero ofrecen ideas generales para mejorar la capacidad de compartir y reutilizar. A veces se necesita un esfuerzo grupal y/o un largo proceso de producción para que los datos y los resultados sean FAIR. El proceso comienza en la etapa de planificación de un proyecto de investigación. A menudo se necesita un plan de gestión de datos y ciencia abierta bien coordinado para cumplir plenamente con FAIR, dependiendo del tamaño y el tipo de proyecto para el que se utilizan los datos.
 
-**Up-to-date information about FAIR Principles can be found at the GO FAIR Initiative website**
+**Puede encontrar información actualizada sobre los principios FAIR en el sitio web de la iniciativa GO FAIR**
 
-[CLICK TO LEARN](https://www.go-fair.org/)
+[CLICK PARA APRENDER](https://www.go-fair.org/)
 
-Let's review how to make data FAIR for your community.
+Repasemos cómo hacer que los datos sean FAIR para tu comunidad.
 
-_Select each tab to find out more information._
+_Selecciona cada pestaña para obtener más información._
 
 <table>
   <thead>
     <tr>
-        <th>FINDABLE ☑</th>
-        <th>ACCESSIBLE</th>
-        <th>INTER-OPERABLE</th>
+        <th>ENCONTRABLE ☑</th>
+        <th>ACCESIBLE</th>
+        <th>INTEROPERABLE</th>
         <th>REUSABLE</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="4">
-            <p>To ensure that data are findable by those in your community:</p>
+            <p>Para garantizar que los miembros de tu comunidad puedan encontrar los datos:</p>
             <ul>
-            <li>Deposit data in repositories to preserve the data over time.</li>
-            <li>Assign your dataset a persistent identifier (PID), such as a digital object identifier (DOI).</li>
-            <li>Add rich, self-describing metadata in your data files and register the metadata in a metadata catalog that will enable your data to be properly curated.</li>
+            <li>Deposita datos en repositorios, para preservarlos a lo largo del tiempo.</li>
+            <li>Asigna a tu conjunto de datos un identificador persistente (PID), como un identificador de objeto digital (DOI).</li>
+            <li>Agrega metadatos enriquecidos y autodescriptivos en tus archivos de datos, y registra los metadatos en un catálogo de metadatos que permitirá que estos se seleccionen adecuadamente.</li>
                 <ul>
-                <li>Note that some images or binary files cannot be readily indexed or searched and will need to have companion metadata files or dictionaries to ensure they can be discovered in a search.</li>
+                <li>Ten en cuenta que algunas imágenes o archivos binarios no se pueden indexar ni buscar fácilmente y necesitarán archivos de metadatos o diccionarios complementarios para garantizar que se puedan descubrir en una búsqueda.</li>
                 </ul>
-            <li>Automate the sharing of your metadata with targeted communities, if applicable.</li>
+            <li>Automatiza el intercambio de tus metadatos con comunidades específicas, si corresponde.</li>
             </ul>
         </td>
     </tr>
@@ -263,21 +262,21 @@ _Select each tab to find out more information._
 <table>
   <thead>
     <tr>
-        <th>FINDABLE</th>
-        <th>ACCESSIBLE ☑</th>
-        <th>INTER-OPERABLE</th>
+        <th>FÁCIL DE ENCONTRAR</th>
+        <th>ACCESIBLE ☑</th>
+        <th>INTEROPERABLE</th>
         <th>REUSABLE</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="4">
-            <p>To ensure that data can be accessed by those in your community:</p>
+            <p>Para garantizar que los miembros de tu comunidad puedan acceder a los datos:</p>
             <ul>
-                <li>Archive in a data repository/data center with standardized access protocols.</li>
-                <li>Repository access protocols should be well-defined and ideally should support machine-to-machine access.</li>
-                <li>Provide information on how users can access your data, ideally in an automated, machine-based fashion.</li>
-                <li>If the full content cannot be made openly available for any reason (data sensitivity, infrequent data access, file storage issues), the metadata can still be made openly available so that users can find out who they need to contact to request the data (if possible).</li>
+                <li>Archiva en un repositorio de datos/centro de datos con protocolos de acceso estandarizados.</li>
+                <li>Los protocolos de acceso al repositorio deben estar bien definidos e idealmente deberían admitir el acceso de máquina a máquina.</li>
+                <li>Provee información sobre cómo pueden acceder los usuarios a tus datos, idealmente de forma automatizada y computacional.</li>
+                <li>Si el contenido completo no puede estar disponible abiertamente por algún motivo (sensibilidad de los datos, acceso poco frecuente a los datos, problemas de almacenamiento de los archivos), los metadatos pueden ponerse a disposición del público para que los usuarios puedan averiguar a quién deben contactar para solicitar los datos (de ser posible).</li>
             </ul>
         </td>
     </tr>
@@ -287,20 +286,20 @@ _Select each tab to find out more information._
 <table>
   <thead>
     <tr>
-        <th>FINDABLE</th>
-        <th>ACCESSIBLE</th>
-        <th>INTER-OPERABLE ☑</th>
+        <th>FÁCIL DE ENCONTRAR</th>
+        <th>ACCESIBLE</th>
+        <th>INTEROPERABLE ☑</th>
         <th>REUSABLE</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="4">
-            <p>To ensure that data are interoperable for those in your community:</p>
+            <p>Para garantizar que los datos sean interoperables en tu comunidad:</p>
             <ul>
-                <li>Report the data in community standard format.</li>
-                <li>Use existing standardized metadata if available to minimize "lost in translation" issues and support machine-readability.</li>
-                <li>The use of controlled terminologies, vocabularies, and ontologies is necessary to support interoperability, but may not yet be available in all research fields.</li>
+                <li>Reporta los datos en formato estándar comunitario.</li>
+                <li>Utiliza metadatos estandarizados existentes, si están disponibles, para minimizar los problemas generados por mala comunicación de la informacion y para respaldar la legibilidad automática.</li>
+                <li>El uso de terminologías controladas, vocabularios y ontologías es necesario para respaldar la interoperabilidad, pero puede que aún no estén disponibles en todos los campos de investigación.</li>
             </ul>
         </td>
     </tr>
@@ -310,98 +309,98 @@ _Select each tab to find out more information._
 <table>
   <thead>
     <tr>
-        <th>FINDABLE</th>
-        <th>ACCESSIBLE</th>
-        <th>INTER-OPERABLE</th>
-        <th>REUSABLE ☑</th>
+        <th>FACIL DE ENCONTRAR</th>
+        <th>ACCESIBLE</th>
+        <th>INTEROPERABLE</th>
+        <th>REUTILIZABLE ☑</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="4">
-            <p>To ensure that data are reusable by those in your community:</p>
+            <p>Para garantizar que los datos sean reusables por los miembros de tu comunidad:</p>
             <ul>
-                <li>Ensure that metadata accurately describes the data and its variables as well as any particularities or limitations.</li>
-                <li>Specify clear usage licenses for your data.</li>
-                <li>Provide accurate information on provenance in your metadata.</li>
-                <li>Add enough metadata information so that your data can be properly cited when it is used.</li>
+                <li>Asegúrate de que los metadatos describan con precisión los datos y sus variables, así como cualquier particularidad o limitación.</li>
+                <li>Especifica licencias de uso claras para tus datos.</li>
+                <li>Proporciona información precisa sobre la procedencia en tus metadatos.</li>
+                <li>Agrega suficiente información en los metadatos para que tus datos puedan ser citados correctamente cuando se utilicen.</li>
             </ul>
         </td>
     </tr>
   </tbody>
 </table>
 
-### Metadata's Central Role in Applying FAIR
+### El papel central de los metadatos en la aplicación de los principios FAIR
 
-Metadata are important for search engines to find data and for people to be able to easily compare what is returned.
+Los metadatos son importantes para que los motores de búsqueda encuentren datos y para que las personas puedan comparar fácilmente lo que se devuelve.
 
-- Metadata are essential to the implementation of FAIR Principles and enable the data to be used by machines in an automated fashion.
-- The richer and more self-describing metadata are, the better they will be handled by anyone who is interested in your data.
+- Los metadatos son esenciales para la aplicación de los Principios FAIR y permiten que los datos sean utilizados por las máquinas de forma automatizada.
+- Cuanto más ricos y autodescriptivos sean los metadatos, mejor serán manejados por cualquiera que esté interesado en tus datos.
 
-### Licensing Data
+### Licencias de datos
 
-A license is a legal document that tells users how they can use a particular dataset. If you don’t license your dataset, others can’t/shouldn’t re-use it - even if you want them to! It is imperative to understand the licensing conditions of a dataset before data reuse. Without a good understanding of what a license allows, data users may run into copyright infringement or other intellectual property issues.
+Una licencia es un documento legal que indica a los usuarios cómo pueden utilizar un conjunto de datos en particular. Si no licencias tu trabajo, otros no podrán o no deberían reutilizarlo, ¡aunque lo quieras! Es imprescindible conocer las condiciones de licencia de un conjunto de datos antes de reutilizarlos. Sin una buena comprensión de lo que permite una licencia, los usuarios de los datos pueden enfrentarse a problemas de infracción de derechos de autor u otros problemas de propiedad intelectual.
 
-To ensure open reuse of your data, you can use an open license. An open license has language that describes the user’s ability to access, reuse and redistribute the dataset. There are many types of data licenses that are open to varying degrees, and these will be discussed further in the lesson "Making Open Data".
+Para asegurar la reutilización libre de tus datos, puedes recurrir a una licencia abierta. Una licencia abierta contiene un lenguaje que describe la capacidad del usuario para acceder, reusar y redistribuir el conjunto de datos. Hay muchos tipos de licencias de datos que tienen distintos grados de apertura, y que se tratarán con más detalle en la lección "Creación de datos abiertos".
 
-## Planning for Openness: Using the Use, Make, Share Framework for Open Data
+## Planificar la apertura: Utilización del marco "Usar, hacer, compartir" para código abierto
 
-### Open Science and Data Management Plans
+### Planificar proyectos de ciencia abierta y gestión de datos
 
-Most scientific funding agencies and organizations ask for a plan for sharing your research when you propose a project. One example of an open science plan is the Open Science and Data Management Plan ([OSDMP](https://science.nasa.gov/researchers/sara/faqs/osdmp)) for NASA's Science Mission Directorate (SMD) that describes how the scientific information that will be produced from scientific activities will be managed and made openly available. The OSDMP includes sections on data management, software management, and publication sharing; the latter two will be discussed in future modules. If your study has other types of outputs, such as physical samples, hardware, or anything else, you should include those in the plan too. More information and templates can be found [here](https://github.com/nasa/smd-open-science-guidelines/blob/main/OSS_Guidance/OSDMP.md#osdmp-templates).
+La mayoría de las agencias y organismos de financiamiento científico solicitan un plan de difusión de los resultados cuando se propone un proyecto de investigación. Un ejemplo de un plan de ciencia abierta es el Plan de Ciencia Abierta y Gestión de Datos ([OSDMP por sus siglas en inglés](https://science.nasa.gov/researchers/sara/faqs/osdmp)) de la Dirección de Misión de Ciencia de la NASA (SMD por sus siglas en inglés) que describe cómo se gestionará y pondrá a disposición del público la información producida a partir de las actividades científicas. El OSDMP incluye secciones sobre gestión de datos, gestión de software e intercambio de publicaciones; estas dos últimas se tratarán en futuros módulos. Si tu estudio tiene otros tipos de resultados, como muestras físicas, hardware o cualquier otra cosa, también debes incluirlos en el plan. Puedes encontrar más información y modelos [aquí](https://github.com/nasa/smd-open-science-guidelines/blob/main/OSS_Guidance/OSDMP.md#osdmp-templates).
 
-A best practice when beginning your open data journey is to create a Data Management Plan, or DMP which goes within the OSDMP. This describes how you will manage, preserve, and release data, during and after a research project. Common elements of DMPs relevant to open data include a description of the following:
+Una buena práctica al comenzar tu viaje con datos abiertos es crear un Plan de Gestión de Datos (PGD). En él se describe cómo se gestionarán, preservarán y publicarán los datos durante y después de un proyecto de investigación. Los elementos comunes a todos los Planes de Gestión de Datos (PGD) relevantes para datos abiertos incluyen una descripción teniendo en cuenta lo siguiente:
 
-|        |                                                                                                 |
-| ------ | ----------------------------------------------------------------------------------------------- |
-| What?  | Data types, volume, formats, and (where relevant) standards. |
-| When?  | The schedule for data archiving and sharing.                                    |
-| Where? | The intended repositories for archived data.                                    |
-| How?   | How the plan enables long- term preservation of the data.                       |
-| Who?   | Roles and responsibilities of the team members in implementing the DMP.         |
+|           |                                                                                                                     |
+| --------- | ------------------------------------------------------------------------------------------------------------------- |
+| ¿Qué?     | Tipos, volumen, formato y (si es relevante) estándares de datos.                 |
+| ¿Cuando?  | El cronograma para archivar y compartir.                                                            |
+| ¿Dónde?   | Los repositorios destinados a datos archivados.                                                     |
+| ¿Cómo?    | Cómo el plan permite la conservación a largo plazo de los datos.                                    |
+| ¿Quiénes? | Roles y responsabilidades de las personas que forman parte del equipo en la implementación del PGD. |
 
-Investigate if your home institution or funding source has guidance, standards, or templates for DMPs. Other organizations have DMP guidelines and examples as well:
+Consulta si tu institución o tu organismo de financiación dispone de pautas, normas o modelos para PGDs. Sino, hay entidades que también disponen de guías y muestras de PGD, como ser:
 
-- [USGS](https://www.usgs.gov/data-management/data-management-plans)
-- [NOAA](https://marinedebris.noaa.gov/sites/default/files/DataManagementPlanGuidance%26Sample.pdf)
-- [NSF](https://new.nsf.gov/funding/data-management-plan)
+- [USGS](https://www.usgs.gov/data-management/data-management-plans) (en inglés)
+- [NOAA](https://marinedebris.noaa.gov/sites/default/files/DataManagementPlanGuidance%26Sample.pdf) (en inglés)
+- [NSF](https://new.nsf.gov/funding/data-management-plan)  (en inglés)
 
-More details about how to create these plans will be provided in the lesson "From Theory to Practice".
+Se proporcionarán más detalles sobre cómo crear estos planes en la lección "De la teoría a la práctica".
 
-### Scientiﬁc Workﬂow
+### Flujo de trabajo científico
 
-There are a variety of scientific workflow models that explain open science. Data plays a central role in the scientific workflow, where users can propose to create new data, collect and package their data during their project, then archive it for long term storage/use/reuse.
+Hay una variedad de modelos de flujo de trabajo científico que aclaran y facilitan la comprensión de los principios y prácticas de la ciencia abierta. Los datos juegan un papel central en el flujo de trabajo, donde los usuarios pueden proponer crear nuevos datos, recopilar y empaquetar sus datos durante su proyecto, y luego archivarlos para su almacenamiento/uso/reuso a largo plazo.
 
-For this curriculum, we use the workflow model from [Opensciency](https://opensciency.github.io/sprint-content/open-results/lesson1-research-process-and-results.html#what-research-objects-are-commonly-associated-with-research-stages). It is used to illustrate that regardless of the workflow model you use, the adoption of open data is performed throughout the entire workflow and production of associated deliverables.
+Para este plan de estudios, utilizamos el modelo de flujo de trabajo de [Opensciency](https://opensciency.github.io/sprint-content/open-results/lesson1-research-process-and-results.html#what-research-objects-are-commonly-associated-with-research-stages). Se utiliza para ilustrar que, independientemente del modelo de flujo de trabajo que se utilice, la adopción de datos abiertos se realiza en todo el flujo de trabajo y producción de entregables asociados.
 
-If your project is already in progress, it is a good idea to update future data releases to adhere to open data principles as much as possible. For new projects, your proposals should include creating open data from the start of your project.
+Si tu proyecto ya está en curso, es una buena idea actualizar futuras publicaciones de datos para adherirse a los principios de datos abiertos en la medida de lo posible. Para nuevos proyectos, tus propuestas deberían incluir la creación de datos abiertos desde el inicio de su proyecto.
 
 <img src="../images/media/image10.jpeg" style="width:100%;height:auto;" />
 
-In this curriculum, content is organized by how you might use it, make it, and share it. Part of doing open science is building on others’ materials (using), creating materials yourself (making), and sharing those so others can use those results (sharing). The lessons are all organized around these steps in the scientific workflow.
+En este plan de estudios, el contenido se organiza según cómo podrías usarlo, crearlo y compartirlo. Una parte de la ciencia abierta consiste en construir sobre los materiales de otros (usar), crear materiales tú mismo (hacer) y compartirlos para que otros puedan usar esos resultados (compartir). Las lecciones se organizan en torno a estos pasos del flujo de trabajo científico.
 
-The "Use, Make, Share" framework categorizes the tasks commonly used in the practice of open science.
+El marco "Usar, Hacer, Compartir" clasifica las tareas más habituales en la práctica de la ciencia abierta.
 
 <img src="../images/media/image11.png" style="width:100%;height:auto;" />
 
-### Roles in Use, Make, Share
+### Roles a la hora de usar, hacer, compartir
 
-Individuals interacting with data at various points in the scientific workflow can take on different roles. It is possible that these roles can overlap depending on project requirements, the size of your team, and even funding. All should be using open data principles to perform their tasks. Generally, roles include:
+Las personas que interactúan con los datos en varios puntos del flujo de trabajo científico pueden asumir diferentes roles. Es posible que estos roles se superpongan según los requisitos del proyecto, el tamaño de su equipo e incluso la financiación. Todos deben estar utilizando principios de datos abiertos para realizar sus tareas. Por lo general, los roles incluyen:
 
-_Select each tab to find out more information._
+_Seleccione cada pestaña para obtener más información_
 
 <table>
   <thead>
     <tr>
-        <th>DATA USERS ☑</th>
-        <th>DATA MAKERS (DATA PROVIDERS)</th>
-        <th>DATA SHARERS (DATA PUBLISHERS)</th>
+        <th>USUARIOS DE DATOS ☑</th>
+        <th>CREADORES DE DATOS (PROVEEDORES DE DATOS)</th>
+        <th>LOS RESPONSABLES DE COMPARTIR LOS DATOS (EDITORES DE DATOS)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>Data users primarily discover, assess, and utilize data in research projects.</p>
+            <p>Los usuarios de datos principalmente descubren, evalúan y utilizan datos en proyectos de investigación.</p>
         </td>
     </tr>
   </tbody>
@@ -410,15 +409,15 @@ _Select each tab to find out more information._
 <table>
   <thead>
     <tr>
-        <th>DATA USERS</th>
-        <th>DATA MAKERS (DATA PROVIDERS) ☑</th>
-        <th>DATA SHARERS (DATA PUBLISHERS)</th>
+        <th>USUARIOS DE DATOS</th>
+        <th>CREADORES DE DATOS (PROVEEDORES DE DATOS)☑</th>
+        <th>LOS RESPONSABLES DE COMPARTIR LOS DATOS (EDITORES DE DATOS)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>Data makers often process data collected by a project/activity and package it according to open science principles.</p>
+            <p>Los creadores de datos suelen procesar los datos recogidos por un proyecto/actividad y empaquetarlos según los principios de la ciencia abierta.</p>
         </td>
     </tr>
   </tbody>
@@ -427,81 +426,81 @@ _Select each tab to find out more information._
 <table>
   <thead>
     <tr>
-        <th>DATA USERS</th>
-        <th>DATA MAKERS (DATA PROVIDERS)</th>
-        <th>DATA SHARERS (DATA PUBLISHERS) ☑</th>
+        <th>USUARIOS DE DATOS</th>
+        <th>CREADORES DE DATOS (PROVEEDORES DE DATOS)</th>
+        <th>LOS RESPONSABLES DE COMPARTIR LOS DATOS (EDITORES DE DATOS)☑</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>Data sharers bear the responsibility of disseminating and building awareness of the data to the public.</p>
+            <p>Los que comparten los datos tienen la responsabilidad de difundirlos y darlos a conocer al público.</p>
         </td>
     </tr>
   </tbody>
 </table>
 
-Making data open (and FAIR) is a group effort – everybody in the data pipeline has a role to play.
+Hacer que los datos sean abiertos (y que cumplan con los principios FAIR) es un esfuerzo grupal: todos en la cadena de datos tienen un papel que desempeñar.
 
-## Lesson 1: Summary
+## Lección 1: Resumen
 
-In this lesson, you learned:
+En esta lección, aprendiste:
 
-- Open data is an essential pillar of open science. Openly sharing data with others enables reproducibility, transparency, validation, reuse, and collaborations.
-- Several challenges to creating open data exist, but most have straightforward mitigation measures.
-- FAIR principles can be applied to data to make them more open.
-- Open-data principles and tasks are used throughout the entire scientific workflow.
+- Los datos abiertos son un pilar esencial de la ciencia abierta. Compartir abiertamente los datos con otros permite la reproducibilidad, la transparencia, la validación, la reutilización y colaboraciones.
+- Hay varios retos para la creación de datos abiertos, pero la mayoría tienen medidas sencillas de solución.
+- Los principios FAIR se pueden aplicar a los datos para hacerlos más abiertos.
+- Los principios y tareas relacionados con los datos abiertos se utilizan en todo el flujo del trabajo científico.
 
-## Lesson 1: Knowledge Check
+## Lección 1: Evaluación
 
-Answer the following questions to test what you have learned so far.
+Responde las siguientes preguntas para poner a prueba lo que has aprendido hasta ahora.
 
-_Question_
+_Pregunta_
 
 **01/04**
 
-Read the statement and decide whether it is true or false.
+Lee la siguiente afirmación e indica si es Verdadera o Falsa.
 
-_Open data can be freely used, re-used and redistributed by anyone - subject, at most, to the requirement to attribute and share alike._
+_Los datos abiertos pueden ser libremente utilizados, reusados y redistribuidos por cualquiera, sujeto, como mucho, al requisito de atribuir y compartir por igual._
 
-- True
-- False
+- Verdadero
+- Falso
 
-_Question_
+_Pregunta_
 
 **02/04**
 
-Finish the sentence:
+Termina la frase:
 
-_Making data open helps YOU because _____._
+_Hacer que los datos estén abiertos te ayuda porque _____._
 
-- your data can be cited and you will get credit
-- you won’t lose access to your data, even if you move institutions
-- your publications are more likely to get cited when you link to open data
-- all of the above
+- tus datos pueden ser citados y se te dará credito
+- no perderás el acceso a tus datos, incluso si cambias de institución
+- tus publicaciones tienen más probabilidades de ser citadas cuando se vinculan a datos abiertos
+- todas las anteriores
 
-_Question_
+_Pregunta_
 
 **03/04**
 
-Choose the FAIR Principles from the list below. Select all that apply.
+Seleccione los principios FAIR de la siguiente lista. Selecciona todos los que correspondan.
 
-- Reproducible
-- Reusable
-- Responsible
-- Findable
-- Interactive
+- Reproducibilidad
+- Reutilizable
+- Responsable
+- Fácil de encontrar
+- Interactivo
 - Interoperable
-- Interspersed
-- Accessible
-- Authorizable
+- Interpolado
+- Accesible
+- Autorizable
 
-_Question_
+_Pregunta_
 
 **04/04**
 
-Which of the following can help make your data FAIR? Select all that apply.
+¿Cuál de las siguientes opciones puede ayudar a que tus datos sean FAIR? Selecciona todos los que correspondan.
 
-- Get a license for your data
-- Develop your own metadata
-- Obtain a PID for your data
+- Obtener una licencia para tus datos
+- Desarrollar tus propios metadatos
+- Obtener un PID para tus datos

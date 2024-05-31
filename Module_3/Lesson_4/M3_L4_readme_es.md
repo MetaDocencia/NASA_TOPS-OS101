@@ -1,190 +1,190 @@
-# Lesson 4: Sharing Open Data
+# Lección 4: Compartir Datos Abiertos
 
-## Navigation
+## Contenidos
 
-- [Overview](#overview)
-- [Learning Objectives](#learning-objectives)
-- [When and If to Share Data](#when-and-if-to-share-data)
-- [Where to Share Data](#where-to-share-data)
-- [How to Enable Reuse of Data](#how-to-enable-reuse-of-data)
-- [Who is Responsible for Sharing Data](#who-is-responsible-for-sharing-data)
-- [Lesson 4: Summary](#lesson-4-summary)
-- [Lesson 4: Knowledge Check](#lesson-4-knowledge-check)
+- [Resumen](#resumen)
+- [Objetivos de Aprendizaje](#objetivos-de-aprendizaje)
+- [Cuándo y si compartir datos](#cuando-y-si-compartir-datos)
+- [Dónde compartir datos](#dónde-compartir-datos)
+- [Cómo Habilitar la Reutilización de Datos](#como-habilitar-la-reutilizacion-de-datos)
+- [Quién es Responsable de Compartir los Datos](#quien-es-responsable-de-compartir-los-datos)
+- [Lección 4: Resumen](#leccion-4-resumen)
+- [Lección 4: Revisión De Conocimientos](#leccion-4-revision-de-conocimientos)
 
-## Overview
+## Resumen
 
-In this lesson, you learn about the practice of sharing your data. The discussion starts with a review of the sharing process and how to evaluate if your data are sharable. Next, you take a look at ensuring your data is accessible with a closer look at repositories and the lifecycle of data accessibility from the selecting a repository to maintaining and archiving your data. The lesson then discusses some steps to make the data as reusable as possible, and concludes with a section about considering who will help with the data sharing process.
+En esta lección aprenderás sobre la práctica de compartir tus datos. La discusión comienza con una revisión del proceso de compartir y cómo evaluar si sus datos son compartibles. Después, asegurate de que tus datos sean accesibles controlando de cerca los respositorios y el ciclo de vida de la accesibilidad de los datos, desde la selección de un repositorio hasta mantener y archivar tus datos. La lección luego discute algunos pasos para hacer los datos lo más reutilizables posible y concluye con una sección sobre la definición de quién ayudará con el proceso de compartir los datos.
 
-## Learning Objectives
+## Objetivos de Aprendizaje
 
-After completing this lesson, you should be able to:
+Después de completar esta lección, deberías ser capaz de:
 
-- Recognize institutional variables, issues of security, and timing that affect your decision to share data.
-- Recall the features, inherent responsibilities, funding considerations, and sponsor requirements that researchers should consider when selecting a repository to share data.
-- Describe the tools and list some best practices that optimize the shareability of data.
+- Reconocer variables institucionales, cuestiones de seguridad y tiempo que puedan afectar tu decisión de compartir datos.
+- Recordar las características, responsabilidades inherentes, consideraciones de financiamiento y requisitos de patrocinadores que las personas que investigan deberían tener en cuenta al seleccionar un repositorio para compartir datos.
+- Describir las herramientas y enumerar algunas de las buenas prácticas que optimizan la compartibilidad de los datos.
 
-## Data Sharing Process Overview
+## Resumen del Proceso de Compartir Datos
 
-Sharing data is a critical part of increasing reproducibility of results. Whether it's new data we collect ourselves or data that we process in order to do our analysis, we end up sharing some form of data. We need to think about what data we will share and how to best ensure that it will be open and usable by others.
+Compartir datos es una parte crítica de mejorar la reproducibilidad de los resultados. Tanto si se trata de datos nuevos que recolectamos por nuestra parte como datos que procesamos para hacer nuestro análisis, terminamos compartiendo algún tipo de dato. Tenemos que pensar qué datos vamos a compartir y cuál es la mejor manera de asegurar que será de forma abierta y utilizable por otras personas.
 
-Data sharing should typically be done through a long-term data center or repository which will be responsible for ingesting, curating, and distributing/publishing your open data. You are responsible for providing information/metadata to help make your data be readily discoverable, accessible, and citable. The cost of archiving and publishing data should also be considered.
+Normalmente, el intercambio de datos debe hacerse a través de un centro de datos estable o un repositorio que será responsable de ingestar, curar y distribuir/publicar tus datos abiertos. Tú eres responsable de proporcionar información/metadatos para ayudar a que tus datos sean fáciles de encontrar, acceder y citar. El costo de archivar y publicar datos también debe ser considerado.
 
-### So You Want to Share Your Data
+### Así que Quieres Compartir Tus Datos
 
-Once you have decided to share your data, there are a number of questions you will have to answer to help you plan and that should be included in your data management plan (DMP):
+Una vez que hayas decidido compartir tus datos, hay una serie de preguntas que tendrás que responder para ayudarte a planificar y que deben incluirse en tu plan de gestión de datos (PGD):
 
-|        |                                                                        |
-| ------ | ---------------------------------------------------------------------- |
-| What?  | Data formats and (where relevant) standards         |
-| When?  | When and if to share data                                              |
-| Where? | The intended repositories for archived data                            |
-| How?   | How the plan enables reuse of the data                                 |
-| Who?   | Roles and responsibilities of the team members in implementing the DMP |
+|          |                                                                                                    |
+| -------- | -------------------------------------------------------------------------------------------------- |
+| ¿Qué?    | Formato y (si es relevante) estándares de datos                                 |
+| ¿Cuándo? | Cuándo y si compartir datos                                                                        |
+| ¿Dónde?  | Los repositorios destinados a datos archivados                                                     |
+| ¿Cómo?   | Cómo el plan permite la reutilización de los datos                                                 |
+| ¿Quién?  | Roles y responsabilidades de las personas que forman parte del equipo en la implementación del PGD |
 
-In this lesson, we will be covering some steps toward making data. Specifically, we will focus on the "when", "where", "how", and "who" sections of a DMP.
+En esta lección, cubriremos algunos pasos hacia la obtención de datos. Específicamente, nos enfocaremos en las secciones "cuándo", "dónde", "cómo" y "quién" de un DMP.
 
-### Open Data Sharing Process
+### Proceso para Compartir Datos Abiertos
 
-In general, sharing your open data requires the following steps:
+En general, compartir tus datos abiertos requiere de los siguientes pasos:
 
-1. Make sure your data can be shared
-2. Select or identify a repository to host your data
-3. Work with your repository to follow their process and meet their requirements
-4. Make sure your data is findable and accessible through the repository and is maintained and archived
-5. Request a DOI for your data set so that it is easily citable
-6. Choose a data license
+1. Asegúrate de que tus datos puedan ser compartidos
+2. Selecciona o identifica un repositorio para alojar tus datos
+3. Trabaja junto con tu repositorio para seguir su proceso y cumplir con sus requerimientos
+4. Asegúrate de que tus datos sean encontrables y accesibles a través del repositorio y que sean mantenidos y archivados
+5. Solicita un DOI para tu conjunto de datos para que pueda ser citado fácilmente
+6. Elije una licencia de datos
 
-Sometimes, you may be able to work with a well-staffed repository that will handle many of these steps for you (for instance, if you are working with NASA mission data). Otherwise, it is your responsibility to follow the above steps to share your data openly.
+A veces, puede que trabajes con un repositorio bien preparado que maneje muchos de estos pasos (por ejemplo, si está trabajando con los datos de la misión de la NASA). De lo contrario, es tu responsabilidad seguir los pasos anteriores para compartir tus datos abiertamente.
 
-## When and If to Share Data
+## Cuándo y Si Compartir Datos
 
-### When to Share Data?
+### ¿Cuándo Compartir Datos?
 
-The decision of when to share should be discussed with everyone on the team and documented in the data management plan. Funding agencies and organizations may have specific requirements about when data must be shared, but here we encourage you to think about whether it is feasible or possible to share even earlier than required by your funder. There are different times when data could be shared:
+La decisión de cuándo compartir datos debería discutirse con todas las personas del equipo y documentarse en el plan de gestión de datos. Las agencias de financiamiento y organizaciones pueden tener requerimientos específicos de cuándo deben compartirse los datos, pero aquí te animamos a pensar si es posible compartir tus datos antes de que te lo exija tu espónsor. Hay distintos momentos en que los datos pueden ser compartidos:
 
-- Advanced Sharing: Sharing at the time of collection, or soon after. Some funding agencies require this, or allow for a short ‘embargo’ period, but a reason (quality checks, calibrations, etc.) is usually required. This maximizes data reuse and impact and can result in increased collaborations.
-- Intermediate Sharing: At the time of publication. Many publications (and some funding agencies) require sharing data that is needed to reproduce results at the time of publication.
-- Minimum Sharing: End of grant. All scientifically useful data should be shared by the end of the research grant.
-- No Sharing: There are many reasons data should either be restricted or not shared at all.
+- Compartido Anticipado: Compartir al momento de la recolección o poco después. Algunas agencias de financiamiento requieren que así sea o permiten un pequeño período de "embargo", pero normalmente se requiere una razón (control de calidad, calibración, etc). Esto maximiza la reutilización de los datos y el impacto, y puede resultar en un aumento de colaboraciones.
+- Compartir Intermedio: Al tiempo de la publicación. Muchas revistas (y algunas agencias de financiamiento) requieren compartir los datos necesarios para replicar los resultados al momento de la publicación.
+- Compartir Mínimo: Fin del subsidio. Todos los datos científicamente relevantes deben ser compartidos para el final del subsidio de investigación.
+- No Compartir: Hay muchos motivos por los que los datos pueden ser restringidos o no compartidos para nada.
 
-As discussed previously in this curriculum, there are many benefits to sharing as early as possible. Early (advanced) sharing can lead to new and unexpected discoveries and expand your collaboration network. Remember, that even when you share data, you are still the world expert on that data! So often, when people want to work with the data, they will reach out to you to collaborate.
+Como ya comentamos anteriormente en este curso, hay muchos beneficios para compartir los datos lo antes posible. Compartir temprano puede llevar a nuevos e inesperados descubrimientos y a expandir tu red de colaboraciones. Recuerda que, aún cuando compartes tus datos, tú sigues siendo la persona experta a nivel mundial en esos datos. Es muy probable que cuando las personas quieran trabajar con tus datos se pongan en contacto contigo para colaborar.
 
-### Should the Data be Shared?
+### ¿Deben Compartirse los Datos?
 
-Before datasets are shared, it’s important to consider any restrictions to your permission to share and ensure that your contributors – including sample and data donors – approve its release.
+Antes de compartir los conjuntos de datos, es importante que tengas en cuenta cualquier restricción de permisos para compartir y asegurar que quienes contribuyen contigo, incluyendo donantes de muestras y datos, aprueben su publicación.
 
-Data should be as open as possible and as closed as necessary.
+Los datos deben ser tan abiertos como sea posible y tan cerrados como sea necesario.
 
-- Opening our data is a powerful way to enable discovery, transparency, and scientific progress.
-- Some data are subject to laws, regulations, and policies which limit the release of the data.
-- Your local institution may have additional policies and resources – investigate them early and often.
+- Abrir tus datos es una herramienta poderosa para facilitar el descubrimiento, transparencia y progreso científico.
+- Algunos datos están sujetos a leyes, regulaciones y políticas que limitan su liberación.
+- Tu institución local puede tener políticas y recursos adicionales; investígalos lo antes posible y regularmente.
 
-### Verify Your Data is Sharable
+### Verifica que Tus Datos Sean Compartibles
 
-Before you decide where to share your data, you must make sure you can share your data.
+Antes de decidir dónde compartir tus datos, debes asegurarte de que puedes compartirlos.
 
-Data needs to be as open as possible and as closed as necessary...
+Los datos deben ser tan abiertos como sea posible y tan cerrados como sea necesario...
 
-- Open data is a powerful way to enable discovery, transparency, and scientific progress
-- But, some data are subject to laws, regulations, and policies which limit the release of the data
-- Your local institution may have additional policies and resources – investigate them early and often
+- Los datos abiertos son una manera poderosa para facilitar el descubrimiento, transparencia y progreso científico
+- Pero algunos datos están sujetos a leyes, regulaciones y políticas que limitan su liberación
+- Tu institución local puede tener políticas y recursos adicionales; investígalos lo antes posible y regularmente
 
-Specific considerations that might prevent the sharing of your data include:
+Algunas consideraciones específicas que pueden prevenir que compartas tus datos son:
 
-- A country's military secrets or violations of national interests
-- Private medical information or an individual’s personal data
-- Indigenous/cultural/conservation concerns
-- Intellectual Property, Patented
-- Other - please think about what you are sharing and the implications of sharing it (for example - do you have permission from everyone involved?)
+- Secretos militares de un país o violaciones de los intereses nacionales
+- Información médica privada o datos personales de un individuo
+- Cuestiones culturales/indígenas/de conservación
+- Propiedad Intelectual, patentes
+- Otras: por favor piensa sobre lo que estás compartiendo y cuáles son las implicancias de hacerlo (por ejemplo, ¿tienes el permiso de todas las personas involucradas?)
 
-In the first module of this curriculum, we listed several reasons why certain research products should not be shared. We will review some of these reasons, and go into more detail on a few that are particularly relevant to data.
+En el primer módulo de este curso, enumeramos varias razones por las que ciertos productos de investigación no deben ser compartidos. Repasaremos algunas de estas razones y profundizaremos en algunas que son especialmente relevantes para los datos.
 
-### Export and Security Considerations
+### Exportación y Consideraciones de Seguridad
 
-Relevant laws and regulations that may prevent the release of data include but are not limited to:
+Leyes y regulaciones relevantes que pueden evitar la publicación de datos incluyen, pero no están limitadas a:
 
-- [International Traffic in Arms Regulation](https://www.pmddtc.state.gov/?id=ddtc_public_portal_itar_landing) (ITAR), which regulates the manufacture, sale, distribution, and export of defense-related articles and services.
-- [Export Administration Regulations](https://www.bis.doc.gov/index.php/regulations/export-administration-regulations-ear) (EAR), which regulates the manufacture, sale, distribution, and export of commercial and dual- use items, technology, and information not already covered by ITAR.
+- [Regulación Internacional de Tráfico de Armas](https://www.pmddtc.state.gov/?id=ddtc_public_portal_itar_landing) (ITAR por su nombre en inglés), que regula la manufactura, venta, distribución y exportación de artículos y servicios relacionados con la defensa en Estados Unidos.
+- [Regulaciones de Administración de Exportación](https://www.bis.doc.gov/index. cp/regulations/export-administration-regulations-ear) (EAR por su nombre en inglés), que regula la manufactura, venta, distribución y exportación de artículos comerciales y de doble uso, tecnología e información no cubiertos por ITAR.
 
-**Example: NASA Space System Protection Standard**
+**Ejemplo: Estándar de Protección del Sistema Espacial de la NASA**
 
-NASA STD 1006.1 [Space System Protection Standard](https://standards.nasa.gov/standard/NASA/NASA-STD-1006), which establishes protection requirements to ensure NASA missions are resilient to purposeful threats.
+NASA STD 1006.1 [Estándar de Protección del Sistema Espacial](https://standards.nasa.gov/standard/NASA/NASA-STD-1006), el cual establece los requisitos de protección para asegurar que las misiones de la NASA sean resistentes a amenazas intencionales.
 
-### Controlled Information Considerations
+### Consideraciones de Información Controlada
 
-Some regulations and policies that may prevent the sharing of data include but are not limited to:
+Leyes y regulaciones relevantes que pueden evitar la publicación de datos incluyen, pero no están limitadas a:
 
-- [Health Insurance Portability and Accountability Act](https://www.hhs.gov/hipaa/index.html) (HIPAA), which established standards to protect sensitive patient health information from disclosure.
-- [Controlled Unclassified Information](https://www.archives.gov/cui) provides standards for handling unclassified information that requires safeguarding or dissemination controls consistent with laws, federal regulations, and policies.
-- Federal laws and regulations governing [classified information](https://www.archives.gov/isoo/faqs) or security requirements.
+- [Ley de Portabilidad y Responsabilidad del Seguro Médico](https://www.hhs.gov/hipaa/index.html) (HIPAA de su nombre en inglés), que estableció estándares para proteger a la información sensible de pacientes de su divulgación.
+- [Información No Clasificada Controlada](https://www.archives.gov/cui) proporciona estándares para manejar información no clasificada que requiere protección o controles de divulgación acorde con leyes, regulaciones federales y políticas.
+- Normas federales y regulaciones de gobernanza [información clasificada](https://www.archives.gov/isoo/faqs) o requisitos de seguridad.
 
-### Intellectual Property Considerations
+### Consideraciones de Propiedad Intelectual
 
-Data may be subject to intellectual property, copyright, and licensing concerns. A few of the relevant regulations and policies include patent or intellectual property laws including the [Bayh-Dole Act](https://www.govinfo.gov/content/pkg/USCODE-2011-title35/html/USCODE-2011-title35-partII-chap18.htm), which enables universities, nonprofit research institutions, and small businesses to own, patent, and commercialize inventions developed under federally funded research programs.
+Los datos pueden estar sujetos a propiedad intelectual, derechos de autoría y licencias. Algunas de las regulaciones y políticas relevantes incluyen leyes de propiedad intelectual o patentes, incluyendo la [Ley Bayh-Dole](https://www.govinfo.gov/content/pkg/USCODE-2011-title35/html/USCODE-2011-title35-partI-chap18. tm), que permite a las universidades, instituciones de investigación sin fines de lucro y pequeñas empresas poseer, patentar y comercializar invenciones desarrolladas bajo programas de investigación con fondos federales.
 
-**Example: NASA FAR Supplement 1852.227**
+**Ejemplo: Suplemento FAR de la NASA 1852.227**
 
-[NASA FAR Supplement 1852.227](https://prod.nais.nasa.gov/far/far0595-nfs012617/5227.htm), which outlines patent and data rights for government contracts.
+[Suplemento FAR 1852.227](https://prod.nais.nasa.gov/far/far0595-nfs012617/5227.htm), que describe los derechos de patentes y datos de los contratos gubernamentales.
 
 ---
 
-Many research institutions have resident experts in intellectual property, copyright, and patent law. They can be a great resource if you have any questions or concerns.
+Muchas instituciones de investigación tienen personas residentes expertas en propiedad intelectual, derechos de autoría y derecho de patentes. Pueden ser un gran recurso si tienes alguna pregunta o preocupación.
 
-## Where to Share Data
+## Dónde Compartir Datos
 
-Data can be shared in a variety of locations. While sharing data via email or websites is popular, they are not recommended as they do not meet the requirements for findability or long-term archival support. Sharing data as part of the supplemental material of a peer reviewed publication, especially for small data sets, is acceptable in some fields. A long term repository that provides a permanent identifier is the best option for sharing of data.
+Los datos pueden compartirse en una enorme variedad de lugares. Si bien es común compartir datos a través de emails o sitios web, estos no son medios recomendados ya que no cumplen con los requisitos de que sean encontrables o archivados a largo plazo. Compartir datos como parte del material complementario de una publicación revisada por pares, especialmente para conjuntos pequeños de datos, es aceptable en algunos campos. Un repositorio a largo plazo que proporcione un identificador permanente es la mejor opción para compartir datos.
 
-### Selecting a Data Repository
+### Seleccionando un Repositorio de Datos
 
-If you do not already have a data repository in mind, consider the following to narrow down your options:
+Si aún no tienes un repositorio de datos en mente, ten en cuenta lo siguiente para acotar tus opciones:
 
-- Does your funding sponsor require a specific data repository?
-- Does your organization/institution recommend a specific data repository?
-- Is there a domain-specific repository that is widely-used in your research field?
-- Does the repository provide open data access?
-- Do you think the tools offered by the repository for data discovery and distribution are suitable for your data and FAIR?
-- Does the repository require funding from your project, does it fit within your budget and does it require sustained support beyond the project life cycle?
+- ¿Quien te financia requiere un repositorio de datos específico?
+- ¿Tu organización o institución recomienda un repositorio de datos específico?
+- ¿Existe un repositorio de dominio específico que sea ampliamente usado en tu área de investigación?
+- ¿El repositorio provee acceso abierto a los datos?
+- ¿Crees que las herramientas que ofrece el repositorio para descubrimiento y distribución de datos son apropiadas para tus datos y los principios FAIR?
+- ¿El repositorio requiere financiamiento de tu proyecto, se ajusta con tu presupuesto y requiere mantenimiento constante más allá del ciclo de vida del proyecto?
 
-Find and compare the services, beneﬁts and limitations of the repositories you are considering. Each repository will have its own processes and requirements for accepting and hosting your data depending on their level of funding, purpose, and user base.
+Encuentra y compara los servicios, beneficios y limitaciones de los repositorios que estás considerando. Cada repositorio tendrá sus propios procesos y requerimientos para aceptar y albergar tus datos dependiendo de su nivel de financiamiento, propósito y base de personas usuarias.
 
-Similarly, each repository will provide a different set of functionality and services depending on their level of funding, purpose, and user base.
+De la misma manera, cada repositorio proporcionará un conjunto diferente de funcionalidades y servicios dependiendo de su nivel de financiamiento, propósito y base de personas usuarias.
 
-Data with privacy concerns may have additional anonymization or approval processes or restrictions on who can access the data.
+Los datos sensibles pueden tener procesos adicionales de anonimización o aceptación, o restricciones sobre quién puede acceder a los datos.
 
-A good overview of desirable characteristics presented by the White House is [given here.](https://www.whitehouse.gov/wp-content/uploads/2022/05/05-2022-Desirable-Characteristics-of-Data-Repositories.pdf)
+La Casa Blanca presenta una buena descripción general de las características deseables [aquí](https://www.whitehouse.gov/wp-content/uploads/2022/05/05-2022-Desirable-Characteristics-of-Data-Repositories.pdf) (en inglés).
 
-### Ensuring Accessibility
+### Garantizar la accesibilidad
 
-Good repositories will share (or offer) your open data through standard protocols, like HTTPS or SFTP. Common ways to do this are:
+Los buenos repositorios compartirán (u ofrecerán) sus datos abiertos a través de protocolos estándar, como HTTPS o SFTP. Las formas más habituales de hacerlo son:
 
-- Allowing users the ability to see a list of files that they can click and download via an intuitive interface.
-- Creating a documented API for users to generate a list of file links that meet search criteria that they can download in an automated fashion (i.e., machine-to-machine data access).
+- Permitir a las personas usuarias la posibilidad de ver una lista de archivos en los que pueden hacer clic y descargar a través de una interfaz intuitiva.
+- Crear una Interfaz de Programación de Aplicaciones (en inglés, _Application Programming Interface, API_) documentada para que quienes utilizan la herramienta generen una lista de enlaces de archivos que cumplan con los criterios de búsqueda y que se puedan descargar de forma automatizada (es decir, acceso a datos de máquina a máquina).
 
-Additionally, repositories can require authorization and authentication (e.g., logins with usernames/passwords) to access data. While this is allowed under FAIR principles, it may violate Open Science principles if not everyone is able to obtain a login.
+Adicionalmente, los repositorios pueden requerir autorización y autentificación (por ejemplo, iniciar sesión con nombre de usuario/contraseñas) para acceder a los datos. Si bien esto está permitido según los principios FAIR (Fácil de encontrar, Accesible, Interoperable y Reutilizable), puede violar los principios de la Ciencia Abierta si no todas las personas pueden registrarse.
 
-### Working with a Repository
+### Trabajando con un repositorio
 
 <table>
   <thead>
     <tr>
-        <th>START WORKING WITH A REPOSITORY ☑</th>
-        <th>MAINTAINING DATA AT A REPOSITORY</th>
-        <th>ARCHIVING DATA AT A REPOSITORY</th>
+        <th>COMENZAR A TRABAJAR CON UN REPOSITORIO ☑</th>
+        <th>MANTENIMIENTO DE DATOS EN EL REPOSITORIO</th>
+        <th>ARCHIVANDO DATOS EN EL REPOSITORIO</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>Repository requirements can vary widely. Always review a repository’s requirements to see what actions you need to take once you’re ready to start working with them. Also note that some repositories have staff that will help with the process of sharing data, while others rely on the user to know how to share their own data.</p>
-            <p>If you use a repository that has staff to help you with the process, they may want to review and comment on your data management plan.</p>
-            <p>The repository may request that you produce some test of sample data in order to assess:</p>
+            <p>Los requisitos del repositorio pueden variar ampliamente. Revisa siempre los requisitos del repositorio para ver qué acciones necesitas llevar a cabo una vez cuando consideres empezar a trabajar con ellos. También ten en cuenta que algunos repositorios cuentan con personal que ayuda con el proceso de compartir datos, mientras que otros dependen de que sepas cómo compartir tus propios datos.</p>
+            <p>Si utilizas un repositorio que tiene personal para ayudarte con el proceso, podrían solicitar revisar y comentar tu plan de gestión de datos.</p>
+            <p>El repositorio puede solicitar que realices algunas pruebas de tu muestra de datos para evaluar:</p>
             <ul>
-            <li>That the data format you intend to use is supported.</li>
-            <li>That data variables are named as expected.</li>
-            <li>That metadata vocabulary is correct.</li>
-            <li>That repository-specific requirements are met.</li>
+            <li>Que el formato de datos que pretendes utilizar sea compatible.</li>
+            <li>Que las variables del conjunto de datos estén nombradas como se espera.</li>
+            <li>Que el vocabulario de metadatos sea correcto.</li>
+            <li>Que se cumplan los requisitos específicos del repositorio.</li>
             </ul>
-            <p>This conformity check can identify misunderstandings early and result in a smooth final submission of your data to the repository.</p>
+            <p>Esta serie de comprobaciones permite identificar errores tempranamente y dar como resultado un envío final de tus datos al repositorio sin inconvenientes.</p>
         </td>
     </tr>
   </tbody>
@@ -193,16 +193,16 @@ Additionally, repositories can require authorization and authentication (e.g., l
 <table>
   <thead>
     <tr>
-        <th>START WORKING WITH A REPOSITORY</th>
-        <th>MAINTAINING DATA AT A REPOSITORY ☑</th>
-        <th>ARCHIVING DATA AT A REPOSITORY</th>
+        <th>COMENZAR A TRABAJAR CON UN REPOSITORIO</th>
+        <th>MANTENIMIENTO DE DATOS EN EL REPOSITORIO ☑</th>
+        <th>ARCHIVANDO DATOS EN EL REPOSITORIO</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>As you progress through your project lifecycle, utilize your repository's update, revision and resubmission processes to keep the archived data products up to date. Any new versions of the data you want to share through the repository will need to go through a similar process as your initial data set.</p>
-            <p>Any new versions of the data you want to share through the repository should go through the same DMP review, compliance check, and upload procedure as your initial data set.</p>
+            <p>A medida que avanzas en el ciclo de vida de tu proyecto, utiliza los procesos de actualización, revisión y reenvío de tu repositorio para mantener actualizados los archivos de datos. Cualquier nueva versión de los datos que desees compartir a través del repositorio tendrá que pasar por un proceso similar al del conjunto de datos inicial.</p>
+            <p>Todas las nuevas versiones del conjunto de datos que quieras compartir a través del repositorio deben someterse al mismo proceso de revisión del Plan de Gestión de Datos (PGD) (en inglés, _Data Management Plan, DMP_)verificación de cumplimiento y procedimiento de carga que el conjunto de datos inicial.</p>
         </td>
     </tr>
   </tbody>
@@ -211,154 +211,154 @@ Additionally, repositories can require authorization and authentication (e.g., l
 <table>
   <thead>
     <tr>
-        <th>START WORKING WITH A REPOSITORY</th>
-        <th>MAINTAINING DATA AT A REPOSITORY</th>
-        <th>ARCHIVING DATA AT A REPOSITORY ☑</th>
+        <th>COMENZAR A TRABAJAR CON UN REPOSITORIO</th>
+        <th>MANTENIMIENTO DE DATOS EN EL REPOSITORIO</th>
+        <th>ARCHIVAR DATOS EN EL REPOSITORIO ☑</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>When your project ends, ensure you’ve updated and uploaded any companion documentation (discussed in the previous lesson "Making Open Data") with your final version (even if only a single version of the data was made).</p>
-            <p>Make sure the repository will keep your data (or at least your metadata) on- line for a reasonable period of time after your project ends.</p>
-            <p>If any data issues are found after the conclusion of your project, make sure the repository will still accept data revisions, if they are needed.</p>
+            <p>Cuando tu proyecto finalice, asegúrate de haber actualizado y subido cualquier documentación complementaria (discutida en la lección anterior "Haciendo Datos Abiertos") con tu versión final (incluso si sólo se hizo una versión única de los datos).</p>
+            <p>Asegúrate que el repositorio mantendrá tus datos (o al menos tus metadatos) en línea durante un período de tiempo razonable luego de que tu proyecto termine.</p>
+            <p>Si se encuentra algún problema con los datos después de la finalización de tu proyecto, asegúrate de que el repositorio aceptará revisiones de la base de datos si son necesarias.</p>
         </td>
     </tr>
   </tbody>
 </table>
 
-## How to Enable Reuse of Data
+## Cómo habilitar la reutilización de datos
 
-### Obtaining a DOI
+### Obtener un DOI
 
-Individuals cannot typically request a DOI (digital object identifier) themselves but rather have to go through an authorized organization that can submit the request, such as:
+Por lo general, las personas no pueden solicitar un identificador de objeto digital (DOI, por sus siglas en inglés) por sí mismas, sino que deben acudir a una organización autorizada que pueda enviar la solicitud, como por ejemplo:
 
-- The data repository
-- Your organization
-- The publisher (if the data set is part of a publication)
+- El repositorio de datos
+- Tu organización
+- Quien realiza la edición (si el conjunto de datos es parte de una publicación)
 
-Data makers should provide summary information for DOI landing page(s) if required. Data sharers should accommodate data providers' suggestions and comply with DOI guidelines and create landing page(s). If possible, reserve a DOI for you ahead of creating your data.
+Los responsables de datos deberán facilitar información resumida para la página de inicio de DOI, si es necesario. Quiénes comparten datos deben tener en cuenta las sugerencias de los responsables de datos, cumplir las reglas de DOI y así crear las páginas de destino. Si es posible, debes reservar una DOI antes de generar tus datos.
 
-### Ensuring Findability
+### Garantizar la facilidad de búsqueda
 
-Repositories handle the sharing, distribution, and curation of data. Additional services they may provide include:
+Los repositorios se encargan de compartir, distribuir y conservar los datos. Algunos servicios adicionales que pueden ofrecer incluyen:
 
-- The assignment of a persistent identifier (like a DOI) to your data set
-- The indexing and/or registration of your data and metadata in various services so that they can be searched and found online (i.e., through search engines).
-- The provision of feedback to data makers to help them optimize their metadata for findability.
-- Coordinating with data makers to ensure metadata refers to the DOI.
-- Ensuring the DOI is associated with a landing page with information about your data.
+- La asignación de un identificador persistente (como un DOI) a tu conjunto/colección/registro de datos.
+- La indexación y/o registro de tus datos y metadatos en diversos servicios para que se puedan buscar y encontrar en línea (es decir, a través de motores de búsqueda).
+- Proveer retroalimentación a los responsables de los datos para ayudarles a optimizar sus metadatos y facilitar su búsqueda.
+- Coordinación con los responsables de datos para garantizar que los metadatos hagan referencia al DOI.
+- Asegurarse que el DOI está asociado a una página de publicación de resultados con información sobre sus datos.
 
-### Making it Easy to Cite Your Data
+### Facilitar la cita de tus datos
 
-The goal is to make it easy to cite your data. Best practices include:
+El objetivo es hacer práctico citar tus datos. Las mejores prácticas incluyen:
 
-- Include a citation statement that includes your DOI.
-- Different repositories and journals have different standards for how to cite data. If your repository encourages it, include a .CFF file with your data that explains how to cite your data.
-- Clearly identify the data creators and/or their institution in your citation.
-  - This allows users to follow up with the creators if they have questions or discover issues.
-  - Include ORCiD of data authors where possible in the citation.
+- Incluir una enunciación/referencia de cita que contenga tu DOI.
+- Diferentes repositorios y revistas tienen diferentes estándares sobre cómo citar datos. Si tu repositorio lo permite, incluye un archivo .CFF con tus datos explicando cómo citarlos.
+- Identifique claramente a los responsables de los datos y/o a su institución en la cita.
+  - Esto permite a quienes acceden a los datos ponerse en contacto con los responsables si tienen preguntas o descubren problemas.
+  - Incluir el ORCiD de cada autor de los datos cuando sea posible en la cita.
 
-Now that your data are at a repository and have a citation statement and DOI, publicize it to your users and remind them to cite your data in their work!
+Ahora que tus datos están en un repositorio y tienen una referencia de cita y un DOI, publícalo entre tus usuarios y recuérdales que citen tus datos en sus trabajos.
 
-## Who is Responsible for Sharing Data
+## ¿Quién es responsable de compartir datos?
 
-Sharing data openly is a team effort. An important part of planning for open data is planning and agreeing to roles and responsibilities of who will ensure implementation of the plan.
+Compartir datos abiertamente es un esfuerzo en equipo. Una parte importante de la planificación de los datos abiertos es planear y acordar las funciones y responsabilidades de quien garantizará la implementación del plan.
 
-So what needs to be done? Documenting these roles and responsibilities in your Data Management Plan will help your team stay organized and do science faster! A well-written, detailed plan should include:
+Entonces, ¿qué hay que hacer? ¡Documentar estos roles y responsabilidades en tu Plan de Gestión de Datos ayudará al equipo a a mantenerse organizado y hacer ciencia más rápido! Un plan detallado y bien redactado debiera incluir:
 
-### Who Will Move Data to a Repository
+### ¿Quién se encargará de almacenar los datos en un repositorio?
 
-Once you are ready to send your data to your repository, find the repository's recommendations for uploading data. Determine who will work with your repository to accomplish the following types of activities:
+Una vez que estés en condiciones de enviar tus datos al repositorio, busca las recomendaciones del mismo para cargar los datos. Determina quién trabajará con el repositorio para llevar a cabo los siguientes tipos de actividades:
 
-- Provide information on data volume, number of files, and nature (e.g., revised files)
-- Check that the file name follows best practices
-- How will the data be moved? (especially when files are large)
-- Check the data! Verify the integrity of the data, metadata, and documentation transfer
+- Proporcionar información sobre el volumen de datos, número de archivos y naturaleza (por ejemplo, archivos revisados).
+- Verificar que el nombre del archivo siga buenas prácticas.
+- ¿Cómo se trasladarán los datos? (especialmente cuando los archivos son grandes)
+- ¡Comprobar los datos! Verificar la integridad de los datos, metadatos y transferencia de documentación.
 
-### Who Will Develop the Data Documentation and Metadata
+### ¿Quién desarrollará la documentación de datos y los metadatos?
 
-Determine who will work with your repository, inventory the transferred data, metadata, and documentation. This role might include the task of populating any required metadata in databases to make the data findable.
+Determinar quién trabajará con el repositorio, haga un inventario de los datos transferidos, los metadatos y la documentación. Esta función podría incluir la tarea de completar los metadatos requeridos en las bases de datos para que los archivos sean fáciles de encontrar.
 
-You may be able to accomplish some of these tasks through a repository's interface. However, some types of repositories may require you to interact with their administration teams. For this role, determine who will:
+Es posible que algunas de estas tareas se puedan realizar a través de la interfaz del repositorio. Sin embargo, algunos tipos de repositorios pueden requerir que se interactúe con sus equipos de administración. Para este rol, determinar quién:
 
-- Provide suggestions to organize data content and logistics-
-- Develop the metadata
-- Develop the documentation (e.g., README file or report)
-- Extract metadata from data files, metadata files (if applicable), and documentation to populate the metadata database and request additional metadata as necessary
+- Proporcionará sugerencias para organizar el contenido de datos y logística.
+- Desarrollará los metadatos.
+- Desarrollará la documentación (por ejemplo, el archivo LEEME o el reporte)
+- Extraerá metadatos de los archivos de datos, archivos de metadatos (si corresponde) y documentación para llenar la base de datos de metadatos y solicitará metadatos adicionales según sea necesario.
 
-### Who Will Help With Data Reuse
+### ¿Quién ayudará con la reutilización de datos?
 
-Once the repository has made your data available, someone from your team must test access to the data (its accessibility) and distribution methods (its findability). If possible, identify who will work with your repository to optimize/modify tools for intuitive human access and standardize machine access. This role requires someone who to:
+Una vez que el repositorio haya puesto tus datos a disposición, alguien de tu equipo debe probar el acceso a los datos (su accesibilidad) y los métodos de distribución (su disponibilidad). Si es posible, identificar quién trabajará con el repositorio para optimizar/modificar herramientas para un acceso humano intuitivo y estandarizar el acceso de máquinas. Este rol requiere alguien que:
 
-- Clearly communicate the open protocols needed for the data/metadata.
-- Provide actual data use cases to data publisher to optimize/modify data distribution tools based on available metadata.
-- Understand the access protocol(s) and evaluate implications to targeted communities and user communities at large in terms of accessibility.
+- Comunique claramente los protocolos abiertos necesarios para los datos/metadatos.
+- Proporcione casos de uso de datos reales a quien edita los datos, para que pueda optimizar y/o modificar herramientas de distribución de datos basadas en los metadatos disponibles.
+- Comprenda el(los) protocolo(s) de acceso y evalúe las implicaciones para las comunidades objetivo y las personas usuarias en general, en términos de accesibilidad.
 
-### Who Will Develop Guidance on Privacy and Cultural Sensitivity of Data
+### ¿Quién desarrollará una guía sobre privacidad y sensibilidad cultural de los datos?
 
-Sharing data should be respectful of the communities that may be involved. This means thinking about privacy issues and cultural sensitivities. Who on your team will identify and develop guidance on:
+La publicación de los datos debe ser respetuosa con las comunidades que puedan estar involucradas. Esto significa pensar en temas de privacidad y sensibilidades culturales. Alguna persona del equipo se encargará de identificar y desarrollar orientación sobre:
 
-- Privacy concerns and approval processes for release - is the data appropriately anonymized?
-- How to engage with communities that data may be about.
-- How data can be correctly interpreted.
-- Are there any data restrictions that may be necessary to ensure the sharing is respectful of the community the data involves, eg. collective and individual rights to free, prior, and informed consent in the collection and use of such data, including the development of data policies and protocols for collection?
+- Cuestiones de privacidad y procesos de aprobación para la publicación: ¿se han hecho correctamente anónimos los datos?
+- Cómo interactuar con las comunidades de referencia.
+- Cómo se pueden interpretar correctamente los datos.
+- ¿Existe alguna restricción de datos que pueda ser necesaria para garantizar que la publicación de los datos sea respetuosa con la comunidad a la que pertenecen? Por ejemplo, derechos colectivos e individuales para el consentimiento libre, previo e informado de recopilación y uso de dichos datos; incluida la elaboración de políticas y protocolos para la recolección de datos.
 
-## Lesson 4: Summary
+## Lección 4: Resumen
 
-The following are the key takeaways from this lesson:
+A continuación se exponen las conclusiones principales de esta lección:
 
-- When and if to share data? Determine at what point in a project it makes the most sense to share our data. Remember, not all data can or should be shared.
-- Where to share data? Sharing in a public data repository is recommended, and there are many types of repositories to choose from.
-- How to enable reuse? Ensure appropriate, community-accepted metadata, assign a DOI, and develop a citation statement to make sure it can be easily found and cited.
-- Who helps share data? There are many steps in making and sharing data and it’s important to think about who will be responsible for each step.
+- ¿Cuándo se pueden compartir los datos? Determinar en qué punto de un proyecto tiene más sentido compartir nuestros datos. Recordar que no todos los datos pueden o deben compartirse.
+- ¿Dónde compartir los datos? Se recomienda compartir en un repositorio de datos público, hay muchos tipos de repositorios para elegir.
+- ¿Cómo permitir la reutilización de los datos? Asegúrese de que los metadatos sean apropiados y aceptados por la comunidad, asigne un DOI y elabore una referencia de citación para garantizar que se puede encontrar y citar fácilmente.
+- ¿Quién ayuda a compartir los datos? Hay muchos pasos en la creación y publicación de datos, es importante pensar en quién será responsable de cada paso.
 
-## Lesson 4: Knowledge Check
+## Lección 4: Evaluación
 
-Answer the following questions to test what you have learned so far.
+Responde las siguientes preguntas para evaluar lo que has aprendido hasta ahora.
 
-_Question_
+_Pregunta_
 
 **01/04**
 
-Data cannot be shared if it is:
+Los datos no se pueden compartir si son:
 
-- ITAR controlled
-- Controlled Unclassified Information
-- Subject to intellectual property, copyright, and licensing concerns
-- All of the above
+- De control de tráfico internacional de armas (ITAR).
+- Información no clasificada controlada.
+- Sujeto a cuestiones de propiedad intelectual, derechos de autoría y licencias.
+- Todas las anteriores.
 
-_Question_
+_Pregunta_
 
 **02/04**
 
-Select the option you think is correct to complete the sentence.
+Seleccione la opción que considera correcta para completar la oración.
 
-It is best practice to start working with a repository _____.
+Es una buena práctica empezar a trabajar con un repositorio _____.
 
-- As early as possible
-- When you have test data ready
-- After you obtain a DOI
-- When you are ready to release your data
+- lo más pronto posible
+- Cuando se tienen datos de prueba listos
+- Después de obtener un DOI
+- Cuando estés listo para publicar tus datos
 
-_Question_
+_Pregunta_
 
 **03/04**
 
-Which one of the following might be able to help you get a DOI for your data:
+¿Cuál de las siguientes opciones puede ayudarte a obtener un DOI para tus datos:
 
-- The repository you are working with
-- Your home organization
-- A journal you are submitting a manuscript and data to
-- All of the above
+- El repositorio con el que estás trabajando.
+- Tu organización de origen.
+- Una revista a la que enviaste un manuscrito y los datos.
+- Todas las anteriores.
 
-_Question_
+_Pregunta_
 
 **04/04**
 
-Which of the following are roles to consider when sharing data? Select all that apply.
+¿Cuáles de los siguientes son roles a considerar al compartir datos? Selecciona todas opciones que apliquen.
 
-- Develop guidance on privacy and cultural sensitivity of the data
-- Develop the data documentation and metadata
-- Assign the data a DOI
-- Verify the integrity of the data, metadata, and documentation transfer
+- Desarrollar una guía sobre la privacidad y sensibilidad cultural de los datos.
+- Desarrollar la documentación de datos y los metadatos.
+- Asignar un DOI a los datos.
+- Verificar la integridad de los datos, metadatos y gestión de la documentación.

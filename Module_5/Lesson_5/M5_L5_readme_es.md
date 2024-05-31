@@ -1,110 +1,110 @@
-# Lesson 5: From Theory to Practice
+# Lección 5: De la Teoría a la Práctica
 
-## Navigation
+## Contenidos
 
-- [Writing an OSDMP: What to Include in the OSDMP for Sharing Results Openly](#writing-an-osdmp-what-to-include-in-the-osdmp-for-sharing-results-openly)
-- [Example Steps Toward More Open Results](#example-steps-toward-more-open-results)
-- [How Emerging Technology Like AI is Changing How We Do Science](#how-emerging-technology-like-ai-is-changing-how-we-do-science)
-- [Lesson 5: Summary](#lesson-5-summary)
-- [Lesson 5: Knowledge Check](#lesson-5-knowledge-check)
-- [Open Results Summary](#open-results-summary)
-- [Open Science 101 Summary](#open-science-101-summary)
+- [Escribiendo un Plan de Gestión de Datos de Ciencia Abierta: Qué incluír en un OSDMP para compartir resultados abiertos](#writing-an-osdmp-what-to-include-in-the-osdmp-for-sharing-results-openly)
+- [Ejemplo de pasos hacia resultados más abiertos](#ejemplo-pasos-hacia-resultados-mas-abiertos)
+- [Cómo una tecnología emergente como la IA está cambiando nuestra forma de hacer ciencia](#cómo-tecnología-emergente-como-ia-está-cambiando-cómo-hacemos-ciencia)
+- [Lección 5: Resumen](#lesson-5-summary)
+- [Lección 5: Evaluación](#leccion-5-Evaluación)
+- [Resumen de resultados abiertos](#open-results-resumy)
+- [Resumen de Introducción a la Ciencia Abierta](#open-science-101-summary)
 
-## Overview
+## Descripción General
 
-In the previous lessons, we learned about various ways to share our science, and what steps we should think about when sharing. In this lesson, we tie the concepts from previous lessons together with some specific guidance for writing the Sharing Results section of an Open Science and Data Management Plans (OSDMP). We will also reflect on how our society and technology constantly evolve, as does the way we do science. A new technology with the potential to radically alter the way we do and share science is artificial intelligence (AI), particularly when it comes to language learning models. These AI tools are already changing how we interact with written text. In this lesson, we discuss some of the ways that AI is and will affect how we do and share our science.
+En las lecciones anteriores hemos aprendido varias formas de compartir nuestra ciencia y los pasos que debemos tener en cuenta a la hora de hacerlo. En esta lección, unimos los conceptos de las lecciones anteriores con algunas orientaciones específicas para redactar la sección Compartir Resultados de un Plan de Ciencia Abierta y Gestión de Datos (en inglés, _Open Science Data Management Plan, OSDMP_). También reflexionaremos sobre cómo nuestra sociedad y la tecnología evolucionan constantemente, al igual que nuestra forma de hacer ciencia. Una nueva tecnología con el potencial de alterar radicalmente la forma en que hacemos y compartimos la ciencia es la inteligencia artificial (IA), sobre todo cuando se trata de modelos de aprendizaje de idiomas. Estas herramientas de IA ya están cambiando la forma en que interactuamos con el texto escrito. En esta lección analizaremos algunas de las formas en que la IA afecta y afectará a la forma en que hacemos y compartimos nuestra ciencia.
 
-## Learning Objectives
+## Objetivos de Aprendizaje
 
-After completing this lesson, you should be able to:
+Después de completar este módulo, deberías poder:
 
-- List what to include in an OSDMP for sharing results openly.
-- List some concrete steps toward sharing results openly.
-- Describe how emerging technology like AI is currently impacting how we use, make, and share our science.
+- Listar lo que debe incluirse en un OSDMP para compartir resultados abiertamente.
+- Listar algunos pasos concretos para compartir resultados abiertamente.
+- Describir cómo la tecnología emergente, como la IA, está influyendo actualmente en la forma en que utilizamos, hacemos y compartimos nuestra ciencia.
 
-## Writing an OSDMP: What to Include in the OSDMP for Sharing Results Openly
+## Escribiendo un OSDMP: Qué incluir en el OSDMP para compartir resultados de forma abierta
 
-The process within an Open Science and Data Management Plans (OSDMP) to share data and software is covered in other modules, so here we will discuss how to share the other type of research outputs. Most proposals require that you include plans for publications such as peer reviewed manuscripts, technical reports, books, and conference materials.
+El proceso para compartir datos y software en el marco de un Plan de Ciencia Abierta y Gestión de Datos (Open Science and Data Management Plans, OSDMP) se trata en otros módulos, por lo que aquí hablaremos de cómo compartir el otro tipo de resultados de la investigación. La mayoría de las propuestas exigen que se incluyan planes para publicaciones como manuscritos revisados por pares, informes técnicos, libros y material para conferencias.
 
-Though not required, it can be a good idea to include plans for making your results publicly accessible in ways other than traditional publishing, e.g. online blog posts, tutorials, or other materials. After all, writing an OSDMP is often required for funding requests, and this can be a way to show proposal reviewers that you are thinking about how to best share your science.
+Aunque no es obligatorio, puede ser una buena idea incluir planes para hacer que tus resultados sean públicamente accesibles de formas distintas a la publicación tradicional, por ejemplo, entradas de blog en línea, tutoriales u otros materiales. Después de todo, la redacción de un OSDMP es a menudo un requisito para las solicitudes de financiación, y puede ser una forma de mostrar a quienes revisan las propuestas que estás pensando en la mejor manera de compartir tu ciencia.
 
-### Activity 5.1: Pen to Paper
+### Actividad 5.1: Del bolígrafo al papel
 
 <img src="../images/media/image21.png" style="width:350px;height:auto;" />
 
-Write a sample results section of an OSDMP that details how you would plan to make your results open. Think about an example from your research and what details you would need to include to convince reviewers that you will share open access results.
+Escribe una sección de resultados de muestra de un OSDMP que detalle cómo planearías hacer públicos tus resultados. Piensa en un ejemplo de tu investigación y qué detalles necesitarás incluir para convencer a quienes revisan que compartirás los resultados de acceso abierto.
 
-**Example 1:** This activity will result in 2 peer-reviewed publications that will be published green open- access. Pre-prints will be archived in PubSpace.
+**Ejemplo 1:** Esta actividad dará lugar a 2 publicaciones revisadas por pares que se publicarán en acceso abierto verde. Las Preimpresiones se archivarán en PubSpace.
 
-**Example 2:** This activity will result in the creation of computational notebooks, 4 conference abstracts and posters, 2 peer reviewed manuscripts, and 2 online plain-language articles, summarizing our results. Peer-reviewed publications will be published green open-access and pre-prints will be archived in PubSpace or the journals open-access preprint server. All other materials will be archived at Zenodo, assigned a DOI, and assigned a CC-BY license or permissive software license.
+**Ejemplo 2:** Esta actividad dará lugar a la creación de cuadernos computacionales, 4 resúmenes y pósteres para congresos, 2 manuscritos revisados por pares y 2 artículos en línea en lenguaje sencillo, que resumirán nuestros resultados. Las publicaciones revisadas por pares se publicarán en acceso abierto y las preimpresiones se archivarán en PubSpace o en el servidor de preimpresión de las revistas de acceso abierto. Todos los demás materiales se archivarán en Zenodo, se les asignará un DOI y se les asignará una licencia CC-BY o una licencia de software permisiva.
 
-For these examples, what other information or details could be added? If you were planning to write a tutorial about your science, what would you include?
+Para estos ejemplos, ¿qué otra información o detalles podrían añadirse? Si estuvieras planeando escribir un tutorial sobre tu ciencia, ¿qué incluirías?
 
-## Example Steps Toward More Open Results
+## Ejemplos de Pasos Hacia Resultados Más Abiertos
 
-[**NASA Announces Summer 2023 Hottest on Record**](https://www.nasa.gov/news-release/nasa-announces-summer-2023-hottest-on-record/)
+[**La NASA anuncia que el verano de 2023 será el más caluroso jamás registrado**](https://www.nasa.gov/news-release/nasa-Chances-Summer-2023-hottest-on-record/)
 
 <img src="../images/media/image75.jpeg" style="width:350px;height:auto;" />
 
-Image credit: NASA Earth Observatory/Lauren Dauphin.
+Crédito de la imagen: NASA Earth Observatory/Lauren Dauphin.
 
 ---
 
-When results and research objects are published openly, anyone can reproduce the scientific result. For topics like climate change, the transparency of results helps reduce misinformation and increases public trust in results.
+Cuando los resultados y los objetivos de investigación se publican abiertamente, cualquiera puede reproducir el resultado científico. Para temas como el cambio climático, la transparencia de los resultados ayuda a reducir la desinformación y aumenta la confianza del público en los resultados.
 
-Here is a GitHub [repository](https://github.com/jmunroe/OpenScienceExample_GISTEMPv4/tree/main) with an example of a [result](https://gist.github.com/jmunroe/74a1eda18d1473040ed91f2a1f02b1b5) made available as open access. This visualization is not perfect but provides a snapshot of a work in progress that can be shared with the community for feedback and refinement. This could be further refined, or perhaps serve as the start of a new effort that will extend the initial results. The results are more accessible, inclusive, and reproducible by being published openly.
+Aquí hay un [repositorio] GitHub(https://github.com/jmunroe/OpenScienceExample_GISTEMPv4/tree/main) con un ejemplo de un [resultado](https://gist.github.com/jmunroe/74a1eda18d1473040ed91f2a1f02b1b5) disponible como acceso abierto. Esta visualización no es perfecta, pero ofrece una instantánea de un trabajo en curso que puede compartirse con la comunidad para recabar opiniones y perfeccionarlo. Esto podría perfeccionarse aún más, o quizá servir como inicio de un nuevo esfuerzo que amplíe los resultados iniciales. Los resultados son más accesibles, inclusivos y reproducibles al publicarse abiertamente.
 
-There are lots of ways that open science can extend the span or scope of projects. Here are some steps you can take to share your open results in a way that makes your work more usable, reproducible, and inclusive:
+Hay muchas maneras en que la ciencia abierta puede ampliar la duración o el alcance de los proyectos. Estos son algunos pasos que puedes tomar para compartir tus resultados abiertos de forma que tu trabajo sea más utilizable, reproducible e inclusivo:
 
-- Add a Code of Conduct via the CODE_OF_CONDUCT file and link to other policies that apply to your work.
-- Add contributors and authorship guidelines via a CONTRIBUTING file.
-- Add your collaborators and team members' names with their permission.
-- Add your proposal but remove any sensitive information.
-- Create a preliminary roadmap and what goals the project is trying to achieve.
-- Create a project management, code and data folders where you can upload appropriate information as your project develops.
-- Create a resource list that your project requires.
-- Provide links to training materials that your collaborators and contributors may benefit from.
-- Use issues and project boards to communicate what is happening in the project.
-- Use Pull Request to invite reviews to new development of code and content.
-- Add user manual and executable notebooks to allow code testing.
-- Create and share executable notebooks that document how data is processed and the result obtained.
-- Create tutorials or short form videos demonstrating how a step in your research workflow was accomplished.
-- Write a blog post about your experience wrestling with a particular research challenge and how you solved it.
-- Contribute to documentation to improve the open-source tools based on your own experience.
-- Connect your repository to Binder to allow online testing of your code and executable notebooks.
-- Link all the outputs that are generated outside this repository (like blog, video, forum post and podcast among others as discussed above).
-- Some advanced steps that should be applied as the project develops include continuous integration, containerisation, Citation CFF file and the creation of a simple web page to link all information.
+- Añade un Código de Conducta a través del archivo CÓDIGO_DE_CONDUCTA y enlaza a otras políticas que se aplican a tu trabajo.
+- Añade guías de personas colaboradoras y autoría a través de un archivo COLABORAR.
+- Añade a tu equipo con su permiso y a personas colaboradoras.
+- Añade tu propuesta pero elimina cualquier información sensible.
+- Elabora una hoja de ruta preliminar y determina qué objetivos pretendes alcanzar con el proyecto.
+- Crea una carpeta de gestión del proyecto, otra de código y otra de datos, en las que podrás cargar la información adecuada a medida que se desarrolle el proyecto.
+- Elabora una lista de los recursos necesarios para tu proyecto.
+- Proporciona enlaces a materiales de capacitación de los que puedan beneficiarse las personas colaboradoras.
+- Utiliza tableros de proyecto e incidencias para comunicar lo que está ocurriendo en el proyecto.
+- Utiliza Solicitudes de Devolución para invitar a revisiones a nuevos desarrollos de código y contenido.
+- Añade manuales de usuario y cuadernos ejecutables para permitir pruebas de código.
+- Crea y comparte cuadernos ejecutables que documenten cómo se procesan los datos y el resultado obtenido.
+- Crea tutoriales o videos cortos que demuestren cómo se realizó un paso en el flujo de trabajo de tu investigación.
+- Escribe una entrada de blog sobre tu experiencia luchando con un reto de investigación concreto y cómo lo resolviste.
+- Contribuye a la documentación para mejorar las herramientas de código abierto basándote en tu propia experiencia.
+- Conecta tu repositorio a Binder para permitir pruebas en línea de tu código y cuadernos ejecutables.
+- Enlaza todas las salidas generadas fuera de este repositorio (como blogs, videos, publicaciones en foros y podcasts, entre otros, como se discutió anteriormente).
+- Algunos pasos avanzados que deberían aplicarse a medida que se desarrolla el proyecto son la integración continua, la contenedorización, el archivo CITACION CFF y la creación de una página web sencilla para enlazar toda la información.
 
-## How Emerging Technology Like AI is Changing How We Do Science
+## Cómo una tecnología emergente como la IA está cambiando nuestra forma de hacer ciencia
 
-Throughout these modules, the internet has been identified as a fundamental disruptive technology that changed how almost all of science is accomplished. Scientists rarely go to libraries to read the latest journal articles. Data is no longer mailed around the world on tape drives. Software isn’t shared via floppy disks. The internet helped create the modern scientific workflow and made science more interactive and accessible. Now AI tools are starting to disrupt science in a similar manner. AI is not only revolutionizing many aspects of our lives, it is also changing how we do science. As companies race to create and integrate new generative AI tools into every aspect of our lives, many scientists, institutions, journal publishers, and agencies are looking to see how to use these tools effectively, understand their reliability, accuracy, biases, and how to also use these cutting edge tools ethically. An additional concern is how any information shared with AI tools may be used to intentionally or unintentionally disclose confidential data, leading to privacy concerns.
+A lo largo de estos módulos, Internet ha sido identificada como una tecnología disruptiva fundamental que cambió la forma en que se realiza casi toda la ciencia. La comunidad científica rara vez va a las bibliotecas para leer los últimos artículos de una revista. Los datos ya no se envían por correo a todo el mundo en unidades de cinta. El software ya no se comparte a través de disquetes flexibles. Internet ayudó a crear el flujo de trabajo científico moderno y ha hecho la ciencia más interactiva y accesible. Ahora las herramientas de IA están empezando a alterar la ciencia de una manera similar. La IA no sólo está revolucionando muchos aspectos de nuestras vidas, sino que también está cambiando nuestra forma de hacer ciencia. A medida que las empresas compiten por crear e integrar nuevas herramientas de IA generativa en cada aspecto de nuestras vidas, muchas personas que investigan y editan revistas, instituciones, y agencias buscan cómo utilizar estas herramientas de forma eficaz, comprender su fiabilidad, precisión y sesgos, y cómo utilizar también estas herramientas de vanguardia de forma ética. Otro motivo de preocupación es cómo la información compartida con las herramientas de IA puede utilizarse para revelar datos confidenciales de forma intencionada o no, lo que plantea problemas de privacidad.
 
-AI can help us use and share research. It can act as an accelerant, taking care of tedious tasks while leaving scientits free for more creative thought. These tools are better than humans at processing vast amounts of data, but humans are better at creative and nuanced thought. This is important to consider when determining whether or not to use AI. As an example, many people already use AI tools to help with their inbox management and writing emails with AI generated suggested content. Within science, there are many potential tasks that could potentially be expedited using AI, according to three studies published in Nature:
+La IA puede ayudarnos a usar y compartir la investigación. Puede actuar como un acelerador, ocupándose de las tareas tediosas y dejando libres a las personas que investigan para pensamientos más creativos. Estas herramientas son mejores que los humanos para procesar grandes cantidades de datos, pero los seres humanos son mejores para el pensamiento creativo y matizado. Esto es importante para tener en cuenta a la hora de determinar si usar o no la IA. Por ejemplo, muchas personas ya utilizan herramientas de IA para ayudarles a gestionar su bandeja de entrada y a redactar correos electrónicos con contenido sugerido generado por IA. Dentro de la ciencia, hay muchas tareas que podrían agilizarse utilizando la IA, según tres estudios publicados en Nature:
 
-- [AI science search engines are exploding in number — are they any good?](https://www.nature.com/articles/d41586-023-01273-w)
-- [How AI technology can tame the scientific literature](https://www.nature.com/articles/d41586-018-06617-5)
-- [AI and science: what 1,600 researchers think](https://www.nature.com/articles/d41586-023-02980-0)
+- [Los motores de búsqueda de ciencias de la IA explotan en número — ¿son buenos?](https://www.nature.com/articles/d41586-023-01273-w)
+- [Cómo la tecnología de IA puede domar la literatura científica](https://www.nature.com/articles/d41586-018-06617-5)
+- [IA y ciencia: lo que piensan 1.600 personas que investigan](https://www.nature.com/articles/d41586-023-02980-0)
 
-### Using AI:
+### Usando AI:
 
 <table>
   <thead>
     <tr>
-        <th>LITERATURE REVIEWS ☑</th>
-        <th>SEARCHING FOR RELEVANT DATASETS AND SOFTWARE TOOLS</th>
-        <th>LANGUAGE BARRIERS</th>
+        <th>REVISIONES DE LITERATURA ☑</th>
+        <th>BUSCANDO CONJUNTOS DE DATOS Y HERRAMIENTAS DE SOFTWARE RELEVANTES</th>
+        <th>BARRERAS LINGÜÍSTICAS</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>The ever-increasing volume of scientific literature has made it challenging for researchers to stay abreast of recent articles and find relevant older ones. AI tools can be used to create personalized recommendations for relevant articles as well as create summaries of them in various formats. Some examples of these tools include <a href="https://scisummary.com/dashboard">SciSummary</a>, <a href="https://www.summarizebot.com/">SummarizeBot</a>, <a href="https://www.scholarcy.com/">Scholarcy</a>, <a href="https://www.paperdigest.org/">Paper Digest</a>, <a href="https://www.scilynk.com/">Lynx AI</a>, <a href="https://www.tldrthis.com/">TLDR This.</a></p>
-            <p>Possible drawbacks when using these tools include:</p>
+            <p>El volumen cada vez mayor de la literatura científica ha dificultado que quienes investigan se mantengan al día de los artículos más recientes y encuentren los más antiguos. Las herramientas de IA se pueden utilizar para crear recomendaciones personalizadas para artículos relevantes, así como para crear resúmenes de los mismos en diversos formatos. Algunos ejemplos de estas herramientas incluyen <a href="https://scisummary.com/dashboard">SciSummary</a>, <a href="https://www.summarizebot.com/">SummarizeBot</a>, <a href="https://www.scholarcy.com/">Académica</a>, <a href="https://www.paperdigest.org/">Paper Digest</a>, <a href="https://www.scilynk.com/">Lynx AI</a>, <a href="https://www.tldrthis.com/">TLDR This.</a></p>
+            <p>Los posibles inconvenientes al usar estas herramientas incluyen:</p>
             <ul>
-                <li>Potential introduction of biases</li>
-                <li>Insufficient contextual understanding or interpretation</li>
-                <li>Possible inability to handle complex technical language</li>
-                <li>Incorrectly identifying key points</li>
+                <li>Introducción potencial de sesgos</li>
+                <li>Insuficiente comprensión o interpretación contextual</li>
+                <li>Posible incapacidad para manejar el lenguaje técnico complejo</li>
+                <li>Identificación incorrecta de puntos clave</li>
             </ul>
         </td>
     </tr>
@@ -114,15 +114,15 @@ AI can help us use and share research. It can act as an accelerant, taking care 
 <table>
   <thead>
     <tr>
-        <th>LITERATURE REVIEWS</th>
-        <th>SEARCHING FOR RELEVANT DATASETS AND SOFTWARE TOOLS ☑</th>
-        <th>LANGUAGE BARRIERS</th>
+        <th>REVISIONES DE LITERATURA</th>
+        <th>COMPRANDO PARA DATOS RELEVANTES Y SOFTWARE TOLS ☑</th>
+        <th>BARRERAS LINGÜÍSTICAS</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>AI tools can be used to discover different datasets that may be relevant to a scientific query and recommend relevant software libraries.</p>
+            <p>Las herramientas de IA pueden utilizarse para descubrir diferentes conjuntos de datos que pueden ser relevantes para una consulta científica y recomendar bibliotecas de software relevantes.</p>
         </td>
     </tr>
   </tbody>
@@ -131,34 +131,34 @@ AI can help us use and share research. It can act as an accelerant, taking care 
 <table>
   <thead>
     <tr>
-        <th>LITERATURE REVIEWS</th>
-        <th>SEARCHING FOR RELEVANT DATASETS AND SOFTWARE TOOLS</th>
-        <th>LANGUAGE BARRIERS ☑</th>
+        <th>REVISIONES DE LITERATURA</th>
+        <th>BUSCANDO CONJUNTOS DE DATOS Y HERRAMIENTAS DE SOFTWARE RELEVANTES</th>
+        <th>BARRERAS LINGÜÍSTICAS ☑</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>AI tools can be used to create automatic translations into different languages. Several of the tools above also offer translation.</p>
+            <p>Las herramientas de IA pueden utilizarse para crear traducciones automáticas a diferentes idiomas. Varias de las herramientas mencionadas también ofrecen traducción.</p>
         </td>
     </tr>
   </tbody>
 </table>
 
-### Making with AI:
+### Creando con IA:
 
 <table>
   <thead>
     <tr>
-        <th>CODE ☑</th>
-        <th>RESULTS</th>
+        <th>CÓDIGO ☑</th>
+        <th>RESULTADOS</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="2">
-            <p>AI tools can be used to generate code to perform analysis tasks and translate between programming languages. Some examples of these tools include <a href="https://github.com/features/copilot">Co-Pilot</a>, <a href="https://openai.com/blog/openai-codex">Codex</a>, <a href="https://chat.openai.com/auth/login">ChatGPT</a>, and <a href="https://alphacode.deepmind.com/">AlphaCode</a>.</p>
-            <p><strong>Usage tip:</strong> Popular large language models can be used to generate code, but it has been noted by many that breaking down tasks and using careful prompts helps generate better results.</p>
+            <p>Las herramientas de IA pueden utilizarse para generar código para realizar tareas de análisis y traducir entre lenguajes de programación. Algunos ejemplos de estas herramientas incluyen <a href="https://github.com/features/copilot">Co-Pilot</a>, <a href="https://openai.com/blog/openai-codex">Codex</a>, <a href="https://chat.openai.com/auth/login">ChatGPT</a>y <a href="https://alphacode.deepmind.com/">AlphaCode</a>.</p>
+            <p><strong>Consejo de uso:</strong> Modelos grandes de lenguaje populares pueden ser usados para generar código, pero muchos han notado que la ruptura de tareas y el uso de indicaciones cuidadosas ayudan a generar mejores resultados.</p>
         </td>
     </tr>
   </tbody>
@@ -167,157 +167,157 @@ AI can help us use and share research. It can act as an accelerant, taking care 
 <table>
   <thead>
     <tr>
-        <th>CODE</th>
-        <th>RESULTS ☑</th>
+        <th>CÓDIGO</th>
+        <th>RESULTADOS ☑</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="2">
-            <p>AI tools can be used to generate text, summarize background materials, develop key points, develop images and figures, and conclusions. Using these tools may help non-native speakers communicate science in different languages more clearly. Additionally, they could be helpful to develop plain-language summaries, blog posts, and social media posts.</p>
-            <p>Some possible drawbacks when using these tools:</p>
+            <p>Las herramientas de IA se pueden utilizar para generar texto, resumir materiales de fondo, desarrollar puntos clave, desarrollar imágenes y figuras, y conclusiones. Usar estas herramientas puede ayudar a las personas no nativas a comunicar ciencia en diferentes idiomas de manera más clara. Además, podrían ser útiles para desarrollar resúmenes en lenguaje plano, publicaciones en blogs y publicaciones en redes sociales.</p>
+            <p>Los posibles inconvenientes al usar estas herramientas incluyen:</p>
             <ul>
-            <li>See the list above for a literature review.</li>
-            <li>Factual and commonsense reasoning mistakes because they do not (at this time) have the type of cognition or perception needed to understand language and its relationship to the external physical, biological, and social world (cite: <a href="https://www.tandfonline.com/doi/full/10.1080/08989621.2023.2168535">https://www.tandfonline.com/doi/full/10.1080/08989621.2023.2168535)</a>.</li>
+            <li>Vea la lista anterior para una revisión de la literatura.</li>
+            <li>Los errores de razonamiento fáctico y de sentido común porque no tienen (en este momento) el tipo de reconocimiento o percepción necesaria para entender el lenguaje y su relación con el mundo físico externo, biológico y social (cito: <a href="https://www.tandfonline.com/doi/full/10.1080/08989621.2023.2168535">https://www.tandfonline.com/doi/full/10.1080/08989621.2023.2168535)</a>.</li>
             </ul>
         </td>
     </tr>
   </tbody>
 </table>
 
-### Sharing with AI:
+### Compartiendo con IA:
 
-- Results - AI/ML models are increasingly being used in research. When sharing results, follow best practices as outlined in the [Ethical and Responsible Use of AI/ML in the Earth, Space, and Environmental Sciences](https://essopenarchive.org/users/536571/articles/635008-ethical-and-responsible-use-of-ai-ml-in-the-earth-space-and-environmental-sciences) article.
-- Incremental prompting can help create an outline for your research article. An example can be found on [X](https://twitter.com/MushtaqBilalPhD/status/1640243808851075072?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1640243808851075072%7Ctwgr%5E86f4269a3a6f05f7927bdb57e4f45654f827dc44%7Ctwcon%5Es1_\&ref_url=https%3A%2F%2Fwww.euronews.com%2Fnext%2F2023%2F08%2F07%2Fbest-ai-tools-academic-research-chatgpt-consensus-chatpdf-elicit-research-rabbit-scite).
-- AI tools can help identify where to share results and help write social media or other short posts based on your article.
+- Resultados - Los modelos IA/AA se utilizan cada vez más en investigación. Al compartir resultados, sigue las mejores prácticas descritas en el artículo [Uso ético y responsable de IA/AA en la Tierra, el Espacio y las Ciencias Ambientales](https://essopenarchive.org/users/536571/articles/635008-ethical-and-responsible-use-of-ai-ml-in-the-earth-space-and-environmental-sciences).
+- Las indicaciones incrementales pueden ayudar a crear un esquema para tu artículo de investigación. Se puede encontrar un ejemplo en [X](https://twitter.com/MushtaqBilalPhD/status/1640243808851075072?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1640243808851075072%7Ctwgr%5E86f4269a3a6f05f7927bdb57e4f45654f827dc44%7Ctwcon%5Es1_\&ref_url=https%3A%2F%2Fwww.euronews.com%2Fnext%2F2023%2F08%2F07%2Fbest-ai-tools-academic-research-chatgpt-consensus-chatpdf-elicit-research-rabbit-scite).
+- Las herramientas de IA pueden ayudar a identificar dónde compartir resultados y ayudar a escribir publicaciones breves en las redes sociales u otras publicaciones basadas en tu artículo.
 
-### Cautions About Use of AI Tools
+### Precauciones sobre el uso de herramientas de IA
 
-Journals are increasingly implementing guidelines and requirements concerning the usage of AI tools during the writing process. Many require that the use of AI tools for writing, images creation, or other elements must be disclosed and their method of use identified. As is the case with all other material within an article, authors are fully responsible for ensuring that content is correct. Examples of this policy can be read in the AI guidelines of [Nature](https://www.nature.com/nature-portfolio/editorial-policies/ai) and [NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10318315/).
+Las revistas están implementando cada vez más pautas y requisitos relacionados al uso de herramientas de IA durante el proceso de escritura. Muchos exigen que se divulgue el uso de herramientas de IA para escribir, crear imágenes u otros elementos y se identifique su método de uso. Como sucede con todo otro material dentro de un artículo, las personas responsables de la autoría, deben garantizar que el contenido sea correcto. Ejemplos de esta política pueden ser leídos en las pautas de IA de [Nature](https://www.nature.com/nature-Firstio/editorial-policies/ai) y [NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10318315/).
 
-Furthermore, there are numerous examples of generative AI (for both code and content) delivering plagiarized information in violation of licenses, as well as fabricateding material including citations. Using these AI tools may lead to findings of academic and research misconduct should fabrication, falsification or plagiarism be contained within AI generated materials. So BE CAREFUL. Learn more about possible issues with AI in a [Nature example](https://www.nature.com/nature-index/news/artificial-intelligence-writing-tools-promise-faster-manuscripts-for-researchers) here.
+Además, existen numerosos ejemplos de IA generativa (tanto para código como para contenido)
+que entregan información plagiada en violación de las licencias, así como también fabrican material que incluye citas. El uso de estas herramientas de IA puede conducir a hallazgos de mala conducta académica y de investigación en caso de que los materiales generados por IA contengan fabricación, falsificación o plagio. Así que ten cuidado. Obtenga más información sobre posibles problemas con la IA en un [ejemplo de Nature](https://www.nature.com/nature-index/news/artificial-intelligence-writing-tools-promise-faster-manuscripts-for-researchers) aquí.
 
-At this time, and for these reasons, AI tools are generally not allowed in grant applications or in peer- review or proposal review activities.
+En este momento, y por estas razones, las herramientas de IA generalmente no están permitidas en las solicitudes de becas o en la revisión por pares o en las actividades de revisión de propuestas.
 
-The National Institutes of Health (NIH) has prohibited "scientific peer reviewers from using natural language processors, large language models, or other generative Artificial Intelligence (AI) technologies for analyzing and formulating peer review critiques for grant applications and R&D contract proposals." Utilizing AI in the peer review process is a breach of confidentiality because these tools "have no guarantee of where data is being sent, saved, viewed or used in the future." Using AI tools to help draft a critique or to assist with improving the grammar and syntax of a critique draft are both considered breaches of confidentiality. Read [NIH's AI policy](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-23-149.html) here.
+El Instituto Nacional de Salud (NIH, por sus siglas en inglés) ha prohibido "a los revisores científicos por pares usar procesadores de lenguaje natural, grandes modelos de lenguaje, u otras tecnologías generativas de Inteligencia Artificial (IA) para analizar y formular críticas de revisión por pares para solicitudes de subvenciones y propuestas de contratos de Investigación y Desarrollo." Utilizar IA en el proceso de revisión por pares es una violación de la confidencialidad porque estas herramientas "no tienen garantía de dónde se enviarán, guardarán, verán o utilizarán los datos en el futuro." El uso de herramientas de IA para ayudar a redactar una crítica, o para ayudar a mejorar la gramática y la sintaxis de un borrador crítico, se consideran violaciones de la confidencialidad. Lee [política de IA de NIH](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-23-149.html) aquí.
 
-AI tools for science are developing rapidly. The science community's understanding of how to ethically and safely use AI is just developing as its use in research expands rapidly. The guidelines above offer a snapshot in time and will likely continue to evolve. If you choose to use these tools for scientific research, carefully consider how much to rely on them and how their biases may impact results, as cautioned in [this Nature article](https://www.nature.com/articles/d41586-023-02980-0). The internet has transformed the world and AI tools are likely to do the same. As with any tool, it is important they are used for the appropriate purpose and in an ethical manner.
+Las herramientas de IA para la ciencia se desarrollan rápidamente. La comprensión de la comunidad científica de cómo usar IA de forma ética y segura se está desarrollando a medida que su uso en la investigación se expande rápidamente. Las pautas anteriores ofrecen una instantánea en el tiempo y probablemente seguirán evolucionando. Si eliges utilizar estas herramientas para la investigación científica, considera cuidadosamente cuánto confiar en ellas y cómo sus sesgos pueden impactar los resultados, como se advierte en [este artículo de la Nature](https://www.nature.com/articles/d41586-023-02980-0). Internet ha transformado el mundo y es probable que las herramientas de IA hagan lo mismo. Como con cualquier herramienta, es importante que se utilicen con el fin apropiado y de forma ética.
 
-## Lesson 5: Summary
+## Lección 5: Resumen
 
-The steps that we highlight to make your research more reproducible and open will advance science and the impact of your research. In fact, the steps we have highlighted are things we can do immediately to ensure we make open and reproducible results.
+Los pasos que destacamos para hacer que tu investigación sea más reproducible y abierta impulsarán la ciencia y el impacto de tu investigación. De hecho, los pasos que hemos destacado son cosas que podemos hacer de inmediato para asegurarnos de obtener resultados abiertos y reproducibles.
 
-In this lesson, you learned:
+En esta lección, has aprendido:
 
-- How to include open results in the OSDMP.
-- An example of how results can be shared openly.
-- That developing AI tools are being used in all parts of the scientific workflow, they are changing rapidly, and there are still many open questions about how and when to use them.
+- Cómo incluir resultados abiertos en el Plan de ciencia abierta y gestión de datos (OSDMP, por sus siglas en inglés).
+- Un ejemplo de cómo se pueden compartir los resultados abiertamente.
+- Que las herramientas de IA en desarrollo se están utilizando en todas las partes del flujo de trabajo científico, están cambiando rápidamente, y todavía quedan muchas preguntas abiertas sobre cómo y cuándo utilizarlas.
 
-## Lesson 5: Knowledge Check
+## Lección 5: Evaluación
 
-Answer the following questions to test what you have learned so far.
+Responde las siguientes preguntas para poner a prueba lo que ha aprendido hasta ahora.
 
-_Question_
+**Pregunta**
 
 **01/03**
 
-Read the statement below and decide whether it's true or false.
+Lee la siguiente afirmación y decide si es verdadera o falsa.
 
-_It is a good idea to include plans in your OSDMP for making your results available in ways outside of traditional publishing, e.g. online blog posts or tutorials._
+_Es una buena idea incluir planes en tu Plan de Ciencia Abierta y Gestión de Datos (OSDMP, por sus siglas en inglés) para que tus resultados estén disponibles de formas distintas a las de publicación tradicional, por ejmplo publicaciones de blogs o tutoriales en línea._
 
-- True
-- False
+- Verdadero
+- Falso
 
-_Question_
+**Pregunta**
 
 **02/03**
 
-Which of the following aspects of AI are considered as benefits? Select all that apply.
+¿Cuál de los siguientes aspectos de IA se consideran como beneficios? Selecciona todos los que correspondan.
 
-- Personalized journal article recommendations based on your discipline and interests
-- Recommendations for data and software relevant to your science project
-- Potential introduction of bias
-- Factual mistakes
-- Translation between languages
+- Recomendaciones personalizadas de artículos de revistas basadas en tu disciplina e intereses
+- Recomendaciones de datos y software relevantes para tu proyecto de ciencia
+- Introducción potencial de sesgos
+- Errores de Fin
+- Traducción entre idiomas
 
-_Question_
+**Pregunta**
 
 **03/03**
 
-Which of the following are steps you can take to share your open results online? Let's assume that, like the activity, you are sharing an interactive visualization.
+¿Cuáles de los siguientes son los pasos que puede tomar para compartir sus resultados abiertos en línea? Supongamos que, al igual que la actividad, estás compartiendo una visualización interactiva.
 
-- Host your project in a public GitHub repository
-- Assign an open license
-- Add a code of conduct to the GitHub repository
-- Add a user manual
-- Release your project on public repositories that assign DOIs
-- All of the above
+- Organiza tu proyecto en un repositorio público de GitHub
+- Asignar una licencia abierta
+- Añadir un código de conducta al repositorio de GitHub
+- Añadir un manual de usuario
+- Publica tu proyecto en los repositorios públicos que asignan DOIs
+- Todas las anteriores
 
-## Open Results Summary
+## Resumen acerca Datos Abiertos
 
-### Moving Toward an Open, Collaborative, and Inclusive Scientiﬁc Future
+### Avanzar hacia un futuro científico, abierto, colaborativo e inclusivo
 
-Science is meant to benefit society. Sharing our science helps ensure that it benefits society and informs the decisions of the public and policymakers, especially when funded by public agencies or governments. Going back to the 'Ethos of Open Science' module:
+La ciencia tiene como objetivo beneficiar a la sociedad. Compartir nuestra ciencia ayuda a garantizar que beneficie a la sociedad e informe de las decisiones del público y de los responsables de la formulación de políticas, especialmente cuando la financian agencias públicas o gobiernos. Volviendo al módulo 'Conjunto de Valores en Ciencia Abierta':
 
 <img src="../images/media/opensciencequote.jpg" style="width:100%;height:auto;" />
 
-"Open Science is the principle and practice of making research products and
-processes available to all, while respecting diverse cultures, maintaining security and privacy, and fostering collaborations, reproducibility, and equity"
+"La ciencia abierta es el principio y la práctica de lograr que los productos y procesos de investigación estén disponibles para todas las personas, mientras se respeta las diversas culturas, manteniendo la seguridad, privacidad, fomentando la colaboración, la reproducibilidad y la equidad"
 
 **https://open.science.gov/**
 
 ---
 
-Throughout this curriculum, we have focused on skills needed to make research products and processes available to all. The traditional practice of only sharing results limits insight into how science is done and may act to limit who can participate in science. By sharing your scientific process and working openly, you advance all of science in a more rapid and inclusive way. This curriculum will continue to evolve as science evolves and we welcome your contributions!
+A lo largo de este plan de estudios, nos hemos centrado en las habilidades necesarias para hacer que los productos y procesos de investigación estén a disposición de todas las personas. La práctica tradicional de compartir únicamente los resultados limita la visión de cómo se hace la ciencia y puede limitar quién puede participar en la ciencia. Al compartir tu proceso científico y trabajar abiertamente, avanza toda la ciencia de una manera más rápida e inclusiva. ¡Este plan de estudios continuará evolucionando a medida que evolucione la ciencia y agradecemos sus contribuciones!
 
-**Learn more about NASA's transformation to open science and join conversations following the link.**
+**Aprende más sobre la transformación de la NASA para abrir la ciencia y unirte a las conversaciones siguiendo el enlace.**
 
-[CLICK TO LEARN](https://nasa.github.io/Transform-to-Open-Science/)
+[CLICK PARA MAS INFORMACION](https://nasa.github.io/Transform-to-Open-Science/)
 
-## Open Science 101 Summary
+## Resumen Ciencia Abierta 101
 
-Congratulations! You have successfully completed Open Science 101! Thank you for taking the time to learn about open science - you are part of a broader movement to improve science and make our world better!
+¡Felicitaciones! ¡Has completado con éxito Ciencia Abierta 101! Gracias por tomarse el tiempo para aprender sobre la ciencia abierta ¡tu eres parte de un movimiento más amplio para mejorar la ciencia y hacer nuestro mundo mejor!
 
-Ready to learn more? Here are some great next steps:
+¿Listo para aprender más? Aquí hay algunos excelentes próximos pasos:
 
-### Learn more about and engage with TOPS!
+### ¡Aprenda más sobre y participe en TOPS!
 
-**TOPS website**
+**Sitio web TOPS**
 
-[CLICK TO LEARN](https://nasa.github.io/Transform-to-Open-Science/)
+[CLICK PARA MAS INFORMACION](https://nasa.github.io/Transform-to-Open-Science/)
 
-**TOPS GitHub Discussion Forum**
+\*\*Foro de discusión de GitHub TOPS \*\*
 
-[CLICK TO LEARN](https://github.com/nasa/Transform-to-Open-Science/discussions)
+[CLICK PARA MAS INFORMACION](https://github.com/nasa/Transform-to-Open-Science/discussions)
 
-### Learn more through online courses:
+### Aprende más a través de cursos en línea:
 
 **OpenSciency**
 
-[CLICK TO LEARN](https://opensciency.github.io/sprint-content/)
+[CLICK PARA MAS INFORMACION](https://opensciency.github.io/sprint-content/)
 
-**Open Science MOOC**
+**Curso online, masivo y abierto (MOOC, por sus siglas en inglés) de Ciencia Abierta**
 
-[CLICK TO LEARN](https://opensciencemooc.eu/)
+[CLICK PARA MAS INFORMACION](https://opensciencemooc.eu/)
 
-### Take your coding and data science skills to the next level!
+### ¡Lleva tus habilidades en programación y ciencias de datos al siguiente nivel!
 
 **Carpentries**
 
-[CLICK TO LEARN](https://carpentries.org/)
+[CLICK PARA MAS INFORMACION](https://carpentries.org/)
 
-### Read online guides and learn about ongoing open science community initiatives:
+### Lee guías en línea y aprende sobre las iniciativas en curso de la comunidad científica abierta:
 
 **The Turing Way**
 
-[CLICK TO LEARN](https://the-turing-way.netlify.app/index.html)
+[CLICK PARA MAS INFORMACION](https://the-turing-way.netlify.app/index.html)
 
-**Center for Open Science**
+**Centro de Ciencia Abierta**
 
-[CLICK TO LEARN](https://www.cos.io/)
+[CLICK PARA MAS INFORMACION](https://www.cos.io/)
 
 **Open Science NL**
 
-[CLICK TO LEARN](https://www.openscience.nl/en)
+[CLICK PARA MAS INFORMACION](https://www.openscience.nl/en)
 
-These are just a start - there are a lot more fantastic open science resources online! Keep your eye out for discipline-specific learning content that is currently being developed by NASA ScienceCore grantees, and that will be linked here once available!
+Estos son solo un comienzo: ¡hay muchos más recursos fantásticos de ciencia abierta en línea! ¡Sigue de cerca el contenido de aprendizaje de disciplinas específicas que están desarrollando actualmente los becarios de NASA ScienceCore, y que se vinculará aquí una vez que esté disponible!

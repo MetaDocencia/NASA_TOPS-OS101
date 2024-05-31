@@ -1,75 +1,75 @@
-# Lesson 4: Tools for Open Code
+# Lección 4: Herramientas para código abierto
 
-## Navigation
+## Contenidos
 
-- [Introduction to Open Code](#introduction-to-open-code)
-- [Tools for Version Control](#tools-for-version-control)
-- [Tools for Editing Code](#tools-for-editing-code)
-- [Additional Tools](#additional-tools)
-- [Lesson 4: Summary](#lesson-4-summary)
-- [Lesson 4: Knowledge Check](#lesson-4-knowledge-check)
+- [Introducción al código abierto](#introduction-to-open-code)
+- [Herramientas para control de versiones](./Lesson_4#tools-for-version-control)
+- [Herramientas para editar código](./Lesson_4#tools-for-editing-code)
+- [Herramientas adicionales](./Lesson_4#additional-tools)
+- [Lección 4: Resumen](#lesson-4-summary)
+- [Lección 4: Evaluación](#lesson-4-knowledge-check)
 
-## Overview
+## Descripción general
 
-This lesson introduces you to some useful tools for working with open code. You will learn the various tools available to develop, store, and share open code, from version control to code editing software to containers.
+Esta lección nos presenta algunas herramientas útiles para trabajar con código abierto. Aprenderemos acerca de las diversas herramientas disponibles para desarrollar, almacenar y compartir código abierto, desde el control de versiones hasta software de edición de código hasta contenedores.
 
-## Learning Objectives
+## Objetivos de aprendizaje
 
-After completing this lesson, you should be able to:
+Después de completar esta lección, deberías poder:
 
-- Explain the benefits of using tools for open code development.
-- Define version control and understand how it supports collaboration in the development and management of code.
-- List a few tools for editing software and some of their features.
-- Distinguish between software repositories and software archives.
+- Explicar los beneficios del uso de herramientas para el desarrollo de código abierto.
+- Definir el control de versiones y comprender cómo favorece la colaboración en el desarrollo y la gestión del código.
+- Listar algunas herramientas para editar software y algunas de sus características.
+- Distinguir entre repositorios de software y archivos de software.
 
-## Introduction to Open Code
+## Introducción al código abierto
 
-In Lesson 3, we learned about useful tools for working with scientific data. Now, we will provide an overview of commonly used tools that help us write and run computer code to explore, analyze, and visualize our scientific data. Later in Module 4 – Open Code, we will discuss in greater detail what it means to make our code open, and walk through the steps of how to find, create, and share open code.
+En la lección 3 aprendimos sobre herramientas útiles para trabajar con datos científicos. Ahora, proporcionaremos una visión general de las herramientas comúnmente utilizadas que nos ayudan a escribir y ejecutar código informático para explorar, analizar, y visualizar nuestros datos científicos. Más adelante en el Módulo 4, de Código Abierto, discutiremos en mayor detalle lo que significa hacer nuestro código abierto, y recorreremos los pasos para poder encontrar, crear y compartir código abierto.
 
-Understanding how to work with scientific code is essential in the modern landscape of data-driven research. The tools presented in this lesson encompass a diverse array of resources designed to streamline, enhance, and optimize the process of developing, maintaining, and collaborating on code development for scientific research. They enable the creation of robust and efficient code, often leveraging the collective wisdom of the open-source community. In the pursuit of reproducibility and transparency, these tools can also facilitate the sharing and dissemination of scientific code, fostering collaboration and ensuring that the foundations of scientific research remain open and accessible to all.
+Entender cómo trabajar con código científico es esencial en el panorama moderno de la investigación basada en datos. Las herramientas presentadas en esta lección abarcan una amplia gama de recursos diseñados para agilizar, mejorar y optimizar el proceso de desarrollo, mantenimiento y colaboración en el desarrollo de código para la investigación científica. Permiten crear código robusto y eficiente, en muchas ocasiones aprovechando el conocimiento colectivo de la comunidad de código abierto. En la búsqueda de la reproducibilidad y la transparencia, estas herramientas también pueden facilitar el intercambio y la difusión del código científico, fomentando la colaboración y asegurando que los fundamentos de la investigación científica permanezcan abiertos y accesibles para todas las personas.
 
-### Historical Precedent for Making Code Open: Linux Operating System
+### Precedente histórico para crear código abierto: sistema operativo Linux
 
-Is the idea of writing code openly a new concept? No!
+¿La idea de escribir código abierto es un nuevo concepto? ¡No!
 
-#### Context: Development of Linux OS
+#### Contexto: Desarrollo del sistema operativo Linux
 
-[CLICK TO LEARN](https://en.wikipedia.org/wiki/History_of_Linux)
+[HAZ CLIC PARA CONOCER MÁS](https://en.wikipedia.org/wiki/History_of_Linux/)(en inglés)
 
-- Started in 1991 by Linus Torvalds.
-- Almost immediately released for scrutiny.
-- Many eyes → Many bugs found → Many fixes.
+- Comenzado en 1991 por Linus Torvalds.
+- Casi inmediatamente liberado para ser examinado.
+- Muchos ojos → Muchos errores encontrados → Muchas correcciones.
 
-## Tools for Version Control
+## Herramientas para control de versiones
 
-### Version Control
+### Control de versiones
 
-Version control is the practice of tracking and managing changes made to code or other types of files. You may be familiar with “Track changes” in software like Microsoft Word. This is a form of version control, though not one well-suited to working with code. Version control is considered standard practice in the software development community, and simplifies management of code through time.
+El control de versiones es la práctica de rastrear y gestionar los cambios realizados en el código u otro tipo de archivos. Puede que nos resulte familiar si lo asociamos con el "Seguimiento de cambios" en programas como Microsoft Word. Esta es una forma de control de versiones, aunque no la más adecuada para trabajar con código. El control de versiones se considera una práctica estándar en la comunidad de desarrollo de software, y simplifica la gestión de código a través del tiempo.
 
-The general way we use version control starts by initializing a folder on your computing platform with the version control system you are using. A version control system automatically tracks all changes made by contributors and allows you to work offline and return later with updates. You write code as you usually do in your code editor of choice. After you have written some code or made some updates to existing code, you then commit those changes to the version control system to create a sort of "checkpoint" that you can then revert back to later if necessary. Then you add or update more code, and commit changes again. Each commit requires you to add a short message which lets you briefly describe what changes were made. These messages serve as metadata that ensures collaborators, future users, and future you understand your development process at a point in time.
+La forma general de utilizar el control de versiones comienza inicializando una carpeta en su plataforma informática con el sistema de control de versiones que esté utilizando. Un sistema de control de versiones rastrea automáticamente todos los cambios realizados por las personas que colaboran, y les permite trabajar sin conexión y volver más tarde con actualizaciones. Escribe el código como lo haces habitualmente en el editor de código que elijas. Una vez que se ha escrito código o se han realizado actualizaciones en el existente, se introducen los cambios en el sistema de control de versiones para crear una especie de "punto de control" al que se puede volver más tarde si es necesario. Luego agrega o actualiza más código, y vuelve a confirmar los cambios. Cada confirmación requiere que se añada un mensaje breve que permita describir brevemente qué cambios se han hecho. Estos mensajes sirven como metadatos que aseguran que las personas colaboradoras y usuarias, e inclusive tú en el futuro, entiendan su proceso de desarrollo en un momento dado.
 
-This may sound like a simple process, and in many ways it is! So why is it so important? Especially when it comes to coding, the ability to create a snapshot in time of a piece of code can be very helpful. For instance, you may have a piece of code that yields the intended result, but then you want to add a new function. You may choose to copy that code file so you don’t lose the current state, and then work in a new file. This can become cumbersome pretty quickly when you have multiple files that are different versions of the same piece of code. Or instead of creating a new file, you may write code for the new function directly in the original file, but now the code throws errors when you try to run it, and you can’t remember which lines you added since the last time the code ran without errors. By using version control, these problems are solved because we can revert back to the checkpoint when the code ran cleanly, and thereby avoid the need to create multiple copies to save the original piece of code.
+Esto puede sonar como un proceso simple y ¡en muchos sentidos lo es! Entonces, ¿por qué es tan importante? Especialmente cuando se trata de codificar, la posibilidad de crear una captura en el tiempo de un fragmento de código puede resultar muy útil. Por ejemplo, puede tener un fragmento de código que produce el resultado previsto, pero luego desea añadir una nueva función. Se puede optar por copiar ese archivo de código para no perder el estado actual, y luego trabajar en un archivo nuevo. Esto puede resultar engorroso bastante rápido cuando existen varios archivos que son diferentes versiones de la misma pieza de código. O en lugar de crear un nuevo archivo, se puede escribir código para la nueva función directamente en el archivo original, pero ahora éste arroja errores cuando se intenta ejecutarlo, y es difícil recordar qué líneas se añadieron desde la última vez que el código se ejecutó sin errores. Usando el control de versiones, estos problemas se resuelven porque podemos volver al punto de control cuando el código se ejecutó limpiamente, y así evitar la necesidad de crear múltiples copias para guardar el trozo de código original.
 
-There are many other features of version control systems, such as the concept of creating "branches" that allow you to work on new updates to a piece of code independently from and in parallel to the original piece of code. A branch is a deviation from the original code, but can be merged back into the original code when desired. All of these concepts are even more useful when collaborating with others using version control platforms, a collaborative practice that will be discussed later in this lesson.
+Hay muchas otras características de los sistemas de control de versiones, tales como el concepto de crear "ramas" que le permiten trabajar en nuevas actualizaciones de un trozo de código de forma independiente y paralela a la pieza original de código. Una rama es una desviación del código original, pero puede ser fusionada de nuevo en el código original cuando se desee. Todos estos conceptos son aún más útiles cuando se colabora con otras personas utilizando plataformas de control de versiones, una práctica de colaboración que veremos más adelante en esta lección.
 
-### Types of Software Version Control
+### Tipos de control de versiones de software
 
-There are two main styles of software version control systems:
+Hay dos estilos principales de sistemas de control de versiones de software:
 
 <table>
   <thead>
     <tr>
-        <th>CENTRALIZED ☑</th>
-        <th>DISTRIBUTED (MORE POPULAR)</th>
+        <th>CENTRALIZADO ☑</th>
+        <th>DISTRIBUIDO (MÁS POPULAR)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="2">
             <ul>
-              <li>Singular "main" copy of the codebase</li>
-              <li>Must interact with specific server</li>
-              <li>Example: Subversion (SVN)</li>
+              <li>Copia única "principal" del código base</li>
+              <li>Debe interactuar con el servidor específico</li>
+              <li>Ejemplo: Subversion (SVN)</li>
             </ul>
         </td>
     </tr>
@@ -79,16 +79,16 @@ There are two main styles of software version control systems:
 <table>
   <thead>
     <tr>
-        <th>CENTRALIZED</th>
-        <th>DISTRIBUTED (MORE POPULAR) ☑</th>
+        <th>CENTRALIZADO</th>
+        <th>DISTRIBUIDO (MÁS POPULAR) ☑</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="2">
             <p>Control:</p>
-            <p>Each developer’s system can retain a copy of the codebase<br>
-            Examples:</p>
+            <p>El sistema de cada persona que desarrolla puede conservar una copia del código base<br>.
+            Ejemplos:</p>
             <ul>
               <li>Git</li>
               <li>Mercurial</li>
@@ -98,11 +98,11 @@ There are two main styles of software version control systems:
   </tbody>
 </table>
 
-Using a distributed version control system like Git gives you more flexibility.
+Utilizar un sistema distribuido de control de versiones como Git le da más flexibilidad.
 
-**Example: Git**
+**Ejemplo: Git**
 
-The most popular version control system for software development is Git. Git is open-source and is commonly used in conjunction with web-based software hosting sites like GitHub and GitLab (more on these in the next section), which allow for collaboration and sharing of code. You can also use it on your local computer when writing your own code. Git is often run at the command line, but there are other interfaces for using Git as well, including GitHub Desktop and some code editors that have Git integration included (more on this later).
+El sistema de control de versiones más popular para el desarrollo de software es Git. Git es de código abierto y se utiliza habitualmente junto con sitios web de alojamiento de software como GitHub y GitLab (más información sobre ellos en la siguiente sección), que permiten colaborar y compartir código. También puede usarse en una computadora local cuando se escribe código propio. Git suele ejecutarse en la línea de comandos, pero también existen otras interfaces para utilizar Git, como el escritorio de GitHub y algunos editores de código que incluyen integración con Git (más información sobre esto más adelante).
 
 <img src="../images/media/image33.png" style="width:350px;height:auto;" />
 
@@ -110,31 +110,31 @@ The most popular version control system for software development is Git. Git is 
 
 ---
 
-Git is very powerful and widely used (according to a Stack Overflow [ developer survey](https://survey.stackoverflow.co/2022), over 87% of developers use Git), but that doesn’t mean it is straightforward to learn. There are many good resources for learning Git (see below). If you find Git confusing at first, know that you are not alone! (There’s even an XKCD comic about it!). For in-depth training on Git, please see the Software Carpentry lesson, listed below: [ Version Control with Git: Summary and Setup (swcarpentry.github.io)](https://swcarpentry.github.io/git-novice/)
+Git es muy potente y ampliamente utilizado (según [una encuesta de Stack Overflow](https://survey.stackoverflow.co/2022) (en inglés), más del 87% de las personas que se dedican a desarrollar usan Git), pero eso no significa que sea fácil de aprender. Hay muchos buenos recursos para aprender Git (ver más abajo). Si al principio Git resulta confuso, ¡es importante saber que muchas personas tienen dificultad para entenderlo! (¡Incluso hay un cómic XKCD al respecto!). Para una formación en profundidad en Git, por favor vea la lección de Carpentry de Software, que se enumera a continuación: [ Control de versiones con Git: Resumen y configuración (swcarpentry.github.io)](https://swcarpentry.github.io/git-novice/) (en inglés)
 
-### Version Control Platforms
+### Plataformas de control de versiones
 
-Version control platforms, typically web-based software hosting platforms, expand the usefulness of version control by allowing for a centralized location to store and collaborate on code, along with many other helpful features for code development and sharing.
+Las plataformas de control de versiones, normalmente plataformas de alojamiento de software basadas en web, amplían la utilidad del control de versiones al permitir una ubicación centralizada para almacenar y colaborar en el código, junto con muchas otras funciones útiles para el desarrollo y el intercambio de código.
 
-Some examples of version control platforms:
+Algunos ejemplos de plataformas de control de versiones:
 
-- GitHub: a Git-based platform that allows collaboration and code history tracking. Owned by Microsoft.
-- GitLab: a Git-based platform that also offers DevOps and CI/CD functionalities.
-- BitBucket: a platform that can host Git and Mercurial repositories. Owned by Atlassian.
+- GitHub: plataforma basada en Git que permite la colaboración y el seguimiento del historial del código. Propiedad de Microsoft.
+- GitLab: una plataforma basada en Git que también ofrece funcionalidades DevOps y CI/CD.
+- BitBucket: una plataforma que puede alojar repositorios Git y Mercurial. Propiedad de Atlassian.
 
-GitHub is one of the most popular platforms, and so we will provide examples of how to use GitHub in the rest of this section. It is important to note that GitHub is where most open-source software packages are housed, and so if you are interested in getting more involved with the open source software community, GitHub is an essential tool to learn how to use!
+GitHub es una de las plataformas más populares, por lo que en el resto de esta sección daremos ejemplos de cómo utilizar GitHub. Es importante destacar que GitHub es donde se encuentran la mayoría de los paquetes de software de código abierto, por lo que, para aquellas personas que están interesadas en involucrarse más con la comunidad de software de código abierto, ¡GitHub es una herramienta esencial para aprender a usar!
 
-**Example: GitHub**
+**Ejemplo: GitHub**
 
-GitHub is an online, cloud-based software repository hosting site that integrates with Git and offers many other features that help with code development, collaboration, testing, and releases. Before we dive into some of these features, it’s important to understand how GitHub acts as a remote repository when using version control systems like Git.
+GitHub es un repositorio de software en línea basado en la nube que se integra con Git y ofrece muchas otras características que ayudan en el desarrollo de código. colaboración, pruebas y publicaciones. Antes de avanzar en algunas de estas características, es importante entender cómo GitHub actúa como un repositorio remoto cuando utiliza sistemas de control de versiones como Git.
 
-If we go back to the general idea of using version control systems, GitHub can be added into the picture as a remote repository that hosts code. After creating a “checkpoint” in Git, you can then upload a copy of the current snapshot of your code to GitHub. There are a few reasons you might want to do this, including:
+Si volvemos a la idea general de utilizar sistemas de control de versiones, GitHub puede incorporarse como un repositorio remoto que aloja código. Después de crear un “punto de control” en Git, es posible cargar a GitHub una copia de la instantánea actual del código. Hay varias razones para hacerlo:
 
-- To serve as a backup for your work (it is now stored on a remote server that you can access even if your computer dies).
-- To share your code with others (more on this later in this course).
-- To collaborate with others on your code. By uploading to GitHub, your code can be made accessible to others who might want to add features.
+- Para funcionar como copia de seguridad de su trabajo (ahora se almacena en un servidor remoto al que puede acceder incluso si su computadora muere).
+- Para compartir tu código con otros (más adelante en este curso).
+- Para que otros colaboren con tu código. Subiendo a GitHub, tu código puede ser accesible para otros que quieran añadir características.
 
-Let’s expand on some of GitHub’s collaboration tools. Some of these features include:
+Vamos a ampliar algunas de las herramientas de colaboración de GitHub. Algunas de estas características incluyen:
 
 <table>
   <colgroup>
@@ -143,93 +143,89 @@ Let’s expand on some of GitHub’s collaboration tools. Some of these features
   </colgroup>
   <thead>
     <tr class="header">
-      <th>Term</th>
-      <th>Description/Definition</th>
+      <th>Términos</th>
+      <th>Descripción/Definición</th>
     </tr>
   </thead>
   <tbody>
     <tr class="odd">
-      <td>Issue Tracking</td>
+      <td>Rastreo de problemas</td>
       <td>
-        Keep track of feature requests, bugs, and other types of updates via GitHub Issues. GitHub also allows the use of labels and assigning people to tasks to help organize tasks.
+        Realizar un seguimiento de las solicitudes de funciones, errores y otros tipos de actualizaciones a través de GitHub Issues. GitHub también permite utilizar etiquetas y asignar personas a las tareas para ayudar a organizarlas.
       </td>
     </tr>
     <tr class="odd">
-      <td>Project Discussion Forums</td>
-      <td>
-        GitHub allows for an online discussion forum where you can ask and answer questions, and hold community discussions.
-      </td>
+      <td>Foros de discusión de proyectos</td>
+      <td>GitHub permite un foro de discusión en línea donde es posible hacer y responder preguntas y mantener discusiones comunitarias.</td>
     </tr>
     <tr class="odd">
-      <td>Contribution Tracking</td>
+      <td>Seguimiento de contribuciones</td>
       <td>
-        GitHub has a straightforward way to keep track of suggested code contributions (called “Pull Requests”) from different people.
-      </td>
+GitHub tiene una forma sencilla de llevar un registro de las contribuciones de código sugeridas (llamadas "Pull Requests") por diferentes personas.      </td>
     </tr>
     <tr class="odd">
-      <td>Code Review Tools</td>
+      <td>Herramientas de revisión de código</td>
       <td>
-        GitHub has a rich set of tools for reviewing and accepting (or denying) contributions from others (or yourself), such as in-line comments and easily viewable tracked changes to individual files.
-      </td>
+GitHub dispone de un amplio conjunto de herramientas para revisar y aceptar (o rechazar) las contribuciones de otros (o las tuyas propias), como los comentarios en línea y los cambios fácilmente visibles en archivos individuales.      </td>
     </tr>
     <tr class="odd">
-      <td>Tailored Permissions</td>
+      <td>Permisos personalizados</td>
       <td>
-        Choose who has the ability to update the code. This helps you feel confident that only those with permission can update code that you shared in GitHub, and also others feel safe to suggest updates without worrying that they might accidentally overwrite existing code.
+        Elige quién tiene autorización para actualizar el código. Esto ayuda a que las personas se sientan seguras de que solo aquellos con permiso pueden actualizar el código que compartido en GitHub, y también a que otras se sientan seguras para sugerir actualizaciones sin preocuparse de que puedan sobrescribir accidentalmente el código existente.
       </td>
     </tr>
   </tbody>
 </table>
 
-All of these features excel at enabling asynchronous collaboration across teams. Most scientific open- source packages use GitHub for their primary code development. Note that there are many more GitHub features that we don’t go into here that support collaboration, as well as automated workflows and so much more. To learn more about GitHub, take a look at these references:
+Todas estas funciones son excelentes para permitir la colaboración asíncrona entre equipos. La mayoría de los paquetes científicos de código abierto utilizan GitHub para el desarrollo de su código principal. Ten en cuenta que hay muchas más funciones de GitHub en las que no profundizamos aquí y que permiten la colaboración, así como flujos de trabajo automatizados y mucho más. Para aprender más sobre GitHub, echa un vistazo a estas referencias:
 
-- [How to Use Git and GitHub – Introduction for Beginners (freecodecamp.org)](https://www.freecodecamp.org/news/introduction-to-git-and-github/)
-- [Getting Started with GitHub — Pythia Foundations (projectpythia.org)](https://foundations.projectpythia.org/foundations/getting-started-github.html)
+- [Cómo usar Git y GitHub – Introducción para principiantes (freecodecamp.org)](https://www.freecodecamp.org/news/introduction-to-git-and-github/)
+- [Empezando con GitHub — Pythia Foundations (projectpythia.org)](https://foundations.projectpythia.org/foundations/getting-started-github.html)
 
 [Cite Project Pythia: [https://foundations.projectpythia.org/preamble/how-to-cite.html](https://foundations.projectpythia.org/preamble/how-to-cite.html)]
 
-### Summary of Benefits to Using Version Control and Version Control Platforms
+### Resumen de las ventajas de utilizar el control de versiones y las plataformas de control de versiones
 
-- Features the ability to rewind changes back to any committed point
-- Eases collaboration with others
-- Keeps a directory clean from clutter, with no need for multiple copies of files
-- Provides a targeted backup system for your work
+- Posibilidad de retrotraer los cambios hasta cualquier punto
+- Facilita la colaboración con otras personas
+- Mantiene un directorio ordenado, sin necesidad de hacer varias copias de los archivos.
+- Proporciona un sistema de copia de seguridad específico para su trabajo
 
-## Tools for Editing Code
+## Herramientas para Editar Código
 
-### Integrated Development Environment (IDEs)
+### Entorno de Desarrollo Integrado (IDEs)
 
-An Integrated Development Environment (IDE) plays an important role in open code development by offering a comprehensive toolkit to researchers, scientists, and developers for editing code. It is a software application that streamlines the entire process of creating, testing, and managing code for scientific research and data analysis. By providing an all-in-one platform, an IDE allows researchers to write, debug, and optimize code more efficiently, fostering collaboration and reproducibility in open code science projects.
+Un Entorno de Desarrollo Integrado (IDE) desempeña un papel importante en el desarrollo de código abierto ofreciendo un conjunto de herramientas a los investigadores, científicos, y desarrolladores para editar código. Se trata de una aplicación informática que agiliza todo el proceso de creación, comprobación y gestión de código para la investigación científica y el análisis de datos. Al proporcionar una plataforma todo en uno, un IDE permite a los investigadores escribir, depurar y optimizar el código de forma más eficiente, fomentando la colaboración y la reproducibilidad en proyectos científicos de código abierto.
 
-In open science, where transparency and accessibility are paramount, IDEs often incorporate version control systems like Git to facilitate collaboration and ensure that a research codebase is readily available for others to use and improve. Additionally, many IDEs integrate with data analysis and visualization tools. This makes it easier for scientists to analyze and interpret their data, ultimately contributing to the advancement of open code science practices.
+En la ciencia abierta, donde la transparencia y la accesibilidad son primordiales, los IDE suelen incorporar sistemas de control de versiones como Git para facilitar la colaboración y garantizar que un código base de investigación esté disponible para que otras personas lo utilicen y mejoren. Además, muchos IDEs se integran con herramientas de análisis y visualización de datos. Esto facilita el análisis y la interpretación de datos, contribuyendo en última instancia, al avance de las prácticas científicas de código abierto.
 
-If you were in a room with 10 developers and asked them each what their favorite code editor is, you would get many different responses. In this lesson, we will go over a few of the more popular varieties.
+Si estuvieras en una sala con 10 personas que trabajan en desarrollo y les preguntaras a cada una cuál es su editor de código favorito, obtendrías muchas respuestas diferentes. En esta lección, repasaremos algunas de las opciones más conocidas.
 
-**Source-Code Editing & Kernels – The Value of IDEs and Kernels**
+**Edición de código fuente y núcleos – El valor de los IDEs y núcleos**
 
-IDEs can bring a lot of good tools to your efforts. It’s not just about editing code any more. Modern, robust IDEs can do most of the things listed here, if not more. One can use an IDE without executing in a kernel; one can use a kernel without having developed code in an IDE. However, they can work hand-in-hand.
+Los IDE pueden aportar muchas herramientas útiles a tus trabajos. Ya no se trata únicamente de editar código. Los IDEs Modernos y robustos pueden hacer la mayoría de las cosas que se listan aquí, y aún más. Se puede usar un IDE sin ejecutar en un núcleo; se puede usar un núcleo sin haber desarrollado código en un IDE. Sin embargo, pueden trabajar de la mano.
 
 <table>
   <thead>
     <tr>
-        <th>Integrated Development Environment (IDE) ☑</th>
+        <th>Entorno de Desarrollo Integrado (IDE) ☑</th>
         <th>Kernel</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="2">
-            <p>Source code editing:</p>
+            <p>Edición del código fuente:</p>
             <ul>
-              <li>Syntax highlighting</li>
-              <li>Error/bug warnings</li>
+              <li>Resaltado sintáctico</li>
+              <li>Avisos de error/error</li>
             </ul>
-            <p>Plugins</p>
+            <p>Extensiones</p>
             <ul>
-              <li>Debuggers</li>
-              <li>Memory management</li>
-              <li>Version control</li>
-              <li>Build automation</li>
+              <li>Depuradores</li>
+              <li>Gestión de memoria</li>
+              <li>Control de versiones</li>
+              <li>Crear automatización</li>
             </ul>
         </td>
     </tr>
@@ -239,7 +235,7 @@ IDEs can bring a lot of good tools to your efforts. It’s not just about editin
 <table>
   <thead>
     <tr>
-        <th>Integrated Development Environment (IDE)</th>
+        <th>Entorno de Desarrollo Integrado (IDEs)</th>
         <th>Kernel ☑</th>
     </tr>
   </thead>
@@ -247,12 +243,12 @@ IDEs can bring a lot of good tools to your efforts. It’s not just about editin
     <tr>
         <td colspan="2">
             <ul>
-              <li>Execution environment</li>
-              <li>Like a virtual machine</li>
-              <li>Isolates work area</li>
+              <li>Entorno de ejecución</li>
+              <li>Como una máquina virtual</li>
+              <li>Aísla el área de trabajo</li>
               <ul>
-                  <li>Tailor settings</li>
-                  <li>Easily replicable</li>
+                  <li>Ajustes a medida</li>
+                  <li>Fácilmente replicable</li>
               </ul>
             </ul>
         </td>
@@ -260,43 +256,43 @@ IDEs can bring a lot of good tools to your efforts. It’s not just about editin
   </tbody>
 </table>
 
-**IDE Example: Visual Studio Code**
+**Ejemplo de IDE: Visual Studio Code**
 
-The most popular IDE these days, Microsoft’s Visual Studio Code (or VS Code) is feature-rich without being clunky.
+Visual Studio Code (o VS Code), el IDE más popular en la actualidad, ofrece numerosas funciones sin resultar engorroso.
 
 <img src="../images/media/image34.png" style="width:100%;height:auto;" />
 
-- It has a "dark mode" option which is easier on the eyes for long coding sessions.
-- It provides the basics such as syntax highlighting and an integrated terminal window.
-- It also has a wealth of plugins for connecting to servers, version control systems, and troubleshooting. It has several linter plugins, which can analyze your code for bugs, errors, and to help your team code in a consistent "style". This eases code maintenance down the road.
-- If your line of code has an obvious error in it, the IDE will produce a red squiggle, just as if you’ve spelled something wrong in a Word Document.
+- Dispone de una opción de "modo oscuro" que es más agradable a la vista para largas sesiones de codificación.
+- Proporciona el resaltado de sintaxis y una ventana de terminal integrada.
+- También cuenta con una gran cantidad de complementos para conectarse a servidores, sistemas de control de versiones y resolución de problemas. Dispone de varios complementos linter, que pueden analizar el código en busca de fallos, errores y contribuyen a que el equipo codifique con un "estilo" coherente. Esto facilita el mantenimiento del código en el futuro.
+- Si la línea de código contiene un error obvio, el IDE mostrará una marca roja, como si se hubiera escrito algo mal en un documento de Word.
 
-Below is an example of a developer who accidentally typed an equal sign when they should have typed a colon. VS Code caught the error, and when the developer hovered over the red squiggle, VS Code explained what the error was and offered to take them to further documentation.
+A continuación se muestra un ejemplo de un desarrollador que accidentalmente escribió un signo igual cuando debería haber escrito dos puntos. Visual Studio Code (_VS Code_) detectó el error, y cuando el desarrollador pasó el cursor sobre la línea roja ondulada, VS Code explicó cuál era el error y ofreció llevarlos a una documentación adicional.
 
  <img src="../images/media/image35.png" style="width:100%;height:auto;" />
 
-Another useful feature in VS Code (as well as many other code editors) is Git Integration. Instead of using a Terminal window, you can just make a few clicks and easily integrate Git into your workflow!
+Otra característica útil en VS Code (así como en muchos otros editores de código) es Git Integration. En lugar de usar una ventana de Terminal, ¡puedes hacer unos pocos clics e integrar fácilmente Git en tu flujo de trabajo!
 
-From VS Code you can:
+Desde el VS Code puedes:
 
-- Easily see modifications to your code.
-- Create a branch.
-- Upload your changes directly to GitHub.
-- Download changes from other team members to your local system.
+- Ver fácilmente las modificaciones en tu código.
+- Crear una rama.
+- Subir tus cambios directamente a GitHub.
+- Descargar cambios de otros miembros del equipo a tu sistema local.
 
-**IDE Example: Rstudio – IDE**
+**Ejemplo IDE: Rstudio – IDE**
 
-While Visual Studio Code is a more generic IDE where you can use plugins to specialize it, there are also IDEs, such as RStudio, that have specialized features for specific languages right out of the gate.
+Mientras que VS Code es un entorno de desarrollo integrado (en inglés, _Integrated Development Environment, IDE_) más genérico donde puedes utilizar complementos para especializarlo, también existen IDEs, como RStudio, que tienen características especializadas para lenguajes específicos desde el principio.
 
-Researchers conducting statistical analysis tend to use the coding languages of R and Python. RStudio has built-in tools for that very purpose, including data visualization.
+Los investigadores que realizan análisis estadísticos tienden a utilizar los lenguajes de programación de R y Python. RStudio tiene herramientas integradas para ese mismo propósito, incluyendo la visualización de datos.
 
  <img src="../images/media/image36.jpeg" style="width:100%;height:auto;" />
 
-Source:  https://en.wikipedia.org/wiki/File:RStudio_IDE_screenshot.png
+Fuente: https://es.wikipedia.org/wiki/File:RStudio_IDE_screenshot.png
 
-### Plain Text Editors for Coding
+### Editores de Texto Plano para Programar
 
-Most laptop or desktop computers that run standard operating systems (Windows, MacOS, Linux) have multiple pre-installed plain-text editors that can be used for coding. It is beneficial to know how to use at least one, because it makes editing scripts and files a quick process.
+La mayoría de los ordenadores portátiles o de escritorio que ejecutan sistemas operativos estándar (Windows, MacOS, Linux) tienen múltiples editores de texto plano preinstalados que se pueden utilizar para programar. Es beneficioso saber cómo utilizar al menos uno, porque hace que la edición de programas y archivos sea un proceso rápido.
 
 <table>
   <colgroup>
@@ -313,173 +309,173 @@ Most laptop or desktop computers that run standard operating systems (Windows, M
     <tr class="odd">
       <td>
         <ul>
-        <li>Lightweight</li>
-        <li>Many distributed natively with OS</li>
+        <li>Lígero</li>
+        <li>Muchos se distribuyen nativamente con el sistema operativo (SO) (en inglés, _Operating System, OS_)</li>
         </ul>
       </td>
       <td>
         <ul>
-        <li>No plugins to help find bugs, errors, etc.</li>
-        <li>May not have syntax-highlighting</li>
+        <li>No hay complementos que ayuden a encontrar fallos, errores, etc.</li>
+        <li>Puede no tener resaltado de sintaxis</li>
         </ul>
       </td>
     </tr>
   </tbody>
 </table>
 
-### Computational Notebooks
+### Cuadernos Computacionales
 
-A computational notebook refers to a virtual, interactive computing environment that combines code execution, documentation, and data visualization in a single interface. These notebooks are widely used in data science and coding fields. Popular examples include Jupyter Notebooks and R Notebooks. They allow users to write and run code in a step-by-step manner, providing an efficient platform for data analysis, research, and collaborative coding, with the added benefit of integrating rich text (including equations), images, and charts for clear documentation and communication.
+Un cuaderno computacional se refiere a un entorno de computación virtual e interactivo que combina la ejecución de código, la documentación y la visualización de datos en una sola interfaz. Estos cuadernos son ampliamente utilizados en los campos de ciencias de datos y programación. Ejemplos populares son Jupyter Notebooks y R Notebooks. Permiten a los usuarios escribir y ejecutar código paso a paso, proporcionando una plataforma eficiente para el análisis de datos, la investigación y la programación colaborativa, con el beneficio añadido de integrar texto enriquecido (incluyendo ecuaciones), imágenes y gráficos para una documentación y comunicación claras.
 
-**Example: Jupyter Notebook and JupyterLab**
+**Ejemplo: Jupyter Notebook y JupyterLab**
 
 <img style="width:350px;height:auto;" src="../images/media/jupyterlogo.jpg">
 
-Jupyter notebooks are open-source web applications that are widely used for creating computational documents. But before we dive into Jupyter Notebooks, we want to make it clear that Jupyter Notebooks are one of many platforms in the Jupyter ecosystem:
+Jupyter Notebook es una aplicación web de código abierto ampliamente utilizada para la creación de documentos computacionales. Pero antes de sumergirnos en Jupyter Notebook, queremos dejar en claro que Jupyter Notebook es una de las muchas plataformas del ecosistema de Jupyter:
 
-- Jupyter Notebook – contained language shell for interactive programming, displaying output inline with inputs
-- JupyterLab – an in-browser user interface showing multiple windows for notebooks, terminals, and code editing
-- JupyterHub – middleware for running shared interactive computing environments, including JupyterLab and Jupyter Notebook, on shared computing infrastructure (such as the Cloud)
+- Jupyter Notebook – un intérprete de comandos de lenguaje contenido para programación interactiva, que muestra la salida en línea con las entradas
+- JupyterLab – una interfaz de usuario integrada en el navegador que muestra múltiples ventanas para cuadernos de notas, terminales y edición de código
+- JupyterHub – software intermediario (_middleware_) para ejecutar entornos de computación interactivos compartidos, incluyendo JupyterLab y Jupyter Notebook, en infraestructura de computación compartida (como en la Nube)
 
-We will use Jupyter Notebook as an example of a computational notebook and discuss how JupyterLab is related to Jupyter Notebook. The following section on computing platforms will discuss JupyterHub.
+Usaremos Jupyter Notebook como un ejemplo de cuaderno computacional y discutiremos cómo JupyterLab está relacionado con Jupyter Notebook. La siguiente sección sobre plataformas de computación discutirá sobre JupyterHub.
 
-This screenshot shows an example of a Jupyter Notebook that integrates rich text (with headers and links), equations, code, and the interactive output from those lines of code, including a plot. This screenshot makes it clear why this is called a computational notebook - it resembles a lab notebook that you may have written out by hand in school.
+Esta captura de pantalla muestra un ejemplo de un Jupyter Notebook que integra texto enriquecido (con encabezados y enlaces), ecuaciones, código y la salida interactiva de esas líneas de código, incluyendo un gráfico. Esta captura de pantalla deja claro por qué se llama cuaderno computacional - se asemeja a un cuaderno de laboratorio que puedes haber escrito manualmente en la escuela.
 
 <img src="../images/media/image38.png" style="width:100%;height:auto;" />
 
-[Project Jupyter \| Home](https://jupyter.org/)
+[Proyecto Jupyter \| Home](https://jupyter.org/)
 
 ---
 
-Many programming languages are supported by Jupyter. Fun fact: the name "Jupyter" refers to the three core languages supported by Jupyter: Julia, Python, and R.
+Jupyter admite muchos lenguajes de programación. Un dato curioso: el nombre "Jupyter" se refiere a los tres idiomas principales admitidos por Jupyter: Julia, Python, y R.
 
-JupyterLab is a browser-based interactive development environment that supports Jupyter Notebooks, and is designed in a more flexible environment that allows for many useful features. One of these features is Git integration, as we saw for other IDEs like Visual Studio Code.
+JupyterLab es un entorno de desarrollo interactivo basado en un navegador compatible con Jupyter Notebook y esta diseñado en un entorno más flexible que permite muchas características útiles. Una de estas características es la integración con Git, como vimos para otros IDEs como Visual Studio Code.
 
-Since Jupyter Notebooks allow for integration of code with visualizations and text, they can serve as a tool to carry out research projects and create easily shareable computational documents for education, collaboration, or science communication. With rich text capabilities, such as the use of headers, italics, links, and many more, you can create a readable document that contains runnable code. These are just some of the reasons why JupyterLab and Jupyter Notebooks are widely used across many disciplines, including computational research and data science.
+Dado que Jupyter Notebook permite integrar código con visualizaciones y texto, puede servir como herramienta para llevar a cabo proyectos de investigación y crear documentos computacionales fácilmente compartibles para la educación, la colaboración o la comunicación científica. Con capacidades de texto enriquecido, como el uso de encabezados, cursivas, enlaces y muchas más, puedes crear un documento legible que contenga código ejecutable. Estas son sólo algunas de las razones por las que JupyterLab y Jupyter Notebook son ampliamente utilizados en muchas disciplinas, incluyendo investigación computacional y ciencias de datos.
 
-#### For more information on Jupyter products and its community, check out their website.
+#### Para más información sobre los productos de Jupyter y su comunidad, consulte su sitio web.
 
-[CLICK TO LEARN](https://jupyter.org/)
+[HAZ CLIC PARA APRENDER MÁS](https://jupyter.org/) (en inglés)
 
-If you want to dive in, check out Project Pythia's "Getting Started with Jupyter" lesson, geared toward scientists without assumption of programming background.
+Si quieres sumergirte en el tema, consulta la lección "Primeros pasos con Jupyter" del Proyecto Pythia, orientada a científicos sin conocimientos previos de programación.
 
-### Activity 4.1: Run a Jupyter Notebook Yourself from the Browser
+### Actividad 4.1: Ejecuta Jupyter Notebook desde el Navegador
 
-Let's use an example from Project Pythia to showcase how computational notebooks can be used in science. Project Pythia is an education Hub for the geoscientific community. They have some great learning resources and example research notebooks that are developed and maintained by the community, and are freely available.
+Usemos un ejemplo del Proyecto Pythia para mostrar cómo los cuadernos computacionales pueden ser usados en la ciencia. Proyecto Pythia es un centro educativo para la comunidad geocientifica. Tienen algunos grandes recursos de aprendizaje y ejemplos de cuadernos de investigación, desarrollados y mantenidos por la comunidad, y de libre acceso.
 
-In this activity, you will run pre-written Python code in a Jupyter Notebook from your browser to make plots related to the El-Niño Southern Oscillation (or ENSO). You will use the open-source software package called Xarray to read in sea surface temperature data from a global climate model (the Community Earth System Model - CESM), and create some visualizations of ENSO events across the last 20 or so years. The goal is to recreate the plot below for the last ~20 years. This figure shows the years and magnitude of the El Niño events in red and of the La Niña events in blue.
+En esta actividad, ejecutarás código Python preescrito en un Jupyter Notebook, desde tu navegador, para hacer gráficos relacionados con el fenómenos El Niño-Oscilación del Sur (o ENSO). Utilizarás el paquete de software de código abierto llamado Xarray para leer los datos de temperatura de la superficie del mar de un modelo climático global (Modelo Comunitario del Sistema Tierra) (en ingles, Community Earth System Model, CESM_), y crear algunas visualizaciones de eventos ENSO a lo largo de los últimos 20 años. El objetivo es recrear el gráfico siguiente para los últimos ~20 años. Esta figura muestra los años y la magnitud de los eventos de El Niño en rojo y de los eventos de La Niña en azul.
 
 ![](../images/media/image39.jpeg)
 
-Source:  [https://climatedataguide.ucar.edu/climate-data/nino-sst-indices-nino-12-3-34-4-oni-and-tni](https://climatedataguide.ucar.edu/climate-data/nino-sst-indices-nino-12-3-34-4-oni-and-tni)
+Fuente: [https://climatedataguide.ucar.edu/climate-data/nino-sst-indices-nino-12-3-34-4-oni-and-tni](https://climatedataguide.ucar.edu/climate-data/nino-sst-indices-nino-12-3-34-4-oni-and-tni)
 
 ---
 
-Follow These Steps:
+Sigue estos pasos:
 
-1. Navigate to the “[Calculating ENSO with Xarray](https://foundations.projectpythia.org/core/xarray/enso-xarray.html)” lesson
-2. In the top right corner, hover your mouse over the rocket icon, and click on "Binder". This will open the lesson as an executable Jupyter Notebook that runs on the Cloud. Note that it may take several minutes for the Notebook to get set up.
+1. Navega a la lección “[Calculando ENSO con Xarray](https://foundations.projectpythia.org/core/xarray/en.Uxarray.html)”
+2. En la esquina superior derecha, pasa el ratón sobre el icono del cohete y haz clic en "Binder". Esto abrirá la lección como un Jupyter Notebook ejecutable que corre en la Nube. Ten en cuenta que el Cuaderno Computacional puede tardar varios minutos en configurarse.
    ![](../images/media/calculatingenso.jpg)
-3. After the Notebook loads, you should see something like the following. Note – this actually uses the JupyterLab view!
+3. Después de cargar el Cuaderno Computacional, deberías ver algo como lo siguiente. Nota – ¡Esto realmente utiliza la vista de JupyterLab!
    ![](../images/media/calculatingenso2.jpg)
-4. You can take a little time to breeze through the text and code in the Notebook, but keep in mind that this lesson assumes a lot of prior knowledge, so it’s ok if you don’t understand everything. You can still appreciate the nice plots you’re about to make!
-5. You are now ready to run the notebook yourself! To do that, you can go to the "Run" menu in the upper left of the JupyterLab window and choose "Run All Cells":
+4. Puedes tomarte un poco de tiempo para repasar el texto y el código del Cuaderno Computacional, pero ten en cuenta que esta lección presupone muchos conocimientos previos, por lo que está bien si no lo entiendes todo. ¡Aún puedes apreciar las bonitas gráficas que estás a punto de hacer!
+5. ¡Ahora estás listo para ejecutar el Cuaderno Computacional! Para hacer eso, puedes ir al menú "Ejecutar" en la parte superior izquierda de la ventana de JupyterLab y elegir "Ejecutar todas las celdas":
    ![](../images/media/calculatingenso3.jpg)
-6. This should only take a few seconds, and if you scroll down, you can view a couple nice visualizations that you just created:<br>_Use the "\<" and "\>" buttons to navigate between the images._
+6. Esto solo debería tomar unos pocos segundos, y si te desplazas hacia abajo, puedes ver un par de visualizaciones bonitas que acabas de crear:<br>_Usa los botones "\<" y "\>" para navegar entre las imágenes._
 
 ![](../images/media/calculatingenso4.jpg)
 
 ![](../images/media/image44.jpeg)
 
-7. Take some time to look through the Notebook a bit more closely. You will see that there is text (including headers, links, and even a table right at the start!), code, and figures integrated together. This is just one example of how scientists use computational notebooks for their research.
+7. Tómate algo de tiempo para mirar un poco más de cerca el Cuaderno Computacional. Verás que hay texto (incluyendo encabezados, enlaces ¡e incluso una tabla justo al principio!), código y figuras integradas de manera conjunta. Este es sólo un ejemplo de cómo los científicos utilizan cuadernos computacionales para su investigación.
 
-You can peruse more of the Project Pythia Python learning resources via their [Foundations Book](https://foundations.projectpythia.org/landing-page.html), and you can view more advanced example research workflows in the geosciences that use computational notebooks (which they call "[Cookbooks](https://cookbooks.projectpythia.org/)") to see more examples of how notebooks are used in science. If you are interested in the geosciences, you can even contribute your own notebook if you have a notebook you'd like to share!
+Puedes examinar más recursos de aprendizaje del Proyecto Pythia Python a través de su [Libro de Fundamentos] (https://foundations.projectpythia.org/landing-page.html), puedes ver ejemplos más avanzados de flujos de trabajo de investigación en geociencias que utilizan la computación Jupyter Notebooks, (que ellos llaman "[CookBooks o Guias Rapidas](https://cookbooks.projectpythia.org/)") para ver más ejemplos de cómo se utilizan los Jupyter Notebooks en la ciencia. Si te interesan las geociencias, ¡puedes contribuir con tu propio Jupyter Notebook, en el caso de que tengas uno que quieras compartir!
 
-### Computing Platforms
+### Plataformas de desarrollo
 
-We use the term "computing platform" to refer to the computational machine used to run code. There are many different computing platforms that you can choose, each having their own pros and cons. Here is an overview of three computing options:
+Usamos el término "plataforma de Desarrollo" para referirnos a la infraestructura computacional utilizada para ejecutar código. Existen muchas plataformas de Desarrollo diferentes para elegir, cada una con sus ventajas y desventajas. A continuación se ofrece una descripción general de tres opciones de Plataformas:
 
-#### Personal Computer (e.g. a laptop)
+#### Computadora personal (por ejemplo, una computadora portátil)
 
-Pros:
+Pros: (beneficios):
 
-- Convenient - Can run computations when and where you choose
-- Can tailor the software environment to be exactly what you need
-- Don't have to share your computing resources
+- Conveniente: puede ejecutar cálculos cuando y donde usted elija
+- Puede adaptar el entorno de software para que sea exactamente lo que necesita
+- No tienes que compartir tus recursos informáticos
 
-Cons:
+Contras: (Problemas):
 
-- Has limited computational power
-- Requires downloading data and software
+- Tiene potencia computacional limitada
+- Requiere descargar datos y software
 
-#### High Performance Computing (HPC)
+#### Computación de alto rendimiento (HPC)
 
-Pros:
+Pros: (beneficios):
 
-- High computational power
+- Alto poder computacional
 
-Cons:
+Contras: (Problemas):
 
-- Typically owned and run by a particular institution - may need to be affiliated with that institution to gain access to their HPC
-- May have to wait significant amounts of time to run your code, since they are typically shared across many people and groups
-- Need significant funds to build an HPC
+- Por lo general, es propiedad de una institución en particular y está administrada por ella; es posible que deba estar afiliado a esa institución para obtener acceso a su HPC
+- Es posible que tenga que esperar mucho tiempo para ejecutar el código, ya que normalmente se comparte entre muchas personas y grupos
+- Necesita fondos importantes para construir una HPC
 
-#### Cloud Computing
+#### Computación en la nube (Cloud Computing)
 
-Pros:
+Pros: (Beneficios):
 
-- Extremely high computational power
-- Minimal wait times to run code
-- Typically accessible to anyone with an internet connection
-- On-demand pricing options - You only have to pay for what you use
+- Potencia computacional extremadamente alta
+- Tiempos de espera mínimos para ejecutar el código
+- Normalmente accesible para cualquier persona con conexión a Internet
+- Opciones de precios bajo demanda: solo tienes que pagar por lo que usas
 
-Cons:
+Contras: (Problemas):
 
-- High cost per computation
-- Lack of transparency in costs - E.g. it can cost significant amounts to read in data from different Cloud regions, but may not always be clear which region your data and compute are in
-- May require some extra knowledge in how Cloud computing works
+- Alto costo por cálculo
+- Falta de transparencia en los costos - Ej. leer datos de diferentes regiones de la nube puede costar mucho dinero, pero no siempre está claro en qué región se encuentran los datos y los cálculos
+- Puede requerir algún conocimiento adicional sobre cómo funciona trabajar, procesar, computar en la nube
 
-Examples of Cloud providers:
+Ejemplos de proveedores de Clouding o Cloud Computing o Trabajar, procesar, computar en la Nube:
 
 - Amazon Web Services (AWS)
 - Google Cloud
 - Microsoft Azure
 
-Many data providers, especially of large datasets, are migrating their data to the Cloud to increase accessibility and to make use of the large storage capacity that the Cloud provides. For instance, NASA Earthdata (which houses all NASA Earth science data) is now using AWS to store the majority of its data. Many Cloud providers also have a number of publicly available datasets, including  [Google Cloud](https://cloud.google.com/storage/docs/public-datasets/#%3A~%3Atext%3DAvailable%20public%20datasets%20on%20Cloud%20Storage%201%20ERA5%3A%2Cfrom%202015%20through%20the%20present.%20...%20More%20items) and [AWS](https://registry.opendata.aws/)[.](https://cloud.google.com/storage/docs/public-datasets/#%3A~%3Atext%3DAvailable%20public%20datasets%20on%20Cloud%20Storage%201%20ERA5%3A%2Cfrom%202015%20through%20the%20present.%20...%20More%20items)
+Muchos proveedores de datos, especialmente de grandes conjuntos de datos, están migrando sus datos a la nube para aumentar la accesibilidad y aprovechar la gran capacidad de almacenamiento que proporciona la nube. Por ejemplo, NASA Earthdata (que alberga todos los datos de ciencias terrestres de la NASA) ahora utiliza AWS para almacenar la mayoría de sus datos. Muchos proveedores de nube también tienen una serie de conjuntos de datos disponibles públicamente, incluidos [Google Cloud](https://cloud.google.com/storage/docs/public-datasets/#%3A~%3Atext%3DAvailable%20public%20datasets%20on%20Cloud%20Storage%201%20ERA5%3A%2Cfrom%202015%20through%20the%20present.%20...%20More%20items) and [AWS](https://registry.opendata.aws/)[.](https://cloud.google.com/storage/docs/public-datasets/#%3A~%3Atext%3DAvailable%20public%20datasets%20on%20Cloud%20Storage%201%20ERA5%3A%2Cfrom%202015%20through%20the%20present.%20...%20More%20items)
 
-When choosing a computing platform, it is important to consider where your datasets are saved and how big the datasets are. For instance, when working with small datasets, it is often preferable to use a personal computer since data download will take minimal time and large computing resources likely aren’t needed. When working with large datasets, however, it is best to minimize the amount of downloading and uploading data that is needed, as this can take significant amounts of time and internet bandwidth. If your large datasets are stored on the Cloud already, it is typically best to use Cloud resources for the computation as well, and likewise for HPC use.
+Al elegir una nube o plataforma informática, es importante considerar dónde se guardan los conjuntos de datos y que tan grande puede ser su tamaño. Por ejemplo, cuando se trabaja con conjuntos de datos pequeños, suele ser preferible utilizar una computadora personal, ya que la descarga de datos llevará un tiempo mínimo y probablemente no se necesiten grandes recursos informáticos. Sin embargo, cuando se trabaja con grandes conjuntos de datos, es mejor minimizar la cantidad de descarga y carga de datos necesarios, ya que esto puede consumir cantidades significativas de tiempo y ancho de banda de Internet. Si sus grandes conjuntos de datos ya están almacenados en la nube, es mejor utilizar recursos de la nube, al igual que para el cálculo y el uso de HPC.
 
-## Additional Tools
+## Herramientas adicionales
 
-### Software Repository vs Archive
+### Repositorio de software vs archivos
 
-Software repositories and archives provide centralized locations to store and share software, but there are some important key differences between them that we will discuss in this section.
+Los repositorios y archivos de software proporcionan ubicaciones centralizadas para almacenar y compartir software. Existen algunas diferencias clave importantes entre ellos, los cuales analizaremos en esta sección.
 
-A software repository is a dynamic and collaborative space where developers work on the latest code, making it the heart of ongoing software development and version control. It houses actively maintained codebases, which encourages collaboration and continuous, often community-driven, improvement.
+Un repositorio de software es un espacio dinámico y colaborativo donde los desarrolladores trabajan en el código más reciente, lo que lo convierte en el corazón del desarrollo continuo del software y del control de versiones. Alberga bases de código mantenidas activamente, lo que fomenta la colaboración y la mejora continua, a menudo impulsada por la comunidad.
 
-Conversely, a software archive is static storage where stable and thoroughly tested software releases are kept. Users access these archives to obtain reliable versions of software, ensuring stability and reliability in their applications. Understanding the difference between these two is crucial for effective software development and distribution.
+Por el contrario, un archivo de software es un almacenamiento estático donde se guardan versiones de software estables y minuciosamente probadas. Los usuarios acceden a estos archivos para obtener versiones confiables de software, asegurando estabilidad y confiabilidad en sus aplicaciones. Comprender la diferencia entre estos dos es crucial para un desarrollo y distribución de software eficaces.
 
 <img src="../images/media/image45.png" style="width:350px;height:auto;" />
 
-Git/GitHub and Bitbucket are popular choices for software repositories.
+Git/GitHub / GitLAB y Bitbucket son opciones populares para repositorios de software.
 
 <table>
   <thead>
     <tr>
-        <th>Repository ☑</th>
-        <th>Archive</th>
+        <th>Repositorio ☑</th>
+        <th>Archivo</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="2">
             <ul>
-              <li>Is a location for sharing code.</li>
-              <li>Often use version control systems like Git, Mercurial, and Subversion to track changes</li>
-              <li>Typically contains the latest development version (sometimes called the "master" or "trunk") of a software project, which can be actively worked on by developers.</li>
-              <li>Used for collaborative software development and code sharing among a team or a community of developers.</li>
+              <li>Es una ubicación para compartir código.</li>
+              <li>Utilice a menudo sistemas de control de versiones como Git, Mercurial y Subversion para realizar un seguimiento de los cambios</li>
+              <li>Por lo general, contiene la última versión de desarrollo (a veces denominada "maestra" o "troncal") de un proyecto de software, en la que los desarrolladores pueden trabajar activamente.</li>
+              <li>Se utiliza para el desarrollo colaborativo de software y para compartir código entre un equipo o una comunidad de desarrolladores.</li>
             </ul>
-            <p><strong>Important note:</strong> A repository is nothing more than a place for hosting code. These days, a version control system and a repository are often one and the same thing. It is important to understand the distinction. However, some websites are purely dropboxes for code executables or zip files of source code.</p>
+            <p><strong>Nota importante:</strong> Un repositorio no es más que un lugar para alojar código. Hoy en día, un sistema de control de versiones y un repositorio suelen ser la misma cosa. Es importante entender la distinción. Sin embargo, algunos sitios web son puramente dropboxes para ejecutables de código o archivos zip de código fuente.</p>
         </td>
     </tr>
   </tbody>
@@ -488,30 +484,30 @@ Git/GitHub and Bitbucket are popular choices for software repositories.
 <table>
   <thead>
     <tr>
-        <th>Repository</th>
-        <th>Archive ☑</th>
+        <th>Repositorio</th>
+        <th>Archivo ☑</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="2">
             <ul>
-              <li>Often used for distribution and long-term preservation of software.</li>
-              <li>A storage system that contains specific, stable releases or versions of software, compiled binary packages, or source code releases.</li>
-              <li>Users typically download software from an archive to install and use it on their systems.</li>
+              <li>A menudo se utiliza para la distribución y conservación a largo plazo de software.</li>
+              <li>Un sistema de almacenamiento que contiene versiones estables y específicas de software, paquetes binarios compilados o versiones de código fuente.</li>
+              <li>Los usuarios suelen descargar software de un archivo para instalarlo y utilizarlo en sus sistemas.</li>
             </ul>
         </td>
     </tr>
   </tbody>
 </table>
 
-**Containers**
+**Contenedores**
 
-A software container is a standalone, and executable package that includes everything needed to run a piece of software, including the code, runtime, system tools, environment settings, and libraries. Containers are isolated environments that hold the application as well as anything needed to run the application, ensuring consistency and portability across different computing environments. A container is a helpful tool that can provide efficiency, scalability, and ease of deployment. Some examples of widely utilized container tools are Kubernetes, Docker, and Apache Mesos.
+Un contenedor de software es un paquete independiente y ejecutable que incluye todo lo necesario para ejecutar una pieza de software, e incluye el código, el tiempo de ejecución, las herramientas del sistema, la configuración del entorno y las bibliotecas. Los contenedores son entornos aislados que contienen la aplicación y todo lo necesario para ejecutarla, lo que garantiza coherencia y portabilidad entre diferentes entornos informáticos. Un contenedor es una herramienta útil que puede proporcionar eficiencia, escalabilidad y facilidad de implementación. Algunos ejemplos de herramientas de contenedores ampliamente utilizadas son Kubernetes, Docker, y Apache Mesos.
 
-### Activity 4.2: Match Tools
+### Actividad 4.2: Herramientas de combinación
 
-Match each item to their description:
+Relaciona cada elemento con su descripción:
 
 <table>
   <colgroup>
@@ -521,72 +517,67 @@ Match each item to their description:
   <tbody>
     <tr>
       <td>
-        Integrated development environment (IDE)
-      </td>
+Entorno de desarrollo integrado (IDE)      </td>
       <td>
-        Enhanced text editor for code. Assists with identifying syntax and constructs of code      
+        Editor de texto mejorado para código. Ayuda a identificar la sintaxis y las construcciones o desarrollos de código      
 </td>
     </tr>
     <tr>
       <td>
-        Software archive
-      </td>
+Archivo de software      </td>
       <td>
-        Static storage where stable and thoroughly test software releases are kept.
-      </td>
+Almacenamiento estático donde se guardan versiones de software estables y completamente probadas.      </td>
     </tr>
     <tr>
       <td>
-        Version control platform
-      </td>
+Plataforma de control de versiones      </td>
       <td>
-        Tool that helps software developers manage and track changes in
-      </td>
+Herramienta que ayuda a los desarrolladores de software a gestionar y realizar un seguimiento de los cambios en      </td>
     </tr>
   </tbody>
 </table>
 
-## Lesson 4: Summary
+## Lección 4: Resumen
 
-In this lesson, you learned:
+En esta lección has aprendido:
 
-- The usefulness of digital tools that manage, foster collaboration, and house open code.
-- How version control systems like Git and platforms like GitHub can increase collaboration and management of code.
-- Some common tools for editing open code, including integrated development environments (IDEs) like Visual Studio Code and Jupyter Notebooks.
-- The difference between software repositories and archives, and also how software containers can help with the sharing and reproducibility of code.
+- La utilidad de las herramientas digitales que gestionan, fomentan la colaboración y albergan código abierto.
+- Cómo los sistemas de control de versiones como Git y plataformas como GitHub pueden aumentar la colaboración y la gestión del código.
+- Algunas herramientas comunes para editar código abierto, incluidos entornos de desarrollo integrados (IDE) como Visual Studio Code y Jupyter Notebooks.
+- La diferencia entre repositorios y archivos de software, y también cómo los contenedores de software pueden ayudar a compartir y reproducir el código.
 
-## Lesson 4: Knowledge Check
+## Lección 4: Evaluación
 
-Answer the following questions to test what you have learned so far.
+Responda las siguientes preguntas para evaluar lo que has aprendido hasta ahora.
 
-_Question_
+_Pregunta_
 
 **01/03**
 
-Which is NOT a benefit to using version control and version control platforms?
+¿Cuál de las siguientes NO es una ventaja de utilizar plataformas de control de versiones?
 
-- Ability to track changes that have been made
-- You cannot go back to make changes
-- Ease of code collaboration with others
-- Directory clean from clutter - no need for multiple copies of files
-- A very targeted backup system for your work
+- Capacidad para realizar un seguimiento de los cambios que se han realizado
+- No se puede volver hacia atrás para hacer cambios
+- Facilidad de colaboración en el código, con otros
+- Directorio limpio y ordenado: no es necesario realizar varias copias de archivos
+- Un sistema de respaldo muy específico para su trabajo
 
-_Question_
+_Pregunta_
 
 **02/03**
 
-An interactive computing environment that combines code execution, documentation, and data visualization in a single interface is known as a:
+Un entorno informático interactivo que combina ejecución de código, documentación y visualización de datos en una única interfaz se conoce como:
 
-- Version Control Platform
-- Software Repository
-- Computational Notebook
-- Container
+- Plataforma de control de versiones
+- Repositorio de software
+- Cuaderno computacional o Notebook Computacional
+- Contenedor (Envase)
 
-_Question_
+_Pregunta_
 
 **03/03**
 
-A software repository and a software archive are the same thing.
+Un repositorio de software y un archivo de software son lo mismo.
 
-- True
-- False
+- Verdadero
+- Falso

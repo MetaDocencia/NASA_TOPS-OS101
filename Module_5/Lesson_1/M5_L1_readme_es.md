@@ -1,156 +1,156 @@
-# Lesson 1: Introduction to Open Results
+# Lección 1: Introducción a Resultados Abiertos
 
-## Navigation
+## Contenidos
 
-- [What Research Objects are Created Throughout the Research Cycle?](#what-research-objects-are-created-throughout-the-research-cycle)
-- [Examples of Open Results](#examples-of-open-results)
-- [What is the Reproducibility Crisis?](#what-is-the-reproducibility-crisis)
-- [Lesson 1: Summary](#lesson-1-summary)
-- [Lesson 1: Knowledge Check](#lesson-1-knowledge-check)
+- [¿Qué objetos de investigación se crean a lo largo del ciclo de investigación?](#what-research-objects-are-created-throughout-the-research-cycle)
+- [Ejemplos de resultados abiertos](#examples-of-open-results)
+- [¿Qué es la crisis de reproducibilidad?](#what-is-the-reproducibility-crisis)
+- [Lección 1: Resumen](#lesson-1-summary)
+- [Lección 1: Evaluación](#lesson-1-knowledge-check)
 
-## Overview
+## Descripción general
 
-This lesson aims to broaden your perspective regarding what shareable research outputs are produced throughout the research lifecycle. We will first consider what constitutes an open result. To do so, we will read an example of a forward-thinking research project that utilizes open result best practices. The perspectives gained from this example will ultimately get us thinking about how we can work towards creating reproducible research.
+Esta lección tiene como objetivo ampliar tu perspectiva sobre los resultados de investigación compartibles que se producen a lo largo del ciclo de vida de la investigación. Primero consideraremos qué es un resultado abierto. Para hacerlo, leeremos un ejemplo de un proyecto de investigación de vanguardia que utiliza las mejores prácticas de resultados abiertos. Las perspectivas obtenidas con este ejemplo nos harán reflexionar sobre cómo podemos trabajar para crear investigación reproducible.
 
-## Learning Objectives
+## Objetivos de aprendizaje
 
-After completing this lesson, you should be able to:
+Después de completar esta lección, deberías ser capaz de:
 
-- Describe what constitutes open results and list the research objects that can be created throughout a research cycle.
-- Describe how sharing open results can advance science and your career.
-- Explain what the reproducibility crisis is and how open science can help combat it.
+- Describir qué constituye resultados abiertos y enumerar los objetos de investigación que pueden ser creados a lo largo de un ciclo de investigación.
+- Describir cómo compartir resultados abiertos puede hacer progresar la ciencia y tu carrera.
+- Explicar qué es la crisis de reproducibilidad y cómo la ciencia abierta puede ayudar a combatirla.
 
-## What Research Objects are Created Throughout the Research Cycle?
+## ¿Qué objetos de investigación se crean a lo largo del ciclo de investigación?
 
-### The Traditional Depiction of a "Scientiﬁc Result" Has Changed Over Time
+### La representación tradicional de un "resultado científico" ha cambiado con el tiempo
 
-When we think of results, most people think of just the final publication.
+Cuando pensamos en resultados, la mayoría de la gente piensa sólo en la publicación final.
 
 **1665**
 
 <img src="../images/media/image4.jpeg" style="width:350px;height:auto;" />
 
-This publication dates back to 1665 when the first scientific journal Philosophical Transactions was established to publish letters about scientific observations and experimentations.
+Esta publicación se remonta a 1665, cuando se estableció la primera revista científica _Philosophical Transactions_ para publicar cartas sobre observaciones científicas y experimentos.
 
 **1940s**
 
 <img src="../images/media/image5.png" style="width:350px;height:auto;" />
 
-Later in the 1940s, publishing became commercialized and took over as the mechanism for releasing journals, conference proceedings, and books. This new business model normalized publication paywalls.
+Más tarde, en la década de 1940, la publicación se comenzó a comercializar y se convirtió en el mecanismo para lanzar revistas, actas de conferencias y libros. Este nuevo modelo de negocio normalizó las barreras de pago para la publicación.
 
-**21st century**
+**Siglo XXI**
 
 <img src="../images/media/image6.png" style="width:350px;height:auto;" />
 
-Only by the 21st century did the scientific community expand the meaning of open results. The evolution of this definition was driven by technological advances, such as the internet, and advances in modes to share information. The open access movement was established by the [Budapest Open Access Initiative](https://www.budapestopenaccessinitiative.org/) in 2002 and the [Berlin Declaration on Open Access](https://openaccess.mpg.de/Berlin-Declaration) in 2003, both of which formalized the idea that, with regards to new knowledge, there should be "free availability on the public internet, permitting any users to read, download, copy, distribute, print, search, or link to the full texts of these articles" (Budapest Open Access Initiative).
+Solo en el siglo XXI la comunidad científica amplió el significado de resultados abiertos. La evolución de esta definición fue impulsada por avances tecnológicos, como Internet y mejoras en los modos de compartir información. El movimiento de acceso abierto fue establecido por la [_Budapest Open Access Initiative_](https://www.budapestopenaccessinitiative.org/) (en español, Iniciativa de Acceso Abierto de Budapest) en 2002 y la [_Berlin Declaration on Open Access_](https://openaccess.mpg.de/Berlin-Declaration) (en español, Declaración de Berlín sobre Acceso Abierto) en 2003, ambos formalizaron la idea de que, con respecto a los nuevos conocimientos, debería haber "disponibilidad gratuita en la Internet pública, permitir a cualquier usuario leer, descargar, copiar, distribuir, imprimir, buscar o enlazar al texto completo de estos artículos" (_Budapest Open Access Initiative_).
 
-### But Results Have Always Been Far More Than Just the Publication
+### Pero los resultados siempre han sido mucho más que sólo la publicación
 
-You might be familiar with the research life cycle, but may not have considered what results could be shared openly throughout its process. This lesson adopts a definition of the research life cycle based on [The Turing Way](https://the-turing-way.netlify.app/index.html) and breaks it down into nine phases based, pictured in the figure below.
+Es posible que estés familiarizado con el ciclo de vida de una investigación, pero es posible que no hayas considerado qué resultados podrían compartirse abiertamente a lo largo de su proceso. Esta lección adopta una definición del ciclo de vida de la investigación basada en [_The Turing Way_](https://the-turing-way.netlify.app/index.html) y lo desglosa en nueve fases, como se muestra en la figura a continuación.
 
-Although the phases are presented in a linear fashion, we acknowledge that the research lifecycle is rarely ever linear! Products are created throughout the scientific process that are needed to enable others to reproduce the findings. The products of research include data, code, analysis pipelines, papers, and more!
+Aunque las fases se presentan de forma lineal, ¡reconocemos que el ciclo de vida de la investigación rara vez es lineal! A lo largo del proceso científico se crean productos que son necesarios para permitir que otras personas reproduzcan los hallazgos. Los productos de la investigación incluyen datos, códigos, secuencias de análisis, artículos, ¡y más!
 
-Following [Garcia-Silva et al. 2019](https://www.sciencedirect.com/science/article/abs/pii/S0167739X18314638), we define a Research object (RO) as a method for the identification, aggregation and exchange of scholarly information on the Web. Research objects can be composed of both research data and digital research objects that are defined as follows by the Organization for Economic Co-Operation and Development ([OECD Legal Instruments](https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0347)).
+Siguiendo a [Garcia-Silva et al. 2019](https://www.sciencedirect.com/science/article/abs/pii/S0167739X18314638), definimos un objeto de investigación (_Research Object_, RO por sus siglas en inglés) como un método para la identificación, agregación e intercambio de información académica en la Web. Los objetos de investigación pueden estar compuestos tanto por datos de investigación como por objetos de investigación digitales, que están definidos de la siguiente manera por la _Organization for Economic Co-Operation and Development_ ([OECD](https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0347), en español, Organización para Cooperación y Desarrollo Económico).
 
 <img src="../images/media/image7.jpeg" style="width:100%;height:auto;" />
 
-The term 'Open Results' comprehensively includes all these research products and more.
+El término "resultados abiertos" incluye de manera integral todos estos productos de investigación y más.
 
-Open results can include both data and code. Since data and code were covered in previous modules, in this lesson, we focus on sharing science outcomes as open results. Examples of open results can include:
+Los resultados abiertos pueden incluir tanto datos como código. Dado que los datos y el código fueron cubiertos en módulos anteriores, en esta lección nos enfocamos en compartir los resultados científicos como resultados abiertos. Ejemplos que pueden incluirse como resultados abiertos:
 
-- Open access peer-reviewed articles
-- Technical reports
-- Computational notebooks
-- Code of conduct, contributor guidelines, publication policies
-- Blog posts
-- Short form videos and podcasts
-- Social media posts
-- Conference abstracts and presentations
-- Forum discussions
+- Artículos con revisión de pares de acceso abierto.
+- Informes técnicos.
+- Cuadernos computacionales.
+- Códigos de conducta, instrucciones para colaboradores, políticas de publicación.
+- Publicaciones de blog.
+- Vídeos cortos y _podcasts_.
+- Publicaciones en redes sociales.
+- Resúmenes y presentaciones en conferencias.
+- Discusiones en foros.
 
-Open access peer-reviewed articles are archived for long-term preservation and represent a more formal discussion of scientific ideas, interpretations, and conclusions. These discussions inform the method that researchers share results. In the following lesson section, we will discuss different types of sharing and methods to build and adapt them for use in your research.
+Los artículos revisados por pares de acceso abierto se archivan para su conservación a largo plazo y representan un debate más formal de ideas científicas, interpretaciones y conclusiones. Estos debates informan el método que los investigadores utilizan para compartir resultados. En la siguiente sección de la lección, discutiremos diferentes tipos de divulgación y métodos para construirlos y adaptarlos para usar en tu investigación.
 
-Scientists can share their incremental progress throughout the research process and invite community feedback. Sharing more parts of the research process creates more interactions between researchers and can improve the end result (which may be a peer-reviewed article).
+Los científicos pueden compartir su progreso incremental a lo largo del proceso de investigación e invitar comentarios de la comunidad. Compartir más partes del proceso de investigación crea más interacciones entre los investigadores y puede mejorar el resultado final (que puede ser un artículo revisado por pares).
 
-Throughout this module we will show you how to use, make, and share open results.
+A lo largo de este módulo te mostraremos cómo usar, crear y compartir resultados abiertos.
 
-### The Practice of 'Open'
+### La Práctica de lo 'Abierto'
 
-Specifically, the "Use, Make, Share" format has been naturally embedded throughout the curriculum and should be a familiar format by now. Lesson 2 will cover "Using". Lesson 3 will cover "Making". Lesson 4 will cover "Sharing". Throughout this module, we will pay particular attention to manuscripts and other research products as examples because the previous modules covered "Use, Make, Share" in the context of components with data and software.
+Específicamente, el sistema "Usar, Hacer, Compartir" ha sido naturalmente integrado a lo largo del plan de estudios y debería resultarte un formato familiar en este momento. La Lección 2 cubrirá "Usar". La Lección 3, "Hacer". Y la Lección 4, "Compartir". A lo largo de este módulo, prestaremos especial atención a los manuscritos y otros productos de investigación como ejemplos porque los módulos anteriores cubrieron el sistema "Usar, Hacer, Compartir" en el contexto de componentes con datos y software.
 
 <img src="../images/media/thepracticeofopen.jpg" style="width:100%;height:auto;" />
 
-## Examples of Open Results
+## Ejemplos de resultados abiertos
 
-Let's broaden our perspectives on the types of **research objects** that are produced throughout the research process. Let’s take a look at some examples from different projects.
+Ampliemos nuestras perspectivas sobre los tipos de **objetos de investigación** que se producen a lo largo del proceso de investigación. Veamos algunos ejemplos de diferentes proyectos.
 
-### Reaching New Audiences
+### Alcanzar nuevas audiencias
 
 <img src="../images/media/image9.jpeg" style="width:350px;height:auto;" />
 
-Qiusheng Wu is an associate professor at University of Tennessee. He has published 500+ video tutorials on [YouTube](https://www.youtube.com/%40giswqs), which have gained 25K+ subscribers, and 1.1M+ views (as of 8/2023).
+Qiusheng Wu es profesor asociado en la Universidad de Tennessee. Ha publicado más de 500 tutoriales en vídeo en [YouTube](https://www.youtube.com/%40giswqs) (en inglés), los cuales han ganado más de 25 mil suscriptores y más de 1.1 millón de vistas (a partir de agosto del 2023).
 
-Professor Qiusheng Wu created a [YouTube channel](https://youtube.com/%40giswqs) in April 2020 for the purpose of sharing video tutorials on the [geemap Python package](https://geemap.org/) that he was developing. Since then, Wu has published over 500 video tutorials on open-source geospatial topics. The channel has gained over 25K subscribers, with more than 1 million views and 60K watch hours in total. On average, it receives 70 watch hours per day.
+El Profesor Qiusheng Wu creó un [canal de YouTube](https://youtube.com/%40giswqs) (en inglés) en abril de 2020 con el propósito de compartir tutoriales de vídeo sobre el [paquete geemap de Python](https://geemap.org/) que estaba desarrollando. Desde entonces, Wu ha publicado más de 500 tutoriales en vídeo sobre temas geoespaciales de código abierto. El canal ha ganado más de 25.000 suscriptores, con más de 1 millón de visitas y 60.000 horas de reloj en total. En promedio, recibe 70 horas de visualización por día.
 
-The YouTube channel has allowed Wu to reach a much larger audience beyond the confines of a traditional classroom. It has made cutting-edge geospatial research more accessible to the general public and has led to collaborations with individuals from around the world. This has been particularly beneficial for Wu’s tenure promotion as it has resulted in increased funding opportunities, publications, and public engagement through the YouTube channel, social media, and GitHub.
+El canal de YouTube le ha permitido a Wu llegar a una audiencia mucho más amplia, más allá de los límites de un aula tradicional. Ha hecho que la investigación geoespacial de vanguardia sea más accesible para el público en general y ha llevado a colaboraciones con personas de todo el mundo. Esto ha sido particularmente beneficioso para la promoción de Wu, ya que ha resultado en mayores oportunidades de financiamiento, publicaciones y participación pública a través del canal de YouTube, redes sociales y GitHub.
 
-Overall, the YouTube channel serves as an important tool for Wu to disseminate research, inspire others, and contribute to the advancement of science. It has also played a significant role in advancing Wu’s professional career.
+En general, el canal de YouTube sirve como una herramienta importante para que Wu difunda investigaciones, inspire a otras personas y contribuya al avance de la ciencia. También ha desempeñado un papel importante en el avance de la carrera profesional de Wu.
 
-### New Media for Science Products
+### Nuevos medios para productos científicos
 
-"A new method reduced the compute time for this image from ~30 minutes to \<1 minute". In 2021, Lucas Sterzinger spent one summer of his PhD on an internship. During that summer, he wrote a blog post to explain and demonstrate a game-changing technology called Kerchunk – a software package that makes accessing scientific data in the cloud much faster.
+"Un nuevo método redujo el tiempo de cálculo de esta imagen de aproximadamente 30 minutos a menos de 1 minuto". En 2021, Lucas Sterzinger pasó un verano de su doctorado en una pasantía. Durante ese verano, escribió una publicación en un blog para explicar y demostrar una tecnología innovadora llamada Kerchunk, una bibilioteca que hace que el acceso a datos científicos en la nube sea mucho más rápido.
 
 <img src="../images/media/image10.jpeg" style="width:350px;height:auto;" />
 
-Source: [https://medium.com/pangeo/fake-it-until-you-make-it-reading-goes-netcdf4-data-on-aws-s3-as-zarr-for-rapid-data-access-61e33f8fe685](https://medium.com/pangeo/fake-it-until-you-make-it-reading-goes-netcdf4-data-on-aws-s3-as-zarr-for-rapid-data-access-61e33f8fe685)
+Fuente: [https://medium.com/pangeo/fake-it-until-you-make-it-reading-goes-netcdf4-data-on-aws-s3-as-zarr-for-rapid-data-access-61e33f8fe685](https://medium.com/pangeo/fake-it-until-you-make-it-reading-goes-netcdf4-data-on-aws-s3-as-zarr-for-rapid-data-access-61e33f8fe685) (en inglés)
 
 ---
 
-Alongside the blog post, he also created a tutorial as a Jupyter Notebook – both of these resources and associated code are freely accessible to the public, allowing for rapid adoption and iteration by other developers and scientists. He posted the blog on Medium and posted about it to Twitter. The blog got a lot of attention on a newly developed technology as it was being developed! This is starkly different from the slow and complicated world of academic publishing where this result would not have been shared for about a year (writing it up, the review process, publication process). He said, "Working on Kerchunk and sharing it widely using open science principles greatly expanded my professional connections and introduced me to the field of research software engineering. The connections I made from this led me directly to my current role as a Scientific Software Developer at NASA."
+Además de la publicación del blog, también creó un tutorial como Jupyter Notebook: tanto estos recursos como el código asociado son de libre acceso para el público, lo que permite una adopción e iteración rápidas por parte de otras personas desarrolladoras y científicas. Publicó el blog en Medium y lo compartió en Twitter. El blog atrajo mucha atención sobre una tecnología reciente, ¡a medida que se desarrollaba! Esto es marcadamente diferente al lento y complicado mundo de las publicaciones académicas, donde este resultado no se habría compartido durante aproximadamente un año (redacción, proceso de revisión, proceso de publicación). Dijo: "Trabajar en Kerchunk y compartirlo ampliamente utilizando los principios de la ciencia abierta expandió mis conexiones profesionales y me introdujo en el campo de la ingeniería de software de investigación. Las conexiones que hice a partir de esto me llevaron directamente a mi cargo actual como desarrollador de software científico en NASA".
 
-### New Products for Increasing Impact
+### Nuevos productos para aumentar el impacto
 
 <img src="../images/media/image11.png" style="width:350px;height:auto;" />
 
-Image credit: OpenStreetMap 2011, Ken Vermette. CC BY-SA 3.0
+Créditos de la imagen: OpenStreetMap 2011, Ken Vermette. CC BY-SA 3.0
 
 ---
 
-From '2003: let's map the UK to 2023:\>1.5M contributors, 100M+ edits, using the data to map the world with applications ranging from Uber to mapping UN Sustainable Development Goals." [OpenStreetMaps is being used for GIS analysis](https://welcome.openstreetmap.org/about-osm-community/consumers/), such as planning or logistics for humanitarian groups, utilities, governments and more. This was only possible because it was set up and shared openly and built by a community devoted to improving it. You never know where your personal project might go or who might be interested in collaborating!
+Desde '2003: vamos a mapear el Reino Unido hasta 2023: más de 1,5 millones de colaboradores, más de 100 millones de ediciones, utilizando los datos para mapear el mundo con aplicaciones que van desde Uber hasta el mapeo de los Objetivos de Desarrollo Sostenible de la ONU" [OpenStreetMaps está siendo usado para análisis GIS](https://welcome.openstreetmap.org/about-osm-community/consumers/), tales como planificación o logística para grupos humanitarios, servicios públicos, gobiernos y más. Esto sólo fue posible porque fue creado, compartido abiertamente, y construido por una comunidad dedicada a mejorarlo. ¡Nunca se sabe hasta dónde podría llegar tu proyecto personal o quién podría estar interesado en colaborar!
 
-### New Visualizations to Share Results
+### Nuevas visualizaciones para compartir resultados
 
-Matplotlib was developed around 2002 by post-doc John Hunter to visualize some neurobiology data he was working on. He wasn't a software developer, he was a neurobiologist! He could have just published the paper in a peer-reviewed journal, and maybe shared his code to create the figures, but instead he started an open project on GitHub and thought, 'well if this is useful to me, maybe it will be useful to others...'.
+Matplotlib fue desarrollado alrededor de 2002 por el postdoctorado John Hunter para visualizar algunos datos de neurobiología en los que estaba trabajando. El no era desarrollador de software, ¡era neurobiólogo! Podría haberse limitado a publicar el artículo en una revista revisada por pares, y tal vez haber compartido su código para crear las figuras, pero en lugar de eso inició un proyecto abierto en GitHub y pensó: «bueno, si esto es útil para mí, tal vez lo sea para otras personas...».
 
 <img src="../images/media/image12.jpeg" style="width:100%;height:auto;" />
 
-Source: [https://medium.com/dataseries/mastering-matplotlib-part-1-a480109171e3](https://medium.com/dataseries/mastering-matplotlib-part-1-a480109171e3)
+Fuente: [https://medium.com/dataseries/mastering-matplotlib-part-1-a480109171e3](https://medium.com/dataseries/mastering-matplotlib-part-1-a480109171e3) (en inglés)
 
 ---
 
-Matplotlib is now the most widely used plotting library for the Python programming language and a core component of the scientific Python stack, along with NumPy, SciPy and IPython. Matplotlib was used for data visualization during the 2008 landing of the Phoenix spacecraft on Mars and for the creation of the first image of a black hole.
+Matplotlib es actualmente la librería o biblioteca de gráficas más utilizada en el lenguaje de programación Python y un componente principal del conjunto de librerías o bibliotecas científicas de Python, junto con NumPy, SciPy e IPython. Matplotlib se utilizó para la visualización de datos durante el aterrizaje de la nave Phoenix en Marte en 2008 y para la creación de la primera imagen de un agujero negro.
 
-### JWST Case Study: Reporting and Publication
+### Estudio del caso/proyecto JWST: Informes y publicación
 
-And last but not least, we have the example for the JWST Early Release Science team from Module 1 on how they reported their results. This came in various forms from publishing a peer review paper, preprints, blog posts, and social media. Their peer-reviewed publication was published open access in Nature along with a preprint through arXiv.
+Y por último, pero no por ello menos importante, tenemos el ejemplo del equipo científico del JWST del Módulo 1 sobre cómo informaron sus resultados. Esto se produjo de varias formas, desde la publicación de un artículo de revisión por pares, preimpresiones (_preprints_), publicaciones en blogs y redes sociales. Su publicación revisada por pares se publicó en formato de libre acceso en Nature junto con una preimpresión (_preprint_) a través de arXiv.
 
-Open communication platforms furthered the reach and audience of results.
+Las plataformas de comunicación abiertas ampliaron el alcance y la audiencia de los resultados.
 
 <img src="../images/media/image13.jpeg" style="width:100%;height:auto;" />
 
-Figure Credit: https://arxiv.org/abs/2208.11692
+Fuente: https://arxiv.org/abs/2208.11692
 
 ---
 
-The public is interested in what you are doing, and reaching them can involve communication through traditional and new platforms. Publishing results on platforms such as Twitter/X, Youtube, TikTok, blogs, websites, and other social media platforms is becoming more common. Awareness through social media drastically increases the reach and audience of your work. There have been studies on how this impacts citation rates. For example, The Journal of Medical Internet Research (JMIR) conducted a three-year [study](https://www.jmir.org/) of the relative success of JMIR articles in both Twitter and academic worlds. They found that highly tweeted articles were 11 times more likely to be highly cited than less tweeted articles.
+El público está interesado en lo que estás haciendo, y llegar a él, implica comunicación a través de plataformas tradicionales y nuevas. La publicación de resultados en plataformas como Twitter/X, Youtube, TikTok, blogs, sitios web y otras plataformas de medios sociales es cada vez más habitual. La difusión a través de las redes sociales aumenta drásticamente el alcance y la audiencia de tu trabajo. Se han realizado estudios sobre el impacto que esto tiene, en los índices de citas. Por ejemplo, The Journal of Medical Internet Research (JMIR) realizó por tres años un [estudio](https://www.jmir.org/) sobre el éxito relativo de los artículos de JMIR tanto en Twitter como en el mundo académico. Descubrieron que los artículos muy tuiteados tenían 11 veces más probabilidades de ser más citados que los artículos menos tuiteados.
 
-Open communication platforms noticeably furthered the reach and audience of results.
+Las plataformas de divulgación abiertas ampliaron notablemente el alcance y la audiencia de los resultados.
 
 <img src="../images/media/image14.jpeg" style="width:100%;height:auto;" />
 
-Twitter \#1: https://twitter.com/cornerof_thesky/status/1595086671275589632?s=20
+Twitter, ahora X \#1: https://twitter.com/cornerof_thesky/status/1595086671275589632?s=20 (en inglés)
 
-Twitter \#2: https://twitter.com/V_Parmentier/status/1595127493199302656?s=20
+Twitter, ahora X \#2: https://twitter.com/V_Parmentier/status/1595127493199302656?s=20 (en inglés)
 
 TikTok: https://www.tiktok.com/@astrojaket/video/7168878696906886405
 
@@ -158,122 +158,122 @@ YouTube: https://www.youtube.com/watch?v=cI-kM_wPbbQ
 
 ---
 
-## What is the Reproducibility Crisis?
+## ¿Qué es la crisis de la reproductibilidad?
 
-A 2016 [Nature survey](https://www.nature.com/articles/533452a) on reproducibility found that of 1,576 researchers, "More than 70% of researchers have tried and failed to reproduce another scientist's experiments, and more than half have failed to reproduce their own experiments. "The 'reproducibility crisis' in science is a growing concern over several reproducibility studies where previous positive results were not reproduced.
+En 2016 una [encuesta Nature](https://www.nature.com/articles/533452a) (en inglés) sobre reproducibilidad, encontró que, de 1.576 investigadores, «Más del 70% de las personas que investigan han intentado y fracasado en reproducir los experimentos de otro equipo científico, y más de la mitad, han fracasado en reproducir sus propios experimentos». La “crisis de la reproducibilidad” en la ciencia es una preocupación creciente por varios estudios de reproducibilidad en los que no se reprodujeron los resultados positivos anteriores.
 
-We must consider the full research workflow if we are to solve the reproducibility crisis. The fact that 70% of researchers could not reproduce other scientists' results is shocking, especially considering that the reproducibility of science is the cornerstone of the scientific method.
+Si queremos resolver la crisis de reproducibilidad, debemos tener en cuenta todo el flujo de trabajo de la investigación. El hecho, que el 70% de las personas que investigan no pudieran reproducir los resultados de otros equipos científicos, resulta alarmante, sobre todo si se tiene en cuenta que la reproducibilidad de la ciencia, es la piedra angular del método científico.
 
 <img src="../images/media/image15.png" style="width:350px;height:auto;" />
 
-By now, it should be obvious that there are many personal incentives to implement open science principles throughout all stages of the research process. By making results open throughout, you increase your ability to reproduce your own results.
+A estas alturas, ya debería ser obvio que existan muchos incentivos personales, para aplicar los principios de la ciencia abierta, a lo largo de todas las etapas del proceso de investigación. Al hacer que los resultados sean abiertos en todo momento, aumenta la posibilidad de reproducir sus propios resultados.
 
-Although reproducibility of one's own results might sound like a trivial achievement, a [2016 Nature study](https://www.nature.com/articles/533452a) found that 50% of researchers are unable to reproduce their own experiments. This highlights the critical nature of the reproducibility crisis. This also has implications for research beyond the ability to improve your research.
+Aunque la reproducibilidad de los propios resultados pueda parecer un logro trivial, un [estudio de Nature de 2016](https://www.nature.com/articles/533452a) (en inglés) descubrió que el 50% de las personas que investigan son incapaces de reproducir sus propios experimentos. Esto pone de relieve el aspecto crítico de la crisis de reproducibilidad. Esto también tiene implicaciones para la investigación, más allá de la capacidad de mejorar su investigación.
 
-### What is the Cause of This Reproducibility Crisis?
+### ¿Cuál es la causa de esta crisis de reproducibilidad?
 
 <img src="../images/media/image16.jpeg" style="width:100%;height:auto;" />
 
-The three main causes of the reproducibility crisis are:
+Las tres causas principales de la crisis de reproducibilidad son:
 
-1. Intermediate methods of research are often described informally or not at all.
-2. Intermediate data are often omitted entirely.
-3. We often only think about results at the time of publication.
+1. Los métodos intermedios de investigación suelen describirse de manera poco formal o no se describen en absoluto.
+2. A menudo se omiten por completo los datos intermedios.
+3. A menudo sólo se piensa en los resultados, en el momento de la publicación.
 
-We need to think of the entire research process as a result. As an example, scientific articles describe computational methods informally which demands significant effort from others to understand and to reuse.
+Debemos pensar en todo el proceso de investigación, como un resultado. Por ejemplo, los artículos científicos describen de manera poco precisa los métodos computacionales, lo que requiere un gran esfuerzo por parte de los demás para entenderlos y reutilizarlos.
 
-Articles often lack sufficient information needed for other researchers to reproduce results, even when data sets are published, according to two studies in [Nature Genetics](https://www.nature.com/articles/ng.295) and [Nature Methods](https://www.nature.com/articles/nmeth.1333). Raw and/or intermediate data products and relevant software are often not provided alongside the final manuscript, limiting the reader's ability to attempt replication.
+Los artículos a menudo no contienen la información suficiente para que otros investigadores reproduzcan los resultados, incluso cuando se publican conjuntos de datos, según dos estudios publicados en [Genética en Nature](https://www.nature.com/articles/ng.295) (en inglés) y [Métodos en Nature](https://www.nature.com/articles/nmeth.1333) (en inglés). A menudo, los resultados de los datos sin procesar o datos intermedios y los programas informáticos correspondientes, no se facilitan junto con el artículo final, lo que limita la capacidad del lector para intentar reproducirlos.
 
-Without access to the source codes for the papers, reproducibility has been shown to be elusive, according to two other studies in [Briefings in Bioinformatics](https://academic.oup.com/bib/article/12/3/288/258098) and [Nature Physics](https://www.nature.com/articles/nphys3313).
+Según otros dos estudios publicados en [Sesiones Informaticas en Bioinformatics](https://academic.oup.com/bib/article/12/3/288/258098) (en ingkés) y [Física en Nature](https://www.nature.com/articles/nphys3313) (en inglés), sin acceso a los códigos fuente de los artículos, la reproducibilidad resulta complicada.
 
-### Combating the Reproducibility Crisis
+### Lucha contra la crisis de reproducibilidad
 
-If your research workflow uses principles of open results, as showcased in the example, this will help you to combat the reproducibility crisis.
+Si su flujo de trabajo de investigación utiliza los principios de los resultados abiertos, como se muestra en el ejemplo, esto le ayudará a superar la crisis de la reproducibilidad.
 
-We can create reproducible workﬂows and combat this crisis by considering open results at each stage of the research lifecycle. An Open Science and Data Management Plan (OSDMP) helps researchers think and plan for all aspects of sharing by determining how they will make software and data available. This plan can be shared publicly early on through a practice called pre-registering, where researchers determine their analysis plan and data collection procedure before a study begins (discussed previously in Lesson 2 of Module 2).
+Podemos crear procesos de trabajo reproducibles y combatir esta crisis, teniendo en cuenta los resultados abiertos en cada etapa del ciclo de vida de la investigación. Un Plan de Ciencia Abierta y Gestión de Datos (OSDMP, por sus siglas en inglés) ayuda al equipo investigador a pensar y planificar todos los aspectos de la distribución al determinar cómo harán que el software y los datos estén disponibles. Este plan puede compartirse públicamente desde el principio mediante una práctica denominada prerregistro, donde las personas que investigan determinan su plan de análisis y el procedimiento de recolección de datos antes de iniciar un estudio (analizado anteriormente en la Lección 2 del Módulo 2).
 
-### Activity 1.1: What Could You Do?
+### Actividad 1.1: ¿Qué podrías hacer?
 
 <img src="../images/media/image21.png" style="width:350px;height:auto" />
 
-Let's rethink your research workflow. Identify the research objects that could be (or could have been) shared as open results of a project you are/were involved in. What are high priority items for combatting the reproducibility crisis in each area of the research workflow?
+Repensemos su flujo de trabajo de investigación. Identifique los objetos de investigación que podrían (o podrían haber sido) compartidos como resultados abiertos de un proyecto en el que está o estuvo involucrado. ¿Cuáles son los puntos de mayor prioridad para superar la crisis de reproducibilidad en cada área del proceso del trabajo de investigación?
 
-- Ideation
-- Planning
-- Project Design
-- Engagement & Training
-- Data Collection
-- Data Wrangling
-- Data Exploration
-- Preservation
-- Reporting & Publication
+- Ideación
+- Planificación
+- Diseño del proyecto
+- Compromiso y capacitación
+- Recolección de datos
+- Gestión de datos
+- Exploración de los datos
+- Almacenamiento
+- Informes y publicación
 
-**There are many personal advantages of implementing open science principles across all stages of a research process**
+**La aplicación de los principios de la ciencia abierta en todas las etapas del proceso de investigación tiene muchas ventajas personales**
 
 <img src="../images/media/image23.jpeg" style="width:100%;height:auto;" />
 
-#### Key Takeaways: What Could You Do?
+#### Puntos clave: ¿Qué debiéras hacer?
 
-The OpenSciency team created a large table that describes all the different kinds of shareable research objects that are possible to create throughout the research lifecycle.
+El equipo de OpenSciency creó una gran tabla que describe, todos los diferentes tipos de objetos de investigación que se pueden compartir y que son posibles de crear, a lo largo del ciclo de vida de la investigación.
 
-**A full table is available here**
+**La tabla completa está disponible aquí**
 
-[CLICK TO LEARN](https://opensciency.github.io/sprint-content/open-results/lesson1-research-process-and-results.html#research-stages-and-open-result-table)
+[CLICK PARA MAS INFORMACION](https://opensciency.github.io/sprint-content/open-results/lesson1-research-process-and-results.html#research-stages-and-open-result-table)
 
-Thinking about sharing everything all at once can be overwhelming when you are getting started. To move forward, just focus on how you might pick the most important item. Here we have pared down the list to only a couple items per category. Furthermore, you could think about shortening the list even further when you are getting started. For example, maybe it is the case that, for your work, sharing the code used to wrangle the data is the most critical element to reproducibility. Therefore, code-sharing would be a good place to start your open science journey. The small steps we make are what move us towards sustainable open science.
+Pensar en compartir todo de forma inmediata, puede resultar agotador cuando se está empezando. Para avanzar, concéntrese en cómo puede elegir el elemento más importante. Aquí se ha reducido la lista a un par de artículos por categoría. Además, puede pensar en acortar aún más la lista cuando esté empezando. Por ejemplo, puede que, para trabajar, compartir el código utilizado para procesar los datos sea el elemento más importante para la reproducibilidad. Por lo tanto, compartir código sería un buen punto de partida para iniciar el trabajo ó experiencia en ciencia abierta. Los pequeños pasos que damos son los que nos hacen avanzar hacia una ciencia abierta sostenible.
 
-- **Ideation:** Proposals can be shared on Zenodo and open grant platforms such as [ogrants.org](https://www.ogrants.org/).
-- **Planning:** Projects can be pre-registered before they begin.
-- **Project Design:** Contributor guidelines or a code of conduct can be posted on Zenodo, GitHub, or team Web Pages.
-- **Engagement & Training:** Workflow computational notebooks can be shared with the team via GitHub and released on Zenodo.
-- **Data Collection:** Raw data can be shared through data repositories.
-- **Data Wrangling:** Code can be shared through software repositories.
-- **Data Exploration:** Computational notebooks can be shared via GitHub and released on Zenodo.
-- **Preservation:** Data management plans for archiving can be posted on Zenodo.
-- **Reporting & Publication:**
-  - Open access peer-reviewed articles
-  - Computational notebooks
-  - Code of conduct, contributor guidelines, publication policies
-  - Blog posts
-  - Short form videos and podcasts
-  - Social media posts
-  - Conference abstracts, posters, and presentations (when made openly available)
-  - Forum discussions
+- **Propuesta:** Las propuestas pueden compartirse en Zenodo y en plataformas de subvención abiertas como [ogrants.org](https://www.ogrants.org/).
+- **Planificación:** Los proyectos pueden prerregistrarse antes de comenzar.
+- **Diseño del proyecto:** Se pueden publicar las pautas de las personas que colaboran o un código de conducta en Zenodo, GitHub o en las páginas web del equipo.
+- **Compromiso y capacitación:** Las guias de los procesos de desarrollo del trabajo de investigación, pueden compartirse con el equipo a través de GitHub y publicarse en Zenodo.
+- **Recopilación de datos:** Los datos sin procesar pueden compartirse a través de repositorios de datos.
+- **Gestión de Datos:** El código puede compartirse a través de repositorios de software.
+- **Exploración de datos:** Las guias de los procesos (notebooks), pueden ser compartidas a través de GitHub y publicadas en Zenodo.
+- **Almacenamiento:** Los planes de gestión de datos para almacenamiento de la información pueden publicarse en Zenodo.
+- **Informes y publicación:**
+  - Libre acceso a artículos revisados por pares
+  - Cuadernos computacionales
+  - Código de conducta, pautas para las personas que colaboran, políticas de publicación
+  - Publicaciones en Blogs
+  - Vídeos de corta duración y podcasts
+  - Publicaciones en redes sociales
+  - Resúmenes de conferencias, pósters y presentaciones (cuando estén disponibles públicamente)
+  - Foros de discusión
 
-## Lesson 1: Summary
+## Lección 1: Resumen
 
-In this lesson, you learned that:
+En esta lección, aprendiste que:
 
-- The contemporary scientific workflow involves being open about processes and products. Research products (results) include far more than just the final manuscript, which is a drastic change from the historical notion of a scientific result.
-- At every stage of the research lifecycle, there are research objects produced that we can consider results.
-- We can combat the reproducibility crisis by sharing these research objects at each stage of our research workflow.
-- There are amazing examples of research groups sharing different types of open results!
+- El flujo de trabajo científico contemporáneo implica ser abierto en cuanto a procesos y productos. Los productos de la investigación (resultados) incluyen mucho más que el informe final, lo que supone un cambio drástico respecto a la noción histórica de resultado científico.
+- En cada etapa del proceso de desarrollo de la investigación se producen objetos de investigación que podemos considerar resultados.
+- Podemos combatir la crisis de reproducibilidad compartiendo estos objetos de investigación en cada etapa de nuestro flujo de trabajo en investigación.
+- ¡Existen ejemplos asombrosos de grupos de investigación que comparten distintos tipos de resultados de acceso abierto!
 
-Let's start thinking about what we can do immediately to work towards an open research workflow.
+Empecemos a pensar en lo que podemos hacer inmediatamente, para avanzar hacia los procesos de desarrollo de investigación abierta.
 
-## Lesson 1: Knowledge Check
+## Lección 1: Evaluación
 
-Answer the following questions to test what you have learned so far.
+Responde a las siguientes preguntas para comprobar lo que has aprendido hasta ahora.
 
-_Question_
+_Pregunta_
 
 **01/02**
 
-Which of the following may fit the definition of a "research object"?
+De las siguientes opciones, ¿Cuál se ajusta a la definición de "objeto de investigación"?
 
-- Raw data
-- Blog
-- Proposal
-- Code of Conduct
-- All of the above
+- Datos sin procesar
+- Blog / Publicación
+- Propuesta
+- Código de conducta
+- Todas las anteriores
 
-_Question_
+_Pregunta_
 
 **02/02**
 
-What are some of the key causes of the reproducibility crisis?
+¿Cuáles son algunas de las principales causas de la crisis de reproducibilidad?
 
-- Intermediate methods of research are often described informally or not at all.
-- Intermediate data are often omitted entirely.
-- We often only think about results at the time of publication.
-- All of the above
+- Los métodos intermedios de investigación suelen describirse de manera poco formal o no se describen en absoluto.
+- A menudo se omiten por completo los datos intermedios.
+- A menudo sólo pensamos en los resultados en el momento de la publicación.
+- Todas las anteriores

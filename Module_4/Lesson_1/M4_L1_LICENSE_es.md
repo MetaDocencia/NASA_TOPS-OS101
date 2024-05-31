@@ -1,3 +1,3 @@
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by0sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+Este trabajo está bajo una <a rel="license" href="https://creativecommons.org.ar/licencias/">Licencia Internacional Creative Commons Reconocimiento – Compartir Igual (CC-BY-SA) 4.0</a>.
 
-Material that is not under CC-BY-SA license is marked with a license for that material.
+El material que no está bajo licencia CC-BY-SA está marcado con una licencia para ese material.

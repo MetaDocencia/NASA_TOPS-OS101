@@ -1,78 +1,78 @@
-# Lesson 2: Using Open Code
+# Lección 2: Uso de Código Abierto
 
-## Navigation
+## Índice
 
-- [Overview](#overview)
-- [Learning Objectives](#learning-objectives)
-- [Discovering Open Code and Software](#discovering-open-code-and-software)
-- [Assessing Open Code and Software](#assessing-open-code-and-software)
-- [Reusing Open Code](#reusing-open-code)
-- [Citing and Acknowledging Open Code Use](#citing-and-acknowledging-open-code-use)
-- [Lesson 2: Summary](#lesson-2-summary)
-- [Lesson 2: Knowledge Check](#lesson-2-knowledge-check)
+- [Resumen](#resumen)
+- [Objetivos de Aprendizaje](#objetivos-de-aprendizaje)
+- [Descubrir Código Abierto y Software](#descubrir-codigo-abierto-y-software)
+- [Evaluar Código Abierto y Software](#evaluar-codigo-abierto-y-software)
+- [Reutilizar Código Abierto](#reutilizar-código-abierto)
+- [Citar y Reconocer el uso de Código Abierto](#citar-y-reconocer-el-uso-de-código-abierto)
+- [Lección 2: Resumen](#lección-2-resumen)
+- [Lección 2: Evaluación](#lección-2-evaluación)
 
-## Overview
+## Descripción General
 
-In this lesson, you learn the steps for using existing open code in your work. These steps include discovering, assessing, reusing, citing, and acknowledging.
+En esta lección, aprenderá los pasos para utilizar código abierto disponible en tu trabajo. Estos pasos incluyen descubrir, evaluar, re-usar, citar y reconocer.
 
-## Learning Objectives
+## Objetivos de Aprendizaje
 
-After completing this lesson, you should be able to:
+Después de completar esta lección, deberías ser capaz de:
 
-- Describe the process of using open code and list some key elements of discovering code.
-- Describe the four key considerations when assessing open software: functionality, interoperability, security, and licenses.
-- List some common problems that arise when reusing Open Code and best practices to resolve them.
-- Describe how, where, and under what circumstances one should acknowledge (cite) code.
+- Describir el proceso de uso de código abierto y enumerar algunos elementos clave para encontrar código.
+- Describir las cuatro consideraciones clave al evaluar el software abierto: funcionalidad, interoperabilidad, seguridad y licencias.
+- Enumerar algunos problemas comunes que surgen al reutilizar Código Abierto y las mejores prácticas para resolverlos.
+- Describir cómo, dónde y bajo qué circunstancias se debe reconocer (citar) el código.
 
-## Discovering Open Code and Software
+## Descubriendo Código Abierto y Software
 
-Many people discover code through discussions with their colleagues or by reading journal articles and attending talks at conferences. This is a great way to find out about code that might have applications for your scientific problem.
+Mucha gente descubre el código a través de conversaciones con sus colegas o leyendo artículos de revistas y asistiendo a charlas en conferencias. Esta es una excelente forma de encontrar código que puede tener aplicaciones para su problema científico.
 
-What other ways can someone search for open code? As a first step, look for code that already exists because chances are that someone else has already had a similar problem and published their code online. A common way to search for existing code is with a general search engine. Search engines offer one indicator of a code’s relevancy, how recently it was updated, and how frequently others reference it.
+¿De que otras maneras alguien puede buscar código abierto? Como primer paso, puede buscar código que ya exista porque es probable que otras personas hayan tenido un problema similar y hayan publicado su código en línea. Una manera común de buscar código existente es mediante un motor de búsqueda general. Los motores de búsqueda ofrecen un indicador de la relevancia de un código, con sus respecticas actualizaciones y frecuencia de referencias.
 
-|          |                                                                                                                                                                                                                                                                                                                       |
-| -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Example  | I'm a new graduate student starting to work on modeling turbulence in the Southern Ocean to better understand sea surface temperature (or ocean heat uptake) and climate change. Is there some software available to model how eddies in the ocean affect sea-surface temperature? |
-| Exercise | General Search on the term "Software for ocean turbulence modeling"                                                                                                                                                                                                                                                   |
-| Result   | General Ocean Turbulence Model (GOTM)                                                                                                                                                                                                                                                              |
+|            |                                                                                                                                                                                                                                                                                                                                                                                                              |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Ejemplo    | Soy un nuevo estudiante de posgrado que comienza a trabajar en el modelado de turbulencias en el Océano Austral para comprender mejor la temperatura de la superficie del mar (o la absorción de calor del océano) y el cambio climático. ¿Existe algún software disponible para modelar cómo los remolinos en el océano afectan la temperatura de la superficie del mar? |
+| Ejercicio  | Búsqueda General sobre el término "Software para modelado de turbulencias oceánicas"                                                                                                                                                                                                                                                                                                                         |
+| Resultados | Modelo General de Turbulencia Oceánica (en inglés, GOTM)                                                                                                                                                                                                                                                                                                                                  |
 
-This successful search is predicated on the developers of GOTM making their code open.
+El éxito de esta búsqueda se debe a que los desarrolladores de GOTM han hecho público su código.
 
-### Open Software Discovery Depends on Developers Following FAIR Principles
+### El acceso al software abierto depende de que los desarrolladores sigan los principios FAIR
 
-Discovering open software depends on developers making their software easy to find. The Findable, Accessible, Interoperable and Reusable (FAIR) Principles for research software suggest:
+Descubrir software abierto depende de que los desarrolladores hagan que su software sea fácil de encontrar. Los principios Encontrable, Accesible, Interoperable y Reutilizable (en inglés, FAIR) para software de investigación, sugieren:
 
-- Software and its associated metadata must be easy for humans and machines to find.
-- Software must be described with rich, searchable, and indexable metadata.
-- Software must be findable from all relevant search points
+- El software y sus metadatos asociados deben ser fáciles de encontrar para humanos y máquinas.
+- El software debe ser descrito con metadatos enriquecidos, accesibles e indexables.
+- El software debe poder encontrarse desde todos los puntos de búsqueda relevantes
 
-**Reference:** "The FAIR Guiding Principles for scientific data management and stewardship" Wilkinson, M. D. et al. The FAIR Guiding Principles for scientific data management and stewardship. Sci Data 3, 160018 (2016). See also Module 1.
+Referencia: "The FAIR Guiding Principles for scientific data management and stewardship" Wilkinson, M. D. et al. The FAIR Guiding Principles for scientific data management and stewardship. Sci Data 3, 160018 (2016). Véase también el Módulo 1.
 
-However, you may have more specific needs. The following sections cover additional ways to help discover relevant software that meets specific research demands.
+Sin embargo, puedes tener necesidades más específicas. En las siguientes secciones se describen otras formas de descubrir software que satisfaga las necesidades específicas de la investigación.
 
-### How to Search for Open Code
+### Cómo Buscar Código Abierto
 
-A successful search for open code demands a clearly defined purpose. Developers must first determine the tasks they expect their code to carry out. The requirements associated with these tasks can determine the best suited programming language.
+Una búsqueda exitosa de código abierto exige un propósito claramente definido. Los desarrolladores primero deben determinar las tareas que esperan que realice su código. Los requisitos asociados con estas tareas pueden determinar el lenguaje de programación más adecuado.
 
-Next, familiarize yourself with the terminology of others who created open software with similar requirements to your own. The keywords affiliated with your programming purpose or requirements can serve as a starting point when searching for relevant code. These keywords can be found in community forums about open source programming and in related scientific journal articles. With adoption of open access principles by many academic journals, prospective programmers can peruse scientific papers from fields related to their research in order to find, and sometimes make use of, existing code that will fulfill their requirements.
+A continuación, familiarízate con la terminología de otras personas que crearon software abierto con requisitos similares a los tuyos. Las palabras clave relacionadas con su propósito o requisitos de programación pueden servir como punto de partida al buscar código relevante. Estas palabras clave pueden encontrarse en foros de las comunidades sobre programación de código abierto y en artículos de revistas científicas relacionadas. Con la adopción de principios de acceso abierto por parte de muchas revistas académicas, los futuros programadores pueden examinar artículos científicos de campos relacionados con su investigación para encontrar, y en ocasiones hacer uso, del código existente que satisfaga sus requisitos.
 
-### Know Where to Search
+### Conoce Dónde Buscar
 
-The open software ecosystem is vast, organic, multifaceted, and highly distributed.
+El ecosistema de software abierto es vasto, orgánico, multifacético y altamente distribuido.
 
-If you are looking for scientific software, community standards increasingly require code to be published and linked to scientific papers.
+Si buscas software científico, los estándares comunitarios exigen cada vez más que el código se publique y se vincule a artículos científicos.
 
 <img src="../images/media/image333.jpg" style="width:350px;height:auto;" />
 
-Thus, the scientific literature and its ancillary code archives are increasingly a great place to look for scientific open code.
+Por lo tanto, la literatura científica y sus archivos de códigos auxiliares son cada vez más un excelente lugar para buscar código abierto científico.
 
-Most open code is not developed by or for scientists. However, open code enables research every day.
+La mayor parte del código abierto no está desarrollado por o para científicos. Sin embargo, el código abierto permite investigar todos los días.
 
-### Where to Look Depends on What You Need
+### Dónde Buscar Depende de tu Necesidad
 
-There are several popular search engines for code snippets. First, you can simply search on Google. Other commonly used search engines include GitHub Code Search and Stack Overflow. These search engines allow you to search for specific code snippets by programming language, keyword, or other criteria. GitHub Code Search allows you to search GitHub, a popular code repository for scientific software. Stack Overflow allows you to search forums, where users discuss solutions to coding problems.
+Hay varios buscadores populares de fragmentos de código. Primero, simplemente puedes buscar en Google. Otros motores de búsqueda comúnmente usados son GitHub Code Search y Stack Overflow. Estos motores de búsqueda te permiten buscar por fragmentos de código específicos, por lenguaje de programación, palabra clave u otros criterios. GitHub Code Search desarrolla la búsqueda en GitHub, un popular repositorio de códigos para software científico. En tanto, Stack Overflow establece la búsqueda en foros donde los usuarios discuten soluciones a problemas de codificación.
 
-#### Examples of code repositories:
+#### Ejemplos de repositorios de código:
 
 <table>
 <colgroup>
@@ -94,45 +94,45 @@ There are several popular search engines for code snippets. First, you can simpl
 </tbody>
 </table>
 
-**Example - GitHub Code Search**
+**Ejemplo: Búsqueda de Código en GitHub**
 
-In this example, we will practice searching for open access code on GitHub. Let's work through a scenario in which you would like to search for the Lomb and Scargle method for estimating a power spectrum.
+En este ejemplo, practicaremos la búsqueda de código de acceso abierto en GitHub. Analicemos un escenario en el que te gustaría buscar el método de Lomb y Scargle para estimar un espectro de potencia.
 
-**Example background**
+**Ejemplo de contexto**
 
-GitHub enables users to collaborate on a shared project and track their changes with version control. Users can create a repository and grant others access, or make it open access. GitHub involves a large community of open access users who make their code available for free.
+GitHub permite a los usuarios colaborar en un proyecto compartido y seguir sus cambios con el control de versiones. Los usuarios pueden crear un repositorio y otorgar acceso a otros, o darle acceso abierto. GitHub implica a una gran comunidad de usuarios de acceso abierto que ponen su código disponible de forma libre.
 
-**Example instruction**
+**Instrucciones**
 
-Begin by visiting the GitHub website to search for openly available software packages. You will need to create a free account for this action. Navigate to the Search Code page to begin your search and access tutorials on the interface and capabilities of the search portal. Alternatively, you can simply input your search terms in the search bar while on your profile page. Next, input the related keywords into the search bar. Search for "Lomb Scargle" and find several repositories with relevant code in various languages, along with thousands of related snippets of code. Congratulations! You have begun your open access software journey and can now view the work of thousands of others who once were where you are now. Upwards and onwards!
+Comienza visitando el sitio web de GitHub para buscar paquetes de software disponibles abiertamente. Deberás crear una cuenta gratuita para esta acción. Ahora navega en la página Código de Búsqueda para acceder a tutoriales sobre la interfaz y conocer las capacidades del portal de búsqueda. Alternativamente, puedes ingresar de forma simple tus términos en la barra de búsqueda mientras estás en tu página de perfil. Luego, en la barra de busqueda, ingresa las palabras clave relacionadas. Busca "Lomb Scargle" y aparecerán varios repositorios con código relevante en varios lenguajes de programación (Julia y Python), junto con miles de partes de código relacionados. ¡Felicitaciones! Has comenzado tu viaje hacia el software de acceso abierto y ahora puedes ver el trabajo de miles de personas que alguna vez estuvieron donde tú estás ahora. ¡Arriba y adelante!
 
 <img src="../images/media/image335.jpg" style="width:100%;height:auto;" />
 
-Screenshot of the repositories returned from our search
+Captura de pantalla de los repositorios devueltos por nuestra búsqueda
 
 <img src="../images/media/image496.jpg" style="width:100%;height:auto;" />
 
-Screenshot of the code snippets returned from our search
+Captura de pantalla de los fragmentos de código devueltos por nuestra búsqueda
 
 ---
 
-With open software, knowing where to search and what to search for can be a challenging problem. You can always start with a Google Search. However, it can be valuable to think through some of the questions that guide the discovery process. If the user lacks relevant experience, it can also be helpful to engage experienced colleagues at this stage.
+Con el software abierto, saber dónde buscar y qué buscar puede ser un problema desafiante. Siempre puedes comenzar con una búsqueda en Google. Sin embargo, puede ser valioso reflexionar sobre algunas de las preguntas que guían el proceso de búsqueda. Si el usuario carece de experiencia relevante, también puede resultar útil involucrar a colegas experimentados en esta etapa.
 
-Review the flow chart that illustrates how the search follows the definition of the need.
+Revisa el diagrama de flujo que ilustra cómo la búsqueda sigue la definición de la necesidad.
 
 <img src="../images/media/image128.jpg" style="width:6.23514in;height:3.24979in" />
 
-### Open Software is Aggregated and Searchable in Repositories
+### El Software Abierto se Agrega y se Puede Buscar en Repositorios
 
-A software repository is an online collection of stand-alone application software packages. Repositories typically control access and track the deployments/downloads of packages.
+Un repositorio de software es una colección en línea de paquetes de software de aplicaciones independientes. Los repositorios normalmente controlan el acceso y rastrean las implementaciones/descargas de paquetes.
 
-Software packages are often provided as executables without code.
+Los paquetes de software suelen proporcionarse como ejecutables sin código.
 
-The collection typically includes metadata, documentation, and licensing restrictions on each package. It may include different software package versions and the platforms or environments on which the software package can be executed.
+La colección normalmente incluye metadatos, documentación y restricciones de licencia para cada paquete. Puede incluir diferentes versiones de paquetes de software y las plataformas o entornos en los que se puede ejecutar el paquete de software.
 
-Most research code should be open source software, which is stored in code repositories.
+La mayoría de los códigos de investigación deberían ser software de código abierto, el cual se almacena en repositorios de código.
 
-#### Examples of software repositories are:
+#### Son ejemplos de repositorios de software:
 
 <table>
 <colgroup>
@@ -145,7 +145,7 @@ Most research code should be open source software, which is stored in code repos
         <td><img style="width:98%" src="../images/media/softwarerepo2.png"></td>
     </tr>
     <tr>
-        <td>Software Heritage</td>
+        <td>Heritage Software</td>
         <td>Open Source Development Network (OSDN)</td>
     </tr>
     <tr>
@@ -175,242 +175,242 @@ Most research code should be open source software, which is stored in code repos
 </tbody>
 </table>
 
-**NASA Resources for Discovering Open Software**
+**Recursos de la NASA para descubrir Software Abierto**
 
-These are a few links to NASA-specific repositories that may be of interest:
+Estos son algunos enlaces a repositorios específicos de la NASA que pueden ser de interés:
 
-- [NASA Open Source Software](https://code.nasa.gov/)
-- [NASA Open APIs](https://api.nasa.gov/)
-- [Science Discovery Engine A strophysics Data System](https://sciencediscoveryengine.nasa.gov/app/nasa-sba-smd/)
-- [Earthdata Developer Portal](https://www.earthdata.nasa.gov/engage/open-data-services-and-software/api)
-  [Exoplanet Modeling and Analysis Center](https://www.earthdata.nasa.gov/engage/open-data-services-and-software/api)
+- [Software de código abierto de la NASA](https://code.nasa.gov/)
+- [APIs abiertas de la NASA](https://api.nasa.gov/)
+- [Science Discovery Engine Astrophysics Data System](https://sciencediscoveryengine.nasa.gov/app/nasa-sba-smd/)
+- [Portal de Desarrollador de Earthdata](https://www.earthdata.nasa.gov/engage/open-data-services-and-software/api)
+  [Centro de Modelos y Análisis de Exoplaneta](https://www.earthdata.nasa.gov/engage/open-data-services-and-software/api)
 
-## Assessing Open Code and Software
+## Evaluación de código abierto y software
 
-So, you've discovered some exciting open code that might help you solve your scientific problem. Can you trust this code you discovered on the web? Will it be useful? How much time will it take to learn it? Could the code contain malware? Could you get in legal trouble for using it?
+Así que has descubierto un código abierto emocionante que puede ayudarte a resolver tu problema científico. ¿Puedes confiar en este código que descubriste en la red? ¿Será útil? ¿Cuánto tiempo llevará aprenderlo? ¿Podría el código contener un programa maligno? ¿Podrías tener problemas legales por usarlo?
 
-**Examples:** You found the “General Ocean Turbulence Model (GOTM)” on the internet, and it looks promising. Or, you just found lots of code snippets and functions related to the Lomb-Scargle power spectrum. Now you would like to assess these pieces of code to help you decide if you should use them. This section discusses some best practices for assessing if the code will help you.
+**Ejemplos:** Has encontrado el “General Ocean Turbulence Model (GOTM)” en Internet, y parece prometedor. O bien, acabas de encontrar muchos fragmentos de código y funciones relacionadas con el espectro de potencia Lomb-Scargle. Ahora te gustaría evaluar estas piezas de código para ayudarte a decidir si debes usarlas. En esta sección se tratan algunas buenas prácticas para evaluar si el código le ayudará.
 
-### Four General Considerations for Assessing Open Software
+### Cuatro consideraciones generales para evaluar el software abierto
 
-Software assessment criteria are similar, for any level of openness:
+Los criterios de evaluación del software son similares, para cualquier nivel de apertura:
 
-- **Functionality:** Will it be useful for your scientific problem?
-- **Interoperability:** How hard will it be to use?
-- **Security:** Is it safe? Would using the software create a security risk?
-- **Licenses/restrictions:** Can you use it? Is it legal to use the software in your project?
+- **Funcionalidad:** ¿Será de utilidad para tu problema científico?
+- **Interoperabilidad:** ¿Cuán difícil será de usar?
+- **Seguridad:** ¿Es seguro? ¿El uso del software crearía un riesgo para la seguridad?
+- **Licencias/restricciones:** ¿Puedes utilizarlo? ¿Es legal utilizar el software en su proyecto?
 
-### Functionality: Assessing Scientiﬁc Utility
+### Funcionalidad: Evaluación de la utilidad científica
 
-#### Does the software meet your scientiﬁc needs?\*\*
+#### ¿El software satisface sus necesidades científicas?\*\*
 
-- Does it address your specific science question?
-- Do studies similar to yours use it?
-- What papers cite it and how do they use it?
-- Talk to your advisors or colleagues that might have experience with it.
+- ¿Aborda tu pregunta científica específica?
+- ¿Los estudios similares a los tuyos lo usan?
+- ¿Qué documentos lo citan y cómo lo utilizan?
+- Habla con tus asesores o colegas que puedan tener experiencia con él.
 
-#### Testing the scientiﬁc compatibility
+#### Probando la compatibilidad científica
 
-- Does the software contain scientific test cases? If so, reproduce a case that is applicable to your problem; make sure the results are as expected.
-- If you’ve done similar scientific analysis/modeling previously, reproduce your prior results with the new software. Are the results consistent?
-- Incrementally modify a given test case to address new scientific questions. Alternatively, develop your own case, if necessary, following relevant examples.
+- ¿El software contiene casos de prueba científica? Si es así, reproduzca un caso que sea aplicable a su problema; asegúrese de que los resultados son los esperados.
+- Si ha hecho un análisis científico similar o modelado anteriormente, reproduzca sus resultados previos con el nuevo software. ¿Son consistentes los resultados?
+- Modifica cada vez más un caso de prueba dado para abordar nuevas preguntas científicas. Alternativamente, desarrolle su propio caso, si es necesario, siguiendo ejemplos relevantes.
 
-### Interoperability: Ease of Use
+### Interoperabilidad: Facilidad de Uso
 
-#### Is the code written in a language that you are familiar with?
+#### ¿Está escrito el código en un idioma con el que estás familiarizado?
 
-It can be easier to use coding languages that you are familiar with, then import the code into existing software rather than try to use a new language. On the other hand, the use of existing packages and executables can accelerate your work.
+Puede ser más fácil usar lenguajes de codificación con los que estás familiarizado. entonces importa el código al software existente en lugar de intentar usar un nuevo idioma. Por otro lado, el uso de paquetes y ejecutables existentes puede acelerar tu trabajo.
 
-#### Check for good documentation
+#### Busca buena documentación
 
-Read the README file. Does the software meet your functional requirements? Are the environmental dependencies well-defined and reasonable?
+Lee el archivo LEEME. ¿Cumple el software con sus requerimientos funcionales? ¿Están bien definidas y razonables las dependencias medioambientales?
 
-#### Check the evidence of interoperability with other projects and codes
+#### Compruebe la evidencia de interoperabilidad con otros proyectos y códigos
 
-It is a good sign if you can find evidence that the code has been used successfully by other users that have similar scientific or technical needs.
+Es una buena señal si puede encontrar evidencia de que el código ha sido utilizado con éxito por otros usuarios que tienen necesidades científicas o técnicas similares.
 
-### Factors for assessing the quality of open source software
+### Factores para evaluar la calidad del software de código abierto
 
-To quickly assess the community usage and quality of software repository, use the tools from the repository where you found it. GitHub, for example, permits a quick scan of development activity as evidenced by the number of times the code has been downloaded or ‘forked’ in GitHub parlance. You can also view the amount of activity in a community. GitHub also provides insights into the quality of the software.
+Para evaluar rápidamente el uso de la comunidad y la calidad del repositorio de software, utilice las herramientas del repositorio donde lo encontró. GitHub, por ejemplo, permite un rápido escaneo de la actividad de desarrollo como lo demuestra el número de veces que el código ha sido descargado o “bifurcado” en el lenguaje de GitHub. También puedes ver la cantidad de actividad en una comunidad. GitHub también proporciona información sobre la calidad del software.
 
 <img src="../images/media/image291.jpg" style="width:100%;height:auto;" />
 
-### The Importance of the README File
+### La importancia del Archivo LEEME
 
-- Example above: [Astropy](https://github.com/astropy/astropy/blob/main/README.rst)
-- Always the starting point when assessing software.
-- Explains what the software does, how to install and use it, or points to files with that information.
-- Assumes limited prior knowledge by the reader / potential user.
-- Includes a compatibility description, e.g., dependencies.
-- Includes usage examples and/or test cases.
+- Ejemplo anterior: [Astropy](https://github.com/astropy/astropy/blob/main/README.rst)
+- Siempre el punto de partida cuando se evalúa un software.
+- Explica qué hace el software, cómo instalarlo y usarlo, o apunta a archivos con esa información.
+- Asume conocimientos previos limitados por el lector/potencial usuario.
+- Incluye una descripción de la compatibilidad, por ejemplo, dependencias.
+- Incluye ejemplos de uso y/o casos de prueba.
 
-### Security: Considerations When Using Open Code
+### Seguridad: Consideraciones cuando se utiliza código abierto
 
-You have found some Open Code that will help you solve your scientific problem and it looks easy to use. However, you may still have some reservations. Perhaps you are unsure if the code poses a security risk, for example.
+Has encontrado un código abierto que te ayudará a resolver tu problema científico y parece fácil de usar. Sin embargo, es posible que tenga todavía algunas reservas. Tal vez no esté seguro de si el código plantea un riesgo para la seguridad, por ejemplo.
 
-The risks are relatively low for small snippets of code that are easy for you to fully understand. However, you may not be able to fully understand all components of a large Open Software Package.
+Los riesgos son relativamente bajos para pequeños fragmentos de código que son fáciles de entender para ti. Sin embargo, es posible que no pueda entender completamente todos los componentes de un Paquete de Software Abierto de gran tamaño.
 
-Open software is perceived to have more security risks. This is generally less of a problem for open source code than executables because the code can be audited for security vulnerabilities by the community. How can you assess security in this case?
+Se considera que el software abierto tiene más riesgos para la seguridad. Esto generalmente es un problema menor para el código fuente abierto que los ejecutables porque el código puede ser auditado en búsquedas de vulnerabilidades de seguridad por la comunidad. ¿Cómo se puede evaluar la seguridad en este caso?
 
-- Consult with your institutional open software policies and IT staff
-- Use authoritative reputable sources to minimize security risks
-- Set strict security rules and standards when using a dependency
-- Use security tools to check for vulnerabilities (e.g., [Open Worldwide Application Security</u> Project®](https://owasp.org/))
-- Avoid unsupported open-source software. Switch to actively developed components or develop it yourself
-- Check with your latest institutional policies on using Machine Learning and Artificial Intelligence tools
-- Use caution when using external tools with secure or closed access data. It may be possible for the external tool to publicly share what should be restricted information
+- Consulta con tus políticas institucionales de software abierto y personal de tecnología de la información
+- Utilice fuentes confiables para minimizar los riesgos de seguridad
+- Establezca reglas y estándares de seguridad estrictos al usar una dependencia
+- Utilice herramientas de seguridad para comprobar si hay vulnerabilidades (por ejemplo, [Open Worldwide Application Security</u> Project®️](https://owasp.org/))
+- Evite el software de código abierto sin soporte. Cambie a componentes desarrollados activamente o desarrolle sus propios
+- Comprueba tus políticas institucionales más recientes sobre el uso de las herramientas de aprendizaje automático e inteligencia artificial
+- Tenga cuidado cuando utilice herramientas externas con datos de acceso seguro o cerrado. Puede ser posible que la herramienta externa comparta públicamente lo que debería ser información restringida
 
-### Licenses
+### Licencias
 
-So, you want to reuse some open code you discovered. It is essential to check the legal restrictions and requirements imposed on users, which are generally provided in the license.
+Así que, quiere reutilizar algún código abierto que haya descubierto. Es esencial comprobar las restricciones legales y los requisitos impuestos a los usuarios, que generalmente se proporcionan en la licencia.
 
-Although licensing is a nuanced subject that you will learn more about in Lesson 3, it is useful to be aware that there are generally two classes of license: permissive and non-permissive. Permissive licenses, most commonly Apache 2.0, MIT, or BSD, will generally allow you to use the code for your scientific research with little restriction, whereas non-permissive licenses such as copy-left licenses, impose substantial restrictions on how you use the code and require more careful consideration.
+Aunque la licencia es un tema con matices sobre el que aprenderás más en la lección 3, es útil saber que generalmente hay dos clases de licencia: permisiva y no permisiva. Licencias permisivas, más comunes Apache 2., MIT o BSD, generalmente le permitirán utilizar el código para su investigación científica con poca restricción, mientras que las licencias no permisivas, como las licencias de copyleft imponen restricciones sustanciales a la forma en que se utiliza el código y requieren una consideración más cuidadosa.
 
-## Reusing Open Code
+## Reutilizando Código Abierto
 
-Software can be reused in a variety of ways. A software package can be executed on its own to provide a complete analysis or models depending on the input parameters. Alternatively, the package could be imported as part of a larger library to provide specific functionality. Also, code snippets can be copied into existing code, if permitted, or the code could be re-written and incorporated into new software.
+El software se puede reutilizar de varias maneras. Un paquete de software puede ser ejecutado por sí mismo para proporcionar un análisis completo o modelos dependiendo de los parámetros de entrada. Alternativamente, el paquete podría ser importado como parte de una biblioteca más grande para proporcionar una funcionalidad específica. Además, los fragmentos de código pueden copiarse en el código existente, si se permite, o el código podría reescribirse e incorporarse a un nuevo software.
 
-If you simply intend to reuse a code snippet, continuously test that your selected code works as you expect. If you are reusing a more complex code, there are additional considerations.
+Si simplemente tiene la intención de reutilizar un fragmento de código, pruebe continuamente que su código seleccionado funciona como espera. Si está reutilizando un código más complejo, hay consideraciones adicionales.
 
-### Selecting the Appropriate Version for Reuse
+### Seleccionando la versión aprobada para la reutilización
 
-Consider the following when selecting among multiple versions of open source software.
+Considere lo siguiente cuando seleccione entre múltiples versiones del software de código abierto.
 
-|                                                       |                                                                                                                                                                                                                                                                                                                                                                                  |
-| ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Use the latest stable release when possible           | Just like software updates to your phone or computer’s operating system or apps, it is important to use the latest stable release. Developers often release developmental versions that include new features or bug ﬁxes that are not fully tested. For this reason, using a developmental release is generally not recommended. |
-| Determine the origin of the version you intend to use | Determine whether the version you intend to use comes from a modified open-source project or from its original source project. With this information, determine which source is more appropriate for your project.                                                                                                                               |
-| Check for issues and bugs                             | Check for any known issues or bugs with your selected version that could cause problems. Find current information on issues or bugs by checking release notes, issue trackers, and developer forums.                                                                                                                                             |
+|                                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Utilice la última versión estable cuando sea posible | Al igual que ocurre con las actualizaciones de software del sistema operativo o las aplicaciones del teléfono o el ordenador, es importante utilizar la última versión estable. Los desarrolladores de software suelen publicar versiones aún en desarrollo que incluyen nuevas funciones o correcciones de errores que no se han probado por completo. Por este motivo, en general, no se recomienda la utilización de versiones que se encuentren aún en desarrollo. |
+| Determine el origen de la versión que desea utilizar | Determine si la versión que pretende utilizar procede de un proyecto de código abierto personalizado o de su fuente original. Con esta información determine qué fuente es más apropiada para su proyecto.                                                                                                                                                                                                                                                                             |
+| Comprobación de problemas y bugs                     | Comprueba si la versión que has seleccionado presenta problemas o errores de programación conocidos. Encuentra información actualizada sobre problemas o errores de programación consultando las notas adjuntas de la versión, en sistemas de seguimiento de incidentes y foros de desarrolladores.                                                                                                                                                                                    |
 
-### Resolve Problems in Reusing Software
+### Resuelve los problemas en software reutilizado
 
-- Implement tests to verify that the software performs as expected in your application.
-- If you run into problems, revisit the release notes, issue tracker, and/or user/developer forums.
-- Don't be afraid to ask experienced colleagues for help.
-- It is better to seek and obtain help in a public forum than in private (eg. email). Part of open science is working in the open. Often you may find through a search that other users have similar questions. Someone may have already offered a solution. If not, it is likely that others will benefit from your question being answered in public.
+- Implementa pruebas para verificar que el software funciona como esperas en tu aplicación.
+- Si tienes problemas, consulta las notas adjuntas de la versión, al sistema de seguimiento de incidentes y/o a los foros de usuarios y desarrolladores.
+- No tengas miedo de pedir ayuda a tus colegas con experiencia.
+- Es mejor buscar y obtener ayuda en un foro público que en medio privado (por ejemplo, por correo electrónico). Parte del propósito de la ciencia abierta consiste en trabajar abiertamente. A menudo, a través de una búsqueda, puedes descubrir que otros usuarios tienen preguntas similares. Puede que alguien ya haya ofrecido una solución. Si no es el caso, es probable que otros se beneficien de que tu pregunta se responda en público.
 
-### Activity 2.1: Ways to Get Help Using Open Software
+### Actividad 2.1: Maneras de obtener ayuda para utilizar software libre
 
-In this activity, you are asked to select from a list of ways you can resolve some common problems that arise when using open software.
+En esta actividad se pide que selecciones de una lista las formas de resolver algunos problemas habituales que surgen al utilizar software libre.
 
-#### Exercise 1
+#### Ejercicio 1
 
-Select how you can resolve this problem when using open software: Difficulty finding open software that meets your needs.
+Selecciona cómo puedes resolver este problema al utilizar software libre: Dificultad para encontrar software abierto que satisfaga sus necesidades.
 
-Select all that apply.
+Seleccione todo lo que corresponda.
 
-- Reach out to expert colleagues
-- Read related peer reviewed literature
-- Conduct a search of various popular repositories
-- Read the README file
-- Read the license file
+- Ponerse en contacto con colegas expertos
+- Leer bibliografía revisada por expertos
+- Realizar una búsqueda en varios repositorios populares
+- Leer el archivo README
+- Leer la licencia que posee el archivo
 
-#### Exercise 2
+#### Ejercicio 2
 
-Select how you can resolve the problem when using open software: installation difficulties.
+Selecciona la manera en que podrías resolver un problema que se presente al utilizar software abierto sobre el caso: dificultades de instalación.
 
-Select all that apply.
+Seleccione todo lo que corresponda.
 
-- Reach out to the developers on a public forum
-- Read related peer reviewed literature
-- Conduct a search of various popular repositories
-- Read the README file
-- Read the license file
+- Contactar con los desarrolladores del software en un foro público
+- Leer bibliografía revisada por expertos
+- Realizar una búsqueda en varios repositorios populares
+- Leer el archivo README
+- Leer la licencia que posee el archivo
 
-#### Exercise 3
+#### Ejercicio 3
 
-Select how you can resolve the problem when using open software: software is not working as expected.
+Selecciona la manera en que puedes resolver el siguiente problema, el cual se puede presentar al usar software libre: el software no funciona como se esperaba.
 
-Select all that apply.
+Seleccione todo lo que corresponda.
 
-- Reach out to the developers on a public forum
-- Read related peer reviewed literature
-- Conduct a search of various popular repositories
-- Read the README file
-- Read the license file
-- Consult the release notes, issue trackers, and public forums
+- Contactar con los desarrolladores del software en un foro público
+- Leer bibliografía revisada por expertos
+- Realizar una búsqueda en varios repositorios populares
+- Leer el archivo README
+- Leer la licencia que posee el archivo
+- Consultar las notas sobre la versión, los sistemas de seguimiento de incidentes y los foros públicos
 
-#### Exercise 4
+#### Ejercicio 4
 
-After answering the questions above, work through some specific examples of how you would resolve problems on your own. For example, navigate to the astropy code repository on GitHub or another repository of your choice, and find the README and LICENSE files. Determine how you would contact the developers for help, etc.
+Después de responder las preguntas anteriores, puedes pensar en algunos otros problemas en concreto y plantear cómo los resolverías por tu cuenta. Por ejemplo, navega hasta el repositorio que contiene el código de astropy en GitHub u otro repositorio de tu elección, y busca los archivos README y LICENSE. Determina cómo te pondrías en contacto con los desarrolladores del software para solicitar ayuda, etc.
 
-## Citing and Acknowledging Open Code Use
+## Citar y reconocer el uso de código abierto
 
-Imagine that you’ve used Open Code pulled from the web and it made a big difference for your project research paper. How should you provide due credit for the open access code that contributed to your research?
+Imagina haber usado Código Abierto encontrado en la web y que esto ha implicado ser de gran ayuda para el desarrollo de tu proyecto de investigación. ¿Cómo deberías de darle crédito?
 
-**Example:** You managed to implement GOTM to learn something new about ocean turbulence in the Southern Ocean, or you managed to compute a Lomb-Scargle periodogram using astropy. Here are some questions to consider:
+**Ejemplo:** Has conseguido aplicar un modelo general de turbulencia oceánica (GOTM por sus siglas en inglés) para aprender algo nuevo sobre la turbulencia oceánica en el Océano Antártico, o has conseguido calcular un periodograma de Lomb-Scargle utilizando Astropy. He aquí algunas cuestiones a tener en cuenta:
 
-### Should you cite the Open Code?
+### ¿Debes citar el Código Abierto?
 
-Cite any code that you view as having contributed to your research:
+Cita cualquier código que consideres haya contribuido a tu investigación:
 
-- Did the code play a critical part in your research?
-- Did the code provide something novel?
+- ¿Ha desempeñado el código un papel fundamental en tu investigación?
+- ¿Aportaba el código algo novedoso?
 
-In most cases, a code snippet on Stack Overflow does not constitute a citable research contribution. However, an author can still decide to cite it if they chose.
+En la mayoría de los casos un fragmento de código, por ejemplo, encontrado en Stack Overflow no constituye una contribución de investigación citable. Sin embargo, un autor puede decidir citarlo si lo desea.
 
-Instances when shared code directly impacts the scientific results and requires a detailed description include:
+Entre los casos en que el código compartido repercute directamente en los resultados científicos y requiere una descripción detallada figuran:
 
-- Numerical modeling or simulation
-- Automated analysis, such as image processing or optical recognition
+- Simulación o modelado numérico
+- Análisis automatizados, como el tratamiento de imágenes o el reconocimiento óptico
 
-See the journal where you are publishing if they have any specific instructions on how to cite software (e.g., [AAS Software Citation Suggestions](https://journals.aas.org/news/software-citation-suggestions/)).
+Consulta una revista en la que has publicado, o en alguna sobre el tema, y busca si contiene instrucciones específicas sobre cómo citar software (por ejemplo, [AAS Software Citation Suggestions] (https://journals.aas.org/news/software-citation-suggestions/)).
 
-In some cases, a software’s licensing terms and conditions require acknowledgement or citation in the references or bibliography of any publications based on research that made use of the software.
+En algunos casos, los términos y condiciones de la licencia de uso de un software exigen que este sea reconocido mediante su cita en las referencias o bibliografía de cualquier publicación producto de una investigación que haya hecho uso del programa.
 
-### How to cite?
+### ¿Cómo citar?
 
-Ideally, use and cite code that is archived in a long-term repository with a persistent DOI. Follow the guidance about the preferred citation format, which is provided in the long- term repository and may appear in a README or a CITATION file.
+Lo ideal es utilizar y citar código que esté archivado en un repositorio con políticas de preservación a largo plazo y que se identifique con un DOI. Sigue los lineamientos de las normas de citación que el repositorio a largo plazo proporciona y que pueden aparecer en el archivo README o CITATION.
 
-DOIs provide a persistent identifier/link for research outputs. Thus, it is preferable to cite code in long-term repositories linked to a DOI. URLs (e.g., Stack Overflow) and active repositories (e.g., on GitHub) are mutable but can be used if there is no alternative.
+Los DOI proporcionan un identificador o enlace persistente para resultados de investigación. Por ello, es preferible citar los códigos que se encuentren depositados en repositorios a largo plazo vinculados a un DOI. Las URL, por ejemplo, en Stack Overflow y de los repositorios activos, por ejemplo, en GitHub, son mutables, es decir, pueden cambiar con el tiempo y dejar de estar activas, aunque pueden utilizarse si no hay alternativa.
 
-Packages may provide a way to cite individual versions as well. For reproducibility, cite both the overall package and the version that is used in your work. As functionality of a package may evolve with the release of new versions, this helps provide a specific description of your work.
+Los paquetes también pueden ofrecer una manera de citar versiones individuales. Para fines de reproducibilidad, cita tanto el paquete general como la versión que se utilizó en tu trabajo. Dado que la funcionalidad de un paquete puede evolucionar con el lanzamiento de nuevas versiones, esto puede ayudar a proporcionar el contexto específico en el que se realizó tu trabajo.
 
-If you are writing software, you can also cite in the comments and documentation of the software that you have used.
+Si estás escribiendo un código de un software, también puedes realizar citas en los comentarios y en la documentación del software del cual te has apoyado.
 
-## Lesson 2: Summary
+## Lección 2: resumen
 
-In this lesson, you learned that:
+En esta lección aprendiste que:
 
-- Open code exists in a vast, organic, and distributed ecosystem. Discovering Open Code depends on defining your requirements, knowing where to look, and developers using FAIR principles.
-- Scientific papers are now a good place to discover scientific Open Code, since many journals require the code used in the paper to be linked via a DOI.
-- Before use, it is important to assess open software for functionality, quality, interoperability, security, and license/reuse restrictions. Your first step should be to look for a README file.
-- When reusing open software, use the latest supported version and test the software to ensure it functions as expected. If problems arise, reach out to the developers or user community, ideally via a public forum.
-- It is important to cite and acknowledge open software that significantly contributes to your work, as well as share your lessons learned and any contributions with the developers and user community.
+- El código abierto existe dentro de un ecosistema vasto, orgánico y distribuido. Descubrir Código Abierto depende de definir bien tus necesidades, saber dónde buscar y que otros desarrolladores hayan utilizado los principios FAIR.
+- Los artículos científicos ahora también son un buen lugar para descubrir Código Abierto, ya que muchas revistas científicas exigen que el código utilizado en el artículo se encuentre disponible y esté vinculado mediante un DOI.
+- Antes de usarlo, es importante evaluar el software libre en términos de funcionalidad, calidad, interoperabilidad, seguridad y restricciones de licencia o reutilización. Tu primer paso debería ser buscar un archivo README.
+- Al reutilizar software libre, utiliza la versión más reciente que cuente con soporte y pruebalo para asegurarte de que funciona como esperas. Si surgen problemas, contacta a los desarrolladores o a la comunidad de usuarios, idealmente a través de un foro público.
+- Es importante citar y reconocer el software libre que contribuye significativamente a tu trabajo, así como compartir tus experiencias de uso, tanto con los desarrolladores, como con la comunidad de usuarios.
 
-## Lesson 2: Knowledge Check
+## Lección 2: comprobación de conocimientos
 
-Answer the following questions to test what you have learned so far.
+Responde las siguientes preguntas para evaluar lo que has aprendido hasta ahora.
 
-_Question_
+_Pregunta_
 
 **01/03**
 
-Discovering open software successfully depends on which of the following:
+El éxito en descubrir software libre depende de lo siguiente:
 
-Select all that apply.
+Selecciona todas opciones que apliquen.
 
-- Well defined requirements
-- Knowing where to search
-- FAIR open software exists to meet your needs
-- All of the above
+- Requisitos bien definidos
+- Saber dónde buscar
+- El software abierto que aplica principios FAIR existe para satisfacer sus necesidades
+- Todas las anteriores
 
-_Question_
+_Pregunta_
 
 **02/03**
 
-Read the statement and decide whether it's true or false:
+Lee la afirmación y decide si es verdadera o falsa:
 
-_It is best to reach out to the developers of open access software via private communication if you run into problems._
+_Es mejor contactar a los desarrolladores de software de acceso abierto por comunicación privada si encuentras problemas._
 
-- True
-- False
+- Verdadero
+- Falso
 
-_Question_
+_Pregunta_
 
 **03/03**
 
-When citing Open Code, it is best practice to cite:
+Cuando se cita Código Abierto, la mejor práctica es citar:
 
-- The primary working repository, e.g. on GitHub. It has the most recent version of the code, including any updates since your paper was written.
-- A long-term code repository linked to a DOI, e.g. on Zenodo. This repository contains a persistent version of the code that you used.
+- El repositorio principal de trabajo, por ejemplo, en GitHub. Tiene la versión más reciente del código, incluyendo cualquier actualización desde que escribiste tu artículo.
+- Un repositorio de código a largo plazo vinculado a un DOI, por ejemplo, en Zenodo. Este repositorio contiene una versión persistente, es decir, una copia específica y estable del código, la cual no cambiará con el tiempo, del código que utilizaste.

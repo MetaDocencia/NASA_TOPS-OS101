@@ -1,61 +1,61 @@
-# Lesson 2: Using Open Results
+# Lección 2: Uso de datos abiertos
 
-## Navigation
+## Contenidos
 
-- [How to Discover Open Results](#how-to-discover-open-results)
-- [How to Assess Open Results](#how-to-assess-open-results)
-- [How to Use Open Results](#how-to-use-open-results)
-- [How to Cite Open Results](#how-to-cite-open-results)
-- [Lesson 2: Summary](#lesson-2-summary)
-- [Lesson 2: Knowledge Check](#lesson-2-knowledge-check)
+- [Cómo Descubrir Resultados Abiertos](#how-to-discover-open-results)
+- [Cómo Evaluar Resultados Abiertos](#how-to-assess-open-results)
+- [Cómo Evaluar Resultados Abiertos](#how-to-assess-open-results)
+- [Cómo Citar Resultados Abiertos](#how-to-cite-open-results)
+- [Lección 2: Resumen](#lesson-2-summary)
+- [Lección 2: Evaluación](#lesson-2-knowledge-check)
 
-## Overview
+## Visión general
 
-By the end of this lesson, you will be familiar with resources for open results utilization, how and when to cite the sources of the open results that you use, how to provide feedback to open results providers, and how to determine when it is appropriate to invite authors of the open results materials to be formal collaborators versus simply citing those resources in your work.
+Al final de esta lección, estará familiarizado con los recursos para la utilización de resultados abiertos, cómo y cuándo citar las fuentes de los resultados abiertos que utilice, cómo proporcionar retroalimentación a los proveedores de resultados abiertos y cómo determinar cuándo es apropiado invitar a los autores de los materiales de resultados abiertos a ser colaboradores formales en lugar de simplemente citar esos recursos en su trabajo.
 
-Published articles, blog posts, and forums can lead to new ideas for your own research. A technique learned from social media can be applied to a use-case that you are trying to solve. There are many different ways to discover results.
+Los artículos publicados, las entradas de blog y los foros pueden aportarle nuevas ideas para su propia investigación. Una técnica aprendida de las redes sociales puede aplicarse a un caso de uso que está tratando de resolver. Hay muchas formas diferentes de descubrir resultados.
 
-## Learning Objectives
+## Objetivos de Aprendizaje del Módulo
 
-After completing this lesson, you should be able to:
+Después de completar este módulo, deberías ser capaz de:
 
-- Identify a variety of open results sources including both published science research and non-traditional sources.
-- Evaluate the reliability and quality of open results sources based on key characteristics.
-- List the responsibilities of an open results user, including providing feedback to open results developers.
-- List the ways to cite open results into your own research process.
+- Identificar una variedad de fuentes de resultados abiertos, incluyendo investigaciones científicas publicadas y fuentes no tradicionales.
+- Evaluar la fiabilidad y la calidad de las fuentes de resultados abiertos basándose en características clave.
+- Enumerar las responsabilidades de personas que usan resultados abiertos, incluido el envío de comentarios a los desarrolladores de resultados abiertos.
+- Listar las formas de citar resultados abiertos en su propio proceso de investigación.
 
-## How to Discover Open Results
+## Cómo descubrir resultados abiertos
 
-How do I learn about the state of research for a particular field? How do you engage in the current conversation? Researchers often begin with a search of peer-reviewed articles. This review tells you how much research has been done in a field and what conclusions have recently been reached. In most fields, going through the peer-review process can take up to a year. The ability to find pre-prints can help reduce this delay because they offer the latest findings before a publication date. However, researchers who choose to share their results before publication typically do so in the ways listed as best practices above. As you start research on a topic, how do you find all these different types of results and engage in the most relevant research?
+¿Cómo puedo conocer el estado de la investigación en un campo concreto? ¿Cómo participar en la conversación actual? Los investigadores a menudo comienzan con una búsqueda de artículos revisados por pares. Esta revisión le indica cuánta investigación se ha realizado en un campo y qué conclusiones se han alcanzado recientemente. En la mayoría de los campos, el proceso de revisión por pares puede tardar hasta un año. La posibilidad de encontrar preprints puede ayudar a reducir este retraso, ya que ofrecen los últimos hallazgos antes de una fecha de publicación. Sin embargo, los investigadores que deciden compartir sus resultados antes de la publicación suelen hacerlo de las formas indicadas anteriormente como mejores prácticas. Al empezar a investigar sobre un tema, ¿cómo encontrar todos estos tipos diferentes de resultados y dedicarse a la investigación más pertinente?
 
-### Example: Exoplanets
+### Ejemplo: Exoplanetas
 
-The various stages of research, from conceptualization to dissemination of results, produce products that can be put into the public domain as "Open Results". Where these results are archived, and to what degree, depends on the discipline author. However, some general guidelines on where to start a search on open results include:
+Las distintas etapas de la investigación, desde la conceptualización hasta la difusión de los resultados, generan productos que pueden ponerse en el dominio público como «resultados abiertos». Dónde se archivan estos resultados, y en qué grado, depende del autor de la disciplina.  No obstante, algunas directrices generales sobre dónde empezar una búsqueda de resultados abiertos incluyen:
 
-1. Scholarly Search Portals
-2. Web Searches
+1. Portales de búsqueda académica
+2. Búsquedas en Internet
 
-**Scholarly Search Portals**
+**Portales de búsqueda académica**
 
-Search engines like Google and Bing have radically changed how we look up information. For research results, specialized academic search engines and portals curate scientific results from researchers based on topic and field. These engines are useful for finding peer-reviewed articles.
+Los motores de búsqueda como Google y Bing han cambiado radicalmente la forma en que buscamos información. Para los resultados de la investigación, los buscadores y portales académicos especializados recopilan los resultados científicos de los investigadores por temas y campos. Estos motores son útiles para encontrar artículos revisados por pares.
 
 <table>
   <thead>
     <tr>
-        <th>GENERIC ☑</th>
-        <th>DISCIPLINE-SPECIFIC</th>
+        <th>GENÉRICO ☑</th>
+        <th>DISCIPLINA ESPECÍFICA</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="2">
             <ul>
-                <li><a href="https://scholar.google.com/">Google Scholar</a></li>
+                <li><a href="https://scholar.google.com/">Google Académico</a></li>
                 <li><a href="https://ui.adsabs.harvard.edu/">ADS</a></li>
                 <li><a href="https://www.scopus.com/">Scopus</a></li>
-                <li>Web of Knowledge</li>
-                <li><a href="https://openknowledgemaps.org/">Open knowledge map</a> - facilitates exploration of interconnected topics</li>
-                <li><a href="https://www.jstor.org/">JSTOR</a> - a wide range of scholarly content</li>
+                <li>Red de conocimiento (Web of Knowledge)</li>
+                <li><a href="https://openknowledgemaps.org/">Mapa abierto de conocimientos (Open knowledge map)</a> - facilita la exploración de temas interconectados</li>
+                <li><a href="https://www.jstor.org/">JSTOR</a> - una amplia gama de contenido científico</li>
                 <li><a href="https://www.researchgate.net/search">ResearchGate</a></li>
                 <li><a href="https://sciencecast.org/">ScienceCast</a></li>
             </ul>
@@ -67,43 +67,43 @@ Search engines like Google and Bing have radically changed how we look up inform
 <table>
   <thead>
     <tr>
-        <th>GENERIC</th>
-        <th>DISCIPLINE-SPECIFIC ☑</th>
+        <th>GENÉRICO</th>
+        <th>DISCIPLINA ESPECÍFICA ☑</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="2">
             <ul>
-                <li><a href="https://europepmc.org/">EuropePMC Life sciences</a></li>
-                <li><a href="https://pubmed.ncbi.nlm.nih.gov/">Pubmed biomedical literature</a></li>
-                <li><a href="https://arxiv.org/">arXiv</a> - for scholarly pre-prints in STEM, economics and computer science fields</li> 
-                <li><a href="https://www.biorxiv.org/">Biorxiv Preprint</a> - server for biology</li>
-                <li><a href="https://eartharxiv.org/">EarthArXiv</a> and <a href="https://essoar.org/">Earth and Space Science Open Archive</a></li>
-                <li><a href="https://asapbio.org/preprint-servers">ASAPbio</a> - catalogs of preprint servers</li>
-                <li>and others...</li>
+                <li><a href="https://europepmc.org/">EuropePMC ciencias de la vida (EuropePMC Life sciences)</a></li>
+                <li><a href="https://pubmed.ncbi.nlm.nih.gov/">Literatura biomédica Pubmed (Pubmed biomedical literature) </a></li>
+                <li><a href="https://arxiv.org/">arXiv</a> - para preprints académicos en los campos de STEM, economía e informática.</li> 
+                <li><a href="https://www.biorxiv.org/">Biorxiv Preprint</a> - servidor para biología</li>
+                <li><a href="https://eartharxiv.org/">EarthArXiv</a> y <a href="https://essoar.org/">Archivo Abierto de Ciencias de la Tierra y Espacio</a></li>
+                <li><a href="https://asapbio.org/preprint-servers">ASAPbio</a> - catálogos de servidores de preprint</li>
+                <li>y otros...</li>
             </ul>
         </td>
     </tr>
   </tbody>
 </table>
 
-Publications that provide some levels of open access are tracked in the [Directory of Open Access Journals (DOAJ).](https://doaj.org/)
+Las publicaciones que proporcionan algunos niveles de acceso abierto se rastrean en el [Directorio de Revistas de Acceso Abierto (DOAJ).](https://doaj.org/)
 
-**Web Searches**
+**Búsquedas en Internet**
 
-Open results include much more than open-access peer-reviewed publications. How do you find these alternative types of research objects?
+Los resultados abiertos incluyen mucho más que publicaciones revisadas por pares de acceso abierto. ¿Cómo se encuentran estos tipos alternativos de objetos de investigación?
 
-Open communities and forums offer the best way to find research objects other than complete publications. How do you even find out whether these exist and where they are?
+Las comunidades abiertas y los foros ofrecen la mejor manera de encontrar objetos de investigación que no sean publicaciones completas. ¿Cómo averiguar si existen y dónde están?
 
-Once you have found a few peer-reviewed articles that are highly relevant, to find additional research objects, you can follow the authors on social media for links to their posts, blogs, and activities. There are open communities in almost every area of research - find yours! Here are different platforms to locate these conversations and resources:
+Una vez que haya encontrado algunos artículos revisados por pares que son muy relevantes, para encontrar objetos de investigación adicionales, usted puede seguir a los autores de las redes sociales para enlaces a sus mensajes, blogs y actividades. Hay comunidades abiertas en casi todas las áreas de investigación - ¡encuentra la tuya! Aquí están diferentes plataformas para localizar estas conversaciones y recursos:
 
 - GitHub
 - LinkedIn
 - YouTube
 - Google/Bing
-- Conference websites
-- X, formally known as Twitter
+- Sitios web de las conferencias (Conference websites)
+- X, conocido formalmente como Twitter
 - Facebook
 - Medium
 - Substack
@@ -111,43 +111,43 @@ Once you have found a few peer-reviewed articles that are highly relevant, to fi
 - Reddit
 - Mastodon
 
-Various research objects, including datasets and software, are frequently attached to scholarly publications in the form of supplemental material. At other times, the source is referenced in the paper, which could be a GitHub repository, personal/institutional website, or other storage site. This can be another starting point, by engaging in discussions on the GitHub repository.
+Los diversos objetos de investigación, incluidos los conjuntos de datos y el software, se adjuntan con frecuencia a publicaciones científicas en forma de material suplementario. En otras ocasiones, se hace referencia a la fuente en el documento, que podría ser un repositorio de GitHub, un sitio web personal/institucional u otro sitio de almacenamiento. Este puede ser otro punto de partida, entablando discusiones en el repositorio de GitHub.
 
-**Kerchunk Example:** In lesson 1, a blog post about a software library 'kerchunk' was presented. Let's look at a [post](https://discourse.pangeo.io/t/trick-for-improving-kerchunk-performance-for-large-numbers-of-chunks-files/3090) on the [Pangeo Discourse Forum](https://discourse.pangeo.io/) of Kerchunk with a large number of views. The open science [Pangeo project](https://pangeo.io/) worked completely in the open. The [project website](https://pangeo.io/) (run off of GitHub) has links to blog posts, a discussion forum, and a calendar to all their meetings which anyone was welcome to join. This has resulted in an engaged and dynamic community. An example of this comes from the post linked to above, where one person asks for help, others reply, and the conversation is documented in the open. The post’s 636 views indicate that this question, or one similar, has occurred to others. Imagine if this had been done over private email? By working in the open, they are improving science and helping everyone become faster and more accurate.
+**Ejemplo de Kerchunk:** En la lección 1, se presentó una entrada de blog sobre una biblioteca de software «kerchunk». Veamos un [post](https://discourse.pangeo.io/t/trick-for-improving-kerchunk-performance-for-large-numbers-of-chunks-files/3090) en el [Pangeo Discourse Forum](https://discourse.pangeo.io/) de Kerchunk con un gran número de visitas. La ciencia abierta [proyecto Pangeo](https://pangeo.io/) funcionaba completamente abierta. El [sitio web del proyecto](https://pangeo.io/) (gestionado desde GitHub) tiene enlaces a entradas de blog, un foro de debate y un calendario de todas sus reuniones, a las que cualquiera puede unirse. Esto ha dado lugar a una comunidad comprometida y dinámica. Un ejemplo de ello es el post enlazado más arriba, en el que una persona pide ayuda, otras responden y la conversación se documenta abiertamente. Las 636 visitas del post indican que esta pregunta, o una parecida, se les ha ocurrido a otras personas. Imagínese si esto se hubiera hecho por correo electrónico privado? Al trabajar de forma abierta, están mejorando la ciencia y ayudando a todos a ser más rápidos y precisos.
 
-## How to Assess Open Results
+## Cómo evaluar resultados abiertos
 
-"Garbage in, garbage out" – your own research products are only as good as the data used in your investigation.
+«Basura dentro, basura fuera»: sus propios productos de investigación sólo son tan buenos como los datos utilizados en su investigación.
 
-If you use poor quality data or materials from unreliable and unvetted sources as critical components of your research, you run the risk of producing flawed, or low-quality science that may harm your reputation as a scientist. Therefore, it is critical to assess the quality and reliability of open-results sources before you include them in your own work.
+Si utiliza datos de mala calidad o materiales procedentes de fuentes poco fiables y no verificadas como componentes fundamentales de su investigación, corre el riesgo de producir ciencia defectuosa o de baja calidad que puede dañar su reputación como científico. Por lo tanto, es fundamental evaluar la calidad y fiabilidad de las fuentes de resultados abiertos antes de incluirlas en su propio trabajo.
 
-What are best practices for assessing the quality of alternative sources of data to research articles such as blog posts, youtube videos, and other research objects?
+¿Cuáles son las mejores prácticas para evaluar la calidad de fuentes de datos alternativas a los artículos de investigación, como entradas de blog, vídeos de youtube y otros objetos de investigación?
 
-### Attributes of Reputable Material
+### Atributos de un material reputado
 
-Let's take a look at the questions you might consider asking yourself when determining the reliability of any type of open results source.
+Echemos un vistazo a las preguntas que deberías plantearte a la hora de determinar la fiabilidad de cualquier tipo de fuente de resultados abierta.
 
-Here, we list questions under two categories: the open results material themselves, and the server they are downloaded from. The more questions here that can be answered in the affirmative, the lower the risk in utilizing the open results materials for your own research.
+Here, we list questions under two categories: the open results material themselves, and the server they are downloaded from. Cuantas más preguntas puedan responderse afirmativamente, menor será el riesgo de utilizar los materiales de resultados abiertos para su propia investigación.
 
 <table>
   <thead>
     <tr>
-        <th>THE MATERIAL ITSELF ☑</th>
-        <th>THE ASSOCIATED WEBSITE / SERVER</th>
-        <th>SOURCE RELIABILITY INDICATORS</th>
+        <th>EL PROPIO MATERIAL ☑</th>
+        <th>EL WEBSITE / SERVIDOR ASOCIADO</th>
+        <th>INDICADORES DE FIABILIDAD DE LAS FUENTES</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
             <ul>
-                <li>Is the material associated with a peer-reviewed publication?</li>
-                <li>Are the primary data associated with the results also open-source?</li>
-                <li>Is code used to generate the Open Results materials also open-source?</li>
-                <li>Are all fields and parameters clearly defined?</li>
-                <li>Is the derivation of measurement uncertainties clearly described?</li>
-                <li>Were any data or results excluded, and if so, were criteria provided?</li>
-                <li>Are authoring teams also members of the field?</li>
+                <li>¿El material está asociado con una publicación revisada por pares?</li>
+                <li>¿Los datos primarios asociados a los resultados también son de código abierto?</li>
+                <li>¿El código utilizado para generar los materiales de Open Results también es de código abierto?</li>
+                <li>¿Están definidos claramente todos los campos y parámetros?</li>
+                <li>¿Está claramente descrita la estimación de las incertidumbres de medición?</li>
+                <li>¿Se excluyó algún dato o resultado? En caso afirmativo, ¿se facilitaron los criterios de exclusión?</li>
+                <li>¿Los equipos de autores son también miembros del campo?</li>
             </ul>
         </td>
     </tr>
@@ -157,19 +157,19 @@ Here, we list questions under two categories: the open results material themselv
 <table>
   <thead>
     <tr>
-        <th>THE MATERIAL ITSELF</th>
-        <th>THE ASSOCIATED WEBSITE / SERVER ☑</th>
-        <th>SOURCE RELIABILITY INDICATORS</th>
+        <th>EL PROPIO MATERIAL </th>
+        <th>EL WEBSITE / SERVIDOR ASOCIADO</th>
+        <th>INDICADORES DE FIABILIDAD DE LAS FUENTES</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
             <ul>
-                <li>Does the host website's URL end in .edu, .gov or (if managed by a non-profit organization) in .org?</li>
-                <li>Does the host website provide contact information of the author and/or organization?</li>
-                <li>Is the host website updated on a frequent basis?</li>
-                <li>Is the host website free of advertisements and/or sponsored content, the presence of which could indicate bias?</li>
+                <li>¿La URL del sitio web anfitrión termina en .edu, .gov o (si lo gestiona una organización sin ánimo de lucro) en .org?</li>
+                <li>¿Proporciona el sitio web anfitrión información de contacto del autor y/o la organización?</li>
+                <li>¿Se actualiza con frecuencia el sitio web del anfitrión?</li>
+                <li>¿Está el sitio web anfitrión libre de publicidad y/o contenidos patrocinados, cuya presencia podría indicar parcialidad?</li>
             </ul>
         </td>
     </tr>
@@ -179,53 +179,53 @@ Here, we list questions under two categories: the open results material themselv
 <table>
   <thead>
     <tr>
-        <th>THE MATERIAL ITSELF</th>
-        <th>THE ASSOCIATED WEBSITE / SERVER</th>
-        <th>SOURCE RELIABILITY INDICATORS ☑</th>
+        <th>EL PROPIO MATERIAL </th>
+        <th>EL WEBSITE / SERVIDOR ASOCIADO</th>
+        <th>INDICADORES DE FIABILIDAD DE LAS FUENTES</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
             <ul>
-                <li>Is the result reproducible? Can you interact with the data and results? Have others reported being able to reproduce the results?</li>
-                <li>Is the author reliable? Have you seen them publish or share results in other forums?</li>
-                <li>Is the result from only a single author/voice or includes contributions from a broader community?</li>
-                <li>Does the post have a significant amount of likes/views and public comments? The value of a blog post with no comments or responses can be difficult to assess. Conversely, a thorough github discussion forum with multiple views shared indicated a robust post.</li>
-                <li>Is the result part of an active conversation? (Is the information still relevant and current?)</li>
+                <li>¿El resultado es reproducible? ¿Puedes interactuar con los datos y los resultados? ¿Han informado otras personas de que pueden reproducir los resultados?</li>
+                <li>¿Es el autor fiable? ¿Ha visto que publiquen o compartan resultados en otros foros?</li>
+                <li>¿Es el resultado de un solo autor/voz o incluye contribuciones de una comunidad más amplia?</li>
+                <li>¿Tiene el post una cantidad significativa de me gusta/opiniones y comentarios públicos? El valor de una entrada de blog sin comentarios ni respuestas puede ser difícil de evaluar. Por el contrario, un foro de discusión de github exhaustivo con múltiples opiniones compartidas indica una publicación sólida.</li>
+                <li>¿Es el resultado parte de una conversación activa? (¿Es la información todavía relevante y actual?)</li>
             </ul>
         </td>
     </tr>
   </tbody>
 </table>
 
-Adapted from [https://www.scribbr.com/working-with-sources/credible-sources/](https://www.scribbr.com/working-with-sources/credible-sources/)
+Adaptado de [https://www.scribbr.com/working-with-sources/credible-sources/](https://www.scribbr.com/working-with-sources/credible-sources/)
 
-Note that failure to meet one or many of the criteria does not automatically mean that the open results are of poor quality, but rather that more caution should be exercised if incorporated into your own research. It also means that you will have to invest more personal vetting of the material to ensure its quality is sufficient for your purposes.
+Tenga en cuenta que el hecho de no cumplir uno o varios de los criterios no significa automáticamente que los resultados abiertos sean de mala calidad, sino más bien que se debe tener más precaución si se incorporan a su propia investigación. También significa que tendrá que invertir más en el examen personal del material para asegurarse de que su calidad es suficiente para sus fines.
 
-Reliable Example: Qiusheng Wu YouTube videos (as mentioned in the previous lesson). Professor Wu is an expert in his field. He presents results along with notebooks that demonstrate reproducibility. Comments on his YouTube tutorial videos represent meaningful interactions between users reproducing results and the author.
+Ejemplo fiable: Los vídeos de YouTube de Qiusheng Wu (mencionados en la lección anterior). El Profesor Wu es un experto en su campo. Presenta los resultados junto con cuadernos que demuestran la reproducibilidad. Los comentarios en sus vídeos tutoriales de YouTube representan interacciones significativas entre los usuarios que reproducen los resultados y el autor.
 
-## How to Use Open Results
+## Cómo citar resultados abiertos
 
-While open results benefit science and have already provided valuable societal benefits, the misuse and incautious sharing of open materials can have far-reaching harmful effects. The end-user of open results bears the responsibility to ensure that the data they reference are used in a responsible manner and that any relevant guidelines for the use of the data are followed.
+Aunque los resultados abiertos benefician a la ciencia y ya han aportado valiosos beneficios a la sociedad, el uso indebido y el intercambio incauto de materiales abiertos pueden tener efectos perjudiciales de gran alcance. El usuario final de los resultados abiertos tiene la responsabilidad de garantizar que los datos a los que hace referencia se utilizan de forma responsable y que se siguen las directrices pertinentes para el uso de los datos.
 
-### How to Contribute and Provide Constructive Feedback
+### Cómo contribuir y proporcionar comentarios constructivos
 
-Contributing to and providing constructive feedback are vital components for a healthy open access ecosystem, ensuring long-term sustainability of the open resources by providing continual improvements and capability expansions.
+Contribuir y aportar comentarios constructivos son componentes vitales para un ecosistema de acceso abierto saludable, que garantice la sostenibilidad a largo plazo de los recursos abiertos al proporcionar mejoras continuas y ampliaciones de capacidad.
 
-In our current system, there are results creators and consumers. This scenario presents a one way street with no feedback loop, no sharing of data back to publishers, and no sharing between intermediaries.
+En nuestro sistema actual, hay personas creadoras y consumidoras de resultados. Este escenario presenta una vía de sentido único sin bucles de respuestas o de devolución, sin comunicación de datos a quienes editan y sin intercambio entre personas intermediarias.
 
-The practice of producing open results aims to foster a system where feedback loops exist between users and makers. Users share their cleaned, integrated, or improved work to the maker. This feedback creates a symbiotic and sustainable process where everyone benefits.
+La práctica de producir resultados abiertos pretende fomentar un sistema en el que existan circuitos de comunicación entre quienes usan y crean. Las personas usuarias comparten su trabajo depurado, integrado o mejorado con quien lo creó. Esta comunicación crea un proceso simbiótico y sostenible del que todos y todas se benefician.
 
-### Your Responsibilities as an Open Results User
+### Tus responsabilidades como persona usuaria de resultados abiertos
 
-- Users should familiarize themselves with contributor guidelines posted to open result repositories and follow the associated policies. What if there aren't contributor guidelines? Contact the creators!
-- Always provide feedback in a respectful and supportive manner.
-- If you discover an error in Open Results materials, the ethical action to take is to contact the author (or repository, depending on the nature of the issue) and give them the opportunity to correct the problem, rather than ignoring the issue or (worse!) taking advantage of a fixable issue to elevate your own research.
+- Las personas usuarias deben familiarizarse con las pautas para colaborar publicadas en los repositorios de resultados abiertos, y seguir las políticas asociadas. ¿Y si no hay pautas para colaborar? ¡Contacta a las personas creadoras!
+- Proporciona siempre comentarios de forma respetuosa y comprensiva.
+- Si descubres un error en los materiales de Resultados Abiertos, la acción ética a tomar es contactar al autor o autora (o al repositorio, dependiendo de la naturaleza del problema) y darles la oportunidad de corregir el problema, en lugar de ignorar el problema o (¡peor aún!) aprovechar un problema reparable para elevar tu propia investigación.
 
-### Different Ways to Provide Feedback
+### Diferentes Maneras de Comentar
 
-#### Use Github Issues
+#### Usar Problemas de GitHub
 
 <table>
 <colgroup>
@@ -237,24 +237,24 @@ The practice of producing open results aims to foster a system where feedback lo
         <td>
             <img src="../images/media/image29.png" style="width:100%;height:auto;"/>
         </td>
-        <td>Pro: The feedback is open and other community members can see ongoing issues that are being addressed.</td>
+        <td>Ventaja: La interacción es abierta y otras personas de la comunidad pueden ver los problemas en curso que se están abordando.</td>
     </tr>
     <tr>
         <td>
             <img src="../images/media/image29.png" style="width:100%;height:auto;"/>
         </td>
-        <td>Pro: Contribution is archived and logged on GitHub.</td>
+        <td>La contribución se archiva y registra en GitHub.</td>
     </tr>
 </tbody>
 </table>
 
-**Working with GitHub Issues**
+**Trabajar con Problemas de GitHub**
 
-See this blog for general issue etiquette
+Consulta este blog para conocer la etiqueta general de problemas
 
-[OPEN](https://www.w3.org/International/i18n-activity/guidelines/issues.html)
+[ABRIR](https://www.w3.org/International/i18n-activity/guidelines/issues.html)
 
-#### Email authors
+#### Enviar un correo electrónico al autor o autora
 
 <table>
 <colgroup>
@@ -266,97 +266,97 @@ See this blog for general issue etiquette
         <td>
             <img src="../images/media/image29.png" style="width:100%;height:auto;"/>
         </td>
-        <td>Con: the feedback is closed. The information is generally not propagated back to the community unless the creator creates a new version.</td>
+        <td>Contras: la comunicación es privada. La información generalmente no se comparte con la comunidad a menos que quien la creó desarrolle una nueva versión.</td>
     </tr>
     <tr>
         <td>
             <img src="../images/media/image29.png" style="width:100%;height:auto;"/>
         </td>
-        <td>Con: No way of tracking credit.</td>
+        <td>Contras: no hay forma de hacer un seguimiento de los créditos.</td>
     </tr>
 </tbody>
 </table>
 
-### Getting Credit for Providing Feedback
+### Obtener crédito por las aportaciones
 
-If your feedback results in a substantial intellectual contribution to the work, it is reasonable for you to expect an opportunity for co-authorship in a future version of the open result. The associated contribution guidelines should address this possibility and manage expectations prior to your providing feedback.
+Si tus aportes resultan en una contribución intelectual sustancial al trabajo, es razonable esperar la oportunidad de coautoría en una futura versión del resultado abierto. Las pautas de contribución asociadas deberían contemplar esta posibilidad y gestionar las expectativas antes de que se realicen aportaciones.
 
-Sadly, many times contributor guidelines do not exist and it is not clear what is "substantial".
+Lamentablemente, muchas veces no existen pautas de contribución y no está claro qué es "sustancial".
 
-### Open Results User Responsibilities
+### Responsabilidades de quienes utilizan Resultados Abiertos
 
-- **Institutional Security Compliance:** Always download code from an authoritative source and be familiar with / follow your institution’s IT security policies.
-- **Licensing Policies:** Understand and abide by the license(s) associated with the open results materials being used.
-- **Attribution and Contribution:** Provide appropriate attribution for the open results used and contribute to the open results community.
+- **Cumplimiento de la Seguridad Institucional:** Descarga siempre el código de una fuente autorizada y conoce/sigue las políticas de seguridad informática de tu institución.
+- **Políticas de Licencia:** Comprende y respeta la(s) licencia(s) asociada(s) con los materiales de resultados abiertos que estás utilizando.
+- **Atribución y contribución:** Proporciona una atribución adecuada para los resultados abiertos utilizados y contribuye a la comunidad de resultados abiertos.
 
-Additionally, give credit to repositories that provide open source materials in the acknowledgement section of your paper. If the repository provides an acknowledgments template in their “About” link, follow that suggestion. Otherwise, a generic "This research has made use of \\<insert repository name\>." will be sufficient.
+Además, da crédito a los repositorios que proporcionan materiales de código abierto en la sección de agradecimientos de tu artículo. Si el repositorio proporciona un modelo de agradecimientos en su enlace "Acerca de", sigue esa sugerencia. De lo contrario, una frase genérica como "Este trabajo ha hecho uso de <inserte el nombre del repositorio>." será suficiente.
 
-### Avoid Plagiarism When Using Open Results
+### Evitar el Plagio al Utilizar Resultados Abiertos
 
-Standard guidelines that you’ve been using in your research all along for providing appropriate attribution and citations of closed access publications also apply to open access published works.
+Las pautas habituales que ha estado utilizando en su investigación todo el tiempo para proporcionar la atribución y las citas apropiadas de las publicaciones de acceso cerrado también se aplican a los trabajos publicados en acceso abierto.
 
-Examples of plagiarism include:
+Algunos ejemplos de plagio son:
 
-- Word-for-word copying without permission and source acknowledgement.
-- Copying components (tables, processes, equipment) without source attribution.
-- Paraphrasing an idea without proper source referencing.
-- Recycling one's own past work and presenting as a new paper.
+- Copiar palabra por palabra sin permiso y sin reconocimiento de la fuente.
+- Copiar componentes (tablas, procesos, equipos) sin citar la fuente.
+- Parafrasear una idea sin citar correctamente la fuente.
+- Reciclar el propio trabajo anterior y presentarlo como un nuevo documento.
 
-#### FACTSHEET: Plagiarism
+#### HOJA INFORMATIVA: Plagio
 
-**Here is a useful guide regarding the different forms of plagiarism**
+**Aquí hay una guía útil sobre las diferentes formas de plagio**
 
-[CLICK TO LEARN](https://www.elsevier.com/editor/perk/plagiarism-complaints#0-introduction)
+[HAZ CLIC PARA APRENDER MÁS](https://www.elsevier.com/editor/perk/plagiarism-complaints#0-introduction) (en inglés)
 
-## How to Cite Open Results
+## Cómo citar resultados abiertos
 
-Giving proper attribution to open results is an important and ethical responsibility for using open a source materials. The process for citation is specific to the nature of the material.
+Brindar una atribución adecuada a los resultados abiertos es una responsabilidad importante y ética al utilizar materiales de código abierto. El proceso de citación depende de la naturaleza del material.
 
-### Citation Guidelines for Published Versus Unpublished Results
+### Pautas de citación para resultados publicados y no publicados
 
-If a paper has been formally published in a journal, then your citation should point to the published version rather than to a preprint server.
+Si un artículo se ha publicado formalmente en una revista, la cita debe remitir a la versión publicada en lugar de un servidor de borradores o artículos aún no publicados.
 
-Take the time to locate the originating journal to provide an accurate citation.
+Tómate el tiempo necesario para localizar la revista de origen y proporcionar una cita más precisa.
 
 <img src="../images/media/image31.png" style="width:100%;height:auto;" />
 
-Preprint Server (Cite only if journal publication not available)
+Servidor de borradores o de manuscritos aún no publicados (Citar solo si no está disponible la publicación en una revista)
 
 ---
 
 <img src="../images/media/image32.png" style="width:100%;height:auto;" />
 
-Source Publication (Always cite)
+Fuente de la publicación (Citar siempre)
 
 ---
 
-If a paper that you wish to cite is not yet accepted for publication, you should follow the guidelines of the journal to which you are submitting your paper. A preprint reference citation typically includes author name(s), date of the most recent version posted, paper title, name of the preprint server, object type ("preprint"), and the DOI.
+Si un artículo que desea citar aún no ha sido aceptado para su publicación, debe seguir las pautas de la revista al cual está enviando tu artículo. Una cita de referencia de un manuscrito que aún no está publicado o de un borrador típicamente incluye el nombre de la o las persona(s) autora(s), la fecha de la versión más reciente publicada, el título del artículo, el nombre del servidor en donde se encuentra el borrador del artículo, el tipo de objeto ("manuscrito no publicado") y el DOI.
 
 <img src="../images/media/image33.png" style="width:100%;height:auto;" />
 
-At the time of the Lesson preparation, the following paper did not yet appear as a journal publication.
+Al momento de la preparación de la presente sección, el siguiente artículo aún no había sido publicado en una revista.
 
-Jin, H., et al. 2023, "Optical color of Type Ib and Ic supernovae and implications for their progenitors," ApJ, preprint, arXiv:2304.10670.
+Jin, H., et al. 2023, "El color óptico de las supernovas de tipo Ib y Ic y sus implicaciones para sus progenitores," ApJ, manuscrito no publicado, arXiv:2304.10670.
 
 ---
 
 <table>
   <thead>
     <tr>
-        <th>FOR MATERIAL THAT HAS A DOI ☑</th>
-        <th>FOR MATERIAL THAT DOES NOT HAVE A DOI</th>
-        <th>FOR OTHER MATERIALS OR INTERACTIONS THAT WERE HELPFUL FOR YOUR RESEARCH</th>
+        <th>PARA UN MATERIAL CON UN DOI ☑</th>
+        <th>PARA UN MATERIAL QUE NO TIENE UN DOI</th>
+        <th>PARA OTROS MATERIALES O INTERACCIONES QUE FUERON ÚTILES PARA LA INVESTIGACIÓN</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>To cite all of the following, follow existing guidelines and community best practices:</p>
+            <p>Para citar todo lo que sigue, sigue las pautas existentes y las mejores prácticas habituales de la comunidad:</p>
             <ul>
-                <li>Cite publications</li>
-                <li>Cite data</li>
-                <li>Cite software</li>
-                <li>Cite any other object with a DOI. Since many journals will only allow authors to cite material that has a DOI, what do you do with other types of open results?</li>
+                <li>Cita publicaciones</li>
+                <li>Cita datos</li>
+                <li>Cita software</li>
+                <li>Cita cualquier otro objeto con un DOI. Teniendo en cuenta que muchas revistas sólo permiten a las personas autoras citar material que tenga un DOI, ¿qué hacer con otros tipos de resultados abiertos?</li>
             </ul>
         </td>
     </tr>
@@ -366,18 +366,18 @@ Jin, H., et al. 2023, "Optical color of Type Ib and Ic supernovae and implicatio
 <table>
   <thead>
     <tr>
-        <th>FOR MATERIAL THAT HAS A DOI</th>
-        <th>FOR MATERIAL THAT DOES NOT HAVE A DOI ☑</th>
-        <th>FOR OTHER MATERIALS OR INTERACTIONS THAT WERE HELPFUL FOR YOUR RESEARCH</th>
+        <th>PARA UN MATERIAL CON UN DOI</th>
+        <th>PARA UN MATERIAL QUE NO TIENE UN DOI ☑</th>
+        <th>PARA OTROS MATERIALES O INTERACCIONES QUE FUERON ÚTILES PARA LA INVESTIGACIÓN</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>Examples include blog posts, videos, and notebooks.</p>
+            <p>Algunos ejemplos son publicaciones en blogs, vídeos y cuadernos.</p>
             <ul>
-                <li>You could also contact the author and ask them to obtain a DOI.</li>
-                <li>Leave a comment in the comments section or on the forum letting the author know about your publication.</li>
+                <li>También podrías ponerte en contacto con lo creó y pedirle que obtenga un DOI.</li>
+                <li>Deja un comentario en la sección de comentarios o en el foro comunicando la persona autora tu publicación.</li>
             </ul>
         </td>
     </tr>
@@ -387,67 +387,67 @@ Jin, H., et al. 2023, "Optical color of Type Ib and Ic supernovae and implicatio
 <table>
   <thead>
     <tr>
-        <th>FOR MATERIAL THAT HAS A DOI</th>
-        <th>FOR MATERIAL THAT DOES NOT HAVE A DOI</th>
-        <th>FOR OTHER MATERIALS OR INTERACTIONS THAT WERE HELPFUL FOR YOUR RESEARCH ☑</th>
+        <th>PARA UN MATERIAL CON UN DOI</th>
+        <th>PARA UN MATERIAL QUE NO TIENE UN DOI</th>
+        <th>PARA OTROS MATERIALES O INTERACCIONES QUE FUERON ÚTILES PARA LA INVESTIGACIÓN ☑</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
             <ul>
-                <li>Acknowledge communities and forums that helped you advance your research in the Acknowledgements Section. Not only does this give them credit, but it helps others find those communities.</li>
-                <li>Citing open research results advances science by giving appropriate credit for all parts of the research process. This is essential for the cultural shift to open science; we must give credit for all types of contributions, and expect them in return. Participatory science allows more people, from more places, with different voices and experiences to participate in science.</li>
-                <li>Contributing and collaborating this way lowers the barriers (like conference fees) to participating in science and broadens who can participate.</li>
+                <li>Reconoce a las comunidades y a los foros que te han ayudado a avanzar en tu investigación en la sección de agradecimientos. Esto no sólo les da un reconocimiento, sino que ayuda a otras personas a encontrar a estas comunidades.</li>
+                <li>Citar los resultados de investigaciones abiertas hace que avance la ciencia al dar el reconocimiento adecuado a todas las partes del proceso de investigación. Esto es algo fundamental para lograr un cambio cultural en favor de la ciencia abierta; hay que reconocer el mérito de todo tipo de contribuciones y esperar reciprocidad. La ciencia colaborativa permite que más personas, de más lugares, con voces y experiencias diferentes participen en ciencia.</li>
+                <li>Contribuir y colaborar de este modo disminuye las barreras (como el costo de un congreso) para participar en ciencia y amplía el número de personas que pueden involucrarse.</li>
             </ul>
         </td>
     </tr>
   </tbody>
 </table>
 
-### Examples of Giving Credit
+### Ejemplos de Agradecimiento
 
-In the Lesson 1 blog post [example](https://medium.com/pangeo/fake-it-until-you-make-it-reading-goes-netcdf4-data-on-aws-s3-as-zarr-for-rapid-data-access-61e33f8fe685), researchers acknowledged people they worked with in an article they wrote that they found helpful, and two different communities, as well as the computational environment they worked on. This is a great example of giving credit: "I would like to thank Rich Signell (USGS) and Martin Durant (Anaconda) for their help in learning this process. If you're interested in seeing more detail on how this works, I recommend Rich's article from 2020 on the topic. I would also like to recognize [Pangeo](https://pangeo.io/) and [Pangeo-forge](https://pangeo-forge.org/) who work hard to make working with big data in geoscience as easy as possible. Work on this project was done on the Pangeo AWS deployment."
+En el ejemplo del blog de la Lección 1 [example](https://medium.com/pangeo/fake-it-until-you-make-it-reading-goes-netcdf4-data-on-aws-s3-as-zarr-for-rapid-data-access-61e33f8fe685), quienes investigan agradecieron a las personas con las que trabajaron en un artículo que escribieron y que les resultó de ayuda, y a dos comunidades diferentes, así como al entorno computacional en el que trabajaron. Este es un buen ejemplo de cómo agradecer: "Me gustaría agradecer a Rich Signell (USGS) y Martin Durant (Anaconda) por su ayuda en el estudio de este proceso. Si te interesa ver con más detalle cómo funciona, te recomiendo el artículo de Rich del 2020 sobre el tema. También me gustaría reconocer [Pangeo](https://pangeo.io/) y [Pangeo-forge](https://pangeo-forge.org/) quienes trabajan con mucho esfuerzo para facilitar el trabajo con grandes conjuntos de datos en geociencia. El trabajo en este proyecto se realizó en la implementación de AWS de Pangeo
 
-In Lesson 1, the JWST case study was presented. The peer-reviewed [publication](https://www.nature.com/articles/s41586-022-05269-w#Ack1) that reported the first discovery of CO2 on another planet has been accessed 18,000+ times. Notice is that the authorship is attributed to the entire team. The Acknowledgements section duly explains the contributions of their collaborators and partners, "The results reported herein benefited during the design phase from collaborations and/or information exchange within NASA’s Nexus for Exoplanet System Science (NExSS) research coordination network sponsored by NASA's Science Mission Directorate." Also, "All the data and models presented in this publication can be found at [https://doi.org/10.5281/zenodo.6959427](https://doi.org/10.5281/zenodo.6959427)". And finally, they cite all the software! "The codes used in this publication to extract, reduce and analyze the data are as follows.."
+En la Lección 1, se presentó el caso de JWST. El [artículo]revisado por pares (https://www.nature.com/articles/s41586-022-05269-w#Ack1) que informaba del primer descubrimiento de CO2 en otro planeta ha sido consultada más de 18.000 veces. Cabe señalar que la autoría se atribuye a todo el equipo. La sección de Agradecimientos detalla debidamente las contribuciones de quienes colaboraron, "Los resultados informados aquí se beneficiaron durante la fase de diseño de colaboraciones e intercambios dentro de la red de coordinación de investigación Nexus for Exoplanet System Science (NExSS) de la NASA, patrocinada por la Dirección de Misiones Científicas de la NASA". Todos los datos y modelos presentados en esta publicación pueden consultarse en [https://doi.org/10.5281/zenodo.6959427](https://doi.org/10.5281/zenodo.6959427). Y por último, ¡citan todo el software! "Los códigos utilizados en esta publicación para extraer, reducir y analizar los datos son los siguientes.."
 
-## Lesson 2: Summary
+## Lección 2: Resumen
 
-In this lesson, you learned:
+En esta lección, has aprendido:
 
-- Open results can be found using both Scholarly Search Portals and Web searches.
-- The reliability of a post can generally be evaluated by the trustworthiness of the website from which they originated from, the engagement of community members, and the scientific rigor of its content.
-- Users of open results, as inherent stewards of the open a source community, informally carry some responsibility to contribute to the community’s sustainability. This participation includes providing feedback to open results providers and developers.
-- Giving proper attribution to open results is an important and ethical responsibility for using open source materials. The process for citation is specific to the nature of the material.
+- Los resultados abiertos se pueden encontrar tanto utilizando Portales Académicos de Búsqueda como mediante búsquedas en internet.
+- La confiabilidad de una publicación generalmente puede evaluarse por la confiabilidad del sitio web del que proviene, la participación de la comunidad y el rigor científico de su contenido.
+- Quienes utilizan resultados abiertos, en tanto son las personas que inherentemente administran la comunidad de código abierto, tienen informalmente la responsabilidad de contribuir a la sostenibilidad de la comunidad. Esta participación incluye la comunicación de opiniones a quienes proporcionan y desarrollan resultados abiertos.
+- Dar una adecuada referencia a los resultados abiertos es una responsabilidad importante y ética a la hora de utilizar materiales de código abierto. La forma de citar los resultados depende de la especificidad del material.
 
-## Lesson 2: Knowledge Check
+## Lección 2: Evaluación
 
-Answer the following questions to test what you have learned so far.
+Responde las siguientes preguntas para poner a prueba lo que has aprendido hasta ahora.
 
-_Question_
+_Pregunta_
 
 **01/02**
 
-Which of the following could be a source of open results? Select all that apply.
+¿Cuál de las siguientes opciones podría ser una fuente de resultados abiertos? Selecciona todos los que correspondan.
 
-- Web searches
-- Papers accessed through a paid subscription
-- Materials made public after a 1-year exclusive-use/paid-subscription-only period
-- Repositories
-- Open access papers
+- Búsquedas en Internet
+- Artículos a los que se accedió a través de una suscripción pagada
+- Materiales hechos públicos después de un período exclusivo de 1 año de uso/suscripción pagado
+- Repositorios
+- Publicaciones de acceso abierto
 
-_Question_
+_Pregunta_
 
 **02/02**
 
-Which of the following characteristics suggest that a particular paper / data set is more likely to be a credible Open Result? Select all that apply.
+¿Cuál de las siguientes características hace suponer que un determinado artículo o conjunto de datos tiene más probabilidades de ser un resultado abierto creíble? Seleccione todas las opciones que correspondan.
 
-- The website lists its source of funding
-- The results are described in an associated peer-reviewer publication
-- Detailed documentation accompanies the data, including defined fields and parameters
-- Organization contact information is listed
-- The website was last updated in 2015
-- The webpage advertises open job positions with the funder
-- The author is an expert in the field
-- The webpage's URL ends in '.com'
-- The accompanying documentation states that "on inspection, data that were obvious outliers were excluded from the following analysis"
+- El sitio de internet menciona su fuente de financiación
+- Los resultados se describen en un artículo revisado por pares
+- El artículo se acompaña de datos, incluyendo campos definidos y parámetros
+- Se proporciona la información de contacto de la organización
+- La página de internet fue actualizada por última vez en 2015
+- La página de internet anuncia posiciones de trabajo abiertas con quien financia
+- La persona autora es experta en el campo
+- La URL de la página de internet termina en '.com'
+- La documentación acompañante afirma que "al inspeccionar las distribuciones de los datos, se excluyeron del análisis los datos que eran valores atípicos"

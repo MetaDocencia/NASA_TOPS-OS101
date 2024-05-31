@@ -1,215 +1,215 @@
-# Lesson 5: Tools for Open Results
+# Lección 5: Herramientas para resultados abiertos
 
-## Navigation
+## Contenidos
 
-- [Tools for Open Publications](#tools-for-open-publications)
-- [Tools for Reproducibility](#tools-for-reproducibility)
-- [Additional Tools for Open Results](#additional-tools-for-open-results)
-- [Lesson 5: Summary](#lesson-5-summary)
-- [Lesson 5: Knowledge Check](#lesson-5-knowledge-check)
-- [Open Tools and Resources Summary](#open-tools-and-resources-summary)
+- [Herramientas para publicaciones abiertas](./Lesson_5#herramientas-para-resultados-abiertos)
+- [Herramientas para reproducibilidad](./Lesson_5#herramientas-para-reproducibilidad)
+- [Herramientas adicionales para resultados abiertos](./Lesson_5#additional-tools-for-open-results)
+- [Lección 5: Resumen](#lección-5-resumen)
+- [Lección 5: Evaluación](#lección-5-evaluación)
+- [Resumen de herramientas y recursos abiertos](./Lesson_5#resumen-de-herramientas-y-recursos-abiertos)
 
-## Overview
+## Descripción General
 
-This lesson focuses on the tools available for sharing research products. It begins with a discussion of the tools for management of research projects. Then it introduced the tools for open publications and how to find them. Next, this lesson discusses the tools for open results. Lastly, this lesson discusses the concept of reproducibility. Journals are a tool for sharing your results and these are discussed in more detail in Module 5 - Open Results.
+Esta lección se centra en las herramientas disponibles para compartir productos de investigación. Comienza con un análisis de las herramientas para la gestión de proyectos de investigación. Luego introduce las herramientas para publicaciones abiertas y cómo encontrarlas. A continuación, esta lección discute las herramientas para los resultados abiertos. Por último, esta lección analiza el concepto de reproducibilidad. Las revistas son una herramienta para compartir tus resultados y estos son discutidos con más detalle en el Módulo 5 - Resultados Abiertos.
 
-## Learning Objectives
+## Objetivos de aprendizaje
 
-After completing this lesson, you should be able to:
+Después de completar este módulo, deberías ser capaz de:
 
-- Describe some of the benefits of preprints and identify resources for open access journals.
-- List commonly used tools that increase the reproducibility of a result.
-- List applications for project management and reference management.
+- Describir algunos de los beneficios de las preimpresiones (_preprints_) e identificar recursos para revistas de acceso abierto.
+- Listar herramientas usadas comúnmente que incrementan la reproducibilidad de un resultado.
+- Enumerar aplicaciones para gestión de proyectos y gestión de referencias.
 
-## Tools for Open Publications
+## Herramientas para publicaciones abiertas
 
-### Pre-Prints
+### Pre-Impresiones (_preprints_)
 
-Open science tools can be used for writing, as tools to produce content, such as data management plans, presentations, and pre-prints. Pre-prints are early versions of research papers that are shared publicly before they are published in scientific journals. In some fields, they are shared prior to peer review while in other fields, it may only be after peer review and prior to publication. They are a vital component of open science content creation, as they promote transparency, rapid dissemination of knowledge, and collaboration among researchers.
+Las herramientas de ciencia abierta pueden ser utilizadas para escribir, como herramientas para producir contenido, como planes de gestión de datos, presentaciones y preimpresiones (_preprints_). Las preimpresiones (_preprints_) son versiones preliminares de los documentos de investigación que se comparten públicamente antes de su publicación en revistas científicas. En algunas disciplinas, se comparten antes de la revisión por pares mientras que en otras disciplinas, puede ser sólo después de la revisión por pares y antes de la publicación. Son un componente vital de la creación de contenidos científicos abiertos, ya que promueven la transparencia, la rápida difusión del conocimiento y la colaboración entre las personas que investigan.
 
-By sharing pre-prints, scientists can receive feedback from the global research community, refine their work, and rapidly communicate their findings. This accelerates the pace of scientific discovery and ensures that valuable research is accessible to a broader audience, which aligns with the principles of open science.
+Al compartir preimpresiones (_preprints_), el equipo investigador pueden recibir retroalimentación de la comunidad de investigación global, perfeccionar su trabajo y comunicar rápidamente sus hallazgos. Esto acelera el ritmo del descubrimiento científico y garantiza que la investigación valiosa sea accesible a un público más amplio, lo que se ajusta a los principios de la ciencia abierta.
 
-Pre-prints have gained particular significance during the COVID-19 pandemic, where they played a crucial role in rapidly sharing information about the virus and its effects, emphasizing their importance in advancing science and public health. Fundamentally, pre-prints are important to open science. Consider the following highlights:
+Las preimpresiones (_preprints_) han adquirido especial relevancia durante la pandemia de COVID-19, donde desempeñaron un papel crucial en el rápido intercambio de información sobre el virus y sus efectos, enfatizando su importancia en el avance de la ciencia y la salud pública. Fundamentalmente, las preimpresiones (_preprints_) son importantes para la ciencia abierta. Considera los siguientes aspectos destacados:
 
-1. **Rapid Dissemination:** Pre-prints enable researchers to swiftly share their findings with the scientific community and the public, sometimes within days of completing their research. This swift dissemination is particularly beneficial when dealing with urgent or rapidly evolving topics.
+1. **Difusión rápida:** Las preimpresiones (_preprints_) permiten a las personas que investigan compartir rápidamente sus hallazgos con la comunidad científica y el público, a veces a los pocos días de completar su investigación. Esta difusión rápida es especialmente beneficiosa cuando se trata de temas urgentes o que evolucionan con rapidez.
 
-2. **Peer Review:** While pre-prints are not peer-reviewed, they often undergo a form of community review. Researchers and experts can provide feedback and constructive criticism, helping authors improve their work before formal journal publication.
+2. **Revisión por pares:** Aunque las preimpresiones (_preprints_) no son revisadas por pares, a menudo se someten a una forma de revisión comunitaria. Las personas que investigan y expertas pueden proporcionar retroalimentación y críticas constructivas, ayudando al equipo responsable de la autoría a mejorar su trabajo antes de la publicación formal de la revista.
 
-3. **Variety of Fields:** Pre-prints are not limited to any specific scientific discipline. They are used in fields ranging from medicine and biology to physics and social sciences, making them a versatile tool for disseminating research.
+3. **Variedad de las disciplinas:** Las preimpresiones (_preprints_) no se limitan a ninguna disciplina científica específica. Se utilizan en disciplinas que van desde la medicina y la biología hasta la física y las ciencias sociales, convirtiéndolos en una herramienta versátil para difundir la investigación.
 
-4. **Versions and Citations:** Pre-prints can have different versions, and the final peer- reviewed paper may differ. Researchers are encouraged to cite pre-prints when discussing ongoing research, allowing for transparency in the academic discourse.
+4. **Versiones y citaciones:** Las preimpresiones (_preprints_) pueden tener diferentes versiones y el documento revisado por pares puede diferir. Se fomenta que las personas investigadoras citen las preimpresiones (_preprints_) cuando debaten investigaciones en curso, permitiendo la transparencia en el discurso académico.
 
-5. **Free Access:** Pre-prints are typically freely accessible to anyone with an internet connection. This open access promotes equality and inclusivity in science, enabling researchers from various backgrounds and institutions to engage with the latest research.
+5. **Acceso gratuito:** Las preimpresiones (_preprints_) suelen ser de libre acceso para cualquier persona con conexión a Internet. Este acceso abierto fomenta la igualdad y la inclusión en la ciencia, permitiendo a personas que investigan de diversas procedencias e instituciones participar en las investigaciones más recientes.
 
-6. **Not a Replacement for Peer Review:** Although pre-prints are valuable tools for early sharing and collaboration, they are not a substitute for a formal peer-reviewed publication. Researchers and readers should examine pre-prints with the understanding that they have not undergone the rigorous peer review process that journals provide.
+6. **No se trata de un reemplazo de la revisión por pares:** Aunque las preimpresiones (_preprints_) son herramientas valiosas para el intercambio y la colaboración temprana, no son un sustituto de una publicación formal revisada por pares. Las personas investigadoras y lectoras deben examinar las preimpresiones (_preprints_) sabiendo que no han sido sometidas al riguroso proceso de revisión por pares que ofrecen las revistas.
 
-Pre-prints are typically hosted on dedicated pre-print servers for different scientific fields. Examples include: [arXiv](https://arxiv.org/) (physics, mathematics), [bioRxiv](https://www.biorxiv.org/) (biology), [medRxiv](https://www.medrxiv.org/) (medicine), and [many others](https://en.wikipedia.org/wiki/List_of_preprint_repositories). These platforms help organize and facilitate pre-print sharing. The [OSF provides a services](https://osf.io/preprints/#!) for searching over multiple preprint servers.
+Las preimpresiones (_preprints_) son típicamente alojadas en servidores de preimpresiones, dedicados a diferentes campos científicos. Los ejemplos incluyen: [arXiv](https://arxiv.org/) (física, matemática), [bioRxiv](https://www.biorxiv.org/) (biología), [medRxiv](https://www.medrxiv.org/) (medicina), y [muchos otros](https://en.wikipedia.org/wiki/List_of_preprint_repositories). Estas plataformas ayudan a organizar y facilitar el intercambio de preimpesiones (_preprints_). El Marco de Ciencia Abierta (MCA), [_Open Science Framework_] (OSF en inglés) proporciona un servicio (https://osf.io/preprints/#!) (en inglés) para buscar en múltiples servidores de preimpresión.
 
-Remember, pre-prints play a significant role in open science by promoting rapid, transparent sharing of research findings across various scientific domains. They offer a valuable platform for researchers to disseminate their work and gather feedback, ultimately advancing scientific knowledge.
+Recuerda que las preimpresiones (_preprints_) desempeñan un papel importante en la ciencia abierta, al promover un intercambio rápido y transparente de los resultados de la investigación en diversos ámbitos científicos. Ofrecen una valiosa plataforma para que las personas que investigan difundan su trabajo y recopilen retroalimentación, lo que en última instancia hace avanzar el conocimiento científico.
 
-### Discover an Open Access Journal to Share Your Results
+### Descubre un Diario de Acceso Abierto para compartir tus resultados
 
-A common way to share a paper is to pick a journal that is already fully open access and adopt their license. One way to discover open journals is by using the Directory of Open Access Journals (DOAJ).
+Una forma habitual de compartir un artículo es elegir una revista que ya sea totalmente de acceso abierto y adoptar su licencia. Una forma de descubrir revistas abiertas es utilizando el Directorio de Revistas de Acceso Abierto (en inglés, _Directory of Open Access Journals, DOAJ_).
 
-To identify the best open-access journal, you can use the [Directory of Open Access Journals](https://doaj.org/) (DOAJ) which provides a searchable index of all known open-access journals and articles. The DOAJ and its synergetic webpage, Sherpa Romeo, serve as useful tools in the early stages of research planning to help a researcher determine what journals to consider when the time comes to publish their results.
+Para identificar la mejor revista de acceso abierto, puedes usar el [Directorio de Revistas de Acceso Abierto](https://doaj.org/) (DOAJ) (en inglés) que proporciona un índice de búsqueda de todos los artículos y revistas de acceso abierto conocidas. El DOAJ y su página web sinérgica, Sherpa Romeo, sirven como herramientas útiles en las primeras etapas de la planificación de la investigación para ayudar a una persona que investiga a determinar qué revistas hay que tener en cuenta cuando llegue el momento de publicar sus resultados.
 
 ![](../images/media/image51.jpeg)
 
-### Activity 5.1: Identify an Open-Access Journal
+### Actividad 5.1: Identificar una revista de acceso abierto
 
-To become more familiar with the [DOAJ](https://doaj.org/), visit [https://doaj.org/](https://doaj.org/) and search for _The Astronomical Journal_ published by the American Astronomical Society. Once you select the journal, you can see costs to publish, details about licensing, author retention rights, time to publication, and other details.
+Para familiarizarte más con el [DOAJ](https://doaj.org/), visita [https://doaj.org/] (en inglés) y busca _The Astronomical Journal_, publicado por la Sociedad Astronómica (_Americana American Astronomical Society_). Una vez que selecciones la revista, podrás ver los costos de publicación, detalles sobre licencias, derechos de retención de autoría, tiempo de publicación y otros detalles.
 
-Once you have found the journal, answer the following questions:
+Una vez que hayas encontrado la revista, responde a las siguientes preguntas:
 
-1. When did it begin publishing as open access?
-2. What license is used for the publications?
-3. What rights do the authors retain in their publications?
+1. ¿Cuándo empezó a publicar como acceso abierto?
+2. ¿Qué licencia se utiliza para las publicaciones?
+3. ¿Qué derechos conservan las personas responsables de la autoría sobre sus publicaciones?
 
-**Note:** If journals did not have any open access, the journal will not have appeared in the search results. Also, because DOAJ has strict criteria for being listed in its directory, it is not likely you will find predatory publishers listed here, either.
+**Nota:** Si las publicaciones no tienen acceso abierto, la revista no aparecerá en los resultados de búsqueda. Además, como DOAJ aplica criterios estrictos para figurar en su directorio, tampoco es probable que encuentres editoriales depredadoras.
 
-## Tools for Reproducibility
+## Herramientas para reproducibilidad
 
-In this lesson, we take a deep dive into a few available tools for (computational) reproducibility.
+En esta lección, vamos a profundizar en algunas herramientas disponibles para reproducibilidad (computacional).
 
-### What is Reproducibility?
+### ¿Qué es la reproducibilidad?
 
-The [National Academies Report 2019](https://www.nationalacademies.org/our-work/reproducibility-and-replicability-in-science) defined reproducibility as:
+El [Informe de Academias Nacionales 2019](https://www.nationalacademies.org/our-work/reproducibility-and-replicability-in-science) (en inglés) definió la reproducibilidad como:
 
-- Reproducibility means obtaining consistent computational results using the same input data, computational steps, methods, code, and conditions of analysis.
-- Replicability means obtaining consistent results across studies aimed at answering the same scientific question, each of which has obtained its own data.
+- Reproducibilidad significa obtener resultados computacionales consistentes usando los mismos datos de entrada (_inputs_), pasos computacionales, métodos, código y condiciones de análisis.
+- Replicabilidad significa obtener resultados coherentes en todos los estudios destinados a responder a la misma pregunta científica, cada uno de los cuales ha obtenido sus propios datos.
 
-The pursuit of reproducibility aims to ensure researchers reach the same result when using the same steps, as well as to enable researchers to copy an environment and build upon a result by editing the environment in order to apply it to a similar problem. This additional feature gives others the ability to directly build upon previous work and get more science out of the same amount of funding.
+La búsqueda de la reproducibilidad tiene como objetivo garantizar que las personas investigadoras obtengan el mismo resultado al seguir los mismos pasos, así como permitirles copiar un entorno y desarrollar un resultado editando dicho entorno para aplicarlo a un problema similar. Esta característica adicional ofrece a otras pesonas la posibilidad de basarse directamente en trabajos anteriores y obtener más ciencia con la misma cantidad de financiamiento.
 
-Tools to support reproducibility in research outputs:
+Herramientas para apoyar la reproducibilidad en los resultados de investigación:
 
-- [Jupyter Notebooks](https://jupyter.org/) - A web application for creating and sharing computational documents. It offers a simple, streamlined, document-centric experience.
-- [Jupyter Books](https://jupyterbook.org/en/stable/intro.html) - Build beautiful, publication-quality books and documents from computational content.
-- [R Markdown](https://rmarkdown.rstudio.com/) - Produces documents that are fully reproducible. Use a productive notebook interface to weave together narrative text and code to produce elegantly formatted output.
-- [Binder](https://mybinder.org/) - Create custom computing environments that can be shared and used by many remote users.
-- [Quarto](https://quarto.org/) - Combine Jupyter notebooks with flexible options to produce production quality output in a wide variety of formats.
+- [Jupyter Notebooks](https://jupyter.org/) - Una aplicación web para crear y compartir documentos computacionales. Ofrece una experiencia sencilla, ágil y centrada en los documentos.
+- [Jupyter Books](https://jupyterbook.org/en/stable/intro.html) (en inglés)- Construye libros y documentos atractivos, y de calidad editorial, a partir de contenido computacional.
+- [R Markdown](https://rmarkdown.rstudio.com/) (en inglés)- Produce documentos totalmente reproducibles. Utiliza una interfaz de cuaderno productiva para entrelazar texto narrativo y código, y producir resultados con un formato elegante.
+- [Binder](https://mybinder.org/) - Crea entornos de computación personalizados que pueden ser compartidos y utilizados por muchas personas de manera remota.
+- [Quarto](https://quarto.org/) (en inglés) - Combina los cuadernos Jupyter con opciones flexibles para producir resultados de calidad en una amplia variedad de formatos.
 
-**Note:** As you might have noticed, a lot of open science tools require intermediate to advanced skills in data and information literacy and coding, especially if handling coding-intensive research projects. One of the best ways to learn these skills is through engaging with the respective communities, which often provide training and mentoring.
+**Nota:** Como habrás observado, muchas herramientas de ciencia abierta requieren conocimientos intermedios o avanzados en materia de datos e información y programación, especialmente si se trata de proyectos de investigación que requieren una programación intensiva. Una de las mejores maneras de aprender estas habilidades es a través del contacto con las comunidades respectivas, que a menudo proporcionan capacitación y tutoría.
 
-## Additional Tools for Open Results
+## Herramientas adicionales para resultados abiertos
 
-### Tools for Open Project Management
+### Herramientas para la gestión de proyectos abiertos
 
-Advancements over the past few decades to tools that manage research projects and laboratories have helped to meet the ever-increasing demand for speed, innovation, and transparency in science. Such tools are developed to support collaboration, ensure data integrity, automate processes, create workflows and increase productivity.
+Los avances de las últimas décadas en herramientas de gestión de proyectos de investigación y laboratorios han contribuido a satisfacer la creciente demanda de rapidez, innovación y transparencia en la ciencia. Tales herramientas se desarrollan para apoyar la colaboración, asegurar la integración de datos, automatizar procesos, crear flujos de trabajo y aumentar la productividad.
 
-Research groups can now use project management tools for highly specialized efforts. They use existing platforms or develop their own software to share materials within the group and manage projects or tasks.
+Los grupos de investigación pueden utilizar ahora herramientas de gestión de proyectos para esfuerzos muy especializados. Utilizan plataformas existentes o desarrollan su propio software para compartir materiales dentro del grupo y gestionar proyectos o tareas.
 
-Platforms and tools, which are finely tuned to meet researchers’ needs (and frustrations), are available. They are often founded by scientists, for scientists. To explore a few examples, let’s turn to experimental science.
+Existen plataformas y herramientas perfectamente adaptadas a las necesidades (y frustraciones) de quienes investigan. A menudo son creadas por las personas que hacen ciencia para quienes hacen ciencia. Para explorar algunos ejemplos, pasemos a la ciencia experimental.
 
-A commonly used term and research output is protocol. Protocol can be defined as "A predefined written procedural method in the design and implementation of experiments. Protocols are written whenever it is desirable to standardize a laboratory method to ensure successful replication of results by others in the same laboratory or by other laboratories." according to the University of Delaware (USA) Research Guide for Biological Sciences.
+Un término y un resultado de investigación comúnmente utilizados son los protocolos. Un protocolo puede definirse como "un método escrito, predefinido, para realizar un procedimiento en el diseño e implementación de experimentos". Los protocolos se escriben siempre que es deseable estandarizar un método de laboratorio para garantizar la reproducción satisfactoria de los resultados por parte de otras personas del mismo laboratorio o de otros laboratorios", según la Guía de Investigación en Ciencias Biológicas de la Universidad de Delaware (EE. UU.).
 
-In a broader sense, protocol comprises documented computational workflows, operational procedures with step-by-step instructions, or even safety checklists.
+En un sentido más amplio, protocolo comprende flujos de trabajo informáticos documentados, procedimientos operativos con instrucciones paso a paso o incluso listas de comprobación de seguridad.
 
-[ Protocols.io](https://www.protocols.io/) is an online and secure platform for scientists affiliated with academia, industry and non- profit organizations, and agencies. It allows users to create, manage, exchange, improve, and share research methods and protocols across different disciplines. This resource can improve collaboration and recordkeeping, leading to an increase in team productivity and facilitating teaching, especially in the life sciences. In its free version, protocols.io supports publicly shared protocols, while paid plans enable private sharing, e.g. for industry.
+[ Protocols.io](https://www.protocols.io/) es una plataforma en línea y segura para las personas que hacen ciencias afiliadas al mundo académico, la industria, organizaciones sin fines de lucro y agencias. Esta permite a quienes la usan la creación, gestión, intercambio, mejora y la posibilidd de compartir métodos y protocolos de investigación de distintas disciplinas. Este recurso puede mejorar la colaboración y el mantenimiento de registros, lo que aumenta la productividad de los equipos y facilita la enseñanza, especialmente en las ciencias humanas. En su versión gratuita, protocols.io admite compartir los protocolos públicamente, mientras que los planes pagos permiten compartirlos de forma privada, por ejemplo para la industria.
 
-Some of the tools are specifically designed for open science with an open-by-design concept from ideation on. These tools aim to support the research lifecycle at all stages and allow for integration with other open science tools.
+Algunas de las herramientas están diseñadas específicamente para la ciencia abierta con un concepto de diseño abierto desde la fase de ideación. Estas herramientas pretenden apoyar el ciclo de vida de la investigación en todas sus fases y permiten la integración con otras herramientas de ciencia abierta.
 
-As an example, the [Open Science Framework](https://osf.io/) (OSF), developed by Center for Open Science, is a free and open source project management tool. The OSF supports researchers throughout their entire project lifecycle through open, centralized workflows. It captures different aspects and products of the research lifecycle, including developing a research idea, designing a study, storing and analyzing collected data, and writing and publishing reports or papers.
+Como ejemplo, el [Open Science Framework](https://osf.io/) (OSF), desarrollado por Center for Open Science, es una herramienta de gestión de proyectos gratuita y de código abierto. El OSF apoya a los investigadores a lo largo de todo el ciclo de vida de sus proyectos mediante flujos de trabajo abiertos y centralizados. Captura diferentes aspectos y productos del ciclo de vida de la investigación, incluyendo el desarrollo de una idea de investigación, el diseño de un estudio, el almacenamiento y análisis de los datos recogidos, y la redacción y publicación de informes o artículos.
 
-The OSF is designed to be a collaborative platform where users can share research objects from several phases of a project. It supports a broad and diverse audience, including researchers that might not have been able to access certain resources due to historic socioeconomic disadvantages. The OSF also contains other tools in its own platform.
+El OSF está diseñado para ser una plataforma colaborativa en la que quienes la usan puedan compartir objetos de investigación de varias fases de un proyecto. Apoya a un público amplio y diverso, incluidas las personas que investigan que quizá no hayan podido acceder a determinados recursos debido a desventajas socioeconómicas históricas. El OSF también contiene otras herramientas en su propia plataforma.
 
 <img style="width:100%;height:auto;" src="../images/media/osfquote.jpg">
 
-"While there are many features built into the OSF, the platform also allows thirdparty add-ons or integrations that strengthen the functionality and collaborative nature of the OSF. These add-ons fall into two categories: citation management integrations and storage integrations. Mendeley and Zotero can be integrated to support citation management, while Amazon S3, Box, Dataverse, Dropbox, figshare, GitHub, and oneCloud can be integrated to support storage. The OSF provides unlimited storage for projects, but individual files are limited to 5 gigabytes (GB) each."
+"Si bien hay muchas funciones integradas en OSF, la plataforma también permite complementos o integraciones de terceros que fortalecen su funcionalidad y la naturaleza colaborativa. Estos complementos se dividen en dos categorías: integraciones de gestión de citas e integraciones de almacenamiento. Mendeley y Zotero pueden integrarse como soporte para la gestión de citas, mientras que Amazon S3, Box, Dataverse, Dropbox, figshare, GitHub y oneCloud pueden integrarse como soporte para el almacenamiento. El OSF proporciona almacenamiento ilimitado para proyectos, pero los archivos individuales están limitados a 5 gigabytes (GB) cada uno."
 
-**[Center for Open Science](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5370619/)**
+**[Centro para la ciencia abierta](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5370619/)**
 
 ---
 
-### Best Practices for a Project Registry
+### Mejores prácticas para un Registro de Proyecto
 
-It is common for different types of outputs to be preserved in different places to optimize discovery and reuse. An up-to-date Project Registry provides a quick overview of all the outputs. Best practices for managing a Project Registry include:
+Es habitual que los distintos tipos de resultados se conserven en lugares diferentes para optimizar su descubrimiento y reutilización. Un Registro de Proyecto actualizado proporciona una visión rápida de todos los resultados. Las mejores prácticas para gestionar un Registro de Proyecto incluyen:
 
-- Create and update a Project Registry in conjunction with preserving outputs (as described above) in the form of a spreadsheet or other type of list. This can be one registry for the entire project that is updated, or a new registry for each milestone.
-- Include in each registry entry a description of the object, preferred citation, and the persistent identifier (e.g., DOI), and any other useful information supporting the project. For outputs that do not have a persistent identifier, provide a URL and description.
-- Preserve the Project Registry as a project component. Many funders require in their yearly reports a list of both peer-reviewed publications and all project outputs. The Project Registry can be provided to the funder during the reporting process, or used as a tracking tool to assist with completing the report.
+- Crear y actualizar un Registro de Proyecto junto con la conservación de los resultados (como se ha descrito anteriormente) en forma de hoja de cálculo u otro tipo de lista. Puede tratarse de un registro actualizado para todo el proyecto o de un registro nuevo para cada meta.
+- Incluya en cada entrada del registro una descripción del objeto, la cita preferida y el identificador persistente (por ejemplo, DOI), así como cualquier otra información útil que respalde el proyecto. Para los resultados que no tengan un identificador persistente, facilitar una URL y una descripción.
+- Conservar el Registro del Proyecto como un componente de éste. Muchos financiadores requieren en sus informes anuales una lista tanto de las publicaciones revisadas por pares como de todos los resultados del proyecto. El Registro del Proyecto puede facilitarse al financiador durante el proceso de elaboración del informe, o utilizarse como herramienta de seguimiento para ayudar a completar el informe.
 
-### Managing Citations Using Reference Management Software
+### Gestión de citas utilizando software de gestión de referencias
 
-Keeping track of every paper you reference, every dataset you use, and every software library you build off of is critical. A single paper might cite dozens of references, and each new thing you produce only adds to that list. Reference Management Software can be employed to help you manage these references and automatically create a list of citations in whatever format you need (BibTeX, Word, Google docs, etc.).
+Es fundamental llevar un registro de todos los documentos a los que se hace referencia, de todos los conjuntos de datos que se utilizan y de todas las bibliotecas de software en las que se basa. Un solo artículo puede citar docenas de referencias, y cada cosa nueva que produzca no hará sino engrosar esa lista. El software de gestión de referencias puede ayudar a organizar estas referencias y crear automáticamente una lista de citas en el formato que se requiera (BibTeX, Word, Google Docs, etc.).
 
-While you are writing up results, keeping track of references and creating a correctly formatted bibliography can be overwhelming. A management software can keep track of references and can be shared with colleagues who are also working in the document.
+Durante la redacción de los resultados, hacer un seguimiento de las referencias y crear una bibliografía con el formato correcto puede resultar abrumador. Un software de gestión puede llevar un seguimiento de las referencias y puede compartirse con quienes también estén trabajando en el documento.
 
-Some of the common capabilities of reference management software are:
+Algunas de las funciones habituales de un software de gestión de referencias son:
 
-- Keep database of article metadata
-- Import article metadata from PDFs
-- Track datasets and software versions and DOIs
-- Create formatted references and bibliography for many different journal styles
+- Mantener la base de datos de los metadatos del artículo
+- Importar metadatos del artículo desde PDFs
+- Rastrear conjuntos de datos y versiones de software y DOIs
+- Crear referencias formateadas y bibliografía para muchos estilos de revistas diferentes
 
-Examples of reference management software include:
+Algunos ejemplos de software de gestión de referencias son:
 
 - Mendeley
 - EndNote
 - Zotero
 
-### Open Highlight: Zotero
+### _Zotero_
 
-Zotero helps manage software, data, and publication metadata and citations through a drag-and-drop interface. Researchers can use the tool to automatically generate citation files (for example, in BibTeX format).
+Zotero ayuda a gestionar metadatos y citas de software, datos y publicaciones a través de una interfaz de arrastrar y soltar. El equipo investigador puede utilizar esta herramienta para generar automáticamente archivos de citas (por ejemplo, en formato BibTeX).
 
-- Open Source
-- Drag and Drop PDFs to import metadata
-- Word + Browser plugins
-- Export citations to BibTeX
+- Código abierto
+- Arrastrar y soltar archivos PDF para importar metadatos
+- Word + plugins del navegador
+- Exportar citas a BibTeX
 
 <img src="../images/media/image53.jpeg" style="width:100%;height:auto;" />
 
-## Lesson 5: Summary
+## Lección 5: Resumen
 
-In this lesson you learned:
+En esta lección has aprendido:
 
-- Benefits of preprints and resources for open access journals.
-- Tools for reproducibility and replication of your studies.
-- Additional tools that are available to help manage open results including project management and reference management.
+- Beneficios de las preimpresiones y recursos para las revistas de acceso abierto.
+- Herramientas para la reproducibilidad y replicación de tus estudios.
+- Herramientas adicionales que están disponibles para ayudar a gestionar los resultados abiertos, incluyendo la gestión de proyectos y la gestión de referencias.
 
-## Lesson 5: Knowledge Check
+## Lección 5: Evaluación
 
-Answer the following questions to test what you have learned so far.
+Responde las siguientes preguntas para poner a prueba lo que has aprendido hasta ahora.
 
-_Question_
+Pregunta
 
 **01/03**
 
-Read the statement below and decide whether it's true or false:
+Lee la siguiente afirmación y decide si es verdadera o falsa:
 
-_Reproducibility means obtaining consistent computational results using the same input data, computational steps, methods, code, and conditions of analysis._
+Reproducibilidad significa obtener resultados computacionales consistentes utilizando los mismos datos de entrada, pasos computacionales, métodos, código y condiciones de análisis
 
-- True
-- False
+- Verdadero
+- Falso
 
-_Question_
+_Pregunta_
 
 **02/03**
 
-Which of the following steps would you take to manage a project registry for outputs? Select all that apply.
+¿Cuál de los siguientes pasos seguiríais para gestionar el registro de resultados de un proyecto? Selecciona todos los que correspondan? Selecciona todos los que correspondan.
 
-- Create and update a Project Registry in conjunction with preserving outputs in the form of a spreadsheet, or other type of list.
-- Include in each registry entry a description of the object, preferred citation, and the persistent identifier (e.g., DOI), and any other useful information supporting the project.
-- Preserve the Project Registry as a project component.
-- Log all outputs in a paper notebook
+- Crear y actualizar un registro del proyecto junto con la conservación de los resultados en forma de hoja de cálculo u otro tipo de lista.
+- Incluye en cada entrada del registro una descripción del objeto, la cita preferida y el identificador persistente (por ejemplo, DOI), así como cualquier otra información útil que respalde el proyecto.
+- Conserve el registro del proyecto como componente de éste.
+- Registra todos los resultados en un cuaderno de papel
 
-_Question_
+_Pregunta_
 
 **03/03**
 
-Which is NOT a capability of Reference Management Software?
+¿Cuál NO es una función del software de gestión de referencias?
 
-- Keep database of article metadata
-- Import article metadata from PDFs
-- Track datasets and software versions and DOIs
-- Create summaries of research articles
+- Mantener la base de datos de los metadatos del artículo
+- Importar metadatos de artículos desde PDFs
+- Rastrear conjuntos de datos y versiones de software y DOIs
+- Crear resúmenes de artículos de investigación
 
-## Open Tools and Resources Summary
+## Crear resúmenes de artículos de investigación
 
-Throughout this module, you learned about some of the concepts and tools that support the discovery and use of open research, that can be used to make data and software, and that can be used to share your results. These included:
+A lo largo de este módulo, has aprendido algunos de los conceptos y herramientas que apoyan el descubrimiento y el uso de la investigación abierta, que se pueden utilizar para hacer datos y software, y que se pueden utilizar para compartir sus resultados. Entre ellos se incluyen:
 
-- The foundational elements of open science, which includes research products such as data, code, and results.
-- Resources used to discover and assess research products for reuse, including repositories, search portals, publications, documentation, metadata, and licensing.
-- Making and sharing data that employs the FAIR principles by incorporating a data management plan, using persistent identifiers and citations, and utilizing the appropriate data formats and tools for making data and sharing results.
-- The use of the tools needed for development of software including source code, kernels, programming languages, third-party software and version control.
-- The tools and documentation types used for publishing and curating open software.
-- Resources for sharing research products including preprints, open access publications, reference management systems, and resources to support reproducibility.
+- Los elementos fundamentales de la ciencia abierta, que incluyen productos de investigación como datos, código y resultados.
+- Recursos usados para descubrir y evaluar resultados de investigación para reutilización, incluyendo repositorios, portales de búsqueda, publicaciones, documentación, metadatos y licencias.
+- La elaboración y puesta en común de datos que empleen los principios FAIR mediante la incorporación de un plan de gestión de datos, el uso de identificadores y citas persistentes, y la utilización de los formatos de datos y herramientas adecuados para la elaboración de datos y la puesta en común de resultados.
+- El uso de las herramientas necesarias para el desarrollo de software, incluidos el código fuente, los núcleos, los lenguajes de programación, el software de terceros y el control de versiones.
+- Las herramientas y tipos de documentación utilizados para publicar y gestionar software abierto.
+- Los recursos para compartir los productos de la investigación, incluidos los preimpresos, las publicaciones de acceso abierto, los sistemas de gestión de referencias y los recursos de apoyo a la reproducibilidad.

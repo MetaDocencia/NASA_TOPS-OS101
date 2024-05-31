@@ -1,141 +1,141 @@
-# Lesson 1: Introduction to the Process of Open Science
+# Lección 1: Introducción al Proceso de la Ciencia Abierta
 
-## Navigation
+## Contenidos
 
-- [Definition of Open Science and Research Products](#definition-of-open-science-and-research-products)
-- [Using Tools for Open Science in Practice](#using-tools-for-open-science-in-practice)
-- [Lesson 1: Summary](#lesson-1-summary)
-- [Lesson 1: Knowledge Check](#lesson-1-knowledge-check)
+- [Definición de Ciencia Abierta y Productos de Investigación](#definición-de-ciencia-abierta-y-productos-de-investigación)
+- [Utilizando Herramientas para Ciencia Abierta en la Práctica](#usando-herramientas-para-ciencia-abierta-en-la-práctica)
+- [Lección 1: Resumen](#lección-1-resumen)
+- [Lección 1: Revisión De Conocimientos](#lección-1-revisión-de-conocimientos)
 
-## Overview
+## Descripción general
 
-In this lesson you review the definition of open science and several other common terms including research products, data, software, and results. In addition, you will read examples that demonstrate how these open science tools are used in practice. The lesson wraps up with an example of how one group openly shared their data, results, software, and paper.
+En esta lección revisaremos la definición de ciencia abierta y algunos otros términos comunes, incluyendo productos de investigación, datos, software y resultados. Además, veremos ejemplos del uso en la práctica estas herramientas científicas abiertas. La lección concluye con un ejemplo de cómo un grupo compartió sus datos, resultados, software y artículo de forma abierta.
 
-## Learning Objectives
+## Objetivos de aprendizaje
 
-After completing this lesson, you should be able to:
+Al completar este módulo, serás capaz de:
 
-- Define common types of research products including data, software, and results.
-- List common ways to share data, code, and results while practicing open science.
+- Definir los tipos comunes de productos de investigación incluyendo datos, software y resultados.
+- Enumerar formas comunes de compartir datos, código y resultados al practicar la ciencia abierta.
 
-## Definition of Open Science and Research Products
+## Definición de Ciencia Abierta y Productos de Investigación
 
-### What is Open Science?
+### ¿Qué es la Ciencia Abierta?
 
 <img style="width:100%;height:auto;" src="../images/media/ostpquote.jpg">
 
-"Open Science is the principle and practice of making research products and processes available to all, while respecting diverse cultures, maintaining security and privacy, and fostering collaborations, reproducibility, and equity."
+"La Ciencia Abierta es el principio y la práctica que se llevan adelante para que tanto los procesos de la investigación científica como sus productos estén disponibles para todas las personas, respetando las diversas culturas, manteniendo la seguridad y la privacidad, y fomentando colaboraciones, reproducibilidad y equidad."
 
-**The White House Ofﬁce of Science and Technology Policy (OSTP) and the National Science and Technology Council (NSTC)**
+**La Oficina de Política de Ciencia y Tecnología de la Casa Blanca (OSTP) y el Consejo Nacional de Ciencia y Tecnología (NSTC)**
 
 ---
 
-### Open Research Products
+### Productos de Investigación Abiertos
 
-Scientific knowledge, or research products, take the form of:
+El conocimiento científico, o los productos de investigación, toman la forma de:
 
  <img src="../images/media/image5.png" style="width:350px;height:auto;" />
 
-### What is Data?
+### ¿Qué son los Datos?
 
 <img src="../images/media/image6.png" style="width:350px;height:auto;" />
 
-In general, data are pieces of information about a subject, including theoretical truths, raw measurements, or highly processed values.
+En general, los datos son fragmentos de información sobre un tema, incluidas verdades teóricas, mediciones en bruto o valores altamente procesados.
 
-There can even be data about data, called metadata. In our lessons, when we talk about data we are referring to scientifically or technically relevant information that can be stored digitally and accessed electronically such as:
+Incluso puede haber datos sobre los datos, denominados metadatos. En nuestras clases, cuando hablamos de datos nos referimos a información científica o técnicamente relevante que puede almacenarse digitalmente y a la que se puede acceder electrónicamente, como por ejemplo:
 
-- Information produced by missions and experiments, including calibrations, coefficients, and documentation
-- Information needed to validate scientific conclusions of peer-reviewed publications
+- Información producida por misiones y experimentos, incluidas calibraciones, coeficientes y documentación
+- Información necesaria para validar las conclusiones científicas de las publicaciones revisadas por pares
 
-Open data can have many characteristics, including rich and robust metadata and be made available in a range of formats. These characteristics are detailed more later in this module, and even further in the module on Open Data.
+Los datos abiertos pueden tener muchas características, incluyendo metadatos nutridos y sólidos, y estar disponibles en una variedad de formatos. Estas características se detallan más adelante en este módulo, y se desarrollan aún más en el módulo sobre Datos Abiertos.
 
-### What is Code?
+### ¿Qué es el Código?
 
-Many scientists write source code to produce software to analyze data or model observations. Code is a language that humans can type and understand. Software is often a collection of programs, data, and other information that a computer system uses to perform specific tasks. Scientists write and use many different types of software as part of their research.
+Muchos científicos escriben código fuente para producir software con el que analizar datos o modelar observaciones. El código es un lenguaje que los seres humanos pueden escribir y entender. El software suele ser un conjunto de programas, datos y otra información que un sistema informático utiliza para realizar tareas específicas. Los científicos escriben y utilizan muchos tipos distintos de software en el marco de sus investigaciones.
 
-**General Purpose Software** – Software produced for widespread use, not specialized scientific purposes. This encompasses both commercial software and open-source software.
+**Software de propósito general** - Software producido para un uso generalizado, no para fines científicos especializados. Esto incluye tanto el software comercial como el de código abierto.
 
-**Operational and Infrastructure Software** – Software used by data centers and large information technology facilities to provide data services.
+**Software Operativo y de Infraestructura** - Software utilizado por centros de datos y grandes instalaciones de tecnología de la información para proporcionar servicios de datos.
 
-**Libraries** – No creative process is truly complete until it manifests a tangible reality. Whether your idea is an action or a physical creation, bringing it to life will likely involve the hard work of iteration, testing, and refinement.
+**Bibliotecas** - Ningún proceso creativo está realmente completo hasta que se manifiesta en una realidad tangible. Tanto si nuestra idea es una acción como si es una creación física, es probable que darle vida implique un duro trabajo de iteración, pruebas y perfeccionamiento.
 
-Just be wary of perfectionism. Push yourself to share your creations with others. By maintaining an open stance, you’ll be able to learn from their feedback. Consider their responses new material that you can draw from the next time you’re embarking on a creative endeavor.
+Se debe desconfiar del perfeccionismo y animarnos a compartir nuestras creaciones con los demás. Al mantener una postura abierta, podremos aprender de los comentarios de otras personas. Sus respuestas pueden considerarse como nuevo material que podemos aprovechar la próxima vez que nos embarquemos en una tarea creativa.
 
-**Modeling and Simulation Software** – Software that either implements solutions to mathematical equations given input data and boundary conditions, or infers models from data.
+**Software de modelación y simulación** – Software que implementa soluciones a ecuaciones matemáticas a partir de datos de entrada y condiciones límite, o bien infiere modelos a partir de datos.
 
-**Analysis Software** – Software developed to manipulate measurements or model results to visualize or gain understanding.
+**Software de análisis** – Software desarrollado para manipular mediciones o resultados de modelos, para visualizarlos o comprenderlos.
 
-**Single-use Software** – Software written for use in unique instances, such as making a plot for a paper, or manipulating data in a specific way.
+**Software de un solo uso** - Software escrito para usarse en casos únicos, como por ejemplo hacer un gráfico para un artículo o manipular datos de una manera específica.
 
-Some of the tools that you can use to develop software are introduced in Lesson 4. Understanding how to find and use others' code, create your own, and share it are an important part of advancing science and covered in the module on Open Code.
+Algunas de las herramientas que se pueden utilizar para desarrollar software se presentan en la Lección 4. Comprender cómo encontrar y utilizar el código de otros, crear el propio y compartirlo, son partes importantes del avance de la ciencia y se tratan en el módulo sobre Código Abierto.
 
-### What are Results?
+### ¿Qué son los Resultados?
 
-Results capture the different research outputs of the scientific process. Publications are the most common type of results, but this can include a number of other types of products. Both data and software can be considered a type of result, but when we discuss results, we will focus on other types of results. Results can include the following:
+Los resultados capturan los distintos productos de investigación del proceso científico. Las publicaciones son el tipo más común de resultados, pero se pueden incluir otros tipos de productos. Aunque los datos y los programas informáticos pueden considerarse un tipo de resultado, aquí nos centraremos en otras clases de resultados. Estos pueden incluir:
 
-- Peer-reviewed publications
-- Computational notebooks
-- Blog posts
-- Videos and podcasts
-- Social media posts
-- Conference abstracts and presentations
-- Forum discussions
+- Publicaciones revisadas por pares
+- _Notebooks_  (cuadernos virtuales de programación)
+- Entradas de blog
+- Vídeos y podcasts
+- Publicaciones en redes sociales
+- Resúmenes y presentaciones en congresos
+- Foros de debate
 
-You may already be familiar with the research life cycle, but still unfamiliar with the types of results that can be shared openly throughout this process. When sharing results, we strive to be as open as possible, with the goal of increasing reproducibility, accessibility, and inclusion of our science. Throughout the research lifecycle, there are multiple opportunities to openly share different results that can lead to new collaborations and lines of inquiry. Additional details on the scope of open results are shared in Module 5 – Open Results.
+Puede que estemos familiarizados con el ciclo de vida de la investigación, pero aún desconozcamos los tipos de resultados que pueden compartirse abiertamente a lo largo de este proceso. Al compartir resultados, es importante ser lo más abiertos posible, con el objetivo de aumentar la reproducibilidad, la accesibilidad y la inclusión de nuestra ciencia. A lo largo del ciclo de vida de la investigación existen múltiples oportunidades para compartir abiertamente diferentes resultados, y estos pueden dar lugar a nuevas colaboraciones y líneas de investigación. En el Módulo 5 - Resultados abiertos, se ofrecen más detalles sobre el alcance de los resultados abiertos.
 
-## Using Tools for Open Science in Practice
+## Usando herramientas para la Ciencia Abierta en la práctica
 
-The following lessons in this module explore different tools and resources available to researchers for using, making, and sharing open science. As mentioned, it is important to think about how to integrate open science principles across all stages of the research process. Here is an overview of one way the various pieces might work together.
+Las siguientes lecciones de este módulo exploran diferentes herramientas y recursos a disposición de los investigadores para utilizar, crear y compartir la ciencia abierta. Como ya se ha dicho, es importante pensar en cómo integrar los principios de la ciencia abierta en todas las fases del proceso de investigación. Aquí daremos un panorama general de cómo podrían funcionar juntas las distintas piezas.
 
-### The Components of Open Science
+### Los componentes de la Ciencia Abierta
 
 <img src="../images/media/image7.png" style="width:100%;height:auto;" />
 
-The four principal components of open science can be organized in a pyramid of openly-shared research products.
+Los cuatro componentes principales de la ciencia abierta pueden organizarse en una pirámide de productos de investigación compartidos abiertamente.
 
-The research paper, closely tied to the results, sits at the top of the pyramid and summarizes how you’ve combined your software and your data to produce your results.
+El artículo de investigación, estrechamente vinculado a los resultados, se sitúa en la cúspide de la pirámide y resume cómo se han combinado el software y los datos para producir los resultados.
 
-The practice of sharing these components can occur at varying degrees of completeness. For the following guidance on how to share components of open science, we simplify the range of completeness to "good", "better", and "best." This range reflects one’s commitment to sharing open science at all steps in the research process and to all of its products.
+La práctica de compartir estos componentes puede darse en distintos grados de exhaustividad. Para las siguientes orientaciones sobre cómo compartir componentes de ciencia abierta, simplificamos el rango de exhaustividad a "bueno", "mejor" y "óptimo". Esta gama refleja nuestro compromiso de compartir la ciencia en todas las etapas del proceso de investigación y en todos sus productos.
 
-### Sharing Open Data
+### Compartir los Datos Abiertos
 
-Data can be easily shared through many different services - the best way for scientific data to be shared is often through a long term data repository that will both preserve your data and make it discoverable. The image provides some of the considerations when sharing the data through [Zenodo](https://zenodo.org/), a generalist data repository. These considerations would be similar for other data repositories. See Module 3 - Open Data for more details on sharing open data.
+Los datos pueden compartirse fácilmente a través de muchos servicios diferentes. La mejor forma de compartirlos suele ser a través de un repositorio de datos a largo plazo que los preserve y los haga accesibles. La imagen ofrece algunas consideraciones a la hora de compartir datos a través de [Zenodo](https://zenodo.org/), un repositorio de datos generalista. Estas consideraciones serían similares para otros repositorios de datos. Ver el Módulo 3 - Datos abiertos, para obtener más detalles sobre cómo compartir datos abiertos.
 
 <img src="../images/media/image8.png" style="width:100%;height:auto;" />
 
-### Sharing Open Code
+### Compartir código abierto
 
-When sharing open code, it is often through an online version controlled platform that allows others to contribute to the software and provides a history of changes to the software. For example, many researchers choose to post code files on  [GitHub](https://github.com/) with a BSD 3-Clause license. This permits others to contribute and reuse the software. Steps to preserve code and make it discoverable are discussed in Module 4 - Open Code.
+Cuando se comparte código abierto, con frecuencia se hace a través de una plataforma en línea de control de versiones que permite a otros contribuir al software y proporciona un historial de cambios en el mismo. Por ejemplo, muchos investigadores optan por publicar archivos de código en [GitHub](https://github.com/) con una licencia BSD (de 3 cláusulas). Esto permite a otros contribuir y reutilizar el software. Los pasos para preservar el código y hacerlo accesible se tratan en el Módulo 4 - Código Abierto.
 
  <img src="../images/media/image9.png" style="width:100%;height:auto;" />
 
-### Sharing an Open Paper
+### Compartir un artículo abierto
 
-Researchers can choose to publish in a journal with an open access license. Researchers can search for open access journals through the Directory of Open Access Journals (DOAJ). (See Module 5 - Open Results)
+Los investigadores pueden optar por publicar en una revista con licencia de acceso abierto. Para ello, puede utilizarse el Directorio de Revistas de Acceso Abierto (DOAJ) y encontrar revistas que ofrezcan esta opción. (Ver el Módulo 5 - Resultados Abiertos)
 
-### Sharing Open Results
+### Compartir Resultados Abiertos
 
-When sharing results, include your methodology that was used to produce results (i.e. the “provenance”) directly with your software. Software tends to evolve with time while the outputs of the software itself can retain some consistency. Therefore, sharing your methodology helps others to reproduce your aging results with newer software, even if the methodology to produce them can vary as the software evolves.
+Cuando compartimos resultados, es conveniente incluir la metodología utilizada para producirlos (es decir, la "procedencia") directamente con nuestro software. El software tiende a evolucionar con el tiempo, mientras que sus resultados pueden mantener cierta coherencia. Por lo tanto, compartir la metodología ayuda a otros a reproducir nuestros antiguos resultados con software más reciente, aunque los métodos para producirlos puedan variar a medida que el software evoluciona.
 
-### An Open Science Project Example
+### Un ejemplo de Proyecto Científico Abierto
 
-Here is an example of how one group openly shared their data, results, software, and paper; all with their own unique identifiers. Note that data and software can each have multiple identifiers, enabling others to cite all versions or one unique version.
+A continuación veremos un ejemplo de cómo un grupo de investigación compartió abiertamente sus datos, resultados y software tanto como el artículo resultante; todo esto con sus propios identificadores únicos. Hay que tener en cuenta que los datos y el software pueden tener varios identificadores, lo que permite a otros citar todas las versiones o una única versión.
 
 <img src="../images/media/image10.jpeg" style="width:100%;height:auto;" />
 
-Here, you can review the separate elements of the image above. Select "\<" and "\>" buttons to navigate.
+Aquí se pueden revisar los distintos elementos de la imagen anterior,  seleccionando los botones "\<" y "\>" para navegar.
 
 <img src="../images/media/image11.jpeg" style="width:100%;height:auto;" />
 
-**Data**
+**Datos**
 
-This version:  [https://doi.org/10.5281/zenodo.3688691](https://doi.org/10.5281/zenodo.3688691)
+Esta versión: [https://doi.org/10.5281/zenodo.3688691](https://doi.org/10.5281/zenodo.3688691)
 
-All versions:  [https://doi.org/10.5281/zenodo.3688690](https://doi.org/10.5281/zenodo.3688690)
+Todas las versiones: [https://doi.org/10.5281/zenodo.3688690](https://doi.org/10.5281/zenodo.3688690)
 
 <img src="../images/media/image12.jpeg" style="width:100%;height:auto;" />
 
-**Results**
+**Resultados**
 
 [https://doi.org/10.1175/JHM-D-19-0084.1](https://doi.org/10.1175/JHM-D-19-0084.1)
 
@@ -143,53 +143,53 @@ All versions:  [https://doi.org/10.5281/zenodo.3688690](https://doi.org/10.5281/
 
 Software
 
-This version:  [https://github.com/c-h-david/rapid](https://github.com/c-h-david/rapid)
+Esta versión: [https://github.com/c-h-david/rapid](https://github.com/c-h-david/rapid)
 
-All versions:  [https://doi.org/10.5281/zenod](https://doi.org/10.5281/zenod)
+Todas las versiones: [https://doi.org/10.5281/zenod](https://doi.org/10.5281/zenod)
 
-## Lesson 1: Summary
+## Lección 1: Resumen
 
-In this lesson, you learned:
+En esta lección hemos aprendido:
 
-- Scientific knowledge, or research products, take the form of: data, software, and results.
-- In general, data are pieces of information about a subject, including theoretical truths, raw measurements, or highly processed values.
+- El conocimiento científico o los productos de la investigación adoptan la forma de: datos, software y resultados.
+- En general, los datos son partes de información acerca de un tema, incluidas verdades teóricas, mediciones en bruto (informacion sin ningun proceso) o valores altamente procesados.
 
-## Lesson 1: Knowledge Check
+## Lección 1: Validación de conocimientos
 
-Answer the following questions to test what you have learned so far.
+Responda las siguientes preguntas para evaluar  lo que has aprendido hasta ahora.
 
-_Question_
+_Pregunta_
 
 **01/03**
 
-Read the statement below and decide whether it's true or false:
+Lea esta declaración antes de decidir si es verdadera o falsa:
 
-_Open Science is the principle and practice of making research products and processes available to all, while respecting diverse cultures, maintaining security and privacy, and fostering collaborations, reproducibility, and equity._
+_La ciencia abierta es el principio y la práctica de lograr que los productos y procesos de investigación estén disponibles para todos, mientras se respeta las diversas culturas, manteniendo la seguridad, privacidad, fomentando la colaboración, la reproducibilidad y la equidad._
 
-- True
-- False
+- Verdadero
+- Falso
 
-_Question_
+_Pregunta_
 
-**02/03**
+02/03
 
-What are the four principal outputs of open science? Select all that apply.
+¿Cuáles son los cuatro resultados principales de la ciencia abierta? Seleccione todas las que correspondan.
 
-- Budgets
-- Results
+- Costos / Presupuestos
+- Resultados
 - Inclusion
-- Data
-- Code
-- Paper
+- Fechas
+- Codigo
+- Manuscrito
 
-_Question_
+Pregunta
 
 **03/03**
 
-Which of the following is a type of software? Select all that apply.
+¿Cuál de los siguientes es un tipo de software? Seleccione todas las que correspondan.
 
-- General purpose
-- Operational and Infrastructure
-- Modeling and Simulation
-- Analysis
+- Propósito general
+- Operacional y de Infraestructura
+- Modelado y Simulación
+- Análisis
 - Material

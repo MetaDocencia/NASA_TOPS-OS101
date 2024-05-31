@@ -1,122 +1,120 @@
-# Lesson 2: General Tools for Open Science
+# Lección 2: Herramientas generales para la ciencia abierta
 
-## Navigation
+## Contenidos
 
-- [Introduction to Open Science Tools](#introduction-to-open-science-tools)
-- [Persistent Identifiers](#persistent-identifiers)
-- [Useful Open Science Tools](#useful-open-science-tools)
-- [Open Science and Data Management Plans](#open-science-and-data-management-plans)
-- [Lesson 2: Summary](#lesson-2-summary)
-- [Lesson 2: Knowledge Check](#lesson-2-knowledge-check)
+- [Introducción a las herramientas de ciencia abierta](#introduccion-a-las-herramientas-de-ciencia-abierta)
+- [Identificadores persistentes](#identificadores-persistentes)
+- [Herramientas útiles de ciencia abierta](#herramientas-utiles-de-ciencia-abierta)
+- [Planes de ciencia abierta y gestión de datos](#planes-de-ciencia-abierta-y-gestion-de-datos)
+- [Lección 2: Resumen](#leccion-2-resumen)
+- [Lección 2: Evaluación](#leccion-2-evaluacion)
 
-## Overview
+## Descripción general
 
-This lesson introduces you to the commonly used tools in open science. It starts out by providing a brief introduction to open science tools and describes persistent identifiers - one of the most common open science tools in use that ensures reproducibility, accessibility, and recognition of scientific products. This is followed by descriptions of other common open science tools that are applicable regardless of your field of study. The lesson wraps up with a description of open science and data management plans that is a key component to sharing your science throughout the research process.
+Esta lección presenta las herramientas de mayor uso en ciencia abierta. Inicia brindando una breve introducción a las herramientas de ciencia abierta y describe identificadores persistentes, una de las herramientas de ciencia abierta más comunes que garantiza la reproducibilidad, la accesibilidad y el reconocimiento de los productos científicos. Le siguen descripciones de otras herramientas comunes de ciencia abierta que son aplicables independientemente de su campo de estudio. Esta lección concluye con una descripción de la ciencia abierta y los planes de gestión de datos, los cuáles son un componente clave para compartir tu ciencia durante todo el proceso de investigación.
 
-## Learning Objectives
+## Objetivos de aprendizaje
 
-After completing this lesson, you should be able to:
+Después de completar esta lección, debería poder:
 
-- Recall the definition of open science tools.
-- Describe what a persistent identifier is and state an example.
-- List a few commonly used open science tools that support research.
-- List the components of an Open Science and Data Management Plan and what they include.
+- Recordar la definición de herramientas de ciencia abierta.
+- Describir qué es un identificador persistente y dar un ejemplo.
+- Enumerar algunas herramientas científicas abiertas comúnmente utilizadas que respaldan la investigación.
+- Enumerar los componentes de un Plan de Ciencia Abierta y Gestión de Datos y lo que incluyen.
 
-## Introduction to Open Science Tools
+## Introducción a las herramientas de ciencia abierta
 
-The word "tools" refers to any type of resource or instrument that can be used to support your research. In this sense, tools can be a collection of useful resources that you might consult during your research, software that you could use to create and manage your data, or even human infrastructure such as a community network that you join to get more guidance and support on specific matters.
+La palabra "herramientas" se refiere a cualquier tipo de recurso o instrumento que pueda utilizarse para respaldar su investigación. En este sentido, las herramientas pueden ser una colección de recursos útiles que puedas consultar durante tu investigación, software que podrías utilizar para crear y gestionar tus datos o incluso la infraestructura humana, como una red comunitaria a la que puedas unirte para obtener más orientación y apoyo en asuntos específicos.
 
-In this context, open science tools are any tools that enable and facilitate openness in research, and support responsible open science practices. It is important to note that open science tools are often open source and/or free to use, but not always.
+En este contexto, las herramientas de ciencia abierta son cualquier herramienta que permita y facilite la apertura en la investigación y apoye prácticas responsables de ciencia abierta. Es importante señalar que las herramientas de ciencia abierta suelen ser de código abierto y/o de uso libre, pero no siempre es así.
 
-Open science tools can be used for:
+Las herramientas de ciencia abierta se pueden utilizar para:
 
-- **Discovery** - Tools for finding content to use in your research.
-- **Analysis** - Tools to process your research output, e.g. tools for data analysis and visualization.
-- **Writing** - Tools to produce content, such as Data Management Plans, presentations, and preprints.
-- **Publications** - Tools to use for sharing and/or archiving research.
-- **Outreach** - Tools to promote your research.
+- **Descubrimiento** - Herramientas de descubrmiento de información para utilizar en tu investigación.
+- **Análisis** - Herramientas para procesar los resultados de tu investigación, por ejemplo, herramientas para el análisis de datos y su visualización.
+- **Redacción** - Herramientas para producir contenidos, como planes de gestión de datos, presentaciones y preprints.
+- **Publicaciones** - Herramientas para compartir y/o conservar investigaciones.
+- **Divulgación** - Herramientas para promocionar tu investigación.
 
-In this lesson, we introduce you to some of the most general open science tools such as persistent identifiers, metadata, documentation, and open science and data management plans. Regardless of the field of study, these tools and practices are some of the things that you will encounter as you use, make, or share your research. Read more about open science tools on [OpenSciency](https://opensciency.github.io/sprint-content/open-tools-resources/lesson1-intro-open-science-tools.html).
+En esta lección, te presentamos algunas de las herramientas más generales de la ciencia abierta como los identificadores persistentes, metadatos, documentación y planes de gestión de datos abiertos. Sin importar el campo de estudio, estas herramientas y prácticas son algunas de las cosas que encontrarás al utilizar, crear o compartir tu investigación. Lee más sobre las herramientas de ciencia abierta en [OpenSciency](https://opensciency.github.io/sprint-content/open-tools-resources/lesson1-intro-open-science-tools.html).
 
-## Persistent Identifiers
+## Identificadores Persistentes
 
-A digital persistent identifier (or "PID") is a “long-lasting reference to a digital resource” that is machine-readable and uniquely points to a digital entity, according to [ORCID](https://support.orcid.org/hc/en-us/articles/360006971013-What-are-persistent-identifiers-PIDs-) examples of persistent identifiers used in science are described below.
+Un identificador persistente digital (o _PID_ por sus siglas en inglés) es una "referencia duradera a un recurso digital" que es legible por máquinas y apunta de manera única a una entidad digital, según [ORCID](https://support.orcid.org/hc/en-us/articles/360006971013-What-are-persistent-identifiers-PIDs-). A continuación, se describen ejemplos de identificadores persistentes utilizados en el medio científico.
 
 ### ORCID
 
 <img style="width:350px;height:auto;" src="../images/media/m2orcidlogo.jpg">
 
-An "Open Researcher and Contributor Identifier" (ORCID) provides valid information about a person. Following are some key details about ORCIDs.
+El identificador único conocido como ORCID (en inglés, _Open Researcher and Contributor Identifier_) proporciona información válida sobre la identidad de una persona. A continuación, se enlistan algunos detalles clave sobre los ORCID.
 
-A free, nonproprietary numeric code that is:
+Un código numérico gratuito no propietario que:
 
-- Uniquely and persistently identifies authors and contributors of scholarly communication.
-- Similar to tax ID numbers for tax purposes.
+- Identifica de manera única y persistente a autores y colaboradores que participan en la producción de comunicaciones académicas.
+- Similar a los números de identificación fiscal para propósitos tributarios (dependiendo del país de residencia).
 
-ORCIDs are used to link Used to link researchers to their research and research-related outputs. It is a 16-digit number that uniquely identifies researchers and is integrated with certain organizations (like some publishers) that will add research products (such as a published paper) to an individual's ORCID profile. ORCIDs are meant to last throughout ones career, and helps to avoid confusion when information about a researcher changes over time (e.g. career change or name change). (cite: [https://orcid.org/](https://orcid.org/))
+Los ORCID se utilizan para vincular a los investigadores con sus investigaciones y productos relacionados con la investigación. Es un número de 16 dígitos que identifica individualmente a las personas investigan y que se integra con diferentes organizaciones, incluyendo editoriales, para vincular productos de investigación, como artículos publicados, al perfil ORCID de la persona investigadora. Los ORCID están diseñados para preservarse a lo largo de la carrera profesional de una persona, y ayudan a evitar confusiones cuando la información sobre la persona investigadora se actualiza con el tiempo (por ejemplo, cambio de carrera o de nombre). (cita: [https://orcid.org/](https://orcid.org/))
 
-Many publishers, academic institutes, and government bodies support ORCID. In 2023, ORCID reported over 1,300 member organizations and over 9 million yearly live accounts. You can connect it with your professional information (affiliations, grants, publications, peer review, and more).
+Gran cantidad de editoriales, institutos académicos y organismos gubernamentales respaldan la utilización de ORCID. En 2023, ORCID reportó más de 1,300 organizaciones miembros y más de 9 millones de cuentas activas anuales. Puedes vincularlo con tu información profesional (afiliaciones, subvenciones, publicaciones, revisión por pares y más).
 
-### Digital Object Identifiers (DOI)
+### Identificador de objeto digital (DOI)
 
-A DOI is a persistent identifier used to cite data, software, journal articles, and other types of media (including presentation slides, blog posts, videos, logos, etc.).
+Un DOI (por las siglas en inglés de _Digital Object Identifier_) es un identificador persistente utilizado para citar datos, software, artículos de revistas y otros tipos de medios (incluidos diapositivas de presentaciones, entradas de blogs, videos, logotipos, etc.).
 
-Unlike dynamic transient URLs, DOIs are static pointers to documents on the internet. Since a DOI is static, each new version of data or software that you want to cite will need a new DOI. Some DOI providers allow for one DOI to point to "all versions" and a series of individual DOIs for each specific version. Individuals cannot typically request a DOI themselves, but rather have to go through an authorized organization that can submit the request.
+A diferencia de las URLs, que suelen ser inconstantes o inestables, los DOI son referencias permanentes a documentos en internet. Dado a que un DOI es estático, cada nueva versión de datos o software que desees citar necesitará un nuevo DOI. Algunos proveedores de DOI permiten que un solo DOI refiera a "todas las versiones" del mismo objeto y a una serie de DOI individuales para cada versión específica. Normalmente, los individuos no pueden solicitar un DOI por sí mismos, sino que deben hacerlo a través de una organización intermediaria autorizada que pueda hacerlo por ellos.
 
-Making a DOI for your product ensures its longevity! This means, if you cite a DOI in a research paper, you can be confident that future readers will be able to follow that citation to its source, even if websites have completely changed in the meantime.
+¡Crear un DOI para tu producto de investigación puede asegurar su perdurabilidad! Esto significa que si citas un DOI en un artículo de investigación, puedes confiar en que quienes lo lean en el futuro podrán seguir esa cita hasta su fuente, incluso si los sitios web han cambiado completamente entretanto.
 
-For example, the DOI: [10.5067/TERRA-AQUA/CERES/EBAF-TOA_L3B004.1](https://doi.org/10.5067/TERRA-AQUA/CERES/EBAF-TOA_L3B004.1) will always resolve to a web page that explains what the CERES_EBAF-TOA_Edition4.1 data set is and how to download it. (See the screenshot below if you’re curious what this dataset actually is!)
+Por ejemplo, el DOI: [10.5067/TERRA-AQUA/CERES/EBAF-TOA_L3B004.1](https://doi.org/10.5067/TERRA-AQUA/CERES/EBAF-TOA_L3B004.1) siempre resolverá en una página web que explica qué es el conjunto de datos CERES_EBAF-TOA_Edition4.1 y cómo descargarlo. (¡Mira la captura de pantalla abajo si tienes curiosidad por saber qué es realmente este conjunto de datos!)
 
-DOIs are provided and maintained by the International Organization for Standardization ([I SO](https://www.iso.org/home.html)): [https://www.doi.org/](https://www.doi.org/).
+Los DOI son proporcionados y mantenidos por la Organización Internacional de Normalización ([ISO por sus siglas en inglés](https://www.iso.org/home.html)): [https://www.doi.org/](https://www.doi.org/).
 
 <img src="../images/media/image18.png" style="width:350px;height:auto;" />
 
-### Citations Using DOIs
+### Citación utilizando los DOI
 
  <img src="../images/media/image19.jpeg" style="width:100%;height:auto;" />
 
-DOIs make citing research products easier and more useful.
+Los DOI facilitan y hacen más práctica la citación de productos de investigación.
 
-Data repositories will typically instruct you on the exact way to cite their data, which includes the correct DOI. For example, let’s take a look at the CERES_EBAF-TOA_Edition4.1 data set mentioned above. This is an [example from the Atmospheric Science Data Center’s (ASDC) website](https://asdc.larc.nasa.gov/project/CERES/CERES_EBAF-TOA_Edition4.1/citation).
+Los repositorios de datos normalmente te ilustrarán sobre la manera exacta de cómo citar sus datos, lo cual incluye el DOI correcto. Por ejemplo, vamos a examinar el conjunto de datos CERES_EBAF-TOA_Edition4.1 mencionado anteriormente. Este es un [ejemplo del sitio web del Centro de Datos de Ciencias Atmosféricas (ASDC, por sus siglas en inglés)] (https://asdc.larc.nasa.gov/project/CERES/CERES_EBAF-TOA_Edition4.1/citation).
 
-### Activity 2.1: Find and Resolve a DOI
+### Actividad 2.1: Encontrar y resolver un DOI
 
-In this activity, you will search for a DOI for a data set or piece of software that you use, and you will then use the DOI website to “resolve” the DOI name. By "resolving", this means that you will be taken to the information about the product designated by that particular DOI.
+En esta actividad debes buscar el DOI para un conjunto de datos o un software que utilices y luego utilizarás el sitio web de DOI para “resolver” el nombre del DOI. Por "resolver" se entiende que serás dirigido a la información sobre el producto identificado por ese DOI específico.
 
-1. Find the DOI for a dataset or software you use often.
-   1. This should be listed either in the citation file, or in the website where that data/software is published.
-   2. If you can’t find a DOI, you can instead locate the DOI listed on this page: https://asdc.larc.nasa.gov/project/CERES/CERES_EBAF-TOA_Edition4.1
-2. Go to https://www.doi.org/ and scroll down to the bottom of the page to "TRY
-   RESOLVING A DOI NAME".
-3. Copy and paste the DOI you found into the form called "TRY RESOLVING A DOI
-   NAME".
-4. Click Submit.
-5. The page should automatically redirect you to a page that explains and contains the cited data.
+1. Encuentra el DOI para un conjunto de datos o software que uses frecuentemente.
+   1. Esto debería de localizarse ya sea en el archivo de citación o en el sitio web donde se publica ese conjunto de datos o software.
+   2. Si no puedes encontrar un DOI, en su lugar puedes localizar el DOI listado en esta página: https://asdc.larc.nasa.gov/project/CERES/CERES_EBAF-TOA_Edition4.1
+2. Ve a https://www.doi.org/ y desplázate hasta el fondo de la página hasta "TRY RESOLVING A DOI NAME" (INTENTE RESOLVER UN NOMBRE DOI).
+3. Copia y pega el DOI que encontraste en el campo debajo de "TRY RESOLVING A DOI NAME".
+4. Haz clic en Enviar.
+5. La acción debería redirigirte automáticamente a una página que explica y contiene el objeto citado.
 
-**Activity Takeaways: Find and Resolve a DOI**
+**Actividad para llevar: Encontrar y resolver un DOI**
 
-This activity will vary depending on which DOI you choose to use. However, if you used the example presented, you should find the DOI: 10.5067/TERRA-AQUA/CERES/EBAF-TOA_L3B004.1
+Esta actividad variará según el DOI que elijas utilizar. Sin embargo, si has utilizado el ejemplo presentado, debería encontrar el DOI: 10.5067/TERRA-AQUA/CERES/EBAF-TOA_L3B004.1
 
-And after step 5, you should end up back on the page https://asdc.larc.nasa.gov/project/CERES/CERES_EBAF-TOA_Edition4.1
+Y después del paso 5, deberías volver a la página https://asdc.larc.nasa.gov/project/CERES/CERES_EBAF-TOA_Edition4.1
 
-This is how easy it should be for your readers to find and use your citation information.
+Esto es lo fácil que debería ser para quienes lean tus artículos encontrar y utilizar la información de citación que les proporciones.
 
-### Examples of PIDs in Action
+### Ejemplos de Identificadores Persistentes (PID) en acción
 
 <img src="../images/media/image22.jpeg" style="width:100%;height:auto;" />
 
 <table>
   <thead>
     <tr>
-        <th>Example 1 ☑</th>
-        <th>Example 2</th>
-        <th>Example 3</th>
+        <th>Ejemplo 1 ☑</th>
+        <th>Ejemplo 2</th>
+        <th>Ejemplo 3</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>The necessity for a persistent identifier (PID) begins when a researcher writes code. To make the code searchable, the researcher uploads their code to a repository and registers a DOI for their script. Now others can review and use the code, and cite it properly.</p>
+            <p>La necesidad de un identificador persistente (PID) comienza cuando una persona investigadora escribe un código de programación. Para hacer posible la búsqueda del código, la persona investigadora sube su código a un repositorio y registra un DOI para su script. Ahora otros pueden valorar, usar el código y citarlo correctamente.</p>
         </td>
     </tr>
   </tbody>
@@ -125,15 +123,15 @@ This is how easy it should be for your readers to find and use your citation inf
 <table>
   <thead>
     <tr>
-        <th>Example 1</th>
-        <th>Example 2 ☑</th>
-        <th>Example 3</th>
+        <th>Ejemplo 1</th>
+        <th>Ejemplo 2 ☑</th>
+        <th>Ejemplo 3</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>A workshop planning committee collaboratively authors a paper that summarizes the results of a workshop. They collect the ORCIDs of everyone who participated in the workshop, and include them in the paper. Finally, they publish in an academic journal that automatically assigns the paper a DOI.</p>
+            <p>Un comité de planificación de un taller redacta de manera colaborativa un documento que resume los resultados de un taller. Recopilan los ORCID de todas las personas que participaron en el taller y los asientan en el documento. Finalmente, publican en una revista académica que automáticamente le asigna un DOI al artículo.</p>
         </td>
     </tr>
   </tbody>
@@ -142,86 +140,69 @@ This is how easy it should be for your readers to find and use your citation inf
 <table>
   <thead>
     <tr>
-        <th>Example 1</th>
-        <th>Example 2</th>
-        <th>Example 3 ☑</th>
+        <th>Ejemplo 1</th>
+        <th>Ejemplo 2</th>
+        <th>Ejemplo 3 ☑</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>A community scientist attends an online conference and gives a short talk. They deposit their slides in an online repository, then create a DOI to enable easy sharing with colleagues and straightforward citation.</p>
+            <p>Una persona que hace ciencia se presenta en una conferencia en línea y da una breve charla. Esta deposita sus diapositivas en un repositorio en línea, luego crea un DOI para facilitar su difusión entre colegas y propiciar su correcta citación.</p>
         </td>
     </tr>
   </tbody>
 </table>
 
-## Useful Open Science Tools
+## Herramientas útiles para la ciencia abierta
 
-### Metadata
+### Metadatos
 
-Metadata are data that describe your data, either accompanying your data as a separate file or embedded in your data file. They are often used to provide a standard set of general information about a dataset (e.g., data temporal/spatial coverage or data provider information) to enable easy use and interpretation of the data.
+Los metadatos son datos que describen tus datos, ya sea acompañando a tus datos como un archivo separado o incrustados en tus mismos archivos de datos. A menudo se utilizan para proporcionar un conjunto estándar de información general sobre un conjunto de datos (por ejemplo, cobertura temporal/espacial de datos o información del proveedor de datos) para permitir un fácil uso e interpretación de los datos.
 
-Metadata is essential to the implementation of FAIR Principles because it makes data searchable in an archive, provides context for future use, and presents a standard vocabulary.
+Los metadatos son esenciales para la implementación de los principios FAIR porque permiten que los datos se puedan buscar en un archivo, proporcionan contexto para uso futuro y presentan un vocabulario estándar.
 
-Metadata can be more readily shared than data - it usually does not contain restricted information and it is much smaller than the entire data set.
+Los metadatos se pueden compartir más fácilmente que los datos: normalmente no contienen información restringida y son mucho más pequeños que el conjunto de datos completo.
 
-### Purpose of Metadata
+### Propósito de los Metadatos
 
-Metadata can facilitate the assessment of dataset quality and data sharing by answering key questions, such as information about:
+Los metadatos pueden facilitar la evaluación de la calidad del conjunto de datos y el intercambio de datos respondiendo preguntas clave, como información sobre:
 
-- How data were collected and processed.
-- What variables/parameters are included in the dataset.
-- What variables are and what variables are related to.
-- Who collected the data (science team, organization, etc.).
-- How and where to find the data (e.g., DOI).
-- How to cite the data.
-- Which spatio-temporal region/time the data covers.
-- Any legal, guideline, or standard information about the data.
+- Cómo se recolectaron y procesaron los datos.
+- Qué variables/parámetros se incluyen en el conjunto de datos.
+- Qué variables son y con qué variables están relacionadas.
+- Quién recolectó los datos (equipo científico, organización, etc.).
+- Cómo y dónde encontrar los datos (por ejemplo, DOI).
+- Cómo citar los datos.
+- Qué región espacio-temporal / tiempo cubren los datos.
+- Toda información legal, pauta o estándar sobre los datos.
 
-Metadata enhances searchability and findability of the data by potentially allowing other machines to read and interpret datasets.
+Los metadatos mejoran la búsqueda y la accesibilidad de los datos permitiendo potencialmente que otras máquinas lean e interpreten los conjuntos de datos.
 
-According to  [The University of Pittsburgh](https://pitt.libguides.com/metadatadiscovery/metadata-standards), "A metadata standard is a high level document which establishes a common way of structuring and understanding data, and includes principles and implementation issues for utilizing the standard."
+De acuerdo con [La Universidad de Pittsburgh](https://pitt.libguides. om/metadatadiscovery/metadata-standards), "Un estándar de metadatos es un documento de alto nivel que establece una manera común de estructurar y entender los datos, e incluye principios y problemas de implementación para utilizar el estándar."
 
-Many standards exist for metadata fields and structures to describe general data information. It is a best practice to use a standard that is commonly used in your domain, when applicable, or that is requested by your data repository. Examples of metadata standards for different domains include:
+Existen muchos estándares para los campos y estructuras de metadatos para describir la información general de los datos. Es una buena práctica usar un estándar que se utiliza comúnmente en tu dominio, cuando sea aplicable, o que sea solicitado por su repositorio de datos. Algunos ejemplos de estándares de metadatos para diferentes dominios incluyen:
 
-- [CF Metadata Conventions](https://cfconventions.org/)
-- [World Meteorological Organization WIS 2.0](https://community.wmo.int/en/activity-areas/wis/wis2-implementation)
-- [GeneLab Working Group](https://genelab.nasa.gov/awg/members)
+- [Convenciones de metadatos de CF](https://cfconventions.org/)
+- [Organización Meteorológica Mundial WIS 2.0](https://community.wmo.int/es/activity-areas/wis/wis2-implementation)
+- [Grupo de trabajo de GeneLab](https://genelab.nasa.gov/awg/members)
 
-### Types of Metadata
+### Tipos de Metadatos
 
-There are different types/categories of metadata addressing different purposes:
+Hay diferentes tipos/categorías de metadatos que abordan diferentes propósitos:
 
  <table>
   <thead>
     <tr>
-        <th>Descriptive Metadata ☑</th>
-        <th>Structural Metadata</th>
-        <th>Administrative Metadata</th>
+        <th>Metadatos Descriptivos ☑</th>
+        <th>Metadatos Estructurales</th>
+        <th>Metadatos Administrativos</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>Descriptive metadata can contain information about the context and content of your data, such as variable definition, data limitation, measurement/ sampling description, abstract, title, and subject keywords.</p>
-        </td>
-    </tr>
-  </tbody>
-</table>
-
- <table>
-  <thead>
-    <tr>
-        <th>Descriptive Metadata</th>
-        <th>Structural Metadata ☑</th>
-        <th>Administrative Metadata</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td colspan="3">
-            <p>Structural metadata are used to describe the structure of the data (e.g., file format, the dataset hierarchy, and dimensions).</p>
+            <p>Los metadatos descriptivos pueden contener información sobre el contexto y el contenido de sus datos, tales como la definición de variables, limitación de datos, descripción de medición/muestreo, resumen, título y palabras claves del tema.</p>
         </td>
     </tr>
   </tbody>
@@ -230,44 +211,61 @@ There are different types/categories of metadata addressing different purposes:
  <table>
   <thead>
     <tr>
-        <th>Descriptive Metadata</th>
-        <th>Structural Metadata</th>
-        <th>Administrative Metadata ☑</th>
+        <th>Metadatos Descriptivos</th>
+        <th>Metadatos estructurales ☑</th>
+        <th>Metadatos Administrativos</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>Administrative metadata explains the information used to manage the data (e.g., when and how it was created, which software and the version of the software used in data creation).</p>
+            <p>Los metadatos estructurales se utilizan para describir la estructura de los datos (por ejemplo, el formato de archivo, la jerarquía de datos y las dimensiones).</p>
         </td>
     </tr>
   </tbody>
 </table>
 
-### Documentation
+ <table>
+  <thead>
+    <tr>
+        <th>Metadatos Descriptivos</th>
+        <th>Metadatos Estructurales</th>
+        <th>Metadatos Administrativos ☑</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td colspan="3">
+            <p>Los metadatos administrativos explican la información utilizada para administrar los datos (p. ej. cuándo y cómo fue creado, qué software y la versión del software utilizado en la creación de datos).</p>
+        </td>
+    </tr>
+  </tbody>
+</table>
 
-Documenting the production and management of your science benefits both you and those that might use your data, code, or results in the future. You are your own best collaborator. Documentation can save you from a headache should you need to reference or reuse your work in six months or attempt to recall meticulous details about your process later on. Properly documented research products increase their usability.
+### Documentación
 
-Types of documentation include (many of which will be expanded upon later in this curriculum):
+Documentar la producción y gestión de tu ciencia beneficia tanto a ti como a aquellos que puedan usar tus datos, código o resultados en el futuro. Tú eres tu mejor colaborador. La documentación puede salvarle de un dolor de cabeza si necesita hacer referencia o reutilizar su trabajo en seis meses o intentar recordar detalles meticulosos sobre su proceso más adelante. Los productos de investigación debidamente documentados incrementan su usabilidad.
+
+Los tipos de documentación incluyen (muchos de los cuales serán ampliados más adelante en este currículo):
 
  <table>
   <thead>
     <tr>
-        <th>Data ☑</th>
+        <th>Datos ☑</th>
         <th>Software</th>
-        <th>Results</th>
+        <th>Resultados</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-        <p>Summary of the data (e.g., as a README file or user guide) that answers questions such as:</p>
+        <p>Resumen de los datos (por ejemplo, como un archivo LEEME o guía de usuario) que responde preguntas como:</p>
         <ul>
-            <li>What are known errors for these data?</li>
-            <li>How can this data be used?</li>
-            <li>How were the data collected?</li>
+            <li>¿Cuáles son los errores conocidos para estos datos?</li>
+            <li>¿Cómo se pueden utilizar estos datos?</li>
+            <li>¿Cómo se recolectaron los datos?</li>
         </ul>
-        <p>Associated publications – how did others use these data?</p>
+        <p>Publicaciones asociadas – ¿cómo utilizaron otros estos datos?</p>
         </td>
     </tr>
   </tbody>
@@ -276,18 +274,18 @@ Types of documentation include (many of which will be expanded upon later in thi
 <table>
   <thead>
     <tr>
-        <th>Data</th>
+        <th>Datos</th>
         <th>Software ☑</th>
-        <th>Results</th>
+        <th>Resultados</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>README files: Basic installation and usage instructions.</p>
-            <p>Inline comments in code: Annotations on code components.</p>
-            <p>Release notes: What is new in this version?</p>
-            <p>Associated publications: How did others use this software?</p>
+            <p>Archivos LEEME: Instrucciones básicas de instalación y uso.</p>
+            <p>Comentarios en línea en el código: Anotaciones sobre componentes de código.</p>
+            <p>Notas de la versión: ¿Qué hay de nuevo en esta versión?</p>
+            <p>Publicaciones asociadas: ¿Cómo utilizaron otros este software?</p>
         </td>
     </tr>
   </tbody>
@@ -296,71 +294,53 @@ Types of documentation include (many of which will be expanded upon later in thi
 <table>
   <thead>
     <tr>
-        <th>Data</th>
+        <th>Datos</th>
         <th>Software</th>
-        <th>Results ☑</th>
+        <th>Resultados ☑</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>Associated publications: What was the research process?</p>
-            <p>Packages of data and software for regenerating results.</p>
+            <p>Publicaciones asociadas: ¿Cuál fue el proceso de investigación?</p>
+            <p>Paquetes de datos y software para la regeneración de resultados.</p>
         </td>
     </tr>
   </tbody>
 </table>
 
-### Repositories
+### Repositorios
 
-Repositories are storage locations for data, results, code and compiled software, providing the most common way to share and find each of these components. In general, you want to use a long term repository that will independently host and store your data making sure that it is both shared and preserved. Different kinds of repositories serve different purposes. For example, Zenodo acts as an archiving repository for individual version releases of data, software, and publications.
+Los repositorios son lugares de almacenamiento de datos, resultados, código y software compilado, proporcionando la forma más común de compartir y encontrar cada uno de estos componentes. En general, se desea utilizar un repositorio a largo plazo que alojará y almacenará sus datos de forma independiente, asegurándose de que se comparten y conservan. Los diferentes tipos de repositorios sirven para diferentes propósitos. Por ejemplo, Zenodo actúa como un repositorio de archivos para versiones individuales de datos, software y publicaciones.
 
-Different types of repositories:
+Diferentes tipos de repositorios:
 
-- General repositories
-- Domain-specific repositories
-- Institutional repositories
-- National repositories
+- Repositorios generales
+- Repositorios específicos de dominios
+- Repositorios institucionales
+- Repositorios nacionales
 
-Users should select repositories based on their needs. See the lessons in the rest of this module and Modules 3-5 for more details.
+Los usuarios deben seleccionar los repositorios basados en sus necesidades. Vea las lecciones del resto de este módulo y los módulos 3-5 para más detalles.
 
-### Pre-registration
+### Pre-registro
 
-Pre-registration is the process by which a researcher documents their research plans in an open access format prior to the start of a project. This provides a locked, time-stamped proof of the origin of a concept. Pre-registration is currently more widely adopted by certain disciplines, particularly the social sciences.
+El Pre-registro es el proceso mediante el cual un investigador documenta sus planes de investigación en un formato de acceso abierto antes del inicio de un proyecto. Esto proporciona una prueba bloqueada y fechada del origen de un concepto. En la actualidad, el preregistro es más ampliamente adoptado por ciertas disciplinas, en particular las ciencias sociales.
 
-Types of Pre-Registration Include:
+Los tipos de Pre-Registro incluyen:
 
 <table>
   <thead>
     <tr>
-        <th>Standard Pre-registration ☑</th>
-        <th>Registered Reports</th>
-        <th>Registered Replication Report</th>
-        <th>Sharing Grant Proposals</th>
+        <th>Pre-registro estándar ☑</th>
+        <th>Reportes Registrados</th>
+        <th>Reporte de Replicación Registrado</th>
+        <th>Compartiendo Propuestas de Subsidios</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="4">
-            <p>An investigator documents their plans in writing and submits them to a pre-registration service. This documents the researcher’s plans prior to undertaking the research, and provides investigators and reviewers with a way to distinguish a priori hypotheses from post-hoc exploratory analyses. The document may be kept private for some period of time, but is usually made public upon submission of the manuscript for publication.</p>
-        </td>
-    </tr>
-  </tbody>
-</table>
-
-<table>
-  <thead>
-    <tr>
-        <th>Standard Pre-registration</th>
-        <th>Registered Reports ☑</th>
-        <th>Registered Replication Report</th>
-        <th>Sharing Grant Proposals</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td colspan="4">
-            <p>An investigator writes a manuscript describing the motivation for a study and a detailed description of the methods, and submits it to a journal for peer review prior to undertaking the research. The manuscript is reviewed based on the importance of the research question and the quality of the methods. If accepted, the journal agrees to publish the paper regardless of the results, assuming that there are no problems with the implementation of the methods.</p>
+            <p>El equipo investigador documenta sus planes por escrito y los envía a un servicio de pre-registro. Esto documenta los planes del equipo investigador antes de llevar a cabo la investigación, y proporciona tanto a los equipos de investigadores como revisores, una manera de distinguir entre las hipótesis a priori y los análisis exploratorios post-hoc. El documento puede mantenerse privado durante algún tiempo, pero normalmente se hace público cuando se envía el manuscrito para su publicación.</p>
         </td>
     </tr>
   </tbody>
@@ -369,16 +349,16 @@ Types of Pre-Registration Include:
 <table>
   <thead>
     <tr>
-        <th>Standard Pre-registration</th>
-        <th>Registered Reports</th>
-        <th>Registered Replication Report ☑</th>
-        <th>Sharing Grant Proposals</th>
+        <th>Pre-registro Estándar</th>
+        <th>Reportes Registrados ☑</th>
+        <th>Reporte de Replicación Registrado</th>
+        <th>Compartiendo Propuestas de Subsidios</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="4">
-            <p>A type of registered report in which the investigators wish to attempt to replicate a particular published finding, usually involving multiple research sites.</p>
+            <p>El equipo investigador escribe un manuscrito que describe la motivación para un estudio y una descripción detallada de los métodos, y lo envía a una revista para la revisión por pares antes de emprender la investigación. El manuscrito es revisado en base a la importancia de la pregunta de investigación y la calidad de los métodos. Si se acepta, la revista acuerda publicar el artículo sin importar los resultados, suponiendo que no haya problemas con la implementación de los métodos.</p>
         </td>
     </tr>
   </tbody>
@@ -387,229 +367,243 @@ Types of Pre-Registration Include:
 <table>
   <thead>
     <tr>
-        <th>Standard Pre-registration</th>
-        <th>Registered Reports</th>
-        <th>Registered Replication Report</th>
-        <th>Sharing Grant Proposals ☑</th>
+        <th>Pre-registro Estándar</th>
+        <th>Reportes Registrados</th>
+        <th>Reporte de Replicación Registrado ☑</th>
+        <th>Compartiendo Propuestas de Subsidios</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Another way to document and timestamp research plans and concepts is to share funded grant proposals publicly. This has the added benefit of making the funding process more transparent, and providing examples of successful grant proposals for other researchers, particularly those in their early career stage.</p>
+            <p>Un tipo de reporte registrado en el que el equipo investigador desea intentar replicar un hallazgo publicado en particular, generalmente involucrando múltiples sitios de investigación.</p>
         </td>
     </tr>
   </tbody>
 </table>
 
-### Why is Pre-Registration Important?
+<table>
+  <thead>
+    <tr>
+        <th>Pre-registro Estándar</th>
+        <th>Reportes Registrados</th>
+        <th>Reporte de Replicación Registrado</th>
+        <th>Compartiendo Propuestas de Subsidios ☑</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td colspan="4">
+            <p>Otra forma de documentar y fechar los planes de investigación y conceptos es compartir públicamente las propuestas de subsidios financiadas. Esto tiene el beneficio añadido de hacer que el proceso de financiación sea más transparente, y ofreciendo ejemplos de propuestas de subsidios exitosas para otros equipos investigadores, en particular los que se encuentran en su fase temprana de la carrera.</p>
+        </td>
+    </tr>
+  </tbody>
+</table>
 
-- It forces the researcher to plan and think through both why and how they are pursuing their research question.
-- It provides the researcher with a way to determine whether a hypothesis was truly held a priori, versus relying upon memory.
-- It forces the researcher to think through their analysis plan in more detail, potentially surfacing issues that could influence the design of the study.
-- It helps prevent unethical manipulation of data analyses and project design to yield statistically relevant results.
-- Helps prevent selective reporting of measures.
+### ¿Por qué es importante el pre-registro?
 
-### When Can/Should One Pre-Register Their Research?
+- Forza al equipo investigador a planificar y considerar detalladamente tanto por qué y cómo están llevando a cabo su pregunta de investigación.
+- Proporciona a la persona que investiga una manera de determinar si una hipótesis realmente se celebró a priori frente a confiar en la memoria.
+- Forza al equipo investigador a reflexionar sobre su plan de análisis con más detalle, potencialmente surgiendo cuestiones que podrían influir en el diseño del estudio.
+- Ayuda a prevenir la manipulación no ética de los análisis de datos y el diseño de proyectos para obtener resultados estadísticamente relevantes.
+- Ayuda a evitar la notificación selectiva de medidas.
 
-A planned research activity can be pre-registered at any point, as long as the particular activity being registered has not started. However, there are several points at which registration is most common:
+### Cuándo Uno Puede/Debe Pre-Regristar Sus Investigaciones?
 
-- Prior to the collection of data for a project
-- Prior to analysis of an existing or openly available dataset
+Una actividad de investigación planificada puede ser pre-registrada en cualquier momento, siempre y cuando la actividad particular que se registra no haya comenzado. Sin embargo, existen varios puntos en los que el registro es más común:
 
-Source: [ Registration — Stanford Psychology Guide to Doing Open Science (poldrack.github.io)](https://poldrack.github.io/psych-open-science-guide/1_preregistration.html)
+- Antes de la recolección de datos para un proyecto
+- Antes del analisis de un conjunto de datos existente o abiertamente disponible
 
-A 2023 [Nature survey](https://www.nature.com/articles/s41467-023-41111-1) on researcher attitudes towards open science practices found that about 88% of respondents favor sharing data or code online while only 58% support pre-registration. This moderate support for pre-registration among respondents suggests that awareness of its benefits and lingering concerns remain issues. In the next section, we introduce a method to strategize how to best implement open science from the beginning of a study to its end.
+Fuente: [ Registration — Guía de Psicología de Stanford para Doing Open Science (poldrack.github.io)](https://poldrack.github.io/psych-open-science-guide/1_pregistration.html)[video]
 
-## Open Science and Data Management Plans
+[Encuesta sobre Naturaleza de 2023](https://www.nature. om/articles/s41467-023-41111-1) sobre actitudes de las personas que investigan hacia las prácticas científicas abiertas determinó que alrededor del 88% de las personas encuestadas están a favor de compartir datos o código en línea, mientras que sólo el 58% apoya el pre-registro. Este apoyo moderado al pre-registro entre las personas encuestadas sugiere que la conciencia de sus beneficios y preocupaciones persistentes sigue siendo un problema. En la siguiente sección, introducimos un método para elaborar estrategias sobre cómo implementar mejor la ciencia abierta desde el comienzo de un estudio hasta su fin.
 
-To successfully use, make, and share science openly, we need an open science and data management plan (OSDMP).
+## Ciencia Abierta y Planes de Gestión de Datos
 
-- From day 1, establish a plan for management, preservation, and release of data, software, and results.
-- This plan is your blueprint for open science - refer to your plan often to ensure you succeed in your goal of openness.
+Para usar, hacer y compartir con éxito la ciencia abiertamente, necesitamos un plan abierto de ciencia y gestión de datos (PACGD).
 
-We'll discuss each component (data, software, & results) when we cover each topic.
+- Desde el día 1, establezca un plan para la gestión, conservación y publicación de datos, software y resultados.
+- Este plan es tu plano para la ciencia abierta - consulta tu plan a menudo para asegurarte de tener éxito en tu objetivo de apertura.
 
-**Note: Many funding opportunities (e.g., NASA ROSES) require an OSDMP as part of your proposal. For more information on NASA Science Mission Directorate’s (SMD's) policies, please [see NASA Guidance on Management Plans](https://smd-cms.nasa.gov/wp-content/uploads/2023/07/smd-open-source-science-guidance-v2-20230407.pdf) and [Open Source Science Guidance for Researchers.](https://smd-cms.nasa.gov/wp-content/uploads/2023/07/smd-open-source-science-guidance-v2-20230407.pdf)**
+Discutiremos cada componente (datos, software y resultados) cuando cubramos cada tema.
 
-### Design Your Science to be Open
+**Nota: Muchas oportunidades de financiación (por ejemplo, NASA ROSES) requieren un PACGD como parte de su propuesta. Para obtener más información sobre las políticas del Directorio de Misión de Ciencia de la NASA (SMD's), por favor [vea la Guía de la NASA sobre Planes de Administración](https://smd-cms.nasa.gov/wp-content/uploads/2023/07/smd-open-source-science-guidance-v2-20230407.pdf) y [Guía de Ciencia de Código Abierto para Investigadores.](https://smd-cms.nasa.gov/wp-content/uploads/2023/07/smd-open-source-science-guidance-v2-20230407.pdf)**
 
-Funding organizations and agencies around the world are beginning to require open science plans. In this curriculum, we will focus on the NASA Open Science and Data Management Plan. These plans are not unique to NASA. Knowing how to write one for NASA should prepare you for almost any funding opportunity.
+### Diseña Tu Ciencia para que sea Abierta
 
-The OSDMP describes how the scientific information that will be produced from scientific activities will be managed and made openly available. Specifically, a plan should include sections on data management, software management, and publication sharing. If your study has other types of outputs, such as physical samples, hardware, or anything else, you should include those in the plan. An OSDMP helps researchers think about the details of how they plan to share results.
+Organizaciones y agencias de financiamiento alrededor del mundo están empezando a exigir planes de ciencia abierta. En este plan de estudios, nos centraremos en el Plan de Ciencia Abierta y Gestión de Datos de la NASA (PCAGD) (en inglés, Open Science and Data Management Plan, OSDMP). Los planes de ciencia abierta no son exclusivos de la NASA. Sin embargo, saber cómo escribir uno para esta agencia debería prepararte para casi cualquier oportunidad de financiamiento.
 
-A well written OSDMP can help you win funding because it demonstrates your skills at doing open science!
+El PCAGD describe cómo se gestiona y se pone a disposición del público la información que se produce a partir de actividad científica. Específicamente, un plan de estas características debe incluir secciones sobre gestión de datos, gestión de software y difusión de publicaciones. Si su estudio tiene otros tipos de resultados, tales como muestras físicas, hardware o cualquier otra cosa, debe incluirlos en el plan. Un PCAGD ayuda a los investigadores a pensar en los detalles sobre la forma en que planean compartir los resultados.
+
+¡Un PCAGD bien escrito puede ayudarte a obtener financiamiento porque demuestra tus habilidades para hacer ciencia abierta!
 
  <img src="../images/media/image24.png" style="width:100%;height:auto;" />
 
-Example sections to include in an OSDMP:
+Secciones de ejemplo para incluir en un PCAGD:
 
-1. Data Management Plan (DMP)
-2. Software Management Plan (SMP)
-3. Publication sharing
-4. Other open science activities
-5. Roles and responsibilities
+1. Plan de Gestión de Datos (PGD) (en inglés, Data Managemente Plan, DMP)
+2. Plan de Gestión de Software (PGS) (en inglés, Software Management Plan, SMP)
+3. Difusión de Publicaciones
+4. Otras actividades de ciencia abierta
+5. Roles y responsabilidades
 
-The steps for each of these sections should include:
+Los pasos para cada una de estas secciones deben incluir:
 
-- What?
-  - Description of types of materials that will be
-    produced
-- When?
-  - The schedule for archiving and sharing
-- Where?
-  - The repository(ies) and archives that will be
-    used to share materials
-- How?
-  - The details of how to enable reuse of
-    materials (eg. licensing, documentation,
-    metadata)
-- Who?
-  - Roles and responsibilities of the team members
+- ¿Qué?
+  - Descripción de los tipos de materiales que se producirán
+- ¿Cuando?
+  - El cronograma para archivar y compartir
+- ¿Dónde?
+  - Los repositorios y archivos que se utilizarán para compartir materiales
+- ¿Cómo?
+  - Los procedimientos de permiso para la reutilización de materiales (por ejemplo, licencias, documentación, metadatos)
+- ¿Quién?
+  - Roles y responsabilidades de los miembros del equipo
 
-### Data Management Plan
+### Plan de Gestión de Datos
 
-Every major research foundation and federal government agency now requires scientists to file a data management plan (DMP) along with their proposed research plan. Data and other elements such as code and publications have their own lifecycle and workflow, which need to be in the plan. DMPs are a critical aspect of open science and help keep other researchers informed and on track throughout the data management lifecycle.
+Las principales fundaciones y agencias de gobierno exigen en la actualidad que los científicos presenten un Plan de Gestión de Datos (PGD) junto con la propuesta de su plan de investigación. Los datos y otros elementos, como el código y las publicaciones, tienen su propio ciclo de vida y flujo de trabajo, que deben estar incluidos en el plan. Los PGD son un aspecto crítico de la ciencia abierta y ayudan a mantener a otros investigadores informados y encaminados durante todo el ciclo de la gestión de datos.
 
-DMPs that are successful typically include a clear terminology about FAIR and CARE principles and how they will be applied.
+Los PGD que tienen éxito suelen incluir una terminología clara sobre los principios FAIR y CARE y cómo se aplicarán.
 
-The data management lifecycle is typically circular. Research data are valuable and reusable long after the project's financial support ends. Data reuse can extend beyond our own lifetimes. Therefore, when designing a project or supporting an existing corpus of data, we need to remain cognizant of what happens to the data after our own research interaction ends.
+El ciclo de vida de la gestión de datos es típicamente circular. Los datos de la investigación son de gran valor y se pueden reutilizar mucho tiempo después de que finalice el proyecto. La reutilización de datos puede extenderse más allá de nuestra propia vida. Por lo tanto, al diseñar un proyecto o respaldar un corpus de datos existente, debemos ser conscientes de lo que sucede con los datos una vez finalizada nuestra propia relación con la investigación.
 
-Data management plans typically include the following:
+Los planes de gestión de datos suelen incluir lo siguiente:
 
-- Descriptions of the data expected to be produced from the proposed activities, including types of data to be produced, the approximate amount of each data type expected, the machine-readable format of the data, data file format, and any applicable standards for the data or associated metadata.
-- The repository (or repositories) that will be used to archive data and metadata arising from the activities and the schedule for making data publicly available.
-- Description of data types that are subject to relevant laws, regulations, or policies that exclude them from data sharing requirements.
-- Roles and responsibilities of project personnel who will ensure implementation of the data management plans.
+- La descripción de los datos que se espera producir a partir de las actividades propuestas, incluyendo los tipos de datos que se producirán, la cantidad aproximada prevista para cada tipo de datos, el formato de lectura de los datos, el formato del archivo de datos y cualquier norma aplicable a los datos o metadatos asociados.
+- El repositorio (o repositorios) que se utilizará para archivar los datos y metadatos que surjan de las actividades y el cronograma para ponerlos a disposición del público.
+- Descripción de los tipos de datos que están sujetos a leyes, regulaciones o políticas relevantes que los excluyen de los requisitos de intercambio.
+- Roles y responsabilidades del personal del proyecto que garantizará la implementación de los planes de gestión de datos.
 
-### Software Management Plan
+### Plan de Gestión de Software
 
-Software management plans describe how software will be managed, preserved, and released as part of the scientific process. This helps ensure transparency and reproducibility in the scientific process. Module 4 on Open Code shares more details about the importance of sharing code as part of the scientific process.
+Los planes de gestión de software describen cómo se gestionará, publicará y preservará el software como parte del proceso científico. Esto ayuda a garantizar la transparencia y la reproducibilidad en el proceso científico. El Módulo 4 sobre Código Abierto incluye más detalles sobre la importancia de compartir código como parte del proceso científico.
 
-General components of a software management plan:
+Componentes generales de un plan de gestión de software:
 
-- Description of the software.
-- Repository(ies) and archive(s) in which software will be shared.
-- Sharing guidelines.
-- Personnel roles and responsibilities.
-- Any community-specific information of note.
+- Descripción del software.
+- Repositorio(s) y archivo(s) en los que se compartirá el software.
+- Pautas para compartir.
+- Roles y responsabilidades del personal.
+- Cualquier información destacable específica de la comunidad.
 
-At a minimum, a software management plan for SMD-funded research should include:
+Como mínimo, un plan de gestión de software para investigaciones financiadas debe incluir:
 
-- Description of the software expected to be produced from the proposed activities, including types of software to be produced, how the software will be developed, and the addition of new features or updates to existing software. This can include the platforms used for development, project management, and community-based best practices to be included such as documentation, testing, dependencies, and versioning.
-- The repository(ies) that will be used to archive software arising from the activities and the schedule for making the software publicly available.
-- Description of software that are subject to relevant laws, regulations, or policies that exclude them from software sharing requirements.
-- Roles and responsibilities of project personnel who will ensure implementation of the software management plan.
+- Descripción del software que se espera producir a partir de las actividades propuestas, incluidos los tipos de software que se producirán, la forma en que se desarrollará el software y la incorporación de nuevas funciones o actualizaciones al software existente. Se pueden incluir las plataformas utilizadas para todo lo vinculado con el desarrollo, la gestión del proyecto y las buenas prácticas basadas en la comunidad, como la documentación, las pruebas, las dependencias y el control de versiones.
+- El(los) repositorio(s) que se utilizarán para archivar el software que surja de las actividades y el cronograma para ponerlo a disposición del público.
+- Descripción del software que está sujeto a leyes, regulaciones o políticas relevantes que los excluyen de los requisitos para ser compartido.
+- Roles y responsabilidades del personal del proyecto que garantizará la implementación del plan de gestión de software.
 
-### Open Science Plan
+### Plan de Ciencia Abierta
 
-The OSDMP should also describe other open processes as part of the plan. This includes the types of publications that are expected to be produced from the activities, including peer reviewed manuscripts, technical reports, conference materials, and books. The plan should also outline the methods expected to be used to make the publications publicly accessible.
+El PCAGD también debe describir otros procesos abiertos. Esto incluye los tipos de publicaciones que se esperan producir a partir de las actividades, como ser los artículos revisados por pares, los informes técnicos, las publicaciones en conferencias y libros. Además, debe especificar los métodos que se esperan utilizar para que las publicaciones puedan ser accesibles al público.
 
-This section may also include a description of additional open science activities associated with the project. This may include:
+Asimismo, esta sección también puede incluir una descripción de las actividades adicionales de ciencia abierta asociadas con el proyecto. Esto puede comprender:
 
-- Holding scientific workshops and meetings openly to enable broad participation.
-- Pre-registering research plans in advance of conducting scientific activities.
-- Providing project personnel with open science training or enablement (if not described elsewhere in a proposal).
-- Implementing practices that support the inclusion of broad, diverse communities in the scientific process as close to the start of research activities as possible (if not described elsewhere in a proposal).
-- Integrating open science practices into citizen science activities.
-- Contributions to or involvement in open-science communities.
+- El llevar a cabo talleres y reuniones científicas de forma abierta para permitir una amplia participación.
+- El prerregistro de planes de investigación antes de realizar una actividad científica.
+- El proporcionar al personal del proyecto capacitación o entrenamiento en ciencia abierta (si no se describe en otra parte de la propuesta).
+- La implementación de prácticas que apoyen la inclusión de comunidades amplias y diversas en el proceso científico lo más cerca posible del inicio de las actividades de investigación (si no se describen en otra parte de una propuesta).
+- La integración de prácticas de ciencia abierta en las actividades de ciencia ciudadana.
+- El contribuir o participar en comunidades de ciencia abierta.
 
-### Publications Plan
+### Plan de Publicaciones
 
-A plan for publications is a crucial piece of the OSDMP. A publications plan should include the following features:
+El plan de publicaciones es una pieza crucial del PCAGD. Dicho plan posee las siguientes características:
 
-- Describes how results will be managed, preserved, and released - in other words, how you will communicate your findings.
-- Includes plans for conference talks, whitepapers, peer reviews journal articles, books, and other such documents.
-- Written in compliance with any rules and regulations within your organization, as well as from your funding source.
-- As with the data and software plans, it serves as a foundational framework for your project from start to finish.
+- Describe cómo se gestionarán, publicarán y conservarán los resultados; en otras palabras, cómo se hará la difusión de los resultados.
+- Incluye la planificación de presentaciones en conferencias, documentos técnicos, artículos en revistas con evaluación de pares, libros y otros documentos similares.
+- Debe redactarse conforme a las normas y reglamentos de su organización, así como de su agencia de financiación.
+- Al igual que los planes de datos y software, sirve como marco fundamental para el proyecto de principio a fin.
 
-### Examples of Requirements for Open Science Management Plans
+### Ejemplos de Requerimientos para Planes de Gestión de Ciencia Abierta
 
-Globally, organizations and agencies are moving towards open science and beginning to require plans as part of funding. Here are just some of them:
+Las organizaciones y agencias a nivel mundial están avanzando hacia la ciencia abierta y comienzan a exigir planes como requerimiento para el financiamiento. Aquí se presentan algunos de ellos:
 
-**USA**
+**Estados Unidos**
 
-- **NASA**
-  - [Open Science and Data Management Plan](https://science.nasa.gov/researchers/sara/faqs/osdmp/)
+- NASA
+  - [Plan de Ciencia Abierta y Gestión de Datos](https://science.nasa.gov/researchers/sara/faqs/osdmp/)
 - **NSF**
-  - [Data Management Plan](https://new.nsf.gov/funding/data-management-plan#%3A~%3Atext%3DThe%20two-page%20data%20management%20plan%20is%20a%20required%2Coverview%20of%20requirements%20for%20the%20data%20management%20plan)
+  - [Plan de Gestión de Datos](https://new.nsf.gov/funding/data-management-plan#%3A~%3Atext%3DThe%20two-page%20data%20management%20plan%20is%20a%20required%2Coverview%20of%20requirements%20for%20the%20data%20management%20plan)
 - **NIH**
-  - [Data Management and Sharing Plan](https://sharing.nih.gov/data-management-and-sharing-policy/planning-and-budgeting-for-data-management-and-sharing/writing-a-data-management-and-sharing-plan)
+  - [Plan de Gestión e Intercambio de Datos](https://sharing.nih.gov/data-management-and-sharing-policy/planning-and-budgeting-for-data-management-and-sharing/writing-a-data-management-and-sharing-plan)
 - **NOAA**
-  - [Data and Information Sharing Plan (DISP)](https://oceanexplorer.noaa.gov/about/funding-opps/media/fy23-data-management-plan.pdf)
+  - [Plan de Intercambio de Datos e Información](https://oceanexplorer.noaa.gov/about/funding-opps/media/fy23-data-management-plan.pdf)
 
-**GLOBAL INSTITUTES**
+INSTITUTOS GLOBALES
 
-- **Australian Research Council**
-  - [Data Management Plan](https://www.arc.gov.au/about-arc/strategies/research-data-management)
-- **EU Open Science Requirements**
-  - [https://openscience.eu/Open-Science-in-Horizon-Europe](https://openscience.eu/Open-Science-in-Horizon-Europe)
-- **UK Wellcome Trust**
-  - [(Output Management Plan)](https://wellcome.org/grant-funding/guidance/how-complete-outputs-management-plan)
-- **Korea's National Research Foundation (NRF)**
-  - [DMP Guideline](https://www.nrf.re.kr/cms/board/general/view?nts_no=124731&amp;menu_no=53&amp;nts_no&amp;search_type=ALL&amp;search_keyword=%EC%97%B0%EA%B5%AC%EB%8D%B0%EC%9D%B4%ED%84%B0&amp;page=90)
-- **Japan Science & Technology Agency (JST)**
-  - [Open Access to Research Publications and Research Data Management](https://www.jst.go.jp/EN/about/openscience/guideline_openscience_en_r4.pdf)
+- Consejo Australiano de Investigación
+  - [Plan de Gestión de Datos](https://www.arc.gov.au/about-arc/strategies/research-data-management)
+- Requerimientos de Ciencia Abierta de la Unión Europea
+  - [Ciencia Abierta en Horizonte Europeo](https://openscience.eu/Open-Science-in-Horizon-Europe)
+- Fideicomiso de Bienvenida del Reino Unido
+  - [Plan de Gestión de Resultados](https://wellcome.org/grant-funding/guidance/how-complete-outputs-management-plan)
+- Fundación Nacional de Investigación de Corea
+  - [Guía DMP](https://www.nrf.re.kr/cms/board/general/view?nts_no=124731&amp;menu_no=53&amp;nts_no&amp;search_type=ALL&amp;search_keyword=%EC%97%B0%EA%B5%AC%EB%8D%B0%EC%9D%B4%ED%84%B0&amp;page=90)
+- Agencia Japonesa de Ciencia y Tecnología
+  - [Acceso Abierto a Publicaciones de Investigación y Gestión de Datos de Investigación](https://www.jst.go.jp/EN/about/openscience/guideline_openscience_en_r4.pdf)
 
-And remember, open science is nuanced! Although one of the tenants of open science is to share your products, not all products can or should be shared. How you share them may be specified by your organization or funding agency. As you embark on adopting open science for a project, consider if the subject and approach to your project will allow for sharing. Think about the following questions:
+Y recuerda, ¡la ciencia abierta tiene matices! Aunque uno de los principios de la ciencia abierta es compartir sus productos, no todos los productos pueden o deben compartirse. La organización o agencia de financiación puede especificar cómo los comparte. Al adoptar los principios de la ciencia abierta para un proyecto, considera si el tema y el enfoque de tu proyecto son adecuados para ser compartidos. Piensa en las siguientes preguntas:
 
-- Can the research products be shared?
-- Who helped you obtain your data?
-- Will they benefit from release?
-- Who has responsibility and/authority for what happens with the data?
-- Should the research products be shared?
+- ¿Se pueden compartir los productos de la investigación?
+- ¿Quién te ayudó a obtener tus datos?
+- ¿Se beneficiarán de la divulgación?
+- ¿Quién tiene la responsabilidad y autoridad de lo que sucede con los datos?
+- ¿Deberían compartirse los productos de la investigación?
 
-More details on how to write these plans for data, code, and results are in the following modules.
+En los siguientes módulos encontrarás más detalles sobre cómo redactar los planes de datos, códigos y resultados.
 
-## Lesson 2: Summary
+## Lección 2: Resumen
 
-In this lesson, we learned:
+En esta lección aprendimos:
 
-- The definition of science tools, common examples, and which part of the scientific workflow they can support.
-- The definition and purpose of persistent identifiers. The usefulness of ORCIDs and DOIs in the scientific process.
-- Examples of useful and common open science tools such as metadata, documentation, repositories, and pre-registration.
-- The steps for writing an open science and data management plan.
+- La definición de herramientas científicas, sus ejemplos más comunes y qué parte del proceso científico pueden ayudar.
+- La definición y el propósito de los identificadores persistentes. La utilidad de ORCID y DOI en el proceso científico.
+- Ejemplos de herramientas científicas abiertas útiles y comunes, como metadatos, documentación, repositorios y prerregistro.
+- Los pasos para redactar un plan de gestión de datos y ciencia abierta.
 
-## Lesson 2: Knowledge Check
+## Lección 2: Evaluación
 
-Answer the following questions to test what you have learned so far.
+Responde las siguientes preguntas para poner a prueba lo que has aprendido hasta ahora.
 
-_Question_
+_Pregunta_
 
 **01/03**
 
-What can open science tools help with?
+¿En qué pueden ayudar las herramientas de ciencia abierta?
 
-- Discovery
-- Writing
-- Outreach
-- All of above
+- Descubrimiento
+- Escritura
+- Divulgación
+- Todas las anteriores
 
-_Question_
+_Pregunta_
 
 **02/03**
 
-Complete the statement:
+Completa la afirmación:
 
-_Good, clear Metadata _____._
+_Unos metadatos adecuados y precisos _____._
 
-Select all that apply.
+Selecciona todas las que correspondan.
 
-- Improves findability
-- Improves accessibility
-- Improves interoperability
-- Improves reusability
-- Is a waste of time
+- Facilitan la búsqueda
+- Mejoran la accesibilidad
+- Mejoran la interoperabilidad
+- Mejoran la reutilización
+- Son una pérdida de tiempo
 
-_Question_
+_Pregunta_
 
 **03/03**
 
-Which are the components of a Software Management Plan? Select all that apply.
+¿Cuáles son los componentes de un Plan de Gestión de Software? Selecciona todas las que correspondan.
 
-- Description of the software
-- Repository(ies) in which software will be archived
-- Sharing guidelines
-- Personnel roles and responsibilities
-- Any community-specific information of note
-- Creating a logo
+- Descripción del Software
+- Repositorio(s) en el que se archivará el software
+- Pautas para compartir
+- Roles y responsabilidades del personal
+- Cualquier información destacable específica de la comunidad
+- Creación de un logo

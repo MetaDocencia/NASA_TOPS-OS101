@@ -1,287 +1,287 @@
-# Lesson 3: Making Open Code
+# Lección 3: Crear código abierto
 
-## Navigation
+## Contenidos
 
-- [Overview](#overview)
-- [Learning Objectives](#learning-objectives)
-- [How do We Plan for Making Code?](#how-do-we-plan-for-making-code)
-- [Importance of Version Control](#importance-of-version-control)
-- [Describing Our Code to Others](#describing-our-code-to-others)
-- [What License Should We Choose for Our Code?](#what-license-should-we-choose-for-our-code)
-- [Programming Best Practices](#programming-best-practices)
-- [Lesson 3: Summary](#lesson-3-summary)
-- [Lesson 3: Knowledge Check](#lesson-3-knowledge-check)
+- [Descripción general](#overview)
+- [Objetivos de aprendizaje](#learning-objectives)
+- [¿Cómo planificamos para crear código?](#how-do-we-plan-for-making-code)
+- [Importancia del control de versiones](#importance-of-version-control)
+- [Describir nuestro código para otras personas](#describing-our-code-to-others)
+- [¿Qué licencia deberíamos elegir para nuestro código?](#what-license-should-we-choose-for-our-code)
+- [Buenas prácticas de programación](#programming-best-practices)
+- [Lección 3: Resumen](#lesson-3-summary)
+- [Lección 3: Evaluación](#lesson-3-knowledge-check)
 
-## Overview
+## Descripción general
 
-In this lesson, you will learn about the practical steps to make code openly accessible. Large volume and well-established software have different needs than an incipient project. For example, a script written to create a simple plot has different requirements than a software package that models the Earth’s climate. The size of a research team can also determine the steps required to make code open access. This lesson covers the process to make code usable to other researchers through documentation, considerations around licenses, and software development best practices.
+En esta lección aprenderás sobre los pasos prácticos para hacer que el código esté accesible de forma abierta. Los software bien establecidos y de gran volumen tienen necesidades diferentes a las de un proyecto incipiente. Por ejemplo, un programa escrito para crear un gráfico simple tiene requisitos diferentes a los de un paquete de software que modela el clima de la Tierra. El tamaño del equipo de investigación también puede determinar los pasos necesarios para que el código sea de acceso abierto. Esta lección cubre: el proceso para hacer que el código sea utilizable para otras personas que investigan mediante la documentación, consideraciones sobre licencias, y buenas prácticas en el desarrollo de software.
 
-## Learning Objectives
+## Objetivos de aprendizaje
 
-After completing this lesson, you should be able to:
+Al completar la lección, deberías ser capaz de:
 
-- Describe the key considerations when planning a new open software project.
-- List three reasons for projects to use version control.
-- Explain the purpose and recall general information typically included in a README file.
-- Be able to select a license for your code and list the differences between permissive and protective open-source software licenses.
-- Explain best practices in software development that support transparency, inclusion, and reproducibility.
+- Describir las consideraciones clave al planificar un nuevo proyecto de software abierto.
+- Enumerar tres razones por las que los proyectos deberían usar control de versiones.
+- Explicar el propósito y recordar información general típicamente incluida en un archivo LEEME.
+- Ser capaz de seleccionar una licencia para tu código y listar las diferencias entre licencias de software de código abierto permisivas y protectoras.
+- Explicar las buenas prácticas en el desarrollo de software que apoyan la transparencia, la inclusión y la reproducibilidad.
 
-## How do We Plan for Making Code?
+## ¿Cómo planificamos la creación de código?
 
-Code is written to solve a challenge. This can range from producing a plot, to data processing Earth observations, to modeling the Universe. The challenges associated with writing code can range in difficulty, from simpler tasks such as the use of spreadsheets to more complex activities such as the creation of extensive libraries and use of high performance or cloud computing. Code can be developed as an individual, team, or a community. Once written, code might be used for decades or never again.
+El código se escribe para resolver un desafío. Esto puede abarcar desde la producción de un gráfico, hasta procesar datos de observaciones de la Tierra, o incluso modelar el Universo. Los desafíos asociados con la escritura de código pueden variar en dificultad, desde tareas más simples como el uso de hojas de cálculo hasta actividades más complejas como la creación de extensas bibliotecas y el uso de computación de alto rendimiento o en la nube. El código puede ser desarrollado de manera individual, en equipo o en comunidad. Una vez escrito, el código puede ser utilizado durante décadas o nunca más.
 
-When starting a research project, it is useful to answer the following questions:
+Al iniciar un proyecto de investigación, es útil responder a las siguientes preguntas:
 
-1. What problem am I trying to solve, and are others in my community facing it as well?
-2. Are there existing solutions? (In Lesson 2, we explored how to look for existing solutions.)
-3. Did you find code that was close to what you want but didn’t quite meet your needs?
+1. ¿Qué problema estoy tratando de resolver?, ¿alguien más en mi comunidad también lo enfrenta?
+2. ¿Existen soluciones? (En la Lección 2, exploramos cómo buscar soluciones existentes).
+3. ¿Encontraste código que estaba cerca de lo que deseabas pero no cumplía completamente con tus necesidades?
 
-You could potentially contribute to it instead of writing something new.
+Podrías contribuir potencialmente, en lugar de escribir algo nuevo.
 
-Even if a solution already exists, there might be good reasons to develop your own code. Instances include:
+Incluso si ya existe una solución, podría haber buenas razones para desarrollar tu propio código. En situaciones como:
 
-- The code is written in a different programming language than you are familiar with.
-- The license is not open enough to adopt it.
-- To try new techniques or to develop a deeper understanding of the problem.
+- El código está escrito en un lenguaje de programación diferente al que estás familiarizado.
+- La licencia no es lo suficientemente abierta como para adoptarla.
+- Probar nuevas técnicas o desarrollar una comprensión más profunda del problema.
 
 <img src="../images/media/image333.jpg" style="width:350px;height:auto;" />
 
-It might take more time to start a new project, or it might take more time to integrate someone else’s code than writing your own. You will have to make that call.
+Puede llevar más tiempo iniciar un nuevo proyecto, o puede tardarse más intentando integrar el código de otra persona que escribiendo el propio. Tendrás que tomar esa decisión.
 
-We looked for existing code, and though we found a few things that were close we decided in the end our needs were unique enough - we’re starting a new project!
+Buscamos código existente, y aunque encontramos algunas cosas que eran similares, al final decidimos que nuestras necesidades eran lo suficientemente únicas - ¡estamos comenzando un nuevo proyecto!
 
-### Starting a New Project
+### Comenzando un nuevo proyecto
 
-When starting a new project, the key things to consider are:
+Al iniciar un nuevo proyecto, los aspectos clave a considerar son:
 
-1. Define the project scope, its primary features and any limitations, and the intended audience.
-2. Consider resources required for the software to run. Will it be on a personal computer, a high-performance computing server, or on the cloud?
-3. How will it be managed?
+1. Definir el alcance del proyecto, sus características principales y cualquier limitación, así como el público objetivo.
+2. Considerar los recursos necesarios para que el software funcione. ¿Se ejecutará en una computadora personal, en un servidor informático de alto rendimiento o en la nube?
+3. ¿Cómo se gestionará?
 
-This lesson focuses predominantly on the question of how to manage open access code.
+Esta lección se centra predominantemente en la cuestión de cómo gestionar el código de acceso abierto.
 
-Who will be working on the project? What are some of the development best practices? How will you share it openly? How will it be licensed?
+¿Quién trabajará en el proyecto? ¿Cuáles son algunas de las mejores prácticas para el desarrollo? ¿Cómo se compartirá abiertamente? ¿Qué tipo de licencia se aplicará?
 
-### Organizing a Project
+### Organizando un proyecto
 
 <img src="../images/media/image353.png" style="width:250px;height:auto;" />
 
-Source: https://xkcd.com/1459/
+Fuente: https://xkcd.com/1459/
 
 ---
 
-Software projects can be organized in a variety ways, each that involve unique considerations about how to begin. Many projects start out as a single script that was only intended for a single use. However, a script can grow into a much larger project with unforeseen applications in its original or new field of research. Other projects can start with formal requirements and standards.
+Los proyectos de software pueden organizarse de distintas maneras, cada una con consideraciones únicas sobre cómo comenzar. Muchos proyectos comienzan como un único script destinado a un solo uso. Sin embargo, un script puede convertirse en un proyecto mucho más grande, con aplicaciones imprevistas tanto en el campo de investigación original como en otros nuevos. Otros proyectos pueden comenzar con requisitos y estándares formales.
 
-Making code public has many advantages:
+Hacer público el código tiene muchas ventajas:
 
-- It enables open collaboration.
-- It invites constructive feedback that contributes to a code’s accuracy and robustness.
-- People with less experience with the subject matter will learn more.
-- Those with less programming experience can learn from those with more programming experience as they improve the code.
-- It provides an intermediate product that can still be cited.
+- Permite la colaboración abierta.
+- Invita a la retroalimentación constructiva que contribuya con la precisión y robustez del código.
+- Personas con menos experiencia en el tema aprenderán más.
+- Quienes tienen menos experiencia en programación pueden aprender de quienes poseen más experiencia a medida que mejoran el código.
+- Proporciona un producto intermedio que puede ser citado.
 
-When naming a project, conduct a quick search of the envisioned name to see what shows up. Avoid names with many other uses as this will make it difficult for others to discover the code. Also, do not choose embarrassing or trademarked names.
+Al nombrar un proyecto, realiza una búsqueda rápida del nombre previsto para ver qué aparece. Evita nombres con muchos otros usos, ya que esto dificultará que otros descubran el código. Además, no elijas nombres embarazosos o registrados.
 
-Hosting the product on a version control platform ensures the permanence of your project. If code only exists on your computer, it may disappear if the computer is damaged or is lost.
+Al alojar el producto en una plataforma con control de versiones, aseguras la perdurabilidad de tu proyecto. Si el código solo existe en tu computadora, puede desaparecer si ésta se daña o se pierde.
 
-Documenting the production and management of your code benefits both you and those that might use your code in the future. You are your own best collaborator. Documentation can save you from a headache should you reuse the code in six months or attempt to recall meticulous details about your process later on.
+Documentar la producción y gestión de tu código te beneficia tanto a ti como a quienes podrían usar tu código en el futuro. Tú eres tu mejor colaborador. La documentación puede evitarte dolores de cabeza si reutilizas el código en seis meses o intentas recordar detalles meticulosos sobre tu proceso más adelante.
 
-Questions to consider when choosing a programming language:
+Preguntas a considerar al elegir un lenguaje de programación:
 
-- Will potential collaborators be able to contribute in the chosen language?
-- Which languages are you most experienced with?
-- Are there any limitations from your computing environment that would impede your ability to write or manage this code?
-- Languages have strengths and weaknesses; which are most important for your project?
+- ¿Podrán los colaboradores potenciales contribuir en el lenguaje elegido?
+- ¿Con qué lenguajes tienes más experiencia?
+- ¿Existe alguna limitación en tu entorno informático que pueda afectar tu capacidad para escribir o gestionar este código?
+- Los lenguajes tienen fortalezas y debilidades, ¿cuáles son más importantes para tu proyecto?
 
-Before someone else can use your code, they're going to ask some questions:
+Antes de que alguien más pueda usar tu código, seguramente hará algunas preguntas:
 
-- Where can I find your code?
-- Is your code documented?
-- In what ways am I allowed to use your code?
-- Will you accept changes to your code? If I find a bug, what do I do?
-- How do I trust your code works?
-- How do I know if the code will be supported long term?
+- ¿Dónde puedo encontrar tu código?
+- ¿Está documentado tu código?
+- ¿De qué maneras puedo usar tu código?
+- ¿Aceptarás cambios en tu código? Si encuentro un error, ¿qué debo hacer?
+- ¿Cómo puedo confiar en que tu código funcione?
+- ¿Cómo sé si el código tendrá soporte a largo plazo?
 
-## Importance of Version Control
+## Importancia del control de versiones
 
-Your code will change significantly over the lifetime of your project. Just as we appreciate the ability to track earlier versions of documents or versions created by different people, inevitably someone will want to be able to revert, compare, and synthesize changes in code.
+Tu código cambiará significativamente a lo largo de la vida de tu proyecto. Del mismo modo que apreciamos la capacidad de rastrear versiones anteriores de documentos o versiones creadas por diferentes personas, inevitablemente alguien querrá ser capaz de revertir, comparar y sintetizar cambios en el código.
 
-The most popular tool for version control is git. Git is a system that tracks changes in computer files, similar to Google Docs or SharePoint but more applicable to code script. Git is usually used in conjunction with a version control platform such as GitHub, Gitlab, or Bitbucket. These tools were covered in Module 2.2.
+La herramienta más popular de control de versiones es git. Git es un sistema que rastrea los cambios en los archivos del equipo, similar a Google Docs o SharePoint, pero más aplicable a código. Git se utiliza generalmente junto con una plataforma de control de versiones como GitHub, Gitlab, o Bitbucket. Estas herramientas fueron cubiertas en el Módulo 2.2.
 
-Version control enables the following:
+El control de versiones permite lo siguiente:
 
-- Helps developers keep track of changes to a project's code (as well as supplemental files and documentation) over the entire course of a project's evolution.
-- Revisions to a project's files can be tracked, including contributions made by different people.
-- Undesirable changes (like errors or bugs) can be reverted at any time.
+- Ayuda a los desarrolladores a realizar un seguimiento de los cambios en el código de un proyecto (además de archivos suplementarios y documentación) durante todo el curso de la evolución del proyecto.
+- Las revisiones a los archivos de un proyecto pueden ser rastreadas, incluyendo las contribuciones realizadas por diferentes personas.
+- Los cambios no deseados (como equivocaciones o errores de programación) pueden ser revertidos en cualquier momento.
 
-Version control is a good practice for coding, even if you are not immediately sharing the code. You can use version control with your code privately on your computer, or use the private mode on hosting services (e.g., GitHub and GitLab). By setting up version control early on, you prepare your code for intended and unforeseen future use.
+El control de versiones es una buena práctica para programar, incluso si no se comparte el código inmediatamente. El mismo puede ser usado en un código personal de forma privada en su computadora, o alternativamente se puede usar el modo privado en los servicios de alojamiento (por ejemplo, GitHub y GitLab). Al configurar el control de versiones pronto, se prepara el código para un uso futuro esperado e inolvidable.
 
-**Further Resources on version control**
+**Recursos adicionales en el control de versión**
 
-- [Software Carpentry Version Control with Git](https://swcarpentry.github.io/git-novice/)
-- [The Turing Way, Version Control](https://the-turing-way.netlify.app/reproducible-research/vcs.html)
-- [Use a publicly accessible repository with version control: guidance for FAIR software](https://fair-software.eu/recommendations/repository/)
+- [Control de versión de carpintería de software con Git](https://swcarpentry.github.io/git-novice/)
+- [The Turing Way, Versión Control](https://the-turing-way.netlify.app/reproducible-research/vcs.html)
+- [Usar un repositorio accesible públicamente con control de versiones: guía para el software FAIR](https://f.Usoftware.eu/recommendations/repository/)
 
-## Describing Our Code to Others
+## Describiendo nuestro código a otros
 
-### README
+### Archivo LEEME
 
-The first stop for a user when they approach a new project should be the README file. Aptly named, this file contains orientation information that will help a user understand a project’s purpose, provides examples of how it can be used, and lists other important information that the creator deems pertinent.
+La primera parada para un usuario cuando se acerque a un nuevo proyecto debería ser el archivo LEEME. Acertadamente llamado así, este archivo contiene información orientativa que ayudará al usuario a comprender el propósito de un proyecto, ofrece ejemplos de cómo puede utilizarse y enumera otra información importante que el creador considere pertinente.
 
-At the minimum, a README should contain the name of the project and a very short paragraph of what the software is. Two to three sentences in a plain-language style that does not assume who is reading it. It’s the elevator pitch for the project.
+Como mínimo, un archivo LEEME debería contener el nombre del proyecto y un párrafo muy corto de lo que es el software. Dos o tres frases en un estilo sencillo que no presuponga quién lo lee. Es el discurso de ascenso para el proyecto.
 
-|                         |                                                                                                                                                                                                                                                                                                                                     |
-| ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Bad** README example  | "This code recomputes the fundamental permutation factor of the downward flow (for J < 10, obviously)."                                                                                                                                                                                          |
-| **Good** README example | "LeapKitten. This Python software package takes any picture of a kitten (JPEG, PNG) and uses artificial intelligence to output what it would look like leaping into the air. In addition, the code takes leap years into account on the timestamp on the image." |
+|                                         |                                                                                                                                                                                                                                                                                                                |
+| --------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Incorrecto** Ejemplo de archivo LEEME | "Este código recalcula el factor de permutación fundamental del flujo descendente (para J < 10, obviamente)."                                                                                                                                                               |
+| **Correcto** Ejemplo de archivo LEEME   | "LeapKitten. Este paquete de Python toma cualquier foto de un gatito (JPEG, PNG) y utiliza inteligencia artificial para mostrar cómo se vería saltando en el aire. Además, el código tiene en cuenta los años bisiestos en la marca de tiempo de la imagen" |
 
-In addition, the following information is helpful to add to the README especially if they are not listed elsewhere:
+Además, la siguiente información es útil para añadir al archivo LEEME especialmente si no están listados en otro lugar:
 
-- A list of any code dependencies the software has, e.g. "Numpy, kitten-rng, and human- readable must be installed to run this software."
-- How to install and a brief description of how to run the software.
-- Detailed description of the software, especially if there is no external documentation.
-- Examples of how to use the software.
-- Acknowledgement of team members or sources of support.
+- Una lista de las dependencias de código que tiene el software, por ejemplo, "Numpy, kitten-rng y human- readable deben estar instalados para ejecutar este software"
+- Cómo instalar y una breve descripción de cómo ejecutar el software.
+- Descripción detallada del software, especialmente si no hay documentación externa.
+- Ejemplos de cómo utilizar el software.
+- Reconocimiento de miembros del equipo o fuentes de apoyo.
 
-As seen in these examples, README files can be useful for a [collection of scripts supporting a publication](https://github.com/granttremblay/Tremblay2018_Code) or an [extensively developed software package](https://github.com/MillionConcepts/lhorizon).
+Como se vio en estos ejemplos, los archivos LEEME pueden ser útiles para una [colección de scripts de apoyo a una publicación](https://github.com/granttremblay/Tremblay2018_Code) o un [paquete de software ampliamente desarrollado](https://github.com/MillionConcepts/lhorizon).
 
-### Contributor Guidelines
+### Pautas para los colaboradores
 
-The _CONTRIBUTING.md_ file gives information about how to contribute to the project. It details how the contribution process works and what type of contributions are needed. While not every project has a _CONTRIBUTING.md_ file, the existence of one is a clear indicator that contributions are welcomed.
+El archivo _CONTRIBUYENDO.md_ proporciona información sobre cómo contribuir al proyecto. En él se explica cómo funciona el proceso de contribución y qué tipo de contribuciones son necesarias. Si bien no todos los proyectos tienen un archivo _CONTRIBUTING.md_, la existencia de uno es un claro indicador de que las contribuciones son bienvenidas.
 
-You'll need to decide for yourself when your project has progressed enough to consider inviting contributors. When it has, create a document called CONTRIBUTING at the top level of your report.
+Será necesario decidir personalmente cuando tu proyecto ha progresado lo suficiente como para invitar contribuidores. Cuando lo haya hecho, un documento llamado CONTRIBUYENDO deberá ser creado en el nivel superior del informe.
 
-The [Astropy contributing guidelines](https://github.com/astropy/astropy/blob/main/CONTRIBUTING.md) and [Numpy contributing guidelines](https://numpy.org/devdocs/dev/index.html) provide two examples.
+Las [pautas de contribución de Astropy](https://github.com/astropy/astropy/blob/main/CONTRIBUTING.md) y las [pautas de contribución numérica](https://numpy.org/devdocs/dev/index.html) proporcionan dos ejemplos.
 
-**Bonus Tip: Even if you are developing your code publicly, this does not mean you have to accept contributions from others or maintain your code forever. The contributing guidelines or README are good places to indicate what your expectations are for your code. This can clarify that the code is not maintained or not accepting contributions.**
+**Consejo extra: Aunque desarrolles tu código públicamente, esto no significa que tengas que aceptar contribuciones de otros o mantener tu código para siempre. Las pautas de contribución o el archivo LEEME son buenos lugares para indicar cuáles son las expectativas para el código. El mismo puede aclarar que el código no está siendo mantenido o que no acepta contribuciones.**
 
-### Code of Conduct
+### Código de conducta
 
-The code of conduct sets ground rules for participants’ behavior and helps to facilitate a friendly, welcoming environment. While not every project has a CODE_OF_CONDUCT file, its presence signals that this is a welcoming project to contribute to.
+El código de conducta establece normas básicas para el comportamiento de los participantes y ayuda a facilitar un ambiente agradable y acogedor. Si bien no todos los proyectos tienen un archivo CODIGO_DE_CONDUCTA, su presencia indica que este es un proyecto agradable al que contribuir.
 
-### Code Documentation
+### Documentación de código
 
-**Code Level Documentation for the Developer**
+**Documentación sobre el código para el desarrollador**
 
-Your software should be documented within the source code. Each function should have comments at the start that briefly state, in plain language, what the function is for. This is not only for other developers, but yourself a week later when you forgot what you wrote.
+Su software debe estar documentado dentro del código fuente. Cada función debe tener comentarios al principio que brevemente expliquen, en lenguaje sencillo, para qué sirve la función. Esto no es sólo para otros desarrolladores, sino para el desarrolador original que una semana más tarde, puede olvidar que escribio.
 
-> **Example**
+> **Ejemplo**
 >
-> \# This function takes the image array and crops it from the center to 50% of the original size.
+> \# Esta función toma la matriz de imagen y la recorta desde el centro al 50% del tamaño original.
 >
-> Without going into details of the data type, calling parameters, etc. this description immediately puts someone looking at the code into the context of what the function aims to accomplish; they can then explore the details.
+> Sin entrar en detalles sobre el tipo de datos, los parámetros de llamada, etc., esta descripción sitúa inmediatamente a la persona que mira el código en el contexto de lo que la función pretende conseguir; entonces puede explorar los detalles.
 >
-> While you should consider placing a description at the start of a function, use your discretion on where you put similar descriptions of code. At the start of a complex loop or analysis would be good ideas. Don’t go overboard - things like this aren’t useful:
+> Si bien se debería considerar colocar una descripción al comienzo de una función, hay que utilizar la discreción sobre dónde poner descripciones de código similares. Al comienzo de un ciclo o análisis complejo serían buenas ideas. No te olvides - cosas como esta no son útiles:
 >
-> \# set x to 17
+> \# fijar x a 17
 >
 > x = 17
 >
-> Descriptive variable, class, and function names can make your code very readable. . Sometimes even great coders are working fast and will name variables 'a', 'temp', or other names that probably won't make a lot of sense in a week or two when they come back to something they were working on. Names like 'baking_time' or 'velocity' are more clear. Variable names should be easy to understand and clearly represent what they are.
+> Los nombres de variables, clases y funciones descriptivos pueden hacer que tu código sea legible. . A veces, incluso los grandes programadores trabajan rápido y nombran las variables 'a', 'temp', u otros nombres que probablemente no tendrán mucho sentido en una semana o dos cuando vuelvan a algo en lo que estaban trabajando. Nombres como 'tiempo_de_coccion' o 'velocidad' son más claros. Los nombres variables deberían ser fáciles de entender y representar claramente lo que son.
 >
-> Ideally, someone who doesn't write in the software language of the code can read the comments in the file and have a rough idea of what is happening.
+> Lo ideal es que alguien que no escriba en el lenguaje del código pueda leer los comentarios del archivo y hacerse una idea aproximada de lo que ocurre.
 >
-> Use the comments to put URLs that reference where you might have found the algorithm you’re using (e.g. Stack Overflow) or the journal paper where you found the formula you’re implementing.
+> Utilize los comentarios para poner URLs que hagan referencia a dónde se encontró el algoritmo utilizado (por ejemplo, Stack Overflow) o el artículo de revista donde se encuentran la fórmula que se implementa.
 
-### Code Level Documentation for the User
+### Documentación sobre el código para el usuario
 
-If you are developing code that you expect others to use, produce a manual on how to use the code. As code constantly develops, it is much easier to document while or even before you write any code.
+Si estás desarrollando código que esperas que otras personas usen, escribe un manual sobre cómo utilizar el código. Como el código se desarrolla constantemente, es mucho más fácil documentarlo mientras o incluso antes de escribir cualquier código.
 
-If you write your documentation within the code itself, there are pieces of software that can then extract it, format it, and present it as a polished manual. Examples of documentation generated from the code can be seen for [Astropy](https://docs.astropy.org/en/latest/) or [NumPy](https://numpy.org/doc/stable/).
+Si escribes la documentación dentro del propio código, hay software que pueden extraerla, formatearla y presentarla como un manual pulido. Ejemplos de documentación generada a partir del código se pueden ver para [Astropy](https://docs.astropy.org/en/latest/) o [NumPy](https://numpy.org/doc/stable/).
 
-They look fancy, but very similar too. These sites were completely generated from comments and documents written in the source code. Different from the comments written for developers of the code above, these comments were written specifically for the audience of external users of the code: the manual.
+Se ven maravillosos, pero también muy similares. Estos sitios fueron generados por completo a partir de comentarios y documentos escritos en el código fuente. A diferencia de los comentarios escritos para las personas desarrolladoras del código, éstos comentarios fueron redactados específicamente para la audiencia de usuarios externos del código: el manual.
 
-While there are multiple software packages for automatic documentation generation, the most commonly used ones are [Sphinx](https://www.sphinx-doc.org/en/master/) for Python and [D](https://www.doxygen.nl/index.html)[oxygen](https://www.doxygen.nl/index.html) for most everything else. [M](https://www.markdownguide.org/)[arkdown](https://www.markdownguide.org/) is also a popular choice for the formatting language for documentation.
+Aunque hay varios paquetes de software para la generación automática de documentación, los más utilizados son [Sphinx](https://www.sphinx-doc. rg/es/master/) para Python y [Doxygen](https://www.doxygen.nl/index.html) para casi todo lo demás. [M](https://www.markdownguide.org/)[arkdown](https://www.markdownguide.org/) también es una opción popular para el lenguaje de formato para la documentación.
 
-### Programming and Documenting
+### Programación y documentación
 
-**Establishing a Development Environment** - Establishing an appropriate development environment will help you write good, clean code and will help you maintain the project as it evolves.
+**Establecer un Entorno de Desarrollo** - Establecer un entorno de desarrollo apropiado te ayudará a escribir un código bueno, limpio y te ayudará a mantener el proyecto a medida que evoluciona.
 
-- Configure any necessary tools for writing the code. Perhaps an IDE (Integrated Development Environment) or text editor. Some popular examples include VS Code, Pycharm, R Studio, Xcode.
-- Set up a package manager. For example, for Python, one could use 'anaconda' or 'poetry'.
-- Create a virtual environment specific to your project to isolate its dependencies (and their versions) from those used for other projects
+- Configura cualquier herramienta necesaria para escribir el código. Tal vez un EDI (Entorno de Desarrollo Integrado) o editor de texto. Algunos ejemplos populares incluyen el código VS, Pycharm, R Studio, Xcode.
+- Configura un gestor de paquetes. Por ejemplo, para Python, se podría usar 'anaconda' o 'poetry'.
+- Crea un entorno virtual específico de tu proyecto para aislar sus dependencias (y sus versiones) de las utilizadas para otros proyectos
 
-**Structuring Files and Folders** - How you structure the files in your project from the beginning will contribute to the success of the final results.
+**Estructuración de archivos y carpetas** - La forma en que estructuras los archivos de tu proyecto, desde el principio, contribuirá al éxito de los resultados finales.
 
-Different programming languages have different standard folder structures. Familiarize yourself with the standards before starting as it will help others collaborate and will likely save you from difficulties later.
+Los distintos lenguajes de programación tienen diferentes estructuras de carpetas estándar. Familiarízate con los estándares antes de comenzar, ya que esto ayudará a otras personas a colaborar y, probablemente, te evitará dificultades más adelante.
 
-There are a variety of sample code structures that can be used to get started. For example, for Python there is Cookiecutter and an Astropy package template.
+Hay una variedad de estructuras de código de ejemplo que se pueden utilizar para empezar. Por ejemplo, para Python, hay Cookiecutter y una plantilla de paquete Astropy.
 
-## What License Should We Choose for Our Code?
+## ¿Qué licencia deberíamos elegir para nuestro código?
 
-### Licensing Considerations when Using Open Software
+### Consideraciones de Licencia cuando se utiliza Software Abierto
 
 <img src="../images/media/image130.png" style="width:350px;height:auto;" />
 
-Open-source software licenses are the basis for how scientists use, make, and share code and software. Understanding some of the nuances of these licenses is important because it will affect how your project can license and share code.
+Las licencias de software de código abierto son fundamentales para cómo los científicos usan, crean y comparten código y software. Entender algunos de los matices de estas licencias es importante porque afectará el modo en que tu proyecto puede licenciar y compartir código.
 
-A software license is a legal document that states the rights of the developer and user of a piece of software.
+Una licencia de software es un documento legal que establece los derechos de las personas que desarrollan y usan una pieza de software.
 
-An open source license is a type of software license, approved by the Open Source Initiative (OSI) as compliant with the Open Source Definition. An open source license grants permissions for anyone to inspect, use, modify, and distribute the software’s source code for any purpose.
+Una licencia de código abierto es un tipo de licencia de software, aprobada por la Iniciativa de Código Abierto (en inglés, _Open Source Initiative, OSI_), conforme a la Definición de Código Abierto. Una licencia de código abierto otorga permisos a cualquier persona para inspeccionar, usar, modificar y distribuir el código fuente del software para cualquier propósito.
 
-Licenses ensure that developers receive credit and control over how their work is used. Without a license, software is assumed copyrighted and without permissions. Programmers include licenses to allow reuse.
+Las licencias aseguran que las personas que desarrollan el software reciban crédito y control sobre cómo se utiliza su trabajo. Sin licencia, se asume que el software tiene derechos de autoría y sin permisos. Las personas que programan incluyen licencias para permitir reutilizaciones.
 
-Licenses take various forms in order to outline:
+Las licencias toman varias formas para describir:
 
-- Contractual obligations (if any exist) between the developer and user.
-- What the user may do with the software.
-- To whom the user may distribute the software (if any such right exists).
-- Length of time the user has the right to use the software.
+- Obligaciones contractuales (si existen) entre las personas que desarrollan y las que usan.
+- Lo que las personas usuarias del software pueden hacer con él.
+- A quiénes pueden, las personas usuarias del software, distribuirlo (si existe tal derecho).
+- Periodo de tiempo durante el cual la persona usuaria tiene derecho a utilizar el software.
 
-### Some Common Types of Software License
+### Algunos Tipos Comunes de Licencia de Software
 
-_Click '+' to travel more information._
+_Haz clic en '+' para ver más información._
 
 <img style="width:100%;height:auto;" src="../images/media/commonsoftwarelicenses.png">
 
-**Public Domain**
+**Dominio Público**
 
-Anyone free to use.
+Cualquier persona puede usarlo libremente.
 
-**Lesser General Domain**
+**"Licencia Pública General Reducida**
 
-Can link to open source libraries, and code can be licensed under any license type.
+Puede vincularse a bibliotecas de código abierto, y el código puede ser licenciado bajo cualquier tipo de licencia.
 
-**Permissive**
+**Permisivo**
 
-Gives users wide but not complete latitude to reuse/relicense.
+Ofrece a las personas usuarias del software una libertad amplia, pero no completa, para reutilizar o volver a otorgar licencias.
 
-**Non-permissive**
+**No permisiva**
 
-Allows users to reuse, but also gives users the responsibility to share their changes with the community.
+Permite a las personas usuarias reutilizar, pero también otorga la responsabilidad de compartir sus cambios con la comunidad.
 
-**Copyleft**
+Copyleft
 
-Can be distributed or modified if all the code involved is licensed under the same license.
+Puede ser distribuido o modificado si todo el código involucrado está bajo la misma licencia.
 
-**Proprietary**
+**Propietario**
 
-Cannot be copied, modified, or distributed.
+No se puede copiar, modificar ni distribuir.
 
 ---
 
-Before you choose a license, first check with your organization or employer. They may have specific guidelines about what software license you are allowed to use. Your research grant may also stipulate permissible license types. The software management plan should specify what license you plan to use.
+Antes de elegir una licencia, consulta primero con tu organización o quien te emplea. Pueden tener pautas específicas acerca de qué licencia de software es la que puedes usar. Tu subsidio de investigación también puede estipular los tipos de licencia permitidos. El plan de gestión de software debe especificar qué licencia planeas usar.
 
-If a license is not shared with a code, a creative work is assumed to be copyrighted by [default in the United States](https://www.copyright.gov/help/faq/faq-general.html). It does not need to be registered, and it is assumed to be automatically protected by copyright the moment it is created.
+Si una licencia no es compartida con un código, se asume por defecto que está protegido por derechos de autoría en los Estados Unidos (https://www.copyright.gov/help/faq/faq-general.html). No necesita ser registrado, y se asume que está automáticamente protegido por derechos de autoría en el momento en que se crea.
 
-For software, the license is shared in a file called LICENSE at the top of the repository. It’s a standard location people will know to look at. It’s not bad practice to put a one line version of the license at the top of each file of code as well, with a pointer to where one could find the full license.
+Para el software, la licencia se comparte en un archivo llamado LICENCIA en la parte superior del repositorio. Es una ubicación estándar que la gente sabrá que hay que mirar. No es mala práctica poner también una línea con la versión de la licencia en la parte superior de cada archivo de código, con un puntero hacia donde se podría encontrar la licencia completa.
 
-### Types of Open-Source Software Licenses
+### Tipos de licencias de software de código abierto
 
-There are two main types of open-source licenses. Permissive and protective (sometimes referred to as copy-left). The difference in these types of licenses is primarily related to the type of license users of the code are allowed to apply to their derivative works.
+Hay dos tipos principales de licencias de código abierto. Permisiva y protectora (a veces denominada copy-left). La diferencia entre estos tipos de licencias está relacionada principalmente con el tipo de licencia que las personas usuarias del código pueden aplicar a sus obras derivadas.
 
 <table>
   <thead>
     <tr>
-        <th>PERMISSIVE LICENSE ☑</th>
-        <th>PROTECTIVE LICENSE</th>
+        <th>LICENCIA PERMISIVA ☑</th>
+        <th>LICENCIA PROTECTORA</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="2">
-            <p>The Open Source Initiative defines a permissive software license as a license that guarantees the freedoms to use, modify, redistribute, and create derivative works. An example of this type of license is the Apache 2.0 license by the Apache Software Foundation. It is the most popular and widely used permissive license.</p>
-            <p>Users have wide latitude for reuse under this license. They are generally free to incorporate the code into their project or use it how they wish. A user of permissive-license open source in a product could redeploy the open source software with a wide range of licenses, including proprietary closed source software.</p>
+            <p>La Iniciativa de Código Abierto define una licencia de software permisiva como aquella que garantiza las libertades de uso, modificación, redistribución y creación de obras derivadas. Un ejemplo de este tipo de licencia es la licencia Apache 2.0 de la Fundación de Software Apache (en inglés, _Apache Software Foundation_). Es la licencia permisiva más popular y ampliamente utilizada.</p>
+            <p>Las personas usuarias tienen una amplia libertad de reutilización bajo esta licencia. Generalmente son libres de incorporar el código en su proyecto o de utilizarlo como deseen. Las personas que utilizan un código abierto con licencia permisiva en un producto podrían volver a implementar el software de código abierto con una amplia gama de licencias, incluyendo el software patentado de código cerrado.</p>
         </td>
     </tr>
   </tbody>
@@ -290,37 +290,37 @@ There are two main types of open-source licenses. Permissive and protective (som
 <table>
   <thead>
     <tr>
-        <th>PERMISSIVE LICENSE</th>
-        <th>PROTECTIVE LICENSE ☑</th>
+        <th>LICENCIA PERMISIVA</th>
+        <th>LICENCIA PROTECTORA ☑</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="2">
-            <p>Protective (copyleft) licenses are a legal technique of granting certain freedoms over copies of copyrighted works with the requirement that the same rights be preserved in derivative works. This allows users to reuse, but also requires users to share their changes with the community using the same license. An example of a protective license is the General Public License (GPL) that ensures users have the freedom and responsibility to share their changes with the community. It is the most widely used protective license. These types of licenses can result in less re-use by users who may prefer or be required to only use permissive licenses.</p>
+            <p>Las licencias protectoras (copyleft) son una técnica legal para conceder ciertas libertades sobre copias de obras protegidas por derechos de autoría con el requisito de que se preserven los mismos derechos en las obras derivadas. Esto permite a los usuarios reutilizar, pero también requiere que compartan sus cambios con la comunidad utilizando la misma licencia. Un ejemplo de licencia protectora es la Licencia Pública General (en inglés, GPL) que garantiza que los usuarios tengan la libertad y responsabilidad de compartir sus cambios con la comunidad. Es la licencia de protección más utilizada. Estos tipos de licencias pueden dar como resultado una menor reutilización por parte de los usuarios que prefieren o se les exige que utilicen únicamente licencias permisivas.</p>
         </td>
     </tr>
   </tbody>
 </table>
 
-### Common Licenses for Open Software
+### Licencias Comunes para Software Abierto
 
-Some of the most popular licenses used in open software are:
+Algunas de las licencias más populares utilizadas en software abierto son:
 
 <table>
   <thead>
     <tr>
-        <th>PERMISSIVE (CAN APPLY ANY LICENSE TO DERIVATIVE WORKS) ☑</th>
-        <th>PROTECTIVE/ COPYLEFT (ALL DERIVATIVE WORKS MUST DISTRIBUTE ALL ITS SOURCE CODE UNDER THE SAME LICENSE)</th>
+        <th>PERMISIVA (PUEDE APLICAR CUALQUIER LICENCIA A OBRAS DERIVADAS) ☑</th>
+        <th>PROTEGIDA/ COPYLEFT (TODAS LAS OBRAS DERIVADAS DEBEN DISTRIBUIR TODO SU CÓDIGO FUENTE BAJO LA MISMA LICENCIA)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="2">
             <ul>
-              <li><a href="https://opensource.org/license/apache-2-0/">Apache License</a></li>
-              <li><a href="https://opensource.org/license/mit/">MIT license</a></li>
-              <li><a href="https://opensource.org/license/bsd-3-clause/">BSD License</a></li>
+              <li><a href="https://opensource.org/license/apache-2-0/">Licencia Apache</a></li>
+              <li><a href="https://opensource.org/license/mit/">Licencia MIT</a></li>
+              <li><a href="https://opensource.org/license/bsd-3-clause/">Licencia BSD</a></li>
             </ul>
         </td>
     </tr>
@@ -330,90 +330,90 @@ Some of the most popular licenses used in open software are:
 <table>
   <thead>
     <tr>
-        <th>PERMISSIVE (CAN APPLY ANY LICENSE TO DERIVATIVE WORKS)</th>
-        <th>PROTECTIVE/ COPYLEFT (ALL DERIVATIVE WORKS MUST DISTRIBUTE ALL ITS SOURCE CODE UNDER THE SAME LICENSE) ☑</th>
+        <th>PERMISIVA (PUEDE APLICAR CUALQUIER LICENCIA A OBRAS DERIVADAS)</th>
+        <th>PROTEGIDA/ COPYLEFT (TODAS LAS OBRAS DERIVADAS DEBEN DISTRIBUIR TODO SU CÓDIGO FUENTE BAJO LA MISMA LICENCIA) ☑</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="2">
             <ul>
-              <li>GNU General Public License (<a href="https://opensource.org/license/gpl-2-0/">GPL</a>)</li>
-              <li><a href="https://opensource.org/license/mpl-2-0/">Mozilla</a> Public License</li>
-              <li>Common Development and Distribution License (<a href="https://opensource.org/license/cddl-1-0/">CDDL</a>)</li>
+              <li>Liencia Pública General GNU (<a href="https://opensource.org/license/gpl-2-0/">GPL</a>)</li>
+              <li><a href="https://opensource.org/license/mpl-2-0/">Licencia Pública de Mozilla</a> </li>
+              <li>Licencia Común de Desarrollo y Distribución (<a href="https://opensource.org/license/cddl-1-0/">CDDL</a>)</li>
             </ul>
         </td>
     </tr>
   </tbody>
 </table>
 
-For more information on different types of licenses please refer to the [Open Source Initiative OSI](https://opensource.org/licenses/category).
+Para obtener más información sobre los diferentes tipos de licencias, consulte la [Iniciativa de Código Abierto OSI](https://opensource.org/licenses/category).
 
-### Activity 3.1: Licenses
+### Actividad 3.1: Licencias
 
-In this activity, you are asked to answer whether the following statements are true or false.
+En esta actividad, te pediremos que respondas si las siguientes afirmaciones son verdaderas o falsas.
 
-**Statement 1:**
+**Afirmación 1:**
 
-A software license states the rights of the developer and user for a piece of software.
+Una licencia de software establece los derechos del desarrollador y del usuario sobre un software.
 
-- True
-- False
+- Verdadero
+- Falso
 
-**Statement 2:**
+**Afirmación 2:**
 
-Without a license, software is assumed copyrighted and without permissions.
+Sin licencia, se supone que el software tiene derechos de autor y no tiene permisos.
 
-- True
-- False
+- Verdadero
+- Falso
 
-**Statement 3:**
+**Afirmación 3:**
 
-Anyone is free to use software with a "permissive" license without restriction.
+Cualquiera es libre de utilizar software con una licencia "permisiva" sin restricciones.
 
-- True
-- False
+- Verdadero
+- Falso
 
-**Statement 4:**
+**Afirmación 4:**
 
-Users are not allowed to copy and modify any software with a copyleft license.
+Los usuarios no pueden copiar ni modificar ningún software con licencia copyleft.
 
-- True
-- False
+- Verdadero
+- Falso
 
-## Programming Best Practices
+## Las Mejores Prácticas de Programación
 
-In this section, some best practices in development are provided including on code review, testing, security, and accessibility. These best practices will improve the quality of code, reproducibility of results, and security of a project. Combined, these actions help improve the robustness of open access code and help to meet the unique challenges that can arise with multiple contributors and revisions that occur over an extended period of time.
+En esta sección, se proporcionan algunas prácticas recomendadas en desarrollo, incluidas la revisión de código, pruebas, seguridad y accesibilidad. Estas prácticas mejorarán la calidad del código, la reproducibilidad de los resultados y la seguridad de un proyecto. Las acciones mencionadas ayudan a mejorar la solidez del código de acceso abierto y ayudan a enfrentar los desafíos únicos que pueden surgir con múltiples contribuyentes y revisiones que ocurren durante un período prolongado de tiempo.
 
-### Code Review
+### Revisión de Código
 
-Code benefits from peer review in the same way as science. Having someone else read over your code and test it is one of the best ways to improve the quality of the code.
+El código se beneficia de la revisión por pares de la misma manera que la ciencia. Hacer que otra persona lea tu código y lo pruebe es una de las mejores formas de mejorar la calidad del código.
 
-Many version control platforms have built in tools that enable developers to review, comment, and iterate on each other’s code. These can be done in the open and allow anyone to comment.
+Muchas plataformas de control de versiones tienen herramientas integradas que permiten a los desarrolladores revisar, comentar e iterar el código de otros. Los controles se pueden hacer de forma abierta y permitir que cualquiera pueda comentar.
 
-Here is a great example of the discussion that can happen when the original creator of an algorithm [comments on a python implementation made by a first time contributor to the Astropy project](https://github.com/astropy/astropy/pull/4301). The open and constructive discussion led to a better implementation of the algorithm along with possible future improvements.
+Aquí hay un gran ejemplo de la discusión que puede presentarse cuando el creador original de un algoritmo [comenta sobre una implementación de Python realizada por un colaborador primerizo del proyecto Astropy.](https://github.com/astropy/astropy/pull/4301) La discusión abierta y constructiva condujo a una mejor implementación del algoritmo junto con posibles mejoras futuras.
 
-Software packages can be reviewed as their own products as well. Many scientific publications now accept papers focused on software. There are entities like [PyOpenSci](https://www.pyopensci.org/) and the [Journal of Open Source Software](https://joss.theoj.org/) that provide open peer review of scientific packages. See more details about JOSS in the next lesson on sharing your code.
+Los paquetes de software también se pueden revisar como productos propios. Muchas publicaciones científicas ahora aceptan artículos centrados en software. Hay entidades como [PyOpenSci](https://www.pyopensci.org/) y el [Journal of Open Source Software](https://joss.theoj.org/) que ofrecen revisión abierta por pares de paquetes científicos. Puedes ver más detalles sobre JOSS en la próxima lección sobre cómo compartir tu código.
 
-### Testing
+### Pruebas
 
-A proven method to evaluate the reproducibility of your software is through testing. There are many types of testing that range from testing the smallest testable parts of a code to verifying if a code works as whole under different scenarios. Code testing can include a wide range of different techniques. The following lesson section provides only a brief introduction to the topic.
+Un método probado para evaluar la reproducibilidad de tu software es mediante pruebas. Hay muchos tipos de pruebas que van desde probar las partes comprobables más pequeñas de un código hasta verificar si un código funciona en su totalidad en diferentes escenarios. Las pruebas de código pueden incluir una amplia gama de técnicas diferentes. La siguiente sección de la lección proporciona sólo una breve introducción al tema.
 
-The main objective of code testing is to evaluate if a code does what its authors intended it to do. Comprehensively testing code can be very difficult as it involves testing the code for generating expected outputs as well as for failing when it should.
+El principal objetivo de las pruebas de código es evaluar si un código hace lo que sus autores pretendían que hiciera. Probar el código de manera integral puede ser muy difícil, ya que implica probar el código para generar los resultados esperados y para fallar cuando debería.
 
 <table>
   <thead>
     <tr>
-        <th>SCIENTIFIC VALIDATION ☑</th>
-        <th>REPRODUCI-BILITY TESTING</th>
-        <th>BUILT IN TESTS</th>
-        <th>AUTOMATED TESTING</th>
+        <th>VALIDACIÓN CIENTÍFICA ☑</th>
+        <th>PRUEBAS DE REPRODUCIBILIDAD</th>
+        <th>PRUEBAS INTEGRADAS</th>
+        <th>PRUEBAS AUTOMATIZADAS</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Whether producing a script or an entire data processing pipeline, the validation of software is critical to ensuring the quality and trustworthiness of the scientific results. This could mean manually calculating the results to check the output of the code or comparing to previously produced results or having another team member test it.</p>
+            <p>Ya sea que se produzca un guión o un proceso completo de procesamiento de datos, la validación del software es fundamental para garantizar la calidad y confiabilidad de los resultados científicos. Esto podría significar calcular manualmente los resultados para verificar el resultado del código o compararlos con resultados producidos anteriormente o hacer que otro miembro del equipo lo pruebe.</p>
         </td>
     </tr>
   </tbody>
@@ -422,16 +422,16 @@ The main objective of code testing is to evaluate if a code does what its author
 <table>
   <thead>
     <tr>
-        <th>SCIENTIFIC VALIDATION</th>
-        <th>REPRODUCI-BILITY TESTING ☑</th>
-        <th>BUILT IN TESTS</th>
-        <th>AUTOMATED TESTING</th>
+        <th>VALIDACIÓN CIENTÍFICA</th>
+        <th>PRUEBAS DE REPRODUCIBILIDAD ☑</th>
+        <th>PRUEBAS INTEGRADAS</th>
+        <th>PRUEBAS AUTOMATIZADAS</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Given the same inputs and parameters, can the same results be produced? Making the configuration files, input data, etc. openly available so users can easily run and produce the same published results is a critical way to increase trust in your code.</p>
+            <p>Dados los mismos insumos y parámetros, ¿se pueden producir los mismos resultados? Hacer que los archivos de configuración, los datos de entrada, etc. estén disponibles abiertamente para que los usuarios puedan ejecutarlos fácilmente y producir los mismos resultados publicados es una forma fundamental de aumentar la confianza en su código.</p>
         </td>
     </tr>
   </tbody>
@@ -440,16 +440,16 @@ The main objective of code testing is to evaluate if a code does what its author
 <table>
   <thead>
     <tr>
-        <th>SCIENTIFIC VALIDATION</th>
-        <th>REPRODUCI-BILITY TESTING</th>
-        <th>BUILT IN TESTS ☑</th>
-        <th>AUTOMATED TESTING</th>
+        <th>VALIDACIÓN CIENTÍFICA</th>
+        <th>PRUEBAS DE REPRODUCIBILIDAD</th>
+        <th>PRUEBAS INTEGRADAS ☑</th>
+        <th>PRUEBAS AUTOMATIZADAS</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Unit tests enable software developers to bolster their confidence in their code’s ability to perform as expected. Unit tests are small functions that sit outside the code base that test a specific function or run a specific test. For example, if a function takes an image and flips it horizontally, one test might check that the resulting image is the same size. Another compares the output using a known image with the expected result. Another checks that a new image is returned.</p>
+            <p>Las pruebas unitarias permiten a los desarrolladores de software reforzar su confianza en la capacidad de su código para funcionar según lo esperado. Las pruebas unitarias son pequeñas funciones que se encuentran fuera de la base del código y que prueban una función específica o ejecutan una prueba específica. Por ejemplo, si una función toma una imagen y la voltea horizontalmente, una prueba podría verificar que la imagen resultante tenga el mismo tamaño. Otro compara la salida utilizando una imagen conocida con el resultado esperado. Otro comprueba que se devuelva una nueva imagen.</p>
         </td>
     </tr>
   </tbody>
@@ -458,43 +458,43 @@ The main objective of code testing is to evaluate if a code does what its author
 <table>
   <thead>
     <tr>
-        <th>SCIENTIFIC VALIDATION</th>
-        <th>REPRODUCI-BILITY TESTING</th>
-        <th>BUILT IN TESTS</th>
-        <th>AUTOMATED TESTING ☑</th>
+        <th>VALIDACIÓN CIENTÍFICA</th>
+        <th>PRUEBAS DE REPRODUCIBILIDAD</th>
+        <th>PRUEBAS INTEGRADAS</th>
+        <th>PRUEBAS AUTOMÁTICAS ☑</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Built in tests can usually be run both manually and automatically. Most version control platforms offer services for running tests automatically. When run this way, code can be checked to see if changes raise any problems. This process of checking the code automatically as it is developed is called continuous development or continuous integration (CI/CD). If a small change made in one part of the code results in an unexpected change in another part, running the tests will uncover this immediately.</p>
+            <p>Las pruebas integradas generalmente se pueden ejecutar tanto de forma manual como automática. La mayoría de las plataformas de control de versiones ofrecen servicios para ejecutar pruebas automáticamente. Cuando se ejecuta de esta manera, se puede verificar el código para ver si los cambios generan algún problema. Este proceso de verificar el código automáticamente a medida que se desarrolla se llama desarrollo continuo o integración continua (CI/CD). Si un pequeño cambio realizado en una parte del código da como resultado un cambio inesperado en otra parte, la ejecución de las pruebas lo descubrirá inmediatamente.</p>
         </td>
     </tr>
   </tbody>
 </table>
 
-### Minimizing the Risk of Security Vulnerabilities
+### Minimizar el Riesgo de Vulnerabilidades de Seguridad
 
-Whether using open source, closed source, or commercial software, it is important to consider the security risks inherent in the development of software.
+Ya sea que se utilice software de código abierto, de código cerrado o comercial, es importante considerar los riesgos de seguridad inherentes al desarrollo de software.
 
-- Ensure minimal, DRY (Don’t repeat yourself) code (easier to maintain and fix).
-- Use global variables or key managers for credentials. Never include credentials in your code.
-- Use well-tested and maintained dependencies. In packages that you maintain, keep the list of dependencies up to date.
-- Create software with tools that provide automated scanning and auditing.
-- If there are unsupported dependencies that you rely on, assess them to determine how they might introduce security risks and whether it would be appropriate to switch to a different package.
+- Asegúrate de que haya un código mínimo y DRY (no lo repita) (más fácil de mantener y reparar).
+- Utiliza variables globales o administradores de claves para las credenciales. Nunca incluyas credenciales en su código.
+- Utiliza dependencias bien probadas y mantenidas. En los paquetes que mantiene, mantén actualizada la lista de dependencias.
+- Crea software con herramientas que proporcionen escaneo y auditoría automatizados.
+- Si hay dependencias no compatibles en las que confías, evalúalas para determinar cómo podrían introducir riesgos de seguridad y si sería apropiado cambiar a un paquete diferente.
 
 <table>
   <thead>
     <tr>
-        <th>SECURITY TOOLS AND SECURITY VULNERABILITIES ☑</th>
-        <th>TEST COMPONENTS AND DEPENDENCIES</th>
+        <th>HERRAMIENTAS Y VULNERABILIDADES DE SEGURIDAD ☑</th>
+        <th>COMPONENTES DE PRUEBA Y DEPENDENCIAS</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="2">
-            <p>Commercial and open-source tools have been developed to address the challenge of identifying the security vulnerabilities in different source components. If you do not have any technology to secure your open source usage, you can consider using the Dependabot or <a href="https://owasp.org/">OWASP</a> dependency check tools.</p>
-            <p>The Open Web Application Security Project (OWASP), is an online community that produces free tools and technologies in the field of web application security. OWASP dependency check is a utility created for developers, which identifies project dependencies and checks if they contain any known, publicly disclosed, open-source vulnerabilities.</p>
+            <p>Se han desarrollado herramientas comerciales y de código abierto para abordar el desafío de identificar las vulnerabilidades de seguridad en distintos componentes de la fuente. Si no dispones de ninguna tecnología para asegurar el uso de código abierto, puedes considerar utilizar las herramientas de verificación de dependencias Dependabot o <a href="https://owasp.org/">OWASP</a>.</p>
+            <p>El Proyecto de Seguridad de Aplicaciones Web Abiertas (Open Web Application Security Project, OWASP) es una comunidad en línea que produce herramientas y tecnologías gratuitas en el campo de la seguridad de aplicaciones web. La verificación de dependencias de OWASP es una herramienta creada por desarrolladores, que identifica las dependencias de un proyecto y verifica si contineen alguna vulnerabilidad conocida de código abierto que haya sido públicamente divulgada.</p>
         </td>
     </tr>
   </tbody>
@@ -503,53 +503,35 @@ Whether using open source, closed source, or commercial software, it is importan
 <table>
   <thead>
     <tr>
-        <th>SECURITY TOOLS AND SECURITY VULNERABILITIES</th>
-        <th>TEST COMPONENTS AND DEPENDENCIES ☑</th>
+        <th>HERRAMIENTAS Y VULNERABILIDADES DE SEGURIDAD</th>
+        <th>COMPONENTES DE PRUEBA Y DEPENDENCIAS ☑</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="2">
-            <p>Testing the security of the open-source components you are using is the best way to ensure the safety of your applications and your organization. Your commitment to timely and frequent analysis of open-source components should be the same as to your proprietary code.</p>
-            <p>This is especially true as the component in question may have unknown security vulnerabilities or dependencies that differ with each use case. It is possible for a component to be secure in a particular application but vulnerable in another.</p>
+            <p>Probar la seguridad de los componentes de código abierto que estás utilizando es la mejor manera de garantizar la seguridad de tus aplicaciones y de tu organización. Tu compromiso con el análisis oportuno y frecuente de los componentes de código abierto debería ser el mismo que con tu propio código.</p>
+            <p>Esto es especialmente cierto dado que el componente en cuestión puede tener vulnerabilidades de seguridad desconocidas o dependencias que difieren en cada caso de uso. Es posible que un componente sea seguro en una aplicación concreta, pero vulnerable en otra.</p>
         </td>
     </tr>
   </tbody>
 </table>
 
-### Creating FAIR Software
+### Creación de Software FAIR
 
 <table>
   <thead>
     <tr>
-        <th>FINDABLE ☑</th>
-        <th>ACCESSIBLE</th>
-        <th>INTER-OPERABLE</th>
-        <th>REUSABLE</th>
+        <th>FÁCIL DE ENCONTRAR☑</th>
+        <th>ACCESIBLE</th>
+        <th>INTEROPERABLE</th>
+        <th>REUTILIZABLE</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Software includes a persistent and unique identifier and rich metadata, so it is easy for humans and machines to find.</p>
-        </td>
-    </tr>
-  </tbody>
-</table>
-
-<table>
-  <thead>
-    <tr>
-        <th>FINDABLE</th>
-        <th>ACCESSIBLE ☑</th>
-        <th>INTER-OPERABLE</th>
-        <th>REUSABLE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td colspan="4">
-            <p>Software is retrievable from its identifier via standard communication protocols.</p>
+            <p>El software incluye un identificador persistente y único, así como metadatos completos, lo que facilita su ubicación tanto para humanos como para máquinas.</p>
         </td>
     </tr>
   </tbody>
@@ -558,16 +540,16 @@ Whether using open source, closed source, or commercial software, it is importan
 <table>
   <thead>
     <tr>
-        <th>FINDABLE</th>
-        <th>ACCESSIBLE</th>
-        <th>INTER-OPERABLE ☑</th>
-        <th>REUSABLE</th>
+        <th>FÁCIL DE ENCONTRAR</th>
+        <th>ACCESIBLE ☑</th>
+        <th>INTEROPERABLE</th>
+        <th>REUTILIZABLE</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Software interoperates with other software; it exchanges data and/or metadata via community standards.</p>
+            <p>El software se puede recuperar a partir de su identificador mediante protocolos de comunicación estándar.</p>
         </td>
     </tr>
   </tbody>
@@ -576,104 +558,122 @@ Whether using open source, closed source, or commercial software, it is importan
 <table>
   <thead>
     <tr>
-        <th>FINDABLE</th>
-        <th>ACCESSIBLE</th>
-        <th>INTER-OPERABLE</th>
-        <th>REUSABLE ☑</th>
+        <th>FÁCIL DE ENCONTRAR</th>
+        <th>ACCESIBLE</th>
+        <th>INTEROPERABLE ☑</th>
+        <th>REUTILIZABLE</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Fully described metadata with provenance, meeting community standards. License permits reuse.</p>
+            <p>El software es interoperable con otros programas; intercambia datos y/o metadatos utilizando estándares compartidos.</p>
         </td>
     </tr>
   </tbody>
 </table>
 
-### Additional Helpful Tips
+<table>
+  <thead>
+    <tr>
+        <th>FÁCIL DE ENCONTRAR</th>
+        <th>ACCESIBLE</th>
+        <th>INTEROPERABLE</th>
+        <th>REUTILIZABLE ☑</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td colspan="4">
+            <p>Metadatos completamente descritos con su procedencia, cumpliendo con las normas de la comunidad. La licencia permite su reutilización.</p>
+        </td>
+    </tr>
+  </tbody>
+</table>
 
-Here are some further suggestions on how to make your code more accessible, reproducible, and transparent:
+### Consejos adicionales útiles
 
-|                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Descriptive Names**       | Variables, functions, and similar entities should be given descriptive names as opposed to vague names. Descriptive names instantly give other programmers an idea of what the variable or function is. For example, the variable name **colourOfCat** is a good name because it describes what it intends to do, which is to encompass the color of a cat.                                                                                                                                                                                                                  |
-| **Metadata File**           | Consider including a metadata file for your software to make it more discoverable. A ‘codemeta.json’ can be created using [Code Meta's generator](https://codemeta.github.io/codemeta-generator/) to include with your package.                                                                                                                                                                                                                                                                                                                                              |
-| **Operation Documentation** | Share details about how you are running the code. For example, document the version of a software library you are using, or the version of the compiler. These are often shared in an 'environment.yml' file.                                                                                                                                                                                                                                                                                                                                                |
-| **Automation**              | Consider the following scenario:<br><br>You are getting ready to publish your paper that includes 17 plots that all depend on a data set released by a mission. Right before you are about to submit, the mission releases an updated version of the data set.<br><br> How easy will it be to recreate those plots?<br><br> Software allows you to automate the running of scripts and alert programmers when written so that input files are not hardcoding. This allows programmers to easily re-run code if an initial parameter changes. |
-| **Using Standards**         | Most languages have their own coding style adopted by their respective communities. Following those conventions makes it easier for others to contribute to your code and makes your project more inclusive.                                                                                                                                                                                                                                                                                                                                                                                 |
-| **Portability**             | Share details about how you are running the code, for example the version of a software library you are using, or the version of the compiler. These are often shared in an 'environment.yml' file.                                                                                                                                                                                                                                                                                                                                                                          |
-| **Naming**                  | Many historical terms used in software have negative connotations depending on the context. When considering different terms or naming, consider how different audiences may react to those terms.                                                                                                                                                                                                                                                                                                                                                                                           |
+Aquí hay algunas sugerencias adicionales sobre cómo hacer que tu código sea más accesible, reproducible y transparente:
 
-## Lesson 3: Summary
+|                                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nombres descriptivos**         | Las variables, funciones y entidades similares deben recibir nombres descriptivos en lugar de nombres vagos. Los nombres descriptivos dan de inmediato a otros programadores una idea de lo que representa la variable o la función. Por ejemplo, el nombre de variable **ColorDeGato** es un buen nombre porque describe lo que pretende hacer, que es abarcar el color de gatos.                                                                                                                                                                                                                                                           |
+| **Archivo de metadatos**         | Considera incluir un archivo de metadatos para tu software para facilitar su búsqueda. Puedes crear un archivo 'codemeta.json' empleando [Code Meta generator](https://codemeta.github.io/codemeta-generator/) para incluirlo con tu paquete.                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Documentación de Operaciones** | Comparte detalles sobre cómo estás ejecutando el código. Por ejemplo, documenta la versión de la biblioteca de software que estás utilizando o la versión del compilador. Suelen compartirse en un archivo 'environment.yml'.                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Automatización**               | Considera el siguiente escenario:<br><br>Estás a punto de publicar un artículo que incluye 17 gráficos que dependen de un conjunto de datos lanzado por una misión. Justo antes de enviarlo, la misión publica una versión actualizada del conjunto de datos.<br><br> ¿Qué tan fácil será recrear esos gráficos? <br><br> El software permite automatizar la secuencia de programas y alertar a los programadores cuando se ejecuten para que los archivos de entrada se codifiquen de forma rígida. Esto permite a los programadores volver a ejecutar fácilmente el código si cambia un parámetro inicial. |
+| **Uso de normas**                | La mayoría de los lenguajes tienen su propio estilo de codificación adoptado por sus respectivas comunidades. Seguir esas convenciones facilita que otros contribuyan al código que construiste y hace que tu proyecto sea más inclusivo.                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| **Portabilidad**                 | Comparte detalles sobre cómo estás ejecutando el código, por ejemplo, la versión de una biblioteca de software que estás utilizando o la versión del compilador. Todo esto suele compartirse en un archivo 'environment.yml'.                                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Nomenclatura**                 | Muchos términos históricos utilizados en el software tienen connotaciones negativas según el contexto. A la hora de considerar diferentes términos o denominaciones, hay que tener en cuenta cómo pueden reaccionar ante ellos los distintos públicos.                                                                                                                                                                                                                                                                                                                                                                                                       |
 
-In this lesson, you learned:
+## Lección 3: Resumen
 
-- Planning a new project requires programmers to have a clearly defined purpose, recognize any resource limitations, and envision a data management plan.
-- Using a repository with version control allows developers to track changes across time and from multiple contributors, which can help with troubleshooting for errors and with managing a team of programers.
-- A README file should include the name of a project and short but clear description of the software.
-- Licenses ensure that developers receive credit and control over how their work is used. Without a license, software is assumed copyrighted and without permissions
-- Testing, labeling, and implementing security measures are examples of programming best practices that support Open Science.
+En esta lección has aprendido:
 
-In addition to learning how to Share your Code in the next lesson, you will also have some opportunities to put this lesson into practice.
+- La planificación de un nuevo proyecto requiere que los programadores tengan un propósito claramente definido, reconozcan cualquier limitación de recursos y prevean un plan de gestión de datos.
+- El uso de un repositorio con control de versiones permite a los desarrolladores hacer un seguimiento de los cambios a lo largo del tiempo y de los múltiples colaboradores, lo que puede ayudar a solucionar errores y a gestionar un equipo de programadores.
+- Un archivo LEEME debe incluir el nombre del proyecto y una descripción breve pero clara del software.
+- Las licencias aseguran que las personas que desarrollan el software reciben crédito y control sobre cómo se utiliza su trabajo. Sin licencia, se supone que el software tiene derechos de autor y no tiene permisos
+- La realización de pruebas, etiquetar y aplicar medidas de seguridad son ejemplos de buenas prácticas de programación que favorecen la Ciencia Abierta.
 
-## Lesson 3: Knowledge Check
+Además de aprender a compartir tu código en la próxima lección, también tendrás algunas oportunidades para poner esta lección en práctica.
 
-Answer the following questions to test what you have learned so far.
+## Lección 3: Evaluación
 
-_Question_
+Responde las siguientes preguntas para poner a prueba lo que has aprendido hasta ahora.
+
+_Pregunta_
 
 **01/05**
 
-Which of the following should be considered when planning an open software project? Select all that apply.
+¿Cuál de los siguientes aspectos debe tenerse en cuenta a la hora de planificar un proyecto de software abierto? Seleccione todas las opciones que correspondan.
 
-- The intended user audience.
-- What protocol will be used to sync changes between individual contributors and the central repository.
-- The programming language to be used.
-- Who will financially benefit from sales of the software.
+- El público al que va dirigido.
+- Qué protocolo se utilizará para sincronizar cambios entre los colaboradores individuales y el repositorio central.
+- El lenguaje de programación que se utilizará.
+- Quién se beneficiará económicamente de las ventas del software.
 
-_Question_
+_Pregunta_
 
 **02/05**
 
-Which of the following is a benefit of using a version control system in your software?
+¿Cuál de las siguientes es una ventaja de utilizar un sistema de control de versiones en tu software?
 
-- New changes are automatically tracked.
-- Different contributors can add or edit code at the same time.
-- Undesirable changes can be quickly reverted.
-- All of the above.
+- Los nuevos cambios son registrados automáticamente.
+- Diferentes colaboradores pueden agregar o editar código al mismo tiempo.
+- Los cambios no deseados pueden revertirse rápidamente.
+- Todas las anteriores.
 
-_Question_
+_Pregunta_
 
 **03/05**
 
-Select two items that are good to include in a README file from the list below:
+Selecciona de la siguiente lista dos elementos que serían buenos incluir en un archivo LEEME:
 
-- Installation/compilation instructions
-- Code development history
-- The most important portions of the code
-- Usage instructions and example output
+- Instrucciones de instalación/compilación
+- Historial de desarrollo de código
+- Las partes más importantes del código
+- Instrucciones de uso y ejemplos
 
-_Question_
+_Pregunta_
 
 **04/05**
 
-Which of the following licenses allows users to reuse, but also require users to share their changes with the community using the same license?
+¿Cuál de las siguientes licencias permite a los usuarios reutilizar, pero también requiere que compartan sus cambios con la comunidad utilizando la misma licencia?
 
-- Public Domain
-- Lesser general domain
-- Permissive
-- Protective License
-- Commercial
+- Dominio Público
+- Licencia Pública General Reducida
+- Licencia Permisiva
+- Licencia protectora
+- Licencia Comercial
 
-_Question_
+_Pregunta_
 
 **05/05**
 
-Which of the following practices makes your project more inclusive?
+¿Cuál de las siguientes prácticas hace que tu proyecto sea más inclusivo?
 
-- Including a Code of Conduct.
-- Referencing historical events in the name of your project.
-- Following standards for the programming language being used.
-- Developing the project privately.
-- Including a Guideline for Contributors.
+- Incluir un Código de Conducta.
+- Referenciar eventos históricos en el nombre de tu proyecto.
+- Seguir las normas del lenguaje de programación utilizado.
+- Desarrollar el proyecto de forma privada.
+- Incluir una guía para los colaboradores.

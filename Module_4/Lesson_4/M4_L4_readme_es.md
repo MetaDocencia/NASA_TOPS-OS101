@@ -1,92 +1,92 @@
-# Lesson 4: Sharing Open Code
+# Lección 4: Compartir Código abierto
 
-## Navigation
+## Contenidos
 
-- [Overview](#overview)
-- [Learning Objectives](#learning-objectives)
-- [Planning to Share Your Code](#planning-to-share-your-code)
-- [Legal and Security Concerns](#legal-and-security-concerns)
-- [When: The Schedule for Code Archiving and Sharing](#when-the-schedule-for-code-archiving-and-sharing)
-- [Where: Where To Share Open Code](#where-to-share-open-code)
-- [How: How to Enable Reuse of Code](#how-how-to-enable-reuse-of-code)
-- [Who: Roles and Responsibilities of the Team Members in Implementing the SMP](#who-roles-and-responsibilities-of-the-team-members-in-implementing-the-smp)
-- [Lesson 4: Summary](#lesson-4-summary)
-- [Lesson 4: Knowledge Check](#lesson-4-knowledge-check)
+- [Descripción general](#descripcion-general)
+- [Objetivos de Aprendizaje](#objetivos-de-aprendizaje)
+- [Planificación para compartir tu código](#planning-to-share-your-code)
+- [Preocupaciones legales y de seguridad](./Lesson_4#legal-and-security-concerns)
+- [Cuando: El Cronograma para Archivar y Compartir Código.](./Lesson_4#when-the-schedule-for-code-archiving-and-sharing)
+- [Dónde: Dónde Compartir Código Abierto](./Lesson_4#where-to-share-open-code)
+- [Cómo: Cómo habilitar la reusabilidad del código](./Lesson_4#how-to-enable-reuse-of-code)
+- [Quién: Roles y Responsibilidades de los Miembros del Equipo en la Implementación del SMP](./Lesson_4#who-roles-and-responsibilities-of-the-team-members-in-implementing-the-smp)
+- [Lección 4: Resumen](#lesson-4-summary)
+- [Lección 4: Evaluación](#leccion-4-evaluacion)
 
-## Overview
+## Descripción general
 
-In this lesson you learn the steps for sharing the software that you developed. These steps include determining if, when, and where software should be shared, which roles are needed, and how to enable others to use the code.
+En esta lección aprenderás los pasos para compartir el software que desarrollaste. Estos pasos incluyen determinar si el software debe compartirse, cuándo y dónde, qué funciones son necesarias y cómo permitir que otros utilicen el código.
 
-## Learning Objectives
+## Objetivos de aprendizaje
 
-After completing this lesson, you should be able to:
+Después de completar este módulo, deberías ser capaz de:
 
-- Describe what it means to share code: for archiving or for code development.
-- Evaluate whether you should share your code and list important security considerations.
-- Describe best practices for when and where to share code.
-- Recall commonly used practices to help others reuse your code.
-- List the roles and responsibilities for sharing and maintaining shared code.
+- Describir lo que significa compartir código: para archivar o para desarrollar código.
+- Evaluar si se debe compartir el código y enumerar las consideraciones importantes en materia de seguridad.
+- Describir las mejores prácticas para cuándo y dónde compartir código.
+- Recordar las prácticas más habituales para ayudar a otros a reusar tu código.
+- Enumerar los roles y las responsabilidades para compartir y mantener el código compartido.
 
-## Planning to Share Your Code
+## Planificación para compartir tu código
 
 <img src="../images/media/image540.png" style="width:350px;height:auto;" />
 
-"I've been working on code, and now a new collaborator wants to use the code. Awesome! What is the best way to share the code? By email? When should I share the code, and what should I include to ensure the colleague can easily use it?"
+Estuve trabajando en un código y ahora un nuevo colaborador quiere utilizarlo. ¡Genial! ¿Cuál es la mejor manera de compartir el código? ¿Por correo electrónico? ¿Cuándo debo compartir el código y qué debo incluir para asegurar que esta persona pueda utilizarlo fácilmente?"
 
-### What Does it Mean to "Share" Your Code?
+### ¿Qué significa "Compartir" tu código?
 
-There are two major categories of sharing: sharing for development and providing a long-term record.
+Para compartir, existen dos categorías principales: el compartir para el desarrollo y el proporcionar un registro a largo plazo.
 
-### Open Source Code Development
+### Desarrollo de código abierto
 
-Writing scientific code is often a dynamic and collaborative process in which multiple people contribute and the code evolves over time. In such projects, it is beneficial to develop open code within a public repository hosting platform such as Github, Bitbucket, GitLab etc. from the beginning of a project. This ensures that all updates are shared openly on the web and can reach potentially interested collaborators and users in near real time.
+Escribir código científico suele ser un proceso dinámico y colaborativo en el que contribuyen varias personas y el código evoluciona con el tiempo. En este tipo de proyectos, es beneficioso desarrollar código abierto en una plataforma pública de alojamiento de repositorios como Github, Bitbucket, GitLab, etc. desde el principio del proyecto. Esto garantiza que todas las actualizaciones se compartan abiertamente en la web y puedan llegar a colaboradores y usuarios potencialmente interesados casi en tiempo real.
 
-### Archiving Open Code
+### Archivado Código Abierto
 
-Archiving ensures your scientific code is accessible for the long-term, and may satisfy archiving requirements from funding agencies and organizations. Long-term accessibility helps others to reproduce your results long after publication. Archiving alone does not promote continued development or collaboration. Archiving is a static and long-term preservation of your software, not an evolution of it.
+El archivado garantiza que tu código científico sea accesible a largo plazo y pueda cumplir con los requisitos de archivado de organismos de financiación e instituciones. La accesibilidad a largo plazo ayuda a otros a reproducir tus resultados mucho tiempo después de tu publicación. El archivado por sí solo no fomenta el desarrollo continuo ni la colaboración. Se trata de preservar el software de forma estática y a largo plazo, no de hacerlo evolucionar.
 
-### Should You Share Your Software?
+### ¿Deberías compartir tu software?
 
-There are several legal and security concerns to keep in mind when creating or using open software.
+Hay varias cuestiones legales y de seguridad que hay que tener en cuenta a la hora de crear o usar software abierto.
 
-- Any software you create is usually considered intellectual property and might be controlled by your organization’s policies.
-- Such policies may influence how openly the software can be shared, and therefore, its license.
-- Downloading and contributing to open software projects can be regulated by your organization's IT security policies.
+- Por lo general, cualquier software que crees se considera propiedad intelectual y puede estar controlado por las políticas de tu institución.
+- Tales políticas pueden influir en cuán abiertamente se puede compartir el software y, por lo tanto, su licencia.
+- La descarga y contribución a proyectos de software libre puede estar regulada por las políticas de seguridad informática de tu institución.
 
-In contrast, if the software was created with external (government) funding, some funding agencies may require the software be openly shared.
+En cambio, si el software se desarrolló con financiación externa (del gobierno), algunos organismos de financiamiento pueden exigir que el software se comparta abiertamente.
 
-### Deep dive: Software Management Plans (SMP)
+### Plan de gestión de software (PGS)
 
-Remember the parts of the Software Management Plan? What do we need to consider when it comes to sharing?
+¿Recuerdas las partes del Plan de Gestión de Software? ¿Qué debemos tener en cuenta a la hora de compartir?
 
-- **What:** Description of management, preservation, and release of software.
-- **When:** The schedule for code archiving and sharing.
-- **Where:** Location where software will be shared and archived over the long-term.
-- **How:** Enable reuse of software through assigning a DOI, license, contribution guidelines, etc.
-- **Who:** Roles and responsibilities of the team members.
+- **Qué:** Descripción de la gestión, conservación y distribución de software.
+- **Cuándo:** El cronograma para archivar y compartir software.
+- **Dónde:** Ubicación donde se compartirá y archivará el software a largo plazo.
+- **Cómo:** Habilitar la reutilización del software mediante la asignación de un DOI, licencia, directrices de contribución, etc.
+- **Quién:** Roles, funciones y responsabilidades de los miembros del equipo.
 
-## Legal and Security Concerns
+## Cuestiones legales y de seguridad
 
 <table>
   <thead>
     <tr>
-        <th>LEGAL CONCERNS ☑</th>
-        <th>SECURITY CONCERNS</th>
+        <th>CUESTIONES LEGALES ☑</th>
+        <th>CUESTIONES DE SEGURIDAD</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="2">
-            <p>Anyone writing research code and software should familiarize themselves with their organization's policies on sharing and publishing software. Funding agencies, government or private, may have strict software openness requirements. In other cases, sharing software may not be allowed by the organization.</p>
-            <p>Legal concerns can include questions such as:</p>
+            <p>Todo aquel que escriba código y software de investigación debe familiarizarse con las políticas de su institución en materia de compartir y publicar software. Las organismos de financiamiento, gubernamentales o privados, pueden tener requisitos estrictos en cuanto a software abierto. En otras ocasiones, la institución puede no permitir que se comparta el software.</p>
+            <p>Las cuestiones legales pueden incluir preguntas como:</p>
             <ul>
-                <li>Does a developer or institution own the software?</li>
-                <li>Does sharing (or not sharing) the software violate the funding agency’s policies?</li>
-                <li>Are there any local laws or regulations in your area that govern the sharing of intellectual property?</li>
-                <li>What software license is required?</li>
+                <li>¿Es un desarrollador o una institución el propietario del software?</li>
+                <li>¿El compartir (o no compartir) el software viola las políticas del organismo de financiamiento?</li>
+                <li>¿Existen leyes o normas en tu zona que regulen compartir la propiedad intelectual?</li>
+                <li>¿Qué licencia de software se necesita?</li>
             </ul>
-            <p><strong>Once you decide to participate in or begin a new open software project, familiarize yourself with your organization’s policies and practices.</strong></p>
-            <p>Find out more about the legal concerns <a href="https://opensource.guide/legal/">here</a>.</p>
+            <p><strong>Cuando decidas participar o iniciar un nuevo proyecto de software libre, familiarízate con las políticas y prácticas de tu institución.</strong></p>
+            <p>Más información sobre los aspectos legales <a href="https://opensource.guide/legal/">aquí</a>.</p>
         </td>
     </tr>
   </tbody>
@@ -95,301 +95,301 @@ Remember the parts of the Software Management Plan? What do we need to consider 
 <table>
   <thead>
     <tr>
-        <th>LEGAL CONCERNS</th>
-        <th>SECURITY CONCERNS ☑</th>
+        <th>CUESTIONES LEGALES</th>
+        <th>CUESTIONES DE SEGURIDAD ☑</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="2">
-            <p>Security is a concern when sharing software. Bad actors can attach malicious code to software in an attempt to infiltrate computer systems through security vulnerabilities, potentially exposing sensitive and proprietary information that can lead to great financial loss for users. Security risks must be considered when sharing software.</p>
-            <p>Security concerns can include:</p>
+            <p>La seguridad es una preocupación a la hora de compartir software. Las personas malintencionadas pueden adjuntar códigos maliciosos a los programas en un intento de infiltrarse en los sistemas informáticos a través de vulnerabilidades de seguridad, exponiendo potencialmente información sensible y privada que puede acarrear grandes pérdidas económicas a los usuarios. Los riesgos de seguridad deben tenerse en cuenta a la hora de compartir software.</p>
+            <p>Las cuestiones de seguridad pueden incluir:</p>
             <ul>
-                <li>Does your organization’s Information Technology (IT) policy allow you to checkout the code you want to use on your machine?</li>
-                <li>Is the repository you want to contribute to reputable?</li>
-                <li>Are there any open security-related issues with the code?</li>
+                <li>¿La política de tecnologías de la información (TI) de tu institución permite que pongas a prueba el código que quieres usar en tu máquina?</li>
+                <li>¿Tiene buena reputación el repositorio al que quieres contribuir?</li>
+                <li>¿Hay algún problema abierto relacionado con la seguridad del código?</li>
             </ul>
-            <p><strong>Once you decide to participate in or begin a new open software project, familiarize yourself with your organization's IT policies.</strong></p>
-            <p>Find out more about the security concerns <a href="https://opensciency.github.io/sprint-content/open-software/lesson2-pros-cons.html#security-concerns">here</a>.</p>
+            <p><strong>Cuando decidas participar o iniciar un nuevo proyecto de software libre, familiarízate con las políticas informáticas de tu institución.</strong></p>
+            <p>Más información sobre los aspectos legales <a href="https://opensource.guide/legal/">aquí</a>.</p>
         </td>
     </tr>
   </tbody>
 </table>
 
-### Sharing Software Created with US Agency Funding
+### Compartir programas informáticos creados con fondos de organismos de los Estados Unidos
 
-Many federal agencies are now allowing (if not requiring) the sharing of code created under their grant programs. For example:
+Muchos organismos federales ya permiten (si no exigen) compartir el código creado en el marco de sus programas de subsidios. Por ejemplo:
 
-- [NASA](https://www.nasa.gov/open/open-source-development.html) "...we are actively reaching out to projects within NASA to make use of ...resources for publishing open source."
-- [US Department of Commerce](https://www.commerce.gov/about/policies/source-code) "...requires agencies to develop plans to release at least 20 percent of new custom-developed source code as Open Source Software (OSS) when commissioning new custom software."
-- [USGS](https://www.usgs.gov/survey-manual/im-osqi-2019-01-review-and-approval-scientific-software-release) "...software releases are considered to be public domain assets and are generally made available free of restrictions."
+- [NASA](https://www.nasa.gov/open/open-source-development.html) "...estamos llegando activamente a proyectos dentro de la NASA para hacer uso de ...recursos para publicar código abierto."
+- [Departamento de Comercio de los EE.UU.](https://www.commerce.gov/about/policies/source-code) "...requiere que las organismos desarrollen planes para liberar al menos el 20 por ciento del nuevo código fuente desarrollado a medida como Software de Código Abierto (OSS) al encargar un nuevo software hecho a medida."
+- [USGS](https://www.usgs.gov/survey-manual/im-osqi-2019-01-review-and-approval-scientific-software-release) "...las versiones de software se consideran bienes de dominio público y, por lo general, están disponibles sin restricciones."
 
-Are you funded by a grant? Read the original grant call to see if publishing your code is allowed/required and check whether it has any language about software management and any conditions to publish your code. When in doubt, contact your organization for additional information.
+¿Recibes dinero de un subsidio? Lee la convocatoria original del subsido para ver si te permite/requiere la publicación del código y comprueba si contiene algún texto sobre la gestión del software y alguna condición para publicar el código. En caso de duda, ponte en contacto con tu institución para obtener información adicional.
 
-### Activity 4.1: Find Your Organization’s Software Release Policies
+### Actividad 4.1: Encuentra las Políticas de Publicación de Software de tu Institución
 
 <img style="width:350px;height:auto;" src="../images/media/lightbulb.png">
 
-Assume you want to start a new open-source project:
+Supongamos que desea iniciar un nuevo proyecto de código abierto:
 
-- Find your organization's policies on software releases.
-- What is the process for releasing your software?
-- Does anybody in your organization have to approve this release?
-- Are there any policies regarding external contributors?
-- Does your organization require a specific attribution or credit?
+- Conoce las políticas de tu institución en materia de publicación de software.
+- ¿Cuál es el proceso para liberar un software?
+- ¿Alguien en su organización tiene que aprobar esta versión?
+- ¿Existen políticas con respecto a los contribuyentes externos?
+- ¿Su organización requiere una atribución o crédito específico?
 
-#### Key Takeaways: Find Your Organization’s Software Release Policies
+#### Puntos clave: Conozca las políticas de publicación de software de su organización
 
-Software release policies differ by organization and each piece of software is different. Therefore, it is important that we do not make assumptions about the software release policies based on previous experience.
+Las políticas de liberación de software difieren según la organización y cada pieza de software es diferente. Por lo tanto, es importante que no hagamos suposiciones sobre las políticas de publicación de software basadas en experiencias anteriores.
 
-## When: The Schedule for Code Archiving and Sharing
+## Cuándo:\*\* El cronograma para archivar y compartir software
 
-Planning to share your code at the beginning of your project makes sharing easier to do when you are ready. Exactly when in your workflow you decide to publicly share your code depends on your work and the requirements of the funding agency, organization, or publisher.
+Planear para compartir tu código al comienzo de tu proyecto hace que compartir sea más fácil cuando estés listo. Exactamente cuando en tu flujo de trabajo decides compartir públicamente tu código depende de tu trabajo y de los requisitos de la agencia de financiación, organización, o publicador.
 
-As an example, what does NASA say?
+Como ejemplo, ¿qué dice la NASA?
 
-If you are writing scientific software for a project funded by the NASA Science Mission Directorate then:
+Si está escribiendo software científico para un proyecto financiado por el Directorio de Misión de Ciencia de la NASA (NASA Science Mission Directorate) entonces:
 
-"Scientific software needed to validate the scientific conclusions of peer-reviewed manuscripts resulting from SMD-funded scientific activities shall become publicly available no later than the publication date of the corresponding peer-reviewed article. This includes software required to derive the findings communicated in figures, maps, and tables, as well as scientifically useful software from models and simulations."
+El software científico necesario para validar las conclusiones científicas de los manuscritos revisados por pares resultantes de las actividades científicas financiadas por el SMD se pondrá a disposición del público a más tardar en la fecha de publicación del correspondiente artículo revisado por pares. Esto incluye software necesario para derivar los hallazgos comunicados en cifras, mapas y tablas, así como software científicamente útil de modelos y simulaciones".
 
-\- [**Open-Source Science Guidance**](https://smd-cms.nasa.gov/wp-content/uploads/2023/07/smd-open-source-science-guidance-v2-20230407.pdf)
+\- [\*\*Guía científica de código abierto (NASA SMD's Open-Source Science Guidance)](https://smd-cms.nasa.gov/wp-content/uploads/2023/07/smd-open-source-science-guidance-v2-20230407.pdf)
 
-Other organizations may have different guidance, so it is always best to check what the funding agency or organization requires.
+Otras organizaciones pueden tener orientaciones diferentes, por lo que siempre es mejor comprobar lo que exige la agencia u organización financiadora.
 
-## Where: Where To Share Open Code
+## Donde: Donde Compartir Código Abierto
 
-### General Considerations
+### Consideraciones generales
 
 <img src="../images/media/image197.png" style="width:100%;height:auto;" />
 
-Like data, code can be shared in many ways, for example over email or on a personal website, but these methods are not recommended. So, where should you share your Open Code?
+Al igual que los datos, el código puede compartirse de muchas maneras, por ejemplo por correo electrónico o en un sitio web personal, pero estos métodos no son recomendables. Entonces, ¿dónde debería compartir su código abierto?
 
-First, consider your institutional or funding agency policies that may dictate where you must share and where you can share. For example, some funding agencies specify long-term repositories where your code must be archived, and they may restrict you from sharing in other forms of repositories. Your scientific discipline may have a specific repository for open code.
+En primer lugar, considere las políticas de su institución o agencia de financiación, que pueden dictar dónde debe compartir y dónde puede hacerlo. Por ejemplo, algunas agencias de financiación especifican los depósitos a largo plazo donde debe archivarse su código, y pueden restringirle el uso compartido en otras formas de repositorios. Su disciplina científica puede tener un repositorio específico para código abierto.
 
-#### What are some good options and best practices for archiving your code?
+#### ¿Cuáles son las mejores opciones y prácticas para archivar el código?
 
-- Archive open code with an open access journal article.
-- If the open code is in an active online development repository such as Github, then create a version and archive the code at a long-term repository with a DOI such as Zenodo, which can be integrated with Github (more details on this process later).
-- Archive the code in other long-term public repositories, such as Software Heritage.
+- Archivar código abierto con un artículo de revista de acceso abierto.
+- Si el código abierto está en un repositorio de desarrollo en línea activo como Github, cree una versión y archive el código en un repositorio a largo plazo con un DOI como Zenodo, que puede integrarse con Github (más detalles sobre este proceso más adelante).
+- Archive el código en otros repositorios públicos a largo plazo, como Software Heritage.
 
-#### Is your code a substantial software package and of interest to a signiﬁcant number of users from various disciplines? Where else can your open code be shared?
+#### Es su código un paquete de software importante y de interés para un número signiﬁcativo de usuarios de diversas disciplinas? ¿Dónde más puede compartirse su código abierto?
 
 <img src="../images/media/image332.png" style="width:350px;height:auto;" />
 
-- Develop your software on a public repository such as GitHub.
-- Publish to a software repository used by common package managers to make the software easy for users to install (ex. Anaconda, CRAN, PyPI).
-- Present the software at conferences.
-- Publish the software in a Journal dedicated to open software (ex. JOSS).
-- Get your software peer reviewed through communities like PyOpenSci.
+- Desarrollar tu software en un repositorio público como GitHub.
+- Publicar en un repositorio de software usado por los gestores de paquetes comunes para facilitar la instalación del software (ej. Anaconda, CRAN, PyPI).
+- Presentar el software en conferencias.
+- Publicar el software en un Journal dedicado al software abierto (ej. JOSS).
+- Consigue que tu software sea revisado por expertos a través de comunidades como PyOpenSci.
 
-#### To share my code, I can just add it to github, right?
+#### Para compartir mi código, sólo tengo que añadirlo a github, ¿verdad?
 
-Not necessarily. Sharing on a repository is encouraged, but a researcher’s funding organization may require a DOI from an archival repository, such as Zenodo, for long-term preservation of your code at the time of publication or version releases.
+No necesariamente. Se alienta a compartir en un repositorio, pero la organización de financiamiento de la persona que investiga puede requerir un DOI de un repositorio de archivo, como Zenodo, para la preservación a largo plazo de su código en el momento de la publicación o lanzamiento de versiones.
 
 <img src="../images/media/image425.png" style="width:350px;height:auto;" />
 
-## How: How to Enable Reuse of Code
+## ¿Cómo habilitar la reutilización del código?
 
-Now that you have shared your code in the appropriate way, it’s important to consider if you’ve made it easy for others (or your future self) to reuse your code.
+Ahora que has compartido tu código de la forma adecuada, es importante considerar si has facilitado a otros participantes (o a tu yo del futuro) la reutilización de tu código.
 
-### Assigning a License
+### Asignando una Licencia
 
-As you may recall from the previous lesson, assigning an appropriate license is necessary for others to know how to use your code.
+Como recordarás de la lección anterior, asignar una licencia adecuada es necesario para que otras personas sepan cómo utilizar tu código.
 
-As an example, here's how you'd assign a license to a GitHub repository:
+Por ejemplo, aquí te mostramos cómo asignar una licencia a un repositorio de GitHub:
 
-Choose the appropriate software sharing license that meets your organization requirements. To create a license template in GitHub, add a new file and type "LICENSE" in the name field, then the "Choose a license template" option will appear.
+Elige la licencia de uso compartido de software adecuada que cumpla con los requisitos de tu organización. Para crear una plantilla de licencia en GitHub, añade un nuevo archivo y escribe "LICENCIA" (en inglés, _LICENCE_) en el campo de nombre, entonces aparecerá la opción "Elegir una plantilla de licencia".
 
 <img src="../images/media/image78.jpg" style="width:350px;height:auto;" />
 
-Make sure that your GitHub repository is public, making it searchable by anyone.
+Asegúrate de que tu repositorio de GitHub sea público, para que cualquiera pueda realizar búsquedas en él.
 
-### Making the Code Citable
+### Haciendo el código citable
 
-Not all code needs to be citable. When released on its own however, there are a few best practices for how to make your code citable.
+No todo el código tiene que ser citable. Cuando se publica de forma independiente, sin embargo, existen algunas prácticas recomendadas sobre cómo hacer que tu código sea citable.
 
-Adding code to a GitHub repository is not sufficient for archiving code. To archive, we must assign a persistent identifier.
+Añadir el código a un repositorio de GitHub no es suficiente para archivar código. Para archivar, debemos asignar un identificador persistente.
 
-Producing a persistent identifier for your code is the best way to make it citable. This could take form through a peer reviewed publication that describes the software or by archiving the software with a long term repository that produces a DOI or similar identifier. For code shared on GitHub, a [DOI can be easily produced for each release of the software from Zenodo.](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content#issuing-a-persistent-identifier-for-your-repository-with-zenodo)
+Producir un identificador persistente para tu código es la mejor manera de hacerlo citable. Esto podría hacerse mediante una publicación revisada por pares que describa el software o archivando el software en un repositorio a largo plazo que produzca un DOI o un identificador similar. Para el código compartido en GitHub, un [DOI se puede producir fácilmente para cada versión del software de Zenodo.](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content#issuing-a-persistent-identifier-for-your-repository-with-zenodo)
 
-### Activity 4.2: Create a DOI for a Test Code File
+### Actividad 4.2: Crear un DOI para un Archivo de Código de Prueba
 
-You can create Digital Object Identifiers (DOIs) for your code that makes it citable. You do this by archiving a GitHub code repository at Zenodo and issue a DOI for the record.
+Puedes crear Identificadores de Objetos Digitales (en inglés, _Digital Object Identifiers, DOIs_) para tu código que lo hacen citable. Para hacer esto, archiva un repositorio de código GitHub en Zenodo y emite un DOI para el registro.
 
-Steps for this activity:
+Pasos para esta actividad:
 
-**Part 1: Create a test public GitHub repository.**
+**Parte 1: Crear un repositorio GitHub público de prueba.**
 
-1. Navigate to the login page for [GitHub](https://github.com/) and login. If you haven’t already, create a free user account.
-2. Create a new repository with this [link](https://github.com/new).
-3. Type a short, memorable name for your repository. For example, "os-test".
-4. Set the repository visibility 'Public' by selecting this option below the repository description.
-5. In the following section 'Initialize this repository with:' select 'Add a README file'.
-6. Select any license.
-7. Click 'Create repository'.
-8. You will be automatically directed to your new repository webpage.
-9. Now we will get a DOI from the Zenodo application. Note that we are going to use [https://sandbox.zenodo.org/](https://sandbox.zenodo.org/) to do this. This offers all the same capabilities as [https://zenodo.org](https://zenodo.org/) but is a testing site! Create a free account if you have not already.
+1. Ve a la página de inicio de sesión para [GitHub](https://github.com/) e inicia sesión. Si aún no lo has hecho, crea una cuenta de usuario gratuita.
+2. Crea un nuevo repositorio con este [enlace](https://github.com/new).
+3. Escribe un nombre breve y recordable para tu repositorio. Por ejemplo, "os-test".
+4. Establece como 'Pública' la visibilidad del repositorio seleccionando esta opción debajo de la descripción del repositorio.
+5. En la siguiente sección 'Inicializar este repositorio con:' selecciona 'Añadir un archivo README'.
+6. Selecciona cualquier licencia.
+7. Haz clic en 'Crear repositorio'.
+8. Serás redirigido automáticamente a tu nueva página web del repositorio.
+9. Ahora obtendremos un DOI de la aplicación Zenodo. Ten en cuenta que vamos a usar [https://sandbox.zenodo.org/](https://sandbox.zenodo.org/) para hacer esto. ¡Esto ofrece todas las mismas posibilidades que [https://zenodo.org](https://zenodo.org/) pero es un sitio de pruebas! Crea una cuenta gratuita si aún no lo has hecho.
 
-**Part 2: Create an archived repository and afﬁliated DOI.**
+**Parte 2: Crear un repositorio archivado y DOI afiliados.**
 
-1. Navigate to the [Zenodo GitHub page](https://sandbox.zenodo.org/account/settings/github/). Click on the button 'Connect' to allow Zenodo to access your GitHub repositories.
+1. Ve a la [página de Zenodo GitHub](https://sandbox.zenodo.org/account/settings/github/). Haz clic en el botón 'Conectar' para permitir que Zenodo acceda a sus repositorios de GitHub.
 
 <img src="../images/media/zenododoi1.jpg" style="width:100%;height:auto" />
 
-2. Review the information about access permissions, then click 'Authorize Zenodo'.
-3. Sync your GitHub with Zenodo by clicking 'Sync now' in the upper right corner.
+2. Revisa la información sobre los permisos de acceso y haz clic en 'Autorizar Zenodo'.
+3. Sincroniza tu GitHub con Zenodo haciendo clic en 'Sincronizar ahora' en la esquina superior derecha.
 
 <img src="../images/media/zenododoi3.jpg" style="width:100%;height:auto" />
 
-4. To the right of the name of the repository you want to archive ('os-test'), toggle the button to On.
-5. Click on the name of the repository.
-6. Click the big green button that has 'username/os-test'
+4. A la derecha del nombre del repositorio que desea archivar ('os-test'), cambia el botón a Encendido (en inglés, _On_).
+5. Haz clic en el nombre del repositorio.
+6. Haz clic en el botón verde grande que tiene 'username/os-test'
 
 <img src="../images/media/zenododoi6.jpg" style="width:100%;height:auto" />
 
-7. Add a tag 'test'. You may have to create a new tag for 'test' if prompted.
-8. Scroll down and click the green 'publish release' button
+7. Añade una etiqueta 'test'. Es posible que tengas que crear una nueva etiqueta para 'test' si se te solicita.
+8. Desplázate hacia abajo y haz clic en el botón verde 'publicar lanzamiento' (en inglés, _publish release_)
 
 <img src="../images/media/zenododoi8.jpg" style="width:100%;height:auto" />
 
-9. Navigate to the [Zenodo GitHub page](https://sandbox.zenodo.org/account/settings/github/) and see the DOI for 'os-test'
-10. Share your DOI below.
+9. Navega a la [Zenodo GitHub page](https://sandbox.zenodo.org/account/settings/github/) y ve el DOI para 'os-test'.
+10. A continuación, comparte tu DOI.
 
 <img src="../images/media/zenododoi10.jpg" style="width:100%;height:auto" />
 
-Zenodo archives your repository and issues a new DOI each time you create a new GitHub [release](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases). Follow the steps at "[Managing releases in a repository](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository)" to create a new one.
+Zenodo archiva tu repositorio y emite un nuevo DOI cada vez que creas un nuevo [lanzamiento](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases) GitHub. Sigue los pasos en "[Administrar lanzamientos en un repositorio](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository)" para crear una nueva.
 
-### Making it Easy to Cite Your Code
+### Haciendo Fácil Citar tu Código
 
-Information about how to cite the software can then be added to your README or other documentation in your repository. Another useful step for making your repository citation information accessible is to add a CITATION file to the repository.
+La información sobre cómo citar el software puede ser añadida a su LÉEME (en inglés, _README_) u otra documentación en tu repositorio. Otro paso útil para hacer accesible la información de citas de tu repositorio es añadir un archivo CITACIÓN (en inglés _CITATION_) al repositorio.
 
-### Why use CITATION files?
+### ¿Por qué usar archivos CITACIÓN?
 
-CITATION files are a means to make citation information easily accessible in open source software repositories. A [citation file format (CFF)](https://citation-file-format.github.io/) is a human and machine-readable standard format that has been developed for CITATION files.
+Los archivos CITACIÓN son un medio para hacer que la información de citas sea fácilmente accesible en repositorios de software de código abierto. Un [formato de archivo de citas (en inglés, _Citation File Format, CFF_)](https://citation-file-format.github.io/) es un formato estándar legible por humanos y máquinas que se ha desarrollado para los archivos CITACIÓN.
 
-### Adding Contributor Guidelines
+### Pautas para Colaborar
 
 <img src="../images/media/image419.png" style="width:100%;height:auto;" />
 
-If you are hoping for community input on your software, it is a best practice to include CONTRIBUTING and CODE_OF_CONDUCT files in your repository that outline expectations for member interactions.
+Si espera que la comunidad contribuya a su software, es una buena práctica incluir archivos COLABORAR (en inglés, _CONTRIBUTING_) y CÓDIGO DE CONDUCTA (en inglés, _CODE_OF_CONDUCT_) en su repositorio que describan las expectativas para las interacciones de los participantes.
 
-We won't go into these in detail here, but you can check out the [Xarray package's github repository](https://github.com/pydata/xarray/tree/main) for a good example.
+No entraremos en detalles aquí, pero puedes consultar el [repositorio github del paquete Xarray](https://github.com/pydata/xarray/tree/main) para ver un buen ejemplo.
 
-## Who: Roles and Responsibilities of the Team Members in Implementing the SMP
+## ¿Cuáles son los roles y las responsabilidades de quienes participan del equipo en la implementación del PGS?
 
-When writing a SMP, it's important to include a plan for the roles and responsibilities needed to share and (if applicable) maintain your code. Your community will consist of members in different roles – some actively engaged, some with only a passing interest. Sometimes, multiple roles can easily be done by one person (e.g. if you are just archiving a piece of code).
+Cuando se escribe un Plan de Gestión de Software (PGS) (en inglés, _Software Management Plan, SMP_), es importante incluir un plan para los roles y responsabilidades necesarios para compartir y (si corresponde) mantener tu código. Tu comunidad estará formada por personas con diferentes roles: algunos participarán activamente, otras sólo tendrán un interés pasajero. A veces, una sola persona puede desempeñar fácilmente varias funciones (por ejemplo, si sólo estás archivando una pieza de código).
 
-Some roles might include:
+Algunos roles podrían incluir:
 
-**Who will add the code to a public repository?**
+**¿Quién añadirá el código a un repositorio público?**
 
-- Uploading the code
-- Assigning a license
+- Subiendo el código
+- Asignando una licencia
 
-**Who will take care of code documentation**
+**¿Quién se encargará de la documentación del código?**
 
-- Writing a README
-- Adding explanatory comments to the code
+- Escribiendo un archivo LÉEME
+- Añadiendo comentarios explicativos al código
 
-**Who will help with code reuse?**
+**¿Quién ayudará con la reutilización del código?**
 
-Adding CITATION, CONTRIBUTING, and CODE_OF_CONDUCT files
+Añadiendo archivos CITACIÓN, COLABORAR, y CÓDIGO DE CONDUCTA
 
-**Who will maintain the software (if applicable)?**
+**¿Quién mantendrá el software (si corresponde)?**
 
-- Who will respond to community input (e.g. via GitHub issues)?
-- Who will be responsible for making decisions about which code to add/update from other contributors? (e.g. via GitHub pull requests)
+- ¿Quién responderá a la retroalimentación de la comunidad (por ejemplo, a través de problemas en GitHub)?
+- ¿Quién será responsable de decidir qué código añadir/actualizar de otras personas colaboradoras? (por ejemplo, mediante solicitudes de extracción de GitHub)
 
 ---
 
-All of these roles may or may not be needed, depending on the size of your project. Have a transparent process for assigning any roles to community members.
+Todos estos roles pueden o no ser necesarios, dependiendo del tamaño de tu proyecto. Es necesario tener un proceso transparente para asignar cualquier rol a los miembros de la comunidad.
 
-### Responsibilities after Sharing
+### Responsibilidades después de Compartir
 
-If the software is meant for others to use, then the developer should maintain the software.
+Si el software está pensado para que otras personas lo usen, entonces quien desarrolla debería mantener el software.
 
-- It is polite for the developer to let users know whether or not they intend to maintain the software/code.
-- Do this in the documentation where you discuss the development status of the project.
-- This will help users know if it will continue to be supported in the future and allow them to make choices about basing ongoing work off your project.
-- In the case that a developer/researcher may not have the time or continued funding to keep up with a project but others are interested in keeping it maintained, consider handing ownership of the software to another researcher/developer, involved user or entity invested in its continued use.
-- Users of software that is no longer maintained may consider contacting the owner/developer and volunteering either as a maintainer or to take over ownership of the project.
-- If you decide to maintain your software, you should respond to requests for features and fixes as you are able.
+- Es cortés por parte de quien desarrolla informar a las personas que hagan uso si tienen la intención de mantener el software/código o no.
+- Haz esto en la documentación donde se discuta el estado de desarrollo del proyecto.
+- Esto ayudará a quienes lo utilicen a saber si seguirán recibiendo apoyo en el futuro, y les permitirá tomar decisiones sobre la posibilidad de basar el trabajo en curso en tu proyecto.
+- En caso de que quien desarrolle/investigue no disponga del tiempo o la financiación necesaria para seguir adelante con su proyecto, pero otras personas estén interesadas en mantenerlo, considera la posibilidad de ceder la propiedad del software a quienes investiguen/desarrollen/participen, o entidad interesada en su uso continuado.
+- Quienes utilicen software que ya no está siendo mantenido pueden considerar contactar a la persona dueña/desarrolladora y ofrecerse voluntariamente para mantenerlo, o para asumir la propiedad del proyecto.
+- Si decides mantener tu software, deberías responder a las solicitudes de características y correcciones en la medida de tus posibilidades.
 
-## Lesson 4: Summary
+## Lección 4: Resumen
 
-In this lesson, you learned the key steps in sharing open software:
+En esta lección, aprendiste los pasos clave para compartir software abierto:
 
-- Should you share? When sharing software, the policies of your institution and funding agency must be followed. These may limit the openness of the software. Software sharing policies also vary by organization.
-- When to share? Follow guidance from your organization, funding agency, or publisher.
-- Where to share? It depends on whether you are archiving or sharing for community input. Use domain-specific repositories where appropriate.
-- How to enable reuse? Enable reuse through assigning a DOI, and include a license, citation information, and contributor guidelines.
-- Who helps share? Plan for the roles and responsibilities when sharing and (if applicable) for maintaining software.
+- ¿Deberías compartir? Al compartir software, se deben seguir las políticas de tu institución y agencia de financiamiento. Éstas pueden limitar la apertura del software. Las políticas de intercambio de software también varían según la organización.
+- ¿Cuándo compartir? Sigue las pautas de tu organización, agencia de financiamiento o editorial.
+- ¿Dónde compartir? Depende de si está archivando o compartiendo para recibir comentarios de la comunidad. Utiliza repositorios específicos de dominio cuando corresponda.
+- ¿Cómo permitir la reutilización? Habilita la reutilización mediante la asignación de un DOI e incluye una licencia, información de citas y pautas para las personas que colaboran.
+- ¿Quién ayuda a compartir? Planifica los roles y responsabilidades cuando se comparta y (si es aplicable) para mantener el software.
 
-## Lesson 4: Knowledge Check
+## Lección 4: Evaluación
 
-Answer the following questions to test what you have learned so far.
+Responde las siguientes preguntas para poner a prueba lo que ha aprendido hasta ahora.
 
-_Question_
+_Pregunta_
 
 **01/06**
 
-Read the statement and decide whether it's true or false:
+Lee la siguiente afirmación e indica si es verdadera o falsa:
 
-_I don’t need to share my code if I don't plan to continue developing it._
+_No necesito compartir mi código si no tengo intención de seguir desarrollándolo._
 
-- True
-- False
+- Verdadero
+- Falso
 
-_Question_
+_Pregunta_
 
 **02/06**
 
-Read the statement and decide whether it's true or false:
+Lee la siguiente afirmación e indica si es verdadera o falsa:
 
-_Adding code to a GitHub repository is sufficient for archiving my code._
+_Añadir el código a un repositorio de GitHub es suficiente para archivar mi código._
 
-- True
-- False
+- Verdadero
+- Falso
 
-_Question_
+_Pregunta_
 
 **03/06**
 
-Read the statement and decide whether it's true or false:
+Lee la siguiente afirmación e indica si es Verdadera o Falsa:
 
-_Organization and government software-sharing policies follow a standard practice._
+_Las políticas de uso compartido de software de organizaciones y gobiernos siguen una práctica estándar._
 
-- True
-- False
+- Verdadero
+- Falso
 
-_Question_
+_Pregunta_
 
 **04/06**
 
-Read the statement and decide whether it's true or false:
+Lee la siguiente afirmación e indica si es verdadera o falsa:
 
-_Publishing your software to a software repository used by common package managers makes it easier for users to install your software._
+_Publicar tu software en un repositorio de software utilizado por los gestores de paquetes habituales facilita a las personas usuarias la instalación de su software._
 
-- True
-- False
+- Verdadero
+- Falso
 
-_Question_
+_Pregunta_
 
 **05/06**
 
-Which, if any, of the following are ways you can help others to reuse your code? Select all that apply.
+¿Cuáles de las siguientes, si las hay, son formas en las que puedes ayudar a otras personas a reutilizar tu código? Selecciona todas los que correspondan.
 
-- Assign an appropriate license
-- Add a file named "CONTRIBUTING" with contributor guidelines
-- Add a "CITATION" file with citation information
+- Asignar una licencia adecuada
+- Añadir un archivo llamado "CONTRIBUCIÓN" con pautas para las personas que colaboran
+- Añadir un archivo "CITACIÓN" con información de citas
 
-_Question_
+_Pregunta_
 
 **06/06**
 
-Which of the following are roles that you should plan for when writing a SMP? Select all that apply.
+¿Cuáles de los siguientes son roles que deberías planificar al escribir un PGS? Selecciona todos los que correspondan.
 
-- Who will help maintain the software
-- Who will create the repository and add the necessary files
-- Who will contribute to the software after it is shared
-- Who will add documentation to the software
+- Quién ayudará a mantener el software
+- Quién creará el repositorio y añadirá los archivos necesarios
+- Quién contribuirá al software después de que se comparta
+- Quién agregará documentación al software
