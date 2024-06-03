@@ -66,7 +66,7 @@ Los datos incluyen:
 
 **Datos secundarios y procesados** - Los datos secundarios son los que utiliza una persona distinta de la que los recopiló o generó. A menudo, esto puede incluir datos que han sido procesados a partir de su estado bruto para ser más fácilmente utilizables por otras personas.
 
-**Datos Publicados** – Los datos publicados son aquellos compartidos para abordar un estudio científico en particular y/o para uso general. Mientras que los datos publicados pueden coincidir con datos primarios y secundarios, nombramos a los "datos publicados" como su propia categoría para enfatizar que estos conjuntos de datos están idealmente bien documentados y son fáciles de usar.
+**Datos Publicados** – Los datos publicados son aquellos compartidos para abordar un estudio científico en particular y/o para uso general. Aunque los datos publicados pueden coincidir con los tipos de datos primarios y secundarios, hemos incluido los «datos publicados» como categoría propia para destacar que lo ideal es que estos conjuntos de datos estén bien documentados y sean fáciles de utilizar.
 
 **Metadatos** – los metadatos son un tipo especial de datos que describen otros datos u objetos (por ejemplo, muestras). Normalmente se utilizan para proporcionar información estándar sobre un conjunto de datos con el fin de facilitar su uso e interpretación.
 
@@ -74,20 +74,20 @@ El término datos abiertos se define en el manual de datos abierto de la Open Kn
 
 <img style="width:100%;height:auto;" src="../images/media/opendatahandbookquote.jpg">
 
-"Los datos abiertos son datos que pueden ser libremente utilizados, reutilizados y redistribuidos por cualquiera, sujetos únicamente, como mucho, al requisito de atribuir y compartir de la misma manera."
+"Los datos abiertos son datos que cualquiera puede utilizar, reutilizar y redistribuir libremente, sujetos únicamente y como máximo al requisito de atribuir y compartir por igual".
 
 **Manual de Datos Abiertos de la Open Knowledge Foundation**
 
 ---
 
-Cuando hablamos de datos en el contexto de este módulo, nos enfocamos en los datos que estás preparando para compartir, como datos asociados a una publicación específica, sin importar de qué tipo de datos se trate. Si bien podrías compartir (y muchas personas lo hacen) libretas de laboratorio, análisis preliminares, productos de datos intermedios, borradores de publicaciones científicas, planes para investigaciones futuras y otras cosas similares, estos normalmente no son requeridos por agencias o instituciones financiadoras y por lo tanto no serán el foco de este módulo.
+Al hablar de datos en el contexto de este módulo, nos centramos en los datos que estás preparando para compartir, como los asociados a una publicación científica, sin importar de qué tipo de datos se trate. Si bien podrías compartir (y muchas personas lo hacen) libretas de laboratorio, análisis preliminares, productos de datos intermedios, borradores de publicaciones científicas, planes para investigaciones futuras y otras cosas similares, estos normalmente no son requeridos por agencias o instituciones financiadoras y por lo tanto no serán el foco de este módulo.
 
-Para citar un [artículo publicado sobre la reutilización de datos](https://www.ncbi.nlm.nih. ov/pmc/articles/PMC9542848/), las personas que investigan buscan principalmente datos que sean "fáciles de comprender, de obtener, de manipular y creíbles." Para que se cumplan estos criterios, los datos deberían:
+Citando un [documento publicado sobre reutilización de datos](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9542848/), quienes investigan buscan sobre todo datos "completos, fáciles de obtener, fáciles de manipular y creíbles". Para que se cumplan estos criterios, los datos deberían:
 
-- Estar lo suficientemente descritos con metadatos apropiados, que afectan en gran medida la reusabilidad de los datos. No hay una estructura única para los metadatos ya que su recopilación estará guiada por tus datos.
-- Tener la licencia, los derechos de autor y la información de citación apropiada.
+- Estar suficientemente descritos con los metadatos adecuados, lo que afecta en gran medida su reutilización. No hay una estructura única para los metadatos ya que su recopilación estará guiada por tus datos.
+- Disponer de la información adecuada sobre licencias, derechos de autor y citas.
 - Tener información de acceso apropiada.
-- Ser encontrables en un recurso acreditado o confiable.
+- Ser fáciles de encontrar en un recurso acreditado o de confianza.
 - Estar acompañados con una historia de cambios y versionado.
 - Incluir detalles de todos los pasos de procesamiento.
 
