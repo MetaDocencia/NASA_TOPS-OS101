@@ -70,7 +70,7 @@ Los datos incluyen:
 
 **Metadatos** – los metadatos son un tipo especial de datos que describen otros datos u objetos (por ejemplo, muestras). Normalmente se utilizan para proporcionar información estándar sobre un conjunto de datos con el fin de facilitar su uso e interpretación.
 
-El término datos abiertos se define en el manual de datos abierto de la Open Knowledge Foundation:
+El término "datos abiertos" se define en el manual de datos abiertos de la Open Knowledge Foundation (Fundación Conocimiento Abierto):
 
 <img style="width:100%;height:auto;" src="../images/media/opendatahandbookquote.jpg">
 
@@ -91,15 +91,15 @@ Citando un [documento publicado sobre reutilización de datos](https://www.ncbi.
 - Estar acompañados con una historia de cambios y versionado.
 - Incluir detalles de todos los pasos de procesamiento.
 
-No todos los datos pueden ser compartidos o ser compartidos con toda esta información. Hay distintas razones por las que esto puede no ser posible. Sin embargo, una gran cantidad información compartida sobre los datos ayudará a aumentar la confiabilidad y reusabilidad de la información.
+No todos los datos pueden compartirse o compartirse con toda esta información. Hay diferentes razones por las que puede no ser posible. Sin embargo, cuanta más información se comparta sobre los datos, mayor será su fiabilidad y reutilización.
 
-## Beneficios de los Datos Abiertos
+## Beneficios de los datos abiertos
 
-Los datos sustentan casi toda la ciencia. Compartir abiertamente los datos con otras personas facilita la reproducibilidad, transparencia, validación, reutilización y colaboraciones. Los datos juegan un rol muy importante en nuestro día a día. Los datos abiertos, en particular, juegan un rol clave. Los datos abiertos son comunes en nuestra sociedad y probablemente ya te hayas beneficiado de ellos en algún momento. Los impactos de la ciencia abierta incluyen facilitar:
+Los datos son la base de casi toda la ciencia. Compartir abiertamente los datos con otras personas facilita la reproducibilidad, transparencia, validación, reutilización y colaboraciones. Los datos juegan un rol muy importante en nuestro día a día. Los datos abiertos, en particular, juegan un rol clave. Estos son comunes en nuestra sociedad y probablemente ya te hayas beneficiado de ellos en algún momento. Entre las repercusiones de los datos abiertos figuran las siguientes:
 
 ---
 
-**Un Bien Mayor** - Los datos juegan un rol muy importante en nuestra vida cotidiana. Los datos abiertos, en particular, juegan un rol clave. Si hace una pausa y piensa en ello, puede darse cuenta de que los datos abiertos no solo son comunes en nuestra sociedad, sino que usted mismo podría haberse beneficiado y utilizado los datos abiertos.
+**Un bien mayor** - Los datos desempeñan un papel importante en nuestra vida cotidiana. Los datos abiertos, en particular, juegan un rol clave. Si hace una pausa y piensa en ello, puede darse cuenta de que los datos abiertos no solo son comunes en nuestra sociedad, sino que usted mismo podría haberse beneficiado y utilizado los datos abiertos.
 
 Cada país o territorio a menudo proporciona acceso abierto a una variedad de información socioeconómica sobre la población, la comunidad y los negocios en su jurisdicción. Estos datos a menudo se llaman datos de encuestas censales y pueden incluir estadísticas agregadas de género, raza, etnicidad, educación, ingresos y datos de salud de una comunidad. Estos datos se utilizan a menudo para entender la composición de un vecindario local y son críticos para las decisiones informadas sobre la asignación de recursos para asegurar la calidad de vida de la comunidad.
 
