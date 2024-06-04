@@ -66,40 +66,40 @@ Los datos incluyen:
 
 **Datos secundarios y procesados** - Los datos secundarios son los que utiliza una persona distinta de la que los recopiló o generó. A menudo, esto puede incluir datos que han sido procesados a partir de su estado bruto para ser más fácilmente utilizables por otras personas.
 
-**Datos Publicados** – Los datos publicados son aquellos compartidos para abordar un estudio científico en particular y/o para uso general. Mientras que los datos publicados pueden coincidir con datos primarios y secundarios, nombramos a los "datos publicados" como su propia categoría para enfatizar que estos conjuntos de datos están idealmente bien documentados y son fáciles de usar.
+**Datos Publicados** – Los datos publicados son aquellos compartidos para abordar un estudio científico en particular y/o para uso general. Aunque los datos publicados pueden coincidir con los tipos de datos primarios y secundarios, hemos incluido los «datos publicados» como categoría propia para destacar que lo ideal es que estos conjuntos de datos estén bien documentados y sean fáciles de utilizar.
 
 **Metadatos** – los metadatos son un tipo especial de datos que describen otros datos u objetos (por ejemplo, muestras). Normalmente se utilizan para proporcionar información estándar sobre un conjunto de datos con el fin de facilitar su uso e interpretación.
 
-El término datos abiertos se define en el manual de datos abierto de la Open Knowledge Foundation:
+El término "datos abiertos" se define en el manual de datos abiertos de la Open Knowledge Foundation (Fundación Conocimiento Abierto):
 
 <img style="width:100%;height:auto;" src="../images/media/opendatahandbookquote.jpg">
 
-"Los datos abiertos son datos que pueden ser libremente utilizados, reutilizados y redistribuidos por cualquiera, sujetos únicamente, como mucho, al requisito de atribuir y compartir de la misma manera."
+"Los datos abiertos son datos que cualquiera puede utilizar, reutilizar y redistribuir libremente, sujetos únicamente y como máximo al requisito de atribuir y compartir por igual".
 
 **Manual de Datos Abiertos de la Open Knowledge Foundation**
 
 ---
 
-Cuando hablamos de datos en el contexto de este módulo, nos enfocamos en los datos que estás preparando para compartir, como datos asociados a una publicación específica, sin importar de qué tipo de datos se trate. Si bien podrías compartir (y muchas personas lo hacen) libretas de laboratorio, análisis preliminares, productos de datos intermedios, borradores de publicaciones científicas, planes para investigaciones futuras y otras cosas similares, estos normalmente no son requeridos por agencias o instituciones financiadoras y por lo tanto no serán el foco de este módulo.
+Al hablar de datos en el contexto de este módulo, nos centramos en los datos que estás preparando para compartir, como los asociados a una publicación científica, sin importar de qué tipo de datos se trate. Si bien podrías compartir (y muchas personas lo hacen) libretas de laboratorio, análisis preliminares, productos de datos intermedios, borradores de publicaciones científicas, planes para investigaciones futuras y otras cosas similares, estos normalmente no son requeridos por agencias o instituciones financiadoras y por lo tanto no serán el foco de este módulo.
 
-Para citar un [artículo publicado sobre la reutilización de datos](https://www.ncbi.nlm.nih. ov/pmc/articles/PMC9542848/), las personas que investigan buscan principalmente datos que sean "fáciles de comprender, de obtener, de manipular y creíbles." Para que se cumplan estos criterios, los datos deberían:
+Citando un [documento publicado sobre reutilización de datos](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9542848/), quienes investigan buscan sobre todo datos "completos, fáciles de obtener, fáciles de manipular y creíbles". Para que se cumplan estos criterios, los datos deberían:
 
-- Estar lo suficientemente descritos con metadatos apropiados, que afectan en gran medida la reusabilidad de los datos. No hay una estructura única para los metadatos ya que su recopilación estará guiada por tus datos.
-- Tener la licencia, los derechos de autor y la información de citación apropiada.
+- Estar suficientemente descritos con los metadatos adecuados, lo que afecta en gran medida su reutilización. No hay una estructura única para los metadatos ya que su recopilación estará guiada por tus datos.
+- Disponer de la información adecuada sobre licencias, derechos de autor y citas.
 - Tener información de acceso apropiada.
-- Ser encontrables en un recurso acreditado o confiable.
+- Ser fáciles de encontrar en un recurso acreditado o de confianza.
 - Estar acompañados con una historia de cambios y versionado.
 - Incluir detalles de todos los pasos de procesamiento.
 
-No todos los datos pueden ser compartidos o ser compartidos con toda esta información. Hay distintas razones por las que esto puede no ser posible. Sin embargo, una gran cantidad información compartida sobre los datos ayudará a aumentar la confiabilidad y reusabilidad de la información.
+No todos los datos pueden compartirse o compartirse con toda esta información. Hay diferentes razones por las que puede no ser posible. Sin embargo, cuanta más información se comparta sobre los datos, mayor será su fiabilidad y reutilización.
 
-## Beneficios de los Datos Abiertos
+## Beneficios de los datos abiertos
 
-Los datos sustentan casi toda la ciencia. Compartir abiertamente los datos con otras personas facilita la reproducibilidad, transparencia, validación, reutilización y colaboraciones. Los datos juegan un rol muy importante en nuestro día a día. Los datos abiertos, en particular, juegan un rol clave. Los datos abiertos son comunes en nuestra sociedad y probablemente ya te hayas beneficiado de ellos en algún momento. Los impactos de la ciencia abierta incluyen facilitar:
+Los datos son la base de casi toda la ciencia. Compartir abiertamente los datos con otras personas facilita la reproducibilidad, transparencia, validación, reutilización y colaboraciones. Los datos juegan un rol muy importante en nuestro día a día. Los datos abiertos, en particular, juegan un rol clave. Estos son comunes en nuestra sociedad y probablemente ya te hayas beneficiado de ellos en algún momento. Entre las repercusiones de los datos abiertos figuran las siguientes:
 
 ---
 
-**Un Bien Mayor** - Los datos juegan un rol muy importante en nuestra vida cotidiana. Los datos abiertos, en particular, juegan un rol clave. Si hace una pausa y piensa en ello, puede darse cuenta de que los datos abiertos no solo son comunes en nuestra sociedad, sino que usted mismo podría haberse beneficiado y utilizado los datos abiertos.
+**Un bien mayor** - Los datos desempeñan un papel importante en nuestra vida cotidiana. Los datos abiertos, en particular, juegan un rol clave. Si hace una pausa y piensa en ello, puede darse cuenta de que los datos abiertos no solo son comunes en nuestra sociedad, sino que usted mismo podría haberse beneficiado y utilizado los datos abiertos.
 
 Cada país o territorio a menudo proporciona acceso abierto a una variedad de información socioeconómica sobre la población, la comunidad y los negocios en su jurisdicción. Estos datos a menudo se llaman datos de encuestas censales y pueden incluir estadísticas agregadas de género, raza, etnicidad, educación, ingresos y datos de salud de una comunidad. Estos datos se utilizan a menudo para entender la composición de un vecindario local y son críticos para las decisiones informadas sobre la asignación de recursos para asegurar la calidad de vida de la comunidad.
 
