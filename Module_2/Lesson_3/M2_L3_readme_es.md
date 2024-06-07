@@ -171,13 +171,13 @@ Las empresas privadas también alojan y mantienen herramientas en línea para co
 
 Puede encontrar más repositorios de datos de investigación en el Registro de Repositorios de Datos de Investigación (Registry of Research Data Repositories), de acceso público. ](https://www.re3data.org/) [OpenAire](https://explore.openaire.eu/search/find/dataproviders), un motor de búsqueda alojado, que también ofrece una potente función de búsqueda de datos y repositorios. Dispone de un filtro por país, tipo y área temática, además de permitir la descarga de datos.
 
-La cantidad de datos, repositorios y políticas diferentes puede resultar abrumadora. Si tiene dudas sobre qué repositorio es el más adecuado para usted, consulte a los bibliotecarios, gestores de datos y/o administradores de datos de su institución, o consulte en su disciplina específica u otra comunidad de práctica.
+La cantidad de datos, repositorios y políticas diferentes puede resultar abrumadora. Si tienes dudas sobre qué repositorio es el más adecuado para ti, consulta a los bibliotecarios, gestores de datos y/o administradores de datos de tu institución, o consulta en tu disciplina específica u otra comunidad de práctica.
 
 ### Actividad 3.1: Explore Zenodo y Regístrese!
 
-Explore los repositorios abiertos para familiarizarse con su estructura y la información disponible sobre sus productos. El repositorio más popular actualmente es Zenodo. Vea el siguiente vídeo de 4,5 minutos para obtener una visión general de Zenodo y, a continuación, regístrese para obtener una cuenta. Puede utilizar su ORCID para inscribirse si tiene uno o lo ha creado en la lección anterior.
+Explora los repositorios abiertos para familiarizarte con su estructura y la información disponible sobre sus productos. El repositorio más popular actualmente es Zenodo. Ve el siguiente vídeo de 4,5 minutos para obtener una visión general de Zenodo y, a continuación, regístrate para obtener una cuenta. Puedes utilizar tu ORCID para inscribirte si tienes uno o lo has creado en la lección anterior.
 
-[Watch Video](https://www.youtube.com/watch?v=BPVSErzNtME\&embeds_referring_euri=https%3A%2F%2Fopenscience101.org%2F\&feature=emb_imp_woyt)
+[Mira el video](https://www.youtube.com/watch?v=BPVSErzNtME\&embeds_referring_euri=https%3A%2F%2Fopenscience101.org%2F\&feature=emb_imp_woyt)
 
 ## Herramientas para ayudar con el uso y la creación de datos abiertos
 
