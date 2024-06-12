@@ -53,3 +53,46 @@ Completando los cinco módulos y pasando la evaluación al final de cada módulo
 - [Lección 3: Creando Resultados Abiertos](./Module_5/Lesson_3)
 - [Lección 4: Compartiendo Resultados Abiertos](./Module_5/Lesson_4)
 - [Lección 5: De la Teoría a la Práctica](./Module_5/Lesson_5)
+
+## Sobre esta versión 
+
+Como parte de nuestro trabajo para que la producción, la comunicación y la aplicación de saberes científicos y técnicos sean globalmente equitativas, en MetaDocencia reconocemos que es fundamental poder compartir recursos accesibles para comunidades hispanohablantes. Por ello, y gracias al financiamiento de la NASA, en MetaDocencia trabajamos colaborativamente durante abril, mayo y junio de 2024 en el desarrollo de versiones contextualizadas y más accesibles de los contenidos de los 5 módulos de NASA-TOPS Open Science 101. 
+
+Este trabajo de contextualización busca desarrollar recursos de calidad en español a partir de material originalmente en otro idioma, donde calidad no implica sólo una correcta traducción del contenido sino también su adaptación al contexto regional de manera que resulte accesible y significativo.
+
+Este trabajo es fruto del esfuerzo colectivo y colaborativo de la comunidad de MetaDocencia y en particular de las siguientes personas:
+
+Alejandra Daniela Calero (traducción y revisión)
+
+Ariel Silvio Norberto	Ramos (traducción y revisión)
+
+Gastón Klocker (traducción y revisión)
+
+Jeremías Fabiano (traducción y revisión)
+
+Jose Luis Villca Villegas (traducción y revisión)
+
+Juan Pablo Barreyro (traducción y revisión)
+
+Julieta	Millan (traducción y revisión)
+
+Julio Zetter Patiño (traducción y revisión)
+
+Julián Buede (traducción)
+
+Karina	Formoso (traducción y revisión)
+
+Irene Vazano (traducción)
+
+Laura Ación (coordinación)
+
+María Belén Allasia (traducción y revisión)
+
+María Jimena Vera (traducción y revisión)
+Nicolás Palopoli (traducción y coordinación)
+Pablo Vázquez (traducción y revisión)
+Paola Lefer (traducción y revisión)
+Romina Pendino (traducción y revisión)
+Sabrina López (traducción, revisión y coordinación)
+Vanesa Ruiz (traducción y revisión)
+Vanina	Varni (traducción y revisión)
