@@ -89,10 +89,17 @@ Laura Ación (coordinación)
 María Belén Allasia (traducción y revisión)
 
 María Jimena Vera (traducción y revisión)
+
 Nicolás Palopoli (traducción y coordinación)
+
 Pablo Vázquez (traducción y revisión)
+
 Paola Lefer (traducción y revisión)
+
 Romina Pendino (traducción y revisión)
+
 Sabrina López (traducción, revisión y coordinación)
+
 Vanesa Ruiz (traducción y revisión)
+
 Vanina	Varni (traducción y revisión)
