@@ -1,22 +1,22 @@
-# Currícula de Ciencia Abierta 101
+# Plan de estudios de Ciencia Abierta 101
 
-## Descripción de la currícula
+## Descripción del plan de estudios
 
-Transform to Open Science (TOPS) es una iniciativa de la NASA diseñada para transformar rápidamente agencias, organizaciones y comunidades a una cultura inclusiva de la ciencia abierta. Desarrollado por la iniciativa TOPS la guía proporcionada por la currícula de Ciencia Abierta 101 promoverá la transformación del panorama de investigación y el avance concomitante del descubrimiento científico. La currícula de Ciencia Abierta 101 tiene como objetivo introducir a los estudiantes una comprensión matizada de la ciencia abierta, que permita a las personas participantes comprender mejor el flujo de trabajo de ciencia abierta de principio a fin. El enfoque será proporcionar a los estudiantes una comprensión básica de la ciencia abierta, su espíritu y beneficios, y cómo participar activamente en comunidades relacionadas a la ciencia abierta. El plan de estudios de TOPS también se utilizará para apoyar a los investigadores que buscan comprometerse con la NASA a medida que adopta requisitos científicos más abiertos. Los científicos deberán adquirir las nuevas habilidades destacadas la currícula para participar eficazmente en la ciencia abierta y demostrar esas habilidades al solicitar oportunidades de financiación de la NASA.
+Transform to Open Science (TOPS) es una iniciativa de la NASA diseñada para transformar rápidamente agencias, organizaciones y comunidades a una cultura inclusiva de la ciencia abierta. Desarrollado por la iniciativa TOPS la guía proporcionada por el plan de estudios de Ciencia Abierta 101 promoverá la transformación del panorama de investigación y el avance concomitante del descubrimiento científico. El plan de estudios de Ciencia Abierta 101 tiene como objetivo introducir una comprensión matizada de la ciencia abierta, que permita a las personas participantes comprender mejor el flujo de trabajo de ciencia abierta de principio a fin. El enfoque será proporcionar a los estudiantes una comprensión básica de la ciencia abierta, su espíritu y beneficios, y cómo participar activamente en comunidades relacionadas a la ciencia abierta. El plan de estudios de TOPS también se utilizará para apoyar a quienes investigan y buscan comprometerse con la NASA a medida que ésta adopta requisitos científicos de ciencia abierta. Quienes investigan deberán adquirir las nuevas habilidades destacadas en el plan de estudios para participar eficazmente en la ciencia abierta y demostrar esas habilidades al aplicar a oportunidades de financiación de la NASA.
 
-## Currícula de Ciencia Abierta: Ciencia Abierta 101
+## Plan de estudios de Ciencia Abierta: Ciencia Abierta 101
 
 ### 5 módulos organizados como flujo de trabajo científico
 
 <img src="./Module_1/images/media/image441.png" style="width:100%;height:auto;" />
 
-Completando los cinco módulos y pasando la evaluación al final de cada módulo, se obtiene una insignia digital de "NASA Open Science".
+Completando los cinco módulos y aprobando la evaluación al final de cada uno de ellos se obtiene una insignia digital de "NASA Open Science".
 
 ## Contenidos
 
-### [Módulo 1 - El carácter distintivode la Ciencia Abierta](./Module_1)
+### [Módulo 1 - El ethos de la Ciencia Abierta](./Module_1)
 
-- [Lección 1: ¿Qué es la ciencia abierta?](./Module_1/Lesson_1)
+- [Lección 1: ¿Qué es la Ciencia Abierta?](./Module_1/Lesson_1)
 - [Lección 2: ¿Por qué es Importante la Ciencia Abierta?](./Module_1/Lesson_2)
 - [Lección 3: Cómo hacer Ciencia Abierta](./Module_1/Lección_3)
 - [Lección 4: Cuando no debe ser "Abierta"](./Module_1/Lesson_4)
@@ -53,53 +53,3 @@ Completando los cinco módulos y pasando la evaluación al final de cada módulo
 - [Lección 3: Creando Resultados Abiertos](./Module_5/Lesson_3)
 - [Lección 4: Compartiendo Resultados Abiertos](./Module_5/Lesson_4)
 - [Lección 5: De la Teoría a la Práctica](./Module_5/Lesson_5)
-
-## Sobre esta versión 
-
-Como parte de nuestro trabajo para que la producción, la comunicación y la aplicación de saberes científicos y técnicos sean globalmente equitativas, en MetaDocencia reconocemos que es fundamental poder compartir recursos accesibles para comunidades hispanohablantes. Por ello, y gracias al financiamiento de la NASA, en MetaDocencia trabajamos colaborativamente durante abril, mayo y junio de 2024 en el desarrollo de versiones contextualizadas y más accesibles de los contenidos de los 5 módulos de NASA-TOPS Open Science 101. 
-
-Este trabajo de contextualización busca desarrollar recursos de calidad en español a partir de material originalmente en otro idioma, donde calidad no implica sólo una correcta traducción del contenido sino también su adaptación al contexto regional de manera que resulte accesible y significativo.
-
-Este trabajo es fruto del esfuerzo colectivo y colaborativo de la comunidad de MetaDocencia y en particular de las siguientes personas:
-
-Alejandra Daniela Calero (traducción y revisión)
-
-Ariel Silvio Norberto	Ramos (traducción y revisión)
-
-Gastón Klocker (traducción y revisión)
-
-Jeremías Fabiano (traducción y revisión)
-
-Jose Luis Villca Villegas (traducción y revisión)
-
-Juan Pablo Barreyro (traducción y revisión)
-
-Julieta	Millan (traducción y revisión)
-
-Julio Zetter Patiño (traducción y revisión)
-
-Julián Buede (traducción)
-
-Karina	Formoso (traducción y revisión)
-
-Irene Vazano (traducción)
-
-Laura Ación (coordinación)
-
-María Belén Allasia (traducción y revisión)
-
-María Jimena Vera (traducción y revisión)
-
-Nicolás Palopoli (traducción y coordinación)
-
-Pablo Vázquez (traducción y revisión)
-
-Paola Lefer (traducción y revisión)
-
-Romina Pendino (traducción y revisión)
-
-Sabrina López (traducción, revisión y coordinación)
-
-Vanesa Ruiz (traducción y revisión)
-
-Vanina	Varni (traducción y revisión)
