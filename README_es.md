@@ -24,15 +24,15 @@ Completando los cinco módulos y aprobando la evaluación al final de cada uno d
 
 ### [Módulo 2 - Herramientas y Recursos Abiertos](./Module_2)
 
-- [Lección 1: Introducción al Proceso de Ciencia Abierta](./Module_2/Lesson_1)
-- [Lección 2: Herramientas Generales para la Ciencia Abierta](./Module_2/Lesson_2)
+- [Lección 1: Introducción al proceso de Ciencia Abierta](./Module_2/Lesson_1)
+- [Lección 2: Herramientas generales para la Ciencia Abierta](./Module_2/Lesson_2)
 - [Lección 3: Herramientas para Datos Abiertos](./Module_2/Lesson_3)
 - [Lección 4: Herramientas para Código Abierto](./Module_2/Lesson_4)
 - [Lección 5: Herramientas para Resultados Abiertos](./Module_2/Lesson_5)
 
 ### [Módulo 3 - Datos Abiertos](./Module_3)
 
-- [Lección 1: Introducción a Datos Abiertos](./Module_3/Lesson_1)
+- [Lección 1: Introducción a los Datos Abiertos](./Module_3/Lesson_1)
 - [Lección 2: Usando Datos Abiertos](./Module_3/Lesson_2)
 - [Lección 3: Creando Datos Abiertos](./Module_3/Lesson_3)
 - [Lección 4: Compartiendo Datos Abiertos](./Module_3/Lesson_4)
@@ -48,8 +48,8 @@ Completando los cinco módulos y aprobando la evaluación al final de cada uno d
 
 ### [Módulo 5 - Resultados Abiertos](./Module_5)
 
-- [Lección 1: Introducción a Resultados Abiertos](./Module_5/Lesson_1)
+- [Lección 1: Introducción a los Resultados Abiertos](./Module_5/Lesson_1)
 - [Lección 2: Usando Resultados Abiertos](./Module_5/Lesson_2)
 - [Lección 3: Creando Resultados Abiertos](./Module_5/Lesson_3)
 - [Lección 4: Compartiendo Resultados Abiertos](./Module_5/Lesson_4)
-- [Lección 5: De la Teoría a la Práctica](./Module_5/Lesson_5)
+- [Lección 5: De la teoría a la práctica](./Module_5/Lesson_5)
