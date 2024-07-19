@@ -1,14 +1,14 @@
-# Plan de estudios de Ciencia Abierta 101
+# Plan de estudios de Introducción a la Ciencia Abierta
 
 ## Descripción del plan de estudios
 
-Transform to Open Science (TOPS) es una iniciativa de la NASA diseñada para transformar rápidamente agencias, organizaciones y comunidades a una cultura inclusiva de la ciencia abierta. Desarrollado por la iniciativa TOPS la guía proporcionada por el plan de estudios de Ciencia Abierta 101 promoverá la transformación del panorama de investigación y el avance concomitante del descubrimiento científico. El plan de estudios de Ciencia Abierta 101 tiene como objetivo introducir una comprensión matizada de la ciencia abierta, que permita a las personas participantes comprender mejor el flujo de trabajo de ciencia abierta de principio a fin. El enfoque será proporcionar a los estudiantes una comprensión básica de la ciencia abierta, su espíritu y beneficios, y cómo participar activamente en comunidades relacionadas a la ciencia abierta. El plan de estudios de TOPS también se utilizará para apoyar a quienes investigan y buscan comprometerse con la NASA a medida que ésta adopta requisitos científicos de ciencia abierta. Quienes investigan deberán adquirir las nuevas habilidades destacadas en el plan de estudios para participar eficazmente en la ciencia abierta y demostrar esas habilidades al aplicar a oportunidades de financiación de la NASA.
+Transform to Open Science (TOPS) es una iniciativa de la NASA diseñada para transformar rápidamente agencias, organizaciones y comunidades a una cultura inclusiva de la ciencia abierta. Desarrollado por la iniciativa TOPS la guía proporcionada por el plan de estudios de Introducción a la Ciencia Abierta promoverá la transformación del panorama de investigación y el avance concomitante del descubrimiento científico. El plan de estudios de Ciencia Abierta 101Introducción a la Ciencia Abierta tiene como objetivo introducir una comprensión matizada de la ciencia abierta, que permita a las personas participantes comprender mejor el flujo de trabajo de ciencia abierta de principio a fin. El enfoque será proporcionar a los estudiantes una comprensión básica de la ciencia abierta, su espíritu y beneficios, y cómo participar activamente en comunidades relacionadas a la ciencia abierta. El plan de estudios de TOPS también se utilizará para apoyar a quienes investigan y buscan comprometerse con la NASA a medida que ésta adopta requisitos científicos de ciencia abierta. Quienes investigan deberán adquirir las nuevas habilidades destacadas en el plan de estudios para participar eficazmente en la ciencia abierta y demostrar esas habilidades al aplicar a oportunidades de financiación de la NASA.
 
-## Plan de estudios de Ciencia Abierta: Ciencia Abierta 101
+## Plan de estudios de Ciencia Abierta: Introducción a la Ciencia Abierta
 
 ### 5 módulos organizados como flujo de trabajo científico
 
-<img src="./Module_1/images/media/image441_ES.png" style="width:100%;height:auto;" />
+<img src="./Module_1/images/media/image441.png" style="width:100%;height:auto;" />
 
 Completando los cinco módulos y aprobando la evaluación al final de cada uno de ellos se obtiene una insignia digital de "NASA Open Science".
 
