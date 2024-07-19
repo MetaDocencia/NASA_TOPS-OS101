@@ -8,7 +8,7 @@ Transform to Open Science (TOPS) es una iniciativa de la NASA diseñada para tra
 
 ### 5 módulos organizados como flujo de trabajo científico
 
-<img src="./Module_1/images/media/image441.png" style="width:100%;height:auto;" />
+<img src="./Module_1/images/media/image441_ES.png" style="width:100%;height:auto;" />
 
 Completando los cinco módulos y aprobando la evaluación al final de cada uno de ellos se obtiene una insignia digital de "NASA Open Science".
 
