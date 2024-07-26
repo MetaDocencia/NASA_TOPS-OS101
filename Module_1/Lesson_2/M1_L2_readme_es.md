@@ -17,7 +17,7 @@ En esta lección, aprenderás cómo la adopción de la ciencia abierta beneficia
 
 Al finalizar esta lección deberías ser capaz de:
 
-- Describir las maneras en que la ciencia abierta beneficia su carrera con atribuciones, alcance y más colaboraciones.
+- Describir las maneras en que la ciencia abierta beneficia tu carrera con atribuciones, alcance y más colaboraciones.
 - Describir las formas en que la ciencia abierta puede promover la ciencia.
 - Listar los beneficios que la sociedad obtiene cuando se adoptan principios científicos abiertos.
 
@@ -33,7 +33,7 @@ Al finalizar esta lección deberías ser capaz de:
 
 ---
 
-A medida que la NASA mira hacia el exterior, nos enfrentamos a desafíos conocidos e inolvidables. Estos retos dinámicos exigirán un nuevo enfoque de la ciencia, que logren el éxito a través de un ecosistema científico receptivo e inclusivo. Esto requiere equipos más diversos: equipos con más manos, ojos y cervezas que tengan diversas experiencias para participar.
+A medida que la NASA mira hacia el exterior, nos enfrentamos a desafíos conocidos e inesperados. Estos retos dinámicos exigirán un nuevo enfoque de la ciencia, que logren el éxito a través de un ecosistema científico receptivo e inclusivo. Esto requiere equipos más diversos: equipos con más manos, ojos y cerebros que tengan diversas experiencias para participar.
 
 En la lección anterior, aprendimos sobre conceptos fundacionales que definen la ciencia abierta -su importancia, su propósito y sus éxitos probados-. En esta lección, abordamos los beneficios y retos clave de la implementación de principios científicos abiertos en las actividades de investigación.
 
