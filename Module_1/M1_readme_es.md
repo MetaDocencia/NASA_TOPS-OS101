@@ -98,7 +98,7 @@ Más información [aquí].(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3792863/
 
 ### [Lección 5: Planificando para la Ciencia Abierta: De la teoría a la práctica](./Leccion_5)
 
-- [Planificando para la Ciencia Abierta](#planificando-para-la-ciencia-abierta)
+- [Planificando para la Ciencia Abierta](./Leccion_5#planificando-para-la-ciencia-abierta)
 - [Diseñando para la Apertura](./Leccion_5#diseñando-para-la-apertura)
 - [Caso de estudio: Los resultados de un Plan Abierto](./Leccion_5#los-resultados-de-un-plan-abierto)
 - [Pasos para continuar con tu viaje por la Ciencia Abierta](./Leccion_5#pasos-para-continuar-con-tu-viaje-por-la-ciencia-abierta)
