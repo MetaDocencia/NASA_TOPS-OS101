@@ -137,11 +137,11 @@ Esto permite a otros comprobar si pueden llegar a la misma conclusión que el eq
 
 <img src="../images/media/image216.jpg" style="width: 350px; height: auto;" />
 
-He aquí un ejemplo de ciencia abierta que fue capaz de corregir errores en un estudio de salud rápidamente, ¡salvando vidas! En 2021, se publicó un [estudio](https://www.nature.com/articles/s41598-021-84092-1) que descubrió que las políticas de "quedarse en casa" no detuvieron la transmisión del virus de Covid. El estudio fue destacado por los prominentes escépticos del aislamiento y los sitios de noticias, lo que rápidamente aumentó la atención de muchas personas en un momento crítico en el pandemia. ¡Aquí estaba un artículo de investigación científica que dijo que los bloqueos no funcionan! Los autores del estudio publicaron el código fuente y los datos con su artículo. Esto permitió que otros examinaran rápidamente cómo llegaron a su conclusión. Casi inmediatamente, se plantearon preguntas sobre el documento y en nueve meses, dos documentos [aqui](https://www.nature.com/articles/s41598-021-02461-2) y [aqui](https://www.nature.com/articles/s41598-021-02096-3) señalaron errores importantes en el método de análisis. El documento original fue retirado. Todos cometemos errores. En este caso, el documento tenía importantes implicaciones políticas y debido a que los autores originales habían practicado la ciencia abierta, el error se corrigió rápidamente!
+He aquí un ejemplo de ciencia abierta que fue capaz de corregir errores en un estudio de salud rápidamente, ¡salvando vidas! En 2021, se publicó un [estudio](https://www.nature.com/articles/s41598-021-84092-1) que descubrió que las políticas de "quedarse en casa" no detuvieron la transmisión del virus de Covid. El estudio fue destacado por los prominentes escépticos del aislamiento y los sitios de noticias, lo que rápidamente aumentó la atención de muchas personas en un momento crítico en el pandemia. ¡Aquí estaba un artículo de investigación científica que dijo que los bloqueos no funcionan! Los autores del estudio publicaron el código fuente y los datos con su artículo. Esto permitió que otros examinaran rápidamente cómo llegaron a su conclusión. Casi inmediatamente, se plantearon preguntas sobre el documento y en nueve meses, dos documentos [aquí](https://www.nature.com/articles/s41598-021-02461-2) y [aquí](https://www.nature.com/articles/s41598-021-02096-3) señalaron errores importantes en el método de análisis. El documento original fue retirado. Todos cometemos errores. En este caso, el documento tenía importantes implicaciones políticas y debido a que los autores originales habían practicado la ciencia abierta, ¡el error se corrigió rápidamente!
 
 ### Abrir la ciencia conduce a más descubrimientos
 
-El Observatorio Solar y Heliosférico (SOH) ha estado enviando imágenes de nuestro sol dinámico, abriendo una nueva era de observación solar. Fue diseñada para la heliofísica. Sin embargo, científicos planetarios encontraron que SOHO es útil por su habilidad para detectar cometas que pasan muy cerca del sol, conocidos como pastores solares. Hasta la fecha, SOHO es una de las mejores fuentes de imágenes de las gigantescas explosiones superficiales producidas regularmente por el Sol, denominadas eyecciones de masa coronal o CME, que pueden lanzar al espacio un millón de toneladas de partículas solares. Este campo de visión es lo suficientemente grande como para ver un cometa rozando el sol mientras gira alrededor del sol.
+El Observatorio Solar y Heliosférico (SOHO, por sus siglas en inglés) ha estado enviando imágenes de nuestro sol dinámico, abriendo una nueva era de observación solar. Fue diseñado para la heliofísica. Sin embargo, científicos planetarios encontraron que SOHO es útil por su habilidad para detectar cometas que pasan muy cerca del sol, conocidos como cometas rasantes solares. Hasta la fecha, SOHO es una de las mejores fuentes de imágenes de las gigantescas explosiones superficiales producidas regularmente por el Sol, denominadas eyecciones de masa coronal o CMEs, que pueden lanzar al espacio un millón de toneladas de partículas solares. Este campo de visión es lo suficientemente grande como para ver un cometa rozando el sol mientras gira a su alrededor.
 
 El gran éxito de SOHO como buscador de cometas depende, por supuesto, de las personas que examinan los datos de SOHO - una tarea que se abrio al mundo al hacer publicos los datos en tiempo real.
 
@@ -149,17 +149,17 @@ El gran éxito de SOHO como buscador de cometas depende, por supuesto, de las pe
 
 Un grupo de astrónomos voluntarios aficionados se dedican a buscar estos datos a través del Proyecto Sungrazer, financiado por la NASA. Mientras que los científicos suelen buscar en las imágenes acontecimientos muy concretos, varios miembros de la comunidad astronómica optan por analizar con detalle todas las imágenes disponibles. Mas de 2.300 cometas han sido encontrados, 75% por ciudadanos científicos. Esto creó un gran conjunto de datos que sirven de entrenamiento para algoritmos. Los científicos de la NASA disponían de algoritmos para encontrar cometas que consideraban suficientemente precisos.
 
-Sin embargo, en 2022, la NASA decidió financiar un desafío abierto al público para desarrollar nuevos algoritmos y, ¿adivina qué? Dos nuevos algoritmos fueron descubiertos juntos con dos cometas nuevos!
+Sin embargo, en 2022, la NASA decidió financiar un desafío abierto al público para desarrollar nuevos algoritmos y, ¿adivina qué? ¡Dos nuevos algoritmos fueron descubiertos juntos con dos cometas nuevos!
 
 ### Calidad y diversidad de las comunicaciones académicas
 
-Además, la ciencia abierta mejora la situación de la literatura científica. Según un [estudio] (https://pubmed.ncbi.nlm.nih.gov/30523135/) del 2018, las revistas científicas han enfrentado el problema grave del sesgo en la publicación, donde los artículos en las revistas presentan una cantidad abrumadora de resultados novedosos y positivos. Sumado a ello según un estudio de 2011 y 2016, esto lleva a que los resultados científicos publicados en ciertas disciplinas pueden reportar efectos exagerados, o incluso ser “falsos positivos” (erróneamente afirmar que existe un efecto) dificultando la evaluación de la fiabilidad de los mismos. Las prácticas de la ciencia abierta, tales como registrar informes, mitigan el sesgo de la publicación y mejoran la fiabilidad de la literatura científica. Los informes registrados son formatos de publicación donde la revisión y aceptación de los artículos toma lugar antes de que se lleve a cabo la recopilación de datos. Según un [estudio] (https://www.ature.com/articles/s41562-021-01193-7) publicado en el 2022 de esta manera la presión para distorsionar los resultados es eliminada. Otras prácticas de la ciencia abierta, como el pre-registro, permiten un acceso parcial a proyectos que por diversas razones (como la falta de financiación, problemas logísticos o cambios en las prioridades organizacionales) no han sido completados o diseminados, segun reporta un estudio de 2023 (https://pubmed. cbi.nlm.nih.gov/34396837/), dando a estos proyectos una manera de ser públicos que puede ayudar a informar sobre el estado actual de la investigación.
+Además, la ciencia abierta mejora la situación de la literatura científica. Según un [estudio](https://pubmed.ncbi.nlm.nih.gov/30523135/) de 2018, las revistas científicas han enfrentado el grave problema del sesgo de publicación, donde los artículos en las revistas presentan una cantidad abrumadora de resultados novedosos y positivos. Sumado a ello según un estudio de 2011 y 2016, esto lleva a que los resultados científicos publicados en ciertas disciplinas pueden reportar efectos exagerados, o incluso ser “falsos positivos” (erróneamente afirmar que existe un efecto) dificultando la evaluación de la fiabilidad de los mismos. Las prácticas de la ciencia abierta, tales como registrar informes, mitigan el sesgo de la publicación y mejoran la fiabilidad de la literatura científica. Los informes registrados son formatos de publicación donde la revisión y aceptación de los artículos toma lugar antes de que se lleve a cabo la recopilación de datos, de esta manera la presión para distorsionar los resultados es eliminada de acuerdo a un [estudio](https://www.nature.com/articles/s41562-021-01193-7) publicado en 2022. Otras prácticas de la ciencia abierta, como el pre-registro, permiten una vista parcial a proyectos que por diversas razones (como la falta de financiación, problemas logísticos o cambios en las prioridades organizacionales) no han sido completados o difundidos, según reporta un estudio de 2023 (https://pubmed.ncbi.nlm.nih.gov/34396837/), dando a estos proyectos una manera de ser públicos que puede ayudar a informar sobre el estado actual de la investigación.
 
 <img src="../images/media/image254.png" style="width: 350px; height: auto;" />
 
-Utilizando herramientas de libre acceso y haciendo más accesibles nuestro proceso cientifico y lo que produzcamos, podemos garantizar que todos los que lo deseen puedan participar en la comunidad científica mundial.
+Utilizando herramientas libremente disponibles y haciendo más accesibles nuestros procesos científicos y lo que produzcamos, podemos garantizar que todos los que lo deseen puedan participar en la comunidad científica mundial.
 
-### Conclusiones principales: Beneficios para la ciencia
+### Conclusiones clave: Beneficios para la ciencia
 
 - La ciencia abierta puede acelerar los descubrimientos científicos. El conocimiento colectivo no sólo es más rápido, sino que es ademas más eficaz que los esfuerzos individuales.
 - La ciencia abierta permite que los errores sean corregidos rapidamente, lo que hace que la ciencia sea más precisa.
@@ -173,7 +173,7 @@ La colaboración, la innovación, la educación, el avance tecnológico y las po
 
 <img src="../images/media/image264.png" style="width: 350px; height: auto;" />
 
-Los científicos estudian cuestiones que afectan a todos los aspectos de la vida. Sin embargo, el interés del público general por la ciencia sigue siendo bajo debido a la falta de confianza, comprensión asi como también, a factores socioculturales. ¿Cómo pueden esperar los científicos que el público general confíe en la ciencia sobre cuestiones complejas y a menudo polémicas, ya sea el desarrollo de vacunas como la llegada a la luna, si no permiten que vean el proceso y los resultados obtenidos? Generar confianza en la ciencia es esencial para una sociedad bien informada. La ciencia abierta ofrece una vía para ello.
+Los científicos estudian cuestiones que afectan a todos los aspectos de la vida. Sin embargo, el interés del público general por la ciencia sigue siendo bajo debido a la falta de confianza, comprensión así como también, a factores socioculturales. ¿Cómo pueden esperar los científicos que el público general confíe en la ciencia sobre cuestiones complejas y a menudo polémicas, ya sea el desarrollo de vacunas como la llegada a la luna, si no permiten que vean el proceso y los resultados obtenidos? Generar confianza en la ciencia es esencial para una sociedad bien informada. La ciencia abierta ofrece una vía para ello.
 
 El público general que financia la investigación gubernamental a través de los impuestos debería tener derecho a sus resultados y sus datos, siempre que la seguridad y la protección no sean un problema. La ciencia debe ser más abierta para garantizar que sus conocimientos beneficien al público que la hace posible.
 
@@ -181,17 +181,17 @@ La ciencia abierta incrementa el escrutinio en la investigación lo que ayuda a 
 
 ### La ciencia abierta puede acelerar el ritmo al que avanza la ciencia
 
-Las prácticas de ciencia abierta aceleran el ritmo de los descubrimientos científicos al introducir ideas y mano de obra de la comunidad en general. [La pandemia de Covid-19 mostró a la ciencia abierta en acción para acelerar los descubrimientos y asi dar una respuesta rapida]. (https://www.nejm.org/doi/full/10.1056/NEJMp2034518)
+Las prácticas de ciencia abierta aceleran el ritmo de los descubrimientos científicos al introducir ideas y mano de obra de la comunidad en general. La respuesta rápida a la [pandemia de Covid-19 mostró a la ciencia abierta en acción para acelerar los descubrimientos](https://www.nejm.org/doi/full/10.1056/NEJMp2034518).
 
 <img src="../images/media/image41.png" style="width: 350px; height: auto;" />
 
-En enero de 2020, los investigadores hicieron publica la secuencia inicial del genoma del SARS-CoV-2 a través de una base de datos de libre acceso, creando así un precedente de intercambio de datos y metadatos que más tarde permitiría conocer nuevas variantes de Covid-19. En el NIH crearon una plataforma específica para compartir herramientas de investigación para Covid-19 y animaron a los investigadores a acelerar el reporte a ClinicalTrials.gov antes de lo exigido. Los acuerdos de publicación de ciencia abierta que apoyan la difusión de pruebas han complementado estas prácticas y políticas. Un día después de que la Organización Mundial de la Salud declarara el Covid-19 emergencia de salud pública, más de 50 editoriales académicas emitieron una declaración conjunta en la que se comprometían a aplicar políticas de acceso abierto a la investigación sobre el Covid-19. El apoyo a los servidores de pre-impresión ha fomentado el conocimiento de los éxitos y fracasos de la investigación, y las revistas han contribuido a acelerar la distribución de información procesable, entre otras cosas mediante páginas web dedicadas a Covid-19, la aprobación de articulos pre-impresos y el énfasis en compartir datos con las autoridades de salud pública.
+En enero de 2020, los investigadores hicieron publica la secuencia inicial del genoma del SARS-CoV-2 a través de una base de datos de libre acceso, creando así un precedente de intercambio de datos y metadatos que más tarde permitiría conocer nuevas variantes de Covid-19. En el NIH crearon una plataforma específica para compartir herramientas de investigación para Covid-19 y animaron a los investigadores a acelerar el registro en ClinicalTrials.gov antes de lo requerido. Los acuerdos de publicación de ciencia abierta que apoyan la difusión de pruebas han complementado estas prácticas y políticas. Un día después de que la Organización Mundial de la Salud declarara el Covid-19 emergencia de salud pública, más de 50 editoriales académicas emitieron una declaración conjunta en la que se comprometían a aplicar políticas de acceso abierto a la investigación sobre el Covid-19. El apoyo a los servidores de pre-impresión ha fomentado el conocimiento de los éxitos y fracasos de la investigación, y las revistas han contribuido a acelerar la distribución de información procesable, entre otras cosas mediante páginas web dedicadas a Covid-19, la aprobación de articulos pre-impresos y el énfasis en compartir datos con las autoridades de salud pública.
 
 ### La ciencia abierta es una ciencia eficiente
 
-La ciencia abierta hace recíprocos los beneficios que proporciona a los investigadores con las comunidades a las que los científicos esperan servir. Los datos de una observación o un experimento científico pueden tener usos imprevistos. En la Lección 1, analizamos un ejemplo en el que el uso de datos de radar para rastrear el efecto del cambio climático se utilizaba para seguir la migración de las aves.
+La ciencia abierta beneficia recíprocamente a los investigadores y las comunidades a las que estos esperan servir. Los datos de una observación o un experimento científico pueden tener usos imprevistos. En la Lección 1, analizamos un ejemplo en el que el uso de datos de radar para rastrear el efecto del cambio climático se utilizaba para seguir la migración de las aves.
 
-Según un [informe] de la Comisión Europea de 2020, gracias a las prácticas de ciencia abierta se pueden evitar los residuos de la investigación, como la repetición involuntaria y costosa de estudios anteriores.(https://op.europa.eu/en/publication-detail/-/publication/6bc538ad-344f-11eb-b27b-01aa75ed71a1). En las ciencias humanas, esto también reduce la fatiga de los participantes a largo plazo. Al maximizar lo que se aprende de los datos disponibles públicamente, no es necesario realizar pruebas repetidamente, especialmente en comunidades ya vulnerables. Al " donar " la ciencia, los individuos, las comunidades y las organizaciones pueden adoptar más fácilmente los resultados de la investigación para orientar las intervenciones a sus propias necesidades sin que los conocimientos queden en manos de los investigadores originales y las organizaciones implicadas. De este modo, la ciencia abierta puede reforzar el impacto social y económico de los resultados científicos.
+Según un [informe](https://op.europa.eu/en/publication-detail/-/publication/6bc538ad-344f-11eb-b27b-01aa75ed71a1) de la Comisión Europea de 2020, gracias a las prácticas de ciencia abierta se puede evitar el desperdicio en la investigación, tal como la repetición involuntaria y costosa de estudios anteriores. En las ciencias humanas, esto también reduce la fatiga de los participantes a largo plazo. Al maximizar lo que se aprende de los datos disponibles públicamente, no es necesario realizar pruebas repetidamente, especialmente en comunidades ya vulnerables. Al " donar " la ciencia, los individuos, las comunidades y las organizaciones pueden adoptar más fácilmente los resultados de la investigación para orientar las intervenciones a sus propias necesidades sin que los conocimientos queden en manos de los investigadores originales y las organizaciones implicadas. De este modo, la ciencia abierta puede reforzar el impacto social y económico de los resultados científicos.
 
 ### La ciencia abierta atrae a un conjunto diverso de participantes
 
@@ -213,7 +213,7 @@ La mejor manera de incluir a un grupo diverso de profesionales y partes interesa
 
 ## Lección 2: Resumen
 
-A continuación se exponen las conclusiones principales de esta lección:
+A continuación se exponen las conclusiones clave de esta lección:
 
 - Citar el trabajo de otros científicos en el que basamos nuestro trabajo o que reutilizamos apoya la práctica de la ciencia abierta orientada a la comunidad de usar, hacer y compartir.
 - Hacer ciencia abiertamente puede aumentar la visibilidad de la investigación y dar lugar a colaboraciones más significativas.
@@ -230,7 +230,7 @@ _Pregunta_
 
 ¿Qué beneficios obtienen los investigadores al practicar la ciencia abierta?
 
-Seleccione todas las opciones que correspondan.
+Selecciona todas las opciones que correspondan.
 
 - Documentar el trabajo
 - Recibir credito
@@ -242,13 +242,13 @@ _Pregunta_
 
 **02/03**
 
-¿Cómo mejora la ciencia hacerla abierta?
+¿Cómo la ciencia mejora al volverse abierta?
 
-Seleccione todas las opciones que correspondan.
+Selecciona todas las opciones que correspondan.
 
 - Ritmo acelerado de la ciencia
-- Mayor precisión
-- Menor sesgo en las publicaciones
+- Mejor exactidud
+- Menor sesgo de publicación
 - Menos descubrimientos
 
 _Pregunta_
@@ -257,7 +257,7 @@ _Pregunta_
 
 ¿Qué beneficios aporta a la sociedad la ciencia abierta?
 
-Seleccione todas las opciones que correspondan.
+Selecciona todas las opciones que correspondan.
 
 - Un uso más amplio de los resultados aumenta las inversiones en ciencia.
 - La distribución abierta de resultados precisos reduce la desinformación.
