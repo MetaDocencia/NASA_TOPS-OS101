@@ -82,7 +82,7 @@ Más información [aquí].(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3792863/
 ### [Lección 3: Cómo hacer Ciencia Abierta](./Leccion_3)
 
 - [Manteniendo la seguridad y protegiendo la privacidad](./Lección_3#manteniendo la seguridad-y-protegiendo la privacidad)
-- [Propiedad Intelectual](./Leccion_3#propiedad-intelectual)
+- [Propiedad intelectual](./Leccion_3#propiedad-intelectual)
 - [Políticas y Prácticas en torno a la Ciencia Abierta](./Leccion_3#politicas-y-practicas-en-torno-a-la-ciencia-abierta)
 - [Lección 3: Resumen](./Leccion_3#leccion-3-resumen)
 - [Lección 3: Evaluación](./Leccion_3#leccion-3-evaluacion)
