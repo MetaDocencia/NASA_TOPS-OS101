@@ -2,12 +2,12 @@
 
 ## Contenidos
 
-- [La Ciencia Abierta Rompe Barreras y Promueve la Innovación](#la-ciencia-abierta-rompe-barreras-y-promueve-la-innovación)
-- [Beneficios Individuales](#beneficios-individuales)
-- [Beneficios Para La Ciencia](#beneficios-para-la-ciencia)
-- [Beneficios Para La Sociedad](#beneficios-para-la-sociedad)
-- [Lección 2: Resumen](#lección-2-resumen)
-- [Lección 2: Evaluación](#lección-2-evaluacion)
+- [La Ciencia Abierta Rompe Barreras y Promueve la Innovación](#la-ciencia-abierta-rompe-barreras-y-promueve-la-innovacion)
+- [Beneficios individuales](#beneficios-individuales)
+- [Beneficios para la ciencia](#beneficios-para-la-ciencia)
+- [Beneficios para la sociedad](#beneficios-para-la-sociedad)
+- [Lección 2: Resumen](#leccion-2-resumen)
+- [Lección 2: Evaluación](#leccion-2-evaluacion)
 
 ## Resumen
 
@@ -21,9 +21,9 @@ Al finalizar esta lección deberías ser capaz de:
 - Describir las formas en que la ciencia abierta puede promover la ciencia.
 - Listar los beneficios que la sociedad obtiene cuando se adoptan principios científicos abiertos.
 
-## La Ciencia Abierta Rompe Barreras e Impulsa la Innovación
+## La Ciencia Abierta rompe barreras e impulsa la innovación
 
-"Necesitamos más ciencias "Nosotros" en lugar de ciencia "Yo".
+"Necesitamos más ciencia colectiva que ciencia individual".
 
 **Harlan Krumholz,**
 
@@ -47,23 +47,23 @@ Imagen: Existen muchos beneficios en la Ciencia Abierta. [CC-BY Danny Kingsley y
 
 ## Beneficios para ti
 
-### ¡Eres tu Mejor Colaborador Futuro!
+### ¡Eres tu mejor colaborador futuro!
 
-Hacer ciencia abierta no sólo permite que otras personas entiendan y reproduzcan tus resultados, sino que también te permite hacerlo! Implementar principios de ciencia abierta, tales como buena documentación y control de versiones ayuda a colaboradores potenciales y a cualquier otra persona que se interese en entender sus resultados.
+Hacer ciencia abierta no sólo permite que otras personas entiendan y reproduzcan tus resultados, sino que también te permite hacerlo a tí! Implementar principios de ciencia abierta, tales como buena documentación y control de versiones ayuda a colaboradores potenciales y a cualquier otra persona que se interese en entender tus resultados.
 
-Si tu trabajo se comparte públicamente, nunca perderás el acceso incluso si cambiasde institución o de empleo. Muchos investigadores rotan por instituciones y organizaciones. Al tener sus datos y software y resultados en repositorios, siempre tienen acceso a ellos.
+Si tu trabajo se comparte públicamente, nunca perderás el acceso incluso si cambias de institución o de empleo. Muchos investigadores rotan por instituciones y organizaciones. Al tener sus datos, software y resultados en repositorios, siempre tienen acceso a ellos.
 
 <img src="../images/media/image261.png" style="width: 350px; height: auto;" />
 
-La implementación de buenas prácticas de ciencia abierta en una investigación no sólo le ayuda a documentar, sino que puede fortalecer sus propuestas de financiación. Las agencias de financiación han comenzado a darse cuenta de que compartir abiertamente productos de investigación puede aumentar sus citas recibidas y aplicadas, lo que resulta en un mejor rendimiento de la inversión.
+La implementación de buenas prácticas de ciencia abierta en una investigación no sólo te ayuda a documentar, sino que puede fortalecer tus propuestas de financiación. Las agencias de financiación han comenzado a darse cuenta de que compartir abiertamente productos de investigación puede aumentar sus citas recibidas y aplicadas, lo que resulta en un mejor rendimiento de la inversión.
 
-Los productos de investigación bien documentados también demuestran la calidad de su trabajo, lo que ayuda en los esfuerzos de comunicación pública y también puede atraer mejores colaboradores. La fiabilidad y una ética de trabajo fuerte motivan a los demás a querer trabajar contigo.
+Los productos de investigación bien documentados también demuestran la calidad de tu trabajo, lo que ayuda en los esfuerzos de comunicación pública y también puede atraer mejores colaboradores. La fiabilidad y una ética de trabajo fuerte motivan a las demás personas a querer trabajar contigo.
 
-### Dar y obtener crédito al usar los resultados de otros
+### Dar y obtener crédito al usar los resultados de otras personas
 
 <img src="../images/media/image262.png" style="width: 350px; height: auto;" />
 
-Además de documentar tus propias investigaciones, la práctica de dar crédito a todos los que han contribuido fortalecerá su reputación en la comunidad científica y actualizará los valores compartidos de la ciencia abierta. A medida que las personas ganen confianza en los beneficios de la investigación cooperativa, también comenzarán a dar crédito a más contribuciones que antes podrían no haber sido reconocidas. Se puede dar un trabajo diferente como parte de un artículo en una declaración de contribución del autor como el ejemplo que se comparte aquí.
+Además de documentar tus propias investigaciones, la práctica de dar crédito a todos quienes han contribuido fortalecerá tu reputación en la comunidad científica y actualizará los valores compartidos de la ciencia abierta. A medida que las personas ganen confianza en los beneficios de la investigación cooperativa, también comenzarán a dar crédito a más contribuciones que antes podrían no haber sido reconocidas. Las diferentes tareas realizadas en un artículo pueden detallarse en una Declaración de Contribución como la del ejemplo compartido aquí.
 
 <img src="../images/media/image260.jpg" style="width: 100%; height: auto;" />
 
@@ -73,19 +73,19 @@ La ilustración del proyecto Turing Way de Scriberia. Utilizada bajo una licenci
 
 ### Más visibilidad e impacto
 
-Además de mejorar la precisión científica, adherirse a las prácticas científicas abiertas potencialmente ofrece beneficios personales para los investigadores. La investigación publicada abiertamente tiene mucho más visibilidad y potencial de impacto con grandes audiencias a través de Internet, que puede llevar a más citas, colaboradores de ideas afines y oportunidades de carrera/financiación, de acuerdo con un [estudio](https://pubmed. cbi.nlm.nih.gov/27387362/) del 2016.
+Además de mejorar la precisión científica, adherirse a las prácticas científicas abiertas potencialmente ofrece beneficios personales para los investigadores. La investigación publicada abiertamente tiene mucho más visibilidad y potencial de impacto con grandes audiencias a través de Internet, que puede llevar a más citas, colaboradores de ideas afines y oportunidades de carrera/financiación, de acuerdo con un [estudio](https://pubmed.ncbi.nlm.nih.gov/27387362/) del 2016.
 
 <img src="../images/media/image263.png" style="width:100%;height:auto;" />
 
-#### Emergente evidencia de que algunos aspectos de la ciencia abierta pueden aumentar sus citas.
+#### Evidencia emergente de que algunos aspectos de la ciencia abierta pueden aumentar sus citas.
 
 Publicar acceso abierto incrementa el número de citas en un 18%, según un [estudio](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7176083/) del 2018.
 
-Los artículos que hacen que sus datos sean abiertamente accesibles a través de un enlace directo a un depósito hace aproximadamente 25% más de impacto en la cita, de acuerdo con un estudio de 2020.
+Los artículos que hacen que sus datos sean abiertamente accesibles a través de un enlace directo a un repositorio consiguen aproximadamente 25% más de impacto en la cita, de acuerdo con un estudio de 2020.
 
 Publicar como acceso abierto puede tener costes prohibitivos para algunos investigadores dependiendo del lugar. A menudo hay otras opciones que permiten a los autores compartir su trabajo libre y abiertamente. En el Módulo 5 sobre Resultados Abiertos, discutimos algunas de estas otras opciones incluyendo preimpresiones y acceso abierto diamante.
 
-Hay muchos resultados de investigación diferentes que se pueden compartir abiertamente y hacer cítables:
+Hay muchos resultados de investigación diferentes que se pueden compartir abiertamente y hacer citables:
 
 - Código
 - Datos
@@ -94,28 +94,28 @@ Hay muchos resultados de investigación diferentes que se pueden compartir abier
 - Entradas de blog
 - ¡Y más!
 
-¡Todo esto son resultados concretos y científicos! Gran parte de nuestro tiempo como investigadores se dedica a escribir código, recopilar datos, reunir clases y no solo publicaciones. Compartir públicamente materiales hace más probable recibir una cita.
+¡Todo esto son resultados científicos concretos! Gran parte de nuestro tiempo como investigadores se dedica a escribir código, recopilar datos, preparar clases y no \*solo\* publicaciones. Compartir públicamente materiales hace más probable recibir una cita.
 
 <img src="../images/media/image269.png" style="width: 100%; height: auto;" />
 
 ### Más colaboraciones
 
-Las prácticas de ciencias abiertas también pueden permitir colaboraciones más fuertes, tanto dentro como entre disciplinas, como lo demuestra un [estudio]
-(https://liberquarterly.eu/article/view/10819) del 2016. La facilidad de acceso a los datos abiertos trae nuevos agentes al paisaje que permiten una participación más amplia y diversa. A través de prácticas científicas abiertas, como el pre-registro en el que los investigadores documentan su plan de investigación al comienzo de un estudio uno permite un diseño de investigación más fuerte porque se puede solicitar la retroalimentación de varios colaboradores y partes interesadas antes de que comience la recolección de datos. Similarmente, las preimpresiones permiten una retroalimentación más rápida sobre las conclusiones extraídas de los datos una vez que se recogen.
+Las prácticas de ciencia abierta también pueden permitir colaboraciones más fuertes, tanto dentro como entre disciplinas, como lo demuestra un [estudio]
+(https://liberquarterly.eu/article/view/10819) del 2016. La facilidad de acceso a los datos abiertos trae nuevos agentes al paisaje que permiten una participación más amplia y diversa. A través de prácticas científicas abiertas, como el pre-registro en el que los investigadores documentan su plan de investigación al comienzo de un estudio se permite un diseño de investigación más fuerte porque se puede solicitar la retroalimentación de varios colaboradores y partes interesadas antes de que comience la recolección de datos. Similarmente, las preimpresiones permiten una retroalimentación más rápida sobre las conclusiones extraídas de los datos una vez que se recopilan.
 
 ### Actividad 2.1: Beneficios para ti
 
-En esta actividad, reflexiona sobre tus respuestas a las preguntas y luego compara tus pensamientos con las claves para llevarlos.
+En esta actividad, reflexiona sobre tus respuestas a las preguntas y luego compara tus pensamientos con las conclusiones clave.
 
 <img style="width:350px;height:auto;" src="../images/media/lightbulb.png">
 
 - ¿Puedes encontrar tu propio trabajo, post publicación y/o prepublicación? ¿Puedes llevar tus materiales de investigación (datos, código, resultados) contigo si cambias de institucion?
-- ¿Puedes encontrar el trabajo de tus colaboradores? ¿De científicos de otros campos que usted encuentra interesante? ¿Te has acercado a otros para colaborar con ellos después de encontrar resultados interesantes?
-- ¿Están las personas en su campo dando y obteniendo crédito por el trabajo realizado?
+- ¿Puedes encontrar el trabajo de tus colaboradores? ¿De científicos de otros campos que encuentras interesante? ¿Te has acercado a otros para colaborar con ellos después de encontrar resultados interesantes?
+- ¿Están las personas en tu campo dando y obteniendo crédito por el trabajo realizado?
 
 **Claves para llevarse: Beneficios para ti**
 
-- Ser más abierto fomenta las mejores prácticas de investigación y te facilita desarrollar tu trabajo.
+- La apertura fomenta mejores prácticas de investigación y te facilita desarrollar tu trabajo.
 - Los resultados abiertos tienen más visibilidad e impacto.
 - La ciencia abierta fomenta más ciencia colaborativa.
 
@@ -123,21 +123,21 @@ En esta actividad, reflexiona sobre tus respuestas a las preguntas y luego compa
 
 ### La ciencia transparente es ciencia reproducible
 
-Cuando las computadoras se utilizan para producir investigaciones científicas, el código se considera un "método". Al igual que un entorno de investigación de laboratorio, un conjunto de instrucciones para trabajar con células o placas de agar puede considerarse un método. Los métodos de revisión por pares son un paso esencial en el proceso científico. Cuando estas medidas no se compartan, nadie más puede reproducir el trabajo o construir sobre él para futuros esfuerzos científicos. Los métodos abiertos permiten que la gente juzgue si los métodos son o no dignos de confianza. En la lección 1, la historia del "Global Cooling Error" presentó un ejemplo conmovedor de ciencia que no era reproducible debido a la falta de transparencia de los datos.
+Cuando las computadoras se utilizan para producir investigaciones científicas, el código se considera un "método". Al igual que un entorno de investigación de laboratorio, un conjunto de instrucciones para trabajar con células o placas de agar puede considerarse un método. Los métodos de revisión por pares son un paso esencial en el proceso científico. Cuando estas medidas no se comparten, nadie más puede reproducir el trabajo o construir sobre él para futuros esfuerzos científicos. Los métodos abiertos permiten que las personas juzguen si los métodos son o no dignos de confianza. En la Lección 1, la historia del "Error del enfriamiento global" presentó un ejemplo conmovedor de ciencia que no era reproducible debido a la falta de transparencia de los datos.
 
 ### La ciencia abierta puede mejorar la precisión
 
 <img src="../images/media/image267.png" style="width: 350px; height: auto;" />
 
-Un [estudio](https://www.nature. om/articles/s41562-021-01193-7) de 2022 descubrió que los investigadores que practican la transparencia y promueven la verificabilidad se benefician de lectores e interesados que juzgan si los resultados presentados son exactos y, de acuerdo a un [estudio] relacionado (https://www. mu.edu/dietrich/sds/docs/loewenstein/MeasPrevalQuestTruthTelling.pdf), que los resultados no son producidos por prácticas de investigación cuestionables que conducen a resultados engañosos o poco fiables.
+Un [estudio](https://www.nature.com/articles/s41562-021-01193-7) de 2022 encontró que los investigadores que practican la transparencia y promueven la verificabilidad se benefician de lectores e interesados que juzgan si los resultados presentados son exactos y, de acuerdo a un [estudio](https://www.cmu.edu/dietrich/sds/docs/loewenstein/MeasPrevalQuestTruthTelling.pdf) relacionado, que los resultados no son producidos por prácticas de investigación cuestionables que conducen a resultados engañosos o poco fiables.
 
-La ciencia abierta también permite a otros examinar las decisiones analíticas de los investigadores, por ejemplo si el análisis fue planeado antes o después de observar los datos, de acuerdo a un [estudio](https://www. nas.org/doi/full/10.1073/pnas.1708274114) del 2018.
+La ciencia abierta también permite a otros examinar las decisiones analíticas de los investigadores, por ejemplo si el análisis fue planeado antes o después de observar los datos, de acuerdo a un [estudio](https://www.pnas.org/doi/full/10.1073/pnas.1708274114) de 2018.
 
-Esto permite a otros comprobar si pueden llegar a la misma conclusión que el equipo de investigación original, y facilita una mayor confianza y apoyo del público, de acuerdo con un [reporte](https://unesdoc. nesco.org/ark:/48223/pf0000379949) de la UNESCO de 2021.
+Esto permite a otros comprobar si pueden llegar a la misma conclusión que el equipo de investigación original, y facilita una mayor confianza y apoyo del público, de acuerdo con un [reporte](https://unesdoc.unesco.org/ark:/48223/pf0000379949_spa) de la UNESCO de 2021.
 
 <img src="../images/media/image216.jpg" style="width: 350px; height: auto;" />
 
-He aquí un ejemplo de ciencia abierta que fue capaz de corregir errores en un estudio de salud rápidamente, salvando vidas! En 2021, se publicó un [estudio](https://www.nature.com/articles/s41598-021-84092-1) que descubrió que las políticas de Covid "quedarse en casa" no detuvieron la transmisión del virus. El estudio fue destacado por los prominentes escépticos y los sitios de noticias de bloqueo, lo que rápidamente aumentó la atención de muchas personas en un momento crítico en el pandemia. Aquí estaba un artículo de investigación científica que dijo que los bloqueos no funcionan! Los autores del estudio publicaron el código fuente y los datos con su artículo. Esto permitió que otros examinaran rápidamente cómo llegaron a su conclusión. Casi inmediatamente, se plantearon preguntas sobre el documento y en nueve meses, dos documentos [aqui](https://www.nature.com/articles/s41598-021-02461-2) y [aqui](https://www.nature.com/articles/s41598-021-02096-3) señalaron errores importantes en el método de análisis. El documento original fue retirado. Todos cometemos errores. En este caso, el documento tenía importantes implicaciones políticas y debido a que los autores originales habían practicado la ciencia abierta, el error se corrigió rápidamente!
+He aquí un ejemplo de ciencia abierta que fue capaz de corregir errores en un estudio de salud rápidamente, ¡salvando vidas! En 2021, se publicó un [estudio](https://www.nature.com/articles/s41598-021-84092-1) que descubrió que las políticas de "quedarse en casa" no detuvieron la transmisión del virus de Covid. El estudio fue destacado por los prominentes escépticos del aislamiento y los sitios de noticias, lo que rápidamente aumentó la atención de muchas personas en un momento crítico en el pandemia. ¡Aquí estaba un artículo de investigación científica que dijo que los bloqueos no funcionan! Los autores del estudio publicaron el código fuente y los datos con su artículo. Esto permitió que otros examinaran rápidamente cómo llegaron a su conclusión. Casi inmediatamente, se plantearon preguntas sobre el documento y en nueve meses, dos documentos [aqui](https://www.nature.com/articles/s41598-021-02461-2) y [aqui](https://www.nature.com/articles/s41598-021-02096-3) señalaron errores importantes en el método de análisis. El documento original fue retirado. Todos cometemos errores. En este caso, el documento tenía importantes implicaciones políticas y debido a que los autores originales habían practicado la ciencia abierta, el error se corrigió rápidamente!
 
 ### Abrir la ciencia conduce a más descubrimientos
 
