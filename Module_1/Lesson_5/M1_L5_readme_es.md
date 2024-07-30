@@ -1,10 +1,10 @@
-# Lección 5: Planificando para la Ciencia Abierta: De la teoría a la práctica
+# [Lección 5: Planificando para la Ciencia Abierta: De la teoría a la práctica]
 
 ## Contenidos
 
 - [Planificando para la Ciencia Abierta](#planificando-para-la-ciencia-abierta)
 - [Diseñando para la Apertura](#diseñando-para-la-apertura)
-- [Caso de Estudio: Los Resultados de un Plan Abierto](#caso-de-estudio-los-resultados-de-un-plan-abierto)
+- [Caso de estudio: Los resultados de un Plan Abierto](#los-resultados-de-un-plan-abierto)
 - [Pasos para Continuar con tu Viaje en Ciencia Abierta](#pasos-para-continuar-con-tu-viaje-en-ciencia-abierta)
 - [Lección 5: Resumen](#leccion-5-resumen)
 - [Lección 5: Revisión De Conocimientos](#leccion-5-revision-de-conocimientos)
@@ -73,14 +73,14 @@ Los planes de ciencia abierta y gestión de datos son esenciales porque mejoran 
     </tr>
     <tr>
         <td>Inclusividad</td>
-        <td>Los PCAGD pueden incluir herramientas y procesos que mejoren significativamente los productos de la investigación a través de colaboraciones.</td>
+        <td>Los PCAGD pueden incluir herramientas y procesos que mejoren significativamente los productos de la investigación a través de colaboraciones y asesorías.</td>
     </tr>
 </tbody>
 </table>
 
 Aprende más sobre los PCAGD en el Módulo 2.
 
-### Una Estrategia Abierta
+### Una estrategia abierta
 
 Hoy en día, cada vez son más las fundaciones y agencias que esperan que las propuestas para subsidios de investigación incluyan una estrategia de ciencia abierta. Al incluir un documento de estrategia de ciencia abierta en tu proyecto, aseguras la accesibilidad y apertura en cada paso de tu flujo de trabajo. Concluye tu plan integral con pasos claros para que tus productos de investigación se encuentren fácilmente accesibles y abiertamente disponibles. Los pasos definidos en tu estrategia deberían estar integrados en tus procesos y prácticas científicas cotidianas.
 
@@ -88,29 +88,29 @@ Hoy en día, cada vez son más las fundaciones y agencias que esperan que las pr
 
 Cada gran fundación para la investigación y agencia gubernamental actualmente requiere que las personas solicitantes envíen un plan de gestión de datos (PGD) junto con su proyecto científico y plan de investigación. Algunas piden detalles adicionales sobre software/código y publicaciones.
 
-#### Incluye Detalles de los Flujos de Trabajo de Datos en el Plan
+#### Incluye detalles de los flujos de trabajo de datos en el plan
 
-Describe tu gesitón de flujo de trabajo para datos e investigación relacionada. Otros elementos, como código o una publicación, tienen su propio ciclo de vida y flujo de trabajo que debe estar presente en el plan.
+Describe tu gestión de flujo de trabajo para datos e investigación relacionada. Otros elementos, como código o una publicación, tienen su propio ciclo de vida y flujo de trabajo que debe estar presente en el plan.
 
-#### Incluye Terminología y Conceptos Abiertos
+#### Incluye terminología y conceptos abiertos
 
-Los planes exitosos tipicamente incluyen terminología clara sobre cómo la información se hace encontrable, accesible, interoperable y reutilizable. Esto puede incluir licencias, repositorios, formatos y la gobernanza del proyecto.
+Los planes exitosos típicamente incluyen terminología clara sobre cómo la información se hace fácil de encontrar, accesible, interoperable y reusable. Esto puede incluir licencias, repositorios, formatos y la gobernanza del proyecto.
 
 #### Conservación
 
-Los materiales de investigación son valiosos y reutilizables por un largo período de tiempo luego de que el apoyo financiero del proyecto termina. La reutilización puede extenderse más allá de nuestra vida. Por lo tanto, las personas que investigan deben tomar medidas para la conservación y accesibilidad que aseguren que el trabajo no se pierda cuando termine la interacción con una investigación.
+Los materiales de investigación son valiosos y reutilizables por un largo período de tiempo luego de que el apoyo financiero del proyecto termina. La reutilización puede extenderse más allá de nuestra vida. Por lo tanto, las personas que investigan deben tomar medidas para la conservación y accesibilidad que aseguren que el trabajo no se pierda cuando termine la investigación.
 
-## Diseñando para la Apertura
+## Diseñando para la apertura
 
-### La Ciencia Abierta Aplica a Todo el Flujo de Trabajo
+### La Ciencia Abierta aplica a todo el flujo de trabajo
 
 <img src="../images/media/image402.jpg" style="width: 100%; height: auto;" />
 
-Fuente para las Fases del Flujo de Trabajo de la Ciencia Abierta: Opensciency
+Fuente para las fases del flujo de trabajo de la Ciencia Abierta: Opensciency
 
 ---
 
-Independientemente de tu disciplina científica o de la metodología que utilices, el flujo de trabajo sigue siendo relativamente el mismo. Cuenta con una fase de planificación, una fase de implementación y una fase de lanzamiento. Dentro de estas fases, hay hitos que varían en función del flujo de trabajo que sigas. Para el propósito de nuestra discusión en esta lección, y los otros módulos en este programa, hemos adoptado el flujo de trabajo científico con hitos generales descritos en el programa de [Opensciency](https://opensciency. ithub.io/sprint-content/). Los detalles de tu flujo de trabajo pueden variar, pero los conceptos generales son los mismos. Lo importante aquí es que cuando se adopta la ciencia abierta, ésta impregna todas las etapas del flujo de trabajo. Te preparas para ello en la fase de planificación, pero luego continúa integrando los principios de la misma a lo largo de las fases de implementación y de lanzamiento.
+Independientemente de tu disciplina científica o de la metodología que utilices, el flujo de trabajo sigue siendo relativamente el mismo. Cuenta con una fase de planificación, una fase de implementación y una fase de lanzamiento. Dentro de estas fases, hay hitos que varían en función del flujo de trabajo que sigas. Para el propósito de nuestra discusión en esta lección, y los otros módulos en este programa, hemos adoptado el flujo de trabajo científico con hitos generales descritos en el programa de [Opensciency](https://opensciency.github.io/sprint-content/). Los detalles de tu flujo de trabajo pueden variar, pero los conceptos generales son los mismos. Lo importante aquí es que cuando se adopta la ciencia abierta, ésta impregna todas las etapas del flujo de trabajo. Te preparas para ello en la fase de planificación, pero luego continúa integrando los principios de la misma a lo largo de las fases de implementación y de lanzamiento.
 
 Los productos creados a lo largo del proceso científico son necesarios para que otros puedan reproducir los hallazgos. Quienes investigan y deseen hacer que sus resultados sean reproducibles deben poner los elementos clave de su estudio abiertamente a disposición de los demás.
 
@@ -120,27 +120,27 @@ Fuente para las Fases del Flujo de Trabajo de la Ciencia Abierta: Opensciency
 
 ---
 
-Continuando con el flujo de trabajo, este diagrama actualizado muestra ahora los tipos de productos científicos que son creados en cada hito. Los productos especializados que usted crea pueden variar o ser completamente diferentes, pero el foco en el descubrimiento para el público sigue siendo el mismo. Cualquier tipo de productos que crees puede ser modificado para apoyar los principios y los conceptos de la ciencia abierta. Dónde y cómo integrar conceptos de ciencia abierta en tus productos es el propósito de este programa "Open Science 101".
+Continuando con el flujo de trabajo, este diagrama actualizado muestra ahora los tipos de productos científicos que son creados en cada hito. Los productos especializados que crees pueden variar o ser completamente diferentes, pero el foco en el descubrimiento para el público sigue siendo el mismo. Cualquier tipo de productos que crees puede ser modificado para apoyar los principios y los conceptos de la ciencia abierta. Dónde y cómo integrar conceptos de ciencia abierta en tus productos es el propósito del plan de estudios de esta Introducción a la Ciencia Abierta.
 
-### Utilizar, Hacer, Compartir
+### Usar, Hacer, Compartir
 
 <img src="../images/media/image165.png" style="width: 100%; height: auto;" />
 
-La idea de que la ciencia abierta puede afectar a todo tu flujo de trabajo científico puede parecer abrumadora e inalcanzable, pero recuerda, la ciencia abierta se da a través de todo un espectro –incluso los pequeños pasos hacia la apertura conducen a una ciencia más accesible, inclusiva y reproducible. Y el programa Open Science 101 está aquí para ayudarte a atravesar este proceso.
+La idea de que la ciencia abierta puede afectar a todo tu flujo de trabajo científico puede parecer abrumadora e inalcanzable, pero recuerda, la ciencia abierta se da a través de todo un espectro –incluso los pequeños pasos hacia la apertura conducen a una ciencia más accesible, inclusiva y reproducible. Y el plan de estudios de Introducción a la Ciencia Abierta está aquí para ayudarte a atravesar este proceso.
 
 En esta sección, presentamos el sistema "Usar, Hacer, Compartir" que puede empezar a aumentar gradualmente tu adopción de la ciencia abierta dependiendo de la naturaleza y el alcance de tu proyecto. ¡A lo largo del curso, exploraremos cómo puede ser utilizado este marco de trabajo para hacer tu ciencia más abierta!
 
 ### ¿Qué recursos utilizarás?
 
-¡Ya existen muchos recursos de ciencia abierta para que los utilices! La ciencia abierta cuenta ya con una larga historia. Por ejemplo, el acto que creó la NASA estipula el compartir sus descubrimientos con toda la humanidad y la NASA ha estado compartiendo sus datos abiertamente en Internet desde la década de 1980. Ahora, ya hay más de 100 Petabytes de datos de la NASA abiertamente disponibles para que busques, descargues, y utilices, y ejemplos de estos servicios se proporcionan en el Módulo 3. Se han desarrollado tecnologías y prácticas alrededor del código que facilitan la colaboración en la construcción de soluciones complejas, y se dan ejemplos en el Módulo 4. Una serie de servicios facilitan el intercambio y el descubrimiento de publicaciones con acceso abierto, y que son discutidos en el Módulo 5.
+¡Ya existen muchos recursos de ciencia abierta para que los utilices! La ciencia abierta cuenta ya con una larga historia. Por ejemplo, la ley que creó la NASA estipula el compartir sus descubrimientos con toda la humanidad y la NASA ha estado compartiendo sus datos abiertamente en Internet desde la década de 1980. Ahora, ya hay más de 100 Petabytes de datos de la NASA abiertamente disponibles para que busques, descargues, y utilices, y ejemplos de estos servicios se proporcionan en el Módulo 3. Se han desarrollado tecnologías y prácticas alrededor del código que facilitan la colaboración en la construcción de soluciones complejas, y se dan ejemplos en el Módulo 4. Una serie de servicios facilitan el intercambio y el descubrimiento de publicaciones con acceso abierto, y son discutidos en el Módulo 5.
 
 En el Módulo 2, te presentaremos algunas de las herramientas que no sólo hacen posible la ciencia abierta, sino que también son fáciles de utilizar.
 
 ### ¿Qué resultados obtendrás?
 
-A lo largo del proceso de investigación, habrá diferentes productos y resultados obtenidos. Estos pueden ir desde conjuntos de datos (en inglés, data sets), muestras, código, informes, manuscritos, actas de conferencia, entradas de blog y videos. Cada uno de ellos tiene diferentes consideraciones sobre cómo hacerlas incluyendo cómo pueden hacerse de formas abiertas y colaborativas.
+A lo largo del proceso de investigación, habrá diferentes productos y resultados obtenidos. Estos pueden ir desde conjuntos de datos, muestras, código, informes, manuscritos, actas de conferencia, entradas de blog y videos. Cada uno de ellos tiene diferentes consideraciones sobre cómo crearlos incluyendo cómo pueden hacerse de formas abiertas y colaborativas.
 
-También hay diferentes maneras de dirigir un proyecto científico. ¿Su proyecto va a ser abierto desde el comienzo o abierto en la publicación? Hay razones válidas para ambas actitudes, pero generalmente lo antes que abras los datos, el código y los resultados, más oportunidades hay para hacer crecer las redes de colaboración y construir con otros (lo que es bastante divertido). A menudo los investigadores eligen ser abiertos dentro de sus equipos de proyecto durante el desarrollo, el intercambio de datos, el código, y los resultados, pero sólo abren el proyecto al mundo una vez que sienten que tienen un resultado en el que pueden confiar. Si bien este enfoque ha sido la “norma” cultural dentro de muchas comunidades, esto está cambiando a medida que los grupos se sienten más cómodos con la apertura temprana en los proyectos y obtienen contribuciones valiosas de otras personas y se construyen nuevas redes de colaboración.
+También hay diferentes maneras de dirigir un proyecto científico. ¿Tu proyecto va a ser abierto desde el comienzo o abierto en la publicación? Hay razones válidas para ambas aproximaciones, pero generalmente lo antes que abras los datos, el código y los resultados, más oportunidades hay para hacer crecer las redes de colaboración y construir con otros (lo que es bastante divertido). A menudo los investigadores eligen ser abiertos dentro de sus equipos de proyecto durante el desarrollo, el intercambio de datos, el código, y los resultados, pero sólo abren el proyecto al mundo una vez que sienten que tienen un resultado en el que pueden confiar. Si bien este enfoque ha sido la “norma” cultural dentro de muchas comunidades, esto está cambiando a medida que los grupos se sienten más cómodos con la apertura temprana en los proyectos y obtienen contribuciones valiosas de otras personas y se construyen nuevas redes de colaboración.
 
 Los módulos 3, 4 y 5 abordarán cómo generar tus datos, código y resultados abiertos.
 
