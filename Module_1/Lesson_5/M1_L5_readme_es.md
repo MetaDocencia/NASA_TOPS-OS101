@@ -1,4 +1,4 @@
-# [Lección 5: Planificando para la Ciencia Abierta: De la teoría a la práctica]
+# Lección 5: Planificando para la Ciencia Abierta: De la teoría a la práctica
 
 ## Contenidos
 
@@ -489,15 +489,15 @@ Selecciona todas las opciones que correspondan.
 
 [HAZ CLIC PARA APRENDER MÁS](https://peerj.com/preprints/2689v1/) (en inglés)
 
-**Guiding Principles for Findable, Accessible, Interoperable and Re-usable Data. Versión publicada B1.0, Force 11**
+**Principios guía para datos Fáciles de encontrar, Accesibles, Interoperables y Reusables. Versión publicada B1.0, Force 11**
 
 [HAZ CLIC PARA APRENDER MÁS](https://www.force11.org/fairprinciples) (en inglés)
 
-**Fecher y Friesike (2014). Open Science: One Term, Five Schools of Thought**
+**Fecher y Friesike (2014). Ciencia Abierta: un término, cinco escuelas de pensamiento**
 
 [HAZ CLIC PARA APRENDER MÁS](http://doi.org/10.1007/978-3-319-00026-8_2) (en inglés)
 
-Grupo de Trabajo de la Comisión Europea sobre Educación y Habilidades en Ciencia Abierta (2017). Providing researchers with the skills and competencies they need to practise Open Science\*\*
+Grupo de Trabajo de la Comisión Europea sobre Educación y Habilidades en Ciencia Abierta (2017). Proveyendo a quienes investigan con las habilidades y competencias que necesitan para practicar Ciencia Abierta\*\*
 
 [HAZ CLIC PARA APRENDER MÁS](http://ec.europa.eu/) (en inglés)
 
