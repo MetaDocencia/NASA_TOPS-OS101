@@ -152,19 +152,19 @@ Crédito de la imagen: Freepik.com
 
 Donde elijas compartir tus materiales y tus resultados de investigación tendrá una gran influencia en su impacto – cuán fácil será para los demás encontrarlo, cuánto tiempo estará disponible, y lo fácil que será reutilizarlo.
 
-¿Compartirás datos en un archivo lleno de columnas con números no etiquetados sin ninguna unidad o explicación o, en cambio, estará en un formato abierto y estándar, y siguiendo los [principios FAIR (Fácil de encontrar, Accesible, Interoperable y Reutilizable)](https://www.go-fair.org/fair-principles/)? El módulo 3 cuenta con más detalles para ayudarte a entender mejor cómo compartir tus datos y explica las ideas como FAIR, y buenas prácticas a la hora de compartir datos. Esto incluye diferentes consideraciones sobre dónde compartir tus datos, así como para que sea de manera accesible y preservada.
+¿Compartirás datos en un archivo lleno de columnas con números no etiquetados sin ninguna unidad o explicación o, en cambio, estará en un formato abierto y estándar, y siguiendo los [principios FAIR (Fácil de encontrar, Accesible, Interoperable y Reusable)](https://www.go-fair.org/fair-principles/)? El Módulo 3 cuenta con más detalles para ayudarte a entender mejor cómo compartir tus datos y explica las ideas como FAIR, y buenas prácticas a la hora de compartir datos. Esto incluye diferentes consideraciones sobre dónde compartir tus datos, así como para que sea de manera accesible y preservada.
 
 En el caso del software, ya que a menudo se actualiza y cambia, muchos investigadores lo comparten primero en una plataforma con control de versiones como GitHub o GitLab, pero luego archivan una versión de la misma en un repositorio que tiene capacidades de preservación a largo plazo – ¡aprendé más sobre esto en el Módulo 4!
 
-En el caso de los resultados, las publicaciones de acceso abierto y los servidores de prepublicación son lugares comunes para compartirlos. El módulo 5 trata todas estas opciones.
+En el caso de los resultados, las publicaciones de acceso abierto y los servidores de prepublicación son lugares comunes para compartirlos. El Módulo 5 trata todas estas opciones.
 
-### Actividad 5.1: Utilizar, Hacer, Compartir
+### Actividad 5.1: Usar, Hacer, Compartir
 
 <img style="width:350px;height:auto;" src="../images/media/lightbulb.png">
 
 Tómate un momento para responder las siguientes preguntas sobre tu investigación actual o sobre la investigación que te gustaría hacer:
 
-- ¿Qué datos, software o publicaciones utiliza actualmente o desearía utilizar? ¿Son abiertos o cerrados?
+- ¿Qué datos, software o publicaciones utilizas actualmente o desearías utilizar? ¿Son abiertos o cerrados?
 - ¿Cuáles son las herramientas y los procesos que actualmente utilizas? ¿Es fácil incluir a otras personas en la colaboración?
 - ¿Cómo se comparte o se planea compartir tu trabajo? ¿Puede alguien acceder a tus resultados?
 
@@ -172,13 +172,13 @@ Tómate un momento para responder las siguientes preguntas sobre tu investigaci�
 
 <img style="width:100%;height:auto;" src="../images/media/natashaquote.jpg">
 
-Las pautas de la ciencia abierta de la NASA están centradas en nuestro trabajo de Ciencia de temprana liberación (ERS, por sus siglas en inglés), apoyando un proceso científico inclusivo, transparente y colaborativo.
+"Las pautas de la ciencia abierta de la NASA están centradas en nuestro trabajo de Ciencia de Temprana Liberación (ERS, por sus siglas en inglés), apoyando un proceso científico inclusivo, transparente y colaborativo."
 
 **Coautora Dra. Natasha Batalha**
 
 ---
 
-Uno de los primeros [descubrimientos del telescopio espacial James Webb (JWST, por sus siglas en inglés) fue la primera detección de Dióxido de Carbono en la atmósfera de un planeta que orbitaba a otra estrella](https://www.nasa.gov/feature/goddard/2022/nasa-s-webb-detects-carbon-dioxide-in-exoplanet-atmosphere). Este descubrimiento fue posible gracias a los principios de la ciencia abierta adoptados tanto por el proyecto como por el equipo.
+Uno de los primeros [descubrimientos del telescopio espacial James Webb (JWST, por sus siglas en inglés) fue la primera detección de Dióxido de Carbono en la atmósfera de un planeta que orbitaba a otra estrella](https://ciencia.nasa.gov/universo/webb-de-la-nasa-detecta-dioxido-de-carbono-en-atmosfera-de-exoplaneta/). Este descubrimiento fue posible gracias a los principios de la ciencia abierta adoptados tanto por el proyecto como por el equipo.
 
 <img src="../images/media/image255.jpg" style="width: 100%; height: auto;" />
 
@@ -190,8 +190,7 @@ Crédito de la figura: NASA, ESA, CSA, Joseph Olmsted (STScI)
 
 ---
 
-Esto se llevó a cabo como parte del Programa de Ciencia de Liberación Temprana (ERS, por sus siglas en inglés) del JWST como parte del programa de la Comunidad de Exoplanetas en Tránsito del JWST ERS (ERS-TRANSIT). Se trata de algunos de los primeros datos científicos que se tomaron con las instalaciones
-y que se pusieron disponibles de forma abierta. Sin embargo, el equipo comenzó su trabajo años antes de las observaciones e incluyó la ciencia abierta en cada etapa del proceso. El equipo trabajó en un formato abierto desde la ideación hasta el análisis, pasando por la publicación y la comunicación.
+Esto se llevó a cabo como parte del Programa de Ciencia de Liberación Temprana (ERS, por sus siglas en inglés) del JWST como parte del programa de la Comunidad de Exoplanetas en Tránsito del JWST ERS (ERS-TRANSIT). Se trata de algunos de los primeros datos científicos que se tomaron con las instalaciones y que se disponibilizaron de forma abierta. Sin embargo, el equipo comenzó su trabajo años antes de las observaciones e incluyó la ciencia abierta en cada etapa del proceso. El equipo trabajó en un formato abierto desde la ideación hasta el análisis, pasando por la publicación y la comunicación.
 
 Veamos qué resultados abiertos fueron producidos,  y mientras lo hacemos, echemos un vistazo a las ventajas de hacerlo en cada etapa.
 
@@ -228,11 +227,11 @@ Veamos qué resultados abiertos fueron producidos,  y mientras lo hacemos, echem
     </tbody>
 </table>
 
-Una de las partes más importantes de la puesta en marcha de un proyecto es pensar quienes van a trabajar en él y cómo trabajarán juntos. Antes de que se recojan las muestras, antes de que se descarguen los datos, antes de que se escriba el código - ¿cómo trabajarán todos juntos, cuáles serán los roles y responsabilidades, y cómo y cuándo se compartirán los materiales?. Esa fue una parte clave que acertó. este proyecto del JWST.
+Una de las partes más importantes de la puesta en marcha de un proyecto es pensar quienes van a trabajar en él y cómo trabajarán juntos. Antes de que se recojan las muestras, antes de que se descarguen los datos, antes de que se escriba el código - ¿cómo trabajarán todos juntos, cuáles serán los roles y responsabilidades, y cómo y cuándo se compartirán los materiales?. Esa fue una parte clave que este proyecto del JWST acertó.
 
 El equipo inicial, durante la fase de planificación, desarrolló y publicó abiertamente información en forma del [código de conducta](https://ers-transit.github.io/code-of-conduct.html) y la [política de publicación](https://ers-transit.github.io/documents/publication-policy-v1.0.pdf).
 
-Básicamente, pueden trabajar con nosotros, pero aquí están nuestras normas. Y luego los científicos a cargo del proyecto hablaron de esto regularmente con el equipo, especialmente a medida que este se expandió, para que todo el mundo supiera lo que se esperaba de ellos y lo que obtendrían a cambio (¡crédito!).
+Básicamente, puedes trabajar con nosotros, pero aquí están nuestras normas. Y luego los científicos a cargo del proyecto hablaron de esto regularmente con el equipo, especialmente a medida que este se expandió, para que todo el mundo supiera lo que se esperaba de ellos y lo que obtendrían a cambio (¡crédito!).
 
 El resultado y el beneficio de publicar esta información fue la adición de nuevos miembros al equipo, y una cultura colaborativa e inclusiva acordada y establecida entre el equipo.
 
@@ -277,10 +276,10 @@ El equipo creció hasta casi 400 personas, todos trabajando juntos, todos sabien
 
 Como la mayoría de los datos, JWST es complicado y necesita procesamiento y ciclos de producción de datos. La precisión necesaria para lograr este tipo de detección requiere un análisis detallado de las observaciones y una amplia gama de conocimientos.
 
-Durante la fase de implementación, el equipo colaboró en la creación del software de procesamiento de datos, para que todos se beneficiaran. Imagínese el esfuerzo malgastado si las 400 personas hubieran escrito el software ellos mismos. El beneficio y el resultado fue que gracias a este esfuerzo de colaboración, el equipo disminuyó los esfuerzos duplicados, los colaboradores obtuvieron crédito por su trabajo, el software fue más preciso, y se aceleró el proceso de generación de datos. ¡EUREKA!, el software fue [creado de forma abierta](https://github.com/kevin218/Eureka)
+Durante la fase de implementación, el equipo colaboró en la creación del software de procesamiento de datos, para que todos se beneficiaran. Imagínate el esfuerzo malgastado si las 400 personas hubieran escrito el software ellas mismas. El beneficio y el resultado fue que gracias a este esfuerzo de colaboración, el equipo disminuyó los esfuerzos duplicados, los colaboradores obtuvieron crédito por su trabajo, el software fue más preciso, y se aceleró el proceso de generación de datos. ¡EUREKA!, el software fue [creado de forma abierta](https://github.com/kevin218/Eureka)
 con [documentación](https://eurekadocs.readthedocs.io/en/latest/) y publicado con una [revision por pares del paquete de software.](https://joss.theoj.org/papers/10.21105/joss.04503)
 
-¡Pero no tuvieron que empezar de cero! El equipo ERS-TRANSIT fue capaz de construir sobre el trabajo de otros. El software construido con el [ciclo de procesamiento de software de JWST](https://github.com/spacetelescope/jwst) fue desarrollado de forma abierta por el equipo de la misión JWST. Además, fueron capaces de construir un ecosistema de software de código abierto mucho más grande usando Python y Astropy.
+¡Pero no tuvieron que empezar de cero! El equipo ERS-TRANSIT fue capaz de construir sobre el trabajo de otros. El software construido con el [ciclo de procesamiento de software de JWST](https://github.com/spacetelescope/jwst) fue desarrollado de forma abierta por el equipo de la misión JWST. Además, fueron capaces de construir un ecosistema de software de código abierto mucho más grande usando python y Astropy.
 
 ### Del Acceso Abierto a los Resultados
 
@@ -315,15 +314,15 @@ con [documentación](https://eurekadocs.readthedocs.io/en/latest/) y publicado c
     </tbody>
 </table>
 
-Durante la fase de lanzamiento, el equipo etiquetó de forma adecuada productos de investigación para su reutilización y reproducibilidad, también se publicaron en foros y repositorios públicos. Los beneficios y resultados incluyeron que los colaboradores que recibieran crédito por los datos, software y otros productos de investigación digital que benefician a la comunidad científica. Los datos y el software fueron archivados abiertamente en el repositorio general de datos [Zenodo](https://zenodo.org/communities/ers-transit) y la publicación quedó disponible como [preprint](https://arxiv. rg/abs/2208.11692) y en una [publicación de acceso abierto](https://www.nature.com/articles/s41586-022-05269-w).
+Durante la fase de lanzamiento, el equipo etiquetó de forma adecuada productos de investigación para su reutilización y reproducibilidad, también se publicaron en foros y repositorios públicos. Los beneficios y resultados incluyeron que los colaboradores que recibieran crédito por los datos, software y otros productos de investigación digital que benefician a la comunidad científica. Los datos y el software fueron archivados abiertamente en el repositorio general de datos [Zenodo](https://zenodo.org/communities/ers-transit) y la publicación quedó disponible como [preprint](https://arxiv.org/abs/2208.11692) y en una [publicación de acceso abierto](https://www.nature.com/articles/s41586-022-05269-w).
 
-Al hacer que tus resultados estén disponiblesde forma abierta, también accedes a formas más claras de obtener reconocimiento y puede reducir el riesgo de 'scooping' (que alguien se te adelante con una publicación similar) ya que cada resultado puede ser referenciado individualmente tan pronto como esté disponible. Aplicar prácticas de reproducibilidad por separado en diferentes partes del proyecto como documentos de preparación, conjuntos de datos, software, y reportes permite a otros investigadores probar y reutilizar tu trabajo en su investigación, de esta forma se citarán más a menudo tus investigaciones, aportando así un reconocimiento justo a tu trabajo. Los colaboradores pueden estar más motivados para contribuir porque pueden obtener fácilmente reconocimiento en términos de autoría por sus contribuciones hechas para cada uno de los resultados obtenidos en la investigación.
+Al hacer que tus resultados estén disponibles de forma abierta, también accedes a formas más claras de obtener reconocimiento y puedes reducir el riesgo de apropiación (ya que cada resultado puede ser referenciado individualmente tan pronto como esté disponible). Aplicar prácticas de reproducibilidad por separado en diferentes partes del proyecto como documentos de preparación, conjuntos de datos, software, y reportes permite a otros investigadores probar y reutilizar tu trabajo en su investigación, de esta forma se citarán más a menudo tus investigaciones, aportando así un reconocimiento justo a tu trabajo. Los colaboradores pueden estar más motivados para contribuir porque pueden obtener fácilmente reconocimiento en términos de autoría por sus contribuciones hechas para cada uno de los resultados obtenidos en la investigación.
 
 **Más información sobre cómo abrir los resultados a lo largo del proceso de investigación en OpenSciency**
 
 [HAZ CLIC PARA APRENDER MÁS](https://opensciency.github.io/sprint-content/open-results/lesson2-results-and-open-science.html#what-are-the-advantages-of-making-results-open-throughout-the-research-process)
 
-## Pasos para continuar con tu trayecto en las ciencias abiertas
+## Pasos para continuar con tu trayecto en la ciencia abierta
 
 Aquí vamos a explorar los siguientes pasos para abrir la ciencia que todo el mundo puede dar. La idea de que la ciencia abierta puede afectar a todo tu flujo de trabajo científico puede parecer abrumadora e inalcanzable, pero no es así. Tu puedes comenzar lentamente y poco a poco aumentar su adopción en función de la naturaleza y el alcance de tu proyecto. Aquí hay algunas maneras para empezar a participar, de forma inmediata, en ciencia abierta.
 
@@ -342,7 +341,7 @@ Estos son los pasos que puedes dar para encontrar tu propia comunidad científic
 - Lee literatura de tu campo.
 - Realiza búsquedas en áreas generales y específicas de la disciplina.
 - Investiga comunidades en línea que fomentan la ciencia abierta, como:
-  - El programa "[Foster Open Science](https://www.fosteropenscience.eu/)" de la Unión Europea,
+  - El programa "[Foster Open Science](https://openscience.eu/foster-open-science)" de la Unión Europea,
   - [El manual online "The Turing Way"](https://book.the-turing-way.org/),
   - [FORRT](https://forrt.org/).
 
@@ -360,16 +359,16 @@ Existen muchos repositorios que albergan datos abiertos, software y resultados. 
 
 ### Cuatro pasos para abrir la ciencia que cualquiera puede dar
 
-1. Continúe buscando las mejores prácticas para ciencia abierta y desarrolla planes para ser más abierto en tu ciencia o investigación.
-2. Piense en los diferentes tipos de revisiones en las que participa y en cómo mejorarlas con el objetivo de ser abiertos.
-3. Pregunte a sus colegas sobre actividades científicas abiertas y otórgueles crédito en las evaluaciones.
+1. Continúa buscando las mejores prácticas para ciencia abierta y desarrolla planes para ser más abierto en tu ciencia o investigación.
+2. Piensa en los diferentes tipos de revisiones en las que participas y en cómo mejorarlas con el objetivo de ser abiertos.
+3. Pregunta a tus colegas sobre actividades científicas abiertas y otórgales crédito en las evaluaciones.
 4. Involúcrese con comunidades subrepresentadas para garantizar que la ciencia fomente un futuro más equitativo, impactante y positivo.
 
-### Continúe tomando _TOPS Open Science 101_
+### Continúa el plan de estudios de _Introducción a la Ciencia Abierta_
 
 <img src="../images/media/image368.png" style="width: 100%; height: auto;" />
 
-El plan de estudios de _TOPS Open Science 101_ es un buen lugar para una introducción más profunda a los diversos elementos de ciencia abierta – cada uno de los siguientes 4 módulos proporciona detalles y ejercicios prácticos para ayudar a los participantes a desarrollar una mejor comprensión de este tema específico.
+El plan de estudios de _TOPS Introducción a la Ciencia Abierta_ es un buen lugar para una introducción más profunda a los diversos elementos de ciencia abierta – cada uno de los siguientes 4 módulos proporciona detalles y ejercicios prácticos para ayudar a los participantes a desarrollar una mejor comprensión de este tema específico.
 
 Pero, si quieres hacer también un taller presencial o virtual, ¡es posible!
 
@@ -386,7 +385,7 @@ Pero, si quieres hacer también un taller presencial o virtual, ¡es posible!
             <td><img src="../images/media/image34.jpg" style="width: 98%; height: auto;" /></td>
         </tr>
          <tr>
-            <td>Curso en línea autoadministrado</td>
+            <td>Curso en línea autoguiado</td>
             <td>Talleres virtuales</td>
             <td>Talleres presenciales</td>
         </tr>
@@ -397,7 +396,7 @@ Créditos de imágenes: freepik.com
 
 ¡NASA TOPS está coordinando talleres de ciencia abierta en línea y presenciales!
 
-¡Estos eventos te brindan la oportunidad de realizar _Open Science 101_ con otras personas e interactuar con quienes forman parte de la comunidad de ciencia abierta! ¡Aprende más [aquí](https://nasa.github.io/Transform-to-Open-Science/)!
+¡Estos eventos te brindan la oportunidad de realizar _Introducción a la Ciencia Abierta_ con otras personas e interactuar con quienes forman parte de la comunidad de ciencia abierta! ¡Aprende más [aquí](https://nasa.github.io/Transform-to-Open-Science/)!
 
 ### Recursos adicionales
 
@@ -454,7 +453,7 @@ _Pregunta_
 
 **03/04**
 
-Lee la siguiente afirmación e indica si es Verdadera o Falsa.
+Lee la siguiente afirmación e indica si es verdadera o falsa.
 
 _Antes de comenzar un proyecto, es importante que los investigadores consideren cómo colaborarán con otros investigadores, cuáles son los roles y responsabilidades, y cómo y cuándo compartirán los materiales._
 
@@ -467,13 +466,13 @@ _Pregunta_
 
 ¿Qué ítem NO es uno de los cuatro pasos para abrir la ciencia que cualquiera puede dar?
 
-Seleccione todas las opciones que correspondan.
+Selecciona todas las opciones que correspondan.
 
-- Involúcrese con comunidades subrepresentadas para garantizar que la ciencia fomente un futuro más equitativo, impactante y positivo.
-- Pregunte a sus colegas sobre actividades científicas abiertas y otórgueles crédito en las evaluaciones.
-- Piense en los diferentes tipos de revisiones en las que participa y en cómo mejorarlas con el objetivo de apertura.
-- Cree una nueva revista que requiera una costosa suscripción para su lectura.
-- Continúe buscando las mejores prácticas para ciencia abierta y desarrolla planes para ser más abierto en tu ciencia o investigación.
+- Involúcrate con comunidades subrepresentadas para garantizar que la ciencia fomente un futuro más equitativo, impactante y positivo.
+- Pregunta a tus colegas sobre actividades científicas abiertas y otórgales crédito en las evaluaciones.
+- Piensa en los diferentes tipos de revisiones en las que participas y en cómo mejorarlas con el objetivo de apertura.
+- Crea una nueva revista que requiera una costosa suscripción para su lectura.
+- Continúa buscando las mejores prácticas para ciencia abierta y desarrolla planes para una mayor apertura en tu ciencia o investigación.
 
 ## Resumen del Ethos de la Ciencia Abierta
 
@@ -486,7 +485,7 @@ Seleccione todas las opciones que correspondan.
 
 ### Recursos adicionales
 
-**Masuzzo y Martens (2017). Do you speak Open Science? Resources and tips to learn the language**
+**Masuzzo y Martens (2017). ¿Hablas 'en' ciencia abierta? Recursos y consejos para aprender el lenguaje**
 
 [HAZ CLIC PARA APRENDER MÁS](https://peerj.com/preprints/2689v1/) (en inglés)
 
