@@ -497,7 +497,7 @@ Selecciona todas las opciones que correspondan.
 
 [HAZ CLIC PARA APRENDER MÁS](http://doi.org/10.1007/978-3-319-00026-8_2) (en inglés)
 
-Grupo de Trabajo de la Comisión Europea sobre Educación y Habilidades en Ciencia Abierta (2017). Proveyendo a quienes investigan con las habilidades y competencias que necesitan para practicar Ciencia Abierta\*\*
+**Grupo de Trabajo de la Comisión Europea sobre Educación y Habilidades en Ciencia Abierta (2017). Proveyendo a quienes investigan con las habilidades y competencias que necesitan para practicar Ciencia Abierta**
 
 [HAZ CLIC PARA APRENDER MÁS](http://ec.europa.eu/) (en inglés)
 
