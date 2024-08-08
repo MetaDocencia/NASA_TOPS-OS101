@@ -4,75 +4,75 @@ Te damos la bienvenida a Introducción a la Ciencia Abierta: Herramientas y Recu
 
 ## Acerca de este modulo
 
-Este módulo está diseñado para ayudarte a comenzar tu camino hacia la práctica de la ciencia abierta. Ofrece una visión introductoria de los conceptos y los recursos que son fundamentales para la ciencia ciencia. El puente entre los conceptos y la práctica de los conceptos es algo llamado usar, hacer, compartir la estructura. Hay muchos métodos y modelos que definen cómo empezar con la ciencia abierta. El usar, hacer, compartir la estructura fue creado para ayudarte a asignar de inmediato el propósito a los conceptos y herramientas que se cubren en este módulo, así como en todo el currículum Open Science 101. Toda la información que conozca aquí será tratada con más detalle a medida que participe en otros módulos, pero también puede ser aplicada inmediatamente después de completar este módulo.
+Este módulo está diseñado para ayudarte a comenzar tu camino hacia la práctica de la ciencia abierta. Ofrece una visión introductoria de los conceptos y los recursos que son fundamentales para la ciencia. El puente entre los conceptos y la práctica de los conceptos es algo llamado modelo usar, hacer, compartir. Hay muchos métodos y modelos que definen cómo empezar con la ciencia abierta. El modelo usar, hacer, compartir fue creado para ayudarte a asignar de inmediato un propósito a los conceptos y herramientas que se cubren en este módulo, así como en todo el plan de estudios de Introducción a la Ciencia Abierta. Toda la información que conozcas aquí será tratada con más detalle a medida que participes en otros módulos, pero también puede ser aplicada inmediatamente después de completar este módulo.
 
-### Objetivos de Aprendizaje del Módulo
+### Objetivos de aprendizaje
 
-- Definir los elementos fundamentales de la ciencia abierta, que incluye los productos de la investigación, el marco de "usar, hacer, compartir" y el papel de un Plan de Gestión de Ciencia y Datos Abiertos.
-- Listar y explicar el propósito de los recursos utilizados para descubrir y evaluar los productos de investigación para reutilización incluyendo repositorios, portales de búsqueda, publicaciones, documentación como archivos README, metadatos y licencia.
-- Desarrollar una estrategia de alto nivel para crear y compartir datos que emplee los principios FAIR, incorporando un plan de gestión de datos, rastreo de datos y autores con identificadores y citas persistentes, y utilizar los formatos y herramientas de datos apropiados para generar datos y compartir los resultados.
-- Describir el ciclo de vida del software y diseñar una estrategia de alto nivel para crear y compartir software que considere el uso de un plan de gestión de software, las herramientas necesarias para el desarrollo incluyendo código fuente, Kernels, lenguajes de programación, software y control de versiones de terceros, y las herramientas y documentación utilizadas para publicar y curacion de software abierto.
-- Listar los recursos para compartir productos de investigación incluyendo preprints, publicaciones de acceso abierto, sistemas de administración de referencias y recursos para apoyar la reproducibilidad.
+-   Definir los elementos fundamentales de la ciencia abierta, que incluye los productos de la investigación, el marco de "usar, hacer, compartir" y el papel de un Plan de Ciencia Abierta y Gestión de Datos.
+-   Listar y explicar el propósito de los recursos utilizados para descubrir y evaluar los productos de investigación para reutilización incluyendo repositorios, portales de búsqueda, publicaciones, documentación como archivos README, metadatos y licencia.
+-   Desarrollar una estrategia de alto nivel para crear y compartir datos que emplee los principios FAIR, incorporando un plan de gestión de datos, rastreo de datos y autores con identificadores y citas persistentes, y utilizar los formatos y herramientas de datos apropiados para generar datos y compartir los resultados.
+-   Describir el ciclo de vida del software y diseñar una estrategia de alto nivel para crear y compartir software que considere el uso de un plan de gestión de software, las herramientas necesarias para el desarrollo incluyendo código fuente, Kernels, lenguajes de programación, software de terceros, control de versiones, y las herramientas y documentación utilizadas para publicar y curar software abierto.
+-   Listar los recursos para compartir productos de investigación incluyendo preprints, publicaciones de acceso abierto, sistemas de administración de referencias y recursos para apoyar la reproducibilidad.
 
 ## Términos clave
 
-Estos términos clave son tópicos importantes para este módulo. Seleccione el término para ver la descripción.
+Estos términos clave son tópicos importantes para este módulo. Selecciona el término para ver la descripción.
 
-**Máquina Virtual** – Un entorno informático que replica la funcionalidad de una máquina física pero a un nivel superior de abstracción en una computadora. Esto permitira que los recursos de la máquina virtual sean más flexibles y compartimentados.
+**Máquina Virtual** -- Un entorno informático que replica la funcionalidad de una máquina física pero a un nivel superior de abstracción en una computadora. Esto permite que los recursos de la máquina virtual sean más flexibles y compartimentados.
 
-**Metadata** – Información sobre los datos que proporcione detalles adicionales y contexto.
+**Metadata** -- Información sobre los datos que proporciona detalles adicionales y contexto.
 
 **Repositorio de datos**: Una entidad de almacenamiento de datos de empresa (o a veces entidades) en la que los datos han sido específicamente particionados para un propósito analítico o de reporte.
 
-**Entorno de computación** – una plataforma que proporciona dependencias de software necesarias, una área de desarrollo y conexiones a recursos computacionales para facilitar la ejecución de código.
+**Entorno de computación** -- una plataforma que proporciona dependencias de software necesarias, un área de desarrollo y conexiones a recursos computacionales para facilitar la ejecución de código.
 
-**ORCiD** – Un código numérico utilizado para identificar de forma única a los autores y colaboradores de comunicación científica. Los investigadores proporcionan un ORCiD para sus publicaciones y membresía de asociaciones. ORCiD también es una organizacion internacional, interdisciplinaria, abierta, no propietaria, y sin fines de lucro creada por la comunidad de investigación para el beneficio de todas las partes interesadas, incluyendo las nuestras y las organizaciones que apoyan el ecosistema de investigación.
+**ORCiD** -- Un código numérico utilizado para identificar de forma única a los autores y colaboradores de comunicación científica. Los investigadores proporcionan un ORCiD para sus publicaciones y membresía de asociaciones. ORCiD también es una organizacion internacional, interdisciplinaria, abierta, no propietaria, y sin fines de lucro creada por la comunidad de investigación para el beneficio de todas las partes interesadas, incluyendo las nuestras y las organizaciones que apoyan el ecosistema de investigación.
 
-**Identificadores persistentes (PIDs)** - Una referencia digital de larga duración para una entidad.
+**Identificadores persistentes (PIDs, por sus siglas en inglés)** - Una referencia digital de larga duración para una entidad.
 
-**Identificadores de objetos digitales (DOIs)** – Una cadena de caracteres estandarizada por la Organización Internacional para la Estandarización asignada a una pieza de contenido digital, que señala la ubicación digital del contenido.
+**Identificadores de objetos digitales (DOIs, por sus siglas en inglés)** -- Una cadena de caracteres estandarizada por la Organización Internacional para la Estandarización (*International Organization for Standardization*) asignada a una pieza de contenido digital, que señala su ubicación digital.
 
 ## Contenidos
 
-### [Lección 1: Introducción al Proceso de la Ciencia Abierta](./Lección 1)
+### [Lección 1: Introducción al proceso de la Ciencia Abierta](./Lesson_1)
 
-- [Definición de Productos de Ciencia y Investigación Abiertas](./Lesson_1#definition-of-open-science-and-research-products)
-- [Utilizando Herramientas para Ciencia Abierta en la práctica](./Lesson_1#using-tools-for-open-science-in-practice)
-- [Lección 1: Resúmen](./Lección_1#lección-1-summary)
-- [Lección 1: Comprobación de Conocimiento](./Lesson_1#lesson-1-knowledge-check)
+-   [Definición de productos de ciencia e investigación abiertas](./Lesson_1#definicion-de-productos-de-ciencia-e-investigacion-abiertas)
+-   [Utilizando herramientas para Ciencia Abierta en la práctica](./Lesson_1#utilizando-herramientas-para-ciencia-abierta-en-la-practica)
+-   [Lección 1: Resumen](./Lesson_1#leccion-1-resumen)
+-   [Lección 1: Evaluación](./Lesson_1#leccion-1-evaluacion)
 
-### [Lección 2: Herramientas Generales para la Ciencia Abierta](./Module_2/Lesson_2)
+### [Lección 2: Herramientas generales para la Ciencia Abierta](./Module_2/Lesson_2)
 
-- [Introducción a las herramientas de Ciencia Abierta (./Lesson_2#introduccion-to-open-science-tools)
-- [Identificadores persistentes](./Lesson_2#persistent-identifers)
-- [Herramientas útiles de Open Science-tools](./Lesson_2#useful-open-science-tools)
-- [Planes de Ciencia Abierta y Gestión de Datos](./Lesson_2#planes-open-science-and-data-management-plans)
-- [Lección 2: Resumen](./Lesson_2#lesson-2-summary)
-- [Lección 2: Comprobación de conocimiento](./Lesson_2#lesson-2-knowledge-check)
+-   [Introducción a las herramientas de Ciencia Abierta](./Lesson_2#introduccion-herramientas-ciencia-abierta)
+-   [Identificadores persistentes](./Lesson_2#identificadores-persistentes)
+-   [Herramientas útiles de Ciencia Abierta](./Lesson_2#herramientas-utiles-ciencia-abierta)
+-   [Planes de Ciencia Abierta y Gestión de Datos](./Lesson_2#planes-ciencia-abierta-gestion-datos)
+-   [Lección 2: Resumen](./Lesson_2#leccion-2-resumen)
+-   [Lección 2: Evaluación](./Lesson_2#leccion-2-evaluacion)
 
 ### [Lección 3: Herramientas para Datos Abiertos](./Lesson_3)
 
-- [Introducción a Datos Abiertos](./Lesson_3#introducción-to-open-data)
-- [Principios FAIR](./Lección_3#fair-principles)
-- [Herramientas para ayudar a la creación de datos abiertos](./Lesson_3#tools-to-help-with-planning-for-open-data-creation)
-- [Herramientas para ayudar con el uso y creación de datos abiertos](./Lesson_3#tools-to-help-with-using-and-making-open-data)
-- [Lección 3: Resumen](./Lesson_3#lesson-3-summary)
-- [Lección 3: Comprobación de conocimiento](./Lesson_3#lesson-3-knowledge-check)
+-   [Introducción a Datos Abiertos](./Lesson_3#introduccion-datos-abiertos)
+-   [Principios FAIR](./Lesson_3#principios-FAIR)
+-   [Herramientas para ayudar con la planificación de la creación de datos abiertos](./Lesson_3#herramientas-ayudar-creacion-datos-abiertos)
+-   [Herramientas para ayudar con el uso y manejo de datos abiertos](./Lesson_3#herramientas-ayudar-uso-manejo-datos-abiertos)
+-   [Lección 3: Resumen](./Lesson_3#leccion-3-resumen)
+-   [Lección 3: Evaluación](./Lesson_3#leccion-3-evaluacion)
 
 ### [Lección 4: Herramientas para Datos Abiertos](./Lesson_4)
 
-- [Introducción al código abierto](./Lesson_4#introduction-to-open-code)
-- [Herramientas para Control de Version](./Lesson_4#tools-for-version-control)
-- [Herramientas para editar código](./Lesson_4#tools-for-editing-code)
-- [Herramientas adicionales](./Lesson_4#additional-tools)
-- [Lección 4: Resumen](./Lesson_4#lesson-4-summary)
-- [Lección 4: Comprobación de Conocimiento](./Lesson_4#lesson-4-knowledge-check)
+-   [Introducción al código abierto](./Lesson_4#introduccion-codigo-abierto)
+-   [Herramientas para Control de Versión](./Lesson_4#herramientas-control-version)
+-   [Herramientas para editar código](./Lesson_4#herramientas-editar-codigo)
+-   [Herramientas adicionales](./Lesson_4#herramientas-adicionales)
+-   [Lección 4: Resumen](./Lesson_4#leccion-4-resumen)
+-   [Lección 4: Evaluación](./Lesson_4#leccion-4-evaluacion)
 
 ### [Lección 5: Herramientas para Datos Abiertos](./Lesson_5)
 
-- [Herramientas para publicaciones abiertas](./Lesson_5#tools-for-open-publications)
-- [Herramientas para reproducibilidad](./Lesson_5#tools-for-reproducibility)
-- [Herramientas adicionales para resultados abiertos](./Lesson_5#additional-tools-for-open-results)
-- [Lección 5: Resumen](./Lesson_5#lesson-5-summary)
-- [Lección 5: Comprobación de Conocimiento](./Lesson_5#lesson-5-knowledge-check)
-- [Resumen de Herramientas y Recursos](./Lesson_5#open-tools-and-resources-summary)
+-   [Herramientas para publicaciones abiertas](./Lesson_5#herramientas-publicaciones-abiertas)
+-   [Herramientas para la reproducibilidad](./Lesson_5#herramientas-reproducibilidad)
+-   [Herramientas adicionales para resultados abiertos](./Lesson_5#herramientas-adicionales-resultados-abiertos)
+-   [Lección 5: Resumen](./Lesson_5#leccion-5-resumen)
+-   [Lección 5: Evaluación](./Lesson_5#leccion-5-evaluacion)
+-   [Resumen de herramientas y recursos](./Lesson_5#resumen-herramientas-recursos)
