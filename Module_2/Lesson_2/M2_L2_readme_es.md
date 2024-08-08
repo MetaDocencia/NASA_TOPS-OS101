@@ -1,21 +1,21 @@
-# Lección 2: Herramientas generales para la ciencia abierta
+# Lección 2: Herramientas generales para la Ciencia Abierta
 
 ## Contenidos
 
-- [Introducción a las herramientas de ciencia abierta](#introduccion-a-las-herramientas-de-ciencia-abierta)
+- [Introducción a las herramientas de ciencia abierta](#introduccion-herramientas-ciencia-abierta)
 - [Identificadores persistentes](#identificadores-persistentes)
-- [Herramientas útiles de ciencia abierta](#herramientas-utiles-de-ciencia-abierta)
-- [Planes de ciencia abierta y gestión de datos](#planes-de-ciencia-abierta-y-gestion-de-datos)
+- [Herramientas útiles de Ciencia Abierta](#herramientas-utiles-de-ciencia-abierta)
+- [Planes de Ciencia Abierta y Gestión de Datos](#planes-ciencia-abierta-gestion-datos)
 - [Lección 2: Resumen](#leccion-2-resumen)
 - [Lección 2: Evaluación](#leccion-2-evaluacion)
 
 ## Descripción general
 
-Esta lección presenta las herramientas de mayor uso en ciencia abierta. Inicia brindando una breve introducción a las herramientas de ciencia abierta y describe identificadores persistentes, una de las herramientas de ciencia abierta más comunes que garantiza la reproducibilidad, la accesibilidad y el reconocimiento de los productos científicos. Le siguen descripciones de otras herramientas comunes de ciencia abierta que son aplicables independientemente de su campo de estudio. Esta lección concluye con una descripción de la ciencia abierta y los planes de gestión de datos, los cuáles son un componente clave para compartir tu ciencia durante todo el proceso de investigación.
+Esta lección presenta las herramientas de mayor uso en ciencia abierta. Inicia brindando una breve introducción a las herramientas de ciencia abierta y describe identificadores persistentes, una de las herramientas de ciencia abierta más comunes que garantiza la reproducibilidad, la accesibilidad y el reconocimiento de los productos científicos. Le siguen descripciones de otras herramientas comunes de ciencia abierta que son aplicables independientemente de tu campo de estudio. Esta lección concluye con una descripción de la ciencia abierta y los planes de gestión de datos, los cuáles son un componente clave para compartir tu ciencia durante todo el proceso de investigación.
 
 ## Objetivos de aprendizaje
 
-Después de completar esta lección, debería poder:
+Al completar esta lección, deberías poder:
 
 - Recordar la definición de herramientas de ciencia abierta.
 - Describir qué es un identificador persistente y dar un ejemplo.
@@ -24,13 +24,13 @@ Después de completar esta lección, debería poder:
 
 ## Introducción a las herramientas de ciencia abierta
 
-La palabra "herramientas" se refiere a cualquier tipo de recurso o instrumento que pueda utilizarse para respaldar su investigación. En este sentido, las herramientas pueden ser una colección de recursos útiles que puedas consultar durante tu investigación, software que podrías utilizar para crear y gestionar tus datos o incluso la infraestructura humana, como una red comunitaria a la que puedas unirte para obtener más orientación y apoyo en asuntos específicos.
+La palabra "herramientas" se refiere a cualquier tipo de recurso o instrumento que pueda utilizarse para respaldar tu investigación. En este sentido, las herramientas pueden ser una colección de recursos útiles que puedas consultar durante tu investigación, software que podrías utilizar para crear y gestionar tus datos o incluso la infraestructura humana, como una red comunitaria a la que puedas unirte para obtener más orientación y apoyo en asuntos específicos.
 
 En este contexto, las herramientas de ciencia abierta son cualquier herramienta que permita y facilite la apertura en la investigación y apoye prácticas responsables de ciencia abierta. Es importante señalar que las herramientas de ciencia abierta suelen ser de código abierto y/o de uso libre, pero no siempre es así.
 
 Las herramientas de ciencia abierta se pueden utilizar para:
 
-- **Descubrimiento** - Herramientas de descubrmiento de información para utilizar en tu investigación.
+- **Descubrimiento** - Herramientas de descubrimiento de información para utilizar en tu investigación.
 - **Análisis** - Herramientas para procesar los resultados de tu investigación, por ejemplo, herramientas para el análisis de datos y su visualización.
 - **Redacción** - Herramientas para producir contenidos, como planes de gestión de datos, presentaciones y preprints.
 - **Publicaciones** - Herramientas para compartir y/o conservar investigaciones.
@@ -46,16 +46,16 @@ Un identificador persistente digital (o _PID_ por sus siglas en inglés) es una 
 
 <img style="width:350px;height:auto;" src="../images/media/m2orcidlogo.jpg">
 
-El identificador único conocido como ORCID (en inglés, _Open Researcher and Contributor Identifier_) proporciona información válida sobre la identidad de una persona. A continuación, se enlistan algunos detalles clave sobre los ORCID.
+El identificador único conocido como ORCID (en inglés, _Open Researcher and Contributor Identifier_) proporciona información válida sobre la identidad de una persona. A continuación, se listan algunos detalles clave sobre los ORCIDs.
 
 Un código numérico gratuito no propietario que:
 
 - Identifica de manera única y persistente a autores y colaboradores que participan en la producción de comunicaciones académicas.
-- Similar a los números de identificación fiscal para propósitos tributarios (dependiendo del país de residencia).
+- Es similar a los números de identificación fiscal para propósitos tributarios (dependiendo del país de residencia).
 
-Los ORCID se utilizan para vincular a los investigadores con sus investigaciones y productos relacionados con la investigación. Es un número de 16 dígitos que identifica individualmente a las personas investigan y que se integra con diferentes organizaciones, incluyendo editoriales, para vincular productos de investigación, como artículos publicados, al perfil ORCID de la persona investigadora. Los ORCID están diseñados para preservarse a lo largo de la carrera profesional de una persona, y ayudan a evitar confusiones cuando la información sobre la persona investigadora se actualiza con el tiempo (por ejemplo, cambio de carrera o de nombre). (cita: [https://orcid.org/](https://orcid.org/))
+Los ORCIDs se utilizan para vincular a los investigadores con sus investigaciones y productos relacionados con la investigación. Es un número de 16 dígitos que identifica individualmente a las personas que investigan y que se integra con diferentes organizaciones, incluyendo editoriales, para vincular productos de investigación, como artículos publicados, al perfil ORCID de la persona investigadora. Los ORCIDs están diseñados para preservarse a lo largo de la carrera profesional de una persona, y ayudan a evitar confusiones cuando la información sobre la persona investigadora se actualiza con el tiempo (por ejemplo, cambio de carrera o de nombre). (cita: [https://orcid.org/](https://orcid.org/))
 
-Gran cantidad de editoriales, institutos académicos y organismos gubernamentales respaldan la utilización de ORCID. En 2023, ORCID reportó más de 1,300 organizaciones miembros y más de 9 millones de cuentas activas anuales. Puedes vincularlo con tu información profesional (afiliaciones, subvenciones, publicaciones, revisión por pares y más).
+Gran cantidad de editoriales, instituciones académicas y organismos gubernamentales respaldan la utilización de ORCID. En 2023, ORCID reportó más de 1.300 organizaciones miembros y más de 9 millones de cuentas activas anuales. Puedes vincularlo con tu información profesional (afiliaciones, subvenciones, publicaciones, revisión por pares y más).
 
 ### Identificador de objeto digital (DOI)
 
@@ -67,13 +67,13 @@ A diferencia de las URLs, que suelen ser inconstantes o inestables, los DOI son 
 
 Por ejemplo, el DOI: [10.5067/TERRA-AQUA/CERES/EBAF-TOA_L3B004.1](https://doi.org/10.5067/TERRA-AQUA/CERES/EBAF-TOA_L3B004.1) siempre resolverá en una página web que explica qué es el conjunto de datos CERES_EBAF-TOA_Edition4.1 y cómo descargarlo. (¡Mira la captura de pantalla abajo si tienes curiosidad por saber qué es realmente este conjunto de datos!)
 
-Los DOI son proporcionados y mantenidos por la Organización Internacional de Normalización ([ISO por sus siglas en inglés](https://www.iso.org/home.html)): [https://www.doi.org/](https://www.doi.org/).
+Los DOI son proporcionados y mantenidos por la Organización Internacional de Normalización ([ISO por sus siglas en inglés](https://www.iso.org/es/home)): [https://www.doi.org/](https://www.doi.org/).
 
 <img src="../images/media/image18.png" style="width:350px;height:auto;" />
 
 ### Citación utilizando los DOI
 
- <img src="../images/media/image19.jpeg" style="width:100%;height:auto;" />
+ <img src="../images/media/image19_ES.png" style="width:100%;height:auto;" />
 
 Los DOI facilitan y hacen más práctica la citación de productos de investigación.
 
