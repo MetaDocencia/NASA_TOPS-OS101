@@ -127,7 +127,7 @@ Si utiliza datos de mala calidad o materiales procedentes de fuentes poco fiable
 
 Echemos un vistazo a las preguntas que deberías plantearte a la hora de determinar la fiabilidad de cualquier tipo de fuente de resultados abierta.
 
-Here, we list questions under two categories: the open results material themselves, and the server they are downloaded from. Cuantas más preguntas puedan responderse afirmativamente, menor será el riesgo de utilizar los materiales de resultados abiertos para su propia investigación.
+Aquí enumeramos las preguntas en dos categorías: el material de resultados abiertos en sí y el servidor desde el que se descargan. Cuantas más preguntas puedan responderse afirmativamente, menor será el riesgo de utilizar los materiales de resultados abiertos para su propia investigación.
 
 <table>
   <thead>
