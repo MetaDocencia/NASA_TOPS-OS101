@@ -2,12 +2,12 @@
 
 ## Contenidos
 
-- [Cómo Descubrir Resultados Abiertos](#how-to-discover-open-results)
-- [Cómo Evaluar Resultados Abiertos](#how-to-assess-open-results)
-- [Cómo Utilizar Resultados Abiertos](#como-utilizar-resultados-abiertos)
-- [Cómo Citar Resultados Abiertos](#how-to-cite-open-results)
-- [Lección 2: Resumen](#lesson-2-summary)
-- [Lección 2: Evaluación](#lesson-2-knowledge-check)
+- [Cómo Descubrir Resultados Abiertos](#cómo-descubrir-resultados-abiertos)
+- [Cómo Evaluar Resultados Abiertos](#cómo-evaluar-resultados-abiertos)
+- [Cómo Utilizar Resultados Abiertos](#cómo-utilizar-resultados-abiertos)
+- [Cómo Citar Resultados Abiertos](#cómo-citar-resultados-abiertos)
+- [Lección 2: Resumen](#lección-2-resumen)
+- [Lección 2: Evaluación](#lección-2-evaluación)
 
 ## Visión general
 
