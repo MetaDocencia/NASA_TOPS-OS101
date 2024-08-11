@@ -4,7 +4,7 @@
 
 - [Cómo Descubrir Resultados Abiertos](#how-to-discover-open-results)
 - [Cómo Evaluar Resultados Abiertos](#how-to-assess-open-results)
-- [Cómo Evaluar Resultados Abiertos](#how-to-assess-open-results)
+- [Cómo Utilizar Resultados Abiertos](#como-utilizar-resultados-abiertos)
 - [Cómo Citar Resultados Abiertos](#how-to-cite-open-results)
 - [Lección 2: Resumen](#lesson-2-summary)
 - [Lección 2: Evaluación](#lesson-2-knowledge-check)
