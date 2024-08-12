@@ -11,7 +11,7 @@
 
 ## Resúmen
 
-En esta lección, se considerarán las posibles barreras para adoptar prácticas de ciencia abierta. Estas barreras pueden manifestarse en forma de miedos personales, como resultado de desafíos sociales desalineados, o barreras institucionales/infraestructurales. Se comienzarà con un ejercicio para identificar las propias preocupaciones o miedos respecto a adoptar la ciencia abierta. Esto conducira a un debate sobre barreras comunes y estrategias de mitigación.
+En esta lección, se considerarán las posibles barreras para adoptar prácticas de ciencia abierta. Estas barreras pueden manifestarse en forma de miedos personales, como resultado de desafíos sociales desalineados, o barreras institucionales/infraestructurales. Se comenzará con un ejercicio para identificar las propias preocupaciones o miedos respecto a adoptar la ciencia abierta. Esto conducirá a un debate sobre barreras comunes y estrategias de mitigación.
 
 ## Objetivos de Aprendizaje del Módulo
 
@@ -26,7 +26,7 @@ Al completar la lección, deberías ser capaz de:
 
 ### Actividad 4.1: Reflexión personal sobre las preocupaciones de la ciencias abierta
 
-<img style="width:350px;height:auto;" src="../images/media/lightbulb.png">
+<img style="width:350px;height:auto;" src="../images/media/lightbulb_es.png">
 
 Tómese un momento para pensar en los temores o preocupaciones que genera adoptar la ciencia abierta. Estas podrían ser preocupaciones que ha experimentado en su trabajo o temores sobre ser más abiertos en el futuro. No existen respuestas equivocadas aquí: este es un momento para reflexionar sobre lo que podría estar impidiendo que se haga ciencia abierta.
 
@@ -60,7 +60,7 @@ Luego de reflexionar sobre algunas preocupaciones o temores en torno a la cienci
             <p>Si, esto puede ocurrir.</p>
             <p>Depositar un trabajo de manera temprana y hacerlo citable son formas de establecer ese trabajo como suyo.</p>
             <p>Esto sirve como evidencia de cuándo se ha empezado a trabajar en él y facilita que otros lo citen. Los detalles de cómo hacerlo se proporcionan en los siguientes módulos.</p>
-            <p>Sin embargo, en muchos campos, si está claro que alguien está trabajando activamente en un topico, la decisión de otro de robarlo puede significar una ganancia a corto pero una pérdida a largo plazo. En ciencia, la reputación es muy importante y la colaboración generalmente conduce a éxitos profesionales mayores. Lea más sobre la apropiación <a href="https://datascience.codata.org/articles/10.5334/dsj-2017-029">aquí</a>.</p>
+            <p>Sin embargo, en muchos campos, si está claro que alguien está trabajando activamente en un tópico, la decisión de otro de robarlo puede significar una ganancia a corto pero una pérdida a largo plazo. En ciencia, la reputación es muy importante y la colaboración generalmente conduce a éxitos profesionales mayores. Lea más sobre la apropiación <a href="https://datascience.codata.org/articles/10.5334/dsj-2017-029">aquí</a>.</p>
         </td>
     </tr>
     <tr>
@@ -103,7 +103,7 @@ Algunos de los temores mencionados anteriormente no son exclusivos de la ciencia
 
 Otro ejemplo del miedo que se produce tanto en espacios abiertos como cerrados es el compromiso de mantener tu trabajo abierto incluso luego de la publicación. El mantenimiento es un punto a tener en cuenta independientemente de si el trabajo se ha compartido: se debe decidir durante cuánto tiempo se almacenarán los datos y el código para poder reproducir el trabajo, en caso de que surja alguna duda incluso después de la publicación (tratamos el tema de compartir y archivar datos y código en los módulos posteriores, Datos Abiertos y Código Abierto). Al compartir los materiales de investigación, se puede aumentar la longevidad y el impacto de lo realizado, si otros consideran que los materiales son útiles y ayudan a mantener y construir sobre los mismos.
 
-Reconocemos que ésta no es una lista exhaustiva de preocupaciones y temores hacia la adopción de la ciencia abierta. La NASA ha desarrollado este módulo del plan de estudios TOPS para proporcionar orientación e infundir confianza a los investigadores que tienen la intención de hacer su trabajo más abiertamente de aqui en adelante.
+Reconocemos que ésta no es una lista exhaustiva de preocupaciones y temores hacia la adopción de la ciencia abierta. La NASA ha desarrollado este módulo del plan de estudios TOPS para proporcionar orientación e infundir confianza a los investigadores que tienen la intención de hacer su trabajo más abiertamente de aquí en adelante.
 
 ## Incentivos Mal Alineados
 
@@ -117,7 +117,7 @@ Los incentivos pueden llegar en muchas formas, pero la mayoría de los científi
 
 #### Desafío: Sobrevalorar la Novedad
 
-<img src="../images/media/image330.jpg" style="width: 100%; height: auto;" />
+<img src="../images/media/image330_es.png" style="width: 100%; height: auto;" />
 
 Los reconocimientos (por ejemplo, premios o financiación) suelen concederse a quienes hacen un gran descubrimiento científico o crean una herramienta nueva e interesante. Esta práctica pasa por alto a la comunidad que escribió código, seleccionó conjuntos de datos, mantuvo herramientas fundamentales existentes y muchos otros pasos importantes que permitieron la emergencia de dichas novedades.
 
@@ -133,7 +133,7 @@ Las mediciones actualizadas de éxito pueden ayudar a fomentar que las personas 
 
 En esta actividad, reflexiona sobre tus respuestas a las preguntas y luego compara tus ideas con las conclusiones clave.
 
-<img style="width:350px;height:auto;" src="../images/media/tobeopen.jpg">
+<img style="width:350px;height:auto;" src="../images/media/tobeopen_es.jpg">
 
 Crédito de la imagen: NASA 2023 @ Stennis Space Center.
 
@@ -141,7 +141,7 @@ Crédito de la imagen: NASA 2023 @ Stennis Space Center.
 
 Las conferencias son lugares abiertos – la mayoría de las veces. Piensa en quién puede asistir a una conferencia. ¿Qué tan abierto/cerrado está?
 
-<img style="width:350px;height:auto;" src="../images/media/subscribetojournal.jpg">
+<img style="width:350px;height:auto;" src="../images/media/subscribetojournal_es.png">
 
 Las publicaciones pueden tener elementos abiertos y cerrados. ¿De qué manera está abierto?
 
@@ -149,7 +149,7 @@ Las publicaciones pueden tener elementos abiertos y cerrados. ¿De qué manera e
 
 ### Desafío: Colaboración y Comunidad - Los miembros de la comunidad abierta no siempre están de acuerdo entre sí
 
-<img src="../images/media/image252.png" style="width: 350px; height: auto;" />
+<img src="../images/media/image252_es.png" style="width: 350px; height: auto;" />
 
 Las colaboraciones conjuntas en diversas comunidades pueden requerir más tiempo y esfuerzo para coordinar entre grupos y abordar conflictos. Mientras que interactuar con la comunidad puede ser una de las cosas más satisfactorias sobre la Ciencia Abierta, también podría ser una fuente de desacuerdos sobre la dirección del proyecto o cómo debe ser utilizado. Ahí es donde entran en juego las licencias y los códigos de conducta. Las reglas claras para las interacciones y el uso de los recursos comunitarios proporcionan un marco para tomar decisiones de una manera justa y acordada. Todo esto puede llevar más tiempo, especialmente al inicio de un proyecto de investigación, pero puede ahorrar tiempo y dolores de cabeza en el camino.
 

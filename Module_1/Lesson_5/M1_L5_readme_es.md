@@ -25,7 +25,7 @@ Al finalizar esta lección deberías ser capaz de:
 
 ## Planificando para Ciencia Abierta
 
-<img src="../images/media/image329.png" style="width: 100%; height: auto;" />
+<img src="../images/media/image329_es.png" style="width: 100%; height: auto;" />
 
 Es importante pensar, discutir y planificar los productos y procesos deseados cuando comiences tu investigación. Investiga cuáles son los mejores repositorios para tus materiales, discute sobre créditos y autorías para cada uno de los productos y comienza a usar herramientas de ciencia abierta para organizar tu trabajo. Ponte en contacto con repositorios de tu área e institución (como la biblioteca) en caso de que necesites ayuda. Si incluyes esta información en tus planes tendrás más probabilidades de recibir fondos.
 
@@ -45,7 +45,7 @@ Es importante discutir regularmente sobre ciencia abierta con tu equipo de inves
 
 ### Ciencia Abierta y Planes de Gestión de Datos
 
-Los organismos de financiamiento y patrocinadores consideran que la gestión de los datos es crucial para la ciencia abierta porque asegura que los datos de la investigación están bien organizados, accesibles y conservados. Durante los últimos años, muchos han incluído un Plan de Ciencia Abierta y Gestión de Datos (PCAGD) como requerimiento para las presentaciones de proyectos. El PCAGD incluye una descripción de los recursos que se van a utilizar, los productos que se van a crear, cómo se compartirán y quién/quiénes serán las personas responsables. Estos planes pueden incluir datos, software, publicaciones y proyectos de gobernanza.
+Los organismos de financiamiento y patrocinadores consideran que la gestión de los datos es crucial para la ciencia abierta porque asegura que los datos de la investigación están bien organizados, accesibles y conservados. Durante los últimos años, muchos han incluido un Plan de Ciencia Abierta y Gestión de Datos (PCAGD) como requerimiento para las presentaciones de proyectos. El PCAGD incluye una descripción de los recursos que se van a utilizar, los productos que se van a crear, cómo se compartirán y quién/quiénes serán las personas responsables. Estos planes pueden incluir datos, software, publicaciones y proyectos de gobernanza.
 
 Los planes de ciencia abierta y gestión de datos son esenciales porque mejoran la credibilidad y reproducibilidad de la investigación al garantizar que los datos están bien documentados, organizados y conservados en el tiempo. Los PCAGD bien hechos pueden traer beneficios como:
 
@@ -104,7 +104,7 @@ Los materiales de investigación son valiosos y reutilizables por un largo perí
 
 ### La Ciencia Abierta aplica a todo el flujo de trabajo
 
-<img src="../images/media/image402.jpg" style="width: 100%; height: auto;" />
+<img src="../images/media/image402_es.png" style="width: 100%; height: auto;" />
 
 Fuente para las fases del flujo de trabajo de la Ciencia Abierta: Opensciency
 
@@ -114,7 +114,7 @@ Independientemente de tu disciplina científica o de la metodología que utilice
 
 Los productos creados a lo largo del proceso científico son necesarios para que otros puedan reproducir los hallazgos. Quienes investigan y deseen hacer que sus resultados sean reproducibles deben poner los elementos clave de su estudio abiertamente a disposición de los demás.
 
-<img src="../images/media/image130.jpg" style="width: 100%; height: auto;" />
+<img src="../images/media/image130_es.png" style="width: 100%; height: auto;" />
 
 Fuente para las Fases del Flujo de Trabajo de la Ciencia Abierta: Opensciency
 
@@ -124,7 +124,7 @@ Continuando con el flujo de trabajo, este diagrama actualizado muestra ahora los
 
 ### Usar, Hacer, Compartir
 
-<img src="../images/media/image165.png" style="width: 100%; height: auto;" />
+<img src="../images/media/image165_es.png" style="width: 100%; height: auto;" />
 
 La idea de que la ciencia abierta puede afectar a todo tu flujo de trabajo científico puede parecer abrumadora e inalcanzable, pero recuerda, la ciencia abierta se da a través de todo un espectro –incluso los pequeños pasos hacia la apertura conducen a una ciencia más accesible, inclusiva y reproducible. Y el plan de estudios de Introducción a la Ciencia Abierta está aquí para ayudarte a atravesar este proceso.
 
@@ -146,7 +146,7 @@ Los módulos 3, 4 y 5 abordarán cómo generar tus datos, código y resultados a
 
 ### ¿Cómo compartirás?
 
-<img src="../images/media/image257.png" style="width: 100%; height: auto;" />
+<img src="../images/media/image257_es.png" style="width: 100%; height: auto;" />
 
 Crédito de la imagen: Freepik.com
 
@@ -160,7 +160,7 @@ En el caso de los resultados, las publicaciones de acceso abierto y los servidor
 
 ### Actividad 5.1: Usar, Hacer, Compartir
 
-<img style="width:350px;height:auto;" src="../images/media/lightbulb.png">
+<img style="width:350px;height:auto;" src="../images/media/lightbulb_es.png">
 
 Tómate un momento para responder las siguientes preguntas sobre tu investigación actual o sobre la investigación que te gustaría hacer:
 
@@ -170,7 +170,7 @@ Tómate un momento para responder las siguientes preguntas sobre tu investigaci�
 
 ## Caso: Los resultados de un plan abierto
 
-<img style="width:100%;height:auto;" src="../images/media/natashaquote.jpg">
+<img style="width:100%;height:auto;" src="../images/media/natashaquote_es.jpg">
 
 "Las pautas de la ciencia abierta de la NASA están centradas en nuestro trabajo de Ciencia de Temprana Liberación (ERS, por sus siglas en inglés), apoyando un proceso científico inclusivo, transparente y colaborativo."
 
@@ -180,11 +180,11 @@ Tómate un momento para responder las siguientes preguntas sobre tu investigaci�
 
 Uno de los primeros [descubrimientos del telescopio espacial James Webb (JWST, por sus siglas en inglés) fue la primera detección de Dióxido de Carbono en la atmósfera de un planeta que orbitaba a otra estrella](https://ciencia.nasa.gov/universo/webb-de-la-nasa-detecta-dioxido-de-carbono-en-atmosfera-de-exoplaneta/). Este descubrimiento fue posible gracias a los principios de la ciencia abierta adoptados tanto por el proyecto como por el equipo.
 
-<img src="../images/media/image255.jpg" style="width: 100%; height: auto;" />
+<img src="../images/media/image255_es.jpg" style="width: 100%; height: auto;" />
 
 Crédito de la imagen: @AdobeStock 2023, dimazel
 
-<img src="../images/media/atmocomp.jpg" style="width: 100%; height: auto;" />
+<img src="../images/media/atmocomp_es.png" style="width: 100%; height: auto;" />
 
 Crédito de la figura: NASA, ESA, CSA, Joseph Olmsted (STScI)
 
@@ -196,7 +196,7 @@ Veamos qué resultados abiertos fueron producidos,  y mientras lo hacemos, echem
 
 ### Planificando para hacer Ciencia Abierta
 
-<img src="../images/media/image193.png" style="width: 100%; height: auto;" />
+<img src="../images/media/image193_es.png" style="width: 100%; height: auto;" />
 
 <table>
     <table>
@@ -221,13 +221,13 @@ Veamos qué resultados abiertos fueron producidos,  y mientras lo hacemos, echem
             <td>Disponibilidad</td>
             <td>
                 <p>En la página web del equipo y GitHub.</p>
-                <p><img src="../images/media/image219.jpg" style="width: 100%; height: auto;" /></p>
+                <p><img src="../images/media/image219_es.jpg" style="width: 100%; height: auto;" /></p>
             </td>
         </tr>
     </tbody>
 </table>
 
-Una de las partes más importantes de la puesta en marcha de un proyecto es pensar quienes van a trabajar en él y cómo trabajarán juntos. Antes de que se recojan las muestras, antes de que se descarguen los datos, antes de que se escriba el código - ¿cómo trabajarán todos juntos, cuáles serán los roles y responsabilidades, y cómo y cuándo se compartirán los materiales?. Esa fue una parte clave que este proyecto del JWST acertó.
+Una de las partes más importantes de la puesta en marcha de un proyecto es pensar quienes van a trabajar en él y cómo trabajarán juntos. Antes de que se recojan las muestras, antes de que se descarguen los datos, antes de que se escriba el código - ¿Cómo trabajarán todos juntos, cuáles serán los roles y responsabilidades, y cómo y cuándo se compartirán los materiales?. Esa fue una parte clave que este proyecto del JWST acertó.
 
 El equipo inicial, durante la fase de planificación, desarrolló y publicó abiertamente información en forma del [código de conducta](https://ers-transit.github.io/code-of-conduct.html) y la [política de publicación](https://ers-transit.github.io/documents/publication-policy-v1.0.pdf).
 
@@ -243,7 +243,7 @@ El equipo creció hasta casi 400 personas, todos trabajando juntos, todos sabien
 
 ### Software de código abierto\*\*
 
-<img src="../images/media/image6.jpg" style="width: 100%; height: auto;" />
+<img src="../images/media/image6_es.png" style="width: 100%; height: auto;" />
 
 <table>
     <table>
@@ -268,7 +268,7 @@ El equipo creció hasta casi 400 personas, todos trabajando juntos, todos sabien
             <td>Disponibilidad</td>
             <td>
                 <p>Código en <i>GitHub</i>, lanzamiento en <i>Zenodo</i>, documentos publicados en <i>Journal of Open Source Software</i> (una revista de acceso abierto)</p>
-                <p><img src="../images/media/image221.jpg" style="width: 100%; height: auto;" /></p>
+                <p><img src="../images/media/image221_es.jpg" style="width: 100%; height: auto;" /></p>
             </td>
         </tr>
     </tbody>
@@ -277,13 +277,13 @@ El equipo creció hasta casi 400 personas, todos trabajando juntos, todos sabien
 Como la mayoría de los datos, JWST es complicado y necesita procesamiento y ciclos de producción de datos. La precisión necesaria para lograr este tipo de detección requiere un análisis detallado de las observaciones y una amplia gama de conocimientos.
 
 Durante la fase de implementación, el equipo colaboró en la creación del software de procesamiento de datos, para que todos se beneficiaran. Imagínate el esfuerzo malgastado si las 400 personas hubieran escrito el software ellas mismas. El beneficio y el resultado fue que gracias a este esfuerzo de colaboración, el equipo disminuyó los esfuerzos duplicados, los colaboradores obtuvieron crédito por su trabajo, el software fue más preciso, y se aceleró el proceso de generación de datos. ¡EUREKA!, el software fue [creado de forma abierta](https://github.com/kevin218/Eureka)
-con [documentación](https://eurekadocs.readthedocs.io/en/latest/) y publicado con una [revision por pares del paquete de software.](https://joss.theoj.org/papers/10.21105/joss.04503)
+con [documentación](https://eurekadocs.readthedocs.io/en/latest/) y publicado con una [revisión por pares del paquete de software.](https://joss.theoj.org/papers/10.21105/joss.04503)
 
 ¡Pero no tuvieron que empezar de cero! El equipo ERS-TRANSIT fue capaz de construir sobre el trabajo de otros. El software construido con el [ciclo de procesamiento de software de JWST](https://github.com/spacetelescope/jwst) fue desarrollado de forma abierta por el equipo de la misión JWST. Además, fueron capaces de construir un ecosistema de software de código abierto mucho más grande usando python y Astropy.
 
 ### Del Acceso Abierto a los Resultados
 
-<img src="../images/media/image244.jpg" style="width: 100%; height: auto;" />
+<img src="../images/media/image244_es.png" style="width: 100%; height: auto;" />
 
 <table>
     <table>
@@ -308,7 +308,7 @@ con [documentación](https://eurekadocs.readthedocs.io/en/latest/) y publicado c
             <td>Disponibilidad</td>
             <td>
                 <p>Todos recopilados en la <a href="https://zenodo.org/communities/ers-transit">Comunidad de Zenodo</a> con los autores que contribuyeron y los DOIs</p>
-                <p><img src="../images/media/zenodojwst.jpg" style="width: 100%; height: auto;" /></p>
+                <p><img src="../images/media/zenodojwst_es.png" style="width: 100%; height: auto;" /></p>
             </td>
         </tr>
     </tbody>
@@ -366,7 +366,7 @@ Existen muchos repositorios que albergan datos abiertos, software y resultados. 
 
 ### Continúa el plan de estudios de _Introducción a la Ciencia Abierta_
 
-<img src="../images/media/image368.png" style="width: 100%; height: auto;" />
+<img src="../images/media/image368_es.jpg" style="width: 100%; height: auto;" />
 
 El plan de estudios de _TOPS Introducción a la Ciencia Abierta_ es un buen lugar para una introducción más profunda a los diversos elementos de ciencia abierta – cada uno de los siguientes 4 módulos proporciona detalles y ejercicios prácticos para ayudar a los participantes a desarrollar una mejor comprensión de este tema específico.
 
@@ -380,9 +380,9 @@ Pero, si quieres hacer también un taller presencial o virtual, ¡es posible!
     </colgroup>
     <tbody>
         <tr>
-            <td><img src="../images/media/image403.jpg" style="width: 98%; height: auto;" /></td>
-            <td><img src="../images/media/image253.jpg" style="width: 98%; height: auto;" /></td>
-            <td><img src="../images/media/image34.jpg" style="width: 98%; height: auto;" /></td>
+            <td><img src="../images/media/image403_es.jpg" style="width: 98%; height: auto;" /></td>
+            <td><img src="../images/media/image253_es.jpg" style="width: 98%; height: auto;" /></td>
+            <td><img src="../images/media/image34_es.jpg" style="width: 98%; height: auto;" /></td>
         </tr>
          <tr>
             <td>Curso en línea autoguiado</td>
@@ -428,7 +428,7 @@ _Pregunta_
 
 **01/04**
 
-Aplicar prácticas de reproducibilidad por separado en diferentes partes del proyecto, ¿qué les permite hacer a otros investigadores?
+Aplicar prácticas de reproducibilidad por separado en diferentes partes del proyecto, ¿Qué les permite hacer a otros investigadores?
 
 Seleccione todas las opciones que correspondan.
 

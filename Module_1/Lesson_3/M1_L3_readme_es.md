@@ -36,7 +36,7 @@ Cuando la divulgación de datos o investigaciones puede plantear problemas de se
 
 _La NASA ha recopilado datos biomédicos de los vuelos espaciales tripulados desde el inicio del Apolo..._
 
-<img src="../images/media/image259.jpg" style="width: 100%; height: auto;" />
+<img src="../images/media/image259_es.png" style="width: 100%; height: auto;" />
 
 _... pero los únicos datos humanos del Archivo de Datos de Ciencias de la Vida proceden de astronautas que firmaron autorizaciones para que sus datos fueran públicos_
 
@@ -56,7 +56,7 @@ Al considerar las repercusiones de la divulgación de datos, es importante recon
 
 Otro [ejemplo](https://www.theguardian.com/us-news/2023/feb/23/lidar-technology-archeology-radical-thinking) de cómo los datos pueden afectar de forma inadvertida a comunidades vulnerables, es el uso de LiDAR por arqueólogos para estudiar zonas remotas. Este tipo de datos tiene el potencial de hacer visibles los lugares indígenas vulnerables desprotegidos que necesitan protección.
 
-<img src="../images/media/image352.png" style="width: 49%; height: auto;" /> <img src="../images/media/image347.png" style="width: 49%; height: auto;" />
+<img src="../images/media/image352_es.png" style="width: 49%; height: auto;" /> <img src="../images/media/image347_es.png" style="width: 49%; height: auto;" />
 
 **Principios CARE**
 
@@ -116,7 +116,7 @@ En algunos casos, la propiedad intelectual no está protegida en absoluto. Domin
 
 Comprender estas cuestiones es importante para practicar la ciencia abierta y garantizar que tu propiedad intelectual pueda compartirse ampliamente. Revisa la imagen de la derecha como ejemplo.
 
-<img src="../images/media/image348.png" style="width: 350px; height: auto;" />
+<img src="../images/media/image348_es.png" style="width: 350px; height: auto;" />
 
 Al principio, preocuparse por la propiedad intelectual y los derechos de autoría puede parecer un detalle innecesario. Sin embargo, anticiparse a los cambios en tu situación, asegurando la propiedad permanente de tu trabajo en la fase de planificación de tu investigación, te puede ayudar a evitar problemas legales e institucionales más adelante.
 
@@ -124,13 +124,13 @@ Si envías tu manuscrito a una editorial que requiere ser la dueña de los derec
 
 Ejemplo: En los escenarios en los que se solicita el consentimiento antes de compartir (o se modifican las condiciones para compartir), puede resultar complejo aplicar los cambios. Biopython, un conjunto de herramientas de biología de código abierto, comenzó a licenciar su código de nuevo en 2016, y [siguen trabajando en él en 2023, colaborador individual por colaborador individual](https://github.com/biopython/biopython/issues/898)
 
-<img src="../images/media/image106.jpg" style="width: 100%; height: auto;" />
+<img src="../images/media/image106_es.png" style="width: 100%; height: auto;" />
 
 ### Licenciar
 
 La licencia es una forma de ayudar a otros a reutilizar tu trabajo legalmente. Es una forma de especificar en qué condiciones, si las hay, otras personas pueden utilizar, desarrollar o distribuir tu trabajo. También es un método para garantizar que tu trabajo sea debidamente acreditado. Por lo general, es ilegal y puede constituir una falta de ética académica reutilizar contenidos sin licencia, aunque éstos puedan encontrarse en Internet. Esta ley protege a las personas que crean contenido, al igual que protege tu trabajo de ser utilizado sin un permiso claro. Afortunadamente, es fácil permitir que otras personas reutilicen tu trabajo.
 
-<img style="width:100%;height:auto;" src="../images/media/knowledgebasequote.jpg">
+<img style="width:100%;height:auto;" src="../images/media/knowledgebasequote_es.jpg">
 
 "Al aplicar una licencia a tu trabajo, dejas claro qué pueden hacer los demás con las cosas que compartes y también estableces las condiciones en las que las proporcionas (como citarte)"
 
@@ -138,7 +138,7 @@ La licencia es una forma de ayudar a otros a reutilizar tu trabajo legalmente. E
 
 ---
 
-<img src="../images/media/image328.jpg" style="width: 350px; height: auto;" />
+<img src="../images/media/image328_es.png" style="width: 350px; height: auto;" />
 
 Crédito de la imagen: XKCD: CC BY-NC 2.5 DEEX
 
@@ -201,7 +201,7 @@ Las licencias se pueden aplicar a datos, código e informes, o publicaciones, y 
   </tbody>
 </table>
 
-<img src="../images/media/image294.png" style="width: 350px; height: auto;" />
+<img src="../images/media/image294_es.png" style="width: 350px; height: auto;" />
 
 En módulos posteriores encontrarás más detalles sobre la concesión de licencias para cada uno de estos tipos de productos, incluidos los distintos tipos de licencias, cuándo aplicar una licencia y las herramientas para aplicar licencias. _Creative Commons_ y la _Open Source Initiative_ son dos recursos con más información sobre licencias abiertas.
 
@@ -374,7 +374,7 @@ Es importante consultar con comunidades especializadas cuando se prepare su plan
 2. ¿Qué dice tu subsidio/contrato?
 3. ¿Qué dice tu organización?
 4. ¿Qué dice tu agencia de financiación?
-5. Si tiene previsto publicar, ¿qué dice el editor?
+5. Si tiene previsto publicar, ¿Qué dice el editor?
 
 Recuerda, a veces lo digan puede entrar en conflicto, por ejemplo:
 
@@ -401,7 +401,7 @@ Recuerda al reutilizar la ciencia:
 - Considere citar todos los recursos utilizados: conjuntos de datos, software, infraestructura, etc.
 - Es de esperar que otros actúen de manera recíproca con tu trabajo. (la ética científica dicta que deberían hacerlo).
 
-<img src="../images/media/image332.jpg" style="width: 350px; height: auto;" />
+<img src="../images/media/image332_es.jpg" style="width: 350px; height: auto;" />
 
 Pararse sobre hombros de gigantes (Dominio Público)
 
@@ -421,7 +421,7 @@ Para practicar una ciencia abierta responsable, se debe prestar especial atenci�
 
 En esta actividad reflexiona sobre tus respuestas a las siguientes preguntas:
 
-<img style="width:350px;height:auto;" src="../images/media/lightbulb.png">
+<img style="width:350px;height:auto;" src="../images/media/lightbulb_es.png">
 
 - ¿Cuáles son algunas razones por las que NO querrías que tu investigación sea abierta?
 - ¿Cómo equilibra la apertura con la privacidad/seguridad/control?

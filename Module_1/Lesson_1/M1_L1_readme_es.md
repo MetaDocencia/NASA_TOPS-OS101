@@ -28,7 +28,7 @@ Después de completar este módulo, deberías poder:
 
 Esta es la primera lección del módulo sobre el Ethos de la Ciencia Abierta. Comencemos explicando la palabra "ethos".
 
-<img src="../images/media/merriamwebster.jpg" style="width:100%;height:auto;">
+<img src="../images/media/merriamwebster_es.jpg" style="width:100%;height:auto;">
 
 "Ethos es el carácter distintivo, el sentimiento, la naturaleza moral o las creencias rectoras de una persona, grupo,"
 
@@ -40,7 +40,7 @@ Esta lección describe y muestra lo que hace que la Ciencia Abierta sea única y
 
 Note que «ethos» no es lo mismo que «ética», sin embargo es un término lo suficientemente amplio que permite incluir las actitudes morales de las personas o instituciones que practican ciencia abierta. Para delimitar el aspecto moral de este asunto, hablaremos en adelante de "ciencia abierta responsable".
 
-La lección introduce el concepto de ciencia abierta en su conjunto explicando su motivación, definición y funcionamiento. A continuacion, se repasan los distintos componentes de la ciencia y los pilares que los conforman. En este módulo, habremos explorado cómo la ética en la ciencia abierta nos guía para compartir, otorgar crédito adecuadamente y colaborar. "Practica la regla de oro" - trata a los demás como te gustaría que te trataran a ti en su situación.
+La lección introduce el concepto de ciencia abierta en su conjunto explicando su motivación, definición y funcionamiento. A continuación, se repasan los distintos componentes de la ciencia y los pilares que los conforman. En este módulo, habremos explorado cómo la ética en la ciencia abierta nos guía para compartir, otorgar crédito adecuadamente y colaborar. "Practica la regla de oro" - trata a los demás como te gustaría que te trataran a ti en su situación.
 
 El programa de este curso está basado en el trabajo realizado por diferentes personas alrededor del mundo y de distintos campos de investigación que prepararon el camino hacia la ciencia abierta. Este reconocimiento de la ciencia abierta como un paso necesario para igualar el acceso al conocimiento y acelerar la investigación ha inspirado a la NASA a contribuir. Las mejores prácticas, los indicadores de rendimiento y los principios básicos establecidos por la comunidad mundial de ciencia abierta son la base de nuestro actual enfoque.
 
@@ -50,7 +50,7 @@ La NASA financia algunas de las investigaciones más diversas de cualquier agenc
 
 La NASA financia la investigación en campos desde la Astrobiología hasta la Física, pasando por la ciencia básica hasta la Ingeniería aplicada. Los conjuntos de datos de la NASA incluyen biología, química, ciencias ambientales, geología, y otros campos relacionados con la exploración planetaria, ya sea robótica como humana, la evolución estelar y la búsqueda de la vida extraterrestre.
 
-<img src="../images/media/image238.png" style="width: 350px; height: auto;" />
+<img src="../images/media/image238_es.png" style="width: 350px; height: auto;" />
 
 Las prácticas y principios de la ciencia abierta que desempeñan un papel fundamental en el éxito de las misiones de la NASA son igualmente relevantes para otras agencias e instituciones gubernamentales. En diversos contextos científicos se necesitan criterios, enfoques y comportamientos similares. Las herramientas para los marcos y los flujos de trabajo basados en la ciencia abierta siguen, por lo general, modelos similares.
 
@@ -60,7 +60,7 @@ Las prácticas y principios de la ciencia abierta pueden aplicarse a todas las f
 - ¿Son más comunes los planetas de órbitas más cortas (como Mercurio) que los de órbitas más largas (como Marte)?
 - ¿Es más frecuente que haya planetas alrededor de estrellas como el Sol o alrededor de las enanas rojas, que son más numerosas, frías y pequeñas?
 
-<img src="../images/media/image266.jpg" style="width: 100%; height: auto;" />
+<img src="../images/media/image266_es.png" style="width: 100%; height: auto;" />
 
 "Stargazing Live", fue un programa de televisión emitido en vivo, durante tres noches consecutivas en 2017. Los conductores invitaban a los televidentes a participar en la investigación clasificando sistemas solares a partir de un conjunto de datos de acceso público. En las 48 horas posteriores al estreno del programa
 del programa, más de 10.000 personas participaron en la [búsqueda de exoplanetas](https://www.zooniverse.org/projects/ianc2/exoplanet-explorers) y clasificaron más de 2 millones de sistemas.
@@ -71,7 +71,7 @@ Tras la primera noche del programa, los investigadores observaron los resultados
 
 ### Internet facilita el intercambio de la información
 
-Históricamente, factores como el tiempo, el acceso a suficientes herramientas y datos, y la proximidad física limitada que podría estar involucrada en la ciencia, así como la facilidad con la que podría llevarse a cabo la colaboración dentro de la comunidad científica. Pero, más recientemente, recursos digitales como lo es Internet han aumentado la participación al eliminar las barreras de acceso y ofrecer una plataforma para una colaboración digital a escala mundial. Internet permitió a la población acceder a la infraestructura adecuada para desarrollar una ciencia abierta, al mismo tiempo que las prácticas de ciencia abierta hicieron posible que más personas se involucraran con los resultados producidos por la investigación. Por desgracia, aún quedan desafíos por superar para quienes no disponen de las herramientas informáticas adecuadas o no dominan determinados idomas.
+Históricamente, factores como el tiempo, el acceso a suficientes herramientas y datos, y la proximidad física limitada que podría estar involucrada en la ciencia, así como la facilidad con la que podría llevarse a cabo la colaboración dentro de la comunidad científica. Pero, más recientemente, recursos digitales como lo es Internet han aumentado la participación al eliminar las barreras de acceso y ofrecer una plataforma para una colaboración digital a escala mundial. Internet permitió a la población acceder a la infraestructura adecuada para desarrollar una ciencia abierta, al mismo tiempo que las prácticas de ciencia abierta hicieron posible que más personas se involucraran con los resultados producidos por la investigación. Por desgracia, aún quedan desafíos por superar para quienes no disponen de las herramientas informáticas adecuadas o no dominan determinados idiomas.
 
 Internet genera numerosos espacios públicos para albergar archivos y acceder de forma gratuita a datos e investigaciones. Estos espacios, junto con los avances informáticos, permiten que casi cualquier persona pueda realizar análisis de datos complejos. Ahora es posible conectar a participantes, partes interesadas junto con los resultados de la ciencia abierta en Internet para que los procesos y productos científicos sean más fáciles de encontrar y acceder.
 
@@ -88,17 +88,17 @@ Fuente: [https://www.pnas.org/doi/full/10.1073/pnas.1708290115](https://www.pnas
 - En 2011, la Asociación Americana para el Avance de la Ciencia (AAAS), editora de la revista Science, comenzó a exigir a los autores de trabajos de investigación computacional que compartieran sus datos y programas informáticos si así se les solicitaba
 - En 2018, se llevó a cabo una [investigación](https://www.pnas.org/doi/full/10.1073/pnas.1708290115) que analizó la reproductibilidad de 204 artículos que fueron publicados en la revista Science a partir de 2011. Se descubrió que solo el 26 % de los artículos podían reproducirse, y las dos principales causas fueron la imposibilidad de acceder tanto a los datos o al software, y el hecho de que los métodos no se describieron con el detalle suficiente.
 
-**¿Cuántos estudios se reproducieron?**
+**¿Cuántos estudios se reprodujeron?**
 
-<img src="../images/media/image242.png" style="width: 350px; height: auto;" />
+<img src="../images/media/image242_es.png" style="width: 350px; height: auto;" />
 
-<img src="../images/media/image218.png" style="width:0.16667in;height:0.16667in" /> **No <img src="../images/media/image270.png" style="width:0.16667in;height:0.16667in" /> Si**
+<img src="../images/media/image218_es.png" style="width:0.16667in;height:0.16667in" /> **No <img src="../images/media/image270_es.png" style="width:0.16667in;height:0.16667in" /> Si**
 
 **Los resultados abiertos permiten la iteración y mejoran la detección de errores**
 
 En esta sección, veremos un ejemplo de cómo la ciencia que se mantiene cerrada puede restringir el impacto de una investigación [que persigue el resultado](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1318\&context=usdeptcommercepub), en este caso de un artículo muy citado de una revista. Esto nos permitirá entender cómo funciona la ciencia a la hora de informar sobre el estado de la investigación en un campo, cuáles son las decisiones de los responsables políticos y las acciones de la sociedad.
 
-<img src="../images/media/image220.png" style="width: 100%; height: auto;"/>
+<img src="../images/media/image220_es.png" style="width: 100%; height: auto;"/>
 
 En 1990, un análisis de los datos de los satélites sobre la temperatura del clima de la tierra concluyó que la atmósfera superior no había experimentado ningún calentamiento, lo que contradecía las predicciones de los primeros modelos climáticos. Los legisladores políticos dedujeron de este resultado que los investigadores no comprendían los modelos climáticos lo suficiente como para justificar cambios en la política medioambiental. Los datos procesados de este estudio se hicieron de libre acceso pero, como era común en ese momento, tanto los datos originales como el código utilizado para procesarlos y analizarlos no fueron compartidos por el equipo inicial de la investigación. Ocho años después de la publicación del artículo, otros científicos se dieron cuenta de que los autores originales no habían tenido en cuenta varios efectos importantes. Este descuido introdujo errores en el conjunto de los datos y produjo falsamente una disminución artificial en las mediciones de temperatura. Hicieron falta otros cinco años y financiación adicional para reproducir el código y realizar un nuevo análisis. Trece años después de ese primer artículo, se confirmó que la atmósfera superior se estaba calentando y coincidía con las predicciones de los modelos climáticos.
 
@@ -114,7 +114,7 @@ La publicación de acceso abierto ha aumentado significativamente el número de 
 
 La posibilidad de saber quién tiene acceso a los artículos publicados también motiva la ciencia abierta. [Por ejemplo](https://www.unesco.org/en/articles/can-science-be-more-equitable-so-everyone-enjoys-benefits-open-science-answer), a pesar de que hay más investigaciones con acceso abierto sobre el clima disponibles que en otros campos científicos, la mayoría de los artículos de investigación sobre el clima, incluidos muchos de los más importantes, siguen siendo de pago. La incorrecta información sobre el clima está al alcance de cualquiera en Internet, pero los resultados científicos sobre el clima se ocultan al público tras barreras de pago. Esta práctica no incrementa la confianza en la ciencia.
 
-<img src="../images/media/image369.png" style="width: 100%; height: auto;" />
+<img src="../images/media/image369_es.png" style="width: 100%; height: auto;" />
 
 Fuente: [https://www.unesco.org/en/articles/can-science-be-more-equitable-so-everyone-enjoys-benefits-open-science-answer](https://www.unesco.org/en/articles/can-science-be-more-equitable-so-everyone-enjoys-benefits-open-science-answer)
 
@@ -122,7 +122,7 @@ Fuente: [https://www.unesco.org/en/articles/can-science-be-more-equitable-so-eve
 
 Pero, ¿qué es exactamente la ciencia abierta? Para ilustrar, primero presentaremos una definición de ciencia abierta que fue desarrollada en 2023 por los Estados Unidos. [federal government](https://open.science.gov/).
 
-<img src="../images/media/whitehouse2022.jpg">
+<img src="../images/media/whitehouse2022_es.jpg">
 
 «La ciencia abierta es el principio y la práctica de poner a disposición de todos, los resultados y procesos de investigación, respetando las diversas culturas, manteniendo la seguridad, la privacidad y fomentando las colaboraciones, la reproducibilidad y la equidad.»
 
@@ -155,7 +155,7 @@ El objetivo de TOPS es impulsar a la comunidad en su conjunto, hacia la ciencia 
 | ------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
 | Consenso comunitario sobre el comportamiento "apropiado". | Conjunto personal de estándares sobre la "buena" conducta. |
 
-<img src="../images/media/image258.jpg" style="width: 100%; height: auto;" />
+<img src="../images/media/image258_es.jpg" style="width: 100%; height: auto;" />
 
 Puede que hayas oído hablar o nó, del término «ciencia abierta» antes de este curso. Si lo has hecho, es probable que tengas alguna idea preconcebida de la ciencia abierta y de cómo es en la práctica. Analicemos de forma conjunta esas distintas concepciones.
 
@@ -163,7 +163,7 @@ Puede que hayas oído hablar o nó, del término «ciencia abierta» antes de es
 
 En esta actividad, reflexiona sobre tus respuestas a las preguntas y luego compara tus ideas con las conclusiones clave.
 
-<img style="width:350px;height:auto;" src="../images/media/lightbulb.png">
+<img style="width:350px;height:auto;" src="../images/media/lightbulb_es.png">
 
 - ¿Cómo es el acto de la ciencia abierta? ¿El científico utiliza o crea algo específico que caracterice su investigación como un caso de investigación abierta? ¿Qué se te ocurre?
 - Describe cómo compartes actualmente tus recursos (datos, código, resultados)?
@@ -185,13 +185,13 @@ Los objetivos de la ciencia abierta incluyen:
 - Producir resultados equitativos.
 - Garantizar un control adecuado de los datos que utilices, elabores o compartas a lo largo de tu proceso de investigación, y cumplir las directrices normativas, reglamentarias y legales sobre su divulgación.
 - Fomentar relaciones respetuosas con las comunidades culturalmente diversas que puedan proveer o interactuar con tus datos, software y resultados.
-- Comprometerse activamente con las comunidades interesadas en aumentar la representación y la interacción a lo largo de sus investigaciónes. Las personas que formen parte de cualquier comunidad que provea datos deben ser quienes determinen los beneficios, daños y futuros usos potenciales, basándose en los valores y prioridades de su comunidad.
+- Comprometerse activamente con las comunidades interesadas en aumentar la representación y la interacción a lo largo de sus investigaciones. Las personas que formen parte de cualquier comunidad que provea datos deben ser quienes determinen los beneficios, daños y futuros usos potenciales, basándose en los valores y prioridades de su comunidad.
 
 ### Fomentar Colaboraciones, Reproducibilidad y Equidad
 
 La IDEA de la Ciencia Abierta: Inclusiva, Diversa, Equitativa y Accesible.
 
-<img src="../images/media/image256.png" style="width: 350px; height: auto;" />
+<img src="../images/media/image256_es.png" style="width: 350px; height: auto;" />
 
 Utilizar, crear y compartir abiertamente los resultados de la investigación, el software o los conjuntos de datos permite a todos reconocer el mérito de tu trabajo.
 
@@ -253,7 +253,7 @@ Seleccione todas las opciones que correspondan.
             <p>Créditos:</p>
             <p>Datos de la imagen: NASA/JPL-Caltech/SwRI/MSSS</p>
             <p>Procesamiento de imágenes: Navaneeth Krishnan S ©️ CC BY</p>
-            <p><img src="../images/media/image243.jpg" style="width: 100%; height: auto;"/></p>
+            <p><img src="../images/media/image243_es.jpg" style="width: 100%; height: auto;"/></p>
         </td>
     </tr>
   </tbody>
@@ -295,7 +295,7 @@ La ciencia abierta es multifacética y puede significar cosas diferentes para di
 
 Como se discutió brevemente en lecciones anteriores, la ciencia abierta no sólo involucra a quienes investigan; muchos otras partes interesadas se ven afectadas por los resultados de la ciencia abierta. Las partes interesadas incluyen a cualquier persona que pueda afectar o verse afectada por proyectos de ciencia abierta.
 
-<img src="../images/media/image217.png" style="width: 100%; height: auto;" />
+<img src="../images/media/image217_es.png" style="width: 100%; height: auto;" />
 
 La investigación científica debería beneficiar a la humanidad. Aunque la ciencia abierta tiene muchas partes interesadas, la interacción ventajosa entre la ciencia y la sociedad tiene lugar entre tres grupos principales: las personas científicas que investigan, los responsables políticos y el público. Quienes investigan hacen ciencia y comparten sus resultados con las personas responsables de la política y el público en general para informar de sus decisiones y mejorar sus vidas. El público ayuda a financiar la investigación a través de impuestos y puede hacer aportes a futuras áreas de estudio. Las personas decisoras de la política ayudan a implementar medidas que se basan en resultados científicos para mejorar la salud, el ambiente y la vida de la sociedad.
 
@@ -363,7 +363,7 @@ La ciencia abierta puede fortalecer la conexión entre todos estos grupos. La co
 
 En esta actividad, reflexiona sobre tus respuestas a las preguntas y luego compara tus ideas con las conclusiones clave.
 
-<img style="width:350px;height:auto;" src="../images/media/lightbulb.png">
+<img style="width:350px;height:auto;" src="../images/media/lightbulb_es.png">
 
 - En tu área, ¿qué medidas se están adoptando para aumentar la apertura, y qué se interpone en ese camino?
 - ¿Qué podría ayudar a aumentar la apertura?
