@@ -36,7 +36,7 @@ Estos términos clave son tópicos importantes para este módulo. Selecciona el 
 
 ### [Lección 1: Introducción al proceso de la Ciencia Abierta](./Lesson_1)
 
--   [Definición de productos de ciencia e investigación abiertas](./Lesson_1#definicion-de-productos-de-ciencia-e-investigacion-abiertas)
+-   [Definición de Ciencia Abierta y productos de investigación](./Lesson_1#definicion-de-ciencia-abierta-y-productos-de-investigacion)
 -   [Utilizando herramientas para Ciencia Abierta en la práctica](./Lesson_1#utilizando-herramientas-para-ciencia-abierta-en-la-practica)
 -   [Lección 1: Resumen](./Lesson_1#leccion-1-resumen)
 -   [Lección 1: Evaluación](./Lesson_1#leccion-1-evaluacion)
@@ -62,7 +62,7 @@ Estos términos clave son tópicos importantes para este módulo. Selecciona el 
 ### [Lección 4: Herramientas para Datos Abiertos](./Lesson_4)
 
 -   [Introducción al código abierto](./Lesson_4#introduccion-codigo-abierto)
--   [Herramientas para Control de Versión](./Lesson_4#herramientas-control-version)
+-   [Herramientas para control de versiones](./Lesson_4#herramientas-control-versiones)
 -   [Herramientas para editar código](./Lesson_4#herramientas-editar-codigo)
 -   [Herramientas adicionales](./Lesson_4#herramientas-adicionales)
 -   [Lección 4: Resumen](./Lesson_4#leccion-4-resumen)
