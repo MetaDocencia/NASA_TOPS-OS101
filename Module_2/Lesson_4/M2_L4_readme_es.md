@@ -2,12 +2,12 @@
 
 ## Contenidos
 
-- [Introducción al código abierto](#introduction-to-open-code)
-- [Herramientas para control de versiones](./Lesson_4#tools-for-version-control)
-- [Herramientas para editar código](./Lesson_4#tools-for-editing-code)
-- [Herramientas adicionales](./Lesson_4#additional-tools)
-- [Lección 4: Resumen](#lesson-4-summary)
-- [Lección 4: Evaluación](#lesson-4-knowledge-check)
+- [Introducción al código abierto](#introduccion-codigo-abierto)
+- [Herramientas para el control de versiones](#herramientas-control-versiones)
+- [Herramientas para editar código](#herramientas-editar-codigo)
+- [Herramientas adicionales](#herramientas-adicionales)
+- [Lección 4: Resumen](#leccion-4-resumen)
+- [Lección 4: Evaluación](#leccion-4-evaluacion)
 
 ## Descripción general
 
@@ -15,7 +15,7 @@ Esta lección nos presenta algunas herramientas útiles para trabajar con códig
 
 ## Objetivos de aprendizaje
 
-Después de completar esta lección, deberías poder:
+Al completar esta lección, deberías poder:
 
 - Explicar los beneficios del uso de herramientas para el desarrollo de código abierto.
 - Definir el control de versiones y comprender cómo favorece la colaboración en el desarrollo y la gestión del código.
@@ -34,7 +34,7 @@ Entender cómo trabajar con código científico es esencial en el panorama moder
 
 #### Contexto: Desarrollo del sistema operativo Linux
 
-[HAZ CLIC PARA CONOCER MÁS](https://en.wikipedia.org/wiki/History_of_Linux/)(en inglés)
+[HAZ CLIC PARA CONOCER MÁS](https://es.wikipedia.org/wiki/Historia_de_Linux)
 
 - Comenzado en 1991 por Linus Torvalds.
 - Casi inmediatamente liberado para ser examinado.
@@ -46,9 +46,9 @@ Entender cómo trabajar con código científico es esencial en el panorama moder
 
 El control de versiones es la práctica de rastrear y gestionar los cambios realizados en el código u otro tipo de archivos. Puede que nos resulte familiar si lo asociamos con el "Seguimiento de cambios" en programas como Microsoft Word. Esta es una forma de control de versiones, aunque no la más adecuada para trabajar con código. El control de versiones se considera una práctica estándar en la comunidad de desarrollo de software, y simplifica la gestión de código a través del tiempo.
 
-La forma general de utilizar el control de versiones comienza inicializando una carpeta en su plataforma informática con el sistema de control de versiones que esté utilizando. Un sistema de control de versiones rastrea automáticamente todos los cambios realizados por las personas que colaboran, y les permite trabajar sin conexión y volver más tarde con actualizaciones. Escribe el código como lo haces habitualmente en el editor de código que elijas. Una vez que se ha escrito código o se han realizado actualizaciones en el existente, se introducen los cambios en el sistema de control de versiones para crear una especie de "punto de control" al que se puede volver más tarde si es necesario. Luego agrega o actualiza más código, y vuelve a confirmar los cambios. Cada confirmación requiere que se añada un mensaje breve que permita describir brevemente qué cambios se han hecho. Estos mensajes sirven como metadatos que aseguran que las personas colaboradoras y usuarias, e inclusive tú en el futuro, entiendan su proceso de desarrollo en un momento dado.
+La forma general de utilizar el control de versiones comienza inicializando una carpeta en tu plataforma informática con el sistema de control de versiones que estés utilizando. Un sistema de control de versiones rastrea automáticamente todos los cambios realizados por las personas que colaboran, y les permite trabajar sin conexión y volver más tarde con actualizaciones. Escribe el código como lo haces habitualmente en el editor de código que elijas. Una vez que se ha escrito código o se han realizado actualizaciones en el existente, se introducen los cambios en el sistema de control de versiones para crear una especie de "punto de control" al que se puede volver más tarde si es necesario. Luego agrega o actualiza más código, y vuelve a confirmar los cambios. Cada confirmación requiere que se añada un mensaje breve que permita describir resumidamente qué cambios se han hecho. Estos mensajes sirven como metadatos que aseguran que las personas colaboradoras y usuarias, e inclusive tú en el futuro, entiendan su proceso de desarrollo en un momento dado.
 
-Esto puede sonar como un proceso simple y ¡en muchos sentidos lo es! Entonces, ¿por qué es tan importante? Especialmente cuando se trata de codificar, la posibilidad de crear una captura en el tiempo de un fragmento de código puede resultar muy útil. Por ejemplo, puede tener un fragmento de código que produce el resultado previsto, pero luego desea añadir una nueva función. Se puede optar por copiar ese archivo de código para no perder el estado actual, y luego trabajar en un archivo nuevo. Esto puede resultar engorroso bastante rápido cuando existen varios archivos que son diferentes versiones de la misma pieza de código. O en lugar de crear un nuevo archivo, se puede escribir código para la nueva función directamente en el archivo original, pero ahora éste arroja errores cuando se intenta ejecutarlo, y es difícil recordar qué líneas se añadieron desde la última vez que el código se ejecutó sin errores. Usando el control de versiones, estos problemas se resuelven porque podemos volver al punto de control cuando el código se ejecutó limpiamente, y así evitar la necesidad de crear múltiples copias para guardar el trozo de código original.
+Esto puede sonar como un proceso simple y ¡en muchos sentidos lo es! Entonces, ¿por qué es tan importante? Especialmente cuando se trata de programar, la posibilidad de crear una captura en el tiempo de un fragmento de código puede resultar muy útil. Por ejemplo, puedes tener un fragmento de código que produce el resultado previsto, pero luego deseas añadir una nueva función. Se puede optar por copiar ese archivo de código para no perder el estado actual, y luego trabajar en un archivo nuevo. Esto puede resultar engorroso bastante rápido cuando existen varios archivos que son diferentes versiones de la misma pieza de código. O en lugar de crear un nuevo archivo, se puede escribir código para la nueva función directamente en el archivo original, pero ahora éste arroja errores cuando se intenta ejecutarlo, y es difícil recordar qué líneas se añadieron desde la última vez que el código se ejecutó sin errores. Usando el control de versiones, estos problemas se resuelven porque podemos volver al punto de control cuando el código se ejecutó limpiamente, y así evitar la necesidad de crear múltiples copias para guardar el trozo de código original.
 
 Hay muchas otras características de los sistemas de control de versiones, tales como el concepto de crear "ramas" que le permiten trabajar en nuevas actualizaciones de un trozo de código de forma independiente y paralela a la pieza original de código. Una rama es una desviación del código original, pero puede ser fusionada de nuevo en el código original cuando se desee. Todos estos conceptos son aún más útiles cuando se colabora con otras personas utilizando plataformas de control de versiones, una práctica de colaboración que veremos más adelante en esta lección.
 
