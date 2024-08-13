@@ -48,9 +48,9 @@ El control de versiones es la práctica de rastrear y gestionar los cambios real
 
 La forma general de utilizar el control de versiones comienza inicializando una carpeta en tu plataforma informática con el sistema de control de versiones que estés utilizando. Un sistema de control de versiones rastrea automáticamente todos los cambios realizados por las personas que colaboran, y les permite trabajar sin conexión y volver más tarde con actualizaciones. Escribe el código como lo haces habitualmente en el editor de código que elijas. Una vez que se ha escrito código o se han realizado actualizaciones en el existente, se introducen los cambios en el sistema de control de versiones para crear una especie de "punto de control" al que se puede volver más tarde si es necesario. Luego agrega o actualiza más código, y vuelve a confirmar los cambios. Cada confirmación requiere que se añada un mensaje breve que permita describir resumidamente qué cambios se han hecho. Estos mensajes sirven como metadatos que aseguran que las personas colaboradoras y usuarias, e inclusive tú en el futuro, entiendan su proceso de desarrollo en un momento dado.
 
-Esto puede sonar como un proceso simple y ¡en muchos sentidos lo es! Entonces, ¿por qué es tan importante? Especialmente cuando se trata de programar, la posibilidad de crear una captura en el tiempo de un fragmento de código puede resultar muy útil. Por ejemplo, puedes tener un fragmento de código que produce el resultado previsto, pero luego deseas añadir una nueva función. Se puede optar por copiar ese archivo de código para no perder el estado actual, y luego trabajar en un archivo nuevo. Esto puede resultar engorroso bastante rápido cuando existen varios archivos que son diferentes versiones de la misma pieza de código. O en lugar de crear un nuevo archivo, se puede escribir código para la nueva función directamente en el archivo original, pero ahora éste arroja errores cuando se intenta ejecutarlo, y es difícil recordar qué líneas se añadieron desde la última vez que el código se ejecutó sin errores. Usando el control de versiones, estos problemas se resuelven porque podemos volver al punto de control cuando el código se ejecutó limpiamente, y así evitar la necesidad de crear múltiples copias para guardar el trozo de código original.
+Esto puede sonar como un proceso simple y ¡en muchos sentidos lo es! Entonces, ¿por qué es tan importante? Especialmente cuando se trata de programar, la posibilidad de crear una captura en el tiempo de un fragmento de código puede resultar muy útil. Por ejemplo, puedes tener un fragmento de código que produce el resultado previsto, pero luego deseas añadir una nueva función. Se puede optar por copiar ese archivo de código para no perder el estado actual, y luego trabajar en un archivo nuevo. Esto puede resultar engorroso bastante rápido cuando existen varios archivos que son diferentes versiones de la misma pieza de código. O en lugar de crear un nuevo archivo, se puede escribir código para la nueva función directamente en el archivo original, pero ahora éste arroja errores cuando se intenta ejecutarlo, y es difícil recordar qué líneas se añadieron desde la última vez que el código se ejecutó sin errores. Usando el control de versiones, estos problemas se resuelven porque podemos volver al punto de control cuando el código se ejecutó correctamente, y así evitar la necesidad de crear múltiples copias para guardar el trozo de código original.
 
-Hay muchas otras características de los sistemas de control de versiones, tales como el concepto de crear "ramas" que le permiten trabajar en nuevas actualizaciones de un trozo de código de forma independiente y paralela a la pieza original de código. Una rama es una desviación del código original, pero puede ser fusionada de nuevo en el código original cuando se desee. Todos estos conceptos son aún más útiles cuando se colabora con otras personas utilizando plataformas de control de versiones, una práctica de colaboración que veremos más adelante en esta lección.
+Hay muchas otras características de los sistemas de control de versiones, tales como el concepto de crear "ramas" que te permiten trabajar en nuevas actualizaciones de un trozo de código de forma independiente y paralela a la pieza original de código. Una rama es una desviación del código original, pero puede ser fusionada de nuevo en el código original cuando se desee. Todos estos conceptos son aún más útiles cuando se colabora con otras personas utilizando plataformas de control de versiones, una práctica de colaboración que veremos más adelante en esta lección.
 
 ### Tipos de control de versiones de software
 
@@ -98,23 +98,23 @@ Hay dos estilos principales de sistemas de control de versiones de software:
   </tbody>
 </table>
 
-Utilizar un sistema distribuido de control de versiones como Git le da más flexibilidad.
+Utilizar un sistema distribuido de control de versiones como Git te da más flexibilidad.
 
 **Ejemplo: Git**
 
-El sistema de control de versiones más popular para el desarrollo de software es Git. Git es de código abierto y se utiliza habitualmente junto con sitios web de alojamiento de software como GitHub y GitLab (más información sobre ellos en la siguiente sección), que permiten colaborar y compartir código. También puede usarse en una computadora local cuando se escribe código propio. Git suele ejecutarse en la línea de comandos, pero también existen otras interfaces para utilizar Git, como el escritorio de GitHub y algunos editores de código que incluyen integración con Git (más información sobre esto más adelante).
+El sistema de control de versiones más popular para el desarrollo de software es Git. Git es de código abierto y se utiliza habitualmente junto con sitios web de alojamiento de software como GitHub y GitLab (más información sobre ellos en la siguiente sección), que permiten colaborar y compartir código. También puede usarse en una computadora local cuando se escribe código propio. Git suele ejecutarse en la línea de comandos, pero también existen otras interfaces para utilizar Git, como *GitHub Desktop* y algunos editores de código que incluyen integración con Git (más información sobre esto más adelante).
 
-<img src="../images/media/image33.png" style="width:350px;height:auto;" />
+<img src="../images/media/image33_ES.png" style="width:350px;height:auto;" />
 
-[https://xkcd.com/1597/](https://xkcd.com/1597/)
+Adaptación de [https://xkcd.com/1597/](https://xkcd.com/1597/)
 
 ---
 
-Git es muy potente y ampliamente utilizado (según [una encuesta de Stack Overflow](https://survey.stackoverflow.co/2022) (en inglés), más del 87% de las personas que se dedican a desarrollar usan Git), pero eso no significa que sea fácil de aprender. Hay muchos buenos recursos para aprender Git (ver más abajo). Si al principio Git resulta confuso, ¡es importante saber que muchas personas tienen dificultad para entenderlo! (¡Incluso hay un cómic XKCD al respecto!). Para una formación en profundidad en Git, por favor vea la lección de Carpentry de Software, que se enumera a continuación: [ Control de versiones con Git: Resumen y configuración (swcarpentry.github.io)](https://swcarpentry.github.io/git-novice/) (en inglés)
+Git es muy potente y ampliamente utilizado (según [una encuesta de Stack Overflow](https://survey.stackoverflow.co/2022), más del 87% de las personas que se dedican a desarrollar usan Git), pero eso no significa que sea fácil de aprender. Hay muchos buenos recursos para aprender Git (ver más abajo). Si al principio Git te resulta confuso, ¡es importante saber que muchas personas tienen dificultad para entenderlo! (¡incluso hay un cómic XKCD al respecto!). Para una formación en profundidad en Git, por favor mira la lección de *Software Carpentry* (en inglés), que se menciona a continuación: [Control de versiones con Git: Resumen y configuración (swcarpentry.github.io)](https://swcarpentry.github.io/git-novice/) 
 
 ### Plataformas de control de versiones
 
-Las plataformas de control de versiones, normalmente plataformas de alojamiento de software basadas en web, amplían la utilidad del control de versiones al permitir una ubicación centralizada para almacenar y colaborar en el código, junto con muchas otras funciones útiles para el desarrollo y el intercambio de código.
+Las plataformas de control de versiones, normalmente plataformas de alojamiento de software en la web, amplían la utilidad del control de versiones al permitir una ubicación centralizada para almacenar y colaborar en el código, junto con muchas otras funciones útiles para el desarrollo y el intercambio de código.
 
 Algunos ejemplos de plataformas de control de versiones:
 
@@ -126,12 +126,12 @@ GitHub es una de las plataformas más populares, por lo que en el resto de esta 
 
 **Ejemplo: GitHub**
 
-GitHub es un repositorio de software en línea basado en la nube que se integra con Git y ofrece muchas otras características que ayudan en el desarrollo de código. colaboración, pruebas y publicaciones. Antes de avanzar en algunas de estas características, es importante entender cómo GitHub actúa como un repositorio remoto cuando utiliza sistemas de control de versiones como Git.
+GitHub es un repositorio de software en línea basado en la nube que se integra con Git y ofrece muchas otras características que ayudan en el desarrollo de código en colaboración, su evaluación y publicación. Antes de avanzar en algunas de estas características, es importante entender cómo GitHub actúa como un repositorio remoto cuando utiliza sistemas de control de versiones como Git.
 
-Si volvemos a la idea general de utilizar sistemas de control de versiones, GitHub puede incorporarse como un repositorio remoto que aloja código. Después de crear un “punto de control” en Git, es posible cargar a GitHub una copia de la instantánea actual del código. Hay varias razones para hacerlo:
+Si volvemos a la idea general de utilizar sistemas de control de versiones, GitHub puede incorporarse como un repositorio remoto que aloja código. Después de crear un “punto de control” (*checkpoint*) en Git, es posible cargar a GitHub una copia de la fotografía actual del código. Hay varias razones para hacerlo:
 
-- Para funcionar como copia de seguridad de su trabajo (ahora se almacena en un servidor remoto al que puede acceder incluso si su computadora muere).
-- Para compartir tu código con otros (más adelante en este curso).
+- Para que funcione como copia de seguridad de tu trabajo (ahora se almacena en un servidor remoto al que puedes acceder incluso si tu computadora muere).
+- Para compartir tu código con otra personas (más sobre esto más adelante en este curso).
 - Para que otros colaboren con tu código. Subiendo a GitHub, tu código puede ser accesible para otros que quieran añadir características.
 
 Vamos a ampliar algunas de las herramientas de colaboración de GitHub. Algunas de estas características incluyen:
@@ -149,29 +149,29 @@ Vamos a ampliar algunas de las herramientas de colaboración de GitHub. Algunas 
   </thead>
   <tbody>
     <tr class="odd">
-      <td>Rastreo de problemas</td>
+      <td>Rastreo de problemas (*issues*)</td>
       <td>
-        Realizar un seguimiento de las solicitudes de funciones, errores y otros tipos de actualizaciones a través de GitHub Issues. GitHub también permite utilizar etiquetas y asignar personas a las tareas para ayudar a organizarlas.
+        Realizar un seguimiento de las solicitudes de funciones, errores y otros tipos de actualizaciones a través de *GitHub Issues*. GitHub también permite utilizar etiquetas y asignar personas a las tareas para ayudar a organizarlas.
       </td>
     </tr>
     <tr class="odd">
-      <td>Foros de discusión de proyectos</td>
+      <td>Foros de discusión del proyecto</td>
       <td>GitHub permite un foro de discusión en línea donde es posible hacer y responder preguntas y mantener discusiones comunitarias.</td>
     </tr>
     <tr class="odd">
       <td>Seguimiento de contribuciones</td>
       <td>
-GitHub tiene una forma sencilla de llevar un registro de las contribuciones de código sugeridas (llamadas "Pull Requests") por diferentes personas.      </td>
+GitHub tiene una forma sencilla de llevar un registro de las contribuciones de código sugeridas (llamadas "*Pull Requests*") por diferentes personas.</td>
     </tr>
     <tr class="odd">
       <td>Herramientas de revisión de código</td>
       <td>
-GitHub dispone de un amplio conjunto de herramientas para revisar y aceptar (o rechazar) las contribuciones de otros (o las tuyas propias), como los comentarios en línea y los cambios fácilmente visibles en archivos individuales.      </td>
+GitHub dispone de un amplio conjunto de herramientas para revisar y aceptar (o rechazar) las contribuciones de otros (o las tuyas propias), como los comentarios en línea y los cambios fácilmente visibles en archivos individuales.</td>
     </tr>
     <tr class="odd">
       <td>Permisos personalizados</td>
       <td>
-        Elige quién tiene autorización para actualizar el código. Esto ayuda a que las personas se sientan seguras de que solo aquellos con permiso pueden actualizar el código que compartido en GitHub, y también a que otras se sientan seguras para sugerir actualizaciones sin preocuparse de que puedan sobrescribir accidentalmente el código existente.
+Elige quién tiene autorización para actualizar el código. Esto ayuda a que tengas la seguridad de que solo quienes tienen permiso pueden actualizar el código que compartiste en GitHub, y también a que otras personas se sientan seguras para sugerir actualizaciones sin preocuparse de que puedan sobrescribir accidentalmente el código existente.
       </td>
     </tr>
   </tbody>
@@ -182,28 +182,28 @@ Todas estas funciones son excelentes para permitir la colaboración asíncrona e
 - [Cómo usar Git y GitHub – Introducción para principiantes (freecodecamp.org)](https://www.freecodecamp.org/news/introduction-to-git-and-github/)
 - [Empezando con GitHub — Pythia Foundations (projectpythia.org)](https://foundations.projectpythia.org/foundations/getting-started-github.html)
 
-[Cite Project Pythia: [https://foundations.projectpythia.org/preamble/how-to-cite.html](https://foundations.projectpythia.org/preamble/how-to-cite.html)]
+[Cita al Proyecto Pythia: [https://foundations.projectpythia.org/preamble/how-to-cite.html](https://foundations.projectpythia.org/preamble/how-to-cite.html)]
 
 ### Resumen de las ventajas de utilizar el control de versiones y las plataformas de control de versiones
 
 - Posibilidad de retrotraer los cambios hasta cualquier punto
 - Facilita la colaboración con otras personas
 - Mantiene un directorio ordenado, sin necesidad de hacer varias copias de los archivos.
-- Proporciona un sistema de copia de seguridad específico para su trabajo
+- Proporciona un sistema de copia de seguridad específico para tu trabajo
 
-## Herramientas para Editar Código
+## Herramientas para editar código
 
-### Entorno de Desarrollo Integrado (IDEs)
+### Entornos de Desarrollo Integrado (IDEs)
 
-Un Entorno de Desarrollo Integrado (IDE) desempeña un papel importante en el desarrollo de código abierto ofreciendo un conjunto de herramientas a los investigadores, científicos, y desarrolladores para editar código. Se trata de una aplicación informática que agiliza todo el proceso de creación, comprobación y gestión de código para la investigación científica y el análisis de datos. Al proporcionar una plataforma todo en uno, un IDE permite a los investigadores escribir, depurar y optimizar el código de forma más eficiente, fomentando la colaboración y la reproducibilidad en proyectos científicos de código abierto.
+Un Entorno de Desarrollo Integrado (IDE, por sus siglas en inglés) desempeña un papel importante en el desarrollo de código abierto ofreciendo un conjunto de herramientas a los investigadores, científicos, y desarrolladores para editar código. Se trata de una aplicación informática que agiliza todo el proceso de creación, comprobación y gestión de código para la investigación científica y el análisis de datos. Al proporcionar una plataforma todo en uno, un IDE permite a los investigadores escribir, depurar y optimizar el código de forma más eficiente, fomentando la colaboración y la reproducibilidad en proyectos científicos de código abierto.
 
-En la ciencia abierta, donde la transparencia y la accesibilidad son primordiales, los IDE suelen incorporar sistemas de control de versiones como Git para facilitar la colaboración y garantizar que un código base de investigación esté disponible para que otras personas lo utilicen y mejoren. Además, muchos IDEs se integran con herramientas de análisis y visualización de datos. Esto facilita el análisis y la interpretación de datos, contribuyendo en última instancia, al avance de las prácticas científicas de código abierto.
+En la ciencia abierta, donde la transparencia y la accesibilidad son primordiales, los IDEs suelen incorporar sistemas de control de versiones como Git para facilitar la colaboración y garantizar que un código base de investigación esté disponible para que otras personas lo utilicen y mejoren. Además, muchos IDEs se integran con herramientas de análisis y visualización de datos. Esto facilita el análisis y la interpretación de datos, contribuyendo en última instancia, al avance de las prácticas científicas de código abierto.
 
-Si estuvieras en una sala con 10 personas que trabajan en desarrollo y les preguntaras a cada una cuál es su editor de código favorito, obtendrías muchas respuestas diferentes. En esta lección, repasaremos algunas de las opciones más conocidas.
+Si estuvieras en una sala con 10 personas que trabajan en desarrollo de software y le preguntaras a cada una cuál es su editor de código favorito, obtendrías muchas respuestas diferentes. En esta lección, repasaremos algunas de las opciones más conocidas.
 
-**Edición de código fuente y núcleos – El valor de los IDEs y núcleos**
+**Edición de código fuente y kernels – El valor de los IDEs y los kernels**
 
-Los IDE pueden aportar muchas herramientas útiles a tus trabajos. Ya no se trata únicamente de editar código. Los IDEs Modernos y robustos pueden hacer la mayoría de las cosas que se listan aquí, y aún más. Se puede usar un IDE sin ejecutar en un núcleo; se puede usar un núcleo sin haber desarrollado código en un IDE. Sin embargo, pueden trabajar de la mano.
+Los IDEs pueden aportar muchas herramientas útiles a tus trabajos. Ya no se trata únicamente de editar código. Los IDEs modernos y robustos pueden hacer la mayoría de las cosas que se listan aquí, y aún más. Se puede usar un IDE sin ejecutar en un kernel; se puede usar un kernel sin haber desarrollado código en un IDE. Sin embargo, pueden trabajar de la mano.
 
 <table>
   <thead>
@@ -218,14 +218,14 @@ Los IDE pueden aportar muchas herramientas útiles a tus trabajos. Ya no se trat
             <p>Edición del código fuente:</p>
             <ul>
               <li>Resaltado sintáctico</li>
-              <li>Avisos de error/error</li>
+              <li>Avisos de error/*bugs*</li>
             </ul>
             <p>Extensiones</p>
             <ul>
-              <li>Depuradores</li>
+              <li>Depuradores (*debuggers*)</li>
               <li>Gestión de memoria</li>
               <li>Control de versiones</li>
-              <li>Crear automatización</li>
+              <li>Creación de automatizaciones</li>
             </ul>
         </td>
     </tr>
@@ -261,6 +261,8 @@ Los IDE pueden aportar muchas herramientas útiles a tus trabajos. Ya no se trat
 Visual Studio Code (o VS Code), el IDE más popular en la actualidad, ofrece numerosas funciones sin resultar engorroso.
 
 <img src="../images/media/image34.png" style="width:100%;height:auto;" />
+
+Imagen: pantalla de inicio del VS Code donde se muestran las principales combinaciones de teclas para las funciones de "Mostrar todos los comandos"; "Abrir archivo o carpeta"; "Abrir reciente" y "Crear un nuevo archivo sin título".
 
 - Dispone de una opción de "modo oscuro" que es más agradable a la vista para largas sesiones de codificación.
 - Proporciona el resaltado de sintaxis y una ventana de terminal integrada.
