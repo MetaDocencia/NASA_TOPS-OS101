@@ -18,7 +18,7 @@ Al completar esta lección, deberías poder:
 -   Definir los tipos comunes de productos de investigación incluyendo datos, software y resultados.
 -   Enumerar formas comunes de compartir datos, código y resultados al practicar la ciencia abierta.
 
-## Definición de Ciencia Abierta y productos de Investigación
+## Definición de Ciencia Abierta y productos de Investigación {#definicion-de-ciencia-abierta-y-productos-de-investigacion}
 
 ### ¿Qué es la Ciencia Abierta?
 
@@ -83,7 +83,7 @@ Los resultados capturan los distintos productos de investigación del proceso ci
 
 Puede que estemos familiarizados con el ciclo de vida de la investigación, pero aún desconozcamos los tipos de resultados que pueden compartirse abiertamente a lo largo de este proceso. Al compartir resultados, es importante ser lo más abiertos posible, con el objetivo de aumentar la reproducibilidad, la accesibilidad y la inclusión de nuestra ciencia. A lo largo del ciclo de vida de la investigación existen múltiples oportunidades para compartir abiertamente diferentes resultados, y estos pueden dar lugar a nuevas colaboraciones y líneas de investigación. En el Módulo 5 - Resultados Abiertos, se ofrecen más detalles sobre el alcance de los resultados abiertos.
 
-## Usando herramientas para la Ciencia Abierta en la práctica
+## Utilizando herramientas para la Ciencia Abierta en la práctica {#utilizando-herramientas-para-ciencia-abierta-en-la-practica}
 
 Las siguientes lecciones de este módulo exploran diferentes herramientas y recursos a disposición de los investigadores para utilizar, crear y compartir la ciencia abierta. Como ya se ha dicho, es importante pensar en cómo integrar los principios de la ciencia abierta en todas las fases del proceso de investigación. Aquí daremos un panorama general de cómo podrían funcionar juntas las distintas piezas.
 
@@ -150,14 +150,14 @@ Esta versión: <https://github.com/c-h-david/rapid>
 
 Todas las versiones: <https://doi.org/10.5281/zenod>
 
-## Lección 1: Resumen
+## Lección 1: Resumen {#leccion-1-resumen}
 
-En esta lección hemos aprendido:
+En esta lección has aprendido:
 
 -   El conocimiento científico o los productos de la investigación adoptan la forma de: datos, software y resultados.
 -   En general, los datos son partes de información acerca de un tema, incluidas verdades teóricas, mediciones en bruto (informacion sin ningun procesamiento) o valores altamente procesados.
 
-## Lección 1: Evaluación
+## Lección 1: Evaluación {#leccion-1-evaluacion}
 
 Responde las siguientes preguntas para evaluar lo que has aprendido hasta ahora.
 

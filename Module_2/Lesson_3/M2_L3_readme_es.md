@@ -22,7 +22,7 @@ Al completar esta lección, deberías poder:
 -   Identificar prácticas de gestión de datos y herramientas para ubicar datos en repositorios.
 -   Listar y explicar el propósito de los recursos usados comúnmente en la creación de datos, incluyendo los formatos de datos, la inspección de datos y la evaluación del ajuste de los datos a los principios FAIR.
 
-## Introducción a Datos Abiertos
+## Introducción a Datos Abiertos {#introduccion-datos-abiertos}}
 
 Los datos son una parte importante de la investigación científica y ¿por qué no lo serían? Son información para las herramientas que usamos, las historias que leemos y las decisiones que tomamos a diario.
 
@@ -117,7 +117,7 @@ Wilkinson, M. D. et al. The FAIR Guiding Principles for scientific data manageme
 
 Estas pautas son de alto nivel y, al igual que la ciencia abierta, tienen matices en su aplicación. A veces se necesita un esfuerzo grupal y/o un largo proceso de producción/financiación para que datos y resultados sean FAIR. Para otros conjuntos de datos podría ser más sencillo. Se necesita un plan de gestión de datos bien coordinado para cumplir plenamente con los principios FAIR y los detalles de esto se discutirán más en profundidad en el Módulo 3 -- Datos Abiertos.
 
-## Herramientas para ayudar con la planificación de la creación de datos abiertos
+## Herramientas para ayudar con la planificación de la creación de datos abiertos {#herramientas-ayudar-creacion-datos-abiertos}
 
 ### Plan de gestión de datos
 
@@ -179,7 +179,7 @@ Explora los repositorios abiertos para familiarizarte con su estructura y la inf
 
 [Mira el video](https://www.youtube.com/watch?v=BPVSErzNtME&embeds_referring_euri=https%3A%2F%2Fopenscience101.org%2F&feature=emb_imp_woyt)
 
-## Herramientas para ayudar con el uso y manejo de datos abiertos
+## Herramientas para ayudar con el uso y manejo de datos abiertos {#herramientas-ayudar-uso-manejo-datos-abiertos}
 
 ### Formato de los datos
 
@@ -199,7 +199,7 @@ Los formatos de datos modernos permiten almacenar mucho más que datos puntuales
 
 -   csv: Hojas de cálculo de Microsoft Excel y Google
 -   xml: La mayoría de los navegadores de Internet y cualquier editor de texto como el Bloc de notas o Microsoft Word o Google Docs
--   json: <http://json.parser.online.fr/> y [https://jsonformatter.org/json-pretty-print](https://jsonformatter.org/json-pretty-print)
+-   json: <http://json.parser.online.fr/> y <https://jsonformatter.org/json-pretty-print>
 
 **NetCDF, HDF, FITS** - Estos archivos requieren herramientas de software especiales para ver sus contenidos. Muchas de estas herramientas también visualizarán los datos.
 
@@ -267,15 +267,15 @@ Los resultados incluyen:
 
 -   Un informe detallado y un gráfico
 
-## Lección 3: Resumen
+## Lección 3: Resumen (#leccion-3-resumen)
 
-En esta lección aprendiste:
+En esta lección has aprendido:
 
 -   Los diferentes tipos de datos científicos, incluyendo datos primarios, secundarios, publicados y metadatos.
 -   Una lista de prácticas de ciencia abierta para aplicar los principios FAIR que hacen que los datos y resultados sean fácilmente accesibles a muchas personas.
 -   Herramientas digitales que facilitan la planificación, creación e intercambio de datos abiertos.
 
-## Lección 3: Evaluación
+## Lección 3: Evaluación (#leccion-3-evaluacion)
 
 Responde las siguientes preguntas para poner a prueba lo que has aprendido hasta ahora.
 

@@ -555,16 +555,16 @@ Y recuerda, ¡la ciencia abierta tiene matices! Aunque uno de los principios de 
 
 En los siguientes módulos encontrarás más detalles sobre cómo redactar los planes de datos, códigos y resultados.
 
-## Lección 2: Resumen
+## Lección 2: Resumen {#leccion-2-resumen}
 
-En esta lección aprendimos:
+En esta lección has aprendido:
 
 - La definición de herramientas científicas, sus ejemplos más comunes y qué parte del proceso científico pueden ayudar.
 - La definición y el propósito de los identificadores persistentes. La utilidad de ORCID y DOI en el proceso científico.
 - Ejemplos de herramientas científicas abiertas útiles y comunes, como metadatos, documentación, repositorios y prerregistro.
 - Los pasos para redactar un Plan de Ciencia Abierta y Gestión de Datosa.
 
-## Lección 2: Evaluación
+## Lección 2: Evaluación {#leccion-2-evaluacion}
 
 Responde las siguientes preguntas para poner a prueba lo que has aprendido hasta ahora.
 

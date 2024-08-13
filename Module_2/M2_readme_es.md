@@ -68,11 +68,11 @@ Estos términos clave son tópicos importantes para este módulo. Selecciona el 
 -   [Lección 4: Resumen](./Lesson_4#leccion-4-resumen)
 -   [Lección 4: Evaluación](./Lesson_4#leccion-4-evaluacion)
 
-### [Lección 5: Herramientas para Datos Abiertos](./Lesson_5)
+### [Lección 5: Herramientas para Resultados Abiertos](./Lesson_5)
 
 -   [Herramientas para publicaciones abiertas](./Lesson_5#herramientas-publicaciones-abiertas)
 -   [Herramientas para la reproducibilidad](./Lesson_5#herramientas-reproducibilidad)
 -   [Herramientas adicionales para resultados abiertos](./Lesson_5#herramientas-adicionales-resultados-abiertos)
 -   [Lección 5: Resumen](./Lesson_5#leccion-5-resumen)
 -   [Lección 5: Evaluación](./Lesson_5#leccion-5-evaluacion)
--   [Resumen de herramientas y recursos](./Lesson_5#resumen-herramientas-recursos)
+-   [Resumen de herramientas abiertas y recursos](./Lesson_5#resumen-herramientas-recursos)
