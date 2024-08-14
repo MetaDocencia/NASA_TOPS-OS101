@@ -34,11 +34,11 @@ Al completar esta lección, deberías poder:
 
 El conocimiento científico, o los productos de investigación, toman la forma de:
 
-<img src="../images/media/image5_ES.png" style="width:350px;height:auto;"/>
+<img src="../images/media/image5_es.png" style="width:350px;height:auto;"/>
 
 ### ¿Qué son los Datos?
 
-<img src="../images/media/image6_ES.png" style="width:350px;height:auto;"/>
+<img src="../images/media/image6_es.png" style="width:350px;height:auto;"/>
 
 En general, los datos son fragmentos de información sobre un tema, incluidas verdades teóricas, mediciones en bruto o valores altamente procesados.
 
@@ -89,7 +89,7 @@ Las siguientes lecciones de este módulo exploran diferentes herramientas y recu
 
 ### Los componentes de la Ciencia Abierta
 
-<img src="../images/media/image7_ES.png" style="width:100%;height:auto;"/>
+<img src="../images/media/image7_es.png" style="width:100%;height:auto;"/>
 
 Los cuatro componentes principales de la ciencia abierta pueden organizarse en una pirámide de productos de investigación compartidos abiertamente.
 
@@ -101,13 +101,13 @@ La práctica de compartir estos componentes puede darse en distintos grados de e
 
 Los datos pueden compartirse fácilmente a través de muchos servicios diferentes. La mejor forma de compartirlos suele ser a través de un repositorio de datos a largo plazo que los preserve y los haga accesibles. La imagen ofrece algunas consideraciones a la hora de compartir datos a través de [Zenodo](https://zenodo.org/), un repositorio de datos generalista. Estas consideraciones serían similares para otros repositorios de datos. Ver el Módulo 3 - Datos Abiertos, para obtener más detalles sobre cómo compartir datos abiertos.
 
-<img src="../images/media/image8_ES.png" style="width:100%;height:auto;"/>
+<img src="../images/media/image8_es.png" style="width:100%;height:auto;"/>
 
 ### Compartir código abierto
 
 Cuando se comparte código abierto, con frecuencia se hace a través de una plataforma en línea de control de versiones que permite a otros contribuir al software y proporciona un historial de cambios en el mismo. Por ejemplo, muchos investigadores optan por publicar archivos de código en [GitHub](https://github.com/) con una licencia BSD (de 3 cláusulas). Esto permite a otros contribuir y reutilizar el software. Los pasos para preservar el código y hacerlo accesible se tratan en el Módulo 4 - Código Abierto.
 
-<img src="../images/media/image9_ES.png" style="width:100%;height:auto;"/>
+<img src="../images/media/image9_es.png" style="width:100%;height:auto;"/>
 
 ### Compartir un artículo abierto
 
@@ -121,7 +121,7 @@ Cuando compartimos resultados, es conveniente incluir la metodología utilizada 
 
 A continuación veremos un ejemplo de cómo un grupo de investigación compartió abiertamente sus datos, resultados y software tanto como el artículo resultante; todo esto con sus propios identificadores únicos. Hay que tener en cuenta que los datos y el software pueden tener varios identificadores, lo que permite a otros citar todas las versiones o una única versión.
 
-<img src="../images/media/image10_ES.jpeg" style="width:100%;height:auto;"/>
+<img src="../images/media/image10_es.jpeg" style="width:100%;height:auto;"/>
 
 Aquí se pueden revisar los distintos elementos de la imagen anterior, seleccionando los botones "\<" y "\>" para navegar.
 
@@ -155,7 +155,7 @@ Todas las versiones: <https://doi.org/10.5281/zenod>
 En esta lección has aprendido:
 
 -   El conocimiento científico o los productos de la investigación adoptan la forma de: datos, software y resultados.
--   En general, los datos son partes de información acerca de un tema, incluidas verdades teóricas, mediciones en bruto (informacion sin ningun procesamiento) o valores altamente procesados.
+-   En general, los datos son partes de información acerca de un tema, incluidas verdades teóricas, mediciones en bruto (información sin ningún procesamiento) o valores altamente procesados.
 
 ## Lección 1: Evaluación {#leccion-1-evaluacion}
 

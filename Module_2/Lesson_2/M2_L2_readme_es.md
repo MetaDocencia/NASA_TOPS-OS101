@@ -73,7 +73,7 @@ Los DOI son proporcionados y mantenidos por la Organización Internacional de No
 
 ### Citación utilizando los DOI
 
- <img src="../images/media/image19_ES.png" style="width:100%;height:auto;" />
+ <img src="../images/media/image19_es.png" style="width:100%;height:auto;" />
 
 Los DOI facilitan y hacen más práctica la citación de productos de investigación.
 
@@ -101,7 +101,7 @@ Así de fácil debería ser para quienes lean tus artículos encontrar y utiliza
 
 ### Ejemplos de Identificadores Persistentes (PID) en acción
 
-<img src="../images/media/image22_ES.jpg" style="width:100%;height:auto;" />
+<img src="../images/media/image22_es.jpg" style="width:100%;height:auto;" />
 
 <table>
   <thead>
@@ -413,7 +413,7 @@ Los tipos de prerregistro incluyen:
 Una actividad de investigación planificada puede ser prerregistrada en cualquier momento, siempre y cuando la actividad particular que se registra no haya comenzado. Sin embargo, existen varios puntos en los que el registro es más común:
 
 - Antes de la recolección de datos para un proyecto
-- Antes del analisis de un conjunto de datos existente o abiertamente disponible
+- Antes del análisis de un conjunto de datos existente o abiertamente disponible
 
 Fuente: [Registration — Guía para hacer Ciencia Abierta del departamento de Psicología de Stanford) (poldrack.github.io)](https://poldrack.github.io/psych-open-science-guide/1_pregistration.html)
 
@@ -438,7 +438,7 @@ El PCAGD describe cómo se gestiona y se pone a disposición del público la inf
 
 ¡Un PCAGD bien escrito puede ayudarte a obtener financiamiento porque demuestra tus habilidades para hacer ciencia abierta!
 
- <img src="../images/media/image24_ES.jpg" style="width:100%;height:auto;" />
+ <img src="../images/media/image24_es.jpg" style="width:100%;height:auto;" />
 
 Secciones de ejemplo para incluir en un PCAGD:
 
@@ -562,7 +562,7 @@ En esta lección has aprendido:
 - La definición de herramientas científicas, sus ejemplos más comunes y qué parte del proceso científico pueden ayudar.
 - La definición y el propósito de los identificadores persistentes. La utilidad de ORCID y DOI en el proceso científico.
 - Ejemplos de herramientas científicas abiertas útiles y comunes, como metadatos, documentación, repositorios y prerregistro.
-- Los pasos para redactar un Plan de Ciencia Abierta y Gestión de Datosa.
+- Los pasos para redactar un Plan de Ciencia Abierta y Gestión de Datos.
 
 ## Lección 2: Evaluación {#leccion-2-evaluacion}
 
