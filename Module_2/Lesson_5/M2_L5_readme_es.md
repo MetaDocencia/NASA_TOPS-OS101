@@ -53,7 +53,7 @@ Una forma habitual de compartir un artículo es elegir una revista que ya sea to
 
 Para identificar la mejor revista de acceso abierto, puedes usar el [Directorio de Revistas de Acceso Abierto (DOAJ)](https://doaj.org/) que proporciona un índice de búsqueda de todos los artículos y revistas de acceso abierto conocidas. El DOAJ y su página web sinérgica, Sherpa Romeo, sirven como herramientas útiles en las primeras etapas de la planificación de la investigación para ayudar a una persona que investiga a determinar qué revistas hay que tener en cuenta cuando llegue el momento de publicar sus resultados.
 
-![](../images/media/image51_ES.png)
+![](../images/media/image51_es.png)
 
 ### Actividad 5.1: Identificar una revista de acceso abierto
 
@@ -78,7 +78,7 @@ El [Informe de Academias Nacionales 2019](https://www.nationalacademies.org/our-
 - Reproducibilidad significa obtener resultados computacionales consistentes usando los mismos datos de entrada (_inputs_), pasos computacionales, métodos, código y condiciones de análisis.
 - Replicabilidad significa obtener resultados coherentes en todos los estudios destinados a responder a la misma pregunta científica, cada uno de los cuales ha obtenido sus propios datos.
 
-La búsqueda de la reproducibilidad tiene como objetivo garantizar que las personas investigadoras obtengan el mismo resultado al seguir los mismos pasos, así como permitirles copiar un entorno y desarrollar un resultado editando dicho entorno para aplicarlo a un problema similar. Esta característica adicional ofrece a otras pesonas la posibilidad de basarse directamente en trabajos anteriores y obtener más ciencia con la misma cantidad de financiamiento.
+La búsqueda de la reproducibilidad tiene como objetivo garantizar que las personas investigadoras obtengan el mismo resultado al seguir los mismos pasos, así como permitirles copiar un entorno y desarrollar un resultado editando dicho entorno para aplicarlo a un problema similar. Esta característica adicional ofrece a otras personas la posibilidad de basarse directamente en trabajos anteriores y obtener más ciencia con la misma cantidad de financiamiento.
 
 Herramientas para apoyar la reproducibilidad en los resultados de investigación:
 
@@ -156,7 +156,7 @@ Zotero ayuda a gestionar metadatos y citas de software, datos y publicaciones a 
 - Word + plugins del navegador
 - Exportar citas a BibTeX
 
-<img src="../images/media/image53_ES.png" style="width:100%;height:auto;" />
+<img src="../images/media/image53_es.png" style="width:100%;height:auto;" />
 
 ## Lección 5: Resumen
 

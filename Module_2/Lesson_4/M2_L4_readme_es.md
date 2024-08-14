@@ -85,7 +85,7 @@ Utilizar un sistema distribuido de control de versiones como Git te da más flex
 
 El sistema de control de versiones más popular para el desarrollo de software es Git. Git es de código abierto y se utiliza habitualmente junto con sitios web de alojamiento de software como GitHub y GitLab (más información sobre ellos en la siguiente sección), que permiten colaborar y compartir código. También puede usarse en una computadora local cuando se escribe código propio. Git suele ejecutarse en la línea de comandos, pero también existen otras interfaces para utilizar Git, como *GitHub Desktop* y algunos editores de código que incluyen integración con Git (más información sobre esto más adelante).
 
-<img src="../images/media/image33_ES.png" style="width:350px;height:auto;"/>
+<img src="../images/media/image33_es.png" style="width:350px;height:auto;"/>
 
 Adaptación de <https://xkcd.com/1597/>
 
@@ -225,7 +225,7 @@ Mientras que VS Code es un entorno de desarrollo integrado (en inglés, *Integra
 
 Los investigadores que realizan análisis estadísticos tienden a utilizar los lenguajes de programación de R y Python. RStudio tiene herramientas integradas para ese mismo propósito, incluyendo la visualización de datos.
 
-<img src="../images/media/image36_ES.png" style="width:100%;height:auto;"/>
+<img src="../images/media/image36_es.png" style="width:100%;height:auto;"/>
 
 ### Editores de texto plano para programar
 
@@ -234,7 +234,7 @@ La mayoría de los ordenadores portátiles o de escritorio que ejecutan sistemas
 +---------------------------------------------------------------------+----------------------------------------------------------------------+
 | **VENTAJAS**                                                        | **DESVENTAJAS**                                                      |
 +=====================================================================+======================================================================+
-| -   Lígeros                                                         | -   No hay complementos que ayuden a encontrar fallas, errores, etc. |
+| -   Ligeros                                                         | -   No hay complementos que ayuden a encontrar fallas, errores, etc. |
 |                                                                     |                                                                      |
 | -   Muchos se distribuyen nativamente con el sistema operativo (SO) | -   Pueden no tener resaltado de sintaxis                            |
 +---------------------------------------------------------------------+----------------------------------------------------------------------+
@@ -277,11 +277,11 @@ Si quieres sumergirte en el tema, consulta la lección "Primeros pasos con Jupyt
 
 ### Actividad 4.1: Ejecuta Jupyter Notebook desde tu navegador
 
-Usemos un ejemplo del Proyecto Pythia para mostrar cómo los cuadernos computacionales pueden ser usados en la ciencia. Proyecto Pythia es un centro educativo para la comunidad geocientifica. Tienen algunos grandes recursos de aprendizaje y ejemplos de cuadernos de investigación, desarrollados y mantenidos por la comunidad y de libre acceso.
+Usemos un ejemplo del Proyecto Pythia para mostrar cómo los cuadernos computacionales pueden ser usados en la ciencia. Proyecto Pythia es un centro educativo para la comunidad geocientífica. Tienen algunos grandes recursos de aprendizaje y ejemplos de cuadernos de investigación, desarrollados y mantenidos por la comunidad y de libre acceso.
 
 En esta actividad, ejecutarás código Python ya escrito en un Jupyter Notebook desde tu navegador para hacer gráficos relacionados con el fenómenos El Niño-Oscilación del Sur (o ENOS). Utilizarás el paquete de software de código abierto llamado Xarray para leer los datos de temperatura de la superficie del mar de un modelo climático global (Modelo Comunitario del Sistema Tierra, en ingles *Community Earth System Model, CESM*), y crear algunas visualizaciones de eventos ENOS a lo largo de los últimos 20 años. El objetivo es recrear el gráfico siguiente para aproximadamente los últimos 20 años. Esta figura muestra los años y la magnitud de los eventos de El Niño en rojo y de los eventos de La Niña en azul.
 
-![](../images/media/image39_ES.png)
+![](../images/media/image39_es.png)
 
 Fuente: Adaptado de <https://climatedataguide.ucar.edu/climate-data/nino-sst-indices-nino-12-3-34-4-oni-and-tni>
 
@@ -290,15 +290,15 @@ Fuente: Adaptado de <https://climatedataguide.ucar.edu/climate-data/nino-sst-ind
 Sigue estos pasos:
 
 1.  Navega a la lección "[Calculating ENSO with Xarray (Calculando ENOS con Xarray)](https://foundations.projectpythia.org/core/xarray/enso-xarray.html)"
-2.  En la esquina superior derecha, pasa el ratón sobre el icono del cohete y haz clic en "Binder". Esto abrirá la lección como un Jupyter Notebook ejecutable que corre en la Nube. Ten en cuenta que el Cuaderno Computacional puede tardar varios minutos en configurarse. ![](../images/media/calculatingenso_ES.png)
+2.  En la esquina superior derecha, pasa el ratón sobre el icono del cohete y haz clic en "Binder". Esto abrirá la lección como un Jupyter Notebook ejecutable que corre en la Nube. Ten en cuenta que el Cuaderno Computacional puede tardar varios minutos en configurarse. ![](../images/media/calculatingenso_es.png)
 3.  Después de cargar el Cuaderno Computacional, deberías ver algo como lo siguiente. Nota -- ¡Esto realmente utiliza la vista de JupyterLab! ![](../images/media/calculatingenso2.jpg)
 4.  Puedes tomarte un poco de tiempo para repasar el texto y el código del Cuaderno Computacional, pero ten en cuenta que esta lección presupone muchos conocimientos previos, por lo que está bien si no lo entiendes todo. ¡Aún puedes apreciar los bonitos gráficos que estás a punto de hacer!
 5.  ¡Ahora estás listo para ejecutar el Cuaderno Computacional! Para hacer eso, puedes ir al menú "Run" (*Ejecutar*) en la parte superior izquierda de la ventana de JupyterLab y elegir "Run All Cells" (*Ejecutar todas las celdas*): ![](../images/media/calculatingenso3.jpg)
 6.  Esto solo debería tomar unos pocos segundos, y si te desplazas hacia abajo, puedes ver un par de visualizaciones bonitas que acabas de crear:<br>*Usa los botones "\<" y "\>" para navegar entre las imágenes.*
 
-![](../images/media/calculatingenso4_ES.png)
+![](../images/media/calculatingenso4_es.png)
 
-![](../images/media/image44_ES.png)
+![](../images/media/image44_es.png)
 
 7.  Tómate algo de tiempo para mirar un poco más de cerca el Cuaderno Computacional. Verás que hay texto (incluyendo encabezados, enlaces ¡e incluso una tabla justo al principio!), código y figuras integradas de manera conjunta. Este es sólo un ejemplo de cómo los científicos utilizan cuadernos computacionales para su investigación.
 
@@ -313,7 +313,7 @@ Usamos el término "plataforma de cómputo" para referirnos a la infraestructura
 Ventajas:
 
 -   Conveniente - puede ejecutar cálculos cuando y donde tu elijas
--   Puedea adaptar el entorno de software para que sea exactamente lo que necesitas
+-   Puede adaptar el entorno de software para que sea exactamente lo que necesitas
 -   No tienes que compartir tus recursos informáticos
 
 Desventajas:
@@ -345,7 +345,7 @@ Ventajas:
 Desventajas:
 
 -   Alto costo por cálculo
--   Falta de transparencia en los costos - Por ejemplo leer datos de diferentes regiones de la nube puede costar mucho dinero, pero no siempre está claro en qué región se encuentran los datos y se realizn los cálculos
+-   Falta de transparencia en los costos - Por ejemplo leer datos de diferentes regiones de la nube puede costar mucho dinero, pero no siempre está claro en qué región se encuentran los datos y se realizan los cálculos
 -   Puede requerir algún conocimiento adicional sobre cómo funciona el cómputo en la nube
 
 Ejemplos de proveedores en la Nube:
@@ -368,7 +368,7 @@ Un repositorio de software es un espacio dinámico y colaborativo donde los desa
 
 Por el contrario, un archivo de software es un almacenamiento estático donde se guardan versiones de software estables y minuciosamente probadas. Los usuarios acceden a estos archivos para obtener versiones confiables de software, asegurando estabilidad y confiabilidad en sus aplicaciones. Comprender la diferencia entre estos dos es crucial para un desarrollo y distribución de software eficaces.
 
-<img src="../images/media/image45_ES.jpg" style="width:350px;height:auto;"/>
+<img src="../images/media/image45_es.jpg" style="width:350px;height:auto;"/>
 
 Git/GitHub y Bitbucket son opciones populares para repositorios de software.
 

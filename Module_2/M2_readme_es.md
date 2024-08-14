@@ -26,7 +26,7 @@ Estos términos clave son tópicos importantes para este módulo. Selecciona el 
 
 **Entorno de computación** -- una plataforma que proporciona dependencias de software necesarias, un área de desarrollo y conexiones a recursos computacionales para facilitar la ejecución de código.
 
-**ORCiD** -- Un código numérico utilizado para identificar de forma única a los autores y colaboradores de comunicación científica. Los investigadores proporcionan un ORCiD para sus publicaciones y membresía de asociaciones. ORCiD también es una organizacion internacional, interdisciplinaria, abierta, no propietaria, y sin fines de lucro creada por la comunidad de investigación para el beneficio de todas las partes interesadas, incluyendo las nuestras y las organizaciones que apoyan el ecosistema de investigación.
+**ORCiD** -- Un código numérico utilizado para identificar de forma única a los autores y colaboradores de comunicación científica. Los investigadores proporcionan un ORCiD para sus publicaciones y membresía de asociaciones. ORCiD también es una organización internacional, interdisciplinaria, abierta, no propietaria, y sin fines de lucro creada por la comunidad de investigación para el beneficio de todas las partes interesadas, incluyendo las nuestras y las organizaciones que apoyan el ecosistema de investigación.
 
 **Identificadores persistentes (PIDs, por sus siglas en inglés)** - Una referencia digital de larga duración para una entidad.
 

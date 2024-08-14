@@ -121,7 +121,7 @@ Estas pautas son de alto nivel y, al igual que la ciencia abierta, tienen matice
 
 ### Plan de gestión de datos
 
-La lección anterior describe los requisitos de un plan de gestión de datos (PGD) (en inglés, *Data Management Plan*, DMP). Debajo hay dos recursos cientificos abiertos para empezar a crear un plan de gestión de datos:
+La lección anterior describe los requisitos de un plan de gestión de datos (PGD) (en inglés, *Data Management Plan*, DMP). Debajo hay dos recursos científicos abiertos para empezar a crear un plan de gestión de datos:
 
 **DMPTool**
 
@@ -223,7 +223,7 @@ Cuestionario en línea (manual) - Ideal para:
 -   Desencadenar debates en las fases iniciales de estudio, considerando la implementación de los principios FAIR.
 -   Identificar áreas de mejora
 
-Lor resultados incluyen:
+Los resultados incluyen:
 
 -   Barra de progreso para cada principio FAIR
 -   Barra de progreso agregada para todos los principios
@@ -237,7 +237,7 @@ Mejor para:
 -   Escalabilidad a muchos conjuntos de datos
 -   Identificar áreas de mejora
 
-Lor resultados incluyen:
+Los resultados incluyen:
 
 -   Un gráfico con puntuaciones y detalles
 
