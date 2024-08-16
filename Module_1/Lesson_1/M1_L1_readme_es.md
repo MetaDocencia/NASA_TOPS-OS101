@@ -2,19 +2,19 @@
 
 ## Contenidos
 
-- [Motivación por la ciencia abierta](#motivation-for-open-science)
-- [¿Qué es la ciencia abierta?](#what-is-open-science)
-- [¿Quién realiza ciencia abierta?](#¿-who-does-open-science?)
-- [Lección 1: Resumen](#lesson-1-summary)
-- [Lección 1: Evaluación](#lesson-1-knowledge-check)
+- [Motivación por la Ciencia Abierta](#motivacion-para-la-ciencia-abierta)
+- [¿Qué es la Ciencia Abierta?](#que-es-la-ciencia-abierta)
+- [¿Quién practica la Ciencia Abierta?](#quien-practica-la-ciencia-abierta)
+- [Lección 1: Resumen](#leccion-1-resumen)
+- [Lección 1: Evaluación](#leccion-1-evaluacion)
 
 ## Descripción general
 
-En esta lección vas a ver con más detalle lo que significa la Ciencia Abierta, así como los objetivos y los resultados que se persiguen al adoptarla tanto de forma individual o como parte de una comunidad más amplia. A continuación, revisarás ejemplos de Ciencia Abierta en acción. Finalmente, la lección concluye con un análisis más detallado de por qué es necesario adoptar la Ciencia Abierta.
+En esta lección vas a ver con más detalle lo que significa la Ciencia Abierta, así como los objetivos y los resultados que se persiguen al adoptarla tanto de forma individual o como parte de una comunidad más amplia. A continuación, revisarás ejemplos de Ciencia Abierta en acción. Finalmente, la lección concluye con un análisis más detallado de por qué es necesario adoptar la Ciencia Abierta.
 
 ## Objetivos de aprendizaje
-``
-Después de completar este módulo, deberías poder:
+
+Después de completar esta lección, deberías poder:
 
 - Explicar cuáles son los motivos y los objetivos para hacer Ciencia Abierta.
 - Definir qué es la Ciencia Abierta.
@@ -22,9 +22,9 @@ Después de completar este módulo, deberías poder:
 
 ## Motivación por la Ciencia Abierta
 
-¡Bienvenido al primer módulo del programa 101 de Ciencia Abierta de TOPS! El Módulo 1 tiene cinco lecciones que presentan información sobre el Ethos de la Ciencia Abierta. Esto se refiere a las motivaciones y a las mejores prácticas para hacer la ciencia más abierta. Este curso ha sido posible gracias al trabajo del equipo de Transfórmate a la Ciencia Abierta (TOPS) de la NASA, a los expertos en Ciencia Abierta (SMEs) y a toda la comunidad de TOPS (más de 3100 personas). Todas las imágenes se citan al final de cada módulo.
+¡Te damos la bienvenida al primer módulo del programa Introducción a la Ciencia Abierta de TOPS! El Módulo 1 tiene cinco lecciones que presentan información sobre el Ethos de la Ciencia Abierta. Esto se refiere a las motivaciones y a las mejores prácticas para hacer a la ciencia más abierta. ¡Este curso ha sido posible gracias al trabajo del equipo de Transfórmate a la Ciencia Abierta (TOPS) de la NASA, a los expertos en Ciencia Abierta y a toda la comunidad de TOPS (más de 3100 personas)! Por favor, ten en cuenta que todas las imágenes se citan al final de cada módulo.
 
-¡Estamos muy contentos de que esté aquí!
+¡Estamos muy felices de que estés aquí!
 
 Esta es la primera lección del módulo sobre el Ethos de la Ciencia Abierta. Comencemos explicando la palabra "ethos".
 
@@ -38,9 +38,9 @@ Esta es la primera lección del módulo sobre el Ethos de la Ciencia Abierta. Co
 
 Esta lección describe y muestra aquello que hace que la Ciencia Abierta, en tanto perspectiva de producción de conocimiento, sea única y se distinga de otros enfoques científicos.
 
-Note que «ethos» no es lo mismo que «ética», sin embargo es un término lo suficientemente amplio que permite incluir las actitudes morales de las personas o instituciones que practican Ciencia Abierta. Para delimitar el aspecto moral de este asunto, hablaremos en adelante de "Ciencia Abierta responsable".
+Ten en cuenta que «ethos» no es lo mismo que «ética», sin embargo es un término lo suficientemente amplio que permite incluir las actitudes morales de las personas o instituciones que practican Ciencia Abierta. Para enfatizar el aspecto moral de este asunto, hablaremos en adelante de "ciencia abierta responsable".
 
-La lección introduce el concepto de Ciencia Abierta en su conjunto explicando su motivación, definición y funcionamiento. A continuación, se repasan los distintos componentes de la ciencia y los pilares que los conforman. En este módulo, habremos explorado cómo la ética en la Ciencia Abierta nos guía sobre cómo compartir, otorgar crédito adecuadamente y colaborar. "Practica la regla de oro": trata a los demás como te gustaría que te trataran a ti en su situación.
+La lección introduce el concepto de Ciencia Abierta en su conjunto explicando su motivación, definición y funcionamiento. A continuación, se repasan los distintos componentes de la ciencia y los pilares que los conforman. En este módulo, habremos explorado cómo la ética en la Ciencia Abierta nos guía sobre cómo compartir, otorgar crédito adecuadamente y colaborar. "Practica la regla de oro": trata a la otras personas como te gustaría que te trataran a ti en su situación.
 
 El programa de este curso está basado en el trabajo realizado por diferentes personas alrededor del mundo y de distintos campos de investigación que allanaron el camino hacia la Ciencia Abierta. Este reconocimiento de la Ciencia Abierta como un paso necesario para igualar el acceso al conocimiento y acelerar la investigación ha inspirado a la NASA a contribuir. Las mejores prácticas, los indicadores de rendimiento y los principios básicos establecidos por la comunidad mundial de Ciencia Abierta son la base de nuestro enfoque actual.
 
@@ -48,21 +48,21 @@ El programa de este curso está basado en el trabajo realizado por diferentes pe
 
 La NASA financia algunas de las investigaciones más diversas de cualquier agencia federal y tiene un historial de intercambio de investigaciones y resultados que se remontan al Programa Apolo en los años '60. El programa Transformación a la Ciencia Abierta de la NASA comparte directrices y buenas prácticas para la Ciencia Abierta que son aplicables y beneficiosas en toda su gama de esfuerzos de investigación.
 
-La NASA financia la investigación en campos desde la astrobiología hasta la física, pasando por la ciencia básica hasta la ingeniería aplicada. Los conjuntos de datos de la NASA incluyen biología, química, ciencias ambientales, geología y otros campos relacionados con la exploración planetaria, ya sea robótica como humana, la evolución estelar y la búsqueda de la vida extraterrestre.
+La NASA financia la investigación en campos desde la astrobiología hasta la física, pasando por la ciencia básica hasta la ingeniería aplicada. Los conjuntos de datos de la NASA incluyen biología, química, ciencias ambientales, geología y otros campos relacionados con la exploración planetaria robótica y humana, la evolución estelar y la búsqueda de vida extraterrestre.
 
 <img src="../images/media/image238_es.png" style="width: 350px; height: auto;" />
 
-Las prácticas y principios de la Ciencia Abierta que desempeñan un papel fundamental en el éxito de las misiones de la NASA son igualmente relevantes para otras agencias e instituciones gubernamentales. En diversos contextos científicos se necesitan criterios, enfoques y comportamientos similares. Las herramientas para los marcos y los flujos de trabajo basados en la Ciencia Abierta siguen, por lo general, modelos similares.
+Las prácticas y principios de la Ciencia Abierta que desempeñan un papel fundamental en el éxito de las misiones de la NASA son igualmente relevantes para otras agencias e instituciones gubernamentales. Se necesitan consideraciones, enfoques y comportamientos similares en diversos contextos científicos. Las herramientas para los marcos y los flujos de trabajo basados en la Ciencia Abierta siguen, por lo general, modelos similares.
 
-Las prácticas y principios de la Ciencia Abierta pueden aplicarse a todas las fases del proceso de investigación. Uno de los primeros ejemplos de los esfuerzos de la NASA por implicar a más personas en la ciencia es [<u>el proyecto de ciencia ciudadana de búsqueda de exoplanetas</u>](https://exoplanets.nasa.gov/citizen-science/). El proyecto de [Búsqueda de exoplanetas](https://www.zooniverse.org/projects/ianc2/exoplanet-explorers) planteó las siguientes preguntas:
+Las prácticas y principios de la Ciencia Abierta pueden aplicarse a todas las fases del proceso de investigación. Uno de los primeros ejemplos de los esfuerzos de la NASA por implicar a más personas en la ciencia es [<u>el proyecto de ciencia ciudadana de búsqueda de exoplanetas</u>](https://exoplanets.nasa.gov/citizen-science/). El proyecto de [Búsqueda de exoplanetas](https://www.zooniverse.org/projects/ianc2/exoplanet-explorers) planteó las preguntas:
 
 - ¿Los planetas pequeños (como Venus) son más comunes que los grandes (como Saturno)?
-- ¿Los planetas de órbitas más cortas (como Mercurio) son más comunes que los de órbitas más largas (como Marte)?
-- ¿Es más frecuente que haya planetas alrededor de estrellas como el Sol o alrededor de las enanas rojas, que son más numerosas, frías y pequeñas?
+- ¿Los planetas de órbitas más cortas (como Mercurio) son más comunes que los que tienen órbitas largas (como Marte)?
+- ¿Existen planetas más comúnmente alrededor de estrellas como el Sol, o alrededor de enanas rojas que son más numerosas, frías y pequeñas?
 
-<img src="../images/media/image266_es.png" style="width: 100%; height: auto;" />
+<img src="../images/media/image266_es.jpg" style="width: 100%; height: auto;" />
 
-"Stargazing Live", fue un programa de televisión emitido en vivo, durante tres noches consecutivas en 2017. Los conductores invitaban a los televidentes a participar en la investigación clasificando sistemas solares a partir de un conjunto de datos de acceso público. En las 48 horas posteriores al estreno del programa, más de 10.000 personas participaron en la [búsqueda de exoplanetas](https://www.zooniverse.org/projects/ianc2/exoplanet-explorers) y clasificaron más de 2 millones de sistemas.
+"Stargazing Live", fue un programa de televisión emitido en vivo, durante tres noches consecutivas en 2017. Quienes conducían invitaban a la audiencia a participar en la investigación clasificando sistemas solares a partir de un conjunto de datos de acceso público. En las 48 horas posteriores al estreno del programa más de 10.000 personas participaron en [Exoplanets Explorers](https://www.zooniverse.org/projects/ianc2/exoplanet-explorers) (_Exploradores/as de exoplanetas_) y clasificaron más de 2 millones de sistemas.
 
 Tras la primera noche del programa quienes investigaban observaron los resultados, mientras los ciudadanos ayudaban a analizar los datos. La segunda noche el número de participantes fue el suficiente para que las personas investigadoras pudieran compartir los datos de los planetas candidatos que ya habían sido marcados y que estaban siendo objeto de un análisis adicional: 44 planetas del tamaño de Júpiter, 72 planetas del tamaño de Neptuno, 44 planetas del tamaño de la Tierra y 53 subneptunianos (mayores que la Tierra pero menores que Neptuno).
 
@@ -72,7 +72,7 @@ Tras la primera noche del programa quienes investigaban observaron los resultado
 
 Históricamente, factores como el tiempo, el acceso a suficientes herramientas y datos, y la proximidad física limitaba quiénes podrían involucrarse en la ciencia; así como la facilidad con la que podría llevarse a cabo la colaboración dentro de la comunidad científica. Más recientemente, recursos digitales como lo es Internet han aumentado la participación al eliminar las barreras de acceso y ofrecer una plataforma para una colaboración digital a escala mundial. Internet permitió a la población acceder a la infraestructura adecuada para desarrollar una ciencia abierta, al mismo tiempo que las prácticas de Ciencia Abierta hicieron posible que más personas se involucraran con los resultados producidos por la investigación. lamentablemente, aún quedan desafíos por superar para quienes no disponen de las herramientas informáticas adecuadas o no dominan determinados idiomas.
 
-Internet genera numerosos espacios públicos para albergar archivos y acceder de forma gratuita a datos e investigaciones. Estos espacios, junto con los avances informáticos, permiten que casi cualquier persona pueda realizar análisis de datos complejos. Ahora es posible conectar a participantes, partes interesadas y los resultados de la Ciencia Abierta en Internet para que los procesos y productos científicos sean más fáciles de encontrar y acceder.
+Internet genera numerosos espacios públicos para albergar archivos y acceder de forma gratuita a datos e investigaciones. Estos espacios, junto con los avances informáticos, permiten que casi cualquier persona pueda realizar análisis de datos complejos. Ahora es posible conectar a participantes y partes interesadas y los resultados de la Ciencia Abierta en Internet para que los procesos y productos científicos sean más fáciles de encontrar y acceder.
 
 ### ¿Por qué deberíamos hacer Ciencia Abierta ahora?
 
@@ -80,7 +80,7 @@ La ciencia y la comunicación científica se enfrentan cada vez más al rechazo 
 
 **Reproduce resultados**
 
-La ciencia es más sólida y precisa cuando los científicos validan los resultados de sus colegas. Sin embargo, el rápido crecimiento del conjunto de investigaciones publicadas supone un reto abrumador para la replicación:
+La ciencia es más robusta y precisa cuando la comunidad científica valida los resultados de sus colegas. Sin embargo, el rápido crecimiento del conjunto de investigaciones publicadas supone un reto abrumador para la reproducibilidad:
 
 Fuente: [https://www.pnas.org/doi/full/10.1073/pnas.1708290115](https://www.pnas.org/doi/full/10.1073/pnas.1708290115)
 
@@ -91,7 +91,7 @@ Fuente: [https://www.pnas.org/doi/full/10.1073/pnas.1708290115](https://www.pnas
 
 <img src="../images/media/image242_es.png" style="width: 350px; height: auto;" />
 
-<img src="../images/media/image218_es.png" style="width:0.16667in;height:0.16667in" /> **No <img src="../images/media/image270_es.png" style="width:0.16667in;height:0.16667in" /> Si**
+<img src="../images/media/image218_es.png" style="width:0.16667in;height:0.16667in" /> **No <img src="../images/media/image270.png" style="width:0.16667in;height:0.16667in" /> Si**
 
 **Los resultados abiertos permiten la iteración y mejoran la detección de errores**
 
@@ -107,7 +107,7 @@ Las intenciones del grupo inicial de investigadores no era ocultar o impedir el 
 
 **La publicación tradicional limita la participación**
 
-Históricamente, los editores científicos han cobrado tarifas de suscripción para acceder a las publicaciones y, a menudo, cargos por publicación de artículos (APC, por sus siglas en inglés) para cubrir los costos de preparación de un artículo para la impresión (incluso cuando los revisores ofrecían voluntariamente su tiempo). Estas prácticas limitan no sólo a quién puede leer los documentos sino también a quién puede publicar resultados.
+Históricamente, las editoriales científicas han cobrado tarifas de suscripción para acceder a las publicaciones y, a menudo, cargos por publicación de artículos (APC, por sus siglas en inglés) para cubrir los costos de preparación de un artículo para la impresión (incluso cuando los revisores ofrecían voluntariamente su tiempo). Estas prácticas limitan no sólo a quién puede leer los documentos sino también a quién puede publicar resultados.
 
 La publicación de Acceso Abierto ha aumentado significativamente el número de artículos que están disponibles como copias digitales en línea. Un número cada vez mayor de gobiernos y agencias de financiación están comenzando a establecer que la investigación que es financiada por los contribuyentes debe ser accesible al público luego de su publicación. Sin embargo, el actual sistema híbrido sigue siendo deficiente a la hora de asignar los gastos de forma equitativa a lo largo del proceso de publicación de los trabajos de investigación (más información al respecto en el Módulo 5).
 
@@ -115,16 +115,17 @@ La posibilidad de saber quién tiene acceso a los artículos publicados también
 
 <img src="../images/media/image369_es.png" style="width: 100%; height: auto;" />
 
-Fuente: [https://www.unesco.org/en/articles/can-science-be-more-equitable-so-everyone-enjoys-benefits-open-science-answer](https://www.unesco.org/en/articles/can-science-be-more-equitable-so-everyone-enjoys-benefits-open-science-answer)
+Fuente (en inglés): [https://www.unesco.org/en/articles/can-science-be-more-equitable-so-everyone-enjoys-benefits-open-science-answer](https://www.unesco.org/en/articles/can-science-be-more-equitable-so-everyone-enjoys-benefits-open-science-answer)
 
 ## ¿Qué es la Ciencia Abierta?
 
 Pero, ¿qué es exactamente la Ciencia Abierta? Para ilustrar, primero presentaremos una definición que fue desarrollada en 2023 por el [gobierno federal](https://open.science.gov/) de los Estados Unidos. 
+
 <img src="../images/media/whitehouse2022_es.jpg">
 
-«La ciencia abierta es el principio y la práctica de poner a disposición de todos, los resultados y procesos de investigación, respetando las diversas culturas, manteniendo la seguridad, la privacidad y fomentando las colaboraciones, la reproducibilidad y la equidad.»
+"La Ciencia Abierta es el principio y la práctica de hacer los resultados y procesos de investigación disponibles para todas las personas, respetando las diversas culturas, manteniendo la seguridad, la privacidad, y fomentando colaboraciones, la reproducibilidad y la equidad"
 
-**Memorándum de la Oficina de Política Científica y Tecnología de la Casa Blanca, 2022 (adaptado)**
+**Memorándum de la Oficina de Política Científica y Tecnológica de la Casa Blanca, 2022 (adaptado)**
 
 ---
 
@@ -163,9 +164,9 @@ En esta actividad, reflexiona sobre tus respuestas a las preguntas y luego compa
 
 <img style="width:350px;height:auto;" src="../images/media/lightbulb_es.png">
 
-- ¿Cómo es el acto de la Ciencia Abierta? ¿El científico utiliza o crea algo específico que caracterice su investigación como un caso de investigación abierta? ¿Qué se te ocurre?
-- Describe cómo compartes actualmente tus recursos (datos, código, resultados)?
-- ¿Cómo podrías compartir tus recursos de una forma más abierta en el futuro?
+- ¿Cómo es el acto de la Ciencia Abierta? ¿Una persona que hace ciencia usa o crea algo específico que caracterice su investigación como un caso de investigación abierta? ¿Qué se te ocurre?
+- Describe cómo compartes actualmente tus materiales (datos, código, resultados)?
+- ¿Cómo podrías compartir tus materiales de una forma más abierta en el futuro?
 - ¿Qué te impide hacerlo?
 
 **Conclusiones Clave:**
@@ -183,9 +184,9 @@ Los objetivos de la Ciencia Abierta incluyen:
 - Producir resultados equitativos.
 - Garantizar un control adecuado de los datos que utilices, elabores o compartas a lo largo de tu proceso de investigación, y cumplir las directrices normativas, reglamentarias y legales sobre su divulgación.
 - Fomentar relaciones respetuosas con las comunidades culturalmente diversas que puedan proveer o interactuar con tus datos, software y resultados.
-- Comprometerse activamente con las comunidades interesadas en aumentar la representación y la interacción a lo largo de sus investigaciones. Las personas que formen parte de cualquier comunidad que provea datos deben ser quienes determinen los beneficios, daños y futuros usos potenciales, basándose en los valores y prioridades de su comunidad.
+- Comprometerse activamente con las comunidades interesadas para aumentar su representación y concepciones en tus trabajos de investigación. Las personas que formen parte de cualquier comunidad que provea datos deben ser quienes determinen los beneficios, daños y futuros usos potenciales, basándose en los valores y prioridades de su comunidad.
 
-### Fomentar Colaboraciones, Reproducibilidad y Equidad
+### Fomentar colaboraciones, reproducibilidad y equidad
 
 La IDEA de la Ciencia Abierta: Inclusiva, Diversa, Equitativa y Accesible.
 
@@ -197,11 +198,11 @@ Compartir se basa en la creencia de que el acceso a la información y la capacid
 
 El intercambio abierto permite una mayor transparencia en el proceso científico, facilita la reproducibilidad, permite la colaboración y la inclusión de perspectivas y conocimientos más diversos y hace que el conocimiento científico sea más accesible al público.
 
-El compartir de manera abierta no sólo ayuda a la sociedad, sino que también puede beneficiarnos a cada una de las personas que investigamos. Puede dar una mayor visibilidad, repercusión y crédito a sus resultados, datos y programas informáticos; puede facilitar el acceso a nuevas colaboraciones e ideas, y puede cumplir responsabilidades éticas y sociales.
+El compartir de manera abierta no sólo ayuda a la sociedad, sino que también puede beneficiarnos a cada una de las personas que investigamos. Puede llevar a una mayor visibilidad, impacto y crédito de tus resultados, datos y software; puede proporcionar acceso a nuevas colaboraciones e ideas y puede cumplir con responsabilidades éticas y sociales.
 
 ### Actividad 1.2: Definición de Ciencia Abierta
 
-#### Relacione las partes de la definición de OSTP con el concepto relevante de IDEA/Respetando diversidad cultural.
+#### Conecta las partes de la definición de OSTP con el concepto relevante de IDEA/Respetar la diversidad cultural.
 
 <table>
   <tbody><tr>
@@ -218,12 +219,11 @@ El compartir de manera abierta no sólo ayuda a la sociedad, sino que también p
 
 "La Ciencia Abierta es el principio y práctica de hacer los resultados y procesos de investigación _____ para todas las personas, respetando culturas diversas, manteniendo la seguridad, privacidad, y fomentando colaboraciones, reproducibilidad y equidad"
 
-\- La Oficina de Ciencia y
-Política de Tecnología (OSTP) Memo, 2022
+\- \*\*Memorándum de la Oficina de Política Científica y Tecnológica de la Casa Blanca (OSTP por sus siglas en inglés), 2022 \*\*
 
-#### Según la Oficina de Ciencia y Tecnología de la Casa Blanca, la apertura de la ciencia promueve...
+#### Según la Oficina de Política Científica y Tecnológica de la Casa Blanca, la apertura de la ciencia promueve...
 
-Seleccione todas las opciones que correspondan.
+Selecciona todas las opciones que correspondan.
 
 - Colaboración
 - Competición
@@ -236,22 +236,22 @@ Seleccione todas las opciones que correspondan.
 <table>
   <thead>
     <tr>
-        <th>EJEMPLO 1: LAS PERSONAS CIUDADANAS DEDICADAS A LA CIENCIA IMPULSAN NUEVOS MÉTODOS DE INVESTIGACIÓN</th>
+        <th>EJEMPLO 1: LA CIUDADANÍA DEDICADA A LA CIENCIA IMPULSA NUEVOS MÉTODOS DE INVESTIGACIÓN ☑</th>
         <th>EJEMPLO 2 : DATOS DE RADAR PARA VIGILAR EL CAMBIO CLIMÁTICO</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="2">
-            <p>JunoCam es una cámara/telescopio que está a bordo de la nave espacial Juno que orbita alrededor de Júpiter. Se añadió a Juno específicamente para personas ciudadanas científicas y fines de divulgación pública.</p>
+            <p>JunoCam es una cámara/telescopio que está a bordo de la nave espacial Juno que orbita alrededor de Júpiter. Se añadió a Juno específicamente para comunidades de ciencia ciudadana y con fines de divulgación pública.</p>
             <p>El propósito original de la cámara no era hacer ciencia, sólo observar. Sin embargo, se dio acceso a personas ciudadanas científicas, quiénes procesaron las fotografías ensamblando las distintas series de imágenes de JunoCam. La participación de la comunidad científica ciudadana ayudó a incrementar la utilidad de la cámara y <a href="https://www.nasa.gov/missions/europa-clipper/citizen-scientists-enhance-new-europa-images-from-nasas-juno/">llevó a un éxito imprevisto</a>. Las icónicas imágenes de Júpiter y Europa creadas por estas personas ciudadanas científicas, han intrigado e inspirado a personas de todo el mundo.</p>
-            <p>Los datos recogidos también beneficiaron a la ciencia tradicional.</p>
-            <p>"Prácticamente todo lo que estamos aprendiendo sobre las estructuras y la dinámica de las nubes de Júpiter procede de imágenes publicadas", afirma Candice Hansen, científica planetaria y responsable de JunoCam. Hansen explica: "El equipo está procesando algunas imágenes por sí mismo, pero al no disponer de personal para ello, el equipo de investigación confía en el trabajo de la ciudadanía científica"</p>
+            <p>Los datos recogidos también beneficiaron a la ciencia tradicional:</p>
+            <p>"Prácticamente todo lo que estamos aprendiendo sobre las estructuras y la dinámica de las nubes de Júpiter procede de imágenes editadas publicamente", afirma Candice Hansen, científica planetaria y responsable de JunoCam. Hansen explica: "El equipo está procesando algunas imágenes por sí mismo, pero al no disponer de personal para ello, el equipo de investigación confía en el trabajo de la ciudadanía científica"</p>
             <p>El equipo de la nave espacial Juno hizo posible una ciencia nueva e inesperada gracias a unos datos abiertos y de fácil acceso. La participación pública aportó nuevas perspectivas y amplió la capacidad del equipo para llevar a cabo valiosas investigaciones.</p>
             <p>Créditos:</p>
             <p>Datos de la imagen: NASA/JPL-Caltech/SwRI/MSSS</p>
             <p>Procesamiento de imágenes: Navaneeth Krishnan S ©️ CC BY</p>
-            <p><img src="../images/media/image243_es.jpg" style="width: 100%; height: auto;"/></p>
+            <p><img src="../images/media/image243.jpg" style="width: 100%; height: auto;"/></p>
         </td>
     </tr>
   </tbody>
@@ -277,15 +277,15 @@ Seleccione todas las opciones que correspondan.
             </ul>
             <p>El enorme tamaño del conjunto de datos, más de 250 TB, hacía prácticamente imposible realizar análisis a gran escala. Nadie tenía tiempo para hacer estas solicitudes y descargar los datos poco a poco.</p>
             <p><strong>Sin embargo, en 2015, todos los datos de NEXRAD se trasladaron a la nube y se pusieron a disposición libremente. El uso del conjunto de datos aumentó casi de inmediato</strong></p>
-            <p>Las personas investigadoras empezaron a utilizar los datos del NEXRAD para otros tipos de ciencia. Por ejemplo, utilizaron las lecturas del radar <a href="https://aws.amazon.com/blogs/publicsector/the-birds-in-the-cloud-how-the-university-of-oklahoma-uses-nexrad-data-to-study-birds/">NEXRAD de las aves para controlar los patrones de vuelo.</a> ¡En particular, de los martines pescadores! Los martines pescadores forman enormes colonias de hasta 50.000 aves que pueden rastrearse utilizando el radar. Los martines pescadores realizan impresionantes espectáculos aéreos que pueden seguirse con la misma tecnología antes reservada a las mediciones de la lluvia.</p>
-            <p>En otro ejemplo de los nuevos usos del NEXRAD, un estudio dirigido por la NASA relacionó la variabilidad <a href=https://climate.nasa.gov/news/3201/climate-patterns-thousands-of-miles-away-affect-us-bird-migration/?s2=P1382021636_1683417608248277265>ben la migración de las aves con patrones climáticos a gran escala que se originan a miles de kilómetros</a>. Cuanto mejor comprendan las personas que gestionan el territorio las pautas migratorias actuales y prevean los cambios de comportamiento de estas aves debido al cambio climático, mejor podrán dirigir sus esfuerzos de conservación y restauración del hábitat. Los datos de radar recientemente accesibles proporcionan una visión valiosa necesaria para lograr sus objetivos. Este estudio fue financiado por la NASA, utiliza los datos de NOAA NEXRAD, y está completamente disponible por primera vez por el programa de datos públicos de AWS (AWS Public data program).</p>
+            <p>Las personas investigadoras empezaron a utilizar los datos del NEXRAD para otros tipos de ciencia. Por ejemplo, utilizaron las lecturas del radar <a href="https://aws.amazon.com/blogs/publicsector/the-birds-in-the-cloud-how-the-university-of-oklahoma-uses-nexrad-data-to-study-birds/">NEXRAD de las aves para controlar los patrones de vuelo.</a> ¡En particular, de las golondrinas púrpuras! Las golondrinas púrpuras forman enormes colonias de hasta 50.000 aves que pueden rastrearse utilizando el radar. Las golondrinas púrpuras realizan impresionantes espectáculos aéreos que pueden seguirse con la misma tecnología antes reservada a las mediciones de la lluvia.</p>
+            <p>En otro ejemplo de los nuevos usos del NEXRAD, un estudio dirigido por la NASA relacionó la variabilidad <a href=https://climate.nasa.gov/news/3201/climate-patterns-thousands-of-miles-away-affect-us-bird-migration/?s2=P1382021636_1683417608248277265>en la migración de las aves con patrones climáticos a gran escala que se originan a miles de kilómetros</a>. Cuanto mejor comprendan las personas que gestionan el territorio las pautas migratorias actuales y prevean los cambios de comportamiento de estas aves debido al cambio climático, mejor podrán dirigir sus esfuerzos de conservación y restauración del hábitat. Los datos de radar recientemente accesibles proporcionan una visión valiosa necesaria para lograr sus objetivos. Este estudio fue financiado por la NASA, utiliza los datos de NOAA NEXRAD, y está completamente disponible por primera vez por el programa de datos públicos de AWS (AWS Public data program).</p>
             <p>La ciencia del futuro hace que los datos sean tan fáciles de usar que permite hacer nuevas preguntas, y responderlas rápidamente para beneficiar a la sociedad y a la política.</p>
         </td>
     </tr>
   </tbody>
 </table>
 
-### Puntos clave: Definición de Ciencia Abierta
+### Conclusiones clave: Definición de Ciencia Abierta
 
 La Ciencia Abierta es multifacética y puede significar cosas diferentes para diferentes personas. Algunas personas que investigan pueden pensar en la Ciencia Abierta como publicaciones de acceso abierto o como ciencia ciudadana. En este módulo, y más ampliamente en este plan de estudios, dejamos claro que la Ciencia Abierta engloba todos estos diversos aspectos. Ahora mismo, puede que te sientas más cómodo con algunos aspectos de la Ciencia Abierta que con otros, ¡y eso está bien! Esperamos que entiendan mejor el alcance y los matices de la Ciencia Abierta al final de este plan de estudios, y también comprendan las ventajas de hacer Ciencia Abierta, como hemos empezado a comentar en esta sección. Específicamente, la creciente cantidad de información sobre procesos y productos científicos disponible en línea permite el acceso de un abanico mucho más amplio de personas y comunidades para utilizar, realizar y compartir investigaciones y resultados científicos.
 
@@ -314,7 +314,7 @@ _Selecciona cada pestaña para obtener más información._
   <tbody>
     <tr>
         <td colspan="3">
-            <p>A menudo se considera a quienes investigan como quienes hacen Ciencia Abierta para beneficiar a otras personas. Sin embargo, las propias personas investigadoras también pueden beneficiarse considerablemente de la Ciencia Abierta. Su trabajo puede lograr una mayor visibilidad entre colegas y el público, reciben reconocimiento por toda una serie de actividades relacionadas con su ciencia (incluido el tiempo dedicado a compartir datos y código, por ejemplo) y tienen más acceso a los conjuntos de datos.</p>
+             <p>A menudo se considera a quienes investigan como quienes hacen Ciencia Abierta para beneficiar a otras personas. Sin embargo, las propias personas investigadoras también pueden beneficiarse considerablemente de la Ciencia Abierta. Su trabajo puede lograr una mayor visibilidad entre colegas y el público, reciben reconocimiento por toda una serie de actividades relacionadas con su ciencia (incluido el tiempo dedicado a compartir datos y código, por ejemplo) y tienen más acceso a los conjuntos de datos.</p>
             <p>Un equipo de promoción y colaboración permite que esta investigación se lleve a cabo. La Ciencia Abierta pretende incluir a estos miembros de apoyo en el proceso científico y garantizar que se les reconozca su contribución a la mejora de la ciencia.</p>
         </td>
     </tr>
@@ -324,7 +324,7 @@ _Selecciona cada pestaña para obtener más información._
 <table>
   <thead>
     <tr>
-        <th>INVESTIGADORES</th>
+        <th>PERSONAS INVESTIGADORAS</th>
         <th>DECISORES DE POLÍTICAS ☑</th>
         <th>PÚBLICO GENERAL</th>
     </tr>
@@ -332,7 +332,7 @@ _Selecciona cada pestaña para obtener más información._
   <tbody>
     <tr>
         <td colspan="3">
-            <p>Quienes se abocan a la confección de políticas representan a otra comunidad clave en el entorno científico. Las personas responsables de las políticas pueden hacer referencia a los hallazgos científicos para sustentar sus decisiones en pos de mejorar la sociedad. Quienes contribuyen a la comprensión y difusión de estas políticas (incluidos el sector educativo y del periodismo científico) son cruciales en este proceso. Las personas responsables de la formulación de políticas también pueden desempeñar papeles importantes a la hora de asegurar y facilitar la Ciencia Abierta, estableciendo procesos de gestión de datos, fomentando la legislación sobre acceso abierto, y desarrollando pautas éticas para los experimentos. Las personas responsables de la formulación de políticas pueden beneficiarse de la Ciencia Abierta al obtener un mejor acceso a la producción científica mediante el intercambio abierto de los resultados de investigación.</p>
+                        <p>Quienes se abocan a la confección de políticas representan a otra comunidad clave en el entorno científico. Las personas responsables de las políticas pueden hacer referencia a los hallazgos científicos para sustentar sus decisiones en pos de mejorar la sociedad. Quienes contribuyen a la comprensión y difusión de estas políticas (incluidos el sector educativo y del periodismo científico) son cruciales en este proceso. Las personas responsables de la formulación de políticas también pueden desempeñar papeles importantes a la hora de asegurar y facilitar la Ciencia Abierta, estableciendo procesos de gestión de datos, fomentando la legislación sobre acceso abierto, y desarrollando pautas éticas para los experimentos. Las personas responsables de la formulación de políticas pueden beneficiarse de la Ciencia Abierta al obtener un mejor acceso a la producción científica mediante el intercambio abierto de los resultados de investigación.</p>
         </td>
     </tr>
   </tbody>
@@ -341,7 +341,7 @@ _Selecciona cada pestaña para obtener más información._
 <table>
   <thead>
     <tr>
-        <th>INVESTIGADORES</th>
+        <th>PERSONAS INVESTIGADORAS</th>
         <th>DECISORES DE POLÍTICAS</th>
         <th>PÚBLICO GENERAL ☑</th>
     </tr>
@@ -349,7 +349,8 @@ _Selecciona cada pestaña para obtener más información._
   <tbody>
     <tr>
         <td colspan="3">
-            <p>El público desempeña hoy un papel crucial en la ciencia como consumidor de resultados científicos que toma decisiones basadas en resultados científicos, y adhiere a políticas modeladas por éstos. La Ciencia Abierta puede hacer que los resultados científicos, los datos y los flujos de trabajo sean más accesibles al público reforzando las vías de acceso a fuentes de información fiables, lo que a su vez aumenta la confianza en la ciencia. El público también puede formar parte de la Ciencia Abierta a través de proyectos de ciencia comunitaria, por ejemplo, voluntariamente para recolectar o administrar datos. Como resultado, quienes participan aumentan su comprensión de la ciencia y se sienten empoderados mediante oportunidades para ejercer influencia.</p>
+                        <p>El público desempeña hoy un papel crucial en la ciencia como consumidor de resultados científicos que toma decisiones basadas en resultados científicos, y adhiere a políticas modeladas por éstos. La Ciencia Abierta puede hacer que los resultados científicos, los datos y los flujos de trabajo sean más accesibles al público reforzando las vías de acceso a fuentes de información fiables, lo que a su vez aumenta la confianza en la ciencia. El público también puede formar parte de la Ciencia Abierta a través de proyectos de ciencia comunitaria, por ejemplo, voluntariamente para recolectar o administrar datos. Como resultado, quienes participan aumentan su comprensión de la ciencia y se sienten empoderados mediante oportunidades para ejercer influencia.</p>
+
         </td>
     </tr>
   </tbody>
@@ -367,7 +368,7 @@ En esta actividad, reflexiona sobre tus respuestas a las preguntas y luego compa
 - ¿Qué podría ayudar a aumentar la apertura?
 - ¿Qué se interpone en el camino?
 
-**Principales Conclusiones: Cómo la Ciencia cerrada te afecta**
+**Conclusiones clave: Cómo la ciencia cerrada te afecta**
 
 Algunos informes de observación son difíciles de replicar debido a la singularidad de las observaciones o a consideraciones éticas (por ejemplo, eventos astronómicos únicos y observaciones ecológicas a largo plazo, o experimentos accidentales como choques y liberaciones involuntarias de contaminantes).
 
