@@ -6,7 +6,7 @@
 - [La propiedad intelectual](#la-propiedad-intelectual)
 - [Políticas y Prácticas en torno a la Ciencia Abierta](#politicas-y-practicas-en-torno-a-la-ciencia-abierta)
 - [Lección 3: Resumen](#leccion-3-resumen)
-- [Lección 3: Evalulación](#Lección-3-evaluacion)
+- [Lección 3: Evaluación](#Lección-3-evaluacion)
 
 ## Resumen
 
