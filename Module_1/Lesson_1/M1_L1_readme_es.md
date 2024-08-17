@@ -2,7 +2,7 @@
 
 ## Contenidos
 
-- [Motivación por la Ciencia Abierta](#motivacion-por-la-ciencia-abierta)
+- [Motivación por la Ciencia Abierta](#motivaci%C3%B3n-por-la-ciencia-abierta)  
 - [¿Qué es la Ciencia Abierta?](#que-es-la-ciencia-abierta)
 - [¿Quién practica la Ciencia Abierta?](#quien-practica-la-ciencia-abierta)
 - [Lección 1: Resumen](#leccion-1-resumen)
