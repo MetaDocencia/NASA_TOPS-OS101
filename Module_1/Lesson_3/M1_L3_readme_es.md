@@ -3,7 +3,7 @@
 ## Contenidos
 
 - [Mantener la seguridad y proteger la privacidad](#mantener-la-seguridad-y-proteger-la-privacidad)
-- [Propiedad intelectual](#propiedad-intelectual)
+- [La propiedad intelectual](#la-propiedad-intelectual)
 - [Políticas y Prácticas en torno a la Ciencia Abierta](#politicas-y-practicas-en-torno-a-la-ciencia-abierta)
 - [Lección 3: Resumen](#leccion-3-resumen)
 - [Lección 3: Validación de conocimientos](#Lección-3-Validación-de-conocimientos)
