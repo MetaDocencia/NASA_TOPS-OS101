@@ -27,7 +27,7 @@ Al finalizar esta lección deberías ser capaz de:
 
 **Harlan Krumholz,**
 
-\*\*Escuela de Medicina de Yale, Reunión CZI, 2022. \*\*
+**Escuela de Medicina de Yale, Reunión CZI, 2022.**
 
 <img src="../images/media/harlanquote_es.jpg">
 
@@ -39,7 +39,7 @@ En la lección anterior, aprendimos sobre conceptos fundacionales que definen la
 
 Esta lección presenta una perspectiva sobre el desarrollo de la ciencia centrada en la intersección de los resultados científicos, el proceso de creación y las partes interesadas que constituyen la comunidad.
 
-Además, destaca los beneficios de la Ciencia Abierta en una amplia gama de grupos de interesados, junto con ejemplos que invitan a los lectores a investigar más. La leección explora también los desafíos más usuales a la hora de adoptar prácticas en Ciencia Abierta.
+Además, destaca los beneficios de la Ciencia Abierta en una amplia gama de grupos de interesados, junto con ejemplos que invitan a los lectores a investigar más. La lección explora también los desafíos más usuales a la hora de adoptar prácticas en Ciencia Abierta.
 
 <img src="../images/media/image377_es.png" style="width: 100%; height: auto;" />
 
@@ -73,7 +73,8 @@ La ilustración del proyecto Turing Way de Scriberia. Utilizada bajo una licenci
 
 ### Más visibilidad e impacto
 
-Además de mejorar la precisión científica, adherirse a las prácticas científicas abiertas potencialmente ofrece beneficios personales para wuirnrd investigan. La investigación publicada de forma abierta tiene mucho más visibilidad y potencial de impacto con grandes audiencias a través de Internet, que puede llevar a más citas, colaboradores de ideas afines y oportunidades de carrera/financiación, de acuerdo con un [estudio](https://pubmed.ncbi.nlm.nih.gov/27387362/) de 2016.
+Además de mejorar la precisión científica, adherirse a las prácticas científicas abiertas potencialmente ofrece beneficios personales para quienes 
+investigan. La investigación publicada de forma abierta tiene mucho más visibilidad y potencial de impacto con grandes audiencias a través de Internet, que puede llevar a más citas, colaboradores de ideas afines y oportunidades de carrera/financiación, de acuerdo con un [estudio](https://pubmed.ncbi.nlm.nih.gov/27387362/) de 2016.
 
 <img src="../images/media/image263_es.png" style="width:100%;height:auto;" />
 
@@ -83,7 +84,7 @@ Publicar como Acceso Abierto incrementa el número de citas en un 18%, según un
 
 Los artículos que hacen que sus datos sean abiertamente accesibles a través de un enlace directo a un repositorio consiguen aproximadamente 25% más de impacto en la cita, de acuerdo con un estudio de 2020.
 
-Publicar como Acceso Abierto puede tener costos prohibitivos para algunos investigadores dependiendo del lugar. A menudo hay otras opciones que permiten a los autores compartir su trabajo libre y abiertamente. En el Módulo 5 sobre Resultados Abiertos, discutimos algunas de estas otras opciones incluyendo preimpresiones y Acceso Abierto diamante.
+Publicar como Acceso Abierto puede tener costos prohibitivos para quienes investigan dependiendo del lugar. A menudo hay otras opciones que permiten a los autores y autoras compartir su trabajo libre y abiertamente. En el Módulo 5 sobre Resultados Abiertos, discutimos algunas de estas otras opciones incluyendo preimpresiones y Acceso Abierto diamante.
 
 Hay muchos resultados de investigación diferentes que se pueden compartir abiertamente y hacer citables:
 
@@ -94,7 +95,7 @@ Hay muchos resultados de investigación diferentes que se pueden compartir abier
 - Entradas de blog
 - ¡Y más!
 
-¡Todos estos son resultados científicos concretos! Gran parte de nuestro tiempo como investigadores o investigadoras se dedica a escribir código, recopilar datos, preparar clases y no \*solo\* publicaciones. Compartir públicamente materiales hace más probable recibir una cita.
+¡Todos estos son resultados científicos concretos! Gran parte de nuestro tiempo como personas que investigamos se dedica a escribir código, recopilar datos, preparar clases y no \*solo\* publicaciones. Compartir públicamente materiales hace más probable recibir una cita.
 
 <img src="../images/media/image269_es.png" style="width: 100%; height: auto;" />
 
@@ -147,7 +148,7 @@ El gran éxito de SOHO como buscador de cometas depende, por supuesto, de las pe
 
 <img src="../images/media/image268_es.jpg" style="width: 350px; height: auto;" />
 
-Un grupo de astrónomos voluntarios aficionados se dedica a buscar estos datos a través del Proyecto Sungrazer, financiado por la NASA. Mientras que los científicos suelen buscar en las imágenes acontecimientos muy concretos, varios miembros de la comunidad astronómica optan por analizar con detalle todas las imágenes disponibles. Mas de 2.300 cometas han sido encontrados, el 75% de ellos por científicos ciudadanos. Esto creó un gran conjunto de datos que sirven de entrenamiento para algoritmos. Los científicos y científicas de la NASA disponían de algoritmos para encontrar cometas que consideraban suficientemente precisos.
+Un grupo de astrónomos voluntarios aficionados se dedica a buscar estos datos a través del Proyecto Sungrazer, financiado por la NASA. Mientras que los las personas científicas suelen buscar en las imágenes acontecimientos muy concretos, varios miembros de la comunidad astronómica optan por analizar con detalle todas las imágenes disponibles. Más de 2.300 cometas han sido encontrados, el 75% de ellos por personas que hacen Ciencia Ciudadana. Esto creó un gran conjunto de datos que sirven de entrenamiento para algoritmos. Los científicos y científicas de la NASA disponían de algoritmos para encontrar cometas que consideraban suficientemente precisos.
 
 Sin embargo, en 2022, la NASA decidió financiar un desafío abierto al público para desarrollar nuevos algoritmos y, ¿adivina qué? ¡Dos nuevos algoritmos fueron descubiertos juntos con dos cometas nuevos!
 
@@ -173,7 +174,7 @@ La colaboración, la innovación, la educación, el avance tecnológico y las po
 
 <img src="../images/media/image264_es.png" style="width: 350px; height: auto;" />
 
-Las personas científicas estudian cuestiones que afectan a todos los aspectos de la vida. Sin embargo, el interés del público general por la ciencia sigue siendo bajo debido a la falta de confianza, comprensión y factores socioculturales. ¿Cómo pueden esperar quienes investigan que el público general confíe en la ciencia sobre cuestiones complejas y a menudo polémicas -como el desarrollo de vacunas, la llegada a la luna, etcétera- si no permiten que el publico vea el proceso y los resultados obtenidos? Generar confianza en la ciencia es esencial para una sociedad bien informada. La Ciencia Abierta ofrece una vía para lograrlo.
+Las personas científicas estudian cuestiones que afectan a todos los aspectos de la vida. Sin embargo, el interés del público general por la ciencia sigue siendo bajo debido a la falta de confianza, comprensión y factores socioculturales. ¿Cómo pueden esperar quienes investigan que el público general confíe en la ciencia sobre cuestiones complejas y a menudo polémicas -como el desarrollo de vacunas, la llegada a la luna, etcétera- si no permiten que el público vea el proceso y los resultados obtenidos? Generar confianza en la ciencia es esencial para una sociedad bien informada. La Ciencia Abierta ofrece una vía para lograrlo.
 
 El público general que financia la investigación gubernamental a través de los impuestos debería tener derecho a sus resultados y acceso a sus datos, siempre que la seguridad y la protección no sean un problema. La ciencia debe ser más abierta para garantizar que el conocimiento generado beneficie al público que la hace posible.
 
@@ -181,17 +182,17 @@ La Ciencia Abierta incrementa el escrutinio en la investigación lo que ayuda a 
 
 ### La Ciencia Abierta puede acelerar el ritmo al que avanza la ciencia
 
-Las prácticas de Ciencia Abierta aceleran el ritmo de los descubrimientos científicos al introducir ideas y mano de obra de la comunidad en general. La respuesta rápida a la [pandemia de Covid-19 mostró a la Ciencia Abierta en acción para acelerar los descubrimientos](https://www.nejm.org/doi/full/10.1056/NEJMp2034518).
+Las prácticas de Ciencia Abierta aceleran el ritmo de los descubrimientos científicos al introducir ideas y el trabajo de la comunidad en general. La respuesta rápida a la [pandemia de Covid-19 mostró a la Ciencia Abierta en acción para acelerar los descubrimientos](https://www.nejm.org/doi/full/10.1056/NEJMp2034518).
 
 <img src="../images/media/image41_es.png" style="width: 350px; height: auto;" />
 
-En enero de 2020, los investigadores hicieron publica la secuencia inicial del genoma del SARS-CoV-2 a través de una base de datos de libre acceso, creando así un precedente de intercambio de datos y metadatos que más tarde permitiría conocer nuevas variantes de Covid-19. En el NIH crearon una plataforma específica para compartir herramientas de investigación para Covid-19 y animaron a los investigadores a acelerar el registro en ClinicalTrials.gov antes de lo requerido. Los acuerdos de publicación de Ciencia Abierta que apoyan la difusión de pruebas han complementado estas prácticas y políticas. Un día después de que la Organización Mundial de la Salud declarara el Covid-19 emergencia de salud pública, más de 50 editoriales académicas emitieron una declaración conjunta en la que se comprometían a aplicar políticas de Acceso Abierto a la investigación sobre el Covid-19. El apoyo a los servidores de pre-impresión ha fomentado el conocimiento de los éxitos y fracasos de la investigación, y las revistas han contribuido a acelerar la distribución de información procesable, entre otras cosas mediante páginas web dedicadas a Covid-19, la aprobación de articulos pre-impresos y el énfasis en compartir datos con las autoridades de salud pública.
+En enero de 2020, las personas investigadoras hicieron pública la secuencia inicial del genoma del SARS-CoV-2 a través de una base de datos de libre acceso, creando así un precedente de intercambio de datos y metadatos que más tarde permitiría conocer nuevas variantes de Covid-19. En el NIH crearon una plataforma específica para compartir herramientas de investigación para Covid-19 y animaron a los quienes investigaban estos temas a acelerar el registro en ClinicalTrials.gov antes de lo requerido. Los acuerdos de publicación de Ciencia Abierta que apoyan la difusión de pruebas han complementado estas prácticas y políticas. Un día después de que la Organización Mundial de la Salud declarara el Covid-19 emergencia de salud pública, más de 50 editoriales académicas emitieron una declaración conjunta en la que se comprometían a aplicar políticas de Acceso Abierto a la investigación sobre el Covid-19. El apoyo a los servidores de pre-impresión ha fomentado el conocimiento de los éxitos y fracasos de la investigación, y las revistas han contribuido a acelerar la distribución de información procesable, entre otras cosas mediante páginas web dedicadas a Covid-19, la aprobación de artículos pre-impresos y el énfasis en compartir datos con las autoridades de salud pública.
 
 ### La Ciencia Abierta es una ciencia eficiente
 
-La Ciencia Abierta beneficia recíprocamente a los investigadores y las comunidades a las que estos esperan servir. Los datos de una observación o un experimento científico pueden tener usos imprevistos. En la Lección 1, analizamos un ejemplo en el que el uso de datos de radar para rastrear el efecto del cambio climático se utilizaba para seguir la migración de las aves.
+La Ciencia Abierta beneficia recíprocamente a quienes investigan y a las comunidades a las que estas personas esperan servir. Los datos de una observación o un experimento científico pueden tener usos imprevistos. En la Lección 1, analizamos un ejemplo en el que el uso de datos de radar para rastrear el efecto del cambio climático se utilizaba para seguir la migración de las aves.
 
-Según un [informe](https://op.europa.eu/en/publication-detail/-/publication/6bc538ad-344f-11eb-b27b-01aa75ed71a1) de la Comisión Europea de 2020, gracias a las prácticas de Ciencia Abierta se puede evitar el desperdicio en la investigación, tal como la repetición involuntaria y costosa de estudios anteriores. En las ciencias humanas, esto también reduce la fatiga de los participantes a largo plazo. Al maximizar lo que se aprende de los datos disponibles públicamente, no es necesario realizar pruebas repetidamente, especialmente en comunidades ya vulnerables. Al " donar " la ciencia, los individuos, las comunidades y las organizaciones pueden adoptar más fácilmente los resultados de la investigación para orientar las intervenciones a sus propias necesidades sin que los conocimientos queden en manos de los investigadores originales y las organizaciones implicadas. De este modo, la Ciencia Abierta puede reforzar el impacto social y económico de los resultados científicos.
+Según un [informe](https://op.europa.eu/en/publication-detail/-/publication/6bc538ad-344f-11eb-b27b-01aa75ed71a1) de la Comisión Europea de 2020, gracias a las prácticas de Ciencia Abierta se puede evitar el desperdicio en la investigación, tal como la repetición involuntaria y costosa de estudios anteriores. En las ciencias humanas, a largo plazo esto también reduce el cansancio de quienes participan. Al maximizar lo que se aprende de los datos disponibles públicamente, no es necesario realizar pruebas repetidamente, especialmente en comunidades ya vulnerables. Al "donar" la ciencia, los individuos, las comunidades y las organizaciones pueden adoptar más fácilmente los resultados de la investigación para fundamentar las intervenciones a sus propias necesidades sin que los conocimientos queden en manos de las personas investigadoras originales y las organizaciones implicadas. De este modo, la Ciencia Abierta puede reforzar el impacto social y económico de los resultados científicos.
 
 ### La Ciencia Abierta atrae a un conjunto diverso de participantes
 
@@ -201,21 +202,21 @@ Crédito de la imagen: Andy Brunning/Compound Interest. **CC BY-NC-ND 4.0 DEED**
 
 ---
 
-El intercambio abierto de productos y procesos científicos pone la ciencia al alcance de todos. Esto permite la plena participación de todos y también maximiza el número de personas que pueden beneficiarse del trabajo.
+El intercambio abierto de productos y procesos científicos pone la ciencia al alcance de todas las personas. Esto permite la plena participación y también maximiza el número de personas que pueden beneficiarse del trabajo.
 
-La mejor manera de incluir a un grupo diverso de profesionales y partes interesadas en la Ciencia Abierta es eliminar las barreras existentes y diseñar para la inclusión. Más allá de esto, es importante aprender a comunicarse eficazmente con diversos colaboradores, personas con distintos niveles de formación, carreras, antecedentes y áreas de especialización. La capacidad de crear equipos diversos es una habilidad que todo el mundo puede aprender.
+La mejor manera de incluir a un grupo diverso de profesionales y partes interesadas en la Ciencia Abierta es eliminar las barreras existentes y diseñar para la inclusión. Más allá de esto, es importante aprender a comunicarse eficazmente con diversas personas que colaboran, con distintos niveles de formación, carreras, antecedentes y áreas de especialización. La capacidad de crear equipos diversos es una habilidad que todo el mundo puede aprender.
 
 ### Conclusiones principales: Beneficios para la ciencia
 
 - El público general que financia la investigación gubernamental a través de los impuestos debería tener derecho a sus resultados y sus datos, siempre que la seguridad y la protección no sean un problema.
-- La Ciencia Abierta permite que los errores sean corregidos rápidamente y que otros se basen en resultados precisos e impacten en las políticas publicas.
+- La Ciencia Abierta permite que los errores sean corregidos rápidamente y que otros se basen en resultados precisos que impacten en las políticas publicas.
 - La Ciencia Abierta disminuye la repetición involuntaria y costosa de estudios anteriores, acelerando la ciencia que beneficia a la sociedad.
 
 ## Lección 2: Resumen
 
 A continuación se exponen las conclusiones clave de esta lección:
 
-- Citar el trabajo de otros científicos en el que basamos nuestro trabajo o que reutilizamos apoya la práctica de la Ciencia Abierta orientada a la comunidad de usar, hacer y compartir.
+- Citar el trabajo de otras personas científicas en el que basamos nuestro trabajo o que reutilizamos apoya la práctica de la Ciencia Abierta basada en comunidad y orientada a usar, hacer y compartir.
 - Hacer ciencia de forma abierta puede aumentar la visibilidad de la investigación y dar lugar a colaboraciones más significativas.
 - La calidad y la eficiencia de la ciencia mejoran cuando se siguen las mejores prácticas de la Ciencia Abierta.
 - La Ciencia Abierta ayuda a la sociedad al permitir que más personas participen en la ciencia, lo que aumenta la precisión y el impacto de los resultados.
@@ -228,17 +229,17 @@ _Pregunta_
 
 **01/03**
 
-¿Qué beneficios obtienen los investigadores al practicar la Ciencia Abierta?
+¿Qué beneficios obtienen quienes investigan al practicar la Ciencia Abierta?
 
 Selecciona todas las opciones que correspondan.
 
 - Documentar el trabajo
 - Recibir crédito
-- Buscar colaboradores
+- Buscar colaboraciones
 - Acceso prioritario a conferencias científicas internacionales
 - Asegurarse una posición más alta en la jerarquía académica independientemente de su historial de publicaciones
 
-_Pregunta_
+_Pregunta_``
 
 **02/03**
 
@@ -247,7 +248,7 @@ _Pregunta_
 Selecciona todas las opciones que correspondan.
 
 - Ritmo acelerado de la ciencia
-- Mejor exactitud
+- Mayor precisión
 - Menor sesgo de publicación
 - Menos descubrimientos
 
@@ -263,4 +264,4 @@ Selecciona todas las opciones que correspondan.
 - La distribución abierta de resultados precisos reduce la desinformación.
 - La Ciencia Abierta facilita una mayor comprensión y aceptación de las teorías pseudocientíficas.
 - Crea más oportunidades de empleo en campos relacionados con la ciencia, independientemente de la relevancia o la calidad de la investigación.
-- Promueve la comercialización de la investigación académica, lo que se traduce en un aumento de la publicidad de productos en la literatura científica.
+- Promueve la comercialización de la investigación académica, lo que conduce a un aumento de la publicidad de productos en la literatura científica.
