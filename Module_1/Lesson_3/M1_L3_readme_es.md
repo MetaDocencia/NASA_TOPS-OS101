@@ -6,7 +6,7 @@
 - [La propiedad intelectual](#la-propiedad-intelectual)
 - [Políticas y Prácticas en torno a la Ciencia Abierta](#politicas-y-practicas-en-torno-a-la-ciencia-abierta)
 - [Lección 3: Resumen](#leccion-3-resumen)
-- [Lección 3: Validación de conocimientos](#Lección-3-Validación-de-conocimientos)
+- [Lección 3: Evalulación](#Lección-3-evaluacion)
 
 ## Resumen
 
@@ -434,7 +434,7 @@ En esta lección, aprendiste:
 - Qué es la propiedad intelectual, quién la posee, y cómo se protege a través de licencias.
 - Diversas organizaciones dentro del ámbito científico (ej. universidades, editoriales, agencias de financiación, etc.) pueden tener sus propias políticas individuales sobre compartir que es mejor considerar al inicio de un proyecto de investigación para evitar posibles obstáculos en el camino.
 
-## Lección 3: Prueba de Conocimiento
+## Lección 3: Evaluación
 
 Responde las siguientes preguntas para poner a prueba lo que has aprendido hasta ahora.
 
