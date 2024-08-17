@@ -2,7 +2,7 @@
 
 ## Contenidos
 
-- [La Ciencia Abierta Rompe Barreras y Promueve la Innovación](#la-ciencia-abierta-rompe-barreras-y-promueve-la-innovacion)
+- [La Ciencia Abierta rompe barreras y promueve la innovación](#la-ciencia-abierta-rompe-barreras-y-promueve-la-innovacion)
 - [Beneficios individuales](#beneficios-individuales)
 - [Beneficios para la ciencia](#beneficios-para-la-ciencia)
 - [Beneficios para la sociedad](#beneficios-para-la-sociedad)
