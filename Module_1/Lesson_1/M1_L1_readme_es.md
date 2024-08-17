@@ -19,7 +19,7 @@ Después de completar esta lección deberías poder:
 - Explicar cuáles son los motivos y los objetivos para hacer Ciencia Abierta.
 - Definir qué es la Ciencia Abierta.
 - Enumerar diferentes grupos que practican Ciencia Abierta.
-
+``
 ## Motivación por la Ciencia Abierta
 
 ¡Te damos la bienvenida al primer módulo del programa Introducción a la Ciencia Abierta de TOPS! El Módulo 1 tiene cinco lecciones que presentan información sobre el Ethos de la Ciencia Abierta. Esto se refiere a las motivaciones y a las mejores prácticas para hacer a la ciencia más abierta. ¡Este curso ha sido posible gracias al trabajo del equipo de Transfórmate a la Ciencia Abierta (TOPS) de la NASA, a los expertos en Ciencia Abierta y a toda la comunidad de TOPS (más de 3100 personas)! Por favor, ten en cuenta que todas las imágenes se citan al final de cada módulo.
@@ -279,7 +279,7 @@ Selecciona todas las opciones que correspondan.
             <p><strong>Sin embargo, en 2015, todos los datos de NEXRAD se trasladaron a la nube y se pusieron a disposición libremente. ¡El uso del conjunto de datos aumentó casi de inmediato!</strong></p>
             <p>Quienes investigaban empezaron a utilizar los datos del NEXRAD para otros tipos de ciencia. Por ejemplo, utilizaron las lecturas del radar <a href="https://aws.amazon.com/blogs/publicsector/the-birds-in-the-cloud-how-the-university-of-oklahoma-uses-nexrad-data-to-study-birds/">NEXRAD de las aves para controlar los patrones de vuelo.</a> ¡En particular, de las golondrinas púrpuras! Las golondrinas púrpuras forman enormes colonias de hasta 50.000 aves que pueden rastrearse utilizando el radar. Éstas realizan impresionantes espectáculos aéreos que pueden seguirse con la misma tecnología antes reservada a las mediciones de la lluvia.</p>
             <p>En otro ejemplo de los nuevos usos del NEXRAD, un estudio dirigido por la NASA relacionó la variabilidad <a href=https://climate.nasa.gov/news/3201/climate-patterns-thousands-of-miles-away-affect-us-bird-migration/?s2=P1382021636_1683417608248277265>en la migración de las aves con patrones climáticos a gran escala que se originan a miles de kilómetros</a>. Cuanto mejor comprendan las personas que gestionan el territorio las pautas migratorias actuales y prevean los cambios de comportamiento de estas aves debido al cambio climático, mejor podrán dirigir sus esfuerzos de conservación y restauración del hábitat. Los datos de radar recientemente accesibles proporcionan una visión valiosa necesaria para lograr sus objetivos. Este estudio fue financiado por la NASA, utiliza los datos de NOAA NEXRAD, y está completamente disponible por primera vez por el programa de datos públicos de AWS (AWS Public data program).</p>
-            <p>La ciencia del futuro hace que los datos sean tan fáciles de usar que permite hacer nuevas preguntas y responderlas rápidamente en benefiio de la sociedad y las políticas.</p>
+            <p>La ciencia del futuro hace que los datos sean tan fáciles de usar que permite hacer nuevas preguntas y responderlas rápidamente en beneficio de la sociedad y las políticas.</p>
         </td>
     </tr>
   </tbody>
