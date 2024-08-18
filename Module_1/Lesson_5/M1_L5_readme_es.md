@@ -10,7 +10,7 @@
 - [Lección 5: Revisión De Conocimientos](#leccion-5-revision-de-conocimientos)
 - [Resumen de El Ethos de la Ciencia Abierta](#resumen-de-el-ethos-de-la-ciencia-abierta)
 
-## Resumen
+## Descripción general
 
 Este módulo está casi terminado pero hay mucha más información disponible sobre la ciencia abierta, así que nuestra última lección es para quienes quieran aprender más. En esta lección revisaremos formas de comenzar nuestro viaje con la ciencia abierta, incluyendo una lista de recursos que se pueden usar ahora.
 
@@ -23,7 +23,7 @@ Al finalizar esta lección deberías ser capaz de:
 - Diferenciar ejemplos del mundo real sobre cómo un equipo puede usar ciencia abierta.
 - Enumerar cuatro pasos que cualquiera puede tomar para tener un enfoque más abierto.
 
-## Planificando para Ciencia Abierta
+## Planificar para hacer Ciencia Abierta
 
 <img src="../images/media/image329_es.png" style="width: 100%; height: auto;" />
 
@@ -158,7 +158,7 @@ En el caso del software, ya que a menudo se actualiza y cambia, muchos investiga
 
 En el caso de los resultados, las publicaciones de acceso abierto y los servidores de prepublicación son lugares comunes para compartirlos. El Módulo 5 trata todas estas opciones.
 
-### Actividad 5.1: Usar, Hacer, Compartir
+### Actividad 5.1: usar, hacer, compartir
 
 <img style="width:350px;height:auto;" src="../images/media/lightbulb_es.png">
 
@@ -194,7 +194,7 @@ Esto se llevó a cabo como parte del Programa de Ciencia de Liberación Temprana
 
 Veamos qué resultados abiertos fueron producidos,  y mientras lo hacemos, echemos un vistazo a las ventajas de hacerlo en cada etapa.
 
-### Planificando para hacer Ciencia Abierta
+### Planificar para hacer Ciencia Abierta
 
 <img src="../images/media/image193_es.png" style="width: 100%; height: auto;" />
 
@@ -402,7 +402,7 @@ Créditos de imágenes: freepik.com
 
 Además de los recursos mencionados en otras partes de esta capacitación, los siguientes recursos comunitarios ofrecen excelente información sobre software abierto.
 
-**Referencias y Guías**
+**Referencias y guías**
 
 - [OpenSciency](https://opensciency.github.io/sprint-content/)
 - [Guía de ciencia de código abierto para investigadores elaborada por NASA](https://smd-cms.nasa.gov/wp-content/uploads/2023/08/smd-open-source-science-guidance-v2-20230407.pdf).
@@ -474,7 +474,7 @@ Selecciona todas las opciones que correspondan.
 - Crea una nueva revista que requiera una costosa suscripción para su lectura.
 - Continúa buscando las mejores prácticas para ciencia abierta y desarrolla planes para una mayor apertura en tu ciencia o investigación.
 
-## Resumen del Ethos de la Ciencia Abierta
+## Resumen del Módulo 1. Ethos de la Ciencia Abierta
 
 ¡Felicitaciones! Ahora, deberías ser capaz de:
 
