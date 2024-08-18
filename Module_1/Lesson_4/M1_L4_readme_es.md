@@ -28,11 +28,11 @@ Al finalizar la lección deberías ser capaz de:
 
 <img style="width:350px;height:auto;" src="../images/media/lightbulb_es.png">
 
-Tómese un momento para pensar en los temores o preocupaciones que genera adoptar la Ciencia Abierta. Estas podrían ser preocupaciones que ha experimentado en su trabajo o temores sobre ser más abiertos en el futuro. No existen respuestas equivocadas aquí: este es un momento para reflexionar sobre lo que podría estar impidiendo que se haga Ciencia Abierta.
+Tómate un momento para pensar en los temores o preocupaciones que genera adoptar la Ciencia Abierta. Estas podrían ser preocupaciones que has experimentado en tu trabajo o temores sobre ser más abiertos en el futuro. No existen respuestas equivocadas aquí: este es un momento para reflexionar sobre lo que podría estar impidiéndote hacer Ciencia Abierta.
 
 **Algunos temores alrededor de adoptar prácticas de Ciencia Abierta**
 
-Luego de reflexionar sobre algunas preocupaciones o temores en torno a la Ciencia Abierta, a continuación hemos enumerado algunos temores comunes a la hora de hacer Ciencia Abierta y algunas posibles estrategias de mitigación. Aunque no se trate de un miedo personal, puede ser útil pensar en las distintas preocupaciones que pueden tener los demás para comprenderlas mejor e incluso ayudarles a abordarlas.
+Ahora que has refelxionado sobre algunas preocupaciones o temores en torno a la Ciencia Abierta, a continuación enumeramos algunos temores comunes a la hora de hacer Ciencia Abierta y algunas posibles estrategias de mitigación. Aunque no se trate de un temor que tengas, puede ser útil pensar en las distintas preocupaciones que pueden tener otras personas para comprenderlas mejor e incluso ayudarlas a abordarlas.
 
 **Mesa:** Temores Comunes Sobre la Ciencia Abierta
 
@@ -49,35 +49,35 @@ Luego de reflexionar sobre algunas preocupaciones o temores en torno a la Cienci
 </thead>
 <tbody>
     <tr>
-        <td><strong>Errores:</strong> Que ocurre si mi trabajo es incorrecto?</td>
+        <td><strong>Errores:</strong> ¿Qué ocurre si mi trabajo es incorrecto?</td>
         <td>
-            <p>Puede resultar intimidante compartir públicamente el material de investigación, dado que alguien podría encontrar un error. Pero, ¿no es mejor para la ciencia si podemos encontrar y corregir rápidamente errores? La revisión por pares es un pilar básico del método científico y un mecanismo para que otros ayuden a encontrar y corregir errores. Para que esto funcione, debemos estar más abiertos a encontrar y corregir errores. Es cierto que en muchas comunidades científicas un error se considera un fracaso. Sin embargo, las políticas de la Ciencia Abierta pretenden que los errores dejen de percibirse como un fracaso y se conviertan en una etapa del proceso de descubrimiento que puede verse favorecida por la retroalimentación abierta de la comunidad.</p>
+            <p>Compartir públicamente el material de investigación puede resultar intimidante, dado que alguien podría encontrar un error. Pero, ¿no es mejor para la ciencia si podemos encontrar y corregir errores rápidamente? La revisión por pares es un pilar básico del método científico y un mecanismo para que otros ayuden a encontrar y corregir errores. Para que esto funcione, debemos estar más abiertos a encontrar y corregir errores. Es cierto que en muchas comunidades científicas un error se considera un fracaso. Sin embargo, las políticas de la Ciencia Abierta pretenden que los errores dejen de percibirse como un fracaso y se conviertan en una etapa del proceso de descubrimiento que puede verse favorecida por la retroalimentación abierta de la comunidad.</p>
         </td>
     </tr>
     <tr>
         <td><strong>Apropiación:</strong> ¿Qué ocurre si alguien utiliza mi trabajo y obtiene el crédito?</td>
         <td>
-            <p>Si, esto puede ocurrir.</p>
-            <p>Depositar un trabajo de manera temprana y hacerlo citable son formas de establecer ese trabajo como suyo.</p>
-            <p>Esto sirve como evidencia de cuándo se ha empezado a trabajar en él y facilita que otros lo citen. Los detalles de cómo hacerlo se proporcionan en los siguientes módulos.</p>
-            <p>Sin embargo, en muchos campos, si está claro que alguien está trabajando activamente en un tópico, la decisión de otro de robarlo puede significar una ganancia a corto pero una pérdida a largo plazo. En ciencia, la reputación es muy importante y la colaboración generalmente conduce a éxitos profesionales mayores. Lea más sobre la apropiación <a href="https://datascience.codata.org/articles/10.5334/dsj-2017-029">aquí</a>.</p>
+            <p>Sí, esto puede ocurrir.</p>
+            <p>Depositar un trabajo de manera temprana y hacerlo citable son formas de establecer que ese trabajo es tuyo.</p>
+            <p>Esto sirve como evidencia de cuándo comenzaste a trabajar en él y facilita que otros lo citen. Los detalles de cómo hacerlo se proporcionan en los siguientes módulos.</p>
+            <p>Sin embargo, en muchos campos, si está claro que alguien está trabajando activamente en un tópico, la decisión de otro de <apropiarlo puede significar una ganancia a corto pero una pérdida a largo plazo. En ciencia, la reputación es muy importante y la colaboración generalmente conduce a éxitos profesionales mayores. Lea más sobre la apropiación <a href="https://datascience.codata.org/articles/10.5334/dsj-2017-029">aquí</a>.</p>
         </td>
     </tr>
     <tr>
         <td><strong>Interpretación incorrecta de mi trabajo.</strong></td>
         <td>
             <p>Esto puede ocurrir independientemente de la forma o la apertura del trabajo; muchas publicaciones han terminado siendo malinterpretadas.</p>
-            <p>La apertura ayuda a dar un contexto más amplio al trabajo. La documentación del plan de investigación y de las prácticas de gestión de software permite a los demás comprender el trabajo en su totalidad y, por tanto, ayuda a reducir el riesgo de que otros lo malinterpreten. Por ejemplo, si se comparte código, se puede incluir una descripción de lo que hace el código, junto con breves instrucciones de uso y ejemplos. En el módulo 4, hablaremos de la documentación adecuada de los datos y el código, que puede ayudar a reducir las interpretaciones erróneas.</p>
+            <p>La apertura ayuda a dar un contexto más amplio al trabajo. La documentación del plan de investigación y de las prácticas de gestión de software permite a los demás comprender el trabajo en su totalidad y, por tanto, ayuda a reducir el riesgo de que otras personas lo malinterpreten. Por ejemplo, si compartes código, puedes incluir una descripción de lo que hace el código junto con breves instrucciones de uso y ejemplos. En el módulo 4, hablaremos de la documentación adecuada de los datos y el código, que puede ayudar a reducir las interpretaciones erróneas.</p>
         </td>
     </tr>
     <tr>
         <td><strong>Mi trabajo será usado, pero no citado.</strong></td>
         <td>
-            <p>La ética de la ciencia dicta que todo trabajo utilizado debe ser citado. Parte de la Ciencia Abierta consiste en valorar todos los pasos del flujo de trabajo científico y animar a los investigadores a citar el código, los datos u otros artículos no publicados. Se puede facilitar que otros citen un trabajo añadiendo un identificador de objeto digital (DOI, del que hablaremos más adelante en el curso) al producto de investigación. Es importante recordar citar los materiales de otros, y de esta manera no sumar a el problema.</p>
+            <p>La ética de la ciencia dicta que todo trabajo utilizado debe ser citado. Parte de la Ciencia Abierta consiste en valorar todos los pasos del flujo de trabajo científico y animar a quienes investigan a citar el código, los datos u otros artículos no publicados. Se puede facilitar que otros citen un trabajo añadiendo un identificador de objeto digital (DOI, del que hablaremos más adelante en el curso) al producto de investigación. Es importante recordar citar los materiales de otras personas, y de esta manera no sumar al problema.</p>
         </td>
     </tr>
     <tr>
-        <td><strong>Los datos son demasiado sensibles para compartir.</strong></td>
+        <td><strong>Los datos son demasiado sensibles para ser compartidos.</strong></td>
         <td>
             <p>Una anonimización adecuada o el uso de un acceso controlado pueden resolver este problema.</p>
         </td>
@@ -85,13 +85,13 @@ Luego de reflexionar sobre algunas preocupaciones o temores en torno a la Cienci
     <tr>
         <td><strong>No quiero mantener o actualizar mi trabajo.</strong></td>
         <td>
-            <p>Compartir lo hecho permite a otros reproducir, reduplicar y construir sobre el trabajo. Esto no significa que sea necesario mantenerlo para el resto de la vida, o simplemente mantenerlo. Si no se planea mantener un código, se recomienda compartir el código públicamente y archivarlo. Añadiendo las pautas de las licencias, documentación y contribución apropiadas, se puede dejar claro cuánto tiempo se planea mantener el material actualizado (si es que lo hace). De hecho - ¡otros podrían ayudar a mantenerlo!</p>
+            <p>Compartir lo que hiciste les permite a otras personas reproducir, reduplicar y construir sobre tu trabajo. Esto no significa que sea necesario mantenerlo para el resto de tu vida, o simplemente mantenerlo. Si no planeas mantener el código, se recomienda compartirlo públicamente y archivarlo. Al añadir las pautas de las licencias, documentación y contribución apropiadas, puedes dejar claro cuánto tiempo planeas mantener el material actualizado (si es que lo haces). De hecho ¡otras personas podrían ayudar a mantenerlo!</p>
         </td>
     </tr>
     <tr>
         <td><strong>Mi trabajo no será útil para nadie más.</strong></td>
         <td>
-            <p>Nunca se sabe cómo se pueden utilizar los materiales. Hay personas que aportaron una amplia variedad de proyectos de software, sin relación aparente entre ellos, y terminaron ayudando a la NASA a aterrizar un vehículo en Marte!</p>
+            <p>Nunca se sabe cómo los materiales pueden ser usados. ¡Hay personas que aportaron una amplia variedad de proyectos de software, sin relación aparente entre ellos y terminaron ayudando a la NASA a aterrizar un vehículo en Marte!</p>
         </td>
     </tr>
 </tbody>
@@ -101,19 +101,19 @@ Parcialmente extraído de [las "Diez Lecciones contra la Ciencia Abierta que pue
 
 Algunos de los temores mencionados anteriormente no son exclusivos de la Ciencia Abierta y pueden ocurrir en sistemas científicos cerrados. Por ejemplo, la apropiación y la reutilización sin citaciones son dos ejemplos de mala conducta científica que pueden ocurrir en escenarios científicos cerrados. Las prácticas de la Ciencia Abierta pueden ofrecer más recursos, como poner a disposición un artículo preimpreso o dar a sus datos o código un DOI y una licencia. El hecho de que más trabajos tuyos se compartan de forma citable te da más poder para demostrar cuándo se ha producido una conducta indebida.
 
-Otro ejemplo del miedo que se produce tanto en espacios abiertos como cerrados es el compromiso de mantener tu trabajo abierto incluso luego de la publicación. El mantenimiento es un punto a tener en cuenta independientemente de si el trabajo se ha compartido: se debe decidir durante cuánto tiempo se almacenarán los datos y el código para poder reproducir el trabajo, en caso de que surja alguna duda incluso después de la publicación (tratamos el tema de compartir y archivar datos y código en los módulos posteriores, Datos Abiertos y Código Abierto). Al compartir los materiales de investigación, se puede aumentar la longevidad y el impacto de lo realizado, si otros consideran que los materiales son útiles y ayudan a mantener y construir sobre los mismos.
+Otro ejemplo del temor que se produce tanto en ámbitos abiertos como cerrados es el compromiso de mantener tu trabajo incluso luego de la publicación. El mantenimiento es un punto a tener en cuenta independientemente de si el trabajo se ha compartido: se debe decidir durante cuánto tiempo se almacenarán los datos y el código para poder reproducir el trabajo, en caso de que surja alguna duda incluso después de la publicación (tratamos el tema de compartir y archivar datos y código en los módulos posteriores, Datos Abiertos y Código Abierto). Al compartir los materiales de investigación, se puede aumentar la longevidad y el impacto de lo realizado, si otras personas consideran que tus materiales son útiles y ayudan a mantenerlos y construir sobre ellos.
 
-Reconocemos que ésta no es una lista exhaustiva de preocupaciones y temores hacia la adopción de la Ciencia Abierta. La NASA ha desarrollado este módulo del plan de estudios TOPS para proporcionar orientación e infundir confianza a los investigadores que tienen la intención de hacer su trabajo más abiertamente de aquí en adelante.
+Reconocemos que ésta no es una lista exhaustiva de preocupaciones y temores hacia la adopción de la Ciencia Abierta. La NASA ha desarrollado este módulo del plan de estudios TOPS para proporcionar orientación e infundir confianza a las personas investigadoras que tienen la intención de abrir más su trabajo de aquí en adelante.
 
-## Incentivos Mal Alineados
+## Incentivos mal alineados
 
-Anteriormente, debatimos algunos temores y preocupaciones de adoptar la Ciencia Abierta. En esta sección, discutiremos barreras que bloquean la participación en la Ciencia Abierta que se derivan de estructuras de incentivos mal alineadas. Dichas estructuras se refieren a incentivos científicos para individuos y organizaciones, y no están alineadas con valores abiertos.
+Anteriormente, debatimos algunos temores y preocupaciones de adoptar la Ciencia Abierta. En esta sección, discutiremos barreras que bloquean la participación en la Ciencia Abierta que se derivan de estructuras de incentivos mal alineadas. Dichas estructuras se refieren a incentivos científicos para individuos y organizaciones, que no están alineadas con valores vinculados a la apertura.
 
-Distinguimos entre preocupaciones y temores; por un lado, aquellos asociados a cambiar la cultura de cómo hacemos ciencia, y por otro, aquellos vinculados a las barreras estructurales que bloquean la capacidad de los investigadores para adoptar prácticas de Ciencia Abierta. Reconocemos que estas categorías se solapan, pero el encuadre puede ser útil para entender qué es lo que controlamos como individuos, y en qué aspectos debemos fomentar cambios más estructurales en nuestro ecosistema científico.
+Distinguimos entre preocupaciones y temores; por un lado, aquellos asociados a cambiar la cultura de cómo hacemos ciencia y, por otro, aquellos vinculados a las barreras estructurales que bloquean la capacidad de los investigadores para adoptar prácticas de Ciencia Abierta. Reconocemos que estas categorías se solapan, pero el encuadre puede ser útil para entender qué es lo que controlamos como individuos, y en qué aspectos debemos fomentar cambios más estructurales en nuestro ecosistema científico.
 
-### Descripción General: Alineamiento Erróneo de Incentivos
+### Descripción General: Alineamiento erróneo de incentivos
 
-Los incentivos pueden llegar en muchas formas, pero la mayoría de los científicos buscan financiación de propuestas y promoción profesional. En ambos casos, las métricas se utilizan para medir el éxito científico (por ejemplo, la publicación y el recuento de citas, como se ha comentado anteriormente en este curso). Estas mediciones actuales no reflejan todo el impacto de las actividades que llevan adelante los científicos. A continuación, presentamos algunos ejemplos de incentivos mal alineados. Aunque todavía no hay respuestas perfectas para superarlas, agencias como la NASA e iniciativas como [DORA](https://sfdora.org/) y [COARA](https://coara.eu/) están trabajando activamente para actualizar estas métricas que definen lo que significa el éxito en la ciencia, y será necesaria la acción de la comunidad para garantizar que las prácticas abiertas e inclusivas reciban el mérito que merecen.
+Los incentivos pueden presentarse de muchas formas, pero -en el ámbito científico- la mayoría implican financiación de propuestas y promoción profesional. En ambos casos, se utilizan métricas para medir el éxito científico (por ejemplo, número de publicaciones y citas, como se ha comentado anteriormente en este curso). Estas mediciones actuales no reflejan todo el impacto de las actividades que llevan adelante quienes hacen ciencia. A continuación, presentamos algunos ejemplos de incentivos mal alineados. Aunque todavía no hay respuestas perfectas para superar el problema, agencias como la NASA e iniciativas como [DORA](https://sfdora.org/) y [COARA](https://coara.eu/) están trabajando activamente para actualizar estas métricas que definen lo que significa el éxito en la ciencia y, para esto, será necesaria la acción de la comunidad para garantizar que las prácticas abiertas e inclusivas reciban el mérito que merecen.
 
 #### Desafío: Sobrevalorar la Novedad
 
