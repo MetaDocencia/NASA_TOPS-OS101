@@ -8,7 +8,7 @@
 - [Lección 3: Resumen](#leccion-3-resumen)
 - [Lección 3: Evaluación](#Lección-3-evaluacion)
 
-## Resumen
+## Descripción general
 
 La capacidad de discernir cuándo y cómo compartir información de forma adecuada es una habilidad esencial de la Ciencia Abierta. Las personas que mantienen prácticas en Ciencia Abierta deben equilibrar su búsqueda entre la máxima apertura, el respeto a las diversas culturas, el mantenimiento de la seguridad, la privacidad, y el cumplimiento de las políticas y prácticas institucionales.
 
@@ -120,7 +120,7 @@ Comprender estas cuestiones es importante para practicar la Ciencia Abierta y ga
 
 Al principio, preocuparse por la propiedad intelectual y los derechos de autoría puede parecer un detalle innecesario. Sin embargo, anticiparse a los cambios en tu situación asegurando la propiedad permanente de tu trabajo en la fase de planificación de tu investigación, te puede ayudar a evitar problemas legales e institucionales más adelante.
 
-Si envías tu manuscrito a una editorial que exige ser la dueña de los derechos de la obra, ¿Podrás acceder a esa publicación cuando cambies de trabajo y ya no tengas una suscripción a esa obra? ¿Puedes cumplir los mandatos de tu organismo de financiación para compartir abiertamente tu trabajo? ¿Puedes reutilizar las figuras que has hecho en obras derivadas? ¿Podrán otros acceder a tu trabajo? Aunque parezcan cuestiones por las que no deberías preocuparte, pueden resultar muy difíciles de afrontar luego.
+Si envías tu manuscrito a una editorial que exige ser la dueña de los derechos de la obra, ¿Podrás acceder a esa publicación cuando cambies de trabajo y ya no tengas una suscripción a esa obra? ¿Puedes cumplir los mandatos de tu organismo de financiación para compartir abiertamente tu trabajo? ¿Puedes reutilizar las figuras que has hecho en obras derivadas? ¿Podrán otras personas acceder a tu trabajo? Aunque parezcan cuestiones por las que no deberías preocuparte, pueden resultar muy difíciles de afrontar luego.
 
 Ejemplo: En los escenarios en los que se solicita el consentimiento antes de compartir (o se modifican las condiciones para compartir), puede resultar complejo aplicar los cambios. Biopython, un conjunto de herramientas de biología de Código Abierto, comenzó a licenciar su código de nuevo en 2016, y [siguen trabajando en él en 2023, colaborador individual por colaborador individual](https://github.com/biopython/biopython/issues/898).
 
@@ -128,7 +128,7 @@ Ejemplo: En los escenarios en los que se solicita el consentimiento antes de com
 
 ### Licenciar
 
-El licenciamiento es una forma de ayudar a otros a reutilizar tu trabajo legalmente. Es una forma de especificar en qué condiciones, si las hay, otras personas pueden utilizar, desarrollar o distribuir tu trabajo. También es un método para garantizar que tu trabajo reciba el crédito adecuado. Por lo general, reutilizar contenidos sin licencia es ilegal y puede constituir una falta de ética académica, aunque éstos puedan encontrarse en Internet. Esta ley protege a las personas que crean contenido al igual que protege tu trabajo de ser utilizado sin un permiso explícito. Afortunadamente, es fácil permitir que otras personas reutilicen tu trabajo.
+El licenciamiento es una forma de ayudar a los demás a reutilizar tu trabajo legalmente. Es una forma de especificar en qué condiciones, si las hay, otras personas pueden utilizar, desarrollar o distribuir tu trabajo. También es un método para garantizar que tu trabajo reciba el crédito adecuado. Por lo general, reutilizar contenidos sin licencia es ilegal y puede constituir una falta de ética académica, aunque éstos puedan encontrarse en Internet. Esta ley protege a las personas que crean contenido al igual que protege tu trabajo de ser utilizado sin un permiso explícito. Afortunadamente, es fácil permitir que otras personas reutilicen tu trabajo.
 
 <img style="width:100%;height:auto;" src="../images/media/knowledgebasequote_es.jpg">
 
@@ -385,7 +385,7 @@ Las universidades y otras instituciones pueden contar con oficinas de política 
 
 ### Temprano es mejor
 
-Es importante considerar qué políticas pueden afectar tus resultados de investigación tan pronto como sea posible, de modo que cuando desees compartirlos, ya hayas obtenido las aprobaciones necesarias o sepas dónde solicitarlas. Esto asegura que no compartas inadvertidamente (o dejes de compartir) algo que pueda afectar tu carrera, impactar negativamente a otros o plantear problemas legales.
+Es importante considerar qué políticas pueden afectar tus resultados de investigación tan pronto como sea posible, de modo que cuando desees compartirlos, ya hayas obtenido las aprobaciones necesarias o sepas dónde solicitarlas. Esto asegura que no compartas inadvertidamente (o dejes de compartir) algo que pueda afectar tu carrera, impactar negativamente a otras personas o plantear problemas legales.
 
 **Recuerda:** ¡No puedes dejar de compartir algo que ya está compartido! Del mismo modo, si tu investigación requiere aprobación ética o consentimiento para ser compartida, podría ser más difícil obtenerlo después de haber completado el estudio.
 
@@ -428,7 +428,7 @@ En esta actividad reflexiona sobre tus respuestas a las siguientes preguntas:
 
 ## Lección 3: Resumen
 
-En esta lección, aprendiste:
+En esta lección aprendiste:
 
 - Situaciones cuando puede ser inapropiado o perjudicial compartir tus datos o investigación. Estas incluyen el mantenimiento de la seguridad, la protección de la intimidad y el respeto de comunidades diversas.
 - Qué es la propiedad intelectual, quién la posee, y cómo se protege a través de licencias.
