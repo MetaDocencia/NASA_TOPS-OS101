@@ -4,18 +4,18 @@
 
 ## Acerca de este modulo
 
-Te damos la bienvenida a este módulo introductorio sobre ciencia abierta. La ciencia abierta es el principio y la práctica que se llevan adelante para que los productos y procesos de investigación estén disponibles para todas las personas, respetando la diversidad cultural, manteniendo la seguridad y la privacidad y fomentando la colaboración, la reproducibilidad y la equidad. En este módulo, analizaremos más en profundidad lo que es la ciencia abierta, su panorama actual, así como los beneficios y desafíos que atraviesa. A continuación, comenzaremos a acercarnos a las prácticas de la ciencia abierta y conoceremos un caso de estudio. Para comenzar tu recorrido en la ciencia abierta, te presentamos algunas acciones que puedes comenzar a realizar a partir de hoy, por ejemplo: explorar las comunidades con las que puedes trabajar colaborativamente.
+Te damos la bienvenida a este módulo introductorio sobre Ciencia Abierta. La Ciencia Abierta es el principio y la práctica que se llevan adelante para que los productos y procesos de investigación estén disponibles para todas las personas, respetando la diversidad cultural, manteniendo la seguridad y la privacidad y fomentando la colaboración, la reproducibilidad y la equidad. En este módulo, analizaremos más en profundidad lo que es la Ciencia Abierta, su panorama actual, así como los beneficios y desafíos que atraviesa. A continuación, comenzaremos a acercarnos a las prácticas de la Ciencia Abierta y conoceremos un caso de estudio. Para comenzar tu recorrido hacia la Ciencia Abierta, te presentamos algunas acciones que puedes comenzar a realizar a partir de hoy, por ejemplo: explorar las comunidades con las que puedes trabajar colaborativamente.
 
 ### Público objetivo
 
-Este módulo es para cualquier persona que tenga interés en conocer las prácticas de ciencia abierta, sus beneficios y cuáles son las mejores prácticas para comenzar a implementarlas rápidamente.
+Este módulo es para cualquier persona que tenga interés en conocer las prácticas de Ciencia Abierta, sus beneficios y cuáles son las mejores prácticas para comenzar a implementarlas rápidamente.
 
 ### Objetivos de aprendizaje
 
 Después de completar este módulo, deberías poder:
 
-- Explicar qué es la ciencia abierta y por qué se la entiende como una práctica positiva.También deberás poder enumerar algunos de los beneficios y los desafíos que supone la adopción de las prácticas en ciencia abierta.
-- Describir las prácticas de la ciencia abierta, incluídos los puntos más importantes que se deben tener en cuenta a la hora de redactar un plan de gestión así como también las tareas enmarcadas en el enfoque de "Usar, Hacer, Compartir".
+- Explicar qué es la Ciencia Abierta y por qué se la entiende como una práctica positiva.También deberás poder enumerar algunos de los beneficios y los desafíos que supone la adopción de las prácticas en Ciencia Abierta.
+- Describir las prácticas de la Ciencia Abierta, incluídos los puntos más importantes que se deben tener en cuenta a la hora de redactar un plan de gestión así como también las tareas enmarcadas en el enfoque de Usar, Hacer, Compartir.
 - Evaluar las diferentes opciones disponibles a la hora de determinar si los productos de investigación deben o no estar abiertos.
 - Listar formas de conectarse con otras comunidades que forman parte de la comunidad científica abierta.
 
@@ -23,29 +23,29 @@ Después de completar este módulo, deberías poder:
 
 Selecciona el término para ver la descripción.
 
-**Ciencia Abierta** – La ciencia abierta es el principio y la práctica que se llevan adelante para que los productos y procesos de investigación estén disponibles para todas las personas, respetando la diversidad cultural, manteniendo la seguridad y la privacidad y fomentando la colaboración, la reproducibilidad y la equidad.
+**Ciencia Abierta** – La Ciencia Abierta es el principio y la práctica que se llevan adelante para que los productos y procesos de investigación estén disponibles para todas las personas, respetando la diversidad cultural, manteniendo la seguridad y la privacidad y fomentando la colaboración, la reproducibilidad y la equidad.
 
 **Datos abiertos** – Datos que pueden ser libremente utilizados, reutilizados y redistribuidos por cualquier persona. Más información [aquí].(https://opendatahandbook.org/guide/es/what-is-open-data/).
 
 **Código abierto** - Programas informáticos cuyo código fuente está a disposición del público en general para su uso o modificación a partir de su diseño original. Más información [aquí].(https://es.wikipedia.org/wiki/C%C3%B3digo_abierto)
 
-**Acceso abierto** - Acceso gratuito para todas las personas y uso sin restricciones de  la información y de los recursos.  Más información [aquí].(https://www.unesco.org/es/open-access)
+**Acceso Abierto** - Acceso gratuito para todas las personas y uso sin restricciones de  la información y de los recursos.  Más información [aquí].(https://www.unesco.org/es/open-access)
 
 **Interdisciplinario** – Combinar múltiples [disciplinas académicas](https://es.wikipedia.org/wiki/Disciplina_acad%C3%A9mica) en una misma actividad, como, por ejemplo, un proyecto de investigación. Más información [aquí].(https://es.wikipedia.org/wiki/Interdisciplinariedad)
 
 **Equitativo** - Indica la ausencia de diferencias injustas, evitables o remediables entre grupos de personas, tanto si esos grupos se definen social, económica, demográfica o geográficamente como por otras dimensiones de desigualdad (por ejemplo, sexo, género, etnia, discapacidad u orientación sexual). Más información [aquí].(https://www.who.int/health-topics/health-equity)
 
-**Ciencia ciudadana o ciencia comunitaria** - La práctica de la participación ciudadana y la colaboración comunitaria en la investigación para aumentar el conocimiento científico. Más información [aquí].(https://education.nationalgeographic.org/resource/citizen-science/)
+**Ciencia Ciudadana o Ciencia Comunitaria** - La práctica de la participación ciudadana y la colaboración comunitaria en la investigación para aumentar el conocimiento científico. Más información [aquí].(https://education.nationalgeographic.org/resource/citizen-science/)
 
 **Investigación abierta** - Cómo se lleva a cabo la investigación y cómo se comparten los conocimientos basándose en el principio de que la investigación debe ser lo más abierta posible. Más información [aquí].(https://www.ukri.org/what-we-do/supporting-healthy-research-and-innovation-culture/open-research/)
 
-**Investigación abierta** - Término amplio que engloba el intercambio rápido y generalizado de una serie de actividades y resultados académicos en múltiples disciplinas. Más información [aquí].(https://www.heliosopen.org/about)
+**Arpendizaje abierto** - Término amplio que engloba el intercambio rápido y generalizado de una serie de actividades y resultados académicos en múltiples disciplinas. Más información [aquí].(https://www.heliosopen.org/about)
 
 **Reproducibilidad y replicabilidad** - La reproducibilidad se define como la obtención de resultados consistentes utilizando los mismos datos y el mismo código que en un estudio original (sinónimo de reproducibilidad computacional). Replicabilidad refiere a obtener resultados coherentes en todos los estudios destinados a responder a la misma pregunta científica utilizando nuevos datos u otros métodos computacionales. Más información [aquí].(https://www.nationalacademies.org/news/2019/09/reproducibility-and-replicability-in-research)
 
 **Revisión por pares** - Evaluación de un trabajo por parte de una o varias personas con competencias similares a las de los autores del documento, es decir, los pares de los autores. Más información [aquí].(https://es.wikipedia.org/wiki/Revisi%C3%B3n_por_pares)
 
-**Principios FAIR** – Principios para mejorar la Hallabilidad, Accesibilidad, Interoperabilidad y Reutilización de activos digitales. Los principios hacen hincapié en la capacidad de acción de las computadoras (es decir, la capacidad de los sistemas informáticos para encontrar, acceder, interoperar y reutilizar datos sin intervención humana o con una intervención humana mínima) porque las personas dependen cada vez más del apoyo informático para tratar los datos como consecuencia del aumento de su volumen, complejidad y velocidad de creación.
+**Principios FAIR** – Principios para mejorar la Facilidad de encontrar, Accesibilidad, Interoperabilidad y Reutilización de activos digitales. Los principios hacen hincapié en la capacidad de acción de las computadoras (es decir, la capacidad de los sistemas informáticos para encontrar, acceder, interoperar y reutilizar datos sin intervención humana o con una intervención humana mínima) porque las personas dependen cada vez más del apoyo informático para tratar los datos como consecuencia del aumento de su volumen, complejidad y velocidad de creación.
 
 **Métricas (en el contexto del mérito científico)** – Herramientas cuantitativas que se utilizan para ayudar a evaluar la calidad y el impacto de los resultados de la investigación (por ejemplo, artículos científicos, investigadores y mucho más). Más información [aquí](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8397294/) y [aquí].(https://editorresources.taylorandfrancis.com/understanding-research-metrics/)
 
@@ -64,8 +64,8 @@ Más información [aquí].(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3792863/
 
 ### [Lección 1: ¿Qué es la Ciencia Abierta?](./Leccion_1)
 
-- [Motivación por la ciencia abierta](./Leccion_1#motivacion-por-la-ciencia-abierta)
-- [¿Qué es la ciencia abierta?](./Leccion_1#que-es-la-ciencia-abierta)
+- [Motivación por la Ciencia Abierta](./Leccion_1#motivacion-por-la-ciencia-abierta)
+- [¿Qué es la Ciencia Abierta?](./Leccion_1#que-es-la-ciencia-abierta)
 - [¿Quién practica la ciencia abierta?](./Leccion_1#quien-practica-la-ciencia-abierta)
 - [Lección 1: Resumen](./Leccion_1#leccion-1-resumen)
 - [Lección 1: Evaluación](./Leccion_1#leccion-1-evaluacion)
