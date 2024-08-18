@@ -9,7 +9,7 @@
 - [Lección 2: Resumen](#leccion-2-resumen)
 - [Lección 2: Evaluación](#leccion-2-evaluacion)
 
-## Resumen
+## Descripción general
 
 En esta lección aprenderás cómo la adopción de la Ciencia Abierta beneficia a la sociedad y a ti en la investigación. También aprenderemos sobre algunos de los desafíos y obstáculos que se presentan al utilizar los principios de la Ciencia Abierta y cómo superarlos.
 
@@ -120,7 +120,7 @@ En esta actividad, reflexiona sobre tus respuestas a las preguntas y luego compa
 - Los resultados abiertos tienen más visibilidad e impacto.
 - La Ciencia Abierta fomenta más ciencia colaborativa.
 
-## Beneficios a la ciencia
+## Beneficios para la ciencia
 
 ### La ciencia transparente es ciencia reproducible
 
@@ -206,7 +206,7 @@ El intercambio abierto de productos y procesos científicos pone la ciencia al a
 
 La mejor manera de incluir a un grupo diverso de profesionales y partes interesadas en la Ciencia Abierta es eliminar las barreras existentes y diseñar para la inclusión. Más allá de esto, es importante aprender a comunicarse eficazmente con diversas personas que colaboran, con distintos niveles de formación, carreras, antecedentes y áreas de especialización. La capacidad de crear equipos diversos es una habilidad que todo el mundo puede aprender.
 
-### Conclusiones principales: Beneficios para la ciencia
+### Conclusiones clave: Beneficios para la sociedad
 
 - El público general que financia la investigación gubernamental a través de los impuestos debería tener derecho a sus resultados y sus datos, siempre que la seguridad y la protección no sean un problema.
 - La Ciencia Abierta permite que los errores sean corregidos rápidamente y que otros se basen en resultados precisos que impacten en las políticas publicas.
@@ -214,7 +214,7 @@ La mejor manera de incluir a un grupo diverso de profesionales y partes interesa
 
 ## Lección 2: Resumen
 
-A continuación se exponen las conclusiones clave de esta lección:
+Conclusiones principales de esta lección:
 
 - Citar el trabajo de otras personas científicas en el que basamos nuestro trabajo o que reutilizamos apoya la práctica de la Ciencia Abierta basada en comunidad y orientada a usar, hacer y compartir.
 - Hacer ciencia de forma abierta puede aumentar la visibilidad de la investigación y dar lugar a colaboraciones más significativas.
@@ -223,7 +223,7 @@ A continuación se exponen las conclusiones clave de esta lección:
 
 ## Lección 2: Evaluación
 
-Responde a las siguientes preguntas para comprobar lo que has aprendido hasta ahora.
+Responde las siguientes preguntas para poner a prueba lo que has aprendido hasta ahora.
 
 _Pregunta_
 
