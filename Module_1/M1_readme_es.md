@@ -8,7 +8,7 @@ Te damos la bienvenida a este módulo introductorio sobre Ciencia Abierta. La Ci
 
 ### Público objetivo
 
-Este módulo es para cualquier persona que tenga interés en conocer las prácticas de Ciencia Abierta, sus beneficios y cuáles son las mejores prácticas para comenzar a implementarlas rápidamente.
+Este módulo es para cualquiera que tenga interés en conocer las prácticas de Ciencia Abierta, sus beneficios y cuáles son las mejores prácticas para comenzar a implementarlas rápidamente.
 
 ### Objetivos de aprendizaje
 
