@@ -65,7 +65,7 @@ Los productos de investigación bien documentados también demuestran la calidad
 
 Además de documentar tus propias investigaciones, la práctica de dar crédito a todos quienes han contribuido fortalecerá tu reputación en la comunidad científica y actualizará los valores compartidos de la Ciencia Abierta. A medida que las personas ganen confianza en los beneficios de la investigación cooperativa, también comenzarán a dar crédito a más contribuciones que antes podrían no haber sido reconocidas. Las diferentes tareas realizadas en un artículo pueden detallarse en una Declaración de Contribución como la del ejemplo compartido aquí.
 
-<img src="../images/media/image260_es.jpg" style="width: 100%; height: auto;" />
+<img src="../images/media/image260_es.png" style="width: 100%; height: auto;" />
 
 La ilustración del proyecto Turing Way de Scriberia. Utilizada bajo una licencia CC-BY 4.0. DOI: 10.5281/zenodo.3332807.
 
