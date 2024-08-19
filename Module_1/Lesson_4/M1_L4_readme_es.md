@@ -2,22 +2,22 @@
 
 ## Contenidos
 
-- [Temores usuales en torno a la apertura](./Lección_4#temores-usuales-en-torno-a-la-apertura)
-- [Incentivos mal alineados](./Lesson_4#incentivos-mal-alineados)
-- [Barreras sociales](./Lección_4#barreras-sociales)
-- [Barreras institucionales y de infraestructuras](./Lesson_4#barreras-institucional-y-de-infraestructura)
-- [Lección 4: Resumen](./Lesson_4#lesson-4-resumen)
-- [Lección 4: Evaluación](#lección-4-Evaluación)
+- [preocupaciones usuales en torno a la apertura](#preocupaciones-usuales-en-torno-a-la-apertura)
+- [Incentivos mal alineados](#incentivos-mal-alineados)
+- [Barreras sociales](#barreras-sociales)
+- [Barreras institucionales y de infraestructuras](#barreras-institucional-y-de-infraestructura)
+- [Lección 4: Resumen](#lesson-4-resumen)
+- [Lección 4: Evaluación](#lección-4-Evaluacion)
 
 ## Resumen
 
-En esta lección, se considerarán las posibles barreras para adoptar prácticas de Ciencia Abierta. Estas barreras pueden manifestarse en forma de preocupaciones personales, como resultado de desafíos sociales desalineados, o barreras institucionales/infraestructurales. Comenzaremos con un ejercicio para identificar las propias preocupaciones o miedos respecto a adoptar la Ciencia Abierta. Esto conducirá a un debate sobre barreras comunes y estrategias de mitigación.
+En esta lección, se considerarán las posibles barreras para adoptar prácticas de Ciencia Abierta. Estas barreras pueden manifestarse en forma de preocupaciones personales, como resultado de desafíos sociales desalineados, o barreras institucionales/infraestructurales. Comenzaremos con un ejercicio para identificar las propias preocupaciones respecto a adoptar la Ciencia Abierta. Esto conducirá a un debate sobre barreras comunes y estrategias de mitigación.
 
 ## Objetivos de aprendizaje 
 
 Al finalizar la lección deberías ser capaz de:
 
-- Reconocer temores propios y preocupaciones en torno a adoptar la Ciencia Abierta y enumerar las estrategias de mitigación para superarlas.
+- Reconocer preocupaciones en torno a adoptar la Ciencia Abierta y enumerar las estrategias de mitigación para superarlas.
 - Listar las barreras comunes a la práctica de la Ciencia Abierta que surgen de incentivos mal alineados, y las estrategias de mitigación correspondientes.
 - Listar varios desafíos sociales que pueden surgir al practicar la Ciencia Abierta y las estrategias para comunicar eficazmente para superar las diferencias de perspectiva.
 - Listar varias barreras institucionales y de infraestructura para hacer Ciencia Abierta y estrategias de mitigación cuando estén disponibles.
@@ -28,13 +28,13 @@ Al finalizar la lección deberías ser capaz de:
 
 <img style="width:350px;height:auto;" src="../images/media/lightbulb_es.png">
 
-Tómate un momento para pensar en los temores o preocupaciones que genera adoptar la Ciencia Abierta. Estas podrían ser preocupaciones que has experimentado en tu trabajo o temores sobre ser más abiertos en el futuro. No existen respuestas equivocadas aquí: este es un momento para reflexionar sobre lo que podría estar impidiéndote hacer Ciencia Abierta.
+Tómate un momento para pensar en las preocupaciones que genera adoptar la Ciencia Abierta. Estas podrían ser preocupaciones que has experimentado en tu trabajo o sobre adoptar mayor apertura en el futuro. No existen respuestas equivocadas aquí: este es un momento para reflexionar sobre lo que podría estar impidiéndote hacer Ciencia Abierta.
 
-**Algunos temores alrededor de adoptar prácticas de Ciencia Abierta**
+**Algunas preocupaciones alrededor de adoptar prácticas de Ciencia Abierta**
 
-Ahora que has refelxionado sobre algunas preocupaciones o temores en torno a la Ciencia Abierta, a continuación enumeramos algunos temores comunes a la hora de hacer Ciencia Abierta y algunas posibles estrategias de mitigación. Aunque no se trate de un temor que tengas, puede ser útil pensar en las distintas preocupaciones que pueden tener otras personas para comprenderlas mejor e incluso ayudarlas a abordarlas.
+Ahora que has reflexionado sobre algunas preocupaciones en torno a la Ciencia Abierta, a continuación enumeramos algunas preocupaciones comunes a la hora de hacer Ciencia Abierta y algunas posibles estrategias de mitigación. Aunque no se trate de una preocupación que tengas, puede ser útil pensar en las que pueden tener otras personas para comprenderlas mejor e incluso ayudar a abordarlas.
 
-**Mesa:** Temores Comunes Sobre la Ciencia Abierta
+**Mesa:** preocupaciones Comunes Sobre la Ciencia Abierta
 
 <table>
 <colgroup>
@@ -99,15 +99,15 @@ Ahora que has refelxionado sobre algunas preocupaciones o temores en torno a la 
 
 Parcialmente extraído de [las "Diez Lecciones contra la Ciencia Abierta que puedes ganar"](https://www.software.ac.uk/blog/2020-12-17-diez argumentos-against-open-science-you-can-win)
 
-Algunos de los temores mencionados anteriormente no son exclusivos de la Ciencia Abierta y pueden ocurrir en sistemas científicos cerrados. Por ejemplo, la apropiación y la reutilización sin citaciones son dos ejemplos de mala conducta científica que pueden ocurrir en escenarios científicos cerrados. Las prácticas de la Ciencia Abierta pueden ofrecer más recursos, como poner a disposición un artículo preimpreso o dar a sus datos o código un DOI y una licencia. El hecho de que más trabajos tuyos se compartan de forma citable te da más poder para demostrar cuándo se ha producido una conducta indebida.
+Algunas de las preocupaciones mencionadas anteriormente no son exclusivas de la Ciencia Abierta y pueden ocurrir en sistemas científicos cerrados. Por ejemplo, la apropiación y la reutilización sin citaciones son dos ejemplos de mala conducta científica que pueden ocurrir en escenarios científicos cerrados. Las prácticas de la Ciencia Abierta pueden ofrecer más recursos, como poner a disposición un artículo preimpreso o dar a sus datos o código un DOI y una licencia. El hecho de que más trabajos tuyos se compartan de forma citable te da más poder para demostrar cuándo se ha producido una conducta indebida.
 
-Otro ejemplo del temor que se produce tanto en ámbitos abiertos como cerrados es el compromiso de mantener tu trabajo incluso luego de la publicación. El mantenimiento es un punto a tener en cuenta independientemente de si el trabajo se ha compartido: se debe decidir durante cuánto tiempo se almacenarán los datos y el código para poder reproducir el trabajo, en caso de que surja alguna duda incluso después de la publicación (tratamos el tema de compartir y archivar datos y código en los módulos posteriores, Datos Abiertos y Código Abierto). Al compartir los materiales de investigación, se puede aumentar la longevidad y el impacto de lo realizado, si otras personas consideran que tus materiales son útiles y ayudan a mantenerlos y construir sobre ellos.
+Otro ejemplo de preocupación que se produce tanto en ámbitos abiertos como cerrados es el compromiso de mantener tu trabajo incluso luego de la publicación. El mantenimiento es un punto a tener en cuenta independientemente de si el trabajo se ha compartido: se debe decidir durante cuánto tiempo se almacenarán los datos y el código para poder reproducir el trabajo, en caso de que surja alguna duda incluso después de la publicación (tratamos el tema de compartir y archivar datos y código en los módulos posteriores, Datos Abiertos y Código Abierto). Al compartir los materiales de investigación, se puede aumentar la longevidad y el impacto de lo realizado, si otras personas consideran que tus materiales son útiles y ayudan a mantenerlos y construir sobre ellos.
 
-Reconocemos que ésta no es una lista exhaustiva de preocupaciones y temores hacia la adopción de la Ciencia Abierta. La NASA ha desarrollado este módulo del plan de estudios TOPS para proporcionar orientación e infundir confianza a las personas investigadoras que tienen la intención de abrir más su trabajo de aquí en adelante.
+Reconocemos que ésta no es una lista exhaustiva de preocupaciones hacia la adopción de la Ciencia Abierta. La NASA ha desarrollado este módulo del plan de estudios TOPS para proporcionar orientación e infundir confianza a las personas investigadoras que tienen la intención de abrir más su trabajo de aquí en adelante.
 
 ## Incentivos mal alineados
 
-Anteriormente, debatimos algunos temores y preocupaciones de adoptar la Ciencia Abierta. En esta sección, discutiremos barreras que bloquean la participación en la Ciencia Abierta que se derivan de estructuras de incentivos mal alineadas. Dichas estructuras se refieren a incentivos científicos para individuos y organizaciones, que no están alineadas con valores vinculados a la apertura.
+Anteriormente, debatimos algunas preocupaciones de adoptar la Ciencia Abierta. En esta sección, discutiremos barreras que bloquean la participación en la Ciencia Abierta que se derivan de estructuras de incentivos mal alineadas. Dichas estructuras se refieren a incentivos científicos para individuos y organizaciones, que no están alineadas con valores vinculados a la apertura.
 
 Distinguimos entre preocupaciones y temores; por un lado, aquellos asociados a cambiar la cultura de cómo hacemos ciencia y, por otro, aquellos vinculados a las barreras estructurales que bloquean la capacidad de los investigadores para adoptar prácticas de Ciencia Abierta. Reconocemos que estas categorías se solapan, pero el encuadre puede ser útil para entender qué es lo que controlamos como individuos, y en qué aspectos debemos fomentar cambios más estructurales en nuestro ecosistema científico.
 
@@ -129,7 +129,7 @@ Hacer Ciencia Abierta a menudo requiere más tiempo y esfuerzo de quienes invest
 
 Actualizar la forma de medir el éxito de la ciencia puede ayudar a fomentar que las personas hagan su trabajo abiertamente. La comunidad científica se encuentra actualmente en una fase de transición en la que se están desarrollando nuevas métricas, pero las antiguas métricas siguen dominando en muchos campos y organizaciones. Es importante que quienes investigan reconozcan que tal vez no sean capaces de lograr una total apertura hasta que el sistema y la cultura cambien.
 
-### Actividad 4.2: Ser abierto o no ser...
+### Actividad 4.2: Ser abierto o no serlo...
 
 En esta actividad, reflexiona sobre tus respuestas a las preguntas y luego compara tus ideas con las conclusiones clave.
 
@@ -194,7 +194,7 @@ Si bien hay muchos desafíos para la adopción de la Ciencia Abierta, creemos qu
 
 Conclusiones principales de esta lección:
 
-- Existen preocupaciones y temores válidos en torno a la apertura de nuestra ciencia, pero a menudo hay prácticas de Ciencia Abierta específicas que pueden ayudar a mitigar estos temores.
+- Existen preocupaciones válidas en torno a la apertura de nuestra ciencia, pero a menudo hay prácticas de Ciencia Abierta específicas que pueden ayudar a mitigarlas.
 - El desajuste de los incentivos crea desafíos del mundo real que actúan como obstáculos para adoptar prácticas de Ciencia Abierta. Hay formas en que los individuos pueden minimizar o trabajar con estas barreras, así como organizaciones y grupos que están trabajando activamente para actualizar la estructura de incentivos.
 - Trabajar abierta y colaborativamente tiene sus retos, pero existen algunas estrategias para comunicarse respetando las diferencias.
 - También existen barreras institucionales e infraestructurales para adoptar prácticas abiertas, pero podemos minimizar algunos de estos desafíos utilizando herramientas e infraestructuras generales.
