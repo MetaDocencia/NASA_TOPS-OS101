@@ -121,7 +121,7 @@ Cuando compartimos resultados es conveniente incluir la metodología utilizada p
 
 A continuación veremos un ejemplo de cómo un grupo de investigación compartió abiertamente sus datos, resultados y software tanto como el artículo resultante; todo esto con sus propios identificadores únicos. Hay que tener en cuenta que los datos y el software pueden tener varios identificadores, lo que permite que estos sean citados en todas las versiones o una única versión.
 
-<img src="../images/media/image10_es.jpeg" style="width:100%;height:auto;"/>
+<img src="../images/media/image10_es.jpg" style="width:100%;height:auto;"/>
 
 Aquí se pueden revisar los distintos elementos de la imagen anterior, seleccionando los botones "\<" y "\>" para navegar.
 
