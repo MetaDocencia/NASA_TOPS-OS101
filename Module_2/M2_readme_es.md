@@ -2,7 +2,7 @@
 
 Te damos la bienvenida a Introducción a la Ciencia Abierta: Herramientas y Recursos abiertos
 
-## Acerca de este modulo
+## Acerca de este módulo
 
 Este módulo está diseñado para ayudarte a comenzar tu camino hacia la práctica de la Ciencia Abierta. Ofrece una visión introductoria de los conceptos y los recursos que son fundamentales para la ciencia. El puente entre los conceptos y la práctica de los conceptos es algo llamado modelo "usar, hacer, compartir". Hay muchos métodos y modelos que definen cómo empezar con la Ciencia Abierta. El modelo "usar, hacer, compartir" fue creado para ayudarte a asignar de inmediato un propósito a los conceptos y herramientas que se cubren en este módulo, así como en todo el plan de estudios de Introducción a la Ciencia Abierta. Toda la información que aprendas aquí será tratada con más detalle a medida que participes en otros módulos, pero también puede ser aplicada inmediatamente después de completar este módulo.
 
@@ -26,7 +26,7 @@ Estos términos clave son tópicos importantes para este módulo. Selecciona el 
 
 **Entorno informático** -- una plataforma que proporciona dependencias de software necesarias, un área de desarrollo y conexiones a recursos computacionales para facilitar la ejecución de código.
 
-**ORCiD** -- Un código numérico utilizado para identificar de forma única a las personas autoras o colaboradoras de la comunicación científica. Quinenes investigan proporcionan un ORCiD para sus publicaciones y membresía de asociaciones. ORCiD también es una organización internacional, interdisciplinaria, abierta, no propietaria, y sin fines de lucro creada por la comunidad académica para el beneficio de todas las partes interesadas, incluyendo las nuestras y las organizaciones que apoyan el ecosistema de investigación.
+**ORCiD** -- Un código numérico utilizado para identificar de forma única a las personas autoras o colaboradoras de la comunicación científica. Quienes investigan proporcionan un ORCiD para sus publicaciones y membresía de asociaciones. ORCiD también es una organización internacional, interdisciplinaria, abierta, no propietaria, y sin fines de lucro creada por la comunidad académica para el beneficio de todas las partes interesadas, incluyendo las nuestras y las organizaciones que apoyan el ecosistema de investigación.
 
 **Identificadores persistentes (PIDs, por sus siglas en inglés)** - Una referencia digital de larga duración para una entidad.
 
