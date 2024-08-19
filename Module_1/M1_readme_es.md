@@ -1,6 +1,6 @@
 # Introducción a la Ciencia Abierta Módulo 1: El Ethos de la Ciencia Abierta
 
-**Bienvenidos y Bienvenidas al Ethos de la Ciencia Abierta**
+Te damos la bienvenida a Introducción a la Ciencia Abierta:  El Ethos de la Ciencia Abierta
 
 ## Acerca de este modulo
 
