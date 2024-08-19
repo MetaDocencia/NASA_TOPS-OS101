@@ -4,15 +4,15 @@ Te damos la bienvenida a Introducción a la Ciencia Abierta: Herramientas y Recu
 
 ## Acerca de este modulo
 
-Este módulo está diseñado para ayudarte a comenzar tu camino hacia la práctica de la ciencia abierta. Ofrece una visión introductoria de los conceptos y los recursos que son fundamentales para la ciencia. El puente entre los conceptos y la práctica de los conceptos es algo llamado modelo usar, hacer, compartir. Hay muchos métodos y modelos que definen cómo empezar con la ciencia abierta. El modelo usar, hacer, compartir fue creado para ayudarte a asignar de inmediato un propósito a los conceptos y herramientas que se cubren en este módulo, así como en todo el plan de estudios de Introducción a la Ciencia Abierta. Toda la información que conozcas aquí será tratada con más detalle a medida que participes en otros módulos, pero también puede ser aplicada inmediatamente después de completar este módulo.
+Este módulo está diseñado para ayudarte a comenzar tu camino hacia la práctica de la Ciencia Abierta. Ofrece una visión introductoria de los conceptos y los recursos que son fundamentales para la ciencia. El puente entre los conceptos y la práctica de los conceptos es algo llamado modelo "usar, hacer, compartir". Hay muchos métodos y modelos que definen cómo empezar con la Ciencia Abierta. El modelo "usar, hacer, compartir" fue creado para ayudarte a asignar de inmediato un propósito a los conceptos y herramientas que se cubren en este módulo, así como en todo el plan de estudios de Introducción a la Ciencia Abierta. Toda la información que aprendas aquí será tratada con más detalle a medida que participes en otros módulos, pero también puede ser aplicada inmediatamente después de completar este módulo.
 
 ### Objetivos de aprendizaje
 
--   Definir los elementos fundamentales de la ciencia abierta, que incluye los productos de la investigación, el marco de "usar, hacer, compartir" y el papel de un Plan de Ciencia Abierta y Gestión de Datos.
+-   Definir los elementos fundamentales de la Ciencia Abierta, que incluye los productos de la investigación, el marco de "usar, hacer, compartir" y el papel de un Plan de Ciencia Abierta y Gestión de Datos.
 -   Listar y explicar el propósito de los recursos utilizados para descubrir y evaluar los productos de investigación para reutilización incluyendo repositorios, portales de búsqueda, publicaciones, documentación como archivos README, metadatos y licencia.
--   Desarrollar una estrategia de alto nivel para crear y compartir datos que emplee los principios FAIR, incorporando un plan de gestión de datos, rastreo de datos y autores con identificadores y citas persistentes, y utilizar los formatos y herramientas de datos apropiados para generar datos y compartir los resultados.
--   Describir el ciclo de vida del software y diseñar una estrategia de alto nivel para crear y compartir software que considere el uso de un plan de gestión de software, las herramientas necesarias para el desarrollo incluyendo código fuente, Kernels, lenguajes de programación, software de terceros, control de versiones, y las herramientas y documentación utilizadas para publicar y curar software abierto.
--   Listar los recursos para compartir productos de investigación incluyendo preprints, publicaciones de acceso abierto, sistemas de administración de referencias y recursos para apoyar la reproducibilidad.
+-   Desarrollar una estrategia de alto nivel para crear y compartir datos a partir de los principios FAIR, incorporando un plan de gestión de datos, rastreo de datos y autores con identificadores y citas persistentes, y utilizar los formatos y herramientas de datos apropiados para generar datos y compartir los resultados.
+-   Describir el ciclo de vida del software y diseñar una estrategia de alto nivel para crear y compartir software que considere el uso de un plan de gestión de software, las herramientas necesarias para el desarrollo incluyendo código fuente, núcleos o Kernels, lenguajes de programación, software de terceros, control de versiones, y las herramientas y documentación utilizadas para publicar y curar Software Abierto.
+-   Listar los recursos para compartir productos de investigación incluyendo preprints, publicaciones de Acceso Abierto, sistemas de administración de referencias y recursos para apoyar la reproducibilidad.
 
 ## Términos clave
 
@@ -22,11 +22,11 @@ Estos términos clave son tópicos importantes para este módulo. Selecciona el 
 
 **Metadata** -- Información sobre los datos que proporciona detalles adicionales y contexto.
 
-**Repositorio de datos**: Una entidad de almacenamiento de datos de empresa (o a veces entidades) en la que los datos han sido específicamente particionados para un propósito analítico o de reporte.
+**Repositorio de datos**: Una entidad de almacenamiento de datos de empresa (o a veces entidades u organizaciones) en la que los datos han sido específicamente particionados para un propósito analítico o de reporte.
 
-**Entorno de computación** -- una plataforma que proporciona dependencias de software necesarias, un área de desarrollo y conexiones a recursos computacionales para facilitar la ejecución de código.
+**Entorno informático** -- una plataforma que proporciona dependencias de software necesarias, un área de desarrollo y conexiones a recursos computacionales para facilitar la ejecución de código.
 
-**ORCiD** -- Un código numérico utilizado para identificar de forma única a los autores y colaboradores de comunicación científica. Los investigadores proporcionan un ORCiD para sus publicaciones y membresía de asociaciones. ORCiD también es una organización internacional, interdisciplinaria, abierta, no propietaria, y sin fines de lucro creada por la comunidad de investigación para el beneficio de todas las partes interesadas, incluyendo las nuestras y las organizaciones que apoyan el ecosistema de investigación.
+**ORCiD** -- Un código numérico utilizado para identificar de forma única a las personas autoras o colaboradoras de la comunicación científica. Quinenes investigan proporcionan un ORCiD para sus publicaciones y membresía de asociaciones. ORCiD también es una organización internacional, interdisciplinaria, abierta, no propietaria, y sin fines de lucro creada por la comunidad académica para el beneficio de todas las partes interesadas, incluyendo las nuestras y las organizaciones que apoyan el ecosistema de investigación.
 
 **Identificadores persistentes (PIDs, por sus siglas en inglés)** - Una referencia digital de larga duración para una entidad.
 
