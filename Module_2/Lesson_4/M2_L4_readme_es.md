@@ -1,8 +1,8 @@
-# Lección 4: Herramientas para código abierto
+# Lección 4: Herramientas para Código Abierto
 
 ## Contenidos
 
--   [Introducción al código abierto](#introduccion-codigo-abierto)
+-   [Introducción al Código Abierto](#introduccion-codigo-abierto)
 -   [Herramientas para el control de versiones](#herramientas-control-versiones)
 -   [Herramientas para editar código](#herramientas-editar-codigo)
 -   [Herramientas adicionales](#herramientas-adicionales)
@@ -11,28 +11,28 @@
 
 ## Descripción general
 
-Esta lección nos presenta algunas herramientas útiles para trabajar con código abierto. Aprenderemos acerca de las diversas herramientas disponibles para desarrollar, almacenar y compartir código abierto, desde el control de versiones hasta software de edición de código hasta contenedores.
+Esta lección presenta algunas herramientas útiles para trabajar con Código Abierto. Aprenderemos acerca de las diversas herramientas disponibles para desarrollar, almacenar y compartir Código Abierto, desde el control de versiones hasta el software de edición de código  y los contenedores.
 
 ## Objetivos de aprendizaje
 
-Al completar esta lección, deberías poder:
+Al finalizar esta lección deberías ser capaz de:
 
--   Explicar los beneficios del uso de herramientas para el desarrollo de código abierto.
+-   Explicar los beneficios del uso de herramientas para el desarrollo de Código Abierto.
 -   Definir el control de versiones y comprender cómo favorece la colaboración en el desarrollo y la gestión del código.
 -   Listar algunas herramientas para editar software y algunas de sus características.
 -   Distinguir entre repositorios de software y archivos de software.
 
-## Introducción al código abierto {#introduccion-codigo-abierto}
+## Introducción al Código Abierto 
 
-En la lección 3 aprendimos sobre herramientas útiles para trabajar con datos científicos. Ahora, proporcionaremos una visión general de las herramientas comúnmente utilizadas que nos ayudan a escribir y ejecutar código informático para explorar, analizar, y visualizar nuestros datos científicos. Más adelante en el Módulo 4, de Código Abierto, discutiremos en mayor detalle lo que significa hacer nuestro código abierto, y recorreremos los pasos para poder encontrar, crear y compartir código abierto.
+En la lección 3 aprendimos sobre herramientas útiles para trabajar con datos científicos. Ahora, proporcionaremos una visión general de las herramientas comúnmente utilizadas que nos ayudan a escribir y ejecutar código informático para explorar, analizar, y visualizar nuestros datos científicos. Más adelante en el Módulo 4, de Código Abierto, discutiremos en mayor detalle lo que significa hacer nuestro Código Abierto, y recorreremos los pasos para poder encontrar, crear y compartir Código Abierto.
 
-Entender cómo trabajar con código científico es esencial en el panorama moderno de la investigación basada en datos. Las herramientas presentadas en esta lección abarcan una amplia gama de recursos diseñados para agilizar, mejorar y optimizar el proceso de desarrollo, mantenimiento y colaboración en el desarrollo de código para la investigación científica. Permiten crear código robusto y eficiente, en muchas ocasiones aprovechando el conocimiento colectivo de la comunidad de código abierto. En la búsqueda de la reproducibilidad y la transparencia, estas herramientas también pueden facilitar el intercambio y la difusión del código científico, fomentando la colaboración y asegurando que los fundamentos de la investigación científica permanezcan abiertos y accesibles para todas las personas.
+Entender cómo trabajar con código científico es esencial en el panorama moderno de la investigación basada en datos. Las herramientas presentadas en esta lección abarcan una amplia gama de recursos diseñados para agilizar, mejorar y optimizar el proceso de desarrollo, mantenimiento y colaboración en el desarrollo de código para la investigación científica. Además, permiten crear código robusto y eficiente, en muchas ocasiones aprovechando el conocimiento colectivo de la comunidad de Código Abierto. En la búsqueda de la reproducibilidad y la transparencia, estas herramientas también pueden facilitar el intercambio y la difusión del código científico, fomentando la colaboración y asegurando que los fundamentos de la investigación científica permanezcan abiertos y accesibles para todas las personas.
 
-### Precedente histórico para crear código abierto: sistema operativo Linux
+### Precedente histórico para crear Código Abierto: sistema operativo GNU/Linux
 
-¿La idea de escribir código abierto es un nuevo concepto? ¡No!
+¿La idea de escribir Código Abierto es un nuevo concepto? ¡No!
 
-#### Contexto: Desarrollo del sistema operativo Linux
+#### Contexto: Desarrollo del kernel (núcleo) Linux para sistema operativo
 
 [HAZ CLIC PARA CONOCER MÁS](https://es.wikipedia.org/wiki/Historia_de_Linux)
 
@@ -42,13 +42,13 @@ Entender cómo trabajar con código científico es esencial en el panorama moder
 
 ## Herramientas para control de versiones
 
-### Control de versiones {#herramientas-control-versiones}
+### Control de versiones 
 
-El control de versiones es la práctica de rastrear y gestionar los cambios realizados en el código u otro tipo de archivos. Puede que nos resulte familiar si lo asociamos con el "Seguimiento de cambios" en programas como Microsoft Word. Esta es una forma de control de versiones, aunque no la más adecuada para trabajar con código. El control de versiones se considera una práctica estándar en la comunidad de desarrollo de software, y simplifica la gestión de código a través del tiempo.
+El control de versiones es la práctica de rastrear y gestionar los cambios realizados en el código u otro tipo de archivos. Puede que nos resulte familiar si lo asociamos con el "seguimiento de cambios" en programas como Microsoft Word. Esta es una forma de control de versiones, aunque no la más adecuada para trabajar con código. El control de versiones se considera una práctica estándar en la comunidad de desarrollo de software, y simplifica la gestión de código a través del tiempo.
 
-La forma general de utilizar el control de versiones comienza inicializando una carpeta en tu plataforma informática con el sistema de control de versiones que estés utilizando. Un sistema de control de versiones rastrea automáticamente todos los cambios realizados por las personas que colaboran, y les permite trabajar sin conexión y volver más tarde con actualizaciones. Escribe el código como lo haces habitualmente en el editor de código que elijas. Una vez que se ha escrito código o se han realizado actualizaciones en el existente, se introducen los cambios en el sistema de control de versiones para crear una especie de "punto de control" al que se puede volver más tarde si es necesario. Luego agrega o actualiza más código, y vuelve a confirmar los cambios. Cada confirmación requiere que se añada un mensaje breve que permita describir resumidamente qué cambios se han hecho. Estos mensajes sirven como metadatos que aseguran que las personas colaboradoras y usuarias, e inclusive tú en el futuro, entiendan su proceso de desarrollo en un momento dado.
+La forma general de utilizar el control de versiones comienza creando una carpeta en tu plataforma informática con el sistema de control de versiones que estés utilizando. Un sistema de control de versiones rastrea automáticamente todos los cambios realizados por las personas que colaboran, y les permite trabajar sin conexión y volver más tarde con actualizaciones. Escribe el código como lo haces habitualmente en el editor de código de tu elección. Una vez que has escrito el código o haz realizado actualizaciones en el existente, se introducen los cambios en el sistema de control de versiones para crear una especie de "punto de control" al que se puede volver más tarde si es necesario. Luego agrega o actualiza más código, y vuelve a confirmar los cambios. Cada confirmación requiere que se añada un mensaje breve que permita describir resumidamente qué cambios se han hecho. Estos mensajes sirven como metadatos que aseguran que las personas colaboradoras y usuarias, e inclusive tú en el futuro, entiendan su proceso de desarrollo en un momento dado.
 
-Esto puede sonar como un proceso simple y ¡en muchos sentidos lo es! Entonces, ¿por qué es tan importante? Especialmente cuando se trata de programar, la posibilidad de crear una captura en el tiempo de un fragmento de código puede resultar muy útil. Por ejemplo, puedes tener un fragmento de código que produce el resultado previsto, pero luego deseas añadir una nueva función. Se puede optar por copiar ese archivo de código para no perder el estado actual, y luego trabajar en un archivo nuevo. Esto puede resultar engorroso bastante rápido cuando existen varios archivos que son diferentes versiones de la misma pieza de código. O en lugar de crear un nuevo archivo, se puede escribir código para la nueva función directamente en el archivo original, pero ahora éste arroja errores cuando se intenta ejecutarlo, y es difícil recordar qué líneas se añadieron desde la última vez que el código se ejecutó sin errores. Usando el control de versiones, estos problemas se resuelven porque podemos volver al punto de control cuando el código se ejecutó correctamente, y así evitar la necesidad de crear múltiples copias para guardar el trozo de código original.
+Esto puede sonar como un proceso simple y ¡en muchos sentidos lo es! Entonces, ¿por qué es tan importante? Especialmente cuando se trata de programar, la posibilidad de crear una captura en el tiempo de un fragmento de código puede resultar muy útil. Por ejemplo, puedes tener un fragmento de código que produce el resultado previsto, pero luego deseas añadir una nueva función. Se puede optar por copiar ese archivo de código para no perder el estado actual, y luego trabajar en un archivo nuevo. Esto rápidamente puede resultar engorroso cuando existen varios archivos que son diferentes versiones de la misma pieza de código. O en lugar de crear un nuevo archivo, puedes escribir código para la nueva función directamente en el archivo original, pero ahora éste arroja errores cuando intentas ejecutarlo, y es difícil recordar qué líneas se añadieron desde la última vez que el código se ejecutó sin errores. Usando el control de versiones, estos problemas se resuelven porque puedes volver al punto de control cuando el código se ejecutó correctamente, y así evitar la necesidad de crear múltiples copias para guardar el trozo de código original.
 
 Hay muchas otras características de los sistemas de control de versiones, tales como el concepto de crear "ramas" que te permiten trabajar en nuevas actualizaciones de un trozo de código de forma independiente y paralela a la pieza original de código. Una rama es una desviación del código original, pero puede ser fusionada de nuevo en el código original cuando se desee. Todos estos conceptos son aún más útiles cuando se colabora con otras personas utilizando plataformas de control de versiones, una práctica de colaboración que veremos más adelante en esta lección.
 
@@ -59,7 +59,7 @@ Hay dos estilos principales de sistemas de control de versiones de software:
 +-------------------------------------------------+---------------------------+
 | CENTRALIZADO ☑                                  | DISTRIBUIDO (MÁS POPULAR) |
 +=================================================+===========================+
-| -   Copia única "principal" del código base     |                           |
+| -   Copia "principal" única del código base     |                           |
 |                                                 |                           |
 | -   Debe interactuar con el servidor específico |                           |
 |                                                 |                           |
@@ -71,7 +71,7 @@ Hay dos estilos principales de sistemas de control de versiones de software:
 +=======================================================================================+=============================+
 | Control:                                                                              |                             |
 |                                                                                       |                             |
-| El sistema de cada persona que desarrolla puede conservar una copia del código base.\ |                             |
+| El sistema de cada persona que desarrolla puede conservar una copia del código base.  |                             |
 | Ejemplos:                                                                             |                             |
 |                                                                                       |                             |
 | -   Git                                                                               |                             |
@@ -83,7 +83,7 @@ Utilizar un sistema distribuido de control de versiones como Git te da más flex
 
 **Ejemplo: Git**
 
-El sistema de control de versiones más popular para el desarrollo de software es Git. Git es de código abierto y se utiliza habitualmente junto con sitios web de alojamiento de software como GitHub y GitLab (más información sobre ellos en la siguiente sección), que permiten colaborar y compartir código. También puede usarse en una computadora local cuando se escribe código propio. Git suele ejecutarse en la línea de comandos, pero también existen otras interfaces para utilizar Git, como *GitHub Desktop* y algunos editores de código que incluyen integración con Git (más información sobre esto más adelante).
+El sistema de control de versiones más popular para el desarrollo de software es Git. Git es de Código Abierto y se utiliza habitualmente junto con sitios web de alojamiento de software como GitHub y GitLab (más información sobre ellos en la siguiente sección), que permiten colaborar y compartir código. También puede usarse en una computadora local cuando se escribe código propio. Git suele ejecutarse en la línea de comandos, pero también existen otras interfaces para utilizar Git, como *GitHub Desktop* y algunos editores de código que incluyen integración con Git (más información sobre esto más adelante).
 
 <img src="../images/media/image33_es.png" style="width:350px;height:auto;"/>
 
@@ -100,10 +100,10 @@ Las plataformas de control de versiones, normalmente plataformas de alojamiento 
 Algunos ejemplos de plataformas de control de versiones:
 
 -   GitHub: plataforma basada en Git que permite la colaboración y el seguimiento del historial del código. Propiedad de Microsoft.
--   GitLab: una plataforma basada en Git que también ofrece funcionalidades DevOps y CI/CD.
+-   GitLab: una plataforma basada en Git que también ofrece funcionalidades DevOps (de desarrollo y operaciones) y CI/CD (integración y despliegue continuo).
 -   BitBucket: una plataforma que puede alojar repositorios Git y Mercurial. Propiedad de Atlassian.
 
-GitHub es una de las plataformas más populares, por lo que en el resto de esta sección daremos ejemplos de cómo utilizar GitHub. Es importante destacar que GitHub es donde se encuentran la mayoría de los paquetes de software de código abierto, por lo que, para aquellas personas que están interesadas en involucrarse más con la comunidad de software de código abierto, ¡GitHub es una herramienta esencial para aprender a usar!
+GitHub es una de las plataformas más populares, por lo que en el resto de esta sección daremos ejemplos de cómo utilizar GitHub. Es importante destacar que GitHub es donde se encuentra la mayoría de los paquetes de software de Código Abierto por lo que, para aquellas personas que están interesadas en involucrarse más con la comunidad de software de Código Abierto, ¡GitHub es una herramienta esencial para aprender a usar!
 
 **Ejemplo: GitHub**
 
@@ -113,9 +113,9 @@ Si volvemos a la idea general de utilizar sistemas de control de versiones, GitH
 
 -   Para que funcione como copia de seguridad de tu trabajo (ahora se almacena en un servidor remoto al que puedes acceder incluso si tu computadora muere).
 -   Para compartir tu código con otra personas (más sobre esto más adelante en este curso).
--   Para que otros colaboren con tu código. Subiendo a GitHub, tu código puede ser accesible para otros que quieran añadir características.
+-   Para que otros colaboren con tu código. Subiéndolo a GitHub, tu código puede ser accesible para otros que quieran añadir características.
 
-Vamos a ampliar algunas de las herramientas de colaboración de GitHub. Algunas de estas características incluyen:
+Vamos a ampliar algunas de las herramientas de colaboración de GitHub. Algunas de estas funcionalidades incluyen:
 
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Términos                           | Descripción/Definición                                                                                                                                                                                                                                                                                                                                  |
@@ -131,7 +131,7 @@ Vamos a ampliar algunas de las herramientas de colaboración de GitHub. Algunas 
 | Permisos personalizados            | Elige quién tiene autorización para actualizar el código. Esto ayuda a que tengas la seguridad de que solo quienes tienen permiso pueden actualizar el código que compartiste en GitHub, y también a que otras personas se sientan seguras para sugerir actualizaciones sin preocuparse de que puedan sobrescribir accidentalmente el código existente. |
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Todas estas funciones son excelentes para permitir la colaboración asíncrona entre equipos. La mayoría de los paquetes científicos de código abierto utilizan GitHub para el desarrollo de su código principal. Ten en cuenta que hay muchas más funciones de GitHub en las que no profundizamos aquí y que permiten la colaboración, así como flujos de trabajo automatizados y mucho más. Para aprender más sobre GitHub, echa un vistazo a estas referencias:
+Todas estas funciones son excelentes para permitir la colaboración asíncrona entre equipos. La mayoría de los paquetes científicos de Código Abierto utilizan GitHub para el desarrollo de su código principal. Ten en cuenta que hay muchas más funciones de GitHub en las que no profundizamos aquí y que permiten la colaboración, así como flujos de trabajo automatizados y mucho más. Para aprender más sobre GitHub, echa un vistazo a estas referencias:
 
 -   [Cómo usar Git y GitHub -- Introducción para principiantes (freecodecamp.org)](https://www.freecodecamp.org/news/introduction-to-git-and-github/)
 -   [Empezando con GitHub --- Pythia Foundations (projectpythia.org)](https://foundations.projectpythia.org/foundations/getting-started-github.html)
@@ -145,13 +145,13 @@ Todas estas funciones son excelentes para permitir la colaboración asíncrona e
 -   Mantiene un directorio ordenado, sin necesidad de hacer varias copias de los archivos.
 -   Proporciona un sistema de copia de seguridad específico para tu trabajo
 
-## Herramientas para editar código {#herramientas-editar-codigo}
+## Herramientas para editar código
 
 ### Entornos de Desarrollo Integrado (IDEs)
 
-Un Entorno de Desarrollo Integrado (IDE, por sus siglas en inglés) desempeña un papel importante en el desarrollo de código abierto ofreciendo un conjunto de herramientas a los investigadores, científicos, y desarrolladores para editar código. Se trata de una aplicación informática que agiliza todo el proceso de creación, comprobación y gestión de código para la investigación científica y el análisis de datos. Al proporcionar una plataforma todo en uno, un IDE permite a los investigadores escribir, depurar y optimizar el código de forma más eficiente, fomentando la colaboración y la reproducibilidad en proyectos científicos de código abierto.
+Un Entorno de Desarrollo Integrado (IDE, por sus siglas en inglés) desempeña un papel importante en el desarrollo de Código Abierto ofreciendo un conjunto de herramientas a los investigadores, científicos, y desarrolladores para editar código. Se trata de una aplicación informática que agiliza todo el proceso de creación, comprobación y gestión de código para la investigación científica y el análisis de datos. Al proporcionar una plataforma todo en uno, un IDE permite a los investigadores escribir, depurar y optimizar el código de forma más eficiente, fomentando la colaboración y la reproducibilidad en proyectos científicos de Código Abierto.
 
-En la ciencia abierta, donde la transparencia y la accesibilidad son primordiales, los IDEs suelen incorporar sistemas de control de versiones como Git para facilitar la colaboración y garantizar que un código base de investigación esté disponible para que otras personas lo utilicen y mejoren. Además, muchos IDEs se integran con herramientas de análisis y visualización de datos. Esto facilita el análisis y la interpretación de datos, contribuyendo en última instancia, al avance de las prácticas científicas de código abierto.
+En la Ciencia Abierta, donde la transparencia y la accesibilidad son primordiales, los IDEs suelen incorporar sistemas de control de versiones como Git para facilitar la colaboración y garantizar que un código base de investigación esté disponible para que otras personas lo utilicen y mejoren. Además, muchos IDEs se integran con herramientas de análisis y visualización de datos. Esto facilita el análisis y la interpretación de datos, contribuyendo en última instancia, al avance de las prácticas científicas de Código Abierto.
 
 Si estuvieras en una sala con 10 personas que trabajan en desarrollo de software y le preguntaras a cada una cuál es su editor de código favorito, obtendrías muchas respuestas diferentes. En esta lección, repasaremos algunas de las opciones más conocidas.
 
@@ -247,7 +247,7 @@ Un cuaderno computacional se refiere a un entorno de computación virtual e inte
 
 <img src="../images/media/jupyterlogo.jpg" style="width:350px;height:auto;"/>
 
-Jupyter Notebook es una aplicación web de código abierto ampliamente utilizada para la creación de documentos computacionales. Pero antes de sumergirnos en Jupyter Notebook, queremos dejar en claro que Jupyter Notebook es una de las muchas plataformas del ecosistema de Jupyter:
+Jupyter Notebook es una aplicación web de Código Abierto ampliamente utilizada para la creación de documentos computacionales. Pero antes de sumergirnos en Jupyter Notebook, queremos dejar en claro que Jupyter Notebook es una de las muchas plataformas del ecosistema de Jupyter:
 
 -   Jupyter Notebook -- un intérprete de comandos de lenguaje contenido para programación interactiva, que muestra la salida en línea con las entradas
 -   JupyterLab -- una interfaz de usuario integrada en el navegador que muestra múltiples ventanas para cuadernos de notas, terminales y edición de código
@@ -279,7 +279,7 @@ Si quieres sumergirte en el tema, consulta la lección "Primeros pasos con Jupyt
 
 Usemos un ejemplo del Proyecto Pythia para mostrar cómo los cuadernos computacionales pueden ser usados en la ciencia. Proyecto Pythia es un centro educativo para la comunidad geocientífica. Tienen algunos grandes recursos de aprendizaje y ejemplos de cuadernos de investigación, desarrollados y mantenidos por la comunidad y de libre acceso.
 
-En esta actividad, ejecutarás código Python ya escrito en un Jupyter Notebook desde tu navegador para hacer gráficos relacionados con el fenómenos El Niño-Oscilación del Sur (o ENOS). Utilizarás el paquete de software de código abierto llamado Xarray para leer los datos de temperatura de la superficie del mar de un modelo climático global (Modelo Comunitario del Sistema Tierra, en ingles *Community Earth System Model, CESM*), y crear algunas visualizaciones de eventos ENOS a lo largo de los últimos 20 años. El objetivo es recrear el gráfico siguiente para aproximadamente los últimos 20 años. Esta figura muestra los años y la magnitud de los eventos de El Niño en rojo y de los eventos de La Niña en azul.
+En esta actividad, ejecutarás código Python ya escrito en un Jupyter Notebook desde tu navegador para hacer gráficos relacionados con el fenómenos El Niño-Oscilación del Sur (o ENOS). Utilizarás el paquete de software de Código Abierto llamado Xarray para leer los datos de temperatura de la superficie del mar de un modelo climático global (Modelo Comunitario del Sistema Tierra, en ingles *Community Earth System Model, CESM*), y crear algunas visualizaciones de eventos ENOS a lo largo de los últimos 20 años. El objetivo es recrear el gráfico siguiente para aproximadamente los últimos 20 años. Esta figura muestra los años y la magnitud de los eventos de El Niño en rojo y de los eventos de La Niña en azul.
 
 ![](../images/media/image39_es.png)
 
@@ -402,16 +402,15 @@ Relaciona cada elemento con su descripción:
 | Plataforma de control de versiones    | Herramienta que ayuda a los desarrolladores de software a gestionar y realizar un seguimiento de los cambios     |
 +---------------------------------------+--------------------------------------------------------------------------------------------------------------------+
 
-## Lección 4: Resumen {#leccion-4-resumen}
-
+## Lección 4: Resumen 
 En esta lección has aprendido:
 
--   La utilidad de las herramientas digitales que gestionan, fomentan la colaboración y albergan código abierto.
+-   La utilidad de las herramientas digitales que gestionan, fomentan la colaboración y albergan Código Abierto.
 -   Cómo los sistemas de control de versiones como Git y plataformas como GitHub pueden aumentar la colaboración y la gestión del código.
--   Algunas herramientas comunes para editar código abierto, incluidos entornos de desarrollo integrados (IDEs) como Visual Studio Code y Jupyter Notebooks.
+-   Algunas herramientas comunes para editar Código Abierto, incluidos entornos de desarrollo integrados (IDEs) como Visual Studio Code y Jupyter Notebooks.
 -   La diferencia entre repositorios y archivos de software, y también cómo los contenedores de software pueden ayudar a compartir y reproducir código.
 
-## Lección 4: Evaluación {#leccion-4-evaluacion}
+## Lección 4: Evaluación 
 
 Responde las siguientes preguntas para poner a prueba lo que has aprendido hasta ahora.
 
