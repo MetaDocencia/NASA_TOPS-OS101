@@ -265,7 +265,7 @@ Los resultados incluyen:
 
 -   Un informe detallado y un gráfico.
 
-## Lección 3: Resumen (#leccion-3-resumen)
+## Lección 3: Resumen  
 
 En esta lección has aprendido:
 
@@ -273,7 +273,7 @@ En esta lección has aprendido:
 -   Una lista de prácticas de Ciencia Abierta para aplicar los principios FAIR que hacen que los datos y resultados sean fácilmente accesibles a muchas personas.
 -   Herramientas digitales que facilitan la planificación, creación e intercambio de Datos Abiertos.
 
-## Lección 3: Evaluación (#leccion-3-evaluacion)
+## Lección 3: Evaluación 
 
 Responde las siguientes preguntas para poner a prueba lo que has aprendido hasta ahora.
 
