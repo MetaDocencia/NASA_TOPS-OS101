@@ -53,7 +53,7 @@ Un código numérico gratuito no propietario que:
 - Identifica de manera única y persistente a autores y colaboradores que participan en la producción de comunicaciones académicas.
 - Es similar a los números de identificación fiscal para propósitos tributarios (dependiendo del país de residencia).
 
-Los ORCID se utilizan para vincular a las personas con sus investigaciones y productos relacionados con la investigación. Es un número de 16 dígitos que identifica individualmente a las personas que investigan y que se integra con diferentes organizaciones, incluyendo editoriales, para vincular productos de investigación, como artículos publicados, al perfil ORCID de la persona investigadora. Los ORCID están diseñados para preservarse a lo largo de la carrera profesional de una persona, y ayudan a evitar confusiones cuando la información sobre la persona investigadora se actualiza con el tiempo (por ejemplo, cambio de carrera o de nombre). (Fuente: [https://orcid.org/](https://orcid.org/))
+Los ORCID se utilizan para vincular a las personas con sus investigaciones y productos relacionados con la investigación. Es un número de 16 dígitos que identifica individualmente a las personas que investigan y que se integra con diferentes organizaciones, incluyendo editoriales, para vincular productos de investigación, como artículos publicados, al perfil ORCID de la persona investigadora. Los ORCID están diseñados para preservarse a lo largo de la carrera profesional de una persona, y ayudan a evitar confusiones cuando la información sobre la persona investigadora se actualiza con el tiempo (por ejemplo, cambio de carrera o de nombre). (Fuente: [https://orcid.org/](https://orcid.org/)).
 
 Gran cantidad de editoriales, instituciones académicas y organismos gubernamentales respaldan la utilización de ORCID. En 2023, ORCID reportó más de 1.300 organizaciones miembros y más de 9 millones de cuentas activas anuales. Puedes vincularlo con tu información profesional (afiliaciones, subvenciones, publicaciones, revisión por pares y más).
 
@@ -415,7 +415,7 @@ Una actividad de investigación planificada puede ser prerregistrada en cualquie
 - Antes de la recolección de datos para un proyecto
 - Antes del análisis de un conjunto de datos existente o abiertamente disponible
 
-Fuente: [Registration — Guía para hacer Ciencia Abierta del departamento de Psicología de Stanford) (poldrack.github.io)](https://poldrack.github.io/psych-open-science-guide/1_pregistration.html)
+Fuente: [Registration — Guía para hacer Ciencia Abierta del departamento de Psicología de Stanford) (poldrack.github.io)](https://poldrack.github.io/psych-open-science-guide/1_preregistration.html)
 
 Una [encuesta de la revista *Nature* de 2023](https://www.nature.com/articles/s41467-023-41111-1) sobre actitudes de las personas que investigan hacia las prácticas científicas abiertas determinó que alrededor del 88% de las personas encuestadas están a favor de compartir datos o código en línea, mientras que sólo el 58% apoya el prerregistro. Este apoyo moderado al prerregistro entre las personas encuestadas sugiere que la conciencia de sus beneficios y la persistencia de las preocupaciones siguen siendo un problema. En la siguiente sección, presentaremos un método para elaborar estrategias sobre cómo implementar mejor la Ciencia Abierta desde el comienzo de un estudio hasta su fin.
 
