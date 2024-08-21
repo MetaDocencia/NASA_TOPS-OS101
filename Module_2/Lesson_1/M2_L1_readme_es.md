@@ -3,7 +3,7 @@
 ## Contenidos
 
 -   [Definición de Ciencia Abierta y productos de investigación](#definicion-de-ciencia-abierta-y-productos-de-investigacion)
--   [Utilizar herramientas para Ciencia Abierta en la práctica](#utilizar-herramientas-para-ciencia-abierta-en-la-practica)
+-   [Utilizar herramientas para la Ciencia Abierta en la práctica](#utilizar-herramientas-para-la-ciencia-abierta-en-la-practica)
 -   [Lección 1: Resumen](#leccion-1-resumen)
 -   [Lección 1: Evaluación](#leccion-1-evaluacion)
 
@@ -57,9 +57,7 @@ Muchas personas que hacen ciencia escriben código fuente para producir software
 
 **Software Operativo y de Infraestructura** - Software utilizado por centros de datos y grandes instalaciones de tecnología de la información para proporcionar servicios de datos.
 
-**Bibliotecas** - Ningún proceso creativo está realmente completo hasta que se manifiesta en una realidad tangible. Tanto si nuestra idea es una acción como si es una creación física, es probable que darle vida implique un duro trabajo de iteración, pruebas y perfeccionamiento.
-
-Se debe desconfiar del perfeccionismo y animarnos a compartir nuestras creaciones con los demás. Al mantener una postura abierta, podremos aprender de los comentarios de otras personas. Sus respuestas pueden considerarse como nuevo material que podemos aprovechar la próxima vez que nos embarquemos en una tarea creativa.
+**Librería**  también llamada biblioteca.  Una colección de códigos y rutinas, previamente realizadas por quienes desarrollan y reutilizables para facilitar procesos comunes en la producción de software y así ahorrar tiempo y esfuerzo.
 
 **Software de modelación y simulación** -- Software que implementa soluciones a ecuaciones matemáticas a partir de datos de entrada y condiciones límite, o bien infiere modelos a partir de datos.
 
