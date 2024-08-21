@@ -555,7 +555,7 @@ Y recuerda, ¡la Ciencia Abierta tiene matices! Aunque uno de los principios de 
 
 En los siguientes módulos encontrarás más detalles sobre cómo redactar los planes de datos, códigos y resultados.
 
-## Lección 2: Resumen {#leccion-2-resumen}
+## Lección 2: Resumen 
 
 En esta lección has aprendido:
 
@@ -564,7 +564,7 @@ En esta lección has aprendido:
 - Ejemplos de herramientas de Ciencia Abierta útiles y comunes, como metadatos, documentación, repositorios y prerregistro.
 - Los pasos para redactar un Plan de Ciencia Abierta y Gestión de Datos.
 
-## Lección 2: Evaluación {#leccion-2-evaluacion}
+## Lección 2: Evaluación 
 
 Responde las siguientes preguntas para poner a prueba lo que has aprendido hasta ahora.
 
