@@ -85,7 +85,7 @@ Utilizar un sistema distribuido de control de versiones como Git te da más flex
 
 El sistema de control de versiones más popular para el desarrollo de software es Git. Git es de Código Abierto y se utiliza habitualmente junto con sitios web de alojamiento de software como GitHub y GitLab (más información sobre ellos en la siguiente sección), que permiten colaborar y compartir código. También puede usarse en una computadora local cuando se escribe código propio. Git suele ejecutarse en la línea de comandos, pero también existen otras interfaces para utilizar Git, como *GitHub Desktop* y algunos editores de código que incluyen integración con Git (más información sobre esto más adelante).
 
-<img src="../images/media/image33_es.png" style="width:350px;height:auto;"/>
+<img src="../images/media/image33_es.jpg" style="width:350px;height:auto;"/>
 
 Adaptación de <https://xkcd.com/1597/>
 
@@ -126,12 +126,12 @@ Vamos a ampliar algunas de las herramientas de colaboración de GitHub. Algunas 
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Seguimiento de contribuciones      | GitHub tiene una forma sencilla de llevar un registro de las contribuciones de código sugeridas (llamadas "*Pull Requests*") por diferentes personas.                                                                                                                                                                                                   |
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Herramientas de revisión de código | GitHub dispone de un amplio conjunto de herramientas para revisar y aceptar (o rechazar) las contribuciones de otros (o las tuyas propias), como los comentarios en línea y los cambios fácilmente visibles en archivos individuales.                                                                                                                   |
+| Herramientas de revisión de código | GitHub dispone de un amplio conjunto de herramientas para revisar y aceptar (o rechazar) las contribuciones de terceros (o las tuyas propias), como los comentarios en línea y los cambios fácilmente visibles en archivos individuales.                                                                                                                   |
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Permisos personalizados            | Elige quién tiene autorización para actualizar el código. Esto ayuda a que tengas la seguridad de que solo quienes tienen permiso pueden actualizar el código que compartiste en GitHub, y también a que otras personas se sientan seguras para sugerir actualizaciones sin preocuparse de que puedan sobrescribir accidentalmente el código existente. |
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Todas estas funciones son excelentes para permitir la colaboración asíncrona entre equipos. La mayoría de los paquetes científicos de Código Abierto utilizan GitHub para el desarrollo de su código principal. Ten en cuenta que hay muchas más funciones de GitHub en las que no profundizamos aquí y que permiten la colaboración, así como flujos de trabajo automatizados y mucho más. Para aprender más sobre GitHub, echa un vistazo a estas referencias:
+Todas estas funciones son excelentes para permitir la colaboración asíncrona entre equipos. La mayoría de los paquetes de Código Abierto científico utilizan GitHub para el desarrollo de su código principal. Ten en cuenta que hay muchas más funciones de GitHub en las que no profundizamos aquí y que permiten la colaboración, así como flujos de trabajo automatizados y mucho más. Para aprender más sobre GitHub, echa un vistazo a estas referencias:
 
 -   [Cómo usar Git y GitHub -- Introducción para principiantes (freecodecamp.org)](https://www.freecodecamp.org/news/introduction-to-git-and-github/)
 -   [Empezando con GitHub --- Pythia Foundations (projectpythia.org)](https://foundations.projectpythia.org/foundations/getting-started-github.html)
@@ -140,18 +140,18 @@ Todas estas funciones son excelentes para permitir la colaboración asíncrona e
 
 ### Resumen de las ventajas de utilizar el control de versiones y las plataformas de control de versiones
 
--   Posibilidad de retrotraer los cambios hasta cualquier punto
--   Facilita la colaboración con otras personas
+-   Posibilita de retrotraer los cambios hasta cualquier punto.
+-   Facilita la colaboración con otras personas.
 -   Mantiene un directorio ordenado, sin necesidad de hacer varias copias de los archivos.
--   Proporciona un sistema de copia de seguridad específico para tu trabajo
+-   Proporciona un sistema de copia de seguridad específico para tu trabajo.
 
 ## Herramientas para editar código
 
-### Entornos de Desarrollo Integrado (IDEs)
+### Entornos de Desarrollo Integrado (IDE)
 
-Un Entorno de Desarrollo Integrado (IDE, por sus siglas en inglés) desempeña un papel importante en el desarrollo de Código Abierto ofreciendo un conjunto de herramientas a los investigadores, científicos, y desarrolladores para editar código. Se trata de una aplicación informática que agiliza todo el proceso de creación, comprobación y gestión de código para la investigación científica y el análisis de datos. Al proporcionar una plataforma todo en uno, un IDE permite a los investigadores escribir, depurar y optimizar el código de forma más eficiente, fomentando la colaboración y la reproducibilidad en proyectos científicos de Código Abierto.
+Un Entorno de Desarrollo Integrado (IDE, por sus siglas en inglés) desempeña un papel importante en el desarrollo de Código Abierto ya que ofrece un conjunto de herramientas a las personas investigadoras, científicas, y que desarrollan software para editar código. Se trata de una aplicación informática que agiliza todo el proceso de creación, comprobación y gestión de código para la investigación científica y el análisis de datos. Al proporcionar una plataforma todo en uno, un IDE permite a quienes investigan escribir, depurar y optimizar el código de forma más eficiente, fomentando la colaboración y la reproducibilidad en proyectos científicos de Código Abierto.
 
-En la Ciencia Abierta, donde la transparencia y la accesibilidad son primordiales, los IDEs suelen incorporar sistemas de control de versiones como Git para facilitar la colaboración y garantizar que un código base de investigación esté disponible para que otras personas lo utilicen y mejoren. Además, muchos IDEs se integran con herramientas de análisis y visualización de datos. Esto facilita el análisis y la interpretación de datos, contribuyendo en última instancia, al avance de las prácticas científicas de Código Abierto.
+En la Ciencia Abierta, donde la transparencia y la accesibilidad son primordiales, los IDEs suelen incorporar sistemas de control de versiones como Git para facilitar la colaboración y garantizar que un código base de investigación esté disponible para que otras personas lo utilicen y mejoren. Además, muchos IDEs se integran con herramientas de análisis y visualización de datos. Esto facilita el análisis y la interpretación de datos y contribuye, en última instancia, al avance de las prácticas científicas de Código Abierto.
 
 Si estuvieras en una sala con 10 personas que trabajan en desarrollo de software y le preguntaras a cada una cuál es su editor de código favorito, obtendrías muchas respuestas diferentes. En esta lección, repasaremos algunas de las opciones más conocidas.
 
@@ -203,7 +203,7 @@ Imagen: pantalla de inicio del VS Code donde se muestran las principales combina
 
 -   Dispone de una opción de "modo oscuro" que es más agradable a la vista para largas sesiones de codificación.
 -   Proporciona el resaltado de sintaxis y una ventana de terminal integrada.
--   También cuenta con una gran cantidad de complementos para conectarse a servidores, sistemas de control de versiones y resolución de problemas. Dispone de varios complementos que pueden analizar el código en busca de fallas, errores y contribuyen a que el equipo codifique con un "estilo" consistente. Esto facilita el mantenimiento del código en el futuro.
+-   También cuenta con una gran cantidad de complementos para conectarse a servidores, sistemas de control de versiones y resolución de problemas. Dispone de varios complementos que pueden analizar el código en busca de fallas y errores, y contribuyen a que el equipo codifique con un "estilo" consistente. Esto facilita el mantenimiento del código en el futuro.
 -   Si la línea de código contiene un error obvio, el IDE mostrará una marca roja, igual a como si se hubiera escrito algo mal en un documento de Word.
 
 A continuación se muestra un ejemplo de un desarrollador que accidentalmente escribió un signo igual cuando debería haber escrito dos puntos. La captura de pantalla muestra que Visual Studio Code (*VS Code*) detectó el error, y cuando el desarrollador pasó el cursor sobre la línea roja ondulada, VS Code explicó cuál era el error (*colon expected*) y ofreció llevarlo a una documentación adicional.
@@ -223,7 +223,7 @@ Desde el VS Code puedes:
 
 Mientras que VS Code es un entorno de desarrollo integrado (en inglés, *Integrated Development Environment, IDE*) más genérico donde puedes utilizar complementos para especializarlo, también existen IDEs, como RStudio, que tienen características especializadas para lenguajes específicos desde el principio.
 
-Los investigadores que realizan análisis estadísticos tienden a utilizar los lenguajes de programación de R y Python. RStudio tiene herramientas integradas para ese mismo propósito, incluyendo la visualización de datos.
+Las personas investigadoras que realizan análisis estadísticos tienden a utilizar los lenguajes de programación de R y Python. RStudio tiene herramientas integradas para ese mismo propósito, incluyendo la visualización de datos.
 
 <img src="../images/media/image36_es.png" style="width:100%;height:auto;"/>
 
@@ -239,7 +239,7 @@ La mayoría de los ordenadores portátiles o de escritorio que ejecutan sistemas
 | -   Muchos se distribuyen nativamente con el sistema operativo (SO) | -   Pueden no tener resaltado de sintaxis                            |
 +---------------------------------------------------------------------+----------------------------------------------------------------------+
 
-### Cuadernos Computacionales
+### Cuadernos computacionales
 
 Un cuaderno computacional se refiere a un entorno de computación virtual e interactivo que combina la ejecución de código, la documentación y la visualización de datos en una sola interfaz. Estos cuadernos son ampliamente utilizados en los campos de ciencias de datos y programación. Ejemplos populares son Jupyter Notebooks y R Notebooks. Permiten a los usuarios escribir y ejecutar código paso a paso, proporcionando una plataforma eficiente para el análisis de datos, la investigación y la programación colaborativa, con el beneficio añadido de integrar texto enriquecido (incluyendo ecuaciones), imágenes y gráficos para una documentación y comunicación claras.
 
@@ -255,7 +255,7 @@ Jupyter Notebook es una aplicación web de Código Abierto ampliamente utilizada
 
 Usaremos Jupyter Notebook como un ejemplo de cuaderno computacional y discutiremos cómo JupyterLab está relacionado con Jupyter Notebook. La siguiente sección sobre plataformas de computación discutirá sobre JupyterHub.
 
-Esta captura de pantalla muestra un ejemplo de un Jupyter Notebook que integra texto enriquecido (con encabezados y enlaces), ecuaciones, código y la salida interactiva de esas líneas de código, incluyendo un gráfico. Esta captura de pantalla deja claro por qué se llama cuaderno computacional - se asemeja a un cuaderno de laboratorio que puedes haber escrito manualmente en la escuela.
+Esta captura de pantalla muestra un ejemplo de un Jupyter Notebook que integra texto enriquecido (con encabezados y enlaces), ecuaciones, código y la salida interactiva de esas líneas de código, incluyendo un gráfico. Esta captura de pantalla deja claro por qué se llama cuaderno computacional: se asemeja a un cuaderno de laboratorio que puedes haber escrito a mano en la escuela.
 
 <img src="../images/media/image38.png" style="width:100%;height:auto;"/>
 
@@ -292,17 +292,17 @@ Sigue estos pasos:
 1.  Navega a la lección "[Calculating ENSO with Xarray (Calculando ENOS con Xarray)](https://foundations.projectpythia.org/core/xarray/enso-xarray.html)"
 2.  En la esquina superior derecha, pasa el ratón sobre el icono del cohete y haz clic en "Binder". Esto abrirá la lección como un Jupyter Notebook ejecutable que corre en la Nube. Ten en cuenta que el Cuaderno Computacional puede tardar varios minutos en configurarse. ![](../images/media/calculatingenso_es.png)
 3.  Después de cargar el Cuaderno Computacional, deberías ver algo como lo siguiente. Nota -- ¡Esto realmente utiliza la vista de JupyterLab! ![](../images/media/calculatingenso2.jpg)
-4.  Puedes tomarte un poco de tiempo para repasar el texto y el código del Cuaderno Computacional, pero ten en cuenta que esta lección presupone muchos conocimientos previos, por lo que está bien si no lo entiendes todo. ¡Aún puedes apreciar los bonitos gráficos que estás a punto de hacer!
-5.  ¡Ahora estás listo para ejecutar el Cuaderno Computacional! Para hacer eso, puedes ir al menú "Run" (*Ejecutar*) en la parte superior izquierda de la ventana de JupyterLab y elegir "Run All Cells" (*Ejecutar todas las celdas*): ![](../images/media/calculatingenso3.jpg)
+4.  Puedes tomarte un poco de tiempo para repasar el texto y el código del cuaderno computacional, pero ten en cuenta que esta lección presupone muchos conocimientos previos, por lo que está bien si no lo entiendes todo. ¡Aún puedes apreciar los bonitos gráficos que estás a punto de hacer!
+5.  ¡Ahora ya puedes ejecutar el Cuaderno Computacional! Para hacer eso, puedes ir al menú "Run" (*Ejecutar*) en la parte superior izquierda de la ventana de JupyterLab y elegir "Run All Cells" (*Ejecutar todas las celdas*): ![](../images/media/calculatingenso3.jpg)
 6.  Esto solo debería tomar unos pocos segundos, y si te desplazas hacia abajo, puedes ver un par de visualizaciones bonitas que acabas de crear:<br>*Usa los botones "\<" y "\>" para navegar entre las imágenes.*
 
 ![](../images/media/calculatingenso4_es.png)
 
 ![](../images/media/image44_es.png)
 
-7.  Tómate algo de tiempo para mirar un poco más de cerca el Cuaderno Computacional. Verás que hay texto (incluyendo encabezados, enlaces ¡e incluso una tabla justo al principio!), código y figuras integradas de manera conjunta. Este es sólo un ejemplo de cómo los científicos utilizan cuadernos computacionales para su investigación.
+7.  Tómate algo de tiempo para mirar un poco más de cerca el Cuaderno Computacional. Verás que hay texto (incluyendo encabezados, enlaces ¡e incluso una tabla justo al principio!), código y figuras integradas de manera conjunta. Este es sólo un ejemplo de cómo quienes hacen ciencia utilizan cuadernos computacionales para su investigación.
 
-Puedes examinar más recursos de aprendizaje del Proyecto Pythia Python a través de su [Libro de Fundamentos](https://foundations.projectpythia.org/landing-page.html), puedes ver ejemplos más avanzados de flujos de trabajo de investigación en geociencias que utilizan Cuadernos Computacionales (que ellos llaman "[CookBooks o Guías Rapidas](https://cookbooks.projectpythia.org/)") para ver más ejemplos de cómo se utilizan los Jupyter Notebooks en la ciencia. Si te interesan las geociencias, ¡puedes contribuir con tu propio Jupyter Notebook, en el caso de que tengas uno que quieras compartir!
+Puedes examinar más recursos de aprendizaje del Proyecto Pythia Python a través de su [Libro de Fundamentos](https://foundations.projectpythia.org/landing-page.html), y puedes ver ejemplos más avanzados de flujos de trabajo de investigación en geociencias que utilizan Cuadernos Computacionales (que ellos llaman "[CookBooks o Guías Rapidas](https://cookbooks.projectpythia.org/)") para ver más ejemplos de cómo se utilizan los Jupyter Notebooks en la ciencia. Si te interesan las geociencias, ¡puedes contribuir con tu propio Jupyter Notebook, en el caso de que tengas uno que quieras compartir!
 
 ### Plataformas de cómputo
 
@@ -312,14 +312,14 @@ Usamos el término "plataforma de cómputo" para referirnos a la infraestructura
 
 Ventajas:
 
--   Conveniente - puede ejecutar cálculos cuando y donde tu elijas
--   Puede adaptar el entorno de software para que sea exactamente lo que necesitas
--   No tienes que compartir tus recursos informáticos
+-   Es conveniente: puede ejecutar cálculos cuando y donde tu elijas.
+-   Puede adaptar el entorno de software para que sea exactamente lo que necesitas.
+-   No tienes que compartir tus recursos informáticos.
 
 Desventajas:
 
--   Tiene potencia computacional limitada
--   Requiere descargar datos y software
+-   Tiene potencia computacional limitada.
+-   Requiere descargar datos y software.
 
 #### Computación de alto rendimiento (HPC, por sus siglas en inglés)
 
@@ -329,51 +329,51 @@ Ventajas:
 
 Desventajas:
 
--   Por lo general, es propiedad de una institución en particular y está administrada por ella; es posible que debas estar afiliado a esa institución para obtener acceso a su HPC
--   Es posible que tengas que esperar mucho tiempo para ejecutar el código, ya que normalmente se comparte entre muchas personas y grupos
--   Se necesita fondos considerables para construir una HPC
+-   Por lo general, es propiedad de una institución en particular y está administrada por ella; es posible que debas estar afiliado a esa institución para obtener acceso a su HPC.
+-   Es posible que tengas que esperar mucho tiempo para ejecutar el código, ya que normalmente se comparte entre muchas personas y grupos.
+-   Se necesitan fondos considerables para construir una HPC.
 
 #### Computación en la nube (Cloud Computing)
 
 Ventajas:
 
--   Potencia computacional extremadamente alta
--   Tiempos de espera mínimos para ejecutar el código
--   Normalmente accesible para cualquier persona con conexión a Internet
--   Opciones de precios bajo demanda: solo tienes que pagar por lo que usas
+-   Potencia computacional extremadamente alta.
+-   Tiempos de espera mínimos para ejecutar el código.
+-   Normalmente accesible para cualquier persona con conexión a Internet.
+-   Opciones de precios bajo demanda: solo tienes que pagar por lo que usas.
 
 Desventajas:
 
--   Alto costo por cálculo
--   Falta de transparencia en los costos - Por ejemplo leer datos de diferentes regiones de la nube puede costar mucho dinero, pero no siempre está claro en qué región se encuentran los datos y se realizan los cálculos
--   Puede requerir algún conocimiento adicional sobre cómo funciona el cómputo en la nube
+-   Alto costo por cálculo.
+-   Falta de transparencia en los costos. Por ejemplo leer datos de diferentes regiones de la nube puede costar mucho dinero, pero no siempre está claro en qué región se encuentran los datos y dónde se realizan los cálculos.
+-   Puede requerir algún conocimiento adicional sobre cómo funciona el cómputo en la nube.
 
-Ejemplos de proveedores en la Nube:
+Ejemplos de proveedores en la nube:
 
 -   Amazon Web Services (AWS)
 -   Google Cloud
 -   Microsoft Azure
 
-Muchos proveedores de datos, especialmente de grandes conjuntos de datos, están migrando sus datos a la Nube para aumentar la accesibilidad y aprovechar la gran capacidad de almacenamiento que ésta proporciona. Por ejemplo, NASA Earthdata (que alberga todos los datos de ciencias terrestres de la NASA) ahora utiliza AWS para almacenar la mayoría de sus datos. Muchos proveedores de Nube también tienen una serie de conjuntos de datos disponibles públicamente, incluidos [Google Cloud](https://cloud.google.com/storage/docs/public-datasets?hl=es-419#%3A~%3Atext%3DAvailable%20public%20datasets%20on%20Cloud%20Storage%201%20ERA5%3A%2Cfrom%202015%20through%20the%20present.%20...%20More%20items) y [AWS](https://registry.opendata.aws/).
+Muchos proveedores de datos, especialmente de grandes conjuntos de datos, están migrando sus datos a la nube para aumentar la accesibilidad y aprovechar la gran capacidad de almacenamiento que ésta proporciona. Por ejemplo, NASA Earthdata (que alberga todos los datos de ciencias terrestres de la NASA) ahora utiliza AWS para almacenar la mayoría de sus datos. Muchos proveedores de estos servicios también tienen una serie de conjuntos de datos disponibles públicamente, incluidos [Google Cloud](https://cloud.google.com/storage/docs/public-datasets?hl=es-419#%3A~%3Atext%3DAvailable%20public%20datasets%20on%20Cloud%20Storage%201%20ERA5%3A%2Cfrom%202015%20through%20the%20present.%20...%20More%20items) y [AWS](https://registry.opendata.aws/).
 
-Al elegir una plataforma de cómputo, es importante considerar dónde se guardan los conjuntos de datos y que tan grandes pueden ser. Por ejemplo, cuando se trabaja con conjuntos de datos pequeños, suele ser preferible utilizar una computadora personal, ya que la descarga de datos llevará un tiempo mínimo y probablemente no se necesiten grandes recursos informáticos. Sin embargo, cuando se trabaja con grandes conjuntos de datos, es mejor minimizar la cantidad de descarga y carga de datos ya que esto puede consumir cantidades significativas de tiempo y ancho de banda de internet. Si tus grandes conjuntos de datos ya están almacenados en la nube, es mejor utilizar recursos de la nube, al igual que para el cálculo y el uso de HPC.
+Al elegir una plataforma de cómputo, es importante considerar dónde se guardan los conjuntos de datos y qué tan grandes pueden ser. Por ejemplo, cuando se trabaja con conjuntos de datos pequeños, suele ser preferible utilizar una computadora personal, ya que la descarga de datos llevará un tiempo mínimo y probablemente no se necesiten grandes recursos informáticos. Sin embargo, cuando se trabaja con grandes conjuntos de datos, es mejor minimizar la cantidad de descarga y carga de datos ya que esto puede consumir cantidades significativas de tiempo y ancho de banda de internet. Si tus grandes conjuntos de datos ya están almacenados en la nube, es mejor utilizar recursos de la nube, al igual que para el cálculo y el uso de HPC.
 
-## Herramientas adicionales {#herramientas-adicionales}
+## Herramientas adicionales 
 
 ### Repositorios de software vs archivos
 
 Los repositorios y archivos de software proporcionan ubicaciones centralizadas para almacenar y compartir software. Existen algunas diferencias clave importantes entre ellos, los cuales analizaremos en esta sección.
 
-Un repositorio de software es un espacio dinámico y colaborativo donde los desarrolladores trabajan en el código más reciente, lo que lo convierte en el corazón del desarrollo continuo del software y del control de versiones. Alberga bases de código mantenidas activamente, lo que fomenta la colaboración y la mejora continua, a menudo impulsada por la comunidad.
+Un repositorio de software es un espacio dinámico y colaborativo donde quienes desarrollan trabajan en el código más reciente, lo que lo convierte en el corazón del desarrollo continuo del software y del control de versiones. Alberga bases de código mantenidas activamente, lo que fomenta la colaboración y la mejora continua, a menudo impulsada por la comunidad.
 
-Por el contrario, un archivo de software es un almacenamiento estático donde se guardan versiones de software estables y minuciosamente probadas. Los usuarios acceden a estos archivos para obtener versiones confiables de software, asegurando estabilidad y confiabilidad en sus aplicaciones. Comprender la diferencia entre estos dos es crucial para un desarrollo y distribución de software eficaces.
+Por el contrario, un archivo de software es un almacenamiento estático donde se guardan versiones de software estables y minuciosamente probadas. Las personas usuarias acceden a estos archivos para obtener versiones confiables de software, asegurando estabilidad y confiabilidad en sus aplicaciones. Comprender la diferencia entre ambos es crucial para un desarrollo y distribución de software eficaces.
 
 <img src="../images/media/image45_es.jpg" style="width:350px;height:auto;"/>
 
 Git/GitHub y Bitbucket son opciones populares para repositorios de software.
 
 +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Repositorio ☑ \| Archivo \| ====================================================================================================================================================================================================================================================================================================================================+=========+ - Es una ubicación para compartir código. \| \| \| \| - A menudo utiliza sistemas de control de versiones como Git, Mercurial y Subversion para realizar un seguimiento de los cambios \| \| \| \| - Por lo general, contiene la última versión de desarrollo (a veces denominada "maestra", *master*, o "troncal", *trunk*) de un proyecto de software, en la que los desarrolladores pueden trabajar activamente. \| \| \| - Se utiliza para el desarrollo colaborativo de software y para compartir código entre un equipo o una comunidad de desarrolladores. \| \| \| \| **Nota importante:** Un repositorio no es más que un lugar para alojar código. Hoy en día, un sistema de control de versiones y un repositorio suelen ser la misma cosa. Es importante entender la distinción. Sin embargo, algunos sitios web son puramente buzones (*dropboxes*) para archivos ejecutables o zip de código fuente. \| \| |
+| Repositorio ☑ \| Archivo \| ====================================================================================================================================================================================================================================================================================================================================+=========+ - Es una ubicación para compartir código. \| \| \| \| - A menudo utiliza sistemas de control de versiones como Git, Mercurial y Subversion para realizar un seguimiento de los cambios \| \| \| \| - Por lo general, contiene la última versión de desarrollo (a veces denominada "maestra", *master*, o "troncal", *trunk*) de un proyecto de software, en la que quienes desarrollan pueden trabajar activamente. \| \| \| - Se utiliza para el desarrollo colaborativo de software y para compartir código entre un equipo o una comunidad de desarrollo. \| \| \| \| **Nota importante:** Un repositorio no es más que un lugar para alojar código. Hoy en día, un sistema de control de versiones y un repositorio suelen ser la misma cosa. Es importante entender la distinción. Sin embargo, algunos sitios web son puramente buzones (*dropboxes*) para archivos ejecutables o zip de código fuente. \| \| |
 +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 +--------------------------------------------------------------------------------------------------------------------------------------------------------+-----------+
@@ -388,7 +388,7 @@ Git/GitHub y Bitbucket son opciones populares para repositorios de software.
 
 **Contenedores**
 
-Un contenedor (*container*) de software es un paquete independiente y ejecutable que incluye todo lo necesario para ejecutar una pieza de software, e incluye el código, el tiempo de ejecución, las herramientas del sistema, la configuración del entorno y las bibliotecas. Los contenedores son entornos aislados que contienen la aplicación y todo lo necesario para ejecutarla, lo que garantiza coherencia y portabilidad entre diferentes entornos informáticos. Un contenedor es una herramienta útil que puede proporcionar eficiencia, escalabilidad y facilidad de implementación. Algunos ejemplos de herramientas de contenedores ampliamente utilizadas son Kubernetes, Docker, y Apache Mesos.
+Un contenedor (*container*) de software es un paquete independiente y ejecutable que incluye todo lo necesario para ejecutar una pieza de software, e incluye el código, el tiempo de ejecución, las herramientas del sistema, la configuración del entorno y las bibliotecaso librerías. Los contenedores son entornos aislados que contienen la aplicación y todo lo necesario para ejecutarla, lo que garantiza coherencia y portabilidad entre diferentes entornos informáticos. Un contenedor es una herramienta útil que puede proporcionar eficiencia, escalabilidad y facilidad de implementación. Algunos ejemplos de herramientas de contenedores ampliamente utilizadas son Kubernetes, Docker, y Apache Mesos.
 
 ### Actividad 4.2: Relaciona las herramientas
 
@@ -399,7 +399,7 @@ Relaciona cada elemento con su descripción:
 +---------------------------------------+--------------------------------------------------------------------------------------------------------------------+
 | Archivo de software                   | Almacenamiento estático donde se guardan versiones de software estables y completamente probadas.                  |
 +---------------------------------------+--------------------------------------------------------------------------------------------------------------------+
-| Plataforma de control de versiones    | Herramienta que ayuda a los desarrolladores de software a gestionar y realizar un seguimiento de los cambios     |
+| Plataforma de control de versiones    | Herramienta que ayuda a quienes desarrollan software a gestionar y realizar un seguimiento de los cambios     |
 +---------------------------------------+--------------------------------------------------------------------------------------------------------------------+
 
 ## Lección 4: Resumen 
@@ -440,6 +440,7 @@ Un entorno informático interactivo que combina ejecución de código, documenta
 *Pregunta*
 
 **03/03**
+Lee esta afirmación y decide si es verdadera o falsa.
 
 Un repositorio de software y un archivo de software son lo mismo.
 
