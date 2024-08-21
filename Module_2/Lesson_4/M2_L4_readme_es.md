@@ -113,7 +113,7 @@ Si volvemos a la idea general de utilizar sistemas de control de versiones, GitH
 
 -   Para que funcione como copia de seguridad de tu trabajo (ahora se almacena en un servidor remoto al que puedes acceder incluso si tu computadora muere).
 -   Para compartir tu código con otra personas (más sobre esto más adelante en este curso).
--   Para que otros colaboren con tu código. Subiéndolo a GitHub, tu código puede ser accesible para otros que quieran añadir características.
+-   Para que otras personas colaboren con tu código. Subiéndolo a GitHub, tu código puede ser accesible para quienes quieran añadir mejoras.
 
 Vamos a ampliar algunas de las herramientas de colaboración de GitHub. Algunas de estas funcionalidades incluyen:
 
@@ -217,7 +217,7 @@ Desde el VS Code puedes:
 -   Ver fácilmente las modificaciones en tu código.
 -   Crear una rama.
 -   Subir tus cambios directamente a GitHub.
--   Descargar cambios de otros miembros del equipo a tu sistema local.
+-   Descargar cambios de otras personas del equipo a tu sistema local.
 
 **Ejemplo de IDE: Rstudio -- IDE**
 
@@ -273,13 +273,13 @@ Dado que Jupyter Notebook permite integrar código con visualizaciones y texto, 
 
 [HAZ CLIC PARA APRENDER MÁS (*en inglés*)](https://jupyter.org/)
 
-Si quieres sumergirte en el tema, consulta la lección "Primeros pasos con Jupyter" del Proyecto Pythia, orientada a científicos sin conocimientos previos de programación.
+Si quieres sumergirte en el tema, consulta la lección "Primeros pasos con Jupyter" del Proyecto Pythia, orientada a personas sin conocimientos previos de programación.
 
 ### Actividad 4.1: Ejecuta Jupyter Notebook desde tu navegador
 
 Usemos un ejemplo del Proyecto Pythia para mostrar cómo los cuadernos computacionales pueden ser usados en la ciencia. Proyecto Pythia es un centro educativo para la comunidad geocientífica. Tienen algunos grandes recursos de aprendizaje y ejemplos de cuadernos de investigación, desarrollados y mantenidos por la comunidad y de libre acceso.
 
-En esta actividad, ejecutarás código Python ya escrito en un Jupyter Notebook desde tu navegador para hacer gráficos relacionados con el fenómenos El Niño-Oscilación del Sur (o ENOS). Utilizarás el paquete de software de Código Abierto llamado Xarray para leer los datos de temperatura de la superficie del mar de un modelo climático global (Modelo Comunitario del Sistema Tierra, en ingles *Community Earth System Model, CESM*), y crear algunas visualizaciones de eventos ENOS a lo largo de los últimos 20 años. El objetivo es recrear el gráfico siguiente para aproximadamente los últimos 20 años. Esta figura muestra los años y la magnitud de los eventos de El Niño en rojo y de los eventos de La Niña en azul.
+En esta actividad, ejecutarás código Python ya escrito en un Jupyter Notebook desde tu navegador para hacer gráficos relacionados con el fenómeno El Niño-Oscilación del Sur (o ENOS). Utilizarás el paquete de software de Código Abierto llamado Xarray para leer los datos de temperatura de la superficie del mar de un modelo climático global (Modelo Comunitario del Sistema Tierra, en ingles *Community Earth System Model, CESM*), y crear algunas visualizaciones de eventos ENOS a lo largo de los últimos 20 años. El objetivo es recrear el gráfico siguiente para aproximadamente los últimos 20 años. Esta figura muestra los años y la magnitud de los eventos de El Niño en rojo y de los eventos de La Niña en azul.
 
 ![](../images/media/image39_es.png)
 
@@ -388,7 +388,7 @@ Git/GitHub y Bitbucket son opciones populares para repositorios de software.
 
 **Contenedores**
 
-Un contenedor (*container*) de software es un paquete independiente y ejecutable que incluye todo lo necesario para ejecutar una pieza de software, e incluye el código, el tiempo de ejecución, las herramientas del sistema, la configuración del entorno y las bibliotecaso librerías. Los contenedores son entornos aislados que contienen la aplicación y todo lo necesario para ejecutarla, lo que garantiza coherencia y portabilidad entre diferentes entornos informáticos. Un contenedor es una herramienta útil que puede proporcionar eficiencia, escalabilidad y facilidad de implementación. Algunos ejemplos de herramientas de contenedores ampliamente utilizadas son Kubernetes, Docker, y Apache Mesos.
+Un contenedor (*container*) de software es un paquete independiente y ejecutable que incluye todo lo necesario para ejecutar una pieza de software, e incluye el código, el tiempo de ejecución, las herramientas del sistema, la configuración del entorno y las bibliotecas o librerías. Los contenedores son entornos aislados que contienen la aplicación y todo lo necesario para ejecutarla, lo que garantiza coherencia y portabilidad entre diferentes entornos informáticos. Un contenedor es una herramienta útil que puede proporcionar eficiencia, escalabilidad y facilidad de implementación. Algunos ejemplos de herramientas de contenedores ampliamente utilizadas son Kubernetes, Docker, y Apache Mesos.
 
 ### Actividad 4.2: Relaciona las herramientas
 
@@ -422,7 +422,7 @@ Responde las siguientes preguntas para poner a prueba lo que has aprendido hasta
 
 -   Capacidad para realizar un seguimiento de los cambios que se han realizado
 -   No se puede volver hacia atrás para hacer cambios
--   Facilidad de colaboración en el código, con otros
+-   Facilidad de colaboración en el código, con otras personas
 -   Directorio limpio y ordenado: no es necesario realizar varias copias de archivos
 -   Un sistema de respaldo muy específico para tu trabajo
 
