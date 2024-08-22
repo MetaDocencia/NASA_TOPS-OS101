@@ -1,6 +1,6 @@
-# Módulo 2: Herramientas abiertas y recursos
+# Módulo 2: Herramientas y recursos abiertos
 
-Te damos la bienvenida a Introducción a la Ciencia Abierta: Herramientas y Recursos abiertos
+Te damos la bienvenida a Introducción a la Ciencia Abierta: Herramientas y recursos abiertos
 
 ## Acerca de este módulo
 
