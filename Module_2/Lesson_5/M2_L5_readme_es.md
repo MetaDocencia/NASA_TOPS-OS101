@@ -21,7 +21,7 @@ Al finalizar esta lección deberías ser capaz de:
 - Listar herramientas usadas comúnmente que incrementan la reproducibilidad de un resultado.
 - Enumerar aplicaciones para gestión de proyectos y gestión de referencias.
 
-## Herramientas para las publicaciones abiertas {#herramientas-publicaciones-abiertas}
+## Herramientas para las publicaciones abiertas
 
 ### *Preprints*
 
@@ -104,7 +104,7 @@ Protocolo es un término comúnmente utilizado y a la vez un resultado de invest
 
 En un sentido más amplio, protocolo comprende flujos de trabajo informáticos documentados, procedimientos operativos con instrucciones paso a paso o incluso listas de comprobación de seguridad.
 
-[ Protocols.io](https://www.protocols.io/) es una plataforma en línea y segura para las personas que hacen ciencias afiliadas al mundo académico, la industria, organizaciones sin fines de lucro y agencias. Esta permite a quienes la usan la creación, gestión, intercambio, mejora y la posibilidd de compartir métodos y protocolos de investigación de distintas disciplinas. Este recurso puede mejorar la colaboración y el mantenimiento de registros, lo que aumenta la productividad de los equipos y facilita la enseñanza, especialmente en las ciencias humanas. En su versión gratuita, protocols.io admite compartir los protocolos públicamente, mientras que los planes pagos permiten compartirlos de forma privada, por ejemplo para la industria.
+[ Protocols.io](https://www.protocols.io/) es una plataforma en línea y segura para las personas que hacen ciencias afiliadas al mundo académico, la industria, organizaciones sin fines de lucro y agencias. Esta permite a quienes la usan la creación, gestión, intercambio, mejora y la posibilidad de compartir métodos y protocolos de investigación de distintas disciplinas. Este recurso puede mejorar la colaboración y el mantenimiento de registros, lo que aumenta la productividad de los equipos y facilita la enseñanza, especialmente en las ciencias humanas. En su versión gratuita, protocols.io admite compartir los protocolos públicamente, mientras que los planes pagos permiten compartirlos de forma privada, por ejemplo para la industria.
 
 Algunas de las herramientas están diseñadas específicamente para la Ciencia Abierta con un concepto de diseño abierto desde la fase de ideación. Estas herramientas buscan apoyar el ciclo de vida de la investigación en todas sus fases y permiten la integración con otras herramientas de Ciencia Abierta.
 
