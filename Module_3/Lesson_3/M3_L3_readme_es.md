@@ -50,7 +50,7 @@ Son preferibles los formatos de datos que son compatibles con los usados por la 
 - ¿Hay herramientas disponibles o se necesitan herramientas especializadas para leer el formato de los datos?
 - ¿El formato de los datos se utiliza habitualmente en su su disciplina? Las normas comunitarias garantizan la compatibilidad, interoperabilidad y facilidad de uso a la hora de intercambiar o compartir datos entre investigadores u organizaciones de la misma comunidad.
 
-<img src="../images/media/image31.png" style="width:100%;height:auto;" />
+<img src="../images/media/image31_es.png" style="width:100%;height:auto;" />
 
 Consulte si su organismo de financiación, institución o repositorio de datos tiene requisitos adicionales o alguna guía sobre los formatos de datos.
 
@@ -182,7 +182,7 @@ La versión adecuada preserva la calidad y la procedencia de los datos (el orige
 
 ## Haciendo los datos reutilizables a través de licencias
 
-<img src="../images/media/image32.jpeg" style="width:100%;height:auto;" />
+<img src="../images/media/image32_es.jpeg" style="width:100%;height:auto;" />
 
 Fuente de la imagen: [xkcd.com](https://www.explainxkcd.com/wiki/index.php/File:copyright.jpg)
 
@@ -190,7 +190,7 @@ Fuente de la imagen: [xkcd.com](https://www.explainxkcd.com/wiki/index.php/File:
 
 Los datos son propiedad intelectual de quienes investigan, o posiblemente de quien financia o la/s institución/es. Los datos son propiedad intelectual, pero eso no significa que no puedan ser utilizados por otras personas investigadoras (con la debida atribución).
 
-<img style="width:100%;height:auto;" src="../images/media/applylicensetoyourwork.jpg">
+<img style="width:100%;height:auto;" src="../images/media/applylicensetoyourwork_es.jpg">
 
 "Al aplicar una licencia a tu trabajo, dejas claro lo que otras personas pueden hacer con las cosas que estás compartiendo, y también las condiciones bajo las que los estás proporcionando (como citarte). También puedes exigir a quienes copien tu trabajo que hagan cosas a cambio.
 
@@ -204,7 +204,7 @@ Un conjunto de datos sin licencia no significa que los datos estén abiertos; el
 
 Es crucial entender cuándo y dónde se aplica la licencia. Por ejemplo, los datos creados con fondos públicos de investigación del Gobierno de los Estados Unidos son, por defecto, de dominio público. Sin embargo, esto solo aplica a la jurisdicción de los Estados Unidos. Para que esto se aplique internacionalmente, quienes crean datos deben seleccionar una licencia abierta.
 
-<img src="../images/media/image34.jpeg" style="width:100%;height:auto;" />
+<img src="../images/media/image34_es.jpeg" style="width:100%;height:auto;" />
 
 Existen varios tipos diferentes de licencias que se construyen entre sí. Las licencias Creative Commons (CC) son utilizadas a menudo para conjuntos de datos. CC0 (también conocido como "dominio público") es la licencia que permite la mayor reutilización porque tiene las menores restricciones sobre lo que las personas usuarias pueden hacer. Aunque la licencia CC0 no requiere explícitamente de citas, debes seguir las mejores prácticas de la comunidad y citar la fuente de los datos. CC-BY es otra licencia común utilizada para datos científicos que requiere citación. A partir de ahí, puedes añadir restricciones sobre el uso comercial, la capacidad de adaptar o modificar los datos o requisitos para compartir con la misma licencia. Estos otros aditivos reducen la usabilidad al añadir restricciones, para que otras personas de ciencia no puedan utilizar los datos debido a restricciones institucionales o legales. Las agencias de financiación pueden requerir el uso de una licencia en específico. Para las agencias públicas, a menudo es CC-0 o CC-BY, para maximizar su rentabilidad de la inversión y asegurar la reutilización más amplia posible.
 
@@ -212,7 +212,7 @@ Existen varios tipos diferentes de licencias que se construyen entre sí. Las li
 
 Aquí hay un ejemplo de cómo una licencia de datos puede afectar a la reutilización. La Fase 6 del Proyecto de Intercomparación de Modelo Acoplado (Coupled Model Intercomparison Project Phase 6 [CMIP6]) consiste en el "correr" alrededor de 100 distintos modelos climáticos que se están produciendo mediante 49 diferentes grupos de modelado. Estos son los datos que son utilizados para entender cómo podría ser nuestro futuro clima. Tú probablemente hayas visto imágenes que usan estos datos en artículos sobre el cambio climático de la Tierra y cómo puede impactar en nuestras vidas. Las versiones anteriores de estos datos contaban con licencia CC-BY-NC-SA (cite-noncommercial- sharealike).
 
-<img src="../images/media/image35.jpeg" style="width:100%;height:auto;" />
+<img src="../images/media/image35_es.jpeg" style="width:100%;height:auto;" />
 
 Cita de Figura: IPCC (Encuadre y contexto en: Calentamiento global de 1.5 °C. Un Reporte Especial de IPCC) "[Framing and Context in: Global warming of 1.5°C. An IPCC Special Report](https://www.researchgate.net/publication/369301788_Framing_and_Context_in_In_Global_warming_of_15C_An_IPCC_Special_Report)" 2020
 

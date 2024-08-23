@@ -35,7 +35,7 @@ Los datos abiertos son un pilar esencial de la ciencia abierta. En muchos sentid
 
 Pérdida de tejido óseo, vértigo, anemia, atrofia muscular, mayor riesgo de cáncer - estos son solo algunos de los efectos secundarios de viajar al espacio para los humanos. Para estudiar estos riesgos de viajar al espacio para la salud humana, las personas que investigan de todo el mundo usan la plataforma GeneLab de código abierto de la NASA. GeneLab recopila grandes cantidades de datos de biología espacial sobre muestras humanas y de organismos modelo expuestos a condiciones de viajes espaciales. Sus respositorios digitales y físicos incluyen información celular, sobre ADN, ARN y proteínas. Al ser una plataforma abierta, los datos de GeneLab son públicamente accesibles y sin ningún costo.
 
-<img src="../images/media/image2.jpeg" style="width:100%;height:auto;" />
+<img src="../images/media/image2_es.jpeg" style="width:100%;height:auto;" />
 
 **Ejemplo:** Usando datos biológicos de astronautas de GeneLab, [la comunidad científica recientemente encontró](https://www.nature.com/articles/s41576-020-00322-8) cuál puede ser el motivo de muchos de los efectos secundarios del viaje al espacio: el estrés mitocondrial.
 
@@ -47,7 +47,7 @@ Las mitocondrias son componentes de nuestras células que afectan a la función 
 
 ### ¿Qué son los datos?
 
-<img src="../images/media/image3.jpeg" style="width:350px;height:auto;" />
+<img src="../images/media/image3_es.jpeg" style="width:350px;height:auto;" />
 
 La Comunidad _The Turing Way_. Esta ilustración fue creada por Scriberia junto con la comunidad de _The Turing Way_, utilizada bajo una licencia CC-BY 4.0. DOI: 10.5281/zenodo.3332807
 
@@ -72,7 +72,7 @@ Los datos incluyen:
 
 El término "datos abiertos" se define en el manual de datos abiertos de la Open Knowledge Foundation (Fundación Conocimiento Abierto):
 
-<img style="width:100%;height:auto;" src="../images/media/opendatahandbookquote.jpg">
+<img style="width:100%;height:auto;" src="../images/media/opendatahandbookquote_es.jpg">
 
 "Los datos abiertos son datos que cualquiera puede utilizar, reutilizar y redistribuir libremente, sujetos únicamente y como máximo al requisito de atribuir y compartir por igual".
 
@@ -167,7 +167,7 @@ La implementación de buenas prácticas para la ciencia abierta puede fortalecer
 
 Tómate un momento para reflexionar sobre lo que significa para tí compartir datos.
 
-<img style="width:100%;height:auto;" src="../images/media/image6.jpeg">
+<img style="width:100%;height:auto;" src="../images/media/image6_es.jpeg">
 
 Fuente de la imagen: CC-by [openaire](https://www.openaire.eu/blogs/open-research-data-the-fairest-data-is-the-future-of-science-estonia-national-openaire-event-1)
 
@@ -212,7 +212,7 @@ En última instancia, eres libre de implementar los principios y recursos de los
 
 ## Aplicación de los Principios FAIR
 
-<img src="../images/media/image9.png" style="width:100%;height:auto;" />
+<img src="../images/media/image9_es.png" style="width:100%;height:auto;" />
 
 Imagen de Patrick Hochstenbach, CC0 1.0; La imagen ilustra cada principio FAIR.
 
@@ -375,13 +375,13 @@ Para este plan de estudios, utilizamos el modelo de flujo de trabajo de [Opensci
 
 Si tu proyecto ya está en curso, es una buena idea actualizar futuras publicaciones de datos para adherirse a los principios de datos abiertos en la medida de lo posible. Para nuevos proyectos, tus propuestas deberían incluir la creación de datos abiertos desde el inicio de su proyecto.
 
-<img src="../images/media/image10.jpeg" style="width:100%;height:auto;" />
+<img src="../images/media/image10_es.jpeg" style="width:100%;height:auto;" />
 
 En este plan de estudios, el contenido se organiza según cómo podrías usarlo, crearlo y compartirlo. Una parte de la ciencia abierta consiste en construir sobre los materiales de otros (usar), crear materiales tú mismo (hacer) y compartirlos para que otros puedan usar esos resultados (compartir). Las lecciones se organizan en torno a estos pasos del flujo de trabajo científico.
 
 El marco "Usar, Hacer, Compartir" clasifica las tareas más habituales en la práctica de la ciencia abierta.
 
-<img src="../images/media/image11.png" style="width:100%;height:auto;" />
+<img src="../images/media/image11_es.png" style="width:100%;height:auto;" />
 
 ### Roles a la hora de usar, hacer, compartir
 

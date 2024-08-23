@@ -29,13 +29,13 @@ Los datos abiertos no siempre son fáciles de usar en su investigación. A veces
 
 Como ejemplo, veamos los datos mensuales promedio de dióxido de carbono del Observatorio "Mauna Loa" en Hawaii. Se trata de un conjunto de datos fundacionales para el cambio climático. No sólo es uno de los primeros conjuntos de datos de observación que claramente mostraron impactos antropogénicos en la atmósfera de la Tierra, constituye el registro más largo de mediciones directas de dióxido de carbono en la atmósfera. Estas observaciones comenzaron por C. David Keeling de la Institución de Oceanografía "Scripps" en marzo de 1958 en una instalación de la Administración Nacional Oceanica y Atmosférica \[Keeling, 1976\].
 
-<img src="../images/media/image19.jpeg" style="width:100%;height:auto;" />
+<img src="../images/media/image19_es.jpeg" style="width:100%;height:auto;" />
 
 Si desea hacer esta cifra usted mismo, o utilizar los datos para algún otro fin, primero querrá encontrar los datos. Si busca este conjunto de datos, o cualquier dato, es posible que encuentre varias fuentes diferentes. ¿Cómo decide qué datos usar?
 
 Si comienza con Google y busca "datos de dióxido de carbono de Mauna Loa", encontrará muchos resultados. Aquí se presentan algunos de ellos:
 
-<img src="../images/media/image20.png" style="width:100%;height:auto;" />
+<img src="../images/media/image20_es.png" style="width:100%;height:auto;" />
 
 ¿Cómo decidiras cuál utilizar? En esta lección cubriremos cómo encontrar, evaluar relevancia y utilizar datos abiertos.
 
@@ -49,7 +49,7 @@ Los datos abiertos se pueden descubrir accediendo a los repositorios de datos, l
 
 Hay múltiples caminos para encontrar datos de investigación, y usted debería estar practicando en todos.
 
-<img src="../images/media/image21.png" style="width:100%;height:auto;" />
+<img src="../images/media/image21_es.png" style="width:100%;height:auto;" />
 
 ### Personas que conoces (¡Online o en persona!)
 
@@ -57,7 +57,7 @@ Cuando nos presentamos al momento actual con todos nuestros sentidos, invitamos 
 
 ¿Cuál es la primera y mejor forma de encontrar los datos de investigación? Pregunte a su comunidad, incluyendo a su asesor de investigación, colegas, miembros del equipo y personas en línea. Conocer dónde encontrar datos fiables es tanto una habilidad y arte como cualquier técnica de laboratorio. Aprendes este juego de habilidades trabajando con profesionales en tu campo. No hay una sola fuente, no hay ningún método.
 
-<img src="../images/media/image22.jpeg" style="width:100%;height:auto;" />
+<img src="../images/media/image22_es.jpeg" style="width:100%;height:auto;" />
 
 Fuente de la imagen: NASA, Hart Dominic 2023
 
@@ -274,7 +274,7 @@ Unir el tipo de repositorio con la definición correcta.
 
 ## Evaluando datos abiertos
 
-<img src="../images/media/image24.png" style="width:100%;height:auto;" />
+<img src="../images/media/image24_es.png" style="width:100%;height:auto;" />
 
 El uso de datos abiertos para un proyecto depende de una serie de factores, como la calidad de los datos, las condiciones de acceso y reutilización, la facilidad de encontrar los datos, etc. Algunos elementos esenciales que permiten evaluar la pertinencia y utilidad de los conjuntos de datos son (adaptado del [curso GODAN Action Open Data](https://aims.gitbook.io/open-data-mooc/unit-3-using-open-data/lesson-2.2-quality-and-provenance)):
 
@@ -332,7 +332,7 @@ Muchos conjuntos de datos y repositorios especifican cómo deben ser citados. La
 - Fecha de creación
 - También se pueden especificar campos adicionales
 
-<img src="../images/media/image25.jpeg" style="width:100%;height:auto;" />
+<img src="../images/media/image25_es.jpeg" style="width:100%;height:auto;" />
 
 Este es un sencillo ejemplo de archivo CITATION.cff. Fuente: [GitHub](https://github.com/)
 
