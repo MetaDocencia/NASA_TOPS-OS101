@@ -4,7 +4,7 @@
 
 - [Resumen](#resumen)
 - [Objetivos de Aprendizaje](#learning-objectives)
-- [Introduccion](#introduction)
+- [Introducción](#introduction)
 - [Descubriendo datos abiertos](#discovering-open-data)
 - [Evaluando los datos abiertos](#assessing-open-data)
 - [Utilizando Datos Abiertos](#using-open-data)
@@ -29,7 +29,7 @@ Los datos abiertos no siempre son fáciles de usar en su investigación. A veces
 
 Como ejemplo, veamos los datos mensuales promedio de dióxido de carbono del Observatorio "Mauna Loa" en Hawaii. Se trata de un conjunto de datos fundacionales para el cambio climático. No sólo es uno de los primeros conjuntos de datos de observación que claramente mostraron impactos antropogénicos en la atmósfera de la Tierra, constituye el registro más largo de mediciones directas de dióxido de carbono en la atmósfera. Estas observaciones comenzaron por C. David Keeling de la Institución de Oceanografía "Scripps" en marzo de 1958 en una instalación de la Administración Nacional Oceanica y Atmosférica \[Keeling, 1976\].
 
-<img src="../images/media/image19_es.jpeg" style="width:100%;height:auto;" />
+<img src="../images/media/image19_es.jpg" style="width:100%;height:auto;" />
 
 Si desea hacer esta cifra usted mismo, o utilizar los datos para algún otro fin, primero querrá encontrar los datos. Si busca este conjunto de datos, o cualquier dato, es posible que encuentre varias fuentes diferentes. ¿Cómo decide qué datos usar?
 
@@ -37,7 +37,7 @@ Si comienza con Google y busca "datos de dióxido de carbono de Mauna Loa", enco
 
 <img src="../images/media/image20_es.png" style="width:100%;height:auto;" />
 
-¿Cómo decidiras cuál utilizar? En esta lección cubriremos cómo encontrar, evaluar relevancia y utilizar datos abiertos.
+¿Cómo decidirás cuál utilizar? En esta lección cubriremos cómo encontrar, evaluar relevancia y utilizar datos abiertos.
 
 ---
 
@@ -325,14 +325,14 @@ Muchos conjuntos de datos y repositorios especifican cómo deben ser citados. La
 
 - Los autores y sus instituciones
 - Título
-- ORCiD
+- ORCID
 - DOI
 - Versión
 - URL
 - Fecha de creación
 - También se pueden especificar campos adicionales
 
-<img src="../images/media/image25_es.jpeg" style="width:100%;height:auto;" />
+<img src="../images/media/image25_es.png" style="width:100%;height:auto;" />
 
 Este es un sencillo ejemplo de archivo CITATION.cff. Fuente: [GitHub](https://github.com/)
 
@@ -397,7 +397,7 @@ _Pregunta_
 
 - Los autores y sus instituciones
 - Título
-- ORCiD
+- ORCID
 - DOI
 - Versión
 - URL

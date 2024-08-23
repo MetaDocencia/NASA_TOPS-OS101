@@ -13,7 +13,7 @@
 
 ## Resumen
 
-En esta lección aprenderás sobre la práctica de compartir tus datos. La discusión comienza con una revisión del proceso de compartir y cómo evaluar si sus datos son compartibles. Después, asegurate de que tus datos sean accesibles controlando de cerca los respositorios y el ciclo de vida de la accesibilidad de los datos, desde la selección de un repositorio hasta mantener y archivar tus datos. La lección luego discute algunos pasos para hacer los datos lo más reutilizables posible y concluye con una sección sobre la definición de quién ayudará con el proceso de compartir los datos.
+En esta lección aprenderás sobre la práctica de compartir tus datos. La discusión comienza con una revisión del proceso de compartir y cómo evaluar si sus datos son compartibles. Después, asegúrate de que tus datos sean accesibles controlando de cerca los repositorios y el ciclo de vida de la accesibilidad de los datos, desde la selección de un repositorio hasta mantener y archivar tus datos. La lección luego discute algunos pasos para hacer los datos lo más reutilizables posible y concluye con una sección sobre la definición de quién ayudará con el proceso de compartir los datos.
 
 ## Objetivos de Aprendizaje
 
@@ -50,7 +50,7 @@ En general, compartir tus datos abiertos requiere de los siguientes pasos:
 1. Asegúrate de que tus datos puedan ser compartidos
 2. Selecciona o identifica un repositorio para alojar tus datos
 3. Trabaja junto con tu repositorio para seguir su proceso y cumplir con sus requerimientos
-4. Asegúrate de que tus datos sean encontrables y accesibles a través del repositorio y que sean mantenidos y archivados
+4. Asegúrate de que tus datos sean fáciles de encontrar y accesibles a través del repositorio y que sean mantenidos y archivados
 5. Solicita un DOI para tu conjunto de datos para que pueda ser citado fácilmente
 6. Elije una licencia de datos
 
@@ -132,7 +132,7 @@ Muchas instituciones de investigación tienen personas residentes expertas en pr
 
 ## Dónde Compartir Datos
 
-Los datos pueden compartirse en una enorme variedad de lugares. Si bien es común compartir datos a través de emails o sitios web, estos no son medios recomendados ya que no cumplen con los requisitos de que sean encontrables o archivados a largo plazo. Compartir datos como parte del material complementario de una publicación revisada por pares, especialmente para conjuntos pequeños de datos, es aceptable en algunos campos. Un repositorio a largo plazo que proporcione un identificador permanente es la mejor opción para compartir datos.
+Los datos pueden compartirse en una enorme variedad de lugares. Si bien es común compartir datos a través de emails o sitios web, estos no son medios recomendados ya que no cumplen con los requisitos de que sean fáciles de encontrar o archivados a largo plazo. Compartir datos como parte del material complementario de una publicación revisada por pares, especialmente para conjuntos pequeños de datos, es aceptable en algunos campos. Un repositorio a largo plazo que proporcione un identificador permanente es la mejor opción para compartir datos.
 
 ### Seleccionando un Repositorio de Datos
 
@@ -257,7 +257,7 @@ El objetivo es hacer práctico citar tus datos. Las mejores prácticas incluyen:
 - Diferentes repositorios y revistas tienen diferentes estándares sobre cómo citar datos. Si tu repositorio lo permite, incluye un archivo .CFF con tus datos explicando cómo citarlos.
 - Identifique claramente a los responsables de los datos y/o a su institución en la cita.
   - Esto permite a quienes acceden a los datos ponerse en contacto con los responsables si tienen preguntas o descubren problemas.
-  - Incluir el ORCiD de cada autor de los datos cuando sea posible en la cita.
+  - Incluir el ORCID de cada autor de los datos cuando sea posible en la cita.
 
 Ahora que tus datos están en un repositorio y tienen una referencia de cita y un DOI, publícalo entre tus usuarios y recuérdales que citen tus datos en sus trabajos.
 

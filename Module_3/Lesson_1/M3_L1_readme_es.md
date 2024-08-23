@@ -35,7 +35,7 @@ Los datos abiertos son un pilar esencial de la ciencia abierta. En muchos sentid
 
 Pérdida de tejido óseo, vértigo, anemia, atrofia muscular, mayor riesgo de cáncer - estos son solo algunos de los efectos secundarios de viajar al espacio para los humanos. Para estudiar estos riesgos de viajar al espacio para la salud humana, las personas que investigan de todo el mundo usan la plataforma GeneLab de código abierto de la NASA. GeneLab recopila grandes cantidades de datos de biología espacial sobre muestras humanas y de organismos modelo expuestos a condiciones de viajes espaciales. Sus respositorios digitales y físicos incluyen información celular, sobre ADN, ARN y proteínas. Al ser una plataforma abierta, los datos de GeneLab son públicamente accesibles y sin ningún costo.
 
-<img src="../images/media/image2_es.jpeg" style="width:100%;height:auto;" />
+<img src="../images/media/image2_es.jpg" style="width:100%;height:auto;" />
 
 **Ejemplo:** Usando datos biológicos de astronautas de GeneLab, [la comunidad científica recientemente encontró](https://www.nature.com/articles/s41576-020-00322-8) cuál puede ser el motivo de muchos de los efectos secundarios del viaje al espacio: el estrés mitocondrial.
 
@@ -47,7 +47,7 @@ Las mitocondrias son componentes de nuestras células que afectan a la función 
 
 ### ¿Qué son los datos?
 
-<img src="../images/media/image3_es.jpeg" style="width:350px;height:auto;" />
+<img src="../images/media/image3_es.png" style="width:350px;height:auto;" />
 
 La Comunidad _The Turing Way_. Esta ilustración fue creada por Scriberia junto con la comunidad de _The Turing Way_, utilizada bajo una licencia CC-BY 4.0. DOI: 10.5281/zenodo.3332807
 
@@ -147,7 +147,7 @@ Al fomentar una cultura de investigación global de transparencia y validación,
 
 Los datos abiertos que son deliberadamente inclusivos y abiertos al escrutinio benefician la innovación científica al permitir un proceso científico más diverso y sólido que se basa en múltiples perspectivas. Esta apertura también permite la identificación temprana de las ideas erróneas así como la intervención temprana para daños imprevistos a las comunidades afectadas.
 
-Los datos abiertos permiten a los equipos de investigacón no tradicionales a contribuir al desarrollo científico y poner sus ideas únicas sobre la mesa. Con estos beneficios en mente, siempre debemos tener presente que los Datos Abiertos requieren una cuidadosa consideración de sus posibles desventajas que resultan de no brindar el debido crédito y consulta a comunidades potencialmente vulnerables y/o marginadas. La siguiente lección “Uso de datos abiertos” analiza consideraciones importantes para la gestión responsable, recopilación y uso de datos abiertos por parte de todas las partes interesadas.
+Los datos abiertos permiten a los equipos de investigación no tradicionales a contribuir al desarrollo científico y poner sus ideas únicas sobre la mesa. Con estos beneficios en mente, siempre debemos tener presente que los Datos Abiertos requieren una cuidadosa consideración de sus posibles desventajas que resultan de no brindar el debido crédito y consulta a comunidades potencialmente vulnerables y/o marginadas. La siguiente lección “Uso de datos abiertos” analiza consideraciones importantes para la gestión responsable, recopilación y uso de datos abiertos por parte de todas las partes interesadas.
 
 ### Beneficios para ti
 
@@ -196,7 +196,7 @@ Es importante estar familiarizado con las políticas que rigen el intercambio de
 
 ### Temores comunes a la hora de compartir datos
 
-#### <img style="width:20px;height:auto;" src="../images/media/image7.png"> NOTA: Analizaremos muchos de los conceptos que se mencionan en la columna de discusión/mitigación más adelante en este módulo.
+#### <img style="width:20px;height:auto;" src="../images/media/image7_es.png"> NOTA: Analizaremos muchos de los conceptos que se mencionan en la columna de discusión/mitigación más adelante en este módulo.
 
 |                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -212,7 +212,7 @@ En última instancia, eres libre de implementar los principios y recursos de los
 
 ## Aplicación de los Principios FAIR
 
-<img src="../images/media/image9_es.png" style="width:100%;height:auto;" />
+<img src="../images/media/image9_es.jpg" style="width:100%;height:auto;" />
 
 Imagen de Patrick Hochstenbach, CC0 1.0; La imagen ilustra cada principio FAIR.
 
@@ -375,7 +375,7 @@ Para este plan de estudios, utilizamos el modelo de flujo de trabajo de [Opensci
 
 Si tu proyecto ya está en curso, es una buena idea actualizar futuras publicaciones de datos para adherirse a los principios de datos abiertos en la medida de lo posible. Para nuevos proyectos, tus propuestas deberían incluir la creación de datos abiertos desde el inicio de su proyecto.
 
-<img src="../images/media/image10_es.jpeg" style="width:100%;height:auto;" />
+<img src="../images/media/image10_es.png" style="width:100%;height:auto;" />
 
 En este plan de estudios, el contenido se organiza según cómo podrías usarlo, crearlo y compartirlo. Una parte de la ciencia abierta consiste en construir sobre los materiales de otros (usar), crear materiales tú mismo (hacer) y compartirlos para que otros puedan usar esos resultados (compartir). Las lecciones se organizan en torno a estos pasos del flujo de trabajo científico.
 

@@ -134,7 +134,7 @@ Existen muchas normas sobre los campos de metadatos y la estructura para describ
 Metadatos útiles e informativos:
 
 - Utiliza estándares que se usan comúnmente en tu campo.
-- Cumple con los principios FAIR (Encontrable, Accesible, Interoperable y Reutilizable).
+- Cumple con los principios FAIR (Fácil de encontrar, Accesible, Interoperable y Reusable).
 - Es lo más descriptivo posible.
 - Es autodescriptivo.
 
@@ -204,7 +204,7 @@ Un conjunto de datos sin licencia no significa que los datos estén abiertos; el
 
 Es crucial entender cuándo y dónde se aplica la licencia. Por ejemplo, los datos creados con fondos públicos de investigación del Gobierno de los Estados Unidos son, por defecto, de dominio público. Sin embargo, esto solo aplica a la jurisdicción de los Estados Unidos. Para que esto se aplique internacionalmente, quienes crean datos deben seleccionar una licencia abierta.
 
-<img src="../images/media/image34_es.jpeg" style="width:100%;height:auto;" />
+<img src="../images/media/image34_es.png" style="width:100%;height:auto;" />
 
 Existen varios tipos diferentes de licencias que se construyen entre sí. Las licencias Creative Commons (CC) son utilizadas a menudo para conjuntos de datos. CC0 (también conocido como "dominio público") es la licencia que permite la mayor reutilización porque tiene las menores restricciones sobre lo que las personas usuarias pueden hacer. Aunque la licencia CC0 no requiere explícitamente de citas, debes seguir las mejores prácticas de la comunidad y citar la fuente de los datos. CC-BY es otra licencia común utilizada para datos científicos que requiere citación. A partir de ahí, puedes añadir restricciones sobre el uso comercial, la capacidad de adaptar o modificar los datos o requisitos para compartir con la misma licencia. Estos otros aditivos reducen la usabilidad al añadir restricciones, para que otras personas de ciencia no puedan utilizar los datos debido a restricciones institucionales o legales. Las agencias de financiación pueden requerir el uso de una licencia en específico. Para las agencias públicas, a menudo es CC-0 o CC-BY, para maximizar su rentabilidad de la inversión y asegurar la reutilización más amplia posible.
 
@@ -212,7 +212,7 @@ Existen varios tipos diferentes de licencias que se construyen entre sí. Las li
 
 Aquí hay un ejemplo de cómo una licencia de datos puede afectar a la reutilización. La Fase 6 del Proyecto de Intercomparación de Modelo Acoplado (Coupled Model Intercomparison Project Phase 6 [CMIP6]) consiste en el "correr" alrededor de 100 distintos modelos climáticos que se están produciendo mediante 49 diferentes grupos de modelado. Estos son los datos que son utilizados para entender cómo podría ser nuestro futuro clima. Tú probablemente hayas visto imágenes que usan estos datos en artículos sobre el cambio climático de la Tierra y cómo puede impactar en nuestras vidas. Las versiones anteriores de estos datos contaban con licencia CC-BY-NC-SA (cite-noncommercial- sharealike).
 
-<img src="../images/media/image35_es.jpeg" style="width:100%;height:auto;" />
+<img src="../images/media/image35_es.png" style="width:100%;height:auto;" />
 
 Cita de Figura: IPCC (Encuadre y contexto en: Calentamiento global de 1.5 °C. Un Reporte Especial de IPCC) "[Framing and Context in: Global warming of 1.5°C. An IPCC Special Report](https://www.researchgate.net/publication/369301788_Framing_and_Context_in_In_Global_warming_of_15C_An_IPCC_Special_Report)" 2020
 
