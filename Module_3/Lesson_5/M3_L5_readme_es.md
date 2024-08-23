@@ -79,7 +79,7 @@ Hay muchas formas de involucrarse y apoyar a comunidades de datos abiertas, incl
             <li>Muchos repositorios cuentan con comités que proporcionan consejos y comentarios (y con frecuencia buscan voluntarios para participar)</li>
             <li>Suscribirse a las listas de correo y cuentas de redes sociales del repositorio</li>
             </ul>
-            <p><img src="../images/media/image52.png" style="width:350px;height:auto" /></p>
+            <p><img src="../images/media/image52_es.png" style="width:350px;height:auto" /></p>
         </td>
     </tr>
   </tbody>
@@ -101,7 +101,7 @@ Hay muchas formas de involucrarse y apoyar a comunidades de datos abiertas, incl
             <li>Aportar ideas al comité de normas</li>
             <li>Suscribirse a las listas de correo centradas en las normas y estándares</li>
             </ul>
-            <p><img src="../images/media/image53.png" style="width:350px;height:auto" /></p>
+            <p><img src="../images/media/image53_es.png" style="width:350px;height:auto" /></p>
         </td>
     </tr>
   </tbody>
@@ -122,7 +122,7 @@ Hay muchas formas de involucrarse y apoyar a comunidades de datos abiertas, incl
             <li>Organizar un encuentro sobre datos abiertos</li>
             <li>Participar en un encuentro sobre datos abiertos</li>
             </ul>
-            <p><img src="../images/media/image54.png" style="width:350px;height:auto" /></p>
+            <p><img src="../images/media/image54_es.png" style="width:350px;height:auto" /></p>
         </td>
     </tr>
   </tbody>
@@ -232,5 +232,5 @@ _Pregunta_
 
 - Explicar qué significan los datos abiertos, sus ventajas y cómo se utilizan los principios FAIR.
 - Descubrir datos abiertos, evaluar los datos para su reutilización mediante la evaluación de la documentación proporcionada y citar los datos según las instrucciones.
-- Implementar un plan de gestión de datos abierto, seleccionar formatos de datos abiertos, agregar la documentación necesaria, incluyendo metadatos, archivos README y control de versiones, para hacer a los datos reutilizables y encontrables.
+- Implementar un plan de gestión de datos abierto, seleccionar formatos de datos abiertos, agregar la documentación necesaria, incluyendo metadatos, archivos README y control de versiones, para hacer a los datos reutilizables y fáciles de encontrar.
 - Evaluar si tus datos deben y pueden ser compartidos, y utilizar el proceso de accesibilidad de datos, incluida la adición de un DOI e instrucciones de citación para que puedan encontrarse y citarse.
