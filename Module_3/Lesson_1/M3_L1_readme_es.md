@@ -474,7 +474,7 @@ _Pregunta_
 
 Termina la frase:
 
-_Hacer que los datos estén abiertos te ayuda porque _____._
+Hacer que los datos estén abiertos te ayuda porque _____._
 
 - tus datos pueden ser citados y se te dará credito
 - no perderás el acceso a tus datos, incluso si cambias de institución
