@@ -1,4 +1,4 @@
-# Lección 2: Uso de Datos Abiertos
+# Lección 2: Usar Datos Abiertos
 
 ## Contenidos
 
