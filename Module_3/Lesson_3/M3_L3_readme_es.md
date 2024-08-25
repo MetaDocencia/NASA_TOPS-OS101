@@ -20,7 +20,7 @@ En esta lección, aprenderás los criterios y las tareas necesarias para asegura
 Al finalizar esta lección deberías ser capaz de:
 
 - Evaluar y seleccionar formatos de Datos Abiertos.
-- Añadir documentación que permita a otras personas investigadoras evaluar la relevancia de los datos. Esto incluye metadatos, archivos README y control de versiones.
+- Añadir documentación que permita a otras personas que investigan evaluar la relevancia de los datos. Esto incluye metadatos, archivos README y control de versiones.
 - Listar dos licencias abiertas comunes utilizadas para conjuntos de datos.
 
 ## Planificar para Datos Abiertos
@@ -48,7 +48,7 @@ Son preferibles los formatos de datos que son compatibles con los usados por la 
 - ¿Es el formato compatible con el tipo, forma y tamaño de los datos?
 - ¿Tiene el formato de datos un soporte de metadatos adecuado?
 - ¿Hay herramientas disponibles, o se necesitan herramientas especializadas para leer el formato de los datos?
-- ¿El formato de los datos se utiliza habitualmente en tu disciplina? Las normas comunitarias garantizan la compatibilidad, interoperabilidad y facilidad de uso a la hora de intercambiar o compartir datos entre personas investigadoras u organizaciones de la misma comunidad.
+- ¿El formato de los datos se utiliza habitualmente en tu disciplina? Las normas comunitarias garantizan la compatibilidad, interoperabilidad y facilidad de uso a la hora de intercambiar o compartir datos entre personas que investigan u organizaciones de la misma comunidad.
 
 <img src="../images/media/image31_es.png" style="width:100%;height:auto;" />
 
@@ -123,7 +123,7 @@ Los metadatos mejoran la búsqueda y la accesibilidad de los datos permitiendo p
 - Ayuda a los usuarios a ubicar los datos, especialmente cuando los metadatos son legibles y están estandarizados para ser interpretados por aplicaciones.
 - Puede facilitar el análisis con herramientas informáticas que interpreten metadatos estandarizados (por ejemplo, Xarray).
 
-Para ser legibles por las computadoras los metadatos deben haber sido estandarizados. MIra un ejemplo de un estándar aceptado por la comunidad para etiquetar conjuntos de datos climáticos con las [Convenciones de CF](http://cfconventions.org/).
+Para ser legibles por las computadoras los metadatos deben haber sido estandarizados. Mira un ejemplo de un estándar aceptado por la comunidad para etiquetar conjuntos de datos climáticos con las [Convenciones de CF](http://cfconventions.org/) (en inglés).
 
 También hay paquetes de software que pueden leer metadatos y, como resultado, mejorar significativamente la experiencia de la persona usuaria. Por ejemplo, [Xarray](https://docs.xarray.dev/en/stable/index.html) es un paquete de software de Código Abierto desarrollado por la comunidad que se utiliza ampliamente en los campos climático y biomédico, entre muchos otros. Según su sitio web, "¡Xarray hace que trabajar con matrices multidimensionales con etiquetas en Python sea simple, eficiente y divertido!". ¡Es en la parte "etiquetada" donde entran los metadatos estandarizados! Xarray puede interpretar los nombres de las variables y las dimensiones sin el aporte de la persona usuaria, haciendo el flujo de trabajo más fácil y menos propenso a cometer errores. Por ejemplo, quienes lo utilizan no tienen que recordar qué eje corresponde al "tiempo", sólo tienen que llamar al eje con la etiqueta "tiempo".
 
@@ -141,7 +141,7 @@ Metadatos útiles e informativos:
 Recuerda que cuantos más metadatos añadas, más fácil será para las personas usuarias de tus datos utilizarlos de manera eficaz. Cuando tengas dudas:
 
 - Busca y cumple con los estándares de tu repositorio o comunidad.
-- Investiga recursos de Ciencia Abierta en línea para los metadatos, por ejemplo, [The Turing Way](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-metadata.html)
+- Investiga recursos de Ciencia Abierta en línea para los metadatos, por ejemplo, [The Turing Way](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-metadata.html).
 
 **Anexo de etiquetado de metadatos de la NASA**
 
@@ -184,12 +184,12 @@ La versión adecuada preserva la calidad y la procedencia de los datos (el orige
 
 <img src="../images/media/image32_es.jpeg" style="width:100%;height:auto;" />
 
-Fuente de la imagen: [xkcd.com](https://www.explainxkcd.com/wiki/index.php/File:copyright.jpg)
+Fuente de la imagen: [xkcd.com](https://www.explainxkcd.com/wiki/index.php/File:copyright.jpg).
 El personaje de la viñeta reflexiona: "A veces simplemente no puedo indignarme por la ley de derechos de autor."
 
 ---
 
-Los datos son propiedad intelectual de quienes investigan, o posiblemente de quien financia o de la institución que apoya. Los datos son propiedad intelectual, pero eso no significa que no puedan ser utilizados por otras personas investigadoras (con la debida atribución).
+Los datos son propiedad intelectual de quienes investigan, o posiblemente de quien financia o de la institución que apoya. Los datos son propiedad intelectual, pero eso no significa que no puedan ser utilizados por otras personas que investigan (con la debida atribución).
 
 <img style="width:100%;height:auto;" src="../images/media/applylicensetoyourwork_es.jpg">
 
@@ -219,7 +219,7 @@ Fuente: [Framing and Context in: Global warming of 1.5°C. An IPCC Special Repor
 
 ---
 
-Esto significó que cualquier uso comercial estaba restringido. Empresas de seguro, corporaciones globales, y cualquier tipo de organización que quisiera utilizarlos para fines comerciales estaban teniendo que hacer su propio modelado o, simplemente, decidiendo no desarrollar recursos relacionados con proyecciones climáticas (como riesgo de incendios, riesgo de inundaciones, y cómo eso puede afectar al transporte, al comercio y al lugar donde vivimos). Esto afectó directamente a la reutilización de estos datos y creó trabajo adicional. [La última versión de los datos CMIP se está moviendo a CC-BY](https://pcmdi.llnl.gov/CMIP6/TermsOfUse/TermsOfUse6-2.html) (en inglés) debido a los impactos negativos de las restricciones: NC-SA (no comercial y compartir igual).
+Esto significó que cualquier uso comercial estaba restringido. Empresas de seguro, corporaciones globales, y cualquier tipo de organización que quisiera utilizarlos para fines comerciales estaban teniendo que hacer su propio modelado o, simplemente, decidiendo no desarrollar recursos relacionados con proyecciones climáticas (como riesgo de incendios, riesgo de inundaciones, y cómo eso puede afectar al transporte, al comercio y al lugar donde vivimos). Esto afectó directamente a la reutilización de estos datos y creó trabajo adicional. [La última versión de los datos CMIP] (en inglés)(https://pcmdi.llnl.gov/CMIP6/TermsOfUse/TermsOfUse6-2.html)] se está moviendo a CC-BY debido a los impactos negativos de las restricciones: NC-SA (no comercial y compartir igual).
 
 ## Lección 3: Resumen
 
