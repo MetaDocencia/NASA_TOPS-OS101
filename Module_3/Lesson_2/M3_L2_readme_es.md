@@ -308,7 +308,7 @@ El uso de Datos Abiertos para un proyecto depende de una serie de factores, como
 
 Fuente: [Mooc de Datos Abiertos en agricultura y nutrición de GODAN Action (en inglés)](https://aims.gitbook.io/open-data-mooc/unit-3-using-open-data/lesson-2.2-quality-and-provenance)
 
-Muchas de estas preguntas pueden responderse consultando la documentación y los metadatos de un conjunto de datos, así como su formato y licencia, aspectos que se tratarán con más detalle en la próxima lección "Cómo hacer que los datos sean abiertos".
+Muchas de estas preguntas pueden responderse consultando la documentación y los metadatos de un conjunto de datos, así como su formato y licencia, aspectos que se tratarán con más detalle en la próxima lección "Hacer Datos Abiertos".
 
 ## Utilizar Datos Abiertos
 
