@@ -43,7 +43,7 @@ Si comienzas con Google y buscas "datos de dióxido de carbono de Mauna Loa", en
 
 ## Descubrir Datos Abiertos
 
-Los Datos Abiertos se pueden descubrir accediendo a los repositorios de datos, los portales de búsqueda y las publicaciones. Una gran variedad de estos recursos están disponibles. Un paso clave es identificar los términos de búsqueda adecuados para tu solicitud. Aprender la nomenclatura y los estándares específicos de la comunidad puede acelerar su búsqueda.
+Los Datos Abiertos se pueden descubrir accediendo a los repositorios de datos, los portales de búsqueda y las publicaciones. Una gran variedad de estos recursos están disponibles. Un paso clave es identificar los términos de búsqueda adecuados para tu solicitud. Aprender la nomenclatura y los estándares específicos de la comunidad puede acelerar tu búsqueda.
 
 ### Donde comenzar tu búsqueda
 
@@ -53,7 +53,7 @@ Hay múltiples caminos para encontrar datos de investigación, y deberías tener
 
 ### Personas que conoces (¡en línea o en persona!)
 
-¿Cuál es la primera y mejor forma de encontrar los datos de investigación? Pregunta a tu comunidad, incluyendo a tu asesor de investigación, colegas, miembros del equipo y personas en línea. Conocer dónde encontrar datos fiables es tanto una habilidad y arte como cualquier técnica de laboratorio. Aprendes este juego de habilidades trabajando con profesionales de tu campo. No hay una sola fuente, ni un único método.
+¿Cuál es la primera y mejor forma de encontrar los datos de investigación? Pregunta a tu comunidad, incluyendo a quien te asesora en la investigación, colegas, miembros del equipo y personas en línea. Conocer dónde encontrar datos fiables es tanto una habilidad y arte como cualquier técnica de laboratorio. Aprendes este juego de habilidades trabajando con profesionales de tu campo. No hay una sola fuente, ni un único método.
 
 <img src="../images/media/image22_es.jpeg" style="width:100%;height:auto;" />
 
@@ -306,7 +306,7 @@ El uso de Datos Abiertos para un proyecto depende de una serie de factores, como
 - ¿Existen acuerdos de nivel de servicio para los datos?
 - ¿Está claro quién mantiene los datos y con quién se debe contactar?
 
-Fuente: [Mooc de Datos Abiertos en agricultura y nutrición de GODAN Action (en inglés)(https://aims.gitbook.io/open-data-mooc/unit-3-using-open-data/lesson-2.2-quality-and-provenance)]
+Fuente: [Mooc de Datos Abiertos en agricultura y nutrición de GODAN Action (en inglés)](https://aims.gitbook.io/open-data-mooc/unit-3-using-open-data/lesson-2.2-quality-and-provenance)
 
 Muchas de estas preguntas pueden responderse consultando la documentación y los metadatos de un conjunto de datos, así como su formato y licencia, aspectos que se tratarán con más detalle en la próxima lección "Cómo hacer que los datos sean abiertos".
 
