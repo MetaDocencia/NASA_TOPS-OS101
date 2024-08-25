@@ -219,7 +219,7 @@ Fuente: [Framing and Context in: Global warming of 1.5°C. An IPCC Special Repor
 
 ---
 
-Esto significó que cualquier uso comercial estaba restringido. Empresas de seguro, corporaciones globales, y cualquier tipo de organización que quisiera utilizarlos para fines comerciales estaban teniendo que hacer su propio modelado o, simplemente, decidiendo no desarrollar recursos relacionados con proyecciones climáticas (como riesgo de incendios, riesgo de inundaciones, y cómo eso puede afectar al transporte, al comercio y al lugar donde vivimos). Esto afectó directamente a la reutilización de estos datos y creó trabajo adicional. [La última versión de los datos CMIP] (en inglés)(https://pcmdi.llnl.gov/CMIP6/TermsOfUse/TermsOfUse6-2.html)] se está moviendo a CC-BY debido a los impactos negativos de las restricciones: NC-SA (no comercial y compartir igual).
+Esto significó que cualquier uso comercial estaba restringido. Empresas de seguro, corporaciones globales, y cualquier tipo de organización que quisiera utilizarlos para fines comerciales estaban teniendo que hacer su propio modelado o, simplemente, decidiendo no desarrollar recursos relacionados con proyecciones climáticas (como riesgo de incendios, riesgo de inundaciones, y cómo eso puede afectar al transporte, al comercio y al lugar donde vivimos). Esto afectó directamente a la reutilización de estos datos y creó trabajo adicional. [La última versión de los datos CMIP](https://pcmdi.llnl.gov/CMIP6/TermsOfUse/TermsOfUse6-2.html) (en inglés) se está moviendo a CC-BY debido a los impactos negativos de las restricciones: NC-SA (no comercial y compartir igual).
 
 ## Lección 3: Resumen
 
