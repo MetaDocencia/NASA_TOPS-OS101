@@ -36,7 +36,7 @@ En la Lección 1, identificamos diferentes componentes de investigación que pue
 
 **Ejemplo:** Capturando resultados de actividades que van desde la colaboración hasta las observaciones, generación de imágenes hasta interpretación.
 
-En 2017, el telescopio del Horizonte de Sucesos apuntó a agujeros negros supermasivos con los horizontes de sucesos aparentes más grandes: M87 y Sgr A\* en el Centro Galáctico en cuatro días distintos. Esta colaboración distribuida condujo al rendimiento multipetabyte de los datos que permitieron a los astronómeros revelar la primera imagen de un agujero negro proporcionando la más fuerte evidencia visual de su existencia. El [sitio web de EHTC](https://eventhorizontelescope.org/) proporciona información sobre proyectos de investigación, métodos científicos, instrumentos, medios de prensa y otros medios (como publicaciones del blog, artículos de noticias y vídeos de YouTube), así como eventos, datos, propuestas y publicaciones. Este proyecto muestra un trabajo a gran escala y de alto impacto que aplica prácticas abiertas para lograr sus resultados. Los diferentes tipos de resultados compartidos en este proyecto se pueden asignar a diferentes etapas del proceso de investigación y a los equipos involucrados en su creación.
+En 2017, el telescopio del Horizonte de Sucesos apuntó a agujeros negros supermasivos con los horizontes de sucesos aparentes más grandes: M87 y Sgr A\* en el Centro Galáctico en cuatro días distintos. Esta colaboración distribuida condujo al rendimiento multipetabyte de los datos que permitieron a las personas dedicadas a la astronomía revelar la primera imagen de un agujero negro proporcionando la más fuerte evidencia visual de su existencia. El [sitio web de EHTC](https://eventhorizontelescope.org/) proporciona información sobre proyectos de investigación, métodos científicos, instrumentos, medios de prensa y otros medios (como publicaciones del blog, artículos de noticias y vídeos de YouTube), así como eventos, datos, propuestas y publicaciones. Este proyecto muestra un trabajo a gran escala y de alto impacto que aplica prácticas abiertas para lograr sus resultados. Los diferentes tipos de resultados compartidos en este proyecto se pueden asignar a diferentes etapas del proceso de investigación y a los equipos involucrados en su creación.
 
 ### Capturar Resultados y Acreditar a los Contribuyentes de Manera Justa en Diferentes Etapas de la Investigación
 
@@ -151,7 +151,7 @@ Las nuevas formas de trabajar con enfoques creativos para la colaboración y la 
   </tbody>
 </table>
 
-<img style="width:100%;height:auto;" src="../images/media/turingwayillustration.jpg">
+<img style="width:100%;height:auto;" src="../images/media/turingwayillustration_es.png">
 
 Crédito de la imagen: Ilustración del proyecto Turing Way de Scriberia. Zenodo.
 
@@ -163,7 +163,7 @@ Ya ta has encontrado con algunos de estos en las lecciones anteriores y, con sue
 
 La ciencia abierta, en última instancia, informa de nuestras decisiones como personas dedicadas a la ciencia y guía la selección de enfoques que contribuyen a que nuestros resultados se abran en diferentes etapas. Uno de los objetivos principales de los resultados abiertos es asegurar la reproducibilidad de la investigación, a menudo explicada a través de definiciones como las siguientes por [Stodden (2015)](https://www.annualreviews.org/doi/10.1146/annurev-estadísticas-010814-020127):
 
-<img src="../images/media/stoddenquote.jpg" style="width:100%;height:auto;" />
+<img src="../images/media/stoddenquote_es.jpg" style="width:100%;height:auto;" />
 
 "La reproducibilidad es la capacidad que posee una persona que realiza una investigación para obtener los mismos resultados de un trabajo publicado utilizando los datos sin procesar y el código empleados en el estudio original."
 
@@ -193,7 +193,7 @@ Compartir diferentes tipos de resultados lo antes posible no sólo ayuda a encon
   <tbody>
     <tr>
         <td colspan="4">
-            <p>A menudo, al comenzar la investigación, los foros públicos son un gran lugar para comenzar a entender y colaborar con las comunidades. La mayoría de los foros de discusión tienen un código de conducta y directrices sobre las mejores prácticas para la participación. Algunas pautas comunes que pueden ser útiles son las directrices de <a href="https://stackoverflow.com/help/discussions-guidelines">StackOverflow</a>, y <a href="https://github.com/pydata/xarray/discussions/5404">Xarray</a>, pero la mayoría de los foros tienen alguna guía específica. En los foros, se incrementa la confianza interactuando con la comunidad, por lo que cuanto más interactúes, más gente responderá! A menudo, las mejores prácticas incluyen asegurarse que estáamos publicando en el área correcta, usando etiquetas (cuando esté disponible), e incluyendo ejemplos que documentan la pregunta o problema que presentamos. Si revisas el <a href="https://discourse.pangeo.io/t/trick-for-improving-kerchunk-performance-for-large-numbers-of-chunks-files/3090">post</a> en el <a href="https://discourse.pangeo.io/">Foro del Discurso de Pangeo</a> con un gran número de revisiones puedes ver que exponen claramente el problema que intentan resolver, hacen referencia a otros posts sobre temas similares, enlazan a un cuaderno informático que tiene un ejemplo de su código, y dan un ejemplo del código que están intentando ejecutar.</p>
+            <p>A menudo, al comenzar la investigación, los foros públicos son un gran lugar para comenzar a entender y colaborar con las comunidades. La mayoría de los foros de discusión tienen un código de conducta y directrices sobre las mejores prácticas para la participación. Algunas pautas comunes que pueden ser útiles son las directrices de <a href="https://stackoverflow.com/help/discussions-guidelines">StackOverflow</a>, y <a href="https://github.com/pydata/xarray/discussions/5404">Xarray</a>, pero la mayoría de los foros tienen alguna guía específica. En los foros, se incrementa la confianza interactuando con la comunidad, por lo que cuanto más interactúes, más gente responderá! A menudo, las mejores prácticas incluyen asegurarse que estamos publicando en el área correcta, usando etiquetas (cuando esté disponible), e incluyendo ejemplos que documentan la pregunta o problema que presentamos. Si revisas el <a href="https://discourse.pangeo.io/t/trick-for-improving-kerchunk-performance-for-large-numbers-of-chunks-files/3090">post</a> en el <a href="https://discourse.pangeo.io/">Foro del Discurso de Pangeo</a> con un gran número de revisiones puedes ver que exponen claramente el problema que intentan resolver, hacen referencia a otros posts sobre temas similares, enlazan a un cuaderno informático que tiene un ejemplo de su código, y dan un ejemplo del código que están intentando ejecutar.</p>
         </td>
     </tr>
   </tbody>
@@ -259,9 +259,9 @@ Puedes encontrar más formas de comunicar tu trabajo en [guía de comunicación]
 
 ### Manteniendo Estándares Éticos
 
-La ciencia abierta, como vimos en el módulo Ethos de las Ciencias Abiertas, debe mantener los estándares éticos más estrictos. Esto puede lograrse mediante la participación de diversas personas que colaboradoren en el desarrollo de los resultados científicos. Los enfoques participativos permiten integrar múltiples perspectivas y conocimientos en la investigación desde el inicio y garantizan que la revisión por pares se realice para todos los productos de forma iterativa, y no sólo para los artículos finales.
+La ciencia abierta, como vimos en el módulo Ethos de las Ciencias Abiertas, debe mantener los estándares éticos más estrictos. Esto puede lograrse mediante la participación de diversas personas que colaboraron en en el desarrollo de los resultados científicos. Los enfoques participativos permiten integrar múltiples perspectivas y conocimientos en la investigación desde el inicio y garantizan que la revisión por pares se realice para todos los productos de forma iterativa, y no sólo para los artículos finales.
 
-En la elaboración y la planificación para compartir los resultados de manera abierta, se puede aplicar el principio de "tan abierto como sea posible, tan cerrado como sea necesario". Esto significa proteger la información confidencial, gestionar las prácticas de protección de datos cuando sea necesario y no compartir datos sensibles o información privada de las personas que pueda ser utilizada indebidamente. Repositorios en línea, como GitHub y GitLab, permiten la interacción en línea además de servir de manera tecnica a tener control de versiones y alojar contenido. Por ejemplo, puedes usar [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) y [un tablero de proyecto](https://docs.github.com/en/github-ae%40latest/issues/organizing-your-work-with-project-boards/managing-project-boards/creating-a-project-board) para comunicar lo que está ocurriendo en un proyecto en cualquier punto dado. El uso de [Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) indica una invitación para que los pares revisen el nuevo desarrollo de código u otro contenido. Gracias a una serie de plantillas reutilizables, no es necesario configurar los repositorios desde cero. Por ejemplo, se puede utilizar directamente una [plantilla para proyectos de investigación reproducibles](https://github.com/the-turing-way/reproducible-project-template).
+En la elaboración y la planificación para compartir los resultados de manera abierta, se puede aplicar el principio de "tan abierto como sea posible, tan cerrado como sea necesario". Esto significa proteger la información confidencial, gestionar las prácticas de protección de datos cuando sea necesario y no compartir datos sensibles o información privada de las personas que pueda ser utilizada indebidamente. Repositorios en línea, como GitHub y GitLab, permiten la interacción en línea además de servir de manera técnica a tener control de versiones y alojar contenido. Por ejemplo, puedes usar [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) y [un tablero de proyecto](https://docs.github.com/en/github-ae%40latest/issues/organizing-your-work-with-project-boards/managing-project-boards/creating-a-project-board) para comunicar lo que está ocurriendo en un proyecto en cualquier punto dado. El uso de [Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) indica una invitación para que los pares revisen el nuevo desarrollo de código u otro contenido. Gracias a una serie de plantillas reutilizables, no es necesario configurar los repositorios desde cero. Por ejemplo, se puede utilizar directamente una [plantilla para proyectos de investigación reproducibles](https://github.com/the-turing-way/reproducible-project-template).
 
 ## Función de los colaboradores en Ciencia Abierta
 
@@ -271,7 +271,7 @@ Hacer participes y reconocer el papel de todos los colaboradores en la obtenció
 
 ### Estudio del caso EHTC: Reconociendo a todos los contribuidores
 
-<img src="../images/media/image52.jpeg" style="width:100%;height:auto;" />
+<img src="../images/media/image52_es.jpeg" style="width:100%;height:auto;" />
 
 Un mapa de la EHT. Las estaciones activas en 2017 y 2018 se muestran con líneas de conexión y etiquetadas en amarillo, los sitios en comisión se encuentran etiquetados en verde y los sitios heredados etiquetados en rojo. Del articulo II (Figura 1). IOPscience. https://iopscience.iop.org/journal/2041-8205/page/Focus_on_EHT
 
@@ -487,11 +487,11 @@ Para reconocer abierta y justamente a todos los colaboradores, se deben listar e
 
 Las declaraciones de contribución en la documentación y manuscritos pueden especificar qué hizo cada integrante en los resultados oficiales. Esto es excelente para la transparencia. También es una gran manera de protegerse contra dinámicas injustas del poder. Los detalles sobre el tipo de contribución muestran explícitamente quién trabajó en cada parte de los resultados, y facilitan otorgar una autoría justa. \*"Pierro Asara: revisión y edición (par). Kerys Jones: Conceptualización (líder); escritura – borrador original (líder); análisis formal (líder); escritura – revisión y edición (par). Elisha Roberto: Software (líder); escritura – revisión y edición (par). Hebei Wang: Metodología (líder); escritura – revisión y edición (par). Jinnie Wu: Conceptualización (apoyo); escritura – borrador original (apoyo); escritura – revisión y edición (par)
 
-Si existe un repositorio de GitHub y un sitio web, se debería crear una página dedicada para listar y reconocer a todas las personas colaboradoras. A quienes contribuyeron de manera minoritaria al manuscrito, código o datos, podrías incluirlas como personas autoras o colaboradoras en las versiones de GitHub y Zenodo, respectivamente. Las personas que colaboran y participan, que no estén directamente involucradas en la creación de resultados de investigación, deberían tener la oportunidad de contribuir a otros resultados abiertos tales como presentaciones, pósters, charlas, blogs, podcasts, datos, software, así como también artículos.
+Si existe un repositorio de GitHub y un sitio web, se debería crear una página dedicada para listar y reconocer a todas las personas colaboradoras. A quienes contribuyeron de manera minoritaria al manuscrito, código o datos, podrías incluirlas como personas autoras o colaboradoras en las versiones de GitHub y Zenodo, respectivamente. Las personas que colaboran y participan, que no estén directamente involucradas en la creación de resultados de investigación, deberían tener la oportunidad de contribuir a otros resultados abiertos tales como presentaciones, posters, charlas, blogs, podcasts, datos, software, así como también artículos.
 
 ### Actividad 3.1: Redacta una guía de pautas
 
-<img src="../images/media/image21.png" style="width:350px;height:auto;"/>
+<img src="../images/media/image21_es.png" style="width:350px;height:auto;"/>
 
 Debería crearse una guía de pautas independiente para cada proyecto abierto, incluso si eso significa reutilizar un borrador existente que el equipo de investigación ya haya utilizado.
 
@@ -528,7 +528,7 @@ Las publicaciones científicas se han mantenido, históricamente, como uno de lo
 
 ### Caso de Estudio EHTC: Registrando Resultados sobre Actividades desde Colaboración a Observación, Generación de Imágenes a Interpretación
 
-<img src="../images/media/image53.jpeg" style="width:100%;height:auto;" />
+<img src="../images/media/image53_es.jpeg" style="width:100%;height:auto;" />
 
 La imagen polarizada de la sombra del agujero negro M87 observada el 11 de abril de 2017 por el EHT (Telescopio Event Horizon) (panel izquierdo) y una imagen de la Biblioteca del Modelo EHT con una configuración magnética MAD (panel derecho), con una lista de publicaciones que describen diferentes conjuntos de resultados.
 
@@ -552,7 +552,7 @@ Como se ha demostrado en el caso de estudio de la EHTC, un último paso para gen
 
 Si estás buscando acciones concretas que puedas tomar para generar resultados abiertos, elige uno de estos cuatro elementos:
 
-- Mejora la forma en la que defines las contribuciónes en tu proyecto y cómo se asigna la autoría.
+- Mejora la forma en la que defines las contribuciones en tu proyecto y cómo se asigna la autoría.
 - Asegúrate de que los datos o software de tu publicación se encuentren en Zenodo con licencia y documentación, incluyendo metadatos y que el DOI esté publicado en tu informe científico y publicación.
 - Asegúrate de que el proceso que utilizas para recopilar y analizar datos, incluyendo todas las dependencias y métodos utilizados en tu pipeline de análisis de datos, se encuentren claramente descritos para permitir que otras personas reproduzcan tus resultados.
 - Cree un repositorio centralizado o una página simple de git para centralizar todas las salidas de investigación con la lista de personas que han colaborado.

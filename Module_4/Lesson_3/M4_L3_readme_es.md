@@ -44,7 +44,7 @@ Incluso si ya existe una solución, podría haber buenas razones para desarrolla
 - La licencia no es lo suficientemente abierta como para adoptarla.
 - Probar nuevas técnicas o desarrollar una comprensión más profunda del problema.
 
-<img src="../images/media/image333.jpg" style="width:350px;height:auto;" />
+<img src="../images/media/image333_es.jpg" style="width:350px;height:auto;" />
 
 Puede llevar más tiempo iniciar un nuevo proyecto, o puede tardarse más intentando integrar el código de otra persona que escribiendo el propio. Tendrás que tomar esa decisión.
 
@@ -64,7 +64,7 @@ Esta lección se centra predominantemente en la cuestión de cómo gestionar el 
 
 ### Organizando un proyecto
 
-<img src="../images/media/image353.png" style="width:250px;height:auto;" />
+<img src="../images/media/image353_es.png" style="width:250px;height:auto;" />
 
 Fuente: https://xkcd.com/1459/
 
@@ -91,14 +91,14 @@ Preguntas a considerar al elegir un lenguaje de programación:
 - ¿Podrán los colaboradores potenciales contribuir en el lenguaje elegido?
 - ¿Con qué lenguajes tienes más experiencia?
 - ¿Existe alguna limitación en tu entorno informático que pueda afectar tu capacidad para escribir o gestionar este código?
-- Los lenguajes tienen fortalezas y debilidades, ¿cuáles son más importantes para tu proyecto?
+- Los lenguajes tienen fortalezas y debilidades, ¿Cuáles son más importantes para tu proyecto?
 
 Antes de que alguien más pueda usar tu código, seguramente hará algunas preguntas:
 
 - ¿Dónde puedo encontrar tu código?
 - ¿Está documentado tu código?
 - ¿De qué maneras puedo usar tu código?
-- ¿Aceptarás cambios en tu código? Si encuentro un error, ¿qué debo hacer?
+- ¿Aceptarás cambios en tu código? Si encuentro un error, ¿Qué debo hacer?
 - ¿Cómo puedo confiar en que tu código funcione?
 - ¿Cómo sé si el código tendrá soporte a largo plazo?
 
@@ -106,7 +106,7 @@ Antes de que alguien más pueda usar tu código, seguramente hará algunas pregu
 
 Tu código cambiará significativamente a lo largo de la vida de tu proyecto. Del mismo modo que apreciamos la capacidad de rastrear versiones anteriores de documentos o versiones creadas por diferentes personas, inevitablemente alguien querrá ser capaz de revertir, comparar y sintetizar cambios en el código.
 
-La herramienta más popular de control de versiones es git. Git es un sistema que rastrea los cambios en los archivos del equipo, similar a Google Docs o SharePoint, pero más aplicable a código. Git se utiliza generalmente junto con una plataforma de control de versiones como GitHub, Gitlab, o Bitbucket. Estas herramientas fueron cubiertas en el Módulo 2.2.
+La herramienta más popular de control de versiones es Git. Git es un sistema que rastrea los cambios en los archivos del equipo, similar a Google Docs o SharePoint, pero más aplicable a código. Git se utiliza generalmente junto con una plataforma de control de versiones como GitHub, Gitlab, o Bitbucket. Estas herramientas fueron cubiertas en el Módulo 2.2.
 
 El control de versiones permite lo siguiente:
 
@@ -163,7 +163,7 @@ El código de conducta establece normas básicas para el comportamiento de los p
 
 **Documentación sobre el código para el desarrollador**
 
-Su software debe estar documentado dentro del código fuente. Cada función debe tener comentarios al principio que brevemente expliquen, en lenguaje sencillo, para qué sirve la función. Esto no es sólo para otros desarrolladores, sino para el desarrolador original que una semana más tarde, puede olvidar que escribio.
+Su software debe estar documentado dentro del código fuente. Cada función debe tener comentarios al principio que brevemente expliquen, en lenguaje sencillo, para qué sirve la función. Esto no es sólo para otros desarrolladores, sino para el desarrollador original que una semana más tarde, puede olvidar que escribió.
 
 > **Ejemplo**
 >
@@ -181,7 +181,7 @@ Su software debe estar documentado dentro del código fuente. Cada función debe
 >
 > Lo ideal es que alguien que no escriba en el lenguaje del código pueda leer los comentarios del archivo y hacerse una idea aproximada de lo que ocurre.
 >
-> Utilize los comentarios para poner URLs que hagan referencia a dónde se encontró el algoritmo utilizado (por ejemplo, Stack Overflow) o el artículo de revista donde se encuentran la fórmula que se implementa.
+> Utiliza los comentarios para poner URLs que hagan referencia a dónde se encontró el algoritmo utilizado (por ejemplo, Stack Overflow) o el artículo de revista donde se encuentran la fórmula que se implementa.
 
 ### Documentación sobre el código para el usuario
 
@@ -211,7 +211,7 @@ Hay una variedad de estructuras de código de ejemplo que se pueden utilizar par
 
 ### Consideraciones de Licencia cuando se utiliza Software Abierto
 
-<img src="../images/media/image130.png" style="width:350px;height:auto;" />
+<img src="../images/media/image130_es.png" style="width:350px;height:auto;" />
 
 Las licencias de software de código abierto son fundamentales para cómo los científicos usan, crean y comparten código y software. Entender algunos de los matices de estas licencias es importante porque afectará el modo en que tu proyecto puede licenciar y compartir código.
 
@@ -232,7 +232,7 @@ Las licencias toman varias formas para describir:
 
 _Haz clic en '+' para ver más información._
 
-<img style="width:100%;height:auto;" src="../images/media/commonsoftwarelicenses.png">
+<img style="width:100%;height:auto;" src="../images/media/commonsoftwarelicenses_es.png">
 
 **Dominio Público**
 
@@ -494,7 +494,7 @@ Ya sea que se utilice software de código abierto, de código cerrado o comercia
     <tr>
         <td colspan="2">
             <p>Se han desarrollado herramientas comerciales y de código abierto para abordar el desafío de identificar las vulnerabilidades de seguridad en distintos componentes de la fuente. Si no dispones de ninguna tecnología para asegurar el uso de código abierto, puedes considerar utilizar las herramientas de verificación de dependencias Dependabot o <a href="https://owasp.org/">OWASP</a>.</p>
-            <p>El Proyecto de Seguridad de Aplicaciones Web Abiertas (Open Web Application Security Project, OWASP) es una comunidad en línea que produce herramientas y tecnologías gratuitas en el campo de la seguridad de aplicaciones web. La verificación de dependencias de OWASP es una herramienta creada por desarrolladores, que identifica las dependencias de un proyecto y verifica si contineen alguna vulnerabilidad conocida de código abierto que haya sido públicamente divulgada.</p>
+            <p>El Proyecto de Seguridad de Aplicaciones Web Abiertas (Open Web Application Security Project, OWASP) es una comunidad en línea que produce herramientas y tecnologías gratuitas en el campo de la seguridad de aplicaciones web. La verificación de dependencias de OWASP es una herramienta creada por desarrolladores, que identifica las dependencias de un proyecto y verifica si contienen alguna vulnerabilidad conocida de código abierto que haya sido públicamente divulgada.</p>
         </td>
     </tr>
   </tbody>

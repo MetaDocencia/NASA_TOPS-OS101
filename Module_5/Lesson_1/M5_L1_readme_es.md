@@ -28,19 +28,19 @@ Cuando pensamos en resultados, la mayoría de la gente piensa sólo en la public
 
 **1665**
 
-<img src="../images/media/image4.jpeg" style="width:350px;height:auto;" />
+<img src="../images/media/image4_es.jpeg" style="width:350px;height:auto;" />
 
 Esta publicación se remonta a 1665, cuando se estableció la primera revista científica _Philosophical Transactions_ para publicar cartas sobre observaciones científicas y experimentos.
 
 **1940s**
 
-<img src="../images/media/image5.png" style="width:350px;height:auto;" />
+<img src="../images/media/image5_es.png" style="width:350px;height:auto;" />
 
 Más tarde, en la década de 1940, la publicación se comenzó a comercializar y se convirtió en el mecanismo para lanzar revistas, actas de conferencias y libros. Este nuevo modelo de negocio normalizó las barreras de pago para la publicación.
 
 **Siglo XXI**
 
-<img src="../images/media/image6.png" style="width:350px;height:auto;" />
+<img src="../images/media/image6_es.png" style="width:350px;height:auto;" />
 
 Solo en el siglo XXI la comunidad científica amplió el significado de resultados abiertos. La evolución de esta definición fue impulsada por avances tecnológicos, como Internet y mejoras en los modos de compartir información. El movimiento de acceso abierto fue establecido por la [_Budapest Open Access Initiative_](https://www.budapestopenaccessinitiative.org/) (en español, Iniciativa de Acceso Abierto de Budapest) en 2002 y la [_Berlin Declaration on Open Access_](https://openaccess.mpg.de/Berlin-Declaration) (en español, Declaración de Berlín sobre Acceso Abierto) en 2003, ambos formalizaron la idea de que, con respecto a los nuevos conocimientos, debería haber "disponibilidad gratuita en la Internet pública, permitir a cualquier usuario leer, descargar, copiar, distribuir, imprimir, buscar o enlazar al texto completo de estos artículos" (_Budapest Open Access Initiative_).
 
@@ -52,7 +52,7 @@ Aunque las fases se presentan de forma lineal, ¡reconocemos que el ciclo de vid
 
 Siguiendo a [Garcia-Silva et al. 2019](https://www.sciencedirect.com/science/article/abs/pii/S0167739X18314638), definimos un objeto de investigación (_Research Object_, RO por sus siglas en inglés) como un método para la identificación, agregación e intercambio de información académica en la Web. Los objetos de investigación pueden estar compuestos tanto por datos de investigación como por objetos de investigación digitales, que están definidos de la siguiente manera por la _Organization for Economic Co-Operation and Development_ ([OECD](https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0347), en español, Organización para Cooperación y Desarrollo Económico).
 
-<img src="../images/media/image7.jpeg" style="width:100%;height:auto;" />
+<img src="../images/media/image7_es.png" style="width:100%;height:auto;" />
 
 El término "resultados abiertos" incluye de manera integral todos estos productos de investigación y más.
 
@@ -78,7 +78,7 @@ A lo largo de este módulo te mostraremos cómo usar, crear y compartir resultad
 
 Específicamente, el sistema "Usar, Hacer, Compartir" ha sido naturalmente integrado a lo largo del plan de estudios y debería resultarte un formato familiar en este momento. La Lección 2 cubrirá "Usar". La Lección 3, "Hacer". Y la Lección 4, "Compartir". A lo largo de este módulo, prestaremos especial atención a los manuscritos y otros productos de investigación como ejemplos porque los módulos anteriores cubrieron el sistema "Usar, Hacer, Compartir" en el contexto de componentes con datos y software.
 
-<img src="../images/media/thepracticeofopen.jpg" style="width:100%;height:auto;" />
+<img src="../images/media/thepracticeofopen_es.png" style="width:100%;height:auto;" />
 
 ## Ejemplos de resultados abiertos
 
@@ -86,7 +86,7 @@ Ampliemos nuestras perspectivas sobre los tipos de **objetos de investigación**
 
 ### Alcanzar nuevas audiencias
 
-<img src="../images/media/image9.jpeg" style="width:350px;height:auto;" />
+<img src="../images/media/image9_es.png" style="width:350px;height:auto;" />
 
 Qiusheng Wu es profesor asociado en la Universidad de Tennessee. Ha publicado más de 500 tutoriales en vídeo en [YouTube](https://www.youtube.com/%40giswqs) (en inglés), los cuales han ganado más de 25 mil suscriptores y más de 1.1 millón de vistas (a partir de agosto del 2023).
 
@@ -98,9 +98,9 @@ En general, el canal de YouTube sirve como una herramienta importante para que W
 
 ### Nuevos medios para productos científicos
 
-"Un nuevo método redujo el tiempo de cálculo de esta imagen de aproximadamente 30 minutos a menos de 1 minuto". En 2021, Lucas Sterzinger pasó un verano de su doctorado en una pasantía. Durante ese verano, escribió una publicación en un blog para explicar y demostrar una tecnología innovadora llamada Kerchunk, una bibilioteca que hace que el acceso a datos científicos en la nube sea mucho más rápido.
+"Un nuevo método redujo el tiempo de cálculo de esta imagen de aproximadamente 30 minutos a menos de 1 minuto". En 2021, Lucas Sterzinger pasó un verano de su doctorado en una pasantía. Durante ese verano, escribió una publicación en un blog para explicar y demostrar una tecnología innovadora llamada Kerchunk, una biblioteca que hace que el acceso a datos científicos en la nube sea mucho más rápido.
 
-<img src="../images/media/image10.jpeg" style="width:350px;height:auto;" />
+<img src="../images/media/image10_es.jpeg" style="width:350px;height:auto;" />
 
 Fuente: [https://medium.com/pangeo/fake-it-until-you-make-it-reading-goes-netcdf4-data-on-aws-s3-as-zarr-for-rapid-data-access-61e33f8fe685](https://medium.com/pangeo/fake-it-until-you-make-it-reading-goes-netcdf4-data-on-aws-s3-as-zarr-for-rapid-data-access-61e33f8fe685) (en inglés)
 
@@ -110,7 +110,7 @@ Además de la publicación del blog, también creó un tutorial como Jupyter Not
 
 ### Nuevos productos para aumentar el impacto
 
-<img src="../images/media/image11.png" style="width:350px;height:auto;" />
+<img src="../images/media/image11_es.png" style="width:350px;height:auto;" />
 
 Créditos de la imagen: OpenStreetMap 2011, Ken Vermette. CC BY-SA 3.0
 
@@ -122,7 +122,7 @@ Desde '2003: vamos a mapear el Reino Unido hasta 2023: más de 1,5 millones de c
 
 Matplotlib fue desarrollado alrededor de 2002 por el postdoctorado John Hunter para visualizar algunos datos de neurobiología en los que estaba trabajando. El no era desarrollador de software, ¡era neurobiólogo! Podría haberse limitado a publicar el artículo en una revista revisada por pares, y tal vez haber compartido su código para crear las figuras, pero en lugar de eso inició un proyecto abierto en GitHub y pensó: «bueno, si esto es útil para mí, tal vez lo sea para otras personas...».
 
-<img src="../images/media/image12.jpeg" style="width:100%;height:auto;" />
+<img src="../images/media/image12_es.jpeg" style="width:100%;height:auto;" />
 
 Fuente: [https://medium.com/dataseries/mastering-matplotlib-part-1-a480109171e3](https://medium.com/dataseries/mastering-matplotlib-part-1-a480109171e3) (en inglés)
 
@@ -136,7 +136,7 @@ Y por último, pero no por ello menos importante, tenemos el ejemplo del equipo 
 
 Las plataformas de comunicación abiertas ampliaron el alcance y la audiencia de los resultados.
 
-<img src="../images/media/image13.jpeg" style="width:100%;height:auto;" />
+<img src="../images/media/image13_es.png" style="width:100%;height:auto;" />
 
 Fuente: https://arxiv.org/abs/2208.11692
 
@@ -146,7 +146,7 @@ El público está interesado en lo que estás haciendo, y llegar a él, implica 
 
 Las plataformas de divulgación abiertas ampliaron notablemente el alcance y la audiencia de los resultados.
 
-<img src="../images/media/image14.jpeg" style="width:100%;height:auto;" />
+<img src="../images/media/image14.png" style="width:100%;height:auto;" />
 
 Twitter, ahora X \#1: https://twitter.com/cornerof_thesky/status/1595086671275589632?s=20 (en inglés)
 
@@ -164,7 +164,7 @@ En 2016 una [encuesta Nature](https://www.nature.com/articles/533452a) (en ingl�
 
 Si queremos resolver la crisis de reproducibilidad, debemos tener en cuenta todo el flujo de trabajo de la investigación. El hecho, que el 70% de las personas que investigan no pudieran reproducir los resultados de otros equipos científicos, resulta alarmante, sobre todo si se tiene en cuenta que la reproducibilidad de la ciencia, es la piedra angular del método científico.
 
-<img src="../images/media/image15.png" style="width:350px;height:auto;" />
+<img src="../images/media/image15_es.png" style="width:350px;height:auto;" />
 
 A estas alturas, ya debería ser obvio que existan muchos incentivos personales, para aplicar los principios de la ciencia abierta, a lo largo de todas las etapas del proceso de investigación. Al hacer que los resultados sean abiertos en todo momento, aumenta la posibilidad de reproducir sus propios resultados.
 
@@ -172,7 +172,7 @@ Aunque la reproducibilidad de los propios resultados pueda parecer un logro triv
 
 ### ¿Cuál es la causa de esta crisis de reproducibilidad?
 
-<img src="../images/media/image16.jpeg" style="width:100%;height:auto;" />
+<img src="../images/media/image16_es.png" style="width:100%;height:auto;" />
 
 Las tres causas principales de la crisis de reproducibilidad son:
 
@@ -184,7 +184,7 @@ Debemos pensar en todo el proceso de investigación, como un resultado. Por ejem
 
 Los artículos a menudo no contienen la información suficiente para que otros investigadores reproduzcan los resultados, incluso cuando se publican conjuntos de datos, según dos estudios publicados en [Genética en Nature](https://www.nature.com/articles/ng.295) (en inglés) y [Métodos en Nature](https://www.nature.com/articles/nmeth.1333) (en inglés). A menudo, los resultados de los datos sin procesar o datos intermedios y los programas informáticos correspondientes, no se facilitan junto con el artículo final, lo que limita la capacidad del lector para intentar reproducirlos.
 
-Según otros dos estudios publicados en [Sesiones Informaticas en Bioinformatics](https://academic.oup.com/bib/article/12/3/288/258098) (en ingkés) y [Física en Nature](https://www.nature.com/articles/nphys3313) (en inglés), sin acceso a los códigos fuente de los artículos, la reproducibilidad resulta complicada.
+Según otros dos estudios publicados en [Sesiones Informáticas en Bioinformatics](https://academic.oup.com/bib/article/12/3/288/258098) (en inglés) y [Física en Nature](https://www.nature.com/articles/nphys3313) (en inglés), sin acceso a los códigos fuente de los artículos, la reproducibilidad resulta complicada.
 
 ### Lucha contra la crisis de reproducibilidad
 
@@ -194,7 +194,7 @@ Podemos crear procesos de trabajo reproducibles y combatir esta crisis, teniendo
 
 ### Actividad 1.1: ¿Qué podrías hacer?
 
-<img src="../images/media/image21.png" style="width:350px;height:auto" />
+<img src="../images/media/image21_es.png" style="width:350px;height:auto" />
 
 Repensemos su flujo de trabajo de investigación. Identifique los objetos de investigación que podrían (o podrían haber sido) compartidos como resultados abiertos de un proyecto en el que está o estuvo involucrado. ¿Cuáles son los puntos de mayor prioridad para superar la crisis de reproducibilidad en cada área del proceso del trabajo de investigación?
 
@@ -210,7 +210,7 @@ Repensemos su flujo de trabajo de investigación. Identifique los objetos de inv
 
 **La aplicación de los principios de la ciencia abierta en todas las etapas del proceso de investigación tiene muchas ventajas personales**
 
-<img src="../images/media/image23.jpeg" style="width:100%;height:auto;" />
+<img src="../images/media/image23_es.jpeg" style="width:100%;height:auto;" />
 
 #### Puntos clave: ¿Qué debiéras hacer?
 
@@ -225,10 +225,10 @@ Pensar en compartir todo de forma inmediata, puede resultar agotador cuando se e
 - **Propuesta:** Las propuestas pueden compartirse en Zenodo y en plataformas de subvención abiertas como [ogrants.org](https://www.ogrants.org/).
 - **Planificación:** Los proyectos pueden prerregistrarse antes de comenzar.
 - **Diseño del proyecto:** Se pueden publicar las pautas de las personas que colaboran o un código de conducta en Zenodo, GitHub o en las páginas web del equipo.
-- **Compromiso y capacitación:** Las guias de los procesos de desarrollo del trabajo de investigación, pueden compartirse con el equipo a través de GitHub y publicarse en Zenodo.
+- **Compromiso y capacitación:** Las guías de los procesos de desarrollo del trabajo de investigación, pueden compartirse con el equipo a través de GitHub y publicarse en Zenodo.
 - **Recopilación de datos:** Los datos sin procesar pueden compartirse a través de repositorios de datos.
 - **Gestión de Datos:** El código puede compartirse a través de repositorios de software.
-- **Exploración de datos:** Las guias de los procesos (notebooks), pueden ser compartidas a través de GitHub y publicadas en Zenodo.
+- **Exploración de datos:** Las guías de los procesos (notebooks), pueden ser compartidas a través de GitHub y publicadas en Zenodo.
 - **Almacenamiento:** Los planes de gestión de datos para almacenamiento de la información pueden publicarse en Zenodo.
 - **Informes y publicación:**
   - Libre acceso a artículos revisados por pares
@@ -237,7 +237,7 @@ Pensar en compartir todo de forma inmediata, puede resultar agotador cuando se e
   - Publicaciones en Blogs
   - Vídeos de corta duración y podcasts
   - Publicaciones en redes sociales
-  - Resúmenes de conferencias, pósters y presentaciones (cuando estén disponibles públicamente)
+  - Resúmenes de conferencias, posters y presentaciones (cuando estén disponibles públicamente)
   - Foros de discusión
 
 ## Lección 1: Resumen

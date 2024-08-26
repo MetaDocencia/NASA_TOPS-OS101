@@ -14,7 +14,7 @@
 
 ## Descripción general
 
-Esta lección define los términos clave, los principios básicos, las ventajas y los retos del código abierto. La práctica de desarrollar código y ponerlo a disposición del público se da dentro de un espectro que va de más a menos protegido. La condiciones éticas y legales pueden limitar el grado de apertura que que pueden permitirse los investigadores. En esta lección se presentarán las preguntas críticas que hay que tener en cuenta a la hora de determinar la accesibilidad adecuada del código para los usuarios externos, junto con las mejores prácticas para superar las limitaciones habituales y maximizar la disponibilidad. La lección finaliza con una discusión sobre el ciclo de vida del software y cómo encaja en el marco de "Usar, Hacer, Compartir" y su relación a un plan de gestión.
+Esta lección define los términos clave, los principios básicos, las ventajas y los retos del código abierto. La práctica de desarrollar código y ponerlo a disposición del público se da dentro de un espectro que va de más a menos protegido. La condiciones éticas y legales pueden limitar el grado de apertura que pueden permitirse los investigadores. En esta lección se presentarán las preguntas críticas que hay que tener en cuenta a la hora de determinar la accesibilidad adecuada del código para los usuarios externos, junto con las mejores prácticas para superar las limitaciones habituales y maximizar la disponibilidad. La lección finaliza con una discusión sobre el ciclo de vida del software y cómo encaja en el marco de "Usar, Hacer, Compartir" y su relación a un plan de gestión.
 
 ## Objetivos de aprendizaje
 
@@ -34,11 +34,11 @@ Repasemos algunos ejemplos conocidos de grupos que compartieron su código, y cu
 
 Los botones pueden utilizarse para navegar entre los ejemplos.
 
-<img src="../images/media/image394.jpg" style="width:350px;height:auto;" />
+<img src="../images/media/image394_es.jpg" style="width:350px;height:auto;" />
 
 La primera imagen de un agujero negro no habría sido posible en esta década si todo el código necesario hubiera tenido que ser escrito únicamente por los científicos implicados. Estos científicos pudieron utilizar un software de código abierto bien probado y aceptado por la comunidad para realizar sus análisis y crear esta imagen ahora famosa. La Dra. Katie Bouman y su equipo elogiaron el papel fundamental que desempeñaron los colaboradores de código abierto en el esfuerzo de su equipo por obtener imágenes del primer agujero negro. Este avance fue posible gracias a las bibliotecas de código abierto, que ofrecían un código robusto y de libre acceso. El código utilizado para capturar esta imagen fue creado por 21.485 colaboradores. Los sofisticados algoritmos y pipelines iterativos de procesamiento de datos utilizados por el equipo de la Dra. Bouman fueron desarrollados y probados por la comunidad, lo que hizo posible una ciencia robusta y reproducible sin tener que reescribir cada pieza de software necesaria.
 
-<img src="../images/media/image553.png" style="width:350px;height:auto;" />
+<img src="../images/media/image553_es.png" style="width:350px;height:auto;" />
 
 Este es el helicóptero Ingenio, o como lo llaman los ingenieros, Ginny. Llegó a Marte haciendo autostop en el explorador Perseverance, que aterrizó en el cráter Jezero en 2021.
 
@@ -50,7 +50,7 @@ Detrás de ese helicóptero de 4 libras hay más de 12.000 personas que contribu
 
 Además, el software final de Ginny desarrollado en el Jet Propulsion Lab, llamado F prime, era a su vez de código abierto y se ha utilizado desde entonces en la investigación de vuelos, drones y nanosatélites (CubeSats). De hecho, F prime se había copiado en repositorios de otras personas más de 1.200 veces.
 
-<img src="../images/media/image408.jpg" style="width:350px;height:auto;" />
+<img src="../images/media/image408_es.jpg" style="width:350px;height:auto;" />
 
 La mayoría de los datos de los telescopios espaciales se embargan durante 12 meses y sólo el equipo científico principal puede trabajar con ellos. En un caso único, se ofreció la liberación anticipada de una pequeña porción de los datos del nuevo telescopio espacial James Webb (JWST) de la NASA. Estos datos del JWST estuvieron disponibles inmediatamente.
 
@@ -64,7 +64,7 @@ De este modo, el equipo de la Dra. Batalha publicó la primera identificación d
 
 Este ejemplo ilustra los beneficios de aplicar principios de ciencia abierta para producir rápidamente investigaciones significativas. El equipo trabajó en un formato abierto, desde la idea al análisis, pasando por la publicación y la comunicación.
 
-<img src="../images/media/image168.jpg" style="width:350px;height:auto;" />
+<img src="../images/media/image168_es.jpg" style="width:350px;height:auto;" />
 
 Los nuevos conjuntos de modelos climáticos de código abierto incorporan características que pretenden hacer la investigación climática más colaborativa, eficiente y fiable.
 
@@ -84,13 +84,13 @@ Toda ciencia se construye en base a lo que ya se ha logrado. El código no es la
 
 Entender cómo encontrar y utilizar el código de otros, crear el propio y compartirlo es una parte importante del avance de la ciencia abierta. Al igual que las buenas prácticas de gestión de datos, conocer algunos detalles sobre cómo compartirlos no sólo te ayudará a utilizarlos más adelante, sino también a que otros sepan cómo utilizarlos y citarlos para que se te reconozca el mérito.
 
-<img src="../images/media/image247.jpg" style="width:100%;height:auto;" />
+<img src="../images/media/image247_es.png" style="width:100%;height:auto;" />
 
 Ejemplo de código de [https://github.com/UCB-stat-159-s23/site/blob/main/lectures/climate-data.ipynb](https://github.com/UCB-stat-159-s23/site/blob/main/lectures/climate-data.ipynb)
 
 ### ¿Qué es el código versus el software?
 
-<img src="../images/media/image109.png" style="width:350px;height:auto;" />
+<img src="../images/media/image109_es.png" style="width:350px;height:auto;" />
 
 Cuando escribimos "software", en realidad estamos escribiendo código de texto y utilizando un intérprete o compilador para traducirlo en un programa que la máquina pueda ejecutar. El código es un lenguaje que los humanos pueden escribir y entender. El software, suele ser un conjunto de programas, datos y otra información que un sistema informático utiliza para realizar tareas específicas. Un ejemplo es una biblioteca de software, que es un conjunto de datos y código de programación que se utiliza para desarrollar programas y aplicaciones de software.
 
@@ -174,7 +174,7 @@ Los principios del software abierto se derivan de las mejores prácticas del sof
 
 Crédito: [El camino del código abierto| Opensource.com](https://opensource.com/open-source-way)
 
-<img src="../images/media/image530.png" style="width:100%;height:auto;" />
+<img src="../images/media/image530_es.png" style="width:100%;height:auto;" />
 
 Compartir código mejora la ciencia porque permite la reproducibilidad, la reutilización y la replicabilidad. La decisión de compartir el código beneficia a la comunidad científica porque aumenta la transparencia, la participación y la colaboración. Compartir código en cualquier punto del proceso de investigación puede ser valioso.
 
@@ -307,13 +307,13 @@ Aunque los investigadores y las instituciones no puedan compartir todo su códig
 
 _En la actividad siguiente, arrastra cada control deslizante para explorar el espectro de la apertura._
 
-<img src="../images/media/image110.jpg" style="width:100%;height:auto;" />
+<img src="../images/media/image110_es.png" style="width:100%;height:auto;" />
 
 ### La Práctica de lo 'Abierto'
 
 Repase cómo se resuelven las tareas clave del ciclo de vida de desarrollo de software en el esquema del concepto de trabajo «Usar, Hacer, Compartir».
 
-<img src="../images/media/image290.png" style="width:100%;height:auto;" />
+<img src="../images/media/image290_es.png" style="width:100%;height:auto;" />
 
 Al igual que ocurre con los datos abiertos, los distintos aspectos del software abierto se describen en términos de Uso, Creación y Puesta en común del software abierto.
 

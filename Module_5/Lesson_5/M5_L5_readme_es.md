@@ -2,7 +2,7 @@
 
 ## Contenidos
 
-- [Escribiendo un Plan de Gestión de Datos de Ciencia Abierta: Qué incluír en un OSDMP para compartir resultados abiertos](#writing-an-osdmp-what-to-include-in-the-osdmp-for-sharing-results-openly)
+- [Escribiendo un Plan de Gestión de Datos de Ciencia Abierta: Qué incluir en un OSDMP para compartir resultados abiertos](#writing-an-osdmp-what-to-include-in-the-osdmp-for-sharing-results-openly)
 - [Ejemplo de pasos hacia resultados más abiertos](#ejemplo-pasos-hacia-resultados-mas-abiertos)
 - [Cómo una tecnología emergente como la IA está cambiando nuestra forma de hacer ciencia](#cómo-tecnología-emergente-como-ia-está-cambiando-cómo-hacemos-ciencia)
 - [Lección 5: Resumen](#lesson-5-summary)
@@ -30,7 +30,7 @@ Aunque no es obligatorio, puede ser una buena idea incluir planes para hacer que
 
 ### Actividad 5.1: Del bolígrafo al papel
 
-<img src="../images/media/image21.png" style="width:350px;height:auto;" />
+<img src="../images/media/image21_es.png" style="width:350px;height:auto;" />
 
 Escribe una sección de resultados de muestra de un OSDMP que detalle cómo planearías hacer públicos tus resultados. Piensa en un ejemplo de tu investigación y qué detalles necesitarás incluir para convencer a quienes revisan que compartirás los resultados de acceso abierto.
 
@@ -38,13 +38,13 @@ Escribe una sección de resultados de muestra de un OSDMP que detalle cómo plan
 
 **Ejemplo 2:** Esta actividad dará lugar a la creación de cuadernos computacionales, 4 resúmenes y pósteres para congresos, 2 manuscritos revisados por pares y 2 artículos en línea en lenguaje sencillo, que resumirán nuestros resultados. Las publicaciones revisadas por pares se publicarán en acceso abierto y las preimpresiones se archivarán en PubSpace o en el servidor de preimpresión de las revistas de acceso abierto. Todos los demás materiales se archivarán en Zenodo, se les asignará un DOI y se les asignará una licencia CC-BY o una licencia de software permisiva.
 
-Para estos ejemplos, ¿qué otra información o detalles podrían añadirse? Si estuvieras planeando escribir un tutorial sobre tu ciencia, ¿qué incluirías?
+Para estos ejemplos, ¿Qué otra información o detalles podrían añadirse? Si estuvieras planeando escribir un tutorial sobre tu ciencia, ¿Qué incluirías?
 
 ## Ejemplos de Pasos Hacia Resultados Más Abiertos
 
 [**La NASA anuncia que el verano de 2023 será el más caluroso jamás registrado**](https://www.nasa.gov/news-release/nasa-Chances-Summer-2023-hottest-on-record/)
 
-<img src="../images/media/image75.jpeg" style="width:350px;height:auto;" />
+<img src="../images/media/image75_es.jpeg" style="width:350px;height:auto;" />
 
 Crédito de la imagen: NASA Earth Observatory/Lauren Dauphin.
 
@@ -224,7 +224,7 @@ Responde las siguientes preguntas para poner a prueba lo que ha aprendido hasta 
 
 Lee la siguiente afirmación y decide si es verdadera o falsa.
 
-_Es una buena idea incluir planes en tu Plan de Ciencia Abierta y Gestión de Datos (OSDMP, por sus siglas en inglés) para que tus resultados estén disponibles de formas distintas a las de publicación tradicional, por ejmplo publicaciones de blogs o tutoriales en línea._
+_Es una buena idea incluir planes en tu Plan de Ciencia Abierta y Gestión de Datos (OSDMP, por sus siglas en inglés) para que tus resultados estén disponibles de formas distintas a las de publicación tradicional, por ejemplo publicaciones de blogs o tutoriales en línea._
 
 - Verdadero
 - Falso
@@ -260,7 +260,7 @@ _Es una buena idea incluir planes en tu Plan de Ciencia Abierta y Gestión de Da
 
 La ciencia tiene como objetivo beneficiar a la sociedad. Compartir nuestra ciencia ayuda a garantizar que beneficie a la sociedad e informe de las decisiones del público y de los responsables de la formulación de políticas, especialmente cuando la financian agencias públicas o gobiernos. Volviendo al módulo 'Conjunto de Valores en Ciencia Abierta':
 
-<img src="../images/media/opensciencequote.jpg" style="width:100%;height:auto;" />
+<img src="../images/media/opensciencequote_es.jpg" style="width:100%;height:auto;" />
 
 "La ciencia abierta es el principio y la práctica de lograr que los productos y procesos de investigación estén disponibles para todas las personas, mientras se respeta las diversas culturas, manteniendo la seguridad, privacidad, fomentando la colaboración, la reproducibilidad y la equidad"
 

@@ -9,7 +9,7 @@
 - [Cuando: El Cronograma para Archivar y Compartir Código.](./Lesson_4#when-the-schedule-for-code-archiving-and-sharing)
 - [Dónde: Dónde Compartir Código Abierto](./Lesson_4#where-to-share-open-code)
 - [Cómo: Cómo habilitar la reusabilidad del código](./Lesson_4#how-to-enable-reuse-of-code)
-- [Quién: Roles y Responsibilidades de los Miembros del Equipo en la Implementación del SMP](./Lesson_4#who-roles-and-responsibilities-of-the-team-members-in-implementing-the-smp)
+- [Quién: Roles y Responsabilidades de los Miembros del Equipo en la Implementación del SMP](./Lesson_4#who-roles-and-responsibilities-of-the-team-members-in-implementing-the-smp)
 - [Lección 4: Resumen](#lesson-4-summary)
 - [Lección 4: Evaluación](#leccion-4-evaluacion)
 
@@ -29,7 +29,7 @@ Después de completar este módulo, deberías ser capaz de:
 
 ## Planificación para compartir tu código
 
-<img src="../images/media/image540.png" style="width:350px;height:auto;" />
+<img src="../images/media/image540_es.png" style="width:350px;height:auto;" />
 
 Estuve trabajando en un código y ahora un nuevo colaborador quiere utilizarlo. ¡Genial! ¿Cuál es la mejor manera de compartir el código? ¿Por correo electrónico? ¿Cuándo debo compartir el código y qué debo incluir para asegurar que esta persona pueda utilizarlo fácilmente?"
 
@@ -39,7 +39,7 @@ Para compartir, existen dos categorías principales: el compartir para el desarr
 
 ### Desarrollo de código abierto
 
-Escribir código científico suele ser un proceso dinámico y colaborativo en el que contribuyen varias personas y el código evoluciona con el tiempo. En este tipo de proyectos, es beneficioso desarrollar código abierto en una plataforma pública de alojamiento de repositorios como Github, Bitbucket, GitLab, etc. desde el principio del proyecto. Esto garantiza que todas las actualizaciones se compartan abiertamente en la web y puedan llegar a colaboradores y usuarios potencialmente interesados casi en tiempo real.
+Escribir código científico suele ser un proceso dinámico y colaborativo en el que contribuyen varias personas y el código evoluciona con el tiempo. En este tipo de proyectos, es beneficioso desarrollar código abierto en una plataforma pública de alojamiento de repositorios como GitHub, Bitbucket, GitLab, etc. desde el principio del proyecto. Esto garantiza que todas las actualizaciones se compartan abiertamente en la web y puedan llegar a colaboradores y usuarios potencialmente interesados casi en tiempo real.
 
 ### Archivado Código Abierto
 
@@ -124,11 +124,11 @@ Muchos organismos federales ya permiten (si no exigen) compartir el código crea
 - [Departamento de Comercio de los EE.UU.](https://www.commerce.gov/about/policies/source-code) "...requiere que las organismos desarrollen planes para liberar al menos el 20 por ciento del nuevo código fuente desarrollado a medida como Software de Código Abierto (OSS) al encargar un nuevo software hecho a medida."
 - [USGS](https://www.usgs.gov/survey-manual/im-osqi-2019-01-review-and-approval-scientific-software-release) "...las versiones de software se consideran bienes de dominio público y, por lo general, están disponibles sin restricciones."
 
-¿Recibes dinero de un subsidio? Lee la convocatoria original del subsido para ver si te permite/requiere la publicación del código y comprueba si contiene algún texto sobre la gestión del software y alguna condición para publicar el código. En caso de duda, ponte en contacto con tu institución para obtener información adicional.
+¿Recibes dinero de un subsidio? Lee la convocatoria original del subsidio para ver si te permite/requiere la publicación del código y comprueba si contiene algún texto sobre la gestión del software y alguna condición para publicar el código. En caso de duda, ponte en contacto con tu institución para obtener información adicional.
 
 ### Actividad 4.1: Encuentra las Políticas de Publicación de Software de tu Institución
 
-<img style="width:350px;height:auto;" src="../images/media/lightbulb.png">
+<img style="width:350px;height:auto;" src="../images/media/lightbulb_es.png">
 
 Supongamos que desea iniciar un nuevo proyecto de código abierto:
 
@@ -146,7 +146,7 @@ Las políticas de liberación de software difieren según la organización y cad
 
 Planear para compartir tu código al comienzo de tu proyecto hace que compartir sea más fácil cuando estés listo. Exactamente cuando en tu flujo de trabajo decides compartir públicamente tu código depende de tu trabajo y de los requisitos de la agencia de financiación, organización, o publicador.
 
-Como ejemplo, ¿qué dice la NASA?
+Como ejemplo, ¿Qué dice la NASA?
 
 Si está escribiendo software científico para un proyecto financiado por el Directorio de Misión de Ciencia de la NASA (NASA Science Mission Directorate) entonces:
 
@@ -160,21 +160,21 @@ Otras organizaciones pueden tener orientaciones diferentes, por lo que siempre e
 
 ### Consideraciones generales
 
-<img src="../images/media/image197.png" style="width:100%;height:auto;" />
+<img src="../images/media/image197_es.png" style="width:100%;height:auto;" />
 
-Al igual que los datos, el código puede compartirse de muchas maneras, por ejemplo por correo electrónico o en un sitio web personal, pero estos métodos no son recomendables. Entonces, ¿dónde debería compartir su código abierto?
+Al igual que los datos, el código puede compartirse de muchas maneras, por ejemplo por correo electrónico o en un sitio web personal, pero estos métodos no son recomendables. Entonces, ¿Dónde debería compartir su código abierto?
 
 En primer lugar, considere las políticas de su institución o agencia de financiación, que pueden dictar dónde debe compartir y dónde puede hacerlo. Por ejemplo, algunas agencias de financiación especifican los depósitos a largo plazo donde debe archivarse su código, y pueden restringirle el uso compartido en otras formas de repositorios. Su disciplina científica puede tener un repositorio específico para código abierto.
 
 #### ¿Cuáles son las mejores opciones y prácticas para archivar el código?
 
 - Archivar código abierto con un artículo de revista de acceso abierto.
-- Si el código abierto está en un repositorio de desarrollo en línea activo como Github, cree una versión y archive el código en un repositorio a largo plazo con un DOI como Zenodo, que puede integrarse con Github (más detalles sobre este proceso más adelante).
+- Si el código abierto está en un repositorio de desarrollo en línea activo como GitHub, cree una versión y archive el código en un repositorio a largo plazo con un DOI como Zenodo, que puede integrarse con GitHub (más detalles sobre este proceso más adelante).
 - Archive el código en otros repositorios públicos a largo plazo, como Software Heritage.
 
 #### Es su código un paquete de software importante y de interés para un número signiﬁcativo de usuarios de diversas disciplinas? ¿Dónde más puede compartirse su código abierto?
 
-<img src="../images/media/image332.png" style="width:350px;height:auto;" />
+<img src="../images/media/image332_es.png" style="width:350px;height:auto;" />
 
 - Desarrollar tu software en un repositorio público como GitHub.
 - Publicar en un repositorio de software usado por los gestores de paquetes comunes para facilitar la instalación del software (ej. Anaconda, CRAN, PyPI).
@@ -182,11 +182,11 @@ En primer lugar, considere las políticas de su institución o agencia de financ
 - Publicar el software en un Journal dedicado al software abierto (ej. JOSS).
 - Consigue que tu software sea revisado por expertos a través de comunidades como PyOpenSci.
 
-#### Para compartir mi código, sólo tengo que añadirlo a github, ¿verdad?
+#### Para compartir mi código, sólo tengo que añadirlo a GitHub, ¿verdad?
 
 No necesariamente. Se alienta a compartir en un repositorio, pero la organización de financiamiento de la persona que investiga puede requerir un DOI de un repositorio de archivo, como Zenodo, para la preservación a largo plazo de su código en el momento de la publicación o lanzamiento de versiones.
 
-<img src="../images/media/image425.png" style="width:350px;height:auto;" />
+<img src="../images/media/image425_es.png" style="width:350px;height:auto;" />
 
 ## ¿Cómo habilitar la reutilización del código?
 
@@ -200,7 +200,7 @@ Por ejemplo, aquí te mostramos cómo asignar una licencia a un repositorio de G
 
 Elige la licencia de uso compartido de software adecuada que cumpla con los requisitos de tu organización. Para crear una plantilla de licencia en GitHub, añade un nuevo archivo y escribe "LICENCIA" (en inglés, _LICENCE_) en el campo de nombre, entonces aparecerá la opción "Elegir una plantilla de licencia".
 
-<img src="../images/media/image78.jpg" style="width:350px;height:auto;" />
+<img src="../images/media/image78_es.jpg" style="width:350px;height:auto;" />
 
 Asegúrate de que tu repositorio de GitHub sea público, para que cualquiera pueda realizar búsquedas en él.
 
@@ -234,28 +234,28 @@ Pasos para esta actividad:
 
 1. Ve a la [página de Zenodo GitHub](https://sandbox.zenodo.org/account/settings/github/). Haz clic en el botón 'Conectar' para permitir que Zenodo acceda a sus repositorios de GitHub.
 
-<img src="../images/media/zenododoi1.jpg" style="width:100%;height:auto" />
+<img src="../images/media/zenododoi1_es.png" style="width:100%;height:auto" />
 
 2. Revisa la información sobre los permisos de acceso y haz clic en 'Autorizar Zenodo'.
 3. Sincroniza tu GitHub con Zenodo haciendo clic en 'Sincronizar ahora' en la esquina superior derecha.
 
-<img src="../images/media/zenododoi3.jpg" style="width:100%;height:auto" />
+<img src="../images/media/zenododoi3_es.png" style="width:100%;height:auto" />
 
 4. A la derecha del nombre del repositorio que desea archivar ('os-test'), cambia el botón a Encendido (en inglés, _On_).
 5. Haz clic en el nombre del repositorio.
 6. Haz clic en el botón verde grande que tiene 'username/os-test'
 
-<img src="../images/media/zenododoi6.jpg" style="width:100%;height:auto" />
+<img src="../images/media/zenododoi6_es.jpg" style="width:100%;height:auto" />
 
 7. Añade una etiqueta 'test'. Es posible que tengas que crear una nueva etiqueta para 'test' si se te solicita.
 8. Desplázate hacia abajo y haz clic en el botón verde 'publicar lanzamiento' (en inglés, _publish release_)
 
-<img src="../images/media/zenododoi8.jpg" style="width:100%;height:auto" />
+<img src="../images/media/zenododoi8_es.jpg" style="width:100%;height:auto" />
 
 9. Navega a la [Zenodo GitHub page](https://sandbox.zenodo.org/account/settings/github/) y ve el DOI para 'os-test'.
 10. A continuación, comparte tu DOI.
 
-<img src="../images/media/zenododoi10.jpg" style="width:100%;height:auto" />
+<img src="../images/media/zenododoi10_es.jpg" style="width:100%;height:auto" />
 
 Zenodo archiva tu repositorio y emite un nuevo DOI cada vez que creas un nuevo [lanzamiento](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases) GitHub. Sigue los pasos en "[Administrar lanzamientos en un repositorio](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository)" para crear una nueva.
 
@@ -269,11 +269,11 @@ Los archivos CITACIÓN son un medio para hacer que la información de citas sea 
 
 ### Pautas para Colaborar
 
-<img src="../images/media/image419.png" style="width:100%;height:auto;" />
+<img src="../images/media/image419_es.png" style="width:100%;height:auto;" />
 
 Si espera que la comunidad contribuya a su software, es una buena práctica incluir archivos COLABORAR (en inglés, _CONTRIBUTING_) y CÓDIGO DE CONDUCTA (en inglés, _CODE_OF_CONDUCT_) en su repositorio que describan las expectativas para las interacciones de los participantes.
 
-No entraremos en detalles aquí, pero puedes consultar el [repositorio github del paquete Xarray](https://github.com/pydata/xarray/tree/main) para ver un buen ejemplo.
+No entraremos en detalles aquí, pero puedes consultar el [repositorio GitHub del paquete Xarray](https://github.com/pydata/xarray/tree/main) para ver un buen ejemplo.
 
 ## ¿Cuáles son los roles y las responsabilidades de quienes participan del equipo en la implementación del PGS?
 
@@ -304,7 +304,7 @@ Añadiendo archivos CITACIÓN, COLABORAR, y CÓDIGO DE CONDUCTA
 
 Todos estos roles pueden o no ser necesarios, dependiendo del tamaño de tu proyecto. Es necesario tener un proceso transparente para asignar cualquier rol a los miembros de la comunidad.
 
-### Responsibilidades después de Compartir
+### Responsabilidades después de Compartir
 
 Si el software está pensado para que otras personas lo usen, entonces quien desarrolla debería mantener el software.
 

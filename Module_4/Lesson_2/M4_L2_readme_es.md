@@ -28,7 +28,7 @@ Después de completar esta lección, deberías ser capaz de:
 
 Mucha gente descubre el código a través de conversaciones con sus colegas o leyendo artículos de revistas y asistiendo a charlas en conferencias. Esta es una excelente forma de encontrar código que puede tener aplicaciones para su problema científico.
 
-¿De que otras maneras alguien puede buscar código abierto? Como primer paso, puede buscar código que ya exista porque es probable que otras personas hayan tenido un problema similar y hayan publicado su código en línea. Una manera común de buscar código existente es mediante un motor de búsqueda general. Los motores de búsqueda ofrecen un indicador de la relevancia de un código, con sus respecticas actualizaciones y frecuencia de referencias.
+¿De que otras maneras alguien puede buscar código abierto? Como primer paso, puede buscar código que ya exista porque es probable que otras personas hayan tenido un problema similar y hayan publicado su código en línea. Una manera común de buscar código existente es mediante un motor de búsqueda general. Los motores de búsqueda ofrecen un indicador de la relevancia de un código, con sus respectivas actualizaciones y frecuencia de referencias.
 
 |            |                                                                                                                                                                                                                                                                                                                                                                                                              |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -40,7 +40,7 @@ El éxito de esta búsqueda se debe a que los desarrolladores de GOTM han hecho 
 
 ### El acceso al software abierto depende de que los desarrolladores sigan los principios FAIR
 
-Descubrir software abierto depende de que los desarrolladores hagan que su software sea fácil de encontrar. Los principios Encontrable, Accesible, Interoperable y Reutilizable (en inglés, FAIR) para software de investigación, sugieren:
+Descubrir software abierto depende de que los desarrolladores hagan que su software sea fácil de encontrar. Los principios Fácil de encontrar, Accesible, Interoperable y Reutilizable (en inglés, FAIR) para software de investigación, sugieren:
 
 - El software y sus metadatos asociados deben ser fáciles de encontrar para humanos y máquinas.
 - El software debe ser descrito con metadatos enriquecidos, accesibles e indexables.
@@ -62,7 +62,7 @@ El ecosistema de software abierto es vasto, orgánico, multifacético y altament
 
 Si buscas software científico, los estándares comunitarios exigen cada vez más que el código se publique y se vincule a artículos científicos.
 
-<img src="../images/media/image333.jpg" style="width:350px;height:auto;" />
+<img src="../images/media/image333_es.jpg" style="width:350px;height:auto;" />
 
 Por lo tanto, la literatura científica y sus archivos de códigos auxiliares son cada vez más un excelente lugar para buscar código abierto científico.
 
@@ -106,11 +106,11 @@ GitHub permite a los usuarios colaborar en un proyecto compartido y seguir sus c
 
 Comienza visitando el sitio web de GitHub para buscar paquetes de software disponibles abiertamente. Deberás crear una cuenta gratuita para esta acción. Ahora navega en la página Código de Búsqueda para acceder a tutoriales sobre la interfaz y conocer las capacidades del portal de búsqueda. Alternativamente, puedes ingresar de forma simple tus términos en la barra de búsqueda mientras estás en tu página de perfil. Luego, en la barra de busqueda, ingresa las palabras clave relacionadas. Busca "Lomb Scargle" y aparecerán varios repositorios con código relevante en varios lenguajes de programación (Julia y Python), junto con miles de partes de código relacionados. ¡Felicitaciones! Has comenzado tu viaje hacia el software de acceso abierto y ahora puedes ver el trabajo de miles de personas que alguna vez estuvieron donde tú estás ahora. ¡Arriba y adelante!
 
-<img src="../images/media/image335.jpg" style="width:100%;height:auto;" />
+<img src="../images/media/image335_es.png" style="width:100%;height:auto;" />
 
 Captura de pantalla de los repositorios devueltos por nuestra búsqueda
 
-<img src="../images/media/image496.jpg" style="width:100%;height:auto;" />
+<img src="../images/media/image496_es.jpg" style="width:100%;height:auto;" />
 
 Captura de pantalla de los fragmentos de código devueltos por nuestra búsqueda
 
@@ -120,7 +120,7 @@ Con el software abierto, saber dónde buscar y qué buscar puede ser un problema
 
 Revisa el diagrama de flujo que ilustra cómo la búsqueda sigue la definición de la necesidad.
 
-<img src="../images/media/image128.jpg" style="width:6.23514in;height:3.24979in" />
+<img src="../images/media/image128_es.png" style="width:6.23514in;height:3.24979in" />
 
 ### El Software Abierto se Agrega y se Puede Buscar en Repositorios
 
@@ -233,7 +233,7 @@ Es una buena señal si puede encontrar evidencia de que el código ha sido utili
 
 Para evaluar rápidamente el uso de la comunidad y la calidad del repositorio de software, utilice las herramientas del repositorio donde lo encontró. GitHub, por ejemplo, permite un rápido escaneo de la actividad de desarrollo como lo demuestra el número de veces que el código ha sido descargado o “bifurcado” en el lenguaje de GitHub. También puedes ver la cantidad de actividad en una comunidad. GitHub también proporciona información sobre la calidad del software.
 
-<img src="../images/media/image291.jpg" style="width:100%;height:auto;" />
+<img src="../images/media/image291_es.jpg" style="width:100%;height:auto;" />
 
 ### La importancia del Archivo LEEME
 

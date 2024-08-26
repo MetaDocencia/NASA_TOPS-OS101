@@ -26,7 +26,7 @@ Después de completar esta lección, deberías saber:
 
 ## Planes de gestión de datos y ciencia abierta
 
-<img style="width: 100%; height: auto;" src="../images/media/codebg.jpg">
+<img style="width: 100%; height: auto;" src="../images/media/codebg_es.jpg">
 
 "Un Plan de Gestión de Datos y Ciencia Abierta de la NASA (PGDCA) describe cómo se gestionará y se pondrá a disposición abiertamente la información científica producida, a partir de actividades científicas financiadas por la NASA. El PGDCA debe incluir secciones sobre gestión de datos, gestión de software e intercambio de publicaciones"
 
@@ -50,7 +50,7 @@ Secciones de ejemplo para incluir en un PGDCA:
 - **Cómo:** Habilite la reutilización del software mediante la asignación de un DOI, una licencia, pautas de contribución, etc.
 - **Quién:** Roles y responsabilidades de los miembros del equipo.
 
-<img style="width: 350px; height: auto;" src="../images/media/recallsteps.jpg">
+<img style="width: 350px; height: auto;" src="../images/media/recallsteps_es.jpg">
 
 ## ¿Cómo planificamos el desarrollo de nuestro código abierto?
 
@@ -176,7 +176,7 @@ Subscríbete y/o participa en foros (por ejemplo, discusiones en GitHub, Stack O
 
 ### Actividad 5.2: Navega por Algunas Comunidades de Práctica
 
-<img style="width:350px;height:auto;" src="../images/media/lightbulb.png">
+<img style="width:350px;height:auto;" src="../images/media/lightbulb_es.png">
 
 - Encuentra y navega por los sitios web asociados con dos comunidades de práctica enumeradas en la sección anterior "Conectando con Comunidades".
 - Identifica al menos dos puntos de entrada para participar, por ejemplo, un evento próximo (virtual o presencial), cómo podrías contribuir, foros, etc.
@@ -210,7 +210,7 @@ Existen varios tipos de contribuciones al software de código abierto. No todas 
 Además de los recursos mencionados en otras partes de esta capacitación, los siguientes recursos comunitarios son excelentes fuentes de información sobre software de código abierto.
 
 - [OpenSciency](https://zenodo.org/record/7662732)
-- [Dirección de Misiones Científicas de la NASA: Guía científica de código abierton (NASA SMD's Open-Source Science Guidance)](https://science.nasa.gov/science-red/s3fs-public/atoms/files/SMD%20Open-Source%20Science%20Guidance%20v1%2020221208.pdf)
+- [Dirección de Misiones Científicas de la NASA: Guía científica de código abierto (NASA SMD's Open-Source Science Guidance)](https://science.nasa.gov/science-red/s3fs-public/atoms/files/SMD%20Open-Source%20Science%20Guidance%20v1%2020221208.pdf)
 - [Guía práctica para la gestión de software (Practical Guide to Software Management)](https://zenodo.org/record/7589725)
 - [Principios FAIR para el Software de Investigación (Principios FAIR4RS - FAIR Principles for Research Software)](https://zenodo.org/record/6623556)
 - [Opciones de Política de Software de Código Abierto para Ciencias de la Tierra y del Espacio de la NASA (Open Source Software Policy Options for NASA Earth and Space Sciences)](https://doi.org/10.17226/25217)
@@ -237,7 +237,7 @@ Además de los recursos mencionados en otras partes de esta capacitación, los s
 
 En esta lección has aprendido:
 
-- Cuándo se debería redactar un Plan de Gestión de Software y que el organismo o institución de financiamiento puede tener reglas sobre cómo desarrollar y comportir el código.
+- Cuándo se debería redactar un Plan de Gestión de Software y que el organismo o institución de financiamiento puede tener reglas sobre cómo desarrollar y compartir el código.
 - Que unirse a comunidades de software puede ser una forma excelente de intercambiar conocimientos y aprender nuevas habilidades en torno al código abierto.
 - Que hay muchas maneras de contribuir al código abierto, y que no todas requieren escribir código.
 
@@ -274,6 +274,6 @@ Seleccione la o las maneras beneficiosas de contribuir al software de código ab
 
 - Explicar lo qué significa el software de código abierto, incluyendo el ciclo de desarrollo de software, los beneficios del software abierto y algunas limitaciones comunes y cómo se abordan.
 - Evaluar el software de código abierto para su reutilización mediante el análisis de la documentación proporcionada, incluyendo archivos README y detalles de licencia, y poder, además, citar el software apropiadamente.
-- Crear un plan de gestión de software de código abierto que incluyan, por un lado, la estrategia para seleccionar dependencias de software abierto y repositorios abiertos como GIT, y tambíén, cómo se incluirán elementos abiertos como metadatos, archivos README y control de versiones para hacer que el software sea reutilizable y localizable.
+- Crear un plan de gestión de software de código abierto que incluyan, por un lado, la estrategia para seleccionar dependencias de software abierto y repositorios abiertos como GIT, y también, cómo se incluirán elementos abiertos como metadatos, archivos README y control de versiones para hacer que el software sea reutilizable y localizable.
 - Evaluar si tu software de código abierto puede ser compartido y cuáles son las mejores opciones para compartirlo para aumentar su visibilidad.
-- Enumerar las responsabilidades que tiene un desarrolladore de software una vez que el software de código abierto es compartido, incluyendo la gestión de los requisitos legales y la garantía del mantenimiento del software.
+- Enumerar las responsabilidades que tiene una persona que desarrolla software una vez que el software de código abierto es compartido, incluyendo la gestión de los requisitos legales y la garantía del mantenimiento del software.

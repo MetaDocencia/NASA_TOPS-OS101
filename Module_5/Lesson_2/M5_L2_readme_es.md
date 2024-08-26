@@ -26,7 +26,7 @@ Después de completar este módulo, deberías ser capaz de:
 
 ## Cómo descubrir resultados abiertos
 
-¿Cómo puedo conocer el estado de la investigación en un campo concreto? ¿Cómo participar en la conversación actual? Los investigadores a menudo comienzan con una búsqueda de artículos revisados por pares. Esta revisión le indica cuánta investigación se ha realizado en un campo y qué conclusiones se han alcanzado recientemente. En la mayoría de los campos, el proceso de revisión por pares puede tardar hasta un año. La posibilidad de encontrar preprints puede ayudar a reducir este retraso, ya que ofrecen los últimos hallazgos antes de una fecha de publicación. Sin embargo, los investigadores que deciden compartir sus resultados antes de la publicación suelen hacerlo de las formas indicadas anteriormente como mejores prácticas. Al empezar a investigar sobre un tema, ¿cómo encontrar todos estos tipos diferentes de resultados y dedicarse a la investigación más pertinente?
+¿Cómo puedo conocer el estado de la investigación en un campo concreto? ¿Cómo participar en la conversación actual? Los investigadores a menudo comienzan con una búsqueda de artículos revisados por pares. Esta revisión le indica cuánta investigación se ha realizado en un campo y qué conclusiones se han alcanzado recientemente. En la mayoría de los campos, el proceso de revisión por pares puede tardar hasta un año. La posibilidad de encontrar preprints puede ayudar a reducir este retraso, ya que ofrecen los últimos hallazgos antes de una fecha de publicación. Sin embargo, los investigadores que deciden compartir sus resultados antes de la publicación suelen hacerlo de las formas indicadas anteriormente como mejores prácticas. Al empezar a investigar sobre un tema, ¿Cómo encontrar todos estos tipos diferentes de resultados y dedicarse a la investigación más pertinente?
 
 ### Ejemplo: Exoplanetas
 
@@ -318,13 +318,13 @@ Si un artículo se ha publicado formalmente en una revista, la cita debe remitir
 
 Tómate el tiempo necesario para localizar la revista de origen y proporcionar una cita más precisa.
 
-<img src="../images/media/image31.png" style="width:100%;height:auto;" />
+<img src="../images/media/image31_es.png" style="width:100%;height:auto;" />
 
 Servidor de borradores o de manuscritos aún no publicados (Citar solo si no está disponible la publicación en una revista)
 
 ---
 
-<img src="../images/media/image32.png" style="width:100%;height:auto;" />
+<img src="../images/media/image32_es.png" style="width:100%;height:auto;" />
 
 Fuente de la publicación (Citar siempre)
 
@@ -332,7 +332,7 @@ Fuente de la publicación (Citar siempre)
 
 Si un artículo que desea citar aún no ha sido aceptado para su publicación, debe seguir las pautas de la revista al cual está enviando tu artículo. Una cita de referencia de un manuscrito que aún no está publicado o de un borrador típicamente incluye el nombre de la o las persona(s) autora(s), la fecha de la versión más reciente publicada, el título del artículo, el nombre del servidor en donde se encuentra el borrador del artículo, el tipo de objeto ("manuscrito no publicado") y el DOI.
 
-<img src="../images/media/image33.png" style="width:100%;height:auto;" />
+<img src="../images/media/image33_es.png" style="width:100%;height:auto;" />
 
 Al momento de la preparación de la presente sección, el siguiente artículo aún no había sido publicado en una revista.
 
