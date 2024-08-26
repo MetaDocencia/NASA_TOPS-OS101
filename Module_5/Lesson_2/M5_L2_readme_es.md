@@ -235,13 +235,13 @@ La práctica de producir resultados abiertos pretende fomentar un sistema en el 
 <tbody>
     <tr>
         <td>
-            <img src="../images/media/image29.png" style="width:100%;height:auto;"/>
+            <img src="../images/media/image29_es.png" style="width:100%;height:auto;"/>
         </td>
         <td>Ventaja: La interacción es abierta y otras personas de la comunidad pueden ver los problemas en curso que se están abordando.</td>
     </tr>
     <tr>
         <td>
-            <img src="../images/media/image29.png" style="width:100%;height:auto;"/>
+            <img src="../images/media/image29_es.png" style="width:100%;height:auto;"/>
         </td>
         <td>La contribución se archiva y registra en GitHub.</td>
     </tr>
@@ -264,13 +264,13 @@ Consulta este blog para conocer la etiqueta general de problemas
 <tbody>
     <tr>
         <td>
-            <img src="../images/media/image29.png" style="width:100%;height:auto;"/>
+            <img src="../images/media/image29_es.png" style="width:100%;height:auto;"/>
         </td>
         <td>Contras: la comunicación es privada. La información generalmente no se comparte con la comunidad a menos que quien la creó desarrolle una nueva versión.</td>
     </tr>
     <tr>
         <td>
-            <img src="../images/media/image29.png" style="width:100%;height:auto;"/>
+            <img src="../images/media/image29_es.png" style="width:100%;height:auto;"/>
         </td>
         <td>Contras: no hay forma de hacer un seguimiento de los créditos.</td>
     </tr>

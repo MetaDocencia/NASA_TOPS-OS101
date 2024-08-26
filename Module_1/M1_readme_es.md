@@ -62,13 +62,13 @@ Más información [aquí].(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3792863/
 
 ## Contenidos
 
-### [Lección 1: ¿Qué es la Ciencia Abierta?](./Leccion_1)
+### [Lección 1: ¿Qué es la Ciencia Abierta?](./Lesson_1)
 
-- [Motivación por la Ciencia Abierta](./Leccion_1#motivacion-por-la-ciencia-abierta)
-- [¿Qué es la Ciencia Abierta?](./Leccion_1#que-es-la-ciencia-abierta)
-- [¿Quién practica la ciencia abierta?](./Leccion_1#quien-practica-la-ciencia-abierta)
-- [Lección 1: Resumen](./Leccion_1#leccion-1-resumen)
-- [Lección 1: Evaluación](./Leccion_1#leccion-1-evaluacion)
+- [Motivación por la Ciencia Abierta](./Lesson_1#motivaci%C3%B3n-por-la-ciencia-abierta)
+- [¿Qué es la Ciencia Abierta?](./Lesson_1#qu%C3%A9-es-la-ciencia-abierta)
+- [¿Quién practica la ciencia abierta?](./Lesson_1#qui%C3%A9n-practica-la-ciencia-abierta)
+- [Lección 1: Resumen](./Lesson_1#lecci%C3%B3n-1-resumen)
+- [Lección 1: Evaluación](./Lesson_1#lecci%C3%B3n-1-evaluacion)
 
 ### [Lección 2: ¿Por qué es Importante la Ciencia Abierta?](./Leccion_2)
 
@@ -81,7 +81,7 @@ Más información [aquí].(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3792863/
 
 ### [Lección 3: Cómo hacer Ciencia Abierta](./Leccion_3)
 
-- [Manteniendo la seguridad y protegiendo la privacidad](./Lección_3#manteniendo la seguridad-y-protegiendo la privacidad)
+- [Manteniendo la seguridad y protegiendo la privacidad](./Leccion_3#manteniendo la seguridad-y-protegiendo la privacidad)
 - [Propiedad intelectual](./Leccion_3#propiedad-intelectual)
 - [Políticas y Prácticas en torno a la Ciencia Abierta](./Leccion_3#politicas-y-practicas-en-torno-a-la-ciencia-abierta)
 - [Lección 3: Resumen](./Leccion_3#leccion-3-resumen)

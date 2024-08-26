@@ -3,10 +3,10 @@
 ## Contenidos
 
 - [Motivación por la Ciencia Abierta](#motivaci%C3%B3n-por-la-ciencia-abierta)  
-- [¿Qué es la Ciencia Abierta?](#que-es-la-ciencia-abierta)
-- [¿Quién practica la Ciencia Abierta?](#quien-practica-la-ciencia-abierta)
-- [Lección 1: Resumen](#leccion-1-resumen)
-- [Lección 1: Evaluación](#leccion-1-evaluacion)
+- [¿Qué es la Ciencia Abierta?](#qu%C3%A9-es-la-ciencia-abierta)
+- [¿Quién practica la Ciencia Abierta?](#qui%C3%A9n-practica-la-ciencia-abierta)
+- [Lección 1: Resumen](#lecci%C3%B3n-1-resumen)
+- [Lección 1: Evaluación](#lecci%C3%B3n-1-evaluacion)
 
 ## Descripción general
 
