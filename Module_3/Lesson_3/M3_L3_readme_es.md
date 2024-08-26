@@ -33,7 +33,7 @@ La mejor práctica al comenzar su viaje de Datos Abiertos es crear un Plan de Ge
 | ¿Cuándo? | Cuándo compartir los datos y si hacerlo                                   |
 | ¿Dónde?  | Los repositorios destinados a datos archivados                                    |
 | ¿Cómo?   | Cómo permite el plan el reuso de los datos                                        |
-| ¿Quién?  | Roles y responsabilidades de los miembros del equipo en la implementación del PGD |
+| ¿Quién?  | Roles y responsabilidades de las personas que forman parte del equipo en la implementación del PGD |
 
 En esta lección, abordaremos algunos pasos comunes para generar datos. Específicamente, nos centraremos en el "qué" de hacer datos. Esto incluye, qué formatos de datos deben utilizarse y los estándares a seguir para que los datos sean tan abiertos y tan fáciles de usar como sea posible.
 
