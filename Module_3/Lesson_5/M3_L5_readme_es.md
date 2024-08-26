@@ -5,11 +5,11 @@
 - [Descripción general](#descripcion-general)
 - [Objetivos de aprendizaje](#objetivos-de-aprendizaje)
 - [Escribir un Plan de Gestión de Datos y de Ciencia Abierta](#escribir-un-plan-de-gestion-de-datos-y-de-ciencia-abierta)
-- [Comunidades de datos abiertos y tú](#comuniades-de-datos-abiertos-y-tu)
+- [Las comunidades de Datos Abiertos y tú](#comuniades-de-datos-abiertos-y-tu)
 - [Recursos adicionales](#recursos-adicionales)
 - [Lección 5: Resumen](#leccion-5-reumen)
 - [Lección 5: Evaluación](#leccion-5-evaluacion)
-- [Resumen de datos abiertos](#resumen-de-datos-abiertos)
+- [Resumen de Datos Abiertos](#resumen-de-datos-abiertos)
 
 ## Descripción general
 
@@ -37,17 +37,13 @@ El proceso, las responsabilidades y los factores a considerar al crear un Plan d
 
 Dos excelentes sitios para comenzar son [https://dmptool.org/](https://dmptool.org/) y [https://dmponline.dcc.ac.uk/](https://dmponline.dcc.ac.uk/). Deberás crearte una cuenta gratuita para usar estas herramientas, pero ambos sitios guían a quienes investigan a través de los pasos para escribir un PGD. Existen algunas plantillas de PGD almacenadas dentro de las herramientas, como la [plantilla de PGD de la NASA](https://science.nasa.gov/researchers/templates-planetary-science-division-appendix-c-roses-proposals/).
 
-También hay ejemplos públicos de Planes de Gestión de Datos en
-
-[https://dmptool.org/public_plans](https://dmptool.org/public_plans) y
-
-[https://dmponline.dcc.ac.uk/public_plans](https://dmponline.dcc.ac.uk/public_plans).
+También hay ejemplos públicos de Planes de Gestión de Datos en [https://dmptool.org/public_plans](https://dmptool.org/public_plans) y  [https://dmponline.dcc.ac.uk/public_plans](https://dmponline.dcc.ac.uk/public_plans).
 
 Si estás solicitando financiamiento, es casi seguro que habrá requisitos específicos detallados en la convocatoria. Por ejemplo, el organismo otorgante del financiamiento puede requerir una licencia determinada o el uso de un repositorio específico. Debes asegurarte de ajustar el plan según estos requisitos.
 
 ### Actividad 5.1: Revisar un Plan de Gestión de Datos
 
-Observa el ejemplo del Plan de Gestión de Datos público del proyecto [ThEBES](https://dmptool.org/plans/30771/export.pdf?export%5Bquestion_headings%5D=true).
+Observa el ejemplo del Plan de Gestión de Datos público del proyecto [ThEBES](https://dmptool.org/plans/30771/export.pdf?export%5Bquestion_headings%5D=true) (en inglés).
 
 Responde a las siguientes preguntas en el PGD:
 
@@ -75,7 +71,7 @@ Hay muchas formas de involucrarse y apoyar a comunidades de Datos Abiertas, incl
     <tr>
         <td colspan="3">
             <ul>
-            <li>Contribuir a los repositorios de datos abiertos</li>
+            <li>Contribuir a los repositorios de Datos Abiertos</li>
             <li>Muchos repositorios cuentan con comités que proporcionan consejos y comentarios (y con frecuencia buscan voluntarios para participar)</li>
             <li>Suscribirse a las listas de correo y cuentas de redes sociales del repositorio</li>
             </ul>
@@ -134,17 +130,17 @@ Hay muchas formas de involucrarse y apoyar a comunidades de Datos Abiertas, incl
 
 Además de los recursos mencionados en otros lugares de esta formación, los siguientes recursos comunitarios son excelentes fuentes de información sobre Datos Abiertos.
 
-Referencias y Guías:
+Referencias y guías:
 
 **Guía para la ciencia de código abierto para personas investigadoras de la Dirección de Misiones Científicas de la NASA**
 
 [HAZ CLIC PARA APRENDER MÁS](http://science.nasa.gov/oss-guidance) (en inglés)
 
-**Módulo de datos abiertos de OpenSciency**
+**Módulo de Datos Abiertos de OpenSciency**
 
 [HAZ CLIC PARA APRENDER MÁS](https://github.com/opensciency/sprint-content/tree/main/open-data) (en inglés)
 
-**Recursos para datos abiertos a través del gobierno federal de los Estados Unidos**
+**Recursos para Datos Abiertos a través del gobierno federal de los Estados Unidos**
 
 [HAZ CLIC PARA APRENDER MÁS](https://resources.data.gov/) (en inglés)
 
@@ -152,7 +148,7 @@ Referencias y Guías:
 
 [HAZ CLIC PARA APRENDER MÁS](https://fairsharing.org/FAIRsharing.WWI10U) (en inglés)
 
-**El manual de datos abiertos**
+**El manual de Datos Abiertos**
 
 [HAZ CLIC PARA APRENDER MÁS](http://opendatahandbook.org/guide/en/) (en inglés)
 
@@ -172,13 +168,13 @@ Referencias y Guías:
 
 [HAZ CLIC PARA APRENDER MÁS](https://ui.adsabs.harvard.edu/link_gateway/2022ApJS2605C/doi:10.3847/1538-4365/ac6268) (en inglés)
 
-### Oportunidades para obtener más formación sobre datos abiertos
+### Oportunidades para obtener más formación sobre Datos Abiertos
 
 Además de los recursos ya mencionados los recursos comunitarios listados a continuación ofrecen excelente información sobre Datos Abiertos.
 
 Entrenamiento adicional:
 
-**GODAN MOOC sobre cómo usar, crear y compartir datos abiertos**
+**GODAN MOOC sobre cómo usar, crear y compartir Datos Abiertos**
 
 [HAZ CLIC PARA APRENDER MÁS](https://aims.gitbook.io/open-data-mooc/) (en inglés)
 
@@ -186,16 +182,16 @@ Entrenamiento adicional:
 
 [HAZ CLIC PARA APRENDER MÁS](https://datacarpentry.org/lessons/) (en inglés)
 
-**MOOC sobre gestión, intercambio y servicios de datos para el desarrollo Agrícola**
+**MOOC sobre gestión, intercambio y servicios de datos para el desarrollo agrícola**
 
-[HAZ CLIC PARA APRENDER MÁS](https://aims.gitbook.io/farm-data-mooc/) (en inglés)a
+[HAZ CLIC PARA APRENDER MÁS](https://aims.gitbook.io/farm-data-mooc/) (en inglés)
 
 ## Lección 5: Resumen
 
 Ahora que has completado la lección, deberías poder iniciar tu camino hacia los Datos Abiertos:
 
 - Conoces los pasos y has practicado la redacción de un modelo de Plan de Gestión de Datos.
-- Hay muchas formas de participar en la comunidad de datos abiertos.
+- Hay muchas formas de participar en la comunidad de Datos Abiertos.
 - Hay un gran número de recursos disponibles para obtener más información y recibir más formación sobre Datos Abiertos.
 
 ## Lección 5: Evaluación
@@ -230,7 +226,7 @@ _Pregunta_
 
 ¡Felicitaciones! Ahora que has completado el módulo, deberías poder hacer lo siguiente:
 
-- Explicar qué significan los datos abiertos, sus ventajas y cómo se utilizan los principios FAIR.
-- Descubrir datos abiertos, evaluar los datos para su reutilización mediante la evaluación de la documentación proporcionada y citar los datos según las instrucciones.
-- Implementar un Plan de Gestión de Datos Abiertos, seleccionar formatos de datos abiertos, agregar la documentación necesaria, incluyendo metadatos, archivos README y control de versiones, para hacer a los datos reutilizables y fáciles de encontrar.
+- Explicar qué significan los Datos Abiertos, sus ventajas y cómo se utilizan los principios FAIR.
+- Descubrir Datos Abiertos, evaluar los datos para su reutilización mediante la evaluación de la documentación proporcionada y citar los datos según las instrucciones.
+- Implementar un Plan de Gestión de Datos Abiertos, seleccionar formatos de Datos Abiertos, agregar la documentación necesaria, incluyendo metadatos, archivos README y control de versiones, para hacer a los datos reutilizables y fáciles de encontrar.
 - Evaluar si tus datos deben y pueden ser compartidos, y utilizar el proceso de accesibilidad de datos, incluida la incorporación de un DOI e instrucciones de citación para que puedan encontrarse y citarse.
