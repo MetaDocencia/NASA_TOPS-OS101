@@ -6,7 +6,7 @@
 - [¿Qué es la Ciencia Abierta?](#qu%C3%A9-es-la-ciencia-abierta)
 - [¿Quién practica la Ciencia Abierta?](#qui%C3%A9n-practica-la-ciencia-abierta)
 - [Lección 1: Resumen](#lecci%C3%B3n-1-resumen)
-- [Lección 1: Evaluación](#lecci%C3%B3n-1-evaluacion)
+- [Lección 1: Evaluación](#lecci%C3%B3n-1-evaluaci%C3%B3n)
 
 ## Descripción general
 
@@ -60,7 +60,7 @@ Las prácticas y principios de la Ciencia Abierta pueden aplicarse a todas las f
 - ¿Los planetas de órbitas más cortas (como Mercurio) son más comunes que los que tienen órbitas largas (como Marte)?
 - ¿Es más común la existencia de planetas alrededor de estrellas como el Sol, o alrededor de enanas rojas que son más numerosas, frías y pequeñas?
 
-<img src="../images/media/image266_es.jpg" style="width: 100%; height: auto;" />
+<img src="../images/media/image266_es.png" style="width: 100%; height: auto;" />
 
 "Stargazing Live", fue un programa de televisión emitido en vivo, durante tres noches consecutivas en 2017. Quienes conducían invitaban a la audiencia a participar en la investigación clasificando sistemas solares a partir de un conjunto de datos de acceso público. En las 48 horas posteriores al estreno del programa más de 10.000 personas participaron en [Exoplanets Explorers](https://www.zooniverse.org/projects/ianc2/exoplanet-explorers) (_Exploradores/as de exoplanetas_) y clasificaron más de 2 millones de sistemas.
 

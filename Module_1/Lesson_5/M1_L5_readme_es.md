@@ -2,13 +2,13 @@
 
 ## Contenidos
 
-- [Planificar para la Ciencia Abierta](#planificando-para-la-ciencia-abierta)
-- [Diseñar para la apertura](#diseñando-para-la-apertura)
-- [Caso de estudio: Los resultados de un Plan Abierto](#los-resultados-de-un-plan-abierto)
+- [Planificar para la Ciencia Abierta](#planificar-para-la-ciencia-abierta)
+- [Diseñar para la apertura](#dise%C3%B1ar-para-la-apertura)
+- [Caso de estudio: Los resultados de un Plan Abierto](#Caso-de-estudio-los-resultados-de-un-plan-abierto)
 - [Pasos para continuar tu viaje hacia la Ciencia Abierta](#pasos-para-continuar-con-tu-viaje-en-ciencia-abierta)
-- [Lección 5: Resumen](#leccion-5-resumen)
-- [Lección 5: Evaluación](#leccion-5-revision-de-conocimientos)
-- [Resumen del Módulo 1: Ethos de la Ciencia Abierta](#resumen-de-el-ethos-de-la-ciencia-abierta)
+- [Lección 5: Resumen](#lecci%C3%B3n-5-resumen)
+- [Lección 5: Evaluación](#lecci%C3%B3n-5-evaluaci%C3%B3n)
+- [Resumen del Módulo 1: Ethos de la Ciencia Abierta](#resumen-del-m%C3%B3dulo-1-ethos-de-la-ciencia-abierta)
 
 ## Descripción general
 

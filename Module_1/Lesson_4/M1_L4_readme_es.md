@@ -2,12 +2,12 @@
 
 ## Contenidos
 
-- [preocupaciones usuales en torno a la apertura](#preocupaciones-usuales-en-torno-a-la-apertura)
+- [Preocupaciones usuales en torno a la apertura](#preocupaciones-usuales-en-torno-a-la-apertura)
 - [Incentivos mal alineados](#incentivos-mal-alineados)
 - [Barreras sociales](#barreras-sociales)
-- [Barreras institucionales y de infraestructuras](#barreras-institucional-y-de-infraestructura)
-- [Lección 4: Resumen](#lesson-4-resumen)
-- [Lección 4: Evaluación](#lección-4-Evaluacion)
+- [Barreras institucionales y de infraestructuras](#barreras-institucionales-y-de-infraestructura)
+- [Lección 4: Resumen](#lecci%C3%B3n-4-resumen)
+- [Lección 4: Evaluación](#lecci%C3%B3n-4-Evaluaci%C3%B3n)
 
 ## Resumen
 

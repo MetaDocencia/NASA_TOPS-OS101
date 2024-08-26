@@ -2,12 +2,12 @@
 
 ## Contenidos
 
-- [La Ciencia Abierta rompe barreras y promueve la innovación](#la-ciencia-abierta-rompe-barreras-y-promueve-la-innovacion)
-- [Beneficios para tí](#beneficios-para-tí)
+- [La Ciencia Abierta rompe barreras y promueve la innovación](#la-ciencia-abierta-rompe-barreras-y-promueve-la-innovaci%C3%B3n)
+- [Beneficios para tí](#beneficios-para-t%C3%AD)
 - [Beneficios para la ciencia](#beneficios-para-la-ciencia)
 - [Beneficios para la sociedad](#beneficios-para-la-sociedad)
-- [Lección 2: Resumen](#leccion-2-resumen)
-- [Lección 2: Evaluación](#leccion-2-evaluacion)
+- [Lección 2: Resumen](#lecci%C3%B3n-2-resumen)
+- [Lección 2: Evaluación](#lecci%C3%B3n-2-evaluaci%C3%B3n)
 
 ## Descripción general
 
