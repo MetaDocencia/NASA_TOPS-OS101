@@ -76,7 +76,7 @@ Más información [aquí].(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3792863/
 - [Beneficios individuales](./Lesson_2#beneficios-para-t%C3%AD)
 - [Beneficios para la ciencia](./Lesson_2#beneficios-para-la-ciencia)
 - [Beneficios para la sociedad](./Lesson_2#beneficios-para-la-sociedad)
-- [Lección 2: Resumen](./Lesson_2(#lecci%C3%B3n-2-resumen)
+- [Lección 2: Resumen](./Lesson_2#lecci%C3%B3n-2-resumen)
 - [Lección 2: Evaluación](./Lesson_2#lecci%C3%B3n-2-evaluaci%C3%B3n)
 
 ### [Lección 3: Cómo hacer Ciencia Abierta](./Lesson_3)

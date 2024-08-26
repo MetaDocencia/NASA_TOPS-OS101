@@ -239,7 +239,7 @@ Selecciona todas las opciones que correspondan.
 - Acceso prioritario a conferencias científicas internacionales
 - Asegurarse una posición más alta en la jerarquía académica independientemente de su historial de publicaciones
 
-_Pregunta_``
+_Pregunta_
 
 **02/03**
 
