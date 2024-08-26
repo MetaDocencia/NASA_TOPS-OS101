@@ -94,7 +94,7 @@ En el primer módulo de este curso, enumeramos varias razones por las que cierto
 Leyes y regulaciones relevantes que pueden evitar la publicación de datos incluyen, entre otras:
 
 - [Regulación Internacional de Tráfico de Armas](https://www.pmddtc.state.gov/?id=ddtc_public_portal_itar_landing) (ITAR por su nombre en inglés), que regula la manufactura, venta, distribución y exportación de artículos y servicios relacionados con la defensa en Estados Unidos.
-- [Regulaciones de Administración de Exportación](https://www.bis.doc.gov/index. cp/regulations/export-administration-regulations-ear) (EAR por su nombre en inglés), que regula la manufactura, venta, distribución y exportación de artículos comerciales y de doble uso, tecnología e información no cubiertos por ITAR.
+- [Regulaciones de Administración de Exportación](https://www.bis.doc.gov/index.cp/regulations/export-administration-regulations-ear) (EAR por su nombre en inglés), que regula la manufactura, venta, distribución y exportación de artículos comerciales y de doble uso, tecnología e información no cubiertos por ITAR.
 
 **Ejemplo: Estándar de Protección del Sistema Espacial de la NASA**
 
@@ -104,7 +104,7 @@ NASA STD 1006.1 [Estándar de Protección del Sistema Espacial](https://standard
 
 Leyes y regulaciones relevantes que pueden evitar la publicación de datos incluyen, pero no están limitadas a:
 
-- [Ley de portabilidad y responsabilidad del seguro médico](https://www.hhs.gov/hipaa/index.html) (HIPAA de su nombre en inglés), que establece estándares para proteger a la información sensible de pacientes de la divulgación.
+- [Ley de portabilidad y responsabilidad del seguro médico](https://www.hhs.gov/hipaa/index.html) (HIPAA por su nombre en inglés), que establece estándares para proteger a la información sensible de pacientes de la divulgación.
 - [Información no clasificada controlada](https://www.archives.gov/cui) proporciona estándares para manejar información no clasificada que requiere salvaguardas o controles de divulgación acorde con leyes, regulaciones federales y políticas.
 - Leyes y reglamentos federales que rigen la [información clasificada](https://www.archives.gov/isoo/faqs) o requisitos de seguridad.
 
