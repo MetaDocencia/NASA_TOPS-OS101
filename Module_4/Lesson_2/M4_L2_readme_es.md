@@ -82,9 +82,9 @@ Hay varios buscadores populares de fragmentos de código. Primero, simplemente p
 </colgroup>
 <tbody>
     <tr>
-        <td><img style="width:98%" src="../images/media/examplecoderepo1.png"></td>
-        <td><img style="width:98%" src="../images/media/examplecoderepo2.png"></td>
-        <td><img style="width:98%" src="../images/media/examplecoderepo3.png"></td>
+        <td><img style="width:98%" src="../images/media/examplecoderepo1_es.png"></td>
+        <td><img style="width:98%" src="../images/media/examplecoderepo2_es.png"></td>
+        <td><img style="width:98%" src="../images/media/examplecoderepo3_es.png"></td>
     </tr>
     <tr>
         <td>GitHub</td>
@@ -141,32 +141,32 @@ La mayoría de los códigos de investigación deberían ser software de código 
 </colgroup>
 <tbody>
     <tr>
-        <td><img style="width:98%" src="../images/media/softwarerepo1.png"></td>
-        <td><img style="width:98%" src="../images/media/softwarerepo2.png"></td>
+        <td><img style="width:98%" src="../images/media/softwarerepo1_es.png"></td>
+        <td><img style="width:98%" src="../images/media/softwarerepo2_es.png"></td>
     </tr>
     <tr>
         <td>Heritage Software</td>
         <td>Open Source Development Network (OSDN)</td>
     </tr>
     <tr>
-        <td><img style="width:98%" src="../images/media/softwarerepo3.png"></td>
-        <td><img style="width:98%" src="../images/media/softwarerepo4.png"></td>
+        <td><img style="width:98%" src="../images/media/softwarerepo3_es.png"></td>
+        <td><img style="width:98%" src="../images/media/softwarerepo4_es.png"></td>
     </tr>
     <tr>
         <td>SourceForge</td>
         <td>Free and Open-Source Software Hub (FOSSHUB)</td>
     </tr>
     <tr>
-        <td><img style="width:98%" src="../images/media/softwarerepo5.png"></td>
-        <td><img style="width:98%" src="../images/media/softwarerepo6.png"></td>
+        <td><img style="width:98%" src="../images/media/softwarerepo5_es.png"></td>
+        <td><img style="width:98%" src="../images/media/softwarerepo6_es.png"></td>
     </tr>
     <tr>
         <td>Googlecode</td>
         <td>Comprehensive Perl Archive Network</td>
     </tr>
     <tr>
-        <td><img style="width:98%" src="../images/media/softwarerepo7.png"></td>
-        <td><img style="width:98%" src="../images/media/softwarerepo8.jpg"></td>
+        <td><img style="width:98%" src="../images/media/softwarerepo7_es.png"></td>
+        <td><img style="width:98%" src="../images/media/softwarerepo8_es.jpg"></td>
     </tr>
     <tr>
         <td>PyPl</td>
