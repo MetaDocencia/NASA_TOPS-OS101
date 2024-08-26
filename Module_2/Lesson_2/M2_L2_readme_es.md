@@ -2,12 +2,12 @@
 
 ## Contenidos
 
-- [Introducción a las herramientas para la Ciencia Abierta](#introduccion-herramientas-ciencia-abierta)
+- [Introducción a las herramientas para la Ciencia Abierta](#introducci%C3%B3n-a-las-herramientas-ciencia-abierta)
 - [Identificadores persistentes](#identificadores-persistentes)
-- [Herramientas útiles para la Ciencia Abierta](#herramientas-utiles-para-la-ciencia-abierta)
-- [Planes de Ciencia Abierta y Gestión de Datos](#planes-ciencia-abierta-gestion-datos)
-- [Lección 2: Resumen](#leccion-2-resumen)
-- [Lección 2: Evaluación](#leccion-2-evaluacion)
+- [Herramientas útiles para la Ciencia Abierta](#herramientas-%C3%BAtiles-para-la-ciencia-abierta)
+- [Planes de Ciencia Abierta y Gestión de Datos](#planes-de-ciencia-abierta-y-gesti%C3%B3n-de-datos)
+- [Lección 2: Resumen](#lecci%C3%B3n-2-resumen)
+- [Lección 2: Evaluación](#lecci%C3%B3n-2-evaluaci%C3%B3n)
 
 ## Descripción general
 

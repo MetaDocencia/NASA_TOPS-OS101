@@ -2,12 +2,12 @@
 
 ## Contenidos
 
--   [Introducción al Código Abierto](#introduccion-codigo-abierto)
--   [Herramientas para el control de versiones](#herramientas-control-versiones)
--   [Herramientas para editar código](#herramientas-editar-codigo)
+-   [Introducción al Código Abierto](#introducci%C3%B3n-al-c%C3%B3digo-abierto)
+-   [Herramientas para el control de versiones](#herramientas-para-el-control-versiones)
+-   [Herramientas para editar código](#herramientas-editar-c%C3%B3digo)
 -   [Herramientas adicionales](#herramientas-adicionales)
--   [Lección 4: Resumen](#leccion-4-resumen)
--   [Lección 4: Evaluación](#leccion-4-evaluacion)
+-   [Lección 4: Resumen](#lecci%C3%B3n-4-resumen)
+-   [Lección 4: Evaluación](#lecci%C3%B3n-4-evaluaci%C3%B3n)
 
 ## Descripción general
 

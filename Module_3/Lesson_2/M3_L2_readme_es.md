@@ -2,14 +2,14 @@
 
 ## Contenidos
 
-- [Descripción general](#resumen)
-- [Objetivos de aprendizaje](#learning-objectives)
-- [Introducción](#introduction)
-- [Descubrir Datos Abiertos](#discovering-open-data)
-- [Evaluar los Datos Abiertos](#assessing-open-data)
-- [Utilizar Datos Abiertos](#using-open-data)
-- [Lección 2: Resumen](#lesson-2-summary)
-- [Lección 2: Evaluación](#lesson-2-knowledge-check)
+- [Descripción general](#descripci%C3%B3n-general)
+- [Objetivos de aprendizaje](#objetivos-de-aprendizaje)
+- [Introducción](#introducci%C3%B3n)
+- [Descubrir Datos Abiertos](#descubrir-datos-abiertos)
+- [Evaluar los Datos Abiertos](#evaluar-los-datos-abiertos)
+- [Usar Datos Abiertos](#usar-datos-abiertos)
+- [Lección 2: Resumen](#lecci%C3%B3n-2-resumen)
+- [Lección 2: Evaluación](##lecci%C3%B3n-2-evaluaci%C3%B3n)
 
 ## Descripción general
 
@@ -271,7 +271,7 @@ Unir el tipo de repositorio con la definición correcta.
 | Repositorios institucionales        | Repositorios gestionados por universidades y organizaciones    |
 | Repositorios nacionales             | Repositorios financiados por el gobierno                       |
 
-## Evaluando Datos Abiertos
+## Evaluar los Datos Abiertos
 
 <img src="../images/media/image24_es.png" style="width:100%;height:auto;" />
 
@@ -310,7 +310,7 @@ Fuente: [Mooc de Datos Abiertos en agricultura y nutrición de GODAN Action (en 
 
 Muchas de estas preguntas pueden responderse consultando la documentación y los metadatos de un conjunto de datos, así como su formato y licencia, aspectos que se tratarán con más detalle en la próxima lección "Hacer Datos Abiertos".
 
-## Utilizar Datos Abiertos
+## Usar Datos Abiertos
 
 ### La importancia citar
 

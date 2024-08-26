@@ -2,14 +2,14 @@
 
 ## Contenidos
 
-- [Descripción general](#overview)
-- [Objetivos de aprendizaje](#learning-objectives)
-- [Planificar para Datos Abiertos](#planning-for-open-data)
-- [Seleccionar formatos de datos y herramientas para la interoperabilidad](#selecting-data-formats-and-tools-for-interoperability)
-- [Hacer que los datos sean reusables mediante la documentación](#making-the-data-reusable-through-documentation)
-- [Hacer que los datos sean reusables mediante las licencias](#making-the-data-reusable-through-licensing)
-- [Lección 3: Resumen](#lesson-3-summary)
-- [Lección 3: Evaluación](#lesson-3-knowledge-check)
+- [Descripción general](#descripci%C3%B3n-general)
+- [Objetivos de aprendizaje](#objetivos-de-aprendizaje)
+- [Planificar para Datos Abiertos](#planificar-para-datos-abiertos)
+- [Seleccionar formatos de datos y herramientas para la interoperabilidad](#seleccionar-formatos-de-datos-y-herramientas-para-la-interoperabilidad)
+- [Hacer que los datos sean reusables mediante la documentación](#hacer-que-los-datos-sean-reusables-mediante-la-documentaci%C3%B3n)
+- [Hacer que los datos sean reusables mediante las licencias](#hacer-que-los-datos-sean-reusables-mediante-las-licencias)
+- [Lección 3: Resumen](#lecci%C3%B3n-2-resumen)
+- [Lección 3: Evaluación](#lecci%C3%B3n-3-evaluaci%C3%B3n)
 
 ## Descripción general
 

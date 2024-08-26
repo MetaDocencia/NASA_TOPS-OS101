@@ -2,10 +2,10 @@
 
 ## Contenidos
 
--   [Definición de Ciencia Abierta y productos de investigación](#definicion-de-ciencia-abierta-y-productos-de-investigacion)
--   [Utilizar herramientas para la Ciencia Abierta en la práctica](#utilizar-herramientas-para-la-ciencia-abierta-en-la-practica)
--   [Lección 1: Resumen](#leccion-1-resumen)
--   [Lección 1: Evaluación](#leccion-1-evaluacion)
+-   [Definición de Ciencia Abierta y productos de investigación](#definici%C3%B3n-de-ciencia-abierta-y-productos-de-investigaci%C3%B3n)
+-   [Utilizar herramientas para la Ciencia Abierta en la práctica](#utilizar-herramientas-para-la-ciencia-abierta-en-la-pr%C3%A1ctica)
+-   [Lección 1: Resumen](#lecci%C3%B3n-1-resumen)
+-   [Lección 1: Evaluación](#lecci%C3%B3n-1-evaluaci%C3%B3n)
 
 ## Descripción general
 

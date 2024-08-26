@@ -2,14 +2,14 @@
 
 ## Contenidos
 
-- [Descripción general](#descripcion-general)
+- [Descripción general](#descripci%C3%B3n-general)
 - [Objetivos de aprendizaje](#objetivos-de-aprendizaje)
-- [Escribir un Plan de Gestión de Datos y de Ciencia Abierta](#escribir-un-plan-de-gestion-de-datos-y-de-ciencia-abierta)
-- [Las comunidades de Datos Abiertos y tú](#comuniades-de-datos-abiertos-y-tu)
+- [Escribir un Plan de Gestión de Datos y de Ciencia Abierta](#escribir-un-plan-de-gesti%C3%B3n-de-datos-y-de-ciencia-abierta)
+- [Las comunidades de Datos Abiertos y tú](#las-comuniades-de-datos-abiertos-y-t%C3%BA)
 - [Recursos adicionales](#recursos-adicionales)
-- [Lección 5: Resumen](#leccion-5-reumen)
-- [Lección 5: Evaluación](#leccion-5-evaluacion)
-- [Resumen de Datos Abiertos](#resumen-de-datos-abiertos)
+- [Lección 5: Resumen](#lecci%C3%B3n-5-resumen)
+- [Lección 5: Evaluación](#lecci%C3%B3n-5-evaluaci%C3%B3n)
+- [Resumen del Módulo 5: Datos Abiertos](#resumen-del-m%C3%B3dulo-5-datos-abiertos)
 
 ## Descripción general
 

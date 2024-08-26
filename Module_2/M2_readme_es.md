@@ -1,4 +1,4 @@
-# Módulo 2: Herramientas y recursos abiertos
+# Introducción a la Ciencia Abierta Módulo 2: Herramientas y recursos abiertos
 
 Te damos la bienvenida a Introducción a la Ciencia Abierta: Herramientas y recursos abiertos
 
@@ -36,43 +36,43 @@ Estos términos clave son tópicos importantes para este módulo. Selecciona el 
 
 ### [Lección 1: Introducción al proceso de la Ciencia Abierta](./Lesson_1)
 
--   [Definición de Ciencia Abierta y productos de investigación](./Lesson_1#definicion-de-ciencia-abierta-y-productos-de-investigacion)
--   [Utilizando herramientas para Ciencia Abierta en la práctica](./Lesson_1#utilizando-herramientas-para-ciencia-abierta-en-la-practica)
--   [Lección 1: Resumen](./Lesson_1#leccion-1-resumen)
--   [Lección 1: Evaluación](./Lesson_1#leccion-1-evaluacion)
+-   [Definición de Ciencia Abierta y productos de investigación](./Lesson_1#definici%C3%B3n-de-ciencia-abierta-y-productos-de-investigaci%C3%B3n)
+-   [Utilizar herramientas para la Ciencia Abierta en la práctica](./Lesson_1#utilizar-herramientas-para-la-ciencia-abierta-en-la-pr%C3%A1ctica)
+-   [Lección 1: Resumen](./Lesson_1#lecci%C3%B3n-1-resumen)
+-   [Lección 1: Evaluación](./Lesson_1#lecci%C3%B3n-1-evaluaci%C3%B3n)
 
-### [Lección 2: Herramientas generales para la Ciencia Abierta](./Module_2/Lesson_2)
+### [Lección 2: Herramientas generales para la Ciencia Abierta](./Lesson_2)
 
--   [Introducción a las herramientas de Ciencia Abierta](./Lesson_2#introduccion-herramientas-ciencia-abierta)
+-   [Introducción a las herramientas de Ciencia Abierta](./Lesson_2#introducci%C3%B3n-a-las-herramientas-ciencia-abierta)
 -   [Identificadores persistentes](./Lesson_2#identificadores-persistentes)
--   [Herramientas útiles de Ciencia Abierta](./Lesson_2#herramientas-utiles-ciencia-abierta)
--   [Planes de Ciencia Abierta y Gestión de Datos](./Lesson_2#planes-ciencia-abierta-gestion-datos)
--   [Lección 2: Resumen](./Lesson_2#leccion-2-resumen)
--   [Lección 2: Evaluación](./Lesson_2#leccion-2-evaluacion)
+-   [Herramientas útiles de Ciencia Abierta](./Lesson_2#herramientas-%C3%BAtiles-para-la-ciencia-abierta)
+-   [Planes de Ciencia Abierta y Gestión de Datos](./Lesson_2#planes-de-ciencia-abierta-y-gesti%C3%B3n-de-datos)
+-   [Lección 2: Resumen](./Lesson_2#lecci%C3%B3n-2-resumen)
+-   [Lección 2: Evaluación](./Lesson_2#lecci%C3%B3n-2-evaluaci%C3%B3n)
 
 ### [Lección 3: Herramientas para Datos Abiertos](./Lesson_3)
 
--   [Introducción a Datos Abiertos](./Lesson_3#introduccion-datos-abiertos)
+-   [Introducción a Datos Abiertos](./Lesson_3#introducci%C3%B3n-a-los-datos-abiertos)
 -   [Principios FAIR](./Lesson_3#principios-FAIR)
--   [Herramientas para ayudar con la planificación de la creación de datos abiertos](./Lesson_3#herramientas-ayudar-creacion-datos-abiertos)
--   [Herramientas para ayudar con el uso y manejo de datos abiertos](./Lesson_3#herramientas-ayudar-uso-manejo-datos-abiertos)
--   [Lección 3: Resumen](./Lesson_3#leccion-3-resumen)
--   [Lección 3: Evaluación](./Lesson_3#leccion-3-evaluacion)
+-   [Herramientas para ayudar con la planificación de la creación de datos abiertos](./Lesson_3#herramientas-para-ayudar-con-la-planificaci%C3%B3n-de-la-creaci%C3%B3n-de-datos-abiertos)
+-   [Herramientas para ayudar con el uso y manejo de datos abiertos](./Lesson_3#herramientas-para-ayudar-con-el-uso-y-manejo-de-datos-abiertos)
+-   [Lección 3: Resumen](./Lesson_3#lecci%C3%B3n-3-resumen)
+-   [Lección 3: Evaluación](./Lesson_3#lecci%C3%B3n-3-evaluaci%C3%B3n)
 
 ### [Lección 4: Herramientas para Datos Abiertos](./Lesson_4)
 
--   [Introducción al código abierto](./Lesson_4#introduccion-codigo-abierto)
--   [Herramientas para control de versiones](./Lesson_4#herramientas-control-versiones)
--   [Herramientas para editar código](./Lesson_4#herramientas-editar-codigo)
+-   [Introducción al código abierto](./Lesson_4#introducci%C3%B3n-al-c%C3%B3digo-abierto)
+-   [Herramientas para el control de versiones](./Lesson_4#herramientas-para-el-control-versiones)
+-   [Herramientas para editar código](./Lesson_4#herramientas-para-editar-c%C3%B3digo)
 -   [Herramientas adicionales](./Lesson_4#herramientas-adicionales)
--   [Lección 4: Resumen](./Lesson_4#leccion-4-resumen)
--   [Lección 4: Evaluación](./Lesson_4#leccion-4-evaluacion)
+-   [Lección 4: Resumen](./Lesson_4#lecci%C3%B3n-4-resumen)
+-   [Lección 4: Evaluación](./Lesson_4#lecci%C3%B3n-4-evaluaci%C3%B3n)
 
 ### [Lección 5: Herramientas para Resultados Abiertos](./Lesson_5)
 
--   [Herramientas para publicaciones abiertas](./Lesson_5#herramientas-publicaciones-abiertas)
--   [Herramientas para la reproducibilidad](./Lesson_5#herramientas-reproducibilidad)
--   [Herramientas adicionales para resultados abiertos](./Lesson_5#herramientas-adicionales-resultados-abiertos)
--   [Lección 5: Resumen](./Lesson_5#leccion-5-resumen)
--   [Lección 5: Evaluación](./Lesson_5#leccion-5-evaluacion)
--   [Resumen de herramientas abiertas y recursos](./Lesson_5#resumen-herramientas-recursos)
+-   [Herramientas para publicaciones abiertas](./Lesson_5#herramientas-para-las-publicaciones-abiertas)
+-   [Herramientas para la reproducibilidad](./Lesson_5#herramientas-para-la-reproducibilidad)
+-   [Herramientas adicionales para resultados abiertos](./Lesson_5#herramientas-adicionales-para-resultados-abiertos)
+-   [Lección 5: Resumen](./Lesson_5#lecci%C3%B3n-5-resumen)
+-   [Lección 5: Evaluación](./Lesson_5#lecci%C3%B3n-5-evaluaci%C3%B3n)
+-   [Resumen del Módulo 2: Herramientas y recursos abiertos](./Lesson_5#resumen-del-m%C3%B3dulo-2-herramientas-y-recursos-abiertos)

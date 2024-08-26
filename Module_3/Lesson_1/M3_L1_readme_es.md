@@ -2,16 +2,16 @@
 
 ## Contenidos
 
-- [Descripción general](#descripcióngeneral)
+- [Descripción general](#descripci%C3%B3n-general)
 - [Objetivos de aprendizaje](#objetivos-de-aprendizaje)
-- [Introducción](#introduccion)
-- [Definición y Consideraciones de Datos Abiertos](#definicion-y-consideraciones-de-datos-abiertos)
+- [Introducción](#introducci%C3%B3n)
+- [Definición y Consideraciones de Datos Abiertos](#definici%C3%B3n-y-consideraciones-de-datos-abiertos)
 - [Beneficios de los Datos Abiertos](#beneficios-de-los-datos-abiertos)
-- [Desafíos de los Datos Abiertos](#desafios-de-los-datos-abiertos)
-- [Aplicar los principios FAIR](#aplicando-principios-fair)
-- [Planificar la apertura: El sistema Usar, Hacer, Compartir para los Datos Abiertos](#planificando-la-apertura-usando-el-método-usar-hacer-compartir-para-los-datos-abiertos)
-- [Lección 1: Resumen](#leccion-1-resumen)
-- [Lección 1: Evaluación](#leccion-1-evaluación)
+- [Desafíos de los Datos Abiertos](#desaf%C3%ADos-de-los-datos-abiertos)
+- [Aplicar los principios FAIR](#aplicar-los-principios-fair)
+- [Planificar la apertura: El sistema Usar, Hacer, Compartir para los Datos Abiertos](#planificar-la-apertura-el-sistema-usar-hacer-compartir-para-los-datos-abiertos)
+- [Lección 1: Resumen](#lecci%C3%B3n-1-resumen)
+- [Lección 1: Evaluación](#lecci%C3%B3n-1-evaluaci%C3%B3n)
 
 ## Descripción general
 

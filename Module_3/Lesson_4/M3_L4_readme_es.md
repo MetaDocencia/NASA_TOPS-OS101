@@ -2,14 +2,14 @@
 
 ## Contenidos
 
-- [Descripción general](#resumen)
+- [Descripción general](#descripci%C3%B3n-general)
 - [Objetivos de Aprendizaje](#objetivos-de-aprendizaje)
-- [Cuándo compartir los datos y si hacerlo](#cuando-y-si-compartir-datos)
-- [Dónde compartir datos](#dónde-compartir-datos)
-- [Cómo habilitar el reuso de datos](#como-habilitar-la-reutilizacion-de-datos)
-- [Quién se respon de Compartir los Datos](#quien-es-responsable-de-compartir-los-datos)
-- [Lección 4: Resumen](#leccion-4-resumen)
-- [Lección 4: Revisión De Conocimientos](#leccion-4-revision-de-conocimientos)
+- [Cuándo compartir los datos y si hacerlo](#cu%C3%A1ndo-compartir-los-datos-y-si-hacerlo)
+- [Dónde compartir datos](#d%C3%B3nde-compartir-datos)
+- [Cómo habilitar el reuso de datos](#%C3%B3-habilitar-el-reuso-de-datos)
+- [Quién se responsable de Compartir los Datos](#qui%C3%A9n-es-responsable-de-compartir-los-datos)
+- [Lección 4: Resumen](#lecci%C3%B3n-4-resumen)
+- [Lección 4: Evaluación](#lecci%C3%B3n-4-evaluaci%C3%B3n)
 
 ## Descripción general 
 

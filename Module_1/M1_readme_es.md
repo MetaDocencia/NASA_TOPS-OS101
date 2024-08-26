@@ -14,8 +14,8 @@ Este módulo es para cualquiera que tenga interés en conocer las prácticas de 
 
 Después de completar este módulo, deberías poder:
 
-- Explicar qué es la Ciencia Abierta y por qué se la entiende como una práctica positiva.También deberás poder enumerar algunos de los beneficios y los desafíos que supone la adopción de las prácticas en Ciencia Abierta.
-- Describir las prácticas de la Ciencia Abierta, incluídos los puntos más importantes que se deben tener en cuenta a la hora de redactar un plan de gestión así como también las tareas enmarcadas en el enfoque de Usar, Hacer, Compartir.
+- Explicar qué es la Ciencia Abierta y por qué se la entiende como una práctica positiva. También deberás poder enumerar algunos de los beneficios y los desafíos que supone la adopción de las prácticas en Ciencia Abierta.
+- Describir las prácticas de la Ciencia Abierta, incluidos los puntos más importantes que se deben tener en cuenta a la hora de redactar un plan de gestión así como también las tareas enmarcadas en el enfoque de Usar, Hacer, Compartir.
 - Evaluar las diferentes opciones disponibles a la hora de determinar si los productos de investigación deben o no estar abiertos.
 - Listar formas de conectarse con otras comunidades que forman parte de la comunidad científica abierta.
 
