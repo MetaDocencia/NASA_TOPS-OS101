@@ -41,7 +41,7 @@ Una vez que hayas decidido compartir tus datos, hay una serie de preguntas que t
 | ¿Cómo?   | Cómo permite el plan el reuso de los datos                                                 |
 | ¿Quién?  | Roles y responsabilidades de las personas que forman parte del equipo en la implementación del PGD |
 
-En esta lección, explicaremos algunos pasos hacia la obtención de datos. Específicamente, nos enfocaremos en las secciones "cuándo", "dónde", "cómo" y "quién" de un DMP.
+En esta lección, explicaremos algunos pasos hacia la obtención de datos. Específicamente, nos enfocaremos en las secciones "cuándo", "dónde", "cómo" y "quién" de un PGD.
 
 ### Proceso para compartir Datos Abiertos
 
@@ -192,7 +192,7 @@ Adicionalmente, los repositorios pueden requerir autorización y autentificació
     <tr>
         <td colspan="3">
             <p>A medida que avanzas en el ciclo de vida de tu proyecto, utiliza los procesos de actualización, revisión y reenvío de tu repositorio para mantener actualizados los productos de datos archivados. Cualquier nueva versión de los datos que desees compartir a través del repositorio tendrá que pasar por un proceso similar al del conjunto de datos inicial.</p>
-            <p>Todas las nuevas versiones del conjunto de datos que quieras compartir a través del repositorio deben someterse al mismo proceso de revisión del Plan de Gestión de Datos (PGD) (en inglés, Data Management Plan, DMP)verificación de cumplimiento y procedimiento de carga que el conjunto de datos inicial.</p>
+            <p>Todas las nuevas versiones del conjunto de datos que quieras compartir a través del repositorio deben someterse al mismo proceso de revisión del Plan de Gestión de Datos (PGD), verificación de cumplimiento y procedimiento de carga que el conjunto de datos inicial.</p>
         </td>
     </tr>
   </tbody>
