@@ -12,7 +12,7 @@
 
 ## Descripción general
 
-Esta lección define los términos clave, los principios básicos, las ventajas y los retos del Código Abierto. La práctica de desarrollar código y ponerlo a disposición del público se da dentro de un espectro que va de más a menos protegido. La condiciones éticas y legales pueden limitar el grado de apertura que pueden permitirse quienes investigan. En esta lección se presentarán las preguntas críticas que hay que tener en cuenta a la hora de determinar la accesibilidad adecuada del código para personas usuarias externas, junto con las mejores prácticas para superar las limitaciones habituales y maximizar la disponibilidad. La lección finaliza con una discusión sobre el ciclo de vida del software y cómo encaja en el sistema de "Usar, Hacer, Compartir" y su relación con un Plan de Gestión.
+Esta lección define los términos clave, los principios básicos, los beneficios y los desafíos del Código Abierto. La práctica de desarrollar código y ponerlo a disposición del público se da dentro de un espectro que va de más a menos protegido. La condiciones éticas y legales pueden limitar el grado de apertura que pueden permitirse quienes investigan. En esta lección se presentarán las preguntas críticas que hay que tener en cuenta a la hora de determinar la accesibilidad adecuada del código para personas usuarias externas, junto con las mejores prácticas para superar las limitaciones habituales y maximizar la disponibilidad. La lección finaliza con una discusión sobre el ciclo de vida del software y cómo encaja en el sistema de "Usar, Hacer, Compartir" y su relación con un Plan de Gestión.
 
 ## Objetivos de aprendizaje
 
@@ -154,7 +154,7 @@ Este código a menudo utiliza bibliotecas para análisis, visualización o lectu
 - [Limitando el aumento de la frecuencia de las precipitaciones extremas en el mundo bajo el calentamiento global](https://www.nature.com/articles/s41558-022-01329-1) (en inglés).
 - Código disponible en: [https://doi.org/10.5281/zenodo.6288035](https://doi.org/10.5281/zenodo.6288035) (2022)
 
-## Principios, ventajas y desafíos
+## Principios, beneficios y desafíos
 
 ### Principios del Código Abierto
 
@@ -176,7 +176,7 @@ Compartir código mejora la ciencia porque permite la reproducibilidad, la reuti
 
 En la mayoría de los casos, el código fuente utilizado para generar resultados en documentos revisados por pares debe ser publicado, citado y estar accesible.
 
-### Ventajas de adoptar Software Abierto
+### Beneficios de adoptar Software Abierto
 
 La ciencia avanza más rápido cuando las personas que investigan son capaces de trabajar juntas, ayudan a corregir errores, se basan en los resultados de los demás y comparten recursos. Compartir software es una parte clave de la Ciencia Abierta que:
 
@@ -194,15 +194,15 @@ No es raro que los grupos de investigación pasen años desarrollando código, e
 
 | Miedo                                                                                            | Discusión/Mitigación:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ¿Qué pasa si alguien reutiliza mi código para publicar un resultado en el que estaba trabajando? | Sí, esto puede ocurrir. Sin embargo, en muchos campos, si está claro que alguien está trabajando activamente en un problema, la decisión de otra persona de adelantarse puede significar una ganancia a corto plazo pero una pérdida a largo plazo. En la comunidad científica, las reputaciones funcionan como una moneda cultural y generalmente colaborar con otras personas conduce a mayores éxitos profesionales. Si estás compartiendo tu código, asegúrate de que tienes un identificador de objeto digital (en inglés, _Digital Object Identifier, DOI_) para obtener crédito. Esto no impide que nadie utilice ni amplíe tu análisis, pero sí garantiza que obtendrás crédito por tu contribución. Hay un buen artículo sobre esto aquí. |
+| ¿Qué pasa si alguien reutiliza mi código para publicar un resultado en el que estaba trabajando? | Sí, esto puede ocurrir. Sin embargo, en muchos campos, si está claro que alguien está trabajando activamente en un problema, la decisión de otra persona de adelantarse puede significar una ganancia a corto plazo pero una pérdida a largo plazo. En la comunidad científica, las reputaciones funcionan como una moneda cultural y colaborar con otras personas generalmente conduce a mayores éxitos profesionales. Si estás compartiendo tu código, asegúrate de que tienes un identificador de objeto digital (en inglés, _Digital Object Identifier, DOI_) para obtener crédito. Esto no impide que nadie utilice ni amplíe tu análisis, pero sí garantiza que obtendrás crédito por tu contribución. Hay un buen artículo sobre esto aquí. |
 | Error de interpretación o uso indebido                                                           | Proporciona suficiente información contextual (documentación) para permitir que otras personas entiendan plenamente tu código para reducir este riesgo.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| Mi código será usado, pero no citado                                                             | Aunque no es común que las personas investigadoras citen código, datos u otros artículos no publicados, la ética científica dicta que se debe citar si se utiliza tu trabajo. Recuerda citar adecuadamente el material de otras personas para que no agraves el problema.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| El código es demasiado sensible para compartirlo                                                 | Acceso controlado por quien usa el código para ayudar a mantener la sensibilidad y la seguridad.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Mi código será usado, pero no citado                                                             | Aunque no es común que quienes investigan citen código, datos u otros artículos no publicados, la ética científica dicta que se debe citar si se utiliza tu trabajo. Recuerda citar adecuadamente el material de otras personas para que no agraves el problema.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| El código es demasiado sensible para compartirlo                                                 | El acceso controlado por quien usa el código ayuda a mantener la sensibilidad y la seguridad.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | No será útil para nadie más                                                                      | Nunca sabes cómo se podrían usar los materiales. ¡Hay personas que aportaron una amplia variedad de proyectos de software, sin relación aparente, y terminaron ayudando a la NASA a aterrizar un vehículo en Marte!                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 
 #### En última instancia, eres libre de implementar los principios y recursos del Software Abierto en tu investigación para maximizar su impacto y cumplir con las expectativas de tu espónsor y de tu comunidad mientras gestionas los costos.
 
-### Actividad 1.1: Relacionando los principios con los beneficios y desafíos
+### Actividad 1.1: Relacionar los principios con los beneficios y desafíos
 
 Determina si cada afirmación es un beneficio o un desafío arrastrándola a la caja correcta.
 
@@ -238,7 +238,7 @@ Determina si cada afirmación es un beneficio o un desafío arrastrándola a la 
   </tbody>
 </table>
 
-**Conclusiones principales: Relacionando los principios con los beneficios y desafíos**
+**Conclusiones principales: Relacionar los principios con los beneficios y desafíos**
 
 - Hacer al software más abierto siguiendo los principios tiene beneficios y desafíos, los cuales están relacionados.
 - Mayores beneficios suelen venir con mayores desafíos.
@@ -246,36 +246,36 @@ Determina si cada afirmación es un beneficio o un desafío arrastrándola a la 
 
 ## Cuándo no compartir
 
-Existen razones válidas que restringen la capacidad de una persona dedicada a la investigación para compartir su código completo o sus paquetes de software. Algunas de estas razones pueden incluir:
+Existen razones válidas que restringen la capacidad de quien investiga para compartir su código completo o sus paquetes de software. Algunas de estas razones son:
 
-- El código incorpora secretos militares de un país, o su diseminación viola intereses nacionales o trae problemas de seguridad.
+- El código incorpora secretos militares de un país, o su difusión viola intereses nacionales o trae problemas de seguridad.
 - El código posee propiedad intelectual o datos e información patentados.
 - Las políticas institucionales o las regulaciones de la organización no permiten compartir el código.
 - Piensa en lo que estás compartiendo y las implicaciones de compartirlo (por ejemplo, ¿tienes permiso de todas las personas involucradas?).
 
-### Estableciendo una licencia para el código
+### Definir una licencia para el código
 
-El [manual colaborativo de ciencia de datos de The Turing Way](https://the-turing-way.netlify.app/reproducible-research/licensing) dice acerca de las restricciones para compartir Código Abierto, "Como con cualquier otra cosa en la sociedad, parte de lo que puedes hacer y de lo que no puedes hacer en el desarrollo de software (o hardware) está determinado por la ley. Por lo tanto, la definición de una licencia es un aspecto importante para compartir/publicar proyectos de Código Abierto ya que da claridad para cualquiera que busque reusar un proyecto de Código Abierto. Sin una licencia, cualquiera que quiera reusarla tendrá ambigüedad jurídica en cuanto al estado de uso de tu propiedad intelectual".
+El [manual colaborativo de ciencia de datos de The Turing Way](https://the-turing-way.netlify.app/reproducible-research/licensing) (en inglés) dice, acerca de las restricciones para compartir Código Abierto, "Como con cualquier otra cosa en la sociedad, parte de lo que puedes hacer y de lo que no puedes hacer en el desarrollo de software (o hardware) está determinado por la ley. Por lo tanto, la definición de una licencia es un aspecto importante para compartir/publicar proyectos de Código Abierto ya que da claridad para cualquiera que busque reusar un proyecto de Código Abierto. Sin una licencia, cualquiera que quiera reusarla se encontrará con una ambigüedad jurídica en cuanto al estatus de uso de tu propiedad intelectual".
 
 Para ser considerado de Código Abierto, el software requiere una licencia que cumpla con la definición de Código Abierto. Uno de los criterios de esta definición exige que las licencias de Código Abierto "[deben permitir que las modificaciones y sus derivadas, se distribuyan bajo los mismos términos que la licencia del software original](https://opensource.org/licenses/)"
 
 En las próximas lecciones discutiremos con más detalle las licencias. A medida que trabajas en un proyecto, es posible que quieras utilizar código desarrollado por otros, desarrollar tu propio código y luego compartirlo. Las licencias afectan a todos los aspectos de este proceso y es importante entender cómo diferentes licencias pueden afectar tu capacidad para compartir tu código en el momento de la publicación. También es importante que tengas en cuenta cualquier requerimiento de tu institución o de quien te financia acerca de cómo licenciar tu software.
 
-### Planificando la apertura: Utilización del concepto «usar, hacer, compartir» para el Código Abierto
+### Planificar la apertura: Utilización del sistema «usar, hacer, compartir» para el Código Abierto
 
-Las agencias de financiación y las revistas exigen cada vez más a los investigadores a que compartan software.
+Las agencias de financiación y las revistas exigen cada vez más a quienes invesitgan que compartan su software.
 
-Por ejemplo, el programa ROSES de la NASA, que solicita propuestas de investigación en ciencias de la Tierra, exige a los investigadores que pongan sus programas informáticos a disposición del público:
+Por ejemplo, el programa ROSES de la NASA, que solicita propuestas de investigación en Ciencias de la Tierra, exige a los equipos de investigación que pongan sus programas informáticos a disposición del público:
 
-#### «Los datos y el software desarrollados mediante el programa de financiamiento de Oportunidades de Investigación en Ciencias Espaciales y de la Tierra (ROSES) en apoyo de una publicación revisada por un comité de evaluación, se pondrán a disposición del público en el momento de la publicación»
+#### «Los datos y el software desarrollados mediante el programa de financiamiento de Oportunidades de Investigación en Ciencias Espaciales y de la Tierra (en inglés, _Research Opportunities in Space and Earth Sciences_ ROSES) se pondrán a disposición del público en el momento de la publicación, en apoyo de una publicación revisada por un comité de evaluación.» 
 
 [https://science.nasa.gov/researchers/sara/faqs/osdmp](https://science.nasa.gov/researchers/sara/faqs/osdmp)
 
-La planificación de un proyecto de investigación requiere que los investigadores determinen su modo de colaboración y el método para compartir el código. Este paso suele documentarse en un Plan de Gestión del Software (SMP) dentro de una propuesta de investigación. Un SMP detalla el qué, cuándo, dónde, cómo y quién compartirá el código o el software.
+La planificación de un proyecto de investigación requiere que las personas investigadoras determinen su modo de colaboración y el método para compartir el código. Este paso suele documentarse en un Plan de Gestión del Software o PGS (en inglés _Sosftware Management Plan_ SMP) dentro de una propuesta de investigación. Un SMP detalla el qué, cuándo, dónde, cómo y quién compartirá el código o el software.
 
-## Plan de gestión de software (SMP)
+## Plan de Gestión de Software (PGS)
 
-Los planes de gestión de software abarcan tanto el código como el software.
+Los Planes de Gestión de Software abarcan tanto el código como el software.
 
 |          |                                                                                                                           |
 | -------- | ------------------------------------------------------------------------------------------------------------------------- |
@@ -285,18 +285,18 @@ Los planes de gestión de software abarcan tanto el código como el software.
 | ¿Cómo?   | \*\*Habilitar reusar el software mediante la asignación de un DOI, licencia, normas de contribución, etc. |
 | ¿Quién?  | Quién:\*\* Roles, funciones y responsabilidades de los miembros del equipo.               |
 
-A medida que su investigación comienza a utilizar, crear y compartir código, el SMP proporciona una guía para todos los participantes en el proyecto, con el fin de establecer un entendimiento común.
+A medida que tu investigación comienza a utilizar, crear y compartir código, el PGS proporciona una guía para todas las persons que participan en el proyecto, con el fin de establecer un entendimiento común.
 
-¿Tu proyecto comparte todo el código públicamente o sólo el que va a una publicación? ¿Contribuirá tu equipo a los proyectos de Código Abierto o se limitará a escribir código basado en ellos para obtener resultados? Considerar estas cuestiones desde el principio influirá en la cantidad de tiempo y energía que quiera dedicar a la documentación y en cómo piensa compartir el código.
+¿Tu proyecto comparte todo el código públicamente o sólo el que va a una publicación? ¿Contribuirá tu equipo a los proyectos de Código Abierto o se limitará a escribir código basado en ellos para obtener resultados? Considerar estas cuestiones desde el principio influirá en la cantidad de tiempo y energía que quiera dedicar a la documentación y en cómo piensas compartir el código.
 
-### El Código Abierto es un espectro
+### El Código Abierto es una escala
 
-Al igual que los datos, el código puede compartirse de muchas maneras diferentes para aumentar la reusabilidad. El código puede compartirse sin documentación alguna, simplemente como un artefacto de reproducibilidad, o puede estar bien escrito, documentado y con licencia abierta para maximizar su re-uso. Ambos enfoques son valiosos y dependen del tiempo, la energía y la financiación que dispongan los investigadores.
+Al igual que los datos, el código puede compartirse de muchas maneras diferentes para aumentar la reusabilidad. El código puede compartirse sin documentación alguna, simplemente como un artefacto de reproducibilidad, o puede estar bien escrito, documentado y con licencia abierta para maximizar su reuso. Ambos enfoques son valiosos y dependen del tiempo, la energía y la financiación que dispongan los equipos de investigación.
 
-- Existe un espectro de apertura en lo que respecta al software libre que va desde el software de Código Abierto al software de código cerrado.
+- Existe una escala de apertura en lo que respecta al Software Abierto que va desde el software de Código Abierto al software de código cerrado.
 - Un ejemplo de algo “intermedio” podría ser un archivo ejecutable con documentación sobre cómo funciona el código.
 - Algunos proyectos pueden abrirse desde el principio y compartir todo el código a lo largo del desarrollo. Otros pueden compartir parte del código en el momento de la publicación. Es posible que otros proyectos sólo pongan a disposición el código una vez finalizada la financiación. Existen diversas razones válidas que influyen en el enfoque de un proyecto a la hora de compartir.
-- Aunque algunos factores restringen el grado de apertura que puede tener el software, cada paso hacia la apertura hace avanzar el movimiento de la Ciencia Abierta.
+- Aunque algunos factores restringen el grado de apertura que puede tener el software, cada paso hacia la apertura hace avanzar al movimiento de la Ciencia Abierta.
 - Al compartir más ideas y programas informáticos, las comunidades han impulsado el avance creativo, científico y tecnológico más rápidamente que el ritmo restringido de la ciencia cerrada. La producción en equipo y la colaboración masiva crean un desarrollo de software más sostenible.
 
 Aunque los investigadores y las instituciones no puedan compartir todo su código, sí pueden esforzarse por pasar del código cerrado al código y software de Código Abierto.
