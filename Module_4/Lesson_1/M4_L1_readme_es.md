@@ -151,9 +151,10 @@ Este código a menudo utiliza bibliotecas para análisis, visualización o lectu
 
 - [Angus et al. 2019](https://ui.adsabs.harvard.edu/abs/2019AJ....158..173A/abstract) (en inglés) - [Ajuste de una relación giroscópica a Praesepe](https://github.com/RuthAngus/stardate/blob/master/paper/code/Fitting_Praesepe.ipynb)
 - [El telescopio espacial Webb detecta CO2 en un exoplaneta por primera vez: qué significa para encontrar vida extraterrestre](https://www.nature.com/articles/d41586-022-02350-2) (en inglés). Todos los datos y modelos presentados en esta publicación pueden consultarse [aquí](https://doi.org/10.5281/zenodo.6959427).
-- [Limitando el aumento de la frecuencia de las precipitaciones extremas en el mundo bajo el calentamiento global](https://www.nature.com/articles/s41558-022-01329-1) (en inglés). - Código disponible en: [https://doi.org/10.5281/zenodo.6288035](https://doi.org/10.5281/zenodo.6288035) (2022)
+- [Limitando el aumento de la frecuencia de las precipitaciones extremas en el mundo bajo el calentamiento global](https://www.nature.com/articles/s41558-022-01329-1) (en inglés).
+- Código disponible en: [https://doi.org/10.5281/zenodo.6288035](https://doi.org/10.5281/zenodo.6288035) (2022)
 
-## Principios, ventajas y retos
+## Principios, ventajas y desafíos
 
 ### Principios del Código Abierto
 
@@ -161,11 +162,11 @@ Los principios del Software Abierto se derivan de las mejores prácticas del sof
 
 |                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Transparencia                       | Ya sea que estemos desarrollando software o resolviendo un problema empresarial, todos tenemos acceso a la información y los materiales necesarios para hacer mejor nuestro trabajo. Cuando estos materiales son accesibles, podemos basarnos en las ideas y descubrimientos de los demás. Podemos tomar decisiones más eficaces y entender cómo nos afectan esas decisiones.                                                                           |
-| Colaboración                        | Cuando somos libres de participar, podemos mejorar el trabajo de los demás de formas inesperadas. Cuando podemos modificar lo que otras personas han compartido, desbloqueamos nuevas posibilidades. Al iniciar nuevos proyectos juntos, podemos resolver problemas que nadie puede resolver por sí solo. Y cuando aplicamos normas abiertas, permitimos que otros contribuyan en el futuro.                                            |
-| Compartir temprano y frecuentemente | Los prototipos rápidos pueden conducir a descubrimientos rápidos. Un enfoque iterativo conduce a mejores soluciones con mayor rapidez. Cuando tienes libertad para experimentar, puedes plantearte los problemas de nuevas formas y buscar respuestas en nuevos lugares. Puedes aprender con la práctica.                                                                                                                               |
-| Inclusivo                           | Las buenas ideas pueden venir de cualquier parte, y las mejores deben ganar. Sólo mediante la inclusión de perspectivas diversas en nuestras conversaciones podemos estar seguros de haber identificado las mejores ideas, y los buenos responsables de la toma de decisiones buscan continuamente esas perspectivas. Puede que no funcionemos por consenso, pero el éxito del trabajo determina qué proyectos reúnen apoyo y esfuerzo de la comunidad. |
-| Comunidad                           | Las comunidades se forman cuando diferentes personas se unen alrededor de un propósito común. Los valores compartidos guían la toma de decisiones, y los objetivos de la comunidad prevalecen sobre los intereses y agendas individuales.                                                                                                                                                                                                                               |
+| Transparencia                       | Ya sea que estemos desarrollando software o resolviendo un problema comercial, todos tenemos acceso a la información y los materiales necesarios para hacer mejor nuestro trabajo. Cuando estos materiales son accesibles, podemos basarnos en las ideas y descubrimientos de los demás. Podemos tomar decisiones más eficaces y entender cómo nos afectan esas decisiones.                                                                           |
+| Colaboración                        | Cuando tenemos la libertad de participar, podemos mejorar el trabajo de los demás de formas inesperadas. Cuando podemos modificar lo que otras personas han compartido, desbloqueamos nuevas posibilidades. Al iniciar nuevos proyectos juntos, podemos resolver problemas que nadie puede resolver solo. Y cuando aplicamos normas abiertas, permitimos que otros contribuyan en el futuro.                                            |
+| Compartir pronto y frecuentemente | Los prototipos rápidos pueden llevar a descubrimientos rápidos. Un enfoque iterativo conduce a mejores soluciones con mayor rapidez. Cuando tienes libertad para experimentar, puedes plantearte los problemas de formas nuevas y buscar respuestas en nuevos lugares. Puedes aprender con la práctica (aprender haciendo).                                                                                                                               |
+| Inclusivo                           | Las buenas ideas pueden venir de cualquier parte, y las mejores deberían ganar. Sólo mediante la inclusión de perspectivas diversas en nuestras conversaciones podemos estar seguros de haber identificado las mejores ideas, y los buenos responsables de la toma de decisiones buscan continuamente esas perspectivas. Puede que no funcionemos por consenso, pero el éxito del trabajo determina qué proyectos reúnen apoyo y esfuerzo de la comunidad. |
+| Comunidad                           | Las comunidades se forman cuando diferentes personas se unen alrededor de un propósito común. Los valores compartidos guían la toma de decisiones y los objetivos de la comunidad prevalecen sobre los intereses y agendas individuales.                                                                                                                                                                                                                               |
 
 Crédito: [El camino del Código Abierto| Opensource.com](https://opensource.com/open-source-way)
 
@@ -173,20 +174,20 @@ Crédito: [El camino del Código Abierto| Opensource.com](https://opensource.com
 
 Compartir código mejora la ciencia porque permite la reproducibilidad, la reutilización y la replicabilidad. La decisión de compartir el código beneficia a la comunidad científica porque aumenta la transparencia, la participación y la colaboración. Compartir código en cualquier punto del proceso de investigación puede ser valioso.
 
-En la mayoría de los casos, el código fuente utilizado para generar resultados en documentos revisados por pares debe ser publicado, citado y accesible.
+En la mayoría de los casos, el código fuente utilizado para generar resultados en documentos revisados por pares debe ser publicado, citado y estar accesible.
 
-### Ventajas de pasarse al Software Abierto
+### Ventajas de adoptar Software Abierto
 
 La ciencia avanza más rápido cuando las personas que investigan son capaces de trabajar juntas, ayudan a corregir errores, se basan en los resultados de los demás y comparten recursos. Compartir software es una parte clave de la Ciencia Abierta que:
 
 - Acelera la ciencia haciendo más fácil el uso y la construcción de software desarrollado en trabajos anteriores.
 - Minimiza el tiempo y el costo del desarrollo repetido de software similar y la reproducción de cálculos científicos.
 - Aumenta el número potencial de personas usuarias y desarrolladoras y ayuda a mejorar la calidad y la confianza en el software.
-- Aumenta la probabilidad de que quienes desarrollan obtengan visibilidad, sostenibilidad, calidad de software y avance su empleabilidad.
+- Aumenta la probabilidad de que quienes desarrollan obtengan visibilidad, sostenibilidad, calidad de software y mejoren su empleabilidad.
 
-### Desafíos de mudarse al Software Abierto
+### Desafíos de adoptar Software Abierto
 
-No es raro que los grupos de investigación pasen años desarrollando código, escribiendo artículos con los resultados y ganando influencia científica al no compartir el código. Cualquier persona nueva que quiera trabajar en un proyecto similar se encuentra en gran desventaja porque tendría que empezar de cero. Así, cualquiera que quiera trabajar en esa área se ve obligado a colaborar con el grupo. Este grupo conserva una ventaja competitiva muy real al mantener el código cerrado. Sin embargo, este enfoque sofoca la innovación y perjudica el progreso científico. Muchas agencias de financiación están exigiendo que el código se comparta en el momento de la publicación, si no antes. Sin embargo, siguen existiendo desafíos y temores:
+No es raro que los grupos de investigación pasen años desarrollando código, escribiendo artículos con los resultados y ganando influencia científica al no compartir el código. Cualquier persona nueva que quiera trabajar en un proyecto similar se encuentra en gran desventaja porque tendría que empezar de cero. Así, cualquiera que quiera trabajar en esa área se ve obligada a colaborar con el grupo. Este grupo conserva una ventaja competitiva muy real al mantener el código cerrado. Sin embargo, este enfoque sofoca la innovación y perjudica el progreso científico. Muchas agencias de financiación están exigiendo que el código se comparta en el momento de la publicación, si no antes. Sin embargo, siguen existiendo desafíos y temores:
 
 - La apertura tiene costos: tiempo de documentación, publicación, respuesta a las personas usuarias/mantenimiento y limpieza/mejora de la calidad.
 - Se requiere un esfuerzo para aprender a aprovechar las nuevas herramientas y conocimientos (hay recursos disponibles para facilitar este esfuerzo).
