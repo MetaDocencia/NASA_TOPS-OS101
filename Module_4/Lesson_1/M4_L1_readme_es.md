@@ -90,17 +90,17 @@ Ejemplo de código de [https://github.com/UCB-stat-159-s23/site/blob/main/lectur
 
 <img src="../images/media/image109_es.png" style="width:350px;height:auto;" />
 
-Cuando escribimos "software", en realidad estamos escribiendo código de texto y utilizando un intérprete o compilador para traducirlo en un programa que la máquina pueda ejecutar. El código es un lenguaje que los humanos pueden escribir y entender. El software, suele ser un conjunto de programas, datos y otra información que un sistema informático utiliza para realizar tareas específicas. Un ejemplo es una biblioteca de software, que es un conjunto de datos y código de programación que se utiliza para desarrollar programas y aplicaciones de software.
+Cuando escribimos "software", en realidad estamos escribiendo código de texto y utilizando un intérprete o compilador para traducirlo en un programa que la máquina pueda ejecutar. El código es un lenguaje que los humanos pueden escribir y entender. El software suele ser un conjunto de programas, datos y otra información que un sistema informático utiliza para realizar tareas específicas. Un ejemplo es una biblioteca de software, que es un conjunto de datos y código de programación que se utiliza para desarrollar programas y aplicaciones de software.
 
-A menudo, las personas que hacen ciencia escriben y publican código que ayuda a otros a reproducir sus resultados, en lugar de crear paquetes de software. Pero muchas de estas personas no empiezan su código desde cero. Existen grandes bibliotecas de software de Código Abierto que los científicos utilizan y a las que contribuyen, como scipy, astropy, matplotlib y otras. Estas bibliotecas permiten a todo el mundo hacer ciencia más rápido y mejor porque han sido escritas, probadas y utilizadas por miles, sino cientos de miles, de personas. Estas bibliotecas han sido ampliamente adoptadas porque son de Código Abierto, lo que facilita la colaboración con cualquiera y en cualquier lugar.
+A menudo, las personas que hacen ciencia escriben y publican código que ayuda a otros a reproducir sus resultados, en lugar de crear paquetes de software. Pero muchas de estas personas no empiezan su código desde cero. Existen grandes bibliotecas de software de Código Abierto que las personas qeu hacen ciencia utilizan y a las que contribuyen, como scipy, astropy, matplotlib y otras. Estas bibliotecas permiten a todo el mundo hacer ciencia más rápido y mejor porque han sido escritas, probadas y utilizadas por miles, sino cientos de miles, de personas. Estas bibliotecas han sido ampliamente adoptadas porque son de Código Abierto, lo que facilita la colaboración con cualquiera y en cualquier lugar.
 
 ### Qué es software de Código Abierto (Open Source Software)
 
-**El software de Código Abierto (Open-source software)** se distribuye con su código fuente sin coste alguno, poniéndolo a disposición de las personas para que lo utilicen, modifiquen y distribuyan con sus derechos y permisos originales.
+**El software de Código Abierto (_Open-source software_)** se distribuye con su código fuente sin costo alguno, poniéndolo a disposición de las personas para que lo utilicen, modifiquen y distribuyan con sus derechos y permisos originales.
 
-A menudo, el software de Código Abierto se comparte de forma transparente en un repositorio público y, en ocasiones, se mantiene gracias a la colaboración. A menudo, el software de Código Abierto se comparte de forma transparente en un repositorio público y, en ocasiones, se mantiene gracias a la colaboración.
+A menudo, el software de Código Abierto se comparte de forma transparente en un repositorio público y, en ocasiones, se mantiene gracias a la colaboración.
 
-Hay una variedad de opciones de licencia que se pueden elegir para el Software Abierto, las cuales pueden permitir al autor conservar diferentes niveles de propiedad y derechos. La elección de la licencia tiene un impacto en la reutilización por otros. Pero antes, vamos a desglosar los principales tipos de software que utiliza la comunidad científica en función de su propósito, mostrando ejemplos de cada tipo.
+Hay una variedad de opciones de licencia que se pueden elegir para el Software Abierto, las cuales permiten al autor conservar diferentes niveles de propiedad y derechos. La elección de la licencia tiene un impacto en el reuso de parte de otras personas. Pero primero, analicemos los principales tipos de software que utiliza la comunidad científica en función de su propósito, mostrando ejemplos de cada tipo.
 
 ### Tipos de software
 
