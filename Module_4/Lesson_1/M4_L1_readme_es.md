@@ -58,7 +58,7 @@ En un caso, un equipo decidió trabajar totalmente en abierto y colaborar con es
 
 La Dra. Natasha Batalha, coautora del estudio, empleó principios de la Ciencia Abierta para hacer posible este rápido descubrimiento utilizando los nuevos datos del JWST. En los años anteriores al lanzamiento del JWST, el equipo de la Dra. Batalha formó un grupo colaborativo de 341 personas. Una vez que los datos del JWST se hicieron públicos, la reducción de los datos y la interpretación científica se pudieron reproducir mediante Software Abierto y luego archivarse. El primer artículo del equipo de investigación estuvo disponible en Acceso Abierto en formato preprint (previo a la publicación) y luego se publicó en Nature.
 
-De este modo, el equipo de la Dra. Batalha publicó la primera identificación de CO2 en la atmósfera de un exoplaneta a partir de espectros tomados con JWST. Esto se llevó a cabo con los datos del Programa Científico de Liberación Temprana (_ Early Release Science Program_) del JWST, los primeros datos científicos tomados por la instalación. El equipo trabajó en forma abierta desde la idea al análisis, pasando por la publicación y la comunicación.
+De este modo, el equipo de la Dra. Batalha publicó la primera identificación de CO2 en la atmósfera de un exoplaneta a partir de espectros tomados con JWST. Esto se llevó a cabo con los datos del Programa Científico de Liberación Temprana (_Early Release Science Program_) del JWST, los primeros datos científicos tomados por la instalación. El equipo trabajó en forma abierta desde la idea al análisis, pasando por la publicación y la comunicación.
 
 Este ejemplo ilustra los beneficios de aplicar principios de Ciencia Abierta para producir rápidamente investigaciones significativas. El equipo trabajó en un formato abierto, desde la idea al análisis, pasando por la publicación y la comunicación.
 
@@ -137,7 +137,7 @@ Las personas que investigan utilizan y producen una gran variedad de programas i
 Por ejemplo: modelos de primeros principios, herramientas de asimilación de datos, modelos empíricos, aprendizaje de máquinas, planificación de misiones y herramientas de ingeniería, entre otros.
 
 - [OpenFOAM](https://github.com/OpenFOAM) – Software de dinámica de fluidos computacional
-- [MOM6](https://github.com/)[video] -ocean/MOM6) – Modelo de circulación oceánica general
+- [MOM6](https://github.com/)[video] – Modelo de circulación oceánica general
 - [ASPECT](https://github.com/geodynamics/aspect) – Software de convección planetaria
 - Transferencia radiativa atmosférica, evolución estelar, turbulencia oceánica superior, predicciones del viento solar, propagación orbital (por ejemplo, OpenGGCM, MESA)
 
@@ -240,7 +240,7 @@ Determina si cada afirmación es un beneficio o un desafío arrastrándola a la 
 
 **Conclusiones principales: Relacionar los principios con los beneficios y desafíos**
 
-- Hacer al software más abierto siguiendo los principios tiene beneficios y desafíos, los cuales están relacionados.
+- Hacer al software más abierto ys eguir sus principios tiene beneficios y desafíos, los cuales están relacionados.
 - Mayores beneficios suelen venir con mayores desafíos.
 - En la mayoría de los casos, las personas que se dedican a la ciencia y la sociedad entera se beneficiarán de un software más abierto.
 
@@ -342,7 +342,7 @@ Conclusiones principales de esta lección:
 
 ## Lección 1: Evaluación
 
-Responde a las siguientes preguntas para comprobar lo que has aprendido hasta ahora.
+Responde las siguientes preguntas para poner a prueba lo que has aprendido hasta ahora.
 
 Pregunta
 
