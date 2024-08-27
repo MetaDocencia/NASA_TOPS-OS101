@@ -2,12 +2,10 @@
 
 ## Contenidos
 
-- [Descripción general](#descripci%C3%B3n-general)
-- [Objetivos de Aprendizaje](#objetivos-de-aprendizaje)
 - [Cuándo compartir los datos y si hacerlo](#cu%C3%A1ndo-compartir-los-datos-y-si-hacerlo)
 - [Dónde compartir datos](#d%C3%B3nde-compartir-datos)
 - [Cómo habilitar el reuso de datos](#%C3%B3-habilitar-el-reuso-de-datos)
-- [Quién se responsable de Compartir los Datos](#qui%C3%A9n-es-responsable-de-compartir-los-datos)
+- [Quién es responsable de compartir Datos](#qui%C3%A9n-es-responsable-de-compartir-datos)
 - [Lección 4: Resumen](#lecci%C3%B3n-4-resumen)
 - [Lección 4: Evaluación](#lecci%C3%B3n-4-evaluaci%C3%B3n)
 
@@ -217,7 +215,7 @@ Adicionalmente, los repositorios pueden requerir autorización y autentificació
   </tbody>
 </table>
 
-## Cómo habilitar la reutilización de datos
+## Cómo habilitar el reuso de datos
 
 ### Obtener un DOI
 

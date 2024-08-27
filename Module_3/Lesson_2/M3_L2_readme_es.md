@@ -2,14 +2,12 @@
 
 ## Contenidos
 
-- [Descripción general](#descripci%C3%B3n-general)
-- [Objetivos de aprendizaje](#objetivos-de-aprendizaje)
 - [Introducción](#introducci%C3%B3n)
 - [Descubrir Datos Abiertos](#descubrir-datos-abiertos)
 - [Evaluar los Datos Abiertos](#evaluar-los-datos-abiertos)
 - [Usar Datos Abiertos](#usar-datos-abiertos)
 - [Lección 2: Resumen](#lecci%C3%B3n-2-resumen)
-- [Lección 2: Evaluación](##lecci%C3%B3n-2-evaluaci%C3%B3n)
+- [Lección 2: Evaluación](#lecci%C3%B3n-2-evaluaci%C3%B3n)
 
 ## Descripción general
 

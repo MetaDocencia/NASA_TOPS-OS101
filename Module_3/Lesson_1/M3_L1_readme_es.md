@@ -2,13 +2,11 @@
 
 ## Contenidos
 
-- [Descripción general](#descripci%C3%B3n-general)
-- [Objetivos de aprendizaje](#objetivos-de-aprendizaje)
 - [Introducción](#introducci%C3%B3n)
-- [Definición y Consideraciones de Datos Abiertos](#definici%C3%B3n-y-consideraciones-de-datos-abiertos)
+- [Definiciones y Consideraciones de los Datos Abiertos](#definiciones-y-consideraciones-de-los-datos-abiertos)
 - [Beneficios de los Datos Abiertos](#beneficios-de-los-datos-abiertos)
 - [Desafíos de los Datos Abiertos](#desaf%C3%ADos-de-los-datos-abiertos)
-- [Aplicar los principios FAIR](#aplicar-los-principios-fair)
+- [Aplicación de los principios FAIR](#aplicaci%C3%B3n-de-los-principios-fair)
 - [Planificar la apertura: El sistema Usar, Hacer, Compartir para los Datos Abiertos](#planificar-la-apertura-el-sistema-usar-hacer-compartir-para-los-datos-abiertos)
 - [Lección 1: Resumen](#lecci%C3%B3n-1-resumen)
 - [Lección 1: Evaluación](#lecci%C3%B3n-1-evaluaci%C3%B3n)

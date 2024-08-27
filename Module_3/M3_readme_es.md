@@ -48,21 +48,17 @@ Estos términos clave son tópicos importantes para este módulo. Selecciona el 
 
 ### [Lección 1: Introducción a Datos Abiertos](./Lesson_1)
 
-- [Descripción general](./Lesson_1#descripci%C3%B3n-general)
-- [Objetivos de aprendizaje](./Lesson_1#objetivos-de-aprendizaje)
 - [Introducción](./Lesson_1#introducci%C3%B3n)
-- [Definición y Consideraciones de Datos Abiertos](./Lesson_1#definici%C3%B3n-y-consideraciones-de-datos-abiertos)
+- [Definiciones y Consideraciones de los Datos Abiertos](./Lesson_1#definiciones-y-consideraciones-de-los-datos-abiertos)
 - [Beneficios de los Datos Abiertos](./Lesson_1#beneficios-de-los-datos-abiertos)
 - [Desafíos de los Datos Abiertos](./Lesson_1#desaf%C3%ADos-de-los-datos-abiertos)
-- [Aplicar los principios FAIR](./Lesson_1#aplicar-los-principios-fair)
+- [Aplicación de los principios FAIR](./Lesson_1#aplicaci%C3%B3n-de-los-principios-fair)
 - [Planificar la apertura: El sistema Usar, Hacer, Compartir para los Datos Abiertos](./Lesson_1#planificar-la-apertura-el-sistema-usar-hacer-compartir-para-los-datos-abiertos)
 - [Lección 1: Resumen](./Lesson_1#lecci%C3%B3n-1-resumen)
 - [Lección 1: Evaluación](./Lesson_1#lecci%C3%B3n-1-evaluaci%C3%B3n)
 
 ### [Lección 2: Usando Datos Abiertos](./Lesson_2)
 
-- [Descripción general](./Lesson_2#descripci%C3%B3n-general)
-- [Objetivos de aprendizaje](./Lesson_2#objetivos-de-aprendizaje)
 - [Introducción](./Lesson_2#introducci%C3%B3n)
 - [Descubrir Datos Abiertos](./Lesson_2#descubrir-datos-abiertos)
 - [Evaluar los Datos Abiertos](./Lesson_2#evaluar-los-datos-abiertos)
@@ -72,10 +68,8 @@ Estos términos clave son tópicos importantes para este módulo. Selecciona el 
 
 ### [Lección 3: Haciendo Datos Abiertos](./Lesson_3)
 
-- [Descripción general](./Lesson_3#descripci%C3%B3n-general)
-- [Objetivos de aprendizaje](./Lesson_3#objetivos-de-aprendizaje)
 - [Planificar para Datos Abiertos](./Lesson_3#planificar-para-datos-abiertos)
-- [Seleccionar formatos de datos y herramientas para la interoperabilidad](./Lesson_3#seleccionar-formatos-de-datos-y-herramientas-para-la-interoperabilidad)
+- [Seleccionar formatos de datos y herramientas para la interoperabilidad](./Lesson_3#seleccionar-formatos-de-datos-y-herramientas-para-interoperabilidad)
 - [Hacer que los datos sean reusables mediante la documentación](./Lesson_3#hacer-que-los-datos-sean-reusables-mediante-la-documentaci%C3%B3n)
 - [Hacer que los datos sean reusables mediante las licencias](./Lesson_3#hacer-que-los-datos-sean-reusables-mediante-las-licencias)
 - [Lección 3: Resumen](./Lesson_3#lecci%C3%B3n-2-resumen)
@@ -83,21 +77,17 @@ Estos términos clave son tópicos importantes para este módulo. Selecciona el 
 
 ### [Lección 4: Compartiendo Datos Abiertos](./Lesson_4)
 
-- [Descripción general](./Lesson_4#descripci%C3%B3n-general)
-- [Objetivos de Aprendizaje](./Lesson_4#objetivos-de-aprendizaje)
 - [Cuándo compartir los datos y si hacerlo](./Lesson_4#cu%C3%A1ndo-compartir-los-datos-y-si-hacerlo)
 - [Dónde compartir datos](./Lesson_4#d%C3%B3nde-compartir-datos)
 - [Cómo habilitar el reuso de datos](./Lesson_4#%C3%B3-habilitar-el-reuso-de-datos)
-- [Quién se responsable de Compartir los Datos](./Lesson_4#qui%C3%A9n-es-responsable-de-compartir-los-datos)
+- [Quién es responsable de compartir datos](./Lesson_4#qui%C3%A9n-es-responsable-de-compartir-datos)
 - [Lección 4: Resumen](./Lesson_4#lecci%C3%B3n-4-resumen)
 - [Lección 4: Evaluación](./Lesson_4#lecci%C3%B3n-4-evaluaci%C3%B3n)
 
 ### [Lección 5: De la Teoría a la Práctica](./Lesson_5)
 
-- [Descripción general](./Lesson_5#descripci%C3%B3n-general)
-- [Objetivos de aprendizaje](./Lesson_5#objetivos-de-aprendizaje)
 - [Escribir un Plan de Gestión de Datos y de Ciencia Abierta](./Lesson_5#escribir-un-plan-de-gesti%C3%B3n-de-datos-y-de-ciencia-abierta)
-- [Las comunidades de Datos Abiertos y tú](./Lesson_5#las-comuniades-de-datos-abiertos-y-t%C3%BA)
+- [Las comunidades de Datos Abiertos y tú](./Lesson_5#las-comunidades-de-datos-abiertos-y-t%C3%BA)
 - [Recursos adicionales](./Lesson_5#recursos-adicionales)
 - [Lección 5: Resumen](./Lesson_5#lecci%C3%B3n-5-resumen)
 - [Lección 5: Evaluación](./Lesson_5#lecci%C3%B3n-5-evaluaci%C3%B3n)

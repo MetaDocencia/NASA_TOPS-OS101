@@ -2,10 +2,8 @@
 
 ## Contenidos
 
-- [Descripción general](#descripci%C3%B3n-general)
-- [Objetivos de aprendizaje](#objetivos-de-aprendizaje)
 - [Escribir un Plan de Gestión de Datos y de Ciencia Abierta](#escribir-un-plan-de-gesti%C3%B3n-de-datos-y-de-ciencia-abierta)
-- [Las comunidades de Datos Abiertos y tú](#las-comuniades-de-datos-abiertos-y-t%C3%BA)
+- [Las comunidades de Datos Abiertos y tú](#las-comunidades-de-datos-abiertos-y-t%C3%BA)
 - [Recursos adicionales](#recursos-adicionales)
 - [Lección 5: Resumen](#lecci%C3%B3n-5-resumen)
 - [Lección 5: Evaluación](#lecci%C3%B3n-5-evaluaci%C3%B3n)
@@ -222,7 +220,7 @@ _Pregunta_
 - Ofrecerse para hacer trabajo voluntario y participar en conferencias, talleres y sesiones especiales
 - Identificar roles y responsabilidades del equipo a la hora de compartir datos
 
-## Resumen sobre Datos Abiertos
+## Resumen del Módulo 5: Datos Abiertos
 
 ¡Felicitaciones! Ahora que has completado el módulo, deberías poder hacer lo siguiente:
 
