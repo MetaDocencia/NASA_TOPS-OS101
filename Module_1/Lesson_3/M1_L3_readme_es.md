@@ -36,7 +36,7 @@ Cuando la divulgación de datos o investigaciones puede plantear problemas de se
 
 _La NASA ha recopilado datos biomédicos de los vuelos espaciales tripulados desde el inicio del Apolo..._
 
-<img src="../images/media/image259_es.jpg" style="width: 100%; height: auto;" />
+<img src="../images/media/image259_es.png" style="width: 100%; height: auto;" />
 
 _... pero los únicos datos humanos del Archivo de Datos de Ciencias de la Vida proceden de astronautas que firmaron autorizaciones para que sus datos fueran públicos._
 

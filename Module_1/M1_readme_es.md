@@ -66,14 +66,14 @@ Más información [aquí].(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3792863/
 
 - [Motivación por la Ciencia Abierta](./Lesson_1#motivaci%C3%B3n-por-la-ciencia-abierta)
 - [¿Qué es la Ciencia Abierta?](./Lesson_1#qu%C3%A9-es-la-ciencia-abierta)
-- [¿Quién practica la ciencia abierta?](./Lesson_1#qui%C3%A9n-practica-la-ciencia-abierta)
+- [¿Quién hace ciencia abierta?](./Lesson_1#qui%C3%A9n-hace-ciencia-abierta)
 - [Lección 1: Resumen](./Lesson_1#lecci%C3%B3n-1-resumen)
 - [Lección 1: Evaluación](./Lesson_1#lecci%C3%B3n-1-evaluaci%C3%B3n)
 
 ### [Lección 2: ¿Por qué es Importante la Ciencia Abierta?](./Lesson_2)
 
 - [La Ciencia Abierta rompe barreras y promueve la innovación](./Lesson_2#la-ciencia-abierta-rompe-barreras-y-promueve-la-innovaci%C3%B3n)
-- [Beneficios individuales](./Lesson_2#beneficios-para-t%C3%AD)
+- [Beneficios para ti](./Lesson_2#beneficios-para-ti)
 - [Beneficios para la ciencia](./Lesson_2#beneficios-para-la-ciencia)
 - [Beneficios para la sociedad](./Lesson_2#beneficios-para-la-sociedad)
 - [Lección 2: Resumen](./Lesson_2#lecci%C3%B3n-2-resumen)
@@ -89,7 +89,7 @@ Más información [aquí].(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3792863/
 
 ### [Lección 4: Cuando no debe ser "Abierta"](./Lesson_4)
 
-- [Preocupaciones usuales en torno a la apertura](./Lesson_4#preocupaciones-usuales-en-torno-a-la-apertura)
+- [Preocupaciones comunes alrededor de la Ciencia Abierta](./Lesson_4#preocupaciones-comunes-alrededor-de-la-ciencia-abierta)
 - [Incentivos mal alineados](./Lesson_4#incentivos-mal-alineados)
 - [Barreras sociales](./Lesson_4#barreras-sociales)
 - [Barreras institucionales y de infraestructura](./Lesson_4#barreras-institucionales-y-de-infraestructura)
@@ -101,7 +101,7 @@ Más información [aquí].(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3792863/
 - [Planificar para la Ciencia Abierta](./Lesson_5#planificar-para-la-ciencia-abierta)
 - [Diseñar para la apertura](./Lesson_5#dise%C3%B1ar-para-la-apertura)
 - [Caso de estudio: Los resultados de un Plan Abierto](./Lesson_5#Caso-de-estudio-los-resultados-de-un-plan-abierto)
-- [Pasos para continuar tu viaje hacia la Ciencia Abierta](./Lesson_5#pasos-para-continuar-con-tu-viaje-en-ciencia-abierta)
+- [Pasos para continuar tu viaje hacia la Ciencia Abierta](./Lesson_5#pasos-para-continuar-tu-viaje-hacia-la-ciencia-abierta)
 - [Lección 5: Resumen](./Lesson_5#lecci%C3%B3n-5-resumen)
 - [Lección 5: Evaluación](./Lesson_5#lecci%C3%B3n-5-evaluaci%C3%B3n)
 - [Resumen del Módulo 1: Ethos de la Ciencia Abierta](./Lesson_5#resumen-del-m%C3%B3dulo-1-ethos-de-la-ciencia-abierta)

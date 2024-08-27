@@ -2,7 +2,7 @@
 
 ## Contenidos
 
-- [Preocupaciones usuales en torno a la apertura](#preocupaciones-usuales-en-torno-a-la-apertura)
+- [Preocupaciones comunes alrededor de la Ciencia Abierta](#preocupaciones-comunes-alrededor-de-la-ciencia-abierta)
 - [Incentivos mal alineados](#incentivos-mal-alineados)
 - [Barreras sociales](#barreras-sociales)
 - [Barreras institucionales y de infraestructuras](#barreras-institucionales-y-de-infraestructura)
