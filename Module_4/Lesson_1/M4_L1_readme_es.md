@@ -12,21 +12,21 @@
 
 ## Descripción general
 
-Esta lección define los términos clave, los principios básicos, los beneficios y los desafíos del Código Abierto. La práctica de desarrollar código y ponerlo a disposición del público se da dentro de un espectro que va de más a menos protegido. La condiciones éticas y legales pueden limitar el grado de apertura que pueden permitirse quienes investigan. En esta lección se presentarán las preguntas críticas que hay que tener en cuenta a la hora de determinar la accesibilidad adecuada del código para personas usuarias externas, junto con las mejores prácticas para superar las limitaciones habituales y maximizar la disponibilidad. La lección finaliza con una discusión sobre el ciclo de vida del software y cómo encaja en el sistema de "Usar, Hacer, Compartir" y su relación con un Plan de Gestión.
+Esta lección define los términos clave, los principios básicos, los beneficios y los desafíos del Código Abierto. La práctica de desarrollar código y ponerlo a disposición del público se da dentro de un espectro que va de más a menos protegido. Las condiciones éticas y legales pueden limitar el grado de apertura que pueden permitirse quienes investigan. En esta lección se presentarán las preguntas críticas que hay que tener en cuenta a la hora de determinar la accesibilidad adecuada del código para personas usuarias externas, junto con las mejores prácticas para superar las limitaciones habituales y maximizar la disponibilidad. La lección finaliza con una discusión sobre el ciclo de vida del software y cómo encaja en el sistema de "Usar, Hacer, Compartir" y su relación con un Plan de Gestión.
 
 ## Objetivos de aprendizaje
 
 Al finalizar esta lección deberías ser capaz de:
 
 - Definir software de Código Abierto y distinguirlo del software de código cerrado.
-- Enumerar los beneficios y los retos más comunes de la producción de Código Abierto y describir cómo pueden responder los investigadores a algunos de los desafíos al tiempo que maximizan la apertura, cuando esto aplique.
+- Enumerar los beneficios y los desafíos más comunes de la producción de Código Abierto y describir cómo quienes investigan pueden responder a algunos de los desafíos al tiempo que maximizan la apertura, cuando sea posible.
 - Describir la función y el propósito de un Plan de Gestión de Software, y su uso como una guía para todos los involucrados en un proyecto científico.
 
 ## Historias de éxito
 
-¿Por qué las buenas prácticas científicas demandan que las personas que investigan abran el acceso a su código? Compartir el código (y los datos) facilita que otrás personas reproduzcan los resultados, lo que ayuda a validar los descubrimientos y a reducir los recursos necesarios para duplicar los experimentos. Como beneficio adicional, esta decisión puede dar lugar a nuevas colaboraciones que son posibles gracias a un conjunto de datos compartido y a una comprensión común del material científico.
+¿Por qué las buenas prácticas científicas demandan que las personas que investigan abran el acceso a su código? Compartir el código (y los datos) facilita que otras personas reproduzcan los resultados, lo que ayuda a validar los descubrimientos y a reducir los recursos necesarios para duplicar los experimentos. Como beneficio adicional, esta decisión puede dar lugar a nuevas colaboraciones que son posibles gracias a un conjunto de datos compartido y a una comprensión común del material científico.
 
-Muchas revistas y agencias de financiación exigen compartir el código en el momento de la publicación. Sin embargo, la perspectiva de abrir el código a críticaa, no recibir reconocimiento adecuado o no participar de un resultado que descubran investigadores externos, puede disuadir a quienes hacen ciencia de hacer su código de Acceso Abierto. ¿Qué pasaría si alguien encuentra un error? ¿Y si critican el estilo de la codificación? ¿Y si usan el código y publican un nuevo resultado sin incluirnos? Este módulo está orientado a ayudarte a ganar confianza a la hora de compartir tu código, ya que recorreremos los detalles básicos a tener en cuenta al poner en práctica la Ciencia Abierta.
+Muchas revistas y agencias de financiación exigen compartir el código en el momento de la publicación. Sin embargo, la perspectiva de abrir el código a críticas, no recibir reconocimiento adecuado o no participar de un resultado que descubran equipos de investigación externos, puede disuadir a quienes hacen ciencia de hacer su código de Acceso Abierto. ¿Qué pasaría si alguien encuentra un error? ¿Y si critican el estilo de la codificación? ¿Y si usan el código y publican un nuevo resultado sin incluirnos? Este módulo está orientado a ayudarte a ganar confianza a la hora de compartir tu código, ya que recorreremos los detalles básicos a tener en cuenta al poner en práctica la Ciencia Abierta.
 
 Repasemos algunos ejemplos conocidos de grupos que compartieron su código, y cuáles fueron los impactos:
 
@@ -80,7 +80,7 @@ Crédito:
 
 Toda ciencia se construye en base a lo que ya se ha logrado. El código no es la excepción. Muchas personas dedicadas a investigar utilizan código para realizar análisis de datos. Este proceso comienza con la adquisición de datos, ya sea ejecutando un experimento o modelo que genere datos o identificando datos observacionales que puedan ser útiles para probar una hipótesis. A continuación se analizan los datos. Es muy probable que el código necesario para leer o analizar un nuevo conjunto de datos ya haya sido creado por alguien. Sin embargo, el código existente puede requerir cierto grado de modificación para ajustarse a los parámetros específicos de una investigación. Incluso el desarrollo de un nuevo modelo puede incorporar elementos específicos de códigos existentes de distintas fuentes.
 
-Entender cómo encontrar y utilizar el código de otras personas, crear el propio y compartirlo es una parte importante del avance de la Ciencia Abierta. Al igual que las buenas prácticas de gestión de datos, conocer algunos detalles sobre cómo compartirlo no sólo te ayudará a usarlo más adelante, sino también a que otros sepan cómo utilizarlo y citarlo para que se te reconozca el crédito.
+Entender cómo encontrar y utilizar el código de otras personas, crear el propio y compartirlo es una parte importante del avance de la Ciencia Abierta. Al igual que las buenas prácticas de gestión de datos, conocer algunos detalles sobre cómo compartirlo no sólo te ayudará a usarlo más adelante, sino también a que otras personas sepan cómo utilizarlo y citarlo para que se te reconozca el crédito.
 
 <img src="../images/media/image247_es.png" style="width:100%;height:auto;" />
 
@@ -92,7 +92,7 @@ Ejemplo de código de [https://github.com/UCB-stat-159-s23/site/blob/main/lectur
 
 Cuando escribimos "software", en realidad estamos escribiendo código de texto y utilizando un intérprete o compilador para traducirlo en un programa que la máquina pueda ejecutar. El código es un lenguaje que los humanos pueden escribir y entender. El software suele ser un conjunto de programas, datos y otra información que un sistema informático utiliza para realizar tareas específicas. Un ejemplo es una biblioteca de software, que es un conjunto de datos y código de programación que se utiliza para desarrollar programas y aplicaciones de software.
 
-A menudo, las personas que hacen ciencia escriben y publican código que ayuda a otros a reproducir sus resultados, en lugar de crear paquetes de software. Pero muchas de estas personas no empiezan su código desde cero. Existen grandes bibliotecas de software de Código Abierto que las personas qeu hacen ciencia utilizan y a las que contribuyen, como scipy, astropy, matplotlib y otras. Estas bibliotecas permiten a todo el mundo hacer ciencia más rápido y mejor porque han sido escritas, probadas y utilizadas por miles, sino cientos de miles, de personas. Estas bibliotecas han sido ampliamente adoptadas porque son de Código Abierto, lo que facilita la colaboración con cualquiera y en cualquier lugar.
+A menudo, las personas que hacen ciencia escriben y publican código que ayuda a otras personas a reproducir sus resultados, en lugar de crear paquetes de software. Pero muchas de estas personas no empiezan su código desde cero. Existen grandes bibliotecas de software de Código Abierto que las personas que hacen ciencia utilizan y a las que contribuyen, como scipy, astropy, matplotlib y otras. Estas bibliotecas permiten a todo el mundo hacer ciencia más rápido y mejor porque han sido escritas, probadas y utilizadas por miles, sino cientos de miles, de personas. Estas bibliotecas han sido ampliamente adoptadas porque son de Código Abierto, lo que facilita la colaboración con cualquiera y en cualquier lugar.
 
 ### Qué es software de Código Abierto (Open Source Software)
 
@@ -146,7 +146,7 @@ Este software suele evolucionar a partir de software utilitario de un solo uso y
 
 - [Photutils](https://photutils.readthedocs.io/en/stable/index.html) – herramientas para detectar y realizar fotometría de fuentes astronómicas
 
-**Software utilitario de un solo uso** - El software utilizario de un solo uso está escrito para su uso en casos únicos, como hacer un gráfico para un artículo o manipular datos de una manera específica.
+**Software utilitario de un solo uso** - El software utilitario de un solo uso está escrito para su uso en casos únicos, como hacer un gráfico para un artículo o manipular datos de una manera específica.
 Este código a menudo utiliza bibliotecas para análisis, visualización o lectura de datos. Este tipo de software es el más comúnmente incluido en los Planes de Gestión de Ciencia Abierta y Datos (Open Science and Data Management Plans- OSDMP), sobre los cuales hablaremos en breve. Los ejemplos incluyen:
 
 - [Angus et al. 2019](https://ui.adsabs.harvard.edu/abs/2019AJ....158..173A/abstract) (en inglés) - [Ajuste de una relación giroscópica a Praesepe](https://github.com/RuthAngus/stardate/blob/master/paper/code/Fitting_Praesepe.ipynb)
@@ -163,7 +163,7 @@ Los principios del Software Abierto se derivan de las mejores prácticas del sof
 |                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Transparencia                       | Ya sea que estemos desarrollando software o resolviendo un problema comercial, todos tenemos acceso a la información y los materiales necesarios para hacer mejor nuestro trabajo. Cuando estos materiales son accesibles, podemos basarnos en las ideas y descubrimientos de los demás. Podemos tomar decisiones más eficaces y entender cómo nos afectan esas decisiones.                                                                           |
-| Colaboración                        | Cuando tenemos la libertad de participar, podemos mejorar el trabajo de los demás de formas inesperadas. Cuando podemos modificar lo que otras personas han compartido, desbloqueamos nuevas posibilidades. Al iniciar nuevos proyectos juntos, podemos resolver problemas que nadie puede resolver solo. Y cuando aplicamos normas abiertas, permitimos que otros contribuyan en el futuro.                                            |
+| Colaboración                        | Cuando tenemos la libertad de participar, podemos mejorar el trabajo de los demás de formas inesperadas. Cuando podemos modificar lo que otras personas han compartido, desbloqueamos nuevas posibilidades. Al iniciar nuevos proyectos juntos, podemos resolver problemas que nadie puede resolver solo. Y cuando aplicamos normas abiertas, permitimos que otras personas contribuyan en el futuro.                                            |
 | Compartir pronto y frecuentemente | Los prototipos rápidos pueden llevar a descubrimientos rápidos. Un enfoque iterativo conduce a mejores soluciones con mayor rapidez. Cuando tienes libertad para experimentar, puedes plantearte los problemas de formas nuevas y buscar respuestas en nuevos lugares. Puedes aprender con la práctica (aprender haciendo).                                                                                                                               |
 | Inclusivo                           | Las buenas ideas pueden venir de cualquier parte, y las mejores deberían ganar. Sólo mediante la inclusión de perspectivas diversas en nuestras conversaciones podemos estar seguros de haber identificado las mejores ideas, y los buenos responsables de la toma de decisiones buscan continuamente esas perspectivas. Puede que no funcionemos por consenso, pero el éxito del trabajo determina qué proyectos reúnen apoyo y esfuerzo de la comunidad. |
 | Comunidad                           | Las comunidades se forman cuando diferentes personas se unen alrededor de un propósito común. Los valores compartidos guían la toma de decisiones y los objetivos de la comunidad prevalecen sobre los intereses y agendas individuales.                                                                                                                                                                                                                               |
@@ -259,11 +259,11 @@ El [manual colaborativo de ciencia de datos de The Turing Way](https://the-turin
 
 Para ser considerado de Código Abierto, el software requiere una licencia que cumpla con la definición de Código Abierto. Uno de los criterios de esta definición exige que las licencias de Código Abierto "[deben permitir que las modificaciones y sus derivadas, se distribuyan bajo los mismos términos que la licencia del software original](https://opensource.org/licenses/)"
 
-En las próximas lecciones discutiremos con más detalle las licencias. A medida que trabajas en un proyecto, es posible que quieras utilizar código desarrollado por otros, desarrollar tu propio código y luego compartirlo. Las licencias afectan a todos los aspectos de este proceso y es importante entender cómo diferentes licencias pueden afectar tu capacidad para compartir tu código en el momento de la publicación. También es importante que tengas en cuenta cualquier requerimiento de tu institución o de quien te financia acerca de cómo licenciar tu software.
+En las próximas lecciones discutiremos con más detalle las licencias. A medida que trabajas en un proyecto, es posible que quieras utilizar código desarrollado por otras personas, desarrollar tu propio código y luego compartirlo. Las licencias afectan a todos los aspectos de este proceso y es importante entender cómo diferentes licencias pueden afectar tu capacidad para compartir tu código en el momento de la publicación. También es importante que tengas en cuenta cualquier requerimiento de tu institución o de quien te financia acerca de cómo licenciar tu software.
 
-### Planificar la apertura: Utilización del sistema «usar, hacer, compartir» para el Código Abierto
+### Planificar la apertura: Utilización del sistema «Usar, Hacer, Compartir» para el Código Abierto
 
-Las agencias de financiación y las revistas exigen cada vez más a quienes invesitgan que compartan su software.
+Las agencias de financiación y las revistas exigen cada vez más a quienes investigan que compartan su software.
 
 Por ejemplo, el programa ROSES de la NASA, que solicita propuestas de investigación en Ciencias de la Tierra, exige a los equipos de investigación que pongan sus programas informáticos a disposición del público:
 
@@ -283,11 +283,11 @@ Los Planes de Gestión de Software abarcan tanto el código como el software.
 | ¿Cuando? | Cuándo:\*\* El cronograma para archivar y compartir software.                             |
 | ¿Dónde?  | Dónde:\*\* Ubicación donde se compartirá y archivará el software a largo plazo.           |
 | ¿Cómo?   | \*\*Habilitar reusar el software mediante la asignación de un DOI, licencia, normas de contribución, etc. |
-| ¿Quién?  | Quién:\*\* Roles, funciones y responsabilidades de los miembros del equipo.               |
+| ¿Quién?  | Quién:\*\* Roles, funciones y responsabilidades de quienes forman parte del equipo.               |
 
-A medida que tu investigación comienza a utilizar, crear y compartir código, el PGS proporciona una guía para todas las persons que participan en el proyecto, con el fin de establecer un entendimiento común.
+A medida que tu investigación comienza a utilizar, crear y compartir código, el PGS proporciona una guía para todas las personsa que participan en el proyecto, con el fin de establecer un entendimiento común.
 
-¿Tu proyecto comparte todo el código públicamente o sólo el que va a una publicación? ¿Contribuirá tu equipo a los proyectos de Código Abierto o se limitará a escribir código basado en ellos para obtener resultados? Considerar estas cuestiones desde el principio influirá en la cantidad de tiempo y energía que quiera dedicar a la documentación y en cómo piensas compartir el código.
+¿Tu proyecto comparte todo el código públicamente o sólo el que va a una publicación? ¿Contribuirá tu equipo a los proyectos de Código Abierto o se limitará a escribir código basado en ellos para obtener resultados? Considerar estas cuestiones desde el principio influirá en la cantidad de tiempo y energía que quieras dedicar a la documentación y en cómo piensas compartir el código.
 
 ### El Código Abierto es una escala
 
@@ -297,50 +297,50 @@ Al igual que los datos, el código puede compartirse de muchas maneras diferente
 - Un ejemplo de algo “intermedio” podría ser un archivo ejecutable con documentación sobre cómo funciona el código.
 - Algunos proyectos pueden abrirse desde el principio y compartir todo el código a lo largo del desarrollo. Otros pueden compartir parte del código en el momento de la publicación. Es posible que otros proyectos sólo pongan a disposición el código una vez finalizada la financiación. Existen diversas razones válidas que influyen en el enfoque de un proyecto a la hora de compartir.
 - Aunque algunos factores restringen el grado de apertura que puede tener el software, cada paso hacia la apertura hace avanzar al movimiento de la Ciencia Abierta.
-- Al compartir más ideas y programas informáticos, las comunidades han impulsado el avance creativo, científico y tecnológico más rápidamente que el ritmo restringido de la ciencia cerrada. La producción en equipo y la colaboración masiva crean un desarrollo de software más sostenible.
+- Al compartir más ideas y programas informáticos, las comunidades han impulsado el avance creativo, científico y tecnológico más rápidamente que al ritmo restringido de la ciencia cerrada. La producción en equipo y la colaboración masiva crean un desarrollo de software más sostenible.
 
-Aunque los investigadores y las instituciones no puedan compartir todo su código, sí pueden esforzarse por pasar del código cerrado al código y software de Código Abierto.
+Aunque los equipos de investigación y las instituciones no puedan compartir todo su código, sí pueden esforzarse por pasar del código cerrado al código y software de Código Abierto.
 
 _En la actividad siguiente, arrastra cada control deslizante para explorar el espectro de la apertura._
 
 <img src="../images/media/image110_es.png" style="width:100%;height:auto;" />
 
-### La Práctica de lo 'Abierto'
+### La Práctica de lo "Abierto"
 
-Repase cómo se resuelven las tareas clave del ciclo de vida de desarrollo de software en el esquema del concepto de trabajo «Usar, Hacer, Compartir».
+Repasa cómo se resuelven las tareas clave del ciclo de vida del desarrollo de software en el sistema «Usar, Hacer, Compartir».
 
 <img src="../images/media/image290_es.png" style="width:100%;height:auto;" />
 
-Al igual que ocurre con los datos abiertos, los distintos aspectos del Software Abierto se describen en términos de Uso, Creación y Puesta en común del Software Abierto.
+Al igual que ocurre con los Datos Abiertos, los distintos aspectos del Software Abierto se describen en términos de Uso, Creación y Puesta en común del Software Abierto.
 
-Una diferencia clave con el software es que el proceso suele ser más cíclico y repetitivo que con los datos o los resultados. Por lo general, el software evoluciona constantemente. Así, los límites entre «Usar-Hacer-Compartir» son menos rígidos y el proceso suele ser más dinámico y circular que preplanificado/configurado y secuencial.
+Una diferencia clave con el software es que el proceso suele ser más cíclico y repetitivo que con los datos o los resultados. Por lo general, el software evoluciona constantemente. Así, los límites entre «Usar, Hacer, Compartir» son menos rígidos y el proceso suele ser más dinámico y circular que preplanificado/fijo y secuencial.
 
 ### Actividad 1.2: ¿Cómo puedes utilizar el Software Abierto en tu trabajo para impulsar la Ciencia Abierta?.
 
-En esta actividad se le pide reflexionar sobre cómo ha utilizado y puede utilizar los principios del Software Abierto para avanzar en su trabajo.
+En esta actividad te pedimos que reflexiones sobre cómo has usado y puedes usar los principios del Software Abierto para avanzar en tu trabajo.
 
-Reflexione sobre las siguientes preguntas:
+Reflexiona sobre las siguientes preguntas:
 
-1. ¿Ha utilizado los principios de Software Abierto 1 en su trabajo?
-2. ¿Cuáles son algunos de los éxitos y desafíos con los que se ha enfrentado?
-3. ¿Qué recursos encontró útiles para impulsar el Software Abierto en su trabajo?
+1. ¿Has utilizado los principios de Software Abierto en tu trabajo?
+2. ¿Cuáles son algunos de los éxitos y desafíos con los que te enfrentaste?
+3. ¿Qué recursos te perecieron útiles para impulsar el Software Abierto en tu trabajo?
 
-#### Aspectos clave: Cómo puede utilizar el Software Abierto en su trabajo para hacer avanzar la Ciencia Abierta
+#### Aspectos clave: Cómo puedes usar el Software Abierto en tu trabajo para impulsar la Ciencia Abierta
 
 - El Software Abierto es una actividad colaborativa.
-- Todos podemos aprender y beneficiarnos mutuamente a la hora de hacer más abierto nuestro software científico.
+- Todos podemos aprender y beneficiarnos mutuamente para hacer más abierto nuestro software científico.
 
 ## Lección 1: Resumen
 
-En esta lección, has aprendido:
+Conclusiones principales de esta lección:
 
 - En el software de Código Abierto, cualquiera puede ver el código fuente.
 - Los principios del Código Abierto promueven la transparencia, la colaboración, el intercambio, la inclusión y las comunidades.
-- El software de Código Abierto acelera la ciencia, minimiza el tiempo y el coste del desarrollo repetido de software similar y la reproducción de cálculos científicos, y puede mejorar la calidad y la confianza en la ciencia.
-- Las licencias de los programas de Código Abierto establecen la posibilidad de compartirlos y re-usarlos para los desarrolladores y posibles colaboradores. Las entidades financiadoras y las instituciones afiliadas pueden imponer restricciones a la forma en que los desarrolladores licencian su software.
-- Un plan de gestión de software (SMP) es una guía de proyecto con un entendimiento común de las prácticas de gestión de datos a partir del cual puede trabajar un equipo de investigación.
+- El software de Código Abierto acelera la ciencia, minimiza el tiempo y el costo del desarrollo repetido de software similar y la reproducción de cálculos científicos, y puede mejorar la calidad y la confianza en la ciencia.
+- Las licencias de los programas de Código Abierto establecen la posibilidad de compartirlos y reusarlos de parte de otras personas (quienes desarrollan o colaboran). Las entidades financiadoras y las instituciones afiliadas pueden imponer restricciones a la forma en que se licencia el software.
+- Un plan de gestión de software (PGS) es una guía de proyecto con un acuerdo combún sobre las prácticas de gestión de datos a partir del cual puede trabajar un equipo de investigación.
 
-## Lección 1: Revisión de conocimientos
+## Lección 1: Evaluación
 
 Responde a las siguientes preguntas para comprobar lo que has aprendido hasta ahora.
 
@@ -359,7 +359,7 @@ Pregunta
 
 02/03
 
-¿Cuáles de las siguientes son razones válidas para que los científicos mantengan cerrado su código fuente? Selecciona todos los que correspondan.
+¿Cuáles de las siguientes son razones válidas para que las personas que hacen ciencia mantengan cerrado su código fuente? Selecciona todas las que correspondan.
 
 - Asuntos de seguridad nacional
 - Políticas institucionales
@@ -371,11 +371,11 @@ Pregunta
 
 03/03
 
-¿Cuáles son las principales secciones de un plan de gestión de software?
+¿Cuáles son las principales secciones de un plan de gestión de software? 
 
 - Tipos de código y software
 - Calendario para compartir software
 - Donde el software será compartido y archivado
 - Qué licencia será asignada
-- Roles y responsabilidades de los miembros del equipo
+- Roles y responsabilidades de quienes forman parte del equipo
 - Todas las anteriores
