@@ -104,15 +104,15 @@ Hay una variedad de opciones de licencia que se pueden elegir para el Software A
 
 ### Tipos de software
 
-Las personas que investigan utilizan y producen una gran variedad de programas informáticos durante sus proyectos. Si bien muchas personas que investigan pueden simplemente usar ecuaciones en una hoja de cálculo, otros pueden utilizar bibliotecas de Código Abierto para el desarrollo avanzado de modelos de aprendizaje automático y para graficar resultados, mientras que otros pueden contribuir a bibliotecas de Código Abierto en su campo y aumentar así su reputación e impacto. Aquí tienes algunos ejemplos de diferentes tipos de software que podrías encontrar:
+Las personas que investigan utilizan y producen una gran variedad de programas informáticos durante sus proyectos. Si bien muchas simplemente usan ecuaciones en una hoja de cálculo, otras pueden utilizar bibliotecas de Código Abierto para el desarrollo avanzado de modelos de aprendizaje automático y para graficar resultados; mientras que otras contribuyen a bibliotecas de Código Abierto en su campo y aumentan así su reputación e impacto. Aquí tienes algunos ejemplos de diferentes tipos de software que podrías encontrar:
 
-**Software de propósito general** - El software de propósito general se produce para un uso amplio y no para fines científicos especializados. Esto incluye software comercial y software de Código Abierto. Muchos de los programas de productividad más utilizados son éxitos del Código Abierto:
+**Software de propósito general** - El software de propósito general se produce para un uso amplio y no para fines científicos especializados. Esto incluye software comercial y software de Código Abierto. Muchos de los programas de productividad más utilizados son éxitos del Código Abierto. Aquí te presentamos algunos ejemplos (en inglés):
 
-- Núcleo Linux (Linux kernel), espacio de usuario GNU, y varias distribuciones Linux y UNIX
-- PostgreSQL: base de datos de nivel empresarial empresarial con Código Abierto
+- Núcleo Linux (Linux kernel), espacio de usuario GNU, y varias distribuciones GNU/Linux y UNIX
+- PostgreSQL: base de datos de Código Abierto de nivel empresarial 
 - Herramientas de alojamiento web para WordPress y Apache
 - Firefox y Chrome
-  - El motor de Chrome es Chromium, que es una bifurcación de WebKit, que a su vez es una bifurcación de KHTML Esto fue posible porque tenía una licencia que permitía este tipo de reutilización.  Todos los principales navegadores actuales, excepto Firefox, se remontan a KHTML.
+  - El motor de Chrome es Chromium, que es una bifurcación de WebKit que, a su vez, es una bifurcación de KHTML. Esto fue posible porque tenía una licencia que permitía este tipo de reuso del código. Todos los principales navegadores actuales, excepto Firefox, se remontan a KHTML.
 - Sistema operativo Android, entre otros
   - Puedes mirar el código fuente de Android, pero no puedes modificarlo e instalarlo en un dispositivo. Y, aunque pudieras, no podrías utilizar ninguno de los servicios estándar (por ejemplo, Google Store) con él. Así que es "abierto" en el mismo sentido que los números de la lotería de anoche son "abiertos".
 
@@ -120,23 +120,21 @@ Las personas que investigan utilizan y producen una gran variedad de programas i
 
 - [Fprime](https://nasa.github.io/fprime/) – Software de vuelo para misiones espaciales
 
-**Software de infraestructura** - Los centros de datos y las grandes instalaciones de tecnología de la información utilizan software de infraestructura para proporcionar servicios de datos. Los ejemplos incluyen:
+**Software de infraestructura** - Los centros de datos y las grandes instalaciones de tecnología de la información utilizan software de infraestructura para proporcionar servicios de datos. Por ejemplo: 
 
 - [Fprime](https://nasa.github.io/fprime/) – Software de vuelo para misiones espaciales
 - [PODAAC](https://github.com/podaac) – Software de archivo y procesamiento distribuido
 - [UFS](https://github.com/ufs-community) – Software de modelos operativos de pronóstico del tiempo
-- Verificador de Cumplimiento de Metadatos (Metadata Compliance Checker), APIs, Aplicaciones web, [Giovanni](https://www.earthdata.nasa.gov/technology/giovanni), [McIDAS](https://en.wikipedia.org/wiki/McIDAS)
+- Verificador de Cumplimiento de Metadatos (_Metadata Compliance Checker_), APIs, Aplicaciones web, [Giovanni](https://www.earthdata.nasa.gov/technology/giovanni), [McIDAS](https://en.wikipedia.org/wiki/McIDAS)
 
-**Bibliotecas** - Las bibliotecas son herramientas genéricas para implementar algoritmos conocidos, proporcionar análisis estadísticos o visualización de datos que se incorporan a otras categorías de software.
-Los ejemplos incluyen:
+**Bibliotecas (o librerías)** - Las bibliotecas son herramientas genéricas para implementar algoritmos conocidos, proporcionar análisis estadísticos o visualización de datos que se incorporan a otras categorías de software. Por ejemplo: 
 
 - [NumPy](https://github.com/numpy) – Informática científica con python
 - [scikit-image](https://github.com/scikit-image/) - Algoritmos de procesamiento de imágenes en python
 - [deal.II](https://github.com/dealii/dealii) - Biblioteca de algoritmos para resolver ecuaciones diferenciales parciales con elementos finitos
 
-**Software de modelización y simulación** - El software de modelización y simulación implementa soluciones a ecuaciones matemáticas a partir de datos de entrada y condiciones límite, o infiere modelos a partir de datos.
-A menudo usan bibliotecas.
-Algunos ejemplos incluyen: modelos de primeros principios, herramientas de asimilación de datos, modelos empíricos, aprendizaje de máquinas, planificación de misiones y herramientas de ingeniería, entre otros.
+**Software de modelización y simulación** - El software de modelización y simulación implementa soluciones a ecuaciones matemáticas a partir de datos de entrada y condiciones límite, o infiere modelos a partir de datos. A menudo usan bibliotecas.
+Por ejemplo: modelos de primeros principios, herramientas de asimilación de datos, modelos empíricos, aprendizaje de máquinas, planificación de misiones y herramientas de ingeniería, entre otros.
 
 - [OpenFOAM](https://github.com/OpenFOAM) – Software de dinámica de fluidos computacional
 - [MOM6](https://github.com/)[video] -ocean/MOM6) – Modelo de circulación oceánica general
@@ -144,17 +142,16 @@ Algunos ejemplos incluyen: modelos de primeros principios, herramientas de asimi
 - Transferencia radiativa atmosférica, evolución estelar, turbulencia oceánica superior, predicciones del viento solar, propagación orbital (por ejemplo, OpenGGCM, MESA)
 
 **Software de análisis** - El software de análisis se desarrolla para manipular mediciones o resultados de modelos con el fin de visualizarlos o comprenderlos mejor.
-Este software suele evolucionar a partir del software utilitario de un solo uso y puede incorporar bibliotecas.
+Este software suele evolucionar a partir de software utilitario de un solo uso y puede incorporar bibliotecas.
 
 - [Photutils](https://photutils.readthedocs.io/en/stable/index.html) – herramientas para detectar y realizar fotometría de fuentes astronómicas
 
-**Software de utilidad de uso único** - El software de utilidad de un solo uso está escrito para su uso en casos únicos, como hacer un gráfico para un artículo o manipular datos de una manera específica.
-Este tipo de código a menudo utiliza bibliotecas para análisis, visualización o lectura de datos. Este tipo de software es el más común que se incluye en los Planes de Gestión de Ciencia Abierta y Datos (Open Science and Data Management Plans- OSDMP), sobre los cuales hablaremos en breve. Los ejemplos incluyen:
+**Software utilitario de un solo uso** - El software utilizario de un solo uso está escrito para su uso en casos únicos, como hacer un gráfico para un artículo o manipular datos de una manera específica.
+Este código a menudo utiliza bibliotecas para análisis, visualización o lectura de datos. Este tipo de software es el más comúnmente incluido en los Planes de Gestión de Ciencia Abierta y Datos (Open Science and Data Management Plans- OSDMP), sobre los cuales hablaremos en breve. Los ejemplos incluyen:
 
-- [Angus et al. 2019](https://ui.adsabs.harvard.edu/abs/2019AJ....158..173A/abstract) - [Ajustando una relación giroscópica a Praesepe](https://github.com/RuthAngus/stardate/blob/master/paper/code/Fitting_Praesepe.ipynb)
-- [El telescopio espacial Webb detecta CO2 en un exoplaneta por primera vez: qué significa para encontrar vida extraterrestre](https://www.nature.com/articles/d41586-022-02350-2). Todos los datos y modelos presentados en esta publicación pueden consultarse [aquí](https://doi.org/10.5281/zenodo.6959427).
-- [Limitando el aumento de la frecuencia de las precipitaciones extremas en el mundo bajo el calentamiento global](https://www.nature.com/articles/s41558-022-01329-1)
-- Código disponible en: [https://doi.org/10.5281/zenodo.6288035](https://doi.org/10.5281/zenodo.6288035) (2022)
+- [Angus et al. 2019](https://ui.adsabs.harvard.edu/abs/2019AJ....158..173A/abstract) (en inglés) - [Ajuste de una relación giroscópica a Praesepe](https://github.com/RuthAngus/stardate/blob/master/paper/code/Fitting_Praesepe.ipynb)
+- [El telescopio espacial Webb detecta CO2 en un exoplaneta por primera vez: qué significa para encontrar vida extraterrestre](https://www.nature.com/articles/d41586-022-02350-2) (en inglés). Todos los datos y modelos presentados en esta publicación pueden consultarse [aquí](https://doi.org/10.5281/zenodo.6959427).
+- [Limitando el aumento de la frecuencia de las precipitaciones extremas en el mundo bajo el calentamiento global](https://www.nature.com/articles/s41558-022-01329-1) (en inglés). - Código disponible en: [https://doi.org/10.5281/zenodo.6288035](https://doi.org/10.5281/zenodo.6288035) (2022)
 
 ## Principios, ventajas y retos
 
