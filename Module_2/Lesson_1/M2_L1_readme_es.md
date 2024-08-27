@@ -174,14 +174,14 @@ Lee esta afirmación y decide si es verdadera o falsa.
 
 02/03
 
-¿Cuáles son los cuatro resultados principales de la Ciencia Abierta? Selecciona todas las que correspondan.
+¿Cuáles son los cuatro productos principales de la Ciencia Abierta? Selecciona todos las que correspondan.
 
 -   Presupuestos
 -   Resultados
 -   Inclusión
 -   Datos
 -   Código
--   Artículo (paper)
+-   Artículo científico
 
 *Pregunta*
 
