@@ -68,7 +68,7 @@ La mayor parte del Código Abierto no está desarrollado por o para científicos
 
 ### Dónde buscar depende de tu necesidad
 
-Hay varios buscadores populares para fragmentos de código. Primero, simplemente puedes buscar en Google. Otros motores de búsqueda comúnmente usados son GitHub Code Search y Stack Overflow. Estos motores de búsqueda te permiten buscar por fragmentos de código específicos, por lenguaje de programación, palabra clave u otros criterios. GitHub Code Search desarrolla la búsqueda en GitHub, un popular repositorio de códigos para software científico. En tanto, Stack Overflow establece la búsqueda en foros donde los usuarios discuten soluciones a problemas de programación.
+Hay varios buscadores populares para fragmentos de código. Primero, simplemente puedes buscar en Google. Otros motores de búsqueda comúnmente usados son GitHub Code Search y Stack Overflow. Estos motores de búsqueda te permiten buscar por fragmentos de código específicos, por lenguaje de programación, palabra clave u otros criterios. GitHub Code Search desarrolla la búsqueda en GitHub, un popular repositorio de códigos para software científico. En tanto, Stack Overflow establece la búsqueda en foros donde las personas discuten soluciones a problemas de programación.
 
 #### Ejemplos de repositorios de código:
 
@@ -98,7 +98,7 @@ En este ejemplo, practicaremos la búsqueda de código de Acceso Abierto en GitH
 
 **Ejemplo de contexto**
 
-GitHub permite a las personas usuarias colaborar en un proyecto compartido y seguir sus cambios con el control de versiones. Las personas pueden crear un repositorio y otorgar acceso a otros, o darle Acceso Abierto. GitHub cuenta con una gran comunidad de personas que ponen su código disponible de forma libre.
+GitHub permite a las personas usuarias colaborar en un proyecto compartido y seguir sus cambios con el control de versiones. Las personas pueden crear un repositorio y otorgar acceso a otros, o darle Acceso Abierto. GitHub cuenta con una gran comunidad de personas que ponen su código disponible de forma abierta.
 
 **Instrucciones**
 
@@ -180,7 +180,7 @@ Estos son algunos enlaces a repositorios específicos de la NASA que pueden ser 
 - [Software de Código Abierto de la NASA](https://code.nasa.gov/) (en inglés)
 - [APIs abiertas de la NASA](https://api.nasa.gov/) (en inglés)
 - [Science Discovery Engine - Sistema de datos astrofísicos](https://sciencediscoveryengine.nasa.gov/app/nasa-sba-smd/) (en inglés)
-- [Portal para personas desarrolladoras de Earthdata](https://www.earthdata.nasa.gov/engage/open-data-services-and-software/api) (en inglés)
+- [Portal para personas desarrolladoras de Earthdata](https://www.earthdata.nasa.gov/engage/open-data-services-and-software/api) 
   [Centro de Modelización y Análisis de Exoplaneta](https://www.earthdata.nasa.gov/engage/open-data-services-and-software/api) (en inglés)
 
 ## Evaluar Código y software Abiertos
@@ -240,7 +240,7 @@ En esta captura puedes ver la cantidad de solicitudes de revisión (_pull reques
 - Ejemplo anterior: [Astropy](https://github.com/astropy/astropy/blob/main/README.rst)
 - Es siempre el punto de partida cuando se evalúa un software.
 - Explica qué hace el software, cómo instalarlo y usarlo, o apunta a archivos con esa información.
-- Asume conocimientos previos limitados por el lector/potencial usuario.
+- Asume conocimientos previos limitados de la personas lectora o potencial usuaria.
 - Incluye una descripción de la compatibilidad, por ejemplo, dependencias.
 - Incluye ejemplos de uso y/o casos de prueba.
 
@@ -255,7 +255,7 @@ Se considera que el Software Abierto tiene más riesgos para la seguridad. Esto 
 - Consulta con el personal de tecnología de la institución y ten en cuenta las políticas de software abierto.
 - Utiliza fuentes confiables para minimizar los riesgos de seguridad.
 - Establece reglas y estándares de seguridad estrictos al usar una dependencia.
-- Usa herramientas de seguridad para comprobar si hay vulnerabilidades (por ejemplo, [Open Worldwide Application Security</u> Project®️](https://owasp.org/)).
+- Usa herramientas de seguridad para comprobar si hay vulnerabilidades (por ejemplo, [Open Worldwide Application Security</u> Project®️](https://owasp.org/), en inglés).
 - Evita el software de Código Abierto sin soporte. Cambia a componentes desarrollados activamente o desarrolla tus propios componentes.
 - Comprueba tus políticas institucionales más recientes sobre el uso de las herramientas de aprendizaje de máquina (_machine learning_) e inteligencia artificial.
 - Ten cuidado cuando utilices herramientas externas con datos de acceso seguro o cerrado. Puede ser posible que la herramienta externa comparta públicamente lo que debería ser información restringida.
@@ -285,13 +285,13 @@ Ten en cuenta lo siguiente cuando selecciones entre múltiples versiones de un s
 ### Resolver problemas en la reutilización de software 
 
 - Implementa pruebas para verificar que el software funciona como esperas en tu aplicación.
-- Si tienes problemas, consulta las notas adjuntas de la versión, el sistema de seguimiento de incidentes y/o a los foros de usuarios y desarrolladores.
+- Si tienes problemas, consulta las notas adjuntas de la versión, el sistema de seguimiento de incidentes y/o a los foros de personas usuarias y desarrolladoras.
 - No tengas miedo de pedir ayuda a tus colegas con experiencia.
-- Es mejor buscar y obtener ayuda en un foro público que en un medio privado (por ejemplo, por correo electrónico). Parte del propósito de la Ciencia Abierta consiste en trabajar abiertamente. Muchas veces, a través de una búsqueda, puedes descubrir que otros usuarios tienen preguntas similares. Puede que alguien ya haya ofrecido una solución. Si no es el caso, es probable que otros se beneficien de la respuesta pública a tu pregunta. 
+- Es mejor buscar y obtener ayuda en un foro público que en un medio privado (por ejemplo, por correo electrónico). Parte del propósito de la Ciencia Abierta consiste en trabajar abiertamente. Muchas veces, a través de una búsqueda, puedes descubrir que otras personas tienen preguntas similares. Puede que alguien ya haya ofrecido una solución. Si no es el caso, es probable que otros se beneficien de la respuesta pública a tu pregunta. 
 
 ### Actividad 2.1: Maneras de obtener ayuda al usar Software Abierto
 
-En esta actividad te pedimos que selecciones las formas de resolver algunos problemas habituales que surgen al utilizar software libre en una lista.
+En esta actividad te pedimos que reconozcas las formas de resolver algunos problemas habituales que surgen al utilizar Software Abierto.
 
 #### Ejercicio 1
 
@@ -354,7 +354,7 @@ Entre los casos en que el código compartido repercute directamente en los resul
 - Simulación o modelado numérico
 - Análisis automatizados, como el tratamiento de imágenes o el reconocimiento óptico
 
-Consulta la revista en la que publicas, u otra sobre el tema, y busca si contiene instrucciones específicas sobre cómo citar software (por ejemplo, [AAS Software Citation Suggestions] (https://journals.aas.org/news/software-citation-suggestions/)).
+Consulta la revista en la que publicas, u otra sobre el tema, y busca si contiene instrucciones específicas sobre cómo citar software (por ejemplo, [AAS Software Citation Suggestions](https://journals.aas.org/news/software-citation-suggestions/), en inglés).
 
 En algunos casos, los términos y condiciones de la licencia de uso de un software exigen que éste sea reconocido mediante su cita en las referencias o bibliografía de cualquier publicación producto de una investigación que haya hecho uso del programa.
 
