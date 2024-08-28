@@ -38,7 +38,7 @@ El éxito de esta búsqueda se debe a que quienes desarrollaron el modelo GOTM h
 
 ### El acceso al Software Abierto depende de que quienes lo desarrollan sigan los principios FAIR
 
-Descubrir Software Abierto depende de que las personas que lo desarrollan hagan que su software sea fácil de encontrar. Los principios Fácil de encontrar, Accesible, Interoperable y Reutilizable (FAIR) para software de investigación, sugieren:
+Descubrir Software Abierto depende de que las personas que lo desarrollen hagan que su software sea fácil de encontrar. Los principios Fácil de encontrar, Accesible, Interoperable y Reutilizable (FAIR) para software de investigación, sugieren:
 
 - El software y sus metadatos asociados deben ser fáciles de encontrar para humanos y máquinas.
 - El software debe ser descrito con metadatos enriquecidos, accesibles e indexables.
@@ -110,7 +110,7 @@ Captura de pantalla de los repositorios devueltos por nuestra búsqueda.
 
 <img src="../images/media/image496_es.jpg" style="width:100%;height:auto;" />
 
-Captura de pantalla (en inglés) de los fragmentos de código devueltos por nuestra búsqueda. La imagen muestra los primeros tres resultados presntados al seleccionar Código (en inglés _code_) de la columna izquierda. 
+Captura de pantalla (en inglés) de los fragmentos de código devueltos por nuestra búsqueda. La imagen muestra los primeros tres resultados presentados al seleccionar Código (en inglés _code_) de la columna izquierda. 
 
 ---
 
@@ -180,7 +180,7 @@ Estos son algunos enlaces a repositorios específicos de la NASA que pueden ser 
 - [Software de Código Abierto de la NASA](https://code.nasa.gov/)
 - [APIs abiertas de la NASA](https://api.nasa.gov/)
 - [Science Discovery Engine - Sistema de datos astrofísicos](https://sciencediscoveryengine.nasa.gov/app/nasa-sba-smd/)
-- [Portal de Desarrollador de Earthdata](https://www.earthdata.nasa.gov/engage/open-data-services-and-software/api)
+- [Portal para personas desarrolladoras de Earthdata](https://www.earthdata.nasa.gov/engage/open-data-services-and-software/api)
   [Centro de Modelización y Análisis de Exoplaneta](https://www.earthdata.nasa.gov/engage/open-data-services-and-software/api)
 
 ## Evaluar Código y software Abiertos
@@ -262,7 +262,7 @@ Se considera que el Software Abierto tiene más riesgos para la seguridad. Esto 
 
 ### Licencias
 
-Entonces, si quieres reutilizar algún Código Abierto que haya descubierto, es fundamental comprobar las restricciones legales y los requisitos impuestos a las personas usuarias, cuestiones que generalmente se establecen en la licencia.
+Entonces, si quieres reutilizar algún Código Abierto que hayas descubierto, es fundamental comprobar las restricciones legales y los requisitos impuestos a las personas usuarias, cuestiones que generalmente se establecen en la licencia.
 
 Aunque el licenciamiento es un tema con matices sobre el que aprenderás más en la lección 3 de este módulo, es útil saber que generalmente hay dos clases de licencia: permisiva y no permisiva. Licencias permisivas (como Apache 2., MIT o BSD), generalmente te permitirán utilizar el código para tu investigación científica con poca restricción, mientras que las licencias no permisivas, como las licencias de copyleft, imponen restricciones sustanciales a la forma en que se utiliza el código y requieren una consideración más cuidadosa.
 
@@ -270,7 +270,7 @@ Aunque el licenciamiento es un tema con matices sobre el que aprenderás más en
 
 El software se puede reutilizar de varias maneras. Un paquete de software puede ser ejecutado por sí mismo para proporcionar un análisis completo o modelos de acuerdo a los parámetros de entrada. Alternativamente, el paquete podría ser importado como parte de una biblioteca más grande para proporcionar una funcionalidad específica. Además, los fragmentos de código pueden copiarse en el código existente, si se permite, o el código podría reescribirse e incorporarse a un nuevo software.
 
-Si simplemente tienes la intención de reutilizar un fragmento de código, prueba siempre que el código seleccionado funciona como espera. Si estás reutilizando un código más complejo, existen consideraciones adicionales.
+Si simplemente tienes la intención de reutilizar un fragmento de código, prueba siempre que el código seleccionado funciona como espera. Si estás reusando un código más complejo, existen consideraciones adicionales.
 
 ### Seleccionar la versión adecuada para reutilizar
 
@@ -282,7 +282,7 @@ Ten en cuenta lo siguiente cuando selecciones entre múltiples versiones de un s
 | Determina el origen de la versión que deseas utilizar | Determina si la versión que quieres utilizar procede de un proyecto de Código Abierto modificado o de su fuente original. Con esta información determina qué fuente es más apropiada para tu proyecto.                                                                                                                                                                                                                                                                             |
 | Comprueba problemas y errores (_bugs_)                     | Comprueba si la versión que has seleccionado presenta problemas o errores de programación conocidos. Encuentra información actualizada sobre esto consultando las notas adjuntas de la versión, el sistema de seguimiento de incidentes y los foros de comunidades de desarrollo.                                                                                                                                                                                    |
 
-### Resolver problemas en la reutiliación de software 
+### Resolver problemas en la reutilización de software 
 
 - Implementa pruebas para verificar que el software funciona como esperas en tu aplicación.
 - Si tienes problemas, consulta las notas adjuntas de la versión, el sistema de seguimiento de incidentes y/o a los foros de usuarios y desarrolladores.
@@ -360,39 +360,39 @@ En algunos casos, los términos y condiciones de la licencia de uso de un softwa
 
 ### ¿Cómo citar?
 
-Lo ideal es utilizar y citar código que esté archivado en un repositorio con políticas de preservación a largo plazo y que se identifique con un DOI. Sigue los lineamientos de las normas de citación que se proporcionan en el repositorio y que pueden aparecer en el archivo README o CITATION (citación).
+Lo ideal es utilizar y citar código que esté archivado en un repositorio con políticas de preservación a largo plazo y que se identifique con un DOI. Sigue los lineamientos de las normas de citación que se proporcionan en el repositorio y que pueden aparecer en el archivo README (léeme) o CITATION (citación).
 
 Los DOI proporcionan un identificador o enlace persistente para resultados de investigación. Por ello, es preferible citar los códigos que se encuentren depositados en repositorios a largo plazo vinculados a un DOI. Las URL, por ejemplo, en Stack Overflow y de los repositorios activos, por ejemplo, en GitHub, son mutables, es decir, pueden cambiar con el tiempo y dejar de estar activas, aunque pueden utilizarse si no hay alternativa.
 
 Los paquetes también pueden ofrecer una manera de citar versiones individuales. Para fines de reproducibilidad, cita tanto el paquete general como la versión que se utilizó en tu trabajo. Dado que la funcionalidad de un paquete puede evolucionar con el lanzamiento de nuevas versiones, esto puede ayudar a proporcionar el contexto específico en el que se realizó tu trabajo.
 
-Si estás escribiendo un código de un software, también puedes realizar citas en los comentarios y en la documentación del software del cual te has apoyado.
+Si estás escribiendo un software, también puedes citar en los comentarios y en la documentación el software que hayas usado.
 
-## Lección 2: resumen
+## Lección 2: Resumen
 
-En esta lección aprendiste que:
+Conclusiones principales de esta lección: 
 
-- El Código Abierto existe dentro de un ecosistema vasto, orgánico y distribuido. Descubrir Código Abierto depende de definir bien tus necesidades, saber dónde buscar y que otros desarrolladores hayan utilizado los principios FAIR.
-- Los artículos científicos ahora también son un buen lugar para descubrir Código Abierto, ya que muchas revistas científicas exigen que el código utilizado en el artículo se encuentre disponible y esté vinculado mediante un DOI.
-- Antes de usarlo, es importante evaluar el software libre en términos de funcionalidad, calidad, interoperabilidad, seguridad y restricciones de licencia o reutilización. Tu primer paso debería ser buscar un archivo README.
-- Al reutilizar software libre, utiliza la versión más reciente que cuente con soporte y pruebalo para asegurarte de que funciona como esperas. Si surgen problemas, contacta a los desarrolladores o a la comunidad de usuarios, idealmente a través de un foro público.
-- Es importante citar y reconocer el software libre que contribuye significativamente a tu trabajo, así como compartir tus experiencias de uso, tanto con los desarrolladores, como con la comunidad de usuarios.
+- El Código Abierto existe dentro de un ecosistema vasto, orgánico y distribuido. Descubrir Código Abierto depende de definir bien tus necesidades, saber dónde buscar y que las personas que lo desarrollan hayan utilizado los principios FAIR.
+- Los artículos científicos también son un buen lugar para descubrir Código Abierto, ya que ahora muchas revistas científicas exigen que el código utilizado en el artículo se encuentre disponible y esté vinculado mediante un DOI.
+- Antes de usarlo, es importante evaluar el Software Abierto en términos de funcionalidad, calidad, interoperabilidad, seguridad y restricciones de licencia o reutilización. Tu primer paso debería ser buscar un archivo README.
+- Al reutilizar Software Abierto, utiliza la versión más reciente que cuente con soporte y pruébalo para asegurarte de que funciona como esperas. Si surgen problemas, contacta a las personas que lo desarrollaron o a la comunidad usuaria, idealmente a través de un foro público.
+- Es importante citar y reconocer el Software Abierto que contribuye significativamente a tu trabajo, así como compartir tus experiencias de uso, tanto con quienes desarrollan software, como con la comunidad usuaria.
 
-## Lección 2: comprobación de conocimientos
+## Lección 2: Evaluación
 
-Responde las siguientes preguntas para evaluar lo que has aprendido hasta ahora.
+Responde las siguientes preguntas para poner a prueba lo que has aprendido hasta ahora.
 
 _Pregunta_
 
 **01/03**
 
-El éxito en descubrir software libre depende de lo siguiente:
+El éxito en descubrir Software Abierto depende de lo siguiente:
 
-Selecciona todas opciones que apliquen.
+Selecciona todas las opciones que apliquen.
 
 - Requisitos bien definidos
 - Saber dónde buscar
-- El Software Abierto que aplica principios FAIR existe para satisfacer sus necesidades
+- El Software Abierto que aplica principios FAIR existe para satisfacer tus necesidades
 - Todas las anteriores
 
 _Pregunta_
@@ -401,7 +401,7 @@ _Pregunta_
 
 Lee la afirmación y decide si es verdadera o falsa:
 
-_Es mejor contactar a los desarrolladores de software de acceso abierto por comunicación privada si encuentras problemas._
+_Es mejor contactar a quienes desarrollan software de acceso abierto por comunicación privada si encuentras problemas._
 
 - Verdadero
 - Falso
