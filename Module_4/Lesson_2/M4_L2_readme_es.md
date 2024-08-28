@@ -44,7 +44,8 @@ Descubrir Software Abierto depende de que las personas que lo desarrollen hagan 
 - El software debe ser descrito con metadatos enriquecidos, accesibles e indexables.
 - El software debe poder encontrarse desde todos los puntos de búsqueda relevantes.
 
-Referencia: "Principios Rectores FAIR para la gestión y custodia de datos científicos" Wilkinson, M. D. et al. [The FAIR Guiding Principles for scientific data management and stewardship](https://www.nature.com/articles/sdata201618). Sci Data 3, 160018 (2016). Véase también el Módulo 1.
+Fuente: "[Principios Rectores FAIR para la gestión y custodia de datos científicos](https://www.nature.com/articles/sdata201618)" (en inglés).
+Wilkinson, M. D. et al. The FAIR Guiding Principles for scientific data management and stewardship. Sci Data 3, 160018 (2016). Véase también el Módulo 1.
 
 Sin embargo, puedes tener necesidades más específicas. En las siguientes secciones se describen otras formas de descubrir software que satisfaga las necesidades específicas de la investigación.
 
