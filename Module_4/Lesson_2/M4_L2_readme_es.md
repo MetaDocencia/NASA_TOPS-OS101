@@ -177,11 +177,11 @@ La mayoría de los códigos de investigación deberían ser software de Código 
 
 Estos son algunos enlaces a repositorios específicos de la NASA que pueden ser de tu interés:
 
-- [Software de Código Abierto de la NASA](https://code.nasa.gov/)
-- [APIs abiertas de la NASA](https://api.nasa.gov/)
-- [Science Discovery Engine - Sistema de datos astrofísicos](https://sciencediscoveryengine.nasa.gov/app/nasa-sba-smd/)
-- [Portal para personas desarrolladoras de Earthdata](https://www.earthdata.nasa.gov/engage/open-data-services-and-software/api)
-  [Centro de Modelización y Análisis de Exoplaneta](https://www.earthdata.nasa.gov/engage/open-data-services-and-software/api)
+- [Software de Código Abierto de la NASA](https://code.nasa.gov/) (en inglés)
+- [APIs abiertas de la NASA](https://api.nasa.gov/) (en inglés)
+- [Science Discovery Engine - Sistema de datos astrofísicos](https://sciencediscoveryengine.nasa.gov/app/nasa-sba-smd/) (en inglés)
+- [Portal para personas desarrolladoras de Earthdata](https://www.earthdata.nasa.gov/engage/open-data-services-and-software/api) (en inglés)
+  [Centro de Modelización y Análisis de Exoplaneta](https://www.earthdata.nasa.gov/engage/open-data-services-and-software/api) (en inglés)
 
 ## Evaluar Código y software Abiertos
 
