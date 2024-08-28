@@ -3,7 +3,7 @@
 ## Contenidos
 
 - [Historias de éxito](#historias-de-éxito)
-- [Definición y consideraciones sobre los datos abiertos](./Lesson_1#definición-y-consideraciones-sobre-los-datos-abiertos)
+- [Definición y consideraciones sobre los Datos Abiertos](./Lesson_1#definición-y-consideraciones-sobre-los-datos-abiertos)
 - [Principios, beneficios, y desafíos](./Lección_1#principios-beneficios-y-desafíos)
 - [Cuándo no compartir](#cuando-no-compartir)
 - [Planes de Gestión de Software (PGS)](./Lección_1#planes-de-gestión-de-software-pgs)
