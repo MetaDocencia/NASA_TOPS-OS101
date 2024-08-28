@@ -72,9 +72,7 @@ Aunque el modelo Isca se utilizó inicialmente para examinar la atmósfera tropi
 
 Tan sólo un año después de la primera publicación del Isca fue posible realizar nuevas investigaciones en todos estos campos. ¡Así es como nos gustaría que funcione toda la ciencia!
 
-Crédito:
-
-[https://theconversation.com/making-climate-models-open-source-makes-them-even-more-useful-90929](https://theconversation.com/making-climate-models-open-source-makes-them-even-more-useful-90929)
+Crédito: [Hacer que los modelos climáticos sean de Código Abierto los hace aún más útiles (en inglés).](https://theconversation.com/making-climate-models-open-source-makes-them-even-more-useful-90929)
 
 ## Definiciones y consideraciones del Código Abierto
 
@@ -116,7 +114,7 @@ Las personas que investigan utilizan y producen una gran variedad de programas i
 - Sistema operativo Android, entre otros
   - Puedes mirar el código fuente de Android, pero no puedes modificarlo e instalarlo en un dispositivo. Y, aunque pudieras, no podrías utilizar ninguno de los servicios estándar (por ejemplo, Google Store) con él. Así que es "abierto" en el mismo sentido que los números de la lotería de anoche son "abiertos".
 
-**Software Operativo**- El software operativo es utilizado por centros de datos y grandes instalaciones de tecnología de la información para proporcionar servicios de datos. Por ejemplo:
+**Software Operativo** - El software operativo es utilizado por centros de datos y grandes instalaciones de tecnología de la información para proporcionar servicios de datos. Por ejemplo:
 
 - [Fprime](https://nasa.github.io/fprime/) – Software de vuelo para misiones espaciales
 
@@ -137,7 +135,7 @@ Las personas que investigan utilizan y producen una gran variedad de programas i
 Por ejemplo: modelos de primeros principios, herramientas de asimilación de datos, modelos empíricos, aprendizaje de máquinas, planificación de misiones y herramientas de ingeniería, entre otros.
 
 - [OpenFOAM](https://github.com/OpenFOAM) – Software de dinámica de fluidos computacional
-- [MOM6](https://github.com/)[video] – Modelo de circulación oceánica general
+- [MOM6](https://github.com/MOMO6) – Modelo de circulación oceánica general
 - [ASPECT](https://github.com/geodynamics/aspect) – Software de convección planetaria
 - Transferencia radiativa atmosférica, evolución estelar, turbulencia oceánica superior, predicciones del viento solar, propagación orbital (por ejemplo, OpenGGCM, MESA)
 
@@ -147,7 +145,7 @@ Este software suele evolucionar a partir de software utilitario de un solo uso y
 - [Photutils](https://photutils.readthedocs.io/en/stable/index.html) – herramientas para detectar y realizar fotometría de fuentes astronómicas
 
 **Software utilitario de un solo uso** - El software utilitario de un solo uso está escrito para su uso en casos únicos, como hacer un gráfico para un artículo o manipular datos de una manera específica.
-Este código a menudo utiliza bibliotecas para análisis, visualización o lectura de datos. Este tipo de software es el más comúnmente incluido en los Planes de Gestión de Ciencia Abierta y Datos (Open Science and Data Management Plans- OSDMP), sobre los cuales hablaremos en breve. Los ejemplos incluyen:
+Este código a menudo utiliza bibliotecas para análisis, visualización o lectura de datos. Este tipo de software es el más comúnmente incluido en los Planes de Gestión de Ciencia Abierta y Datos (en inglés _Open Science and Data Management Plans - OSDMP_), sobre los cuales hablaremos en breve. Los ejemplos incluyen:
 
 - [Angus et al. 2019](https://ui.adsabs.harvard.edu/abs/2019AJ....158..173A/abstract) (en inglés) - [Ajuste de una relación giroscópica a Praesepe](https://github.com/RuthAngus/stardate/blob/master/paper/code/Fitting_Praesepe.ipynb)
 - [El telescopio espacial Webb detecta CO2 en un exoplaneta por primera vez: qué significa para encontrar vida extraterrestre](https://www.nature.com/articles/d41586-022-02350-2) (en inglés). Todos los datos y modelos presentados en esta publicación pueden consultarse [aquí](https://doi.org/10.5281/zenodo.6959427).
@@ -165,7 +163,7 @@ Los principios del Software Abierto se derivan de las mejores prácticas del sof
 | Transparencia                       | Ya sea que estemos desarrollando software o resolviendo un problema comercial, todos tenemos acceso a la información y los materiales necesarios para hacer mejor nuestro trabajo. Cuando estos materiales son accesibles, podemos basarnos en las ideas y descubrimientos de los demás. Podemos tomar decisiones más eficaces y entender cómo nos afectan esas decisiones.                                                                           |
 | Colaboración                        | Cuando tenemos la libertad de participar, podemos mejorar el trabajo de los demás de formas inesperadas. Cuando podemos modificar lo que otras personas han compartido, desbloqueamos nuevas posibilidades. Al iniciar nuevos proyectos juntos, podemos resolver problemas que nadie puede resolver solo. Y cuando aplicamos normas abiertas, permitimos que otras personas contribuyan en el futuro.                                            |
 | Compartir pronto y frecuentemente | Los prototipos rápidos pueden llevar a descubrimientos rápidos. Un enfoque iterativo conduce a mejores soluciones con mayor rapidez. Cuando tienes libertad para experimentar, puedes plantearte los problemas de formas nuevas y buscar respuestas en nuevos lugares. Puedes aprender con la práctica (aprender haciendo).                                                                                                                               |
-| Inclusivo                           | Las buenas ideas pueden venir de cualquier parte, y las mejores deberían ganar. Sólo mediante la inclusión de perspectivas diversas en nuestras conversaciones podemos estar seguros de haber identificado las mejores ideas, y los buenos responsables de la toma de decisiones buscan continuamente esas perspectivas. Puede que no funcionemos por consenso, pero el éxito del trabajo determina qué proyectos reúnen apoyo y esfuerzo de la comunidad. |
+| Inclusión                           | Las buenas ideas pueden venir de cualquier parte, y las mejores deberían ganar. Sólo mediante la inclusión de perspectivas diversas en nuestras conversaciones podemos estar seguros de haber identificado las mejores ideas, y los buenos responsables de la toma de decisiones buscan continuamente esas perspectivas. Puede que no funcionemos por consenso, pero el éxito del trabajo determina qué proyectos reúnen apoyo y esfuerzo de la comunidad. |
 | Comunidad                           | Las comunidades se forman cuando diferentes personas se unen alrededor de un propósito común. Los valores compartidos guían la toma de decisiones y los objetivos de la comunidad prevalecen sobre los intereses y agendas individuales.                                                                                                                                                                                                                               |
 
 Crédito: [El camino del Código Abierto| Opensource.com](https://opensource.com/open-source-way)
@@ -257,7 +255,7 @@ Existen razones válidas que restringen la capacidad de quien investiga para com
 
 El [manual colaborativo de ciencia de datos de The Turing Way](https://the-turing-way.netlify.app/reproducible-research/licensing) (en inglés) dice, acerca de las restricciones para compartir Código Abierto, "Como con cualquier otra cosa en la sociedad, parte de lo que puedes hacer y de lo que no puedes hacer en el desarrollo de software (o hardware) está determinado por la ley. Por lo tanto, la definición de una licencia es un aspecto importante para compartir/publicar proyectos de Código Abierto ya que da claridad para cualquiera que busque reusar un proyecto de Código Abierto. Sin una licencia, cualquiera que quiera reusarla se encontrará con una ambigüedad jurídica en cuanto al estatus de uso de tu propiedad intelectual".
 
-Para ser considerado de Código Abierto, el software requiere una licencia que cumpla con la definición de Código Abierto. Uno de los criterios de esta definición exige que las licencias de Código Abierto "[deben permitir que las modificaciones y sus derivadas, se distribuyan bajo los mismos términos que la licencia del software original](https://opensource.org/licenses/)"
+Para ser considerado de Código Abierto, el software requiere una licencia que cumpla con la definición de Código Abierto. Según la Iniciativa de Código Abierto (_Open Source Iniciative_, OSI) uno de los criterios de esta definición exige que las licencias de Código Abierto "[deben permitir que las modificaciones y sus derivadas, se distribuyan bajo los mismos términos que la licencia del software original](https://opensource.org/licenses/)" (en inglés). 
 
 En las próximas lecciones discutiremos con más detalle las licencias. A medida que trabajas en un proyecto, es posible que quieras utilizar código desarrollado por otras personas, desarrollar tu propio código y luego compartirlo. Las licencias afectan a todos los aspectos de este proceso y es importante entender cómo diferentes licencias pueden afectar tu capacidad para compartir tu código en el momento de la publicación. También es importante que tengas en cuenta cualquier requerimiento de tu institución o de quien te financia acerca de cómo licenciar tu software.
 
@@ -279,11 +277,11 @@ Los Planes de Gestión de Software abarcan tanto el código como el software.
 
 |          |                                                                                                                           |
 | -------- | ------------------------------------------------------------------------------------------------------------------------- |
-| ¿Qué?    | Qué:\*\* Descripción de la gestión, conservación y distribución de software.              |
-| ¿Cuando? | Cuándo:\*\* El cronograma para archivar y compartir software.                             |
-| ¿Dónde?  | Dónde:\*\* Ubicación donde se compartirá y archivará el software a largo plazo.           |
-| ¿Cómo?   | \*\*Habilitar reusar el software mediante la asignación de un DOI, licencia, normas de contribución, etc. |
-| ¿Quién?  | Quién:\*\* Roles, funciones y responsabilidades de quienes forman parte del equipo.               |
+| ¿Qué?    | Descripción de la gestión, conservación y distribución de software.              |
+| ¿Cuando? | El cronograma para archivar y compartir software.                             |
+| ¿Dónde?  | Ubicación donde se compartirá y archivará el software a largo plazo.           |
+| ¿Cómo?   | Habilitar reusar el software mediante la asignación de un DOI, licencia, normas de contribución, etc. |
+| ¿Quién?  | Roles, funciones y responsabilidades de quienes forman parte del equipo.               |
 
 A medida que tu investigación comienza a utilizar, crear y compartir código, el PGS proporciona una guía para todas las personsa que participan en el proyecto, con el fin de establecer un entendimiento común.
 
