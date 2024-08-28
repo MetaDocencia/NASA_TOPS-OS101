@@ -287,7 +287,7 @@ A medida que tu investigación comienza a utilizar, crear y compartir código, e
 
 ¿Tu proyecto comparte todo el código públicamente o sólo el que va a una publicación? ¿Contribuirá tu equipo a los proyectos de Código Abierto o se limitará a escribir código basado en ellos para obtener resultados? Considerar estas cuestiones desde el principio influirá en la cantidad de tiempo y energía que quieras dedicar a la documentación y en cómo piensas compartir el código.
 
-### El Código Abierto es una escala
+### El Código Abierto es un espectro
 
 Al igual que los datos, el código puede compartirse de muchas maneras diferentes para aumentar la reusabilidad. El código puede compartirse sin documentación alguna, simplemente como un artefacto de reproducibilidad, o puede estar bien escrito, documentado y con licencia abierta para maximizar su reuso. Ambos enfoques son valiosos y dependen del tiempo, la energía y la financiación que dispongan los equipos de investigación.
 
