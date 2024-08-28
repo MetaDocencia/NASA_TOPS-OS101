@@ -332,7 +332,7 @@ Selecciona todo lo que corresponda.
 
 #### Ejercicio 4
 
-Después de responder las preguntas anteriores, puedes pensar en algunos otros problemas en concreto y plantear cómo los resolverías por tu cuenta. Por ejemplo, navega hasta el repositorio que contiene el código de Astropy en GitHub u otro repositorio de tu elección, y busca los archivos README y LICENSE (licencia). Determina cómo te pondrías en contacto con quienes desarrollaron el software para solicitar ayuda, etc.
+Después de responder las preguntas anteriores, puedes pensar en algunos otros problemas en concreto y plantear cómo los resolverías por tu cuenta. Por ejemplo, navega hasta el repositorio que contiene el código de Astropy en GitHub u otro repositorio de tu elección, y busca los archivos README y LICENSE (LICENCIA). Determina cómo te pondrías en contacto con quienes desarrollaron el software para solicitar ayuda, etc.
 
 ## Citar y reconocer el uso de Código Abierto
 
@@ -360,7 +360,7 @@ En algunos casos, los términos y condiciones de la licencia de uso de un softwa
 
 ### ¿Cómo citar?
 
-Lo ideal es utilizar y citar código que esté archivado en un repositorio con políticas de preservación a largo plazo y que se identifique con un DOI. Sigue los lineamientos de las normas de citación que se proporcionan en el repositorio y que pueden aparecer en el archivo README (léeme) o CITATION (citación).
+Lo ideal es utilizar y citar código que esté archivado en un repositorio con políticas de preservación a largo plazo y que se identifique con un DOI. Sigue los lineamientos de las normas de citación que se proporcionan en el repositorio y que pueden aparecer en el archivo README (LEEME) o CITATION (CITA).
 
 Los DOI proporcionan un identificador o enlace persistente para resultados de investigación. Por ello, es preferible citar los códigos que se encuentren depositados en repositorios a largo plazo vinculados a un DOI. Las URL, por ejemplo, en Stack Overflow y de los repositorios activos, por ejemplo, en GitHub, son mutables, es decir, pueden cambiar con el tiempo y dejar de estar activas, aunque pueden utilizarse si no hay alternativa.
 
