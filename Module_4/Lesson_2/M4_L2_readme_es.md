@@ -282,85 +282,85 @@ Ten en cuenta lo siguiente cuando selecciones entre múltiples versiones de un s
 | Determina el origen de la versión que deseas utilizar | Determina si la versión que quieres utilizar procede de un proyecto de Código Abierto modificado o de su fuente original. Con esta información determina qué fuente es más apropiada para tu proyecto.                                                                                                                                                                                                                                                                             |
 | Comprueba problemas y errores (_bugs_)                     | Comprueba si la versión que has seleccionado presenta problemas o errores de programación conocidos. Encuentra información actualizada sobre esto consultando las notas adjuntas de la versión, el sistema de seguimiento de incidentes y los foros de comunidades de desarrollo.                                                                                                                                                                                    |
 
-### Resuelve los problemas en software reutilizado
+### Resolver problemas en la reutiliación de software 
 
 - Implementa pruebas para verificar que el software funciona como esperas en tu aplicación.
-- Si tienes problemas, consulta las notas adjuntas de la versión, al sistema de seguimiento de incidentes y/o a los foros de usuarios y desarrolladores.
+- Si tienes problemas, consulta las notas adjuntas de la versión, el sistema de seguimiento de incidentes y/o a los foros de usuarios y desarrolladores.
 - No tengas miedo de pedir ayuda a tus colegas con experiencia.
-- Es mejor buscar y obtener ayuda en un foro público que en medio privado (por ejemplo, por correo electrónico). Parte del propósito de la Ciencia Abierta consiste en trabajar abiertamente. A menudo, a través de una búsqueda, puedes descubrir que otros usuarios tienen preguntas similares. Puede que alguien ya haya ofrecido una solución. Si no es el caso, es probable que otros se beneficien de que tu pregunta se responda en público.
+- Es mejor buscar y obtener ayuda en un foro público que en un medio privado (por ejemplo, por correo electrónico). Parte del propósito de la Ciencia Abierta consiste en trabajar abiertamente. Muchas veces, a través de una búsqueda, puedes descubrir que otros usuarios tienen preguntas similares. Puede que alguien ya haya ofrecido una solución. Si no es el caso, es probable que otros se beneficien de la respuesta pública a tu pregunta. 
 
-### Actividad 2.1: Maneras de obtener ayuda para utilizar software libre
+### Actividad 2.1: Maneras de obtener ayuda al usar Software Abierto
 
-En esta actividad se pide que selecciones de una lista las formas de resolver algunos problemas habituales que surgen al utilizar software libre.
+En esta actividad te pedimos que selecciones las formas de resolver algunos problemas habituales que surgen al utilizar software libre en una lista.
 
 #### Ejercicio 1
 
-Selecciona cómo puedes resolver este problema al utilizar software libre: Dificultad para encontrar Software Abierto que satisfaga sus necesidades.
+Selecciona cómo podrías resolver este problema que se presenta al utilizar Software Abierto: Dificultad para encontrar Software Abierto que satisfaga tus necesidades.
 
-Seleccione todo lo que corresponda.
+Selecciona todas las opciones que correspondan.
 
-- Ponerse en contacto con colegas expertos
-- Leer bibliografía revisada por expertos
-- Realizar una búsqueda en varios repositorios populares
-- Leer el archivo README
-- Leer la licencia que posee el archivo
+- Contacta a colegas y personas expertas
+- Lee bibliografía revisada por personas expertas
+- Realiza una búsqueda en varios repositorios populares
+- Lee el archivo README
+- Lee la licencia del archivo
 
 #### Ejercicio 2
 
-Selecciona la manera en que podrías resolver un problema que se presente al utilizar Software Abierto sobre el caso: dificultades de instalación.
+Selecciona cómo podrías resolver este problema que se presenta al utilizar Software Abierto: Dificultades de instalación.
 
-Seleccione todo lo que corresponda.
+Selecciona todas las opciones que correspondan.
 
-- Contactar con los desarrolladores del software en un foro público
-- Leer bibliografía revisada por expertos
-- Realizar una búsqueda en varios repositorios populares
-- Leer el archivo README
-- Leer la licencia que posee el archivo
+- Contacta con quienes desarrollaron el software en un foro público
+- Lee bibliografía revisada por personas expertas
+- Realiza una búsqueda en varios repositorios populares
+- Lee el archivo README
+- Lee la licencia del archivo
 
 #### Ejercicio 3
 
-Selecciona la manera en que puedes resolver el siguiente problema, el cual se puede presentar al usar software libre: el software no funciona como se esperaba.
+Selecciona cómo podrías resolver este problema que se presenta al utilizar Software Abierto: El software no funciona como se esperaba.
 
-Seleccione todo lo que corresponda.
+Selecciona todo lo que corresponda.
 
-- Contactar con los desarrolladores del software en un foro público
-- Leer bibliografía revisada por expertos
-- Realizar una búsqueda en varios repositorios populares
-- Leer el archivo README
-- Leer la licencia que posee el archivo
-- Consultar las notas sobre la versión, los sistemas de seguimiento de incidentes y los foros públicos
+- Contacta con quienes desarrollaron el software en un foro público
+- Lee bibliografía revisada por personas expertas
+- Realiza una búsqueda en varios repositorios populares
+- Lee el archivo README
+- Lee la licencia del archivo
+- Consulta las notas sobre la versión, los sistemas de seguimiento de incidentes y los foros públicos
 
 #### Ejercicio 4
 
-Después de responder las preguntas anteriores, puedes pensar en algunos otros problemas en concreto y plantear cómo los resolverías por tu cuenta. Por ejemplo, navega hasta el repositorio que contiene el código de astropy en GitHub u otro repositorio de tu elección, y busca los archivos README y LICENSE. Determina cómo te pondrías en contacto con los desarrolladores del software para solicitar ayuda, etc.
+Después de responder las preguntas anteriores, puedes pensar en algunos otros problemas en concreto y plantear cómo los resolverías por tu cuenta. Por ejemplo, navega hasta el repositorio que contiene el código de Astropy en GitHub u otro repositorio de tu elección, y busca los archivos README y LICENSE (licencia). Determina cómo te pondrías en contacto con quienes desarrollaron el software para solicitar ayuda, etc.
 
 ## Citar y reconocer el uso de Código Abierto
 
-Imagina haber usado Código Abierto encontrado en la web y que esto ha implicado ser de gran ayuda para el desarrollo de tu proyecto de investigación. ¿Cómo deberías de darle crédito?
+Imagina haber usado Código Abierto encontrado en la web y que esto significó ser de gran ayuda para el desarrollo de tu proyecto de investigación. ¿Cómo deberías de darle crédito?
 
-**Ejemplo:** Has conseguido aplicar un modelo general de turbulencia oceánica (GOTM por sus siglas en inglés) para aprender algo nuevo sobre la turbulencia oceánica en el Océano Antártico, o has conseguido calcular un periodograma de Lomb-Scargle utilizando Astropy. He aquí algunas cuestiones a tener en cuenta:
+**Ejemplo:** Has conseguido aplicar un Modelo General de Turbulencia Oceánica (GOTM por sus siglas en inglés) para aprender algo nuevo sobre la turbulencia oceánica en el Océano Antártico, o has conseguido calcular un periodograma de Lomb-Scargle utilizando Astropy. Aquí te dejamos algunas cuestiones a tener en cuenta:
 
 ### ¿Debes citar el Código Abierto?
 
-Cita cualquier código que consideres haya contribuido a tu investigación:
+Cita cualquier código que consideres que contribuyó a tu investigación:
 
-- ¿Ha desempeñado el código un papel fundamental en tu investigación?
-- ¿Aportaba el código algo novedoso?
+- ¿El código desempeñó un papel fundamental en tu investigación?
+- ¿El código aportó algo novedoso?
 
-En la mayoría de los casos un fragmento de código, por ejemplo, encontrado en Stack Overflow no constituye una contribución de investigación citable. Sin embargo, un autor puede decidir citarlo si lo desea.
+En la mayoría de los casos un fragmento de código, por ejemplo, encontrado en Stack Overflow no constituye una contribución de investigación citable. Sin embargo, la persona autora puede decidir citarlo si lo desea.
 
 Entre los casos en que el código compartido repercute directamente en los resultados científicos y requiere una descripción detallada figuran:
 
 - Simulación o modelado numérico
 - Análisis automatizados, como el tratamiento de imágenes o el reconocimiento óptico
 
-Consulta una revista en la que has publicado, o en alguna sobre el tema, y busca si contiene instrucciones específicas sobre cómo citar software (por ejemplo, [AAS Software Citation Suggestions] (https://journals.aas.org/news/software-citation-suggestions/)).
+Consulta la revista en la que publicas, u otra sobre el tema, y busca si contiene instrucciones específicas sobre cómo citar software (por ejemplo, [AAS Software Citation Suggestions] (https://journals.aas.org/news/software-citation-suggestions/)).
 
-En algunos casos, los términos y condiciones de la licencia de uso de un software exigen que este sea reconocido mediante su cita en las referencias o bibliografía de cualquier publicación producto de una investigación que haya hecho uso del programa.
+En algunos casos, los términos y condiciones de la licencia de uso de un software exigen que éste sea reconocido mediante su cita en las referencias o bibliografía de cualquier publicación producto de una investigación que haya hecho uso del programa.
 
 ### ¿Cómo citar?
 
-Lo ideal es utilizar y citar código que esté archivado en un repositorio con políticas de preservación a largo plazo y que se identifique con un DOI. Sigue los lineamientos de las normas de citación que el repositorio a largo plazo proporciona y que pueden aparecer en el archivo README o CITATION.
+Lo ideal es utilizar y citar código que esté archivado en un repositorio con políticas de preservación a largo plazo y que se identifique con un DOI. Sigue los lineamientos de las normas de citación que se proporcionan en el repositorio y que pueden aparecer en el archivo README o CITATION (citación).
 
 Los DOI proporcionan un identificador o enlace persistente para resultados de investigación. Por ello, es preferible citar los códigos que se encuentren depositados en repositorios a largo plazo vinculados a un DOI. Las URL, por ejemplo, en Stack Overflow y de los repositorios activos, por ejemplo, en GitHub, son mutables, es decir, pueden cambiar con el tiempo y dejar de estar activas, aunque pueden utilizarse si no hay alternativa.
 
