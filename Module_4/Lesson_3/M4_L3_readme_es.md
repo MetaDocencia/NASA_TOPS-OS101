@@ -1,10 +1,8 @@
-# Lección 3: Crear código abierto
+# Lección 3: Crear Código Abierto
 
 ## Contenidos
 
-- [Descripción general](#overview)
-- [Objetivos de aprendizaje](#learning-objectives)
-- [¿Cómo planificamos para crear código?](#how-do-we-plan-for-making-code)
+- [¿Cómo planificar para crear código?](#how-do-we-plan-for-making-code)
 - [Importancia del control de versiones](#importance-of-version-control)
 - [Describir nuestro código para otras personas](#describing-our-code-to-others)
 - [¿Qué licencia deberíamos elegir para nuestro código?](#what-license-should-we-choose-for-our-code)
@@ -23,10 +21,10 @@ Al completar la lección, deberías ser capaz de:
 - Describir las consideraciones clave al planificar un nuevo proyecto de software abierto.
 - Enumerar tres razones por las que los proyectos deberían usar control de versiones.
 - Explicar el propósito y recordar información general típicamente incluida en un archivo LEEME.
-- Ser capaz de seleccionar una licencia para tu código y listar las diferencias entre licencias de software de código abierto permisivas y protectoras.
+- Ser capaz de seleccionar una licencia para tu código y listar las diferencias entre licencias de software de Código Abierto permisivas y protectoras.
 - Explicar las buenas prácticas en el desarrollo de software que apoyan la transparencia, la inclusión y la reproducibilidad.
 
-## ¿Cómo planificamos la creación de código?
+## ¿Cómo planificar para crear código?
 
 El código se escribe para resolver un desafío. Esto puede abarcar desde la producción de un gráfico, hasta procesar datos de observaciones de la Tierra, o incluso modelar el Universo. Los desafíos asociados con la escritura de código pueden variar en dificultad, desde tareas más simples como el uso de hojas de cálculo hasta actividades más complejas como la creación de extensas bibliotecas y el uso de computación de alto rendimiento o en la nube. El código puede ser desarrollado de manera individual, en equipo o en comunidad. Una vez escrito, el código puede ser utilizado durante décadas o nunca más.
 
@@ -213,11 +211,11 @@ Hay una variedad de estructuras de código de ejemplo que se pueden utilizar par
 
 <img src="../images/media/image130_es.png" style="width:350px;height:auto;" />
 
-Las licencias de software de código abierto son fundamentales para cómo los científicos usan, crean y comparten código y software. Entender algunos de los matices de estas licencias es importante porque afectará el modo en que tu proyecto puede licenciar y compartir código.
+Las licencias de software de Código Abierto son fundamentales para cómo los científicos usan, crean y comparten código y software. Entender algunos de los matices de estas licencias es importante porque afectará el modo en que tu proyecto puede licenciar y compartir código.
 
 Una licencia de software es un documento legal que establece los derechos de las personas que desarrollan y usan una pieza de software.
 
-Una licencia de código abierto es un tipo de licencia de software, aprobada por la Iniciativa de Código Abierto (en inglés, _Open Source Initiative, OSI_), conforme a la Definición de Código Abierto. Una licencia de código abierto otorga permisos a cualquier persona para inspeccionar, usar, modificar y distribuir el código fuente del software para cualquier propósito.
+Una licencia de Código Abierto es un tipo de licencia de software, aprobada por la Iniciativa de Código Abierto (en inglés, _Open Source Initiative, OSI_), conforme a la Definición de Código Abierto. Una licencia de Código Abierto otorga permisos a cualquier persona para inspeccionar, usar, modificar y distribuir el código fuente del software para cualquier propósito.
 
 Las licencias aseguran que las personas que desarrollan el software reciban crédito y control sobre cómo se utiliza su trabajo. Sin licencia, se asume que el software tiene derechos de autoría y sin permisos. Las personas que programan incluyen licencias para permitir reutilizaciones.
 
@@ -240,7 +238,7 @@ Cualquier persona puede usarlo libremente.
 
 **"Licencia Pública General Reducida**
 
-Puede vincularse a bibliotecas de código abierto, y el código puede ser licenciado bajo cualquier tipo de licencia.
+Puede vincularse a bibliotecas de Código Abierto, y el código puede ser licenciado bajo cualquier tipo de licencia.
 
 **Permisivo**
 
@@ -266,9 +264,9 @@ Si una licencia no es compartida con un código, se asume por defecto que está 
 
 Para el software, la licencia se comparte en un archivo llamado LICENCIA en la parte superior del repositorio. Es una ubicación estándar que la gente sabrá que hay que mirar. No es mala práctica poner también una línea con la versión de la licencia en la parte superior de cada archivo de código, con un puntero hacia donde se podría encontrar la licencia completa.
 
-### Tipos de licencias de software de código abierto
+### Tipos de licencias de software de Código Abierto
 
-Hay dos tipos principales de licencias de código abierto. Permisiva y protectora (a veces denominada copy-left). La diferencia entre estos tipos de licencias está relacionada principalmente con el tipo de licencia que las personas usuarias del código pueden aplicar a sus obras derivadas.
+Hay dos tipos principales de licencias de Código Abierto. Permisiva y protectora (a veces denominada copy-left). La diferencia entre estos tipos de licencias está relacionada principalmente con el tipo de licencia que las personas usuarias del código pueden aplicar a sus obras derivadas.
 
 <table>
   <thead>
@@ -281,7 +279,7 @@ Hay dos tipos principales de licencias de código abierto. Permisiva y protector
     <tr>
         <td colspan="2">
             <p>La Iniciativa de Código Abierto define una licencia de software permisiva como aquella que garantiza las libertades de uso, modificación, redistribución y creación de obras derivadas. Un ejemplo de este tipo de licencia es la licencia Apache 2.0 de la Fundación de Software Apache (en inglés, _Apache Software Foundation_). Es la licencia permisiva más popular y ampliamente utilizada.</p>
-            <p>Las personas usuarias tienen una amplia libertad de reutilización bajo esta licencia. Generalmente son libres de incorporar el código en su proyecto o de utilizarlo como deseen. Las personas que utilizan un código abierto con licencia permisiva en un producto podrían volver a implementar el software de código abierto con una amplia gama de licencias, incluyendo el software patentado de código cerrado.</p>
+            <p>Las personas usuarias tienen una amplia libertad de reutilización bajo esta licencia. Generalmente son libres de incorporar el código en su proyecto o de utilizarlo como deseen. Las personas que utilizan un Código Abierto con licencia permisiva en un producto podrían volver a implementar el software de Código Abierto con una amplia gama de licencias, incluyendo el software patentado de código cerrado.</p>
         </td>
     </tr>
   </tbody>
@@ -525,7 +523,7 @@ Ya sea que se utilice software de código abierto, de código cerrado o comercia
         <th>FÁCIL DE ENCONTRAR☑</th>
         <th>ACCESIBLE</th>
         <th>INTEROPERABLE</th>
-        <th>REUTILIZABLE</th>
+        <th>REUSABLE</th>
     </tr>
   </thead>
   <tbody>
@@ -543,7 +541,7 @@ Ya sea que se utilice software de código abierto, de código cerrado o comercia
         <th>FÁCIL DE ENCONTRAR</th>
         <th>ACCESIBLE ☑</th>
         <th>INTEROPERABLE</th>
-        <th>REUTILIZABLE</th>
+        <th>REUSABLE</th>
     </tr>
   </thead>
   <tbody>
@@ -561,7 +559,7 @@ Ya sea que se utilice software de código abierto, de código cerrado o comercia
         <th>FÁCIL DE ENCONTRAR</th>
         <th>ACCESIBLE</th>
         <th>INTEROPERABLE ☑</th>
-        <th>REUTILIZABLE</th>
+        <th>REUSABLE</th>
     </tr>
   </thead>
   <tbody>
@@ -579,7 +577,7 @@ Ya sea que se utilice software de código abierto, de código cerrado o comercia
         <th>FÁCIL DE ENCONTRAR</th>
         <th>ACCESIBLE</th>
         <th>INTEROPERABLE</th>
-        <th>REUTILIZABLE ☑</th>
+        <th>REUSABLE ☑</th>
     </tr>
   </thead>
   <tbody>
