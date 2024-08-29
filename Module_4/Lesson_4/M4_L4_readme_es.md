@@ -212,7 +212,7 @@ Generar un identificador persistente para tu código es la mejor manera de hacer
 
 ### Actividad 4.2: Crear un DOI para un archivo de código de prueba
 
-Puedes crear Identificadores de Objetos Digitales (en inglés, _Digital Object Identifiers, DOIs_) para tu código que lo hacen citable. Para hacer esto, archiva un repositorio de código GitHub en Zenodo y emite un DOI para el registro.
+Puedes crear Identificadores de Objetos Digitales (en inglés, _Digital Object Identifiers, DOIs_) para hacer citable tu código. Para esto, archiva un repositorio de código GitHub en Zenodo y emite un DOI para el registro.
 
 Pasos para esta actividad:
 
@@ -220,7 +220,7 @@ Pasos para esta actividad:
 
 1. Ve a la página de inicio de sesión para [GitHub](https://github.com/) e inicia sesión. Si aún no lo has hecho, crea una cuenta de usuario gratuita.
 2. Crea un nuevo repositorio con este [enlace](https://github.com/new).
-3. Escribe un nombre breve y recordable para tu repositorio. Por ejemplo, "os-test".
+3. Escribe un nombre breve y que puedas recordar para tu repositorio. Por ejemplo, "os-test".
 4. Establece como 'Pública' la visibilidad del repositorio seleccionando esta opción debajo de la descripción del repositorio.
 5. En la siguiente sección 'Inicializar este repositorio con:' selecciona 'Añadir un archivo README'.
 6. Selecciona cualquier licencia.
@@ -239,7 +239,7 @@ Pasos para esta actividad:
 
 <img src="../images/media/zenododoi3_es.png" style="width:100%;height:auto" />
 
-4. A la derecha del nombre del repositorio que desea archivar ('os-test'), cambia el botón a Encendido (en inglés, _On_).
+4. A la derecha del nombre del repositorio que deseas archivar ('os-test'), cambia el botón a 'Encendido' (en inglés, _On_).
 5. Haz clic en el nombre del repositorio.
 6. Haz clic en el botón verde grande que tiene 'username/os-test'
 
@@ -250,28 +250,28 @@ Pasos para esta actividad:
 
 <img src="../images/media/zenododoi8_es.jpg" style="width:100%;height:auto" />
 
-9. Navega a la [Zenodo GitHub page](https://sandbox.zenodo.org/account/settings/github/) y ve el DOI para 'os-test'.
+9. Navega la página [Zenodo GitHub](https://sandbox.zenodo.org/account/settings/github/) y verifica el DOI para 'os-test'.
 10. A continuación, comparte tu DOI.
 
 <img src="../images/media/zenododoi10_es.jpg" style="width:100%;height:auto" />
 
-Zenodo archiva tu repositorio y emite un nuevo DOI cada vez que creas un nuevo [lanzamiento](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases) GitHub. Sigue los pasos en "[Administrar lanzamientos en un repositorio](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository)" para crear una nueva.
+Zenodo archiva tu repositorio y emite un nuevo DOI cada vez que creas un nuevo [lanzamiento](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases) GitHub. Sigue los pasos en "[Administrar lanzamientos en un repositorio](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository)" para crear uno nuevo.
 
 ### Hacer tu código fácil de citar
 
-La información sobre cómo citar el software puede ser añadida a su README (LÉEME) u otra documentación en tu repositorio. Otro paso útil para hacer accesible la información de citas de tu repositorio es añadir un archivo CITATION (CITA) al repositorio.
+La información sobre cómo citar el software puede ser añadida a el README (LÉEME) u otra documentación en tu repositorio. Otro paso útil para hacer accesible la información de citas de tu repositorio es añadir un archivo CITATION (CITACION) al repositorio.
 
 ### ¿Por qué usar archivos CITATION?
 
-Los archivos CITATION son un medio para hacer que la información de citas sea fácilmente accesible en repositorios de software de Código Abierto. Un [formato de archivo de citas (en inglés, _Citation File Format, CFF_)](https://citation-file-format.github.io/) es un formato estándar legible por humanos y máquinas que se ha desarrollado para los archivos CIATATION.
+Los archivos CITATION son un medio para hacer que la información de citas sea fácilmente accesible en repositorios de software de Código Abierto. Un [formato de archivo de citas (en inglés, _Citation File Format, CFF_)](https://citation-file-format.github.io/) es un formato estándar legible por humanos y máquinas que se ha desarrollado para los archivos CITATION.
 
 ### Pautas para colaborar
 
 <img src="../images/media/image419_es.png" style="width:100%;height:auto;" />
 
-Si espera que la comunidad contribuya a su software, es una buena práctica incluir archivos COLABORAR (en inglés, _CONTRIBUTING_) y CÓDIGO DE CONDUCTA (en inglés, _CODE_OF_CONDUCT_) en su repositorio que describan las expectativas para las interacciones de los participantes.
+Si esperas que la comunidad contribuya con tu software, es una buena práctica incluir archivos CONTRIBUTING (COLABORAR) y CODE_OF_CONDUCT (CÓDIGO DE CONDUCTA) en tu repositorio que describan las expectativas para las interacciones de las personas participantes.
 
-No entraremos en detalles aquí, pero puedes consultar el [repositorio GitHub del paquete Xarray](https://github.com/pydata/xarray/tree/main) para ver un buen ejemplo.
+No entraremos en detalles aquí, pero puedes consultar el [repositorio GitHub del paquete Xarray](https://github.com/pydata/xarray/tree/main) (en inglés) para ver un buen ejemplo.
 
 ## Quién: Roles y responsabilidades de las personas del equipo en la implementación del PGS
 
