@@ -1,4 +1,4 @@
-# Lección 2: Uso de Código Abierto
+# Lección 2: Usar Código Abierto
 
 ## Contenidos
 
