@@ -373,7 +373,7 @@ Pregunta
 
 - Tipos de código y software
 - Calendario para compartir software
-- Donde el software será compartido y archivado
+- Dónde el software será compartido y archivado
 - Qué licencia será asignada
 - Roles y responsabilidades de quienes forman parte del equipo
 - Todas las anteriores
