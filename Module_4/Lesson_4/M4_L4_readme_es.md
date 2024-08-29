@@ -2,24 +2,22 @@
 
 ## Contenidos
 
-- [Descripción general](#descripcion-general)
-- [Objetivos de Aprendizaje](#objetivos-de-aprendizaje)
-- [Planificación para compartir tu código](#planning-to-share-your-code)
-- [Preocupaciones legales y de seguridad](./Lesson_4#legal-and-security-concerns)
-- [Cuando: El Cronograma para Archivar y Compartir Código.](./Lesson_4#when-the-schedule-for-code-archiving-and-sharing)
-- [Dónde: Dónde Compartir Código Abierto](./Lesson_4#where-to-share-open-code)
+- [Planificar para compartir tu código](#planning-to-share-your-code)
+- [Cuestiones legales y de seguridad](./Lesson_4#legal-and-security-concerns)
+- [Cuando: El cronograma para archivar y compartir código](./Lesson_4#when-the-schedule-for-code-archiving-and-sharing)
+- [Dónde: Dónde compartir Código Abierto](./Lesson_4#where-to-share-open-code)
 - [Cómo: Cómo habilitar la reusabilidad del código](./Lesson_4#how-to-enable-reuse-of-code)
-- [Quién: Roles y Responsabilidades de los Miembros del Equipo en la Implementación del SMP](./Lesson_4#who-roles-and-responsibilities-of-the-team-members-in-implementing-the-smp)
+- [Quién: Roles y responsabilidades de las personas del equipo en la implementación del PGS](./Lesson_4#who-roles-and-responsibilities-of-the-team-members-in-implementing-the-smp)
 - [Lección 4: Resumen](#lesson-4-summary)
 - [Lección 4: Evaluación](#leccion-4-evaluacion)
 
 ## Descripción general
 
-En esta lección aprenderás los pasos para compartir el software que desarrollaste. Estos pasos incluyen determinar si el software debe compartirse, cuándo y dónde, qué funciones son necesarias y cómo permitir que otros utilicen el código.
+En esta lección aprenderás los pasos para compartir el software que desarrollaste. Estos pasos incluyen determinar si el software debe compartirse, cuándo y dónde, qué roles son necesarios y cómo permitir que otras personas utilicen el código.
 
 ## Objetivos de aprendizaje
 
-Después de completar este módulo, deberías ser capaz de:
+Al finalizar esta lección deberías ser capaz de:
 
 - Describir lo que significa compartir código: para archivar o para desarrollar código.
 - Evaluar si se debe compartir el código y enumerar las consideraciones importantes en materia de seguridad.
@@ -27,21 +25,21 @@ Después de completar este módulo, deberías ser capaz de:
 - Recordar las prácticas más habituales para ayudar a otros a reusar tu código.
 - Enumerar los roles y las responsabilidades para compartir y mantener el código compartido.
 
-## Planificación para compartir tu código
+## Planificar para compartir tu código
 
 <img src="../images/media/image540_es.png" style="width:350px;height:auto;" />
 
 Estuve trabajando en un código y ahora un nuevo colaborador quiere utilizarlo. ¡Genial! ¿Cuál es la mejor manera de compartir el código? ¿Por correo electrónico? ¿Cuándo debo compartir el código y qué debo incluir para asegurar que esta persona pueda utilizarlo fácilmente?"
 
-### ¿Qué significa "Compartir" tu código?
+### ¿Qué significa "compartir" tu código?
 
 Para compartir, existen dos categorías principales: el compartir para el desarrollo y el proporcionar un registro a largo plazo.
 
-### Desarrollo de código abierto
+### Desarrollo de Código Abierto
 
 Escribir código científico suele ser un proceso dinámico y colaborativo en el que contribuyen varias personas y el código evoluciona con el tiempo. En este tipo de proyectos, es beneficioso desarrollar código abierto en una plataforma pública de alojamiento de repositorios como GitHub, Bitbucket, GitLab, etc. desde el principio del proyecto. Esto garantiza que todas las actualizaciones se compartan abiertamente en la web y puedan llegar a colaboradores y usuarios potencialmente interesados casi en tiempo real.
 
-### Archivado Código Abierto
+### Archivado de Código Abierto
 
 El archivado garantiza que tu código científico sea accesible a largo plazo y pueda cumplir con los requisitos de archivado de organismos de financiación e instituciones. La accesibilidad a largo plazo ayuda a otros a reproducir tus resultados mucho tiempo después de tu publicación. El archivado por sí solo no fomenta el desarrollo continuo ni la colaboración. Se trata de preservar el software de forma estática y a largo plazo, no de hacerlo evolucionar.
 
@@ -55,7 +53,7 @@ Hay varias cuestiones legales y de seguridad que hay que tener en cuenta a la ho
 
 En cambio, si el software se desarrolló con financiación externa (del gobierno), algunos organismos de financiamiento pueden exigir que el software se comparta abiertamente.
 
-### Plan de gestión de software (PGS)
+### Plan de Gestión de Software (PGS)
 
 ¿Recuerdas las partes del Plan de Gestión de Software? ¿Qué debemos tener en cuenta a la hora de compartir?
 
@@ -116,9 +114,9 @@ En cambio, si el software se desarrolló con financiación externa (del gobierno
   </tbody>
 </table>
 
-### Compartir programas informáticos creados con fondos de organismos de los Estados Unidos
+### Compartir software creadl con fondos de una agencia de los Estados Unidos
 
-Muchos organismos federales ya permiten (si no exigen) compartir el código creado en el marco de sus programas de subsidios. Por ejemplo:
+Muchas agencias federales ya permiten (si no exigen) compartir el código creado en el marco de sus programas de subsidios. Por ejemplo:
 
 - [NASA](https://www.nasa.gov/open/open-source-development.html) "...estamos llegando activamente a proyectos dentro de la NASA para hacer uso de ...recursos para publicar código abierto."
 - [Departamento de Comercio de los EE.UU.](https://www.commerce.gov/about/policies/source-code) "...requiere que las organismos desarrollen planes para liberar al menos el 20 por ciento del nuevo código fuente desarrollado a medida como Software de Código Abierto (OSS) al encargar un nuevo software hecho a medida."
@@ -126,7 +124,7 @@ Muchos organismos federales ya permiten (si no exigen) compartir el código crea
 
 ¿Recibes dinero de un subsidio? Lee la convocatoria original del subsidio para ver si te permite/requiere la publicación del código y comprueba si contiene algún texto sobre la gestión del software y alguna condición para publicar el código. En caso de duda, ponte en contacto con tu institución para obtener información adicional.
 
-### Actividad 4.1: Encuentra las Políticas de Publicación de Software de tu Institución
+### Actividad 4.1: Encuentra las políticas de publicación de software de tu institución
 
 <img style="width:350px;height:auto;" src="../images/media/lightbulb_es.png">
 
@@ -142,7 +140,7 @@ Supongamos que desea iniciar un nuevo proyecto de código abierto:
 
 Las políticas de liberación de software difieren según la organización y cada pieza de software es diferente. Por lo tanto, es importante que no hagamos suposiciones sobre las políticas de publicación de software basadas en experiencias anteriores.
 
-## Cuándo:\*\* El cronograma para archivar y compartir software
+## Cuándo: El cronograma para archivar y compartir código
 
 Planear para compartir tu código al comienzo de tu proyecto hace que compartir sea más fácil cuando estés listo. Exactamente cuando en tu flujo de trabajo decides compartir públicamente tu código depende de tu trabajo y de los requisitos de la agencia de financiación, organización, o publicador.
 
@@ -156,7 +154,7 @@ El software científico necesario para validar las conclusiones científicas de 
 
 Otras organizaciones pueden tener orientaciones diferentes, por lo que siempre es mejor comprobar lo que exige la agencia u organización financiadora.
 
-## Donde: Donde Compartir Código Abierto
+## Donde: Donde compartir Código Abierto
 
 ### Consideraciones generales
 
@@ -172,7 +170,7 @@ En primer lugar, considere las políticas de su institución o agencia de financ
 - Si el código abierto está en un repositorio de desarrollo en línea activo como GitHub, cree una versión y archive el código en un repositorio a largo plazo con un DOI como Zenodo, que puede integrarse con GitHub (más detalles sobre este proceso más adelante).
 - Archive el código en otros repositorios públicos a largo plazo, como Software Heritage.
 
-#### Es su código un paquete de software importante y de interés para un número signiﬁcativo de usuarios de diversas disciplinas? ¿Dónde más puede compartirse su código abierto?
+#### Es tu código un paquete de software importante y de interés para un número signiﬁcativo de usuarios de diversas disciplinas? ¿Dónde más puede compartirse tu código abierto?
 
 <img src="../images/media/image332_es.png" style="width:350px;height:auto;" />
 
@@ -188,11 +186,11 @@ No necesariamente. Se alienta a compartir en un repositorio, pero la organizaci�
 
 <img src="../images/media/image425_es.png" style="width:350px;height:auto;" />
 
-## ¿Cómo habilitar la reutilización del código?
+## Cómo: Cómo habilitar la reusabilidad del código
 
 Ahora que has compartido tu código de la forma adecuada, es importante considerar si has facilitado a otros participantes (o a tu yo del futuro) la reutilización de tu código.
 
-### Asignando una Licencia
+### Asignar una licencia
 
 Como recordarás de la lección anterior, asignar una licencia adecuada es necesario para que otras personas sepan cómo utilizar tu código.
 
@@ -204,7 +202,7 @@ Elige la licencia de uso compartido de software adecuada que cumpla con los requ
 
 Asegúrate de que tu repositorio de GitHub sea público, para que cualquiera pueda realizar búsquedas en él.
 
-### Haciendo el código citable
+### Hacer el código citable
 
 No todo el código tiene que ser citable. Cuando se publica de forma independiente, sin embargo, existen algunas prácticas recomendadas sobre cómo hacer que tu código sea citable.
 
@@ -212,7 +210,7 @@ Añadir el código a un repositorio de GitHub no es suficiente para archivar có
 
 Producir un identificador persistente para tu código es la mejor manera de hacerlo citable. Esto podría hacerse mediante una publicación revisada por pares que describa el software o archivando el software en un repositorio a largo plazo que produzca un DOI o un identificador similar. Para el código compartido en GitHub, un [DOI se puede producir fácilmente para cada versión del software de Zenodo.](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content#issuing-a-persistent-identifier-for-your-repository-with-zenodo)
 
-### Actividad 4.2: Crear un DOI para un Archivo de Código de Prueba
+### Actividad 4.2: Crear un DOI para un archivo de código de prueba
 
 Puedes crear Identificadores de Objetos Digitales (en inglés, _Digital Object Identifiers, DOIs_) para tu código que lo hacen citable. Para hacer esto, archiva un repositorio de código GitHub en Zenodo y emite un DOI para el registro.
 
@@ -259,15 +257,15 @@ Pasos para esta actividad:
 
 Zenodo archiva tu repositorio y emite un nuevo DOI cada vez que creas un nuevo [lanzamiento](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases) GitHub. Sigue los pasos en "[Administrar lanzamientos en un repositorio](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository)" para crear una nueva.
 
-### Haciendo Fácil Citar tu Código
+### Hacer tu código fácil de citar
 
-La información sobre cómo citar el software puede ser añadida a su LÉEME (en inglés, _README_) u otra documentación en tu repositorio. Otro paso útil para hacer accesible la información de citas de tu repositorio es añadir un archivo CITACIÓN (en inglés _CITATION_) al repositorio.
+La información sobre cómo citar el software puede ser añadida a su README (LÉEME) u otra documentación en tu repositorio. Otro paso útil para hacer accesible la información de citas de tu repositorio es añadir un archivo CITATION (CITA) al repositorio.
 
-### ¿Por qué usar archivos CITACIÓN?
+### ¿Por qué usar archivos CITATION?
 
-Los archivos CITACIÓN son un medio para hacer que la información de citas sea fácilmente accesible en repositorios de software de código abierto. Un [formato de archivo de citas (en inglés, _Citation File Format, CFF_)](https://citation-file-format.github.io/) es un formato estándar legible por humanos y máquinas que se ha desarrollado para los archivos CITACIÓN.
+Los archivos CITATION son un medio para hacer que la información de citas sea fácilmente accesible en repositorios de software de código abierto. Un [formato de archivo de citas (en inglés, _Citation File Format, CFF_)](https://citation-file-format.github.io/) es un formato estándar legible por humanos y máquinas que se ha desarrollado para los archivos CIATATION.
 
-### Pautas para Colaborar
+### Pautas para colaborar
 
 <img src="../images/media/image419_es.png" style="width:100%;height:auto;" />
 
@@ -275,7 +273,7 @@ Si espera que la comunidad contribuya a su software, es una buena práctica incl
 
 No entraremos en detalles aquí, pero puedes consultar el [repositorio GitHub del paquete Xarray](https://github.com/pydata/xarray/tree/main) para ver un buen ejemplo.
 
-## ¿Cuáles son los roles y las responsabilidades de quienes participan del equipo en la implementación del PGS?
+## Quién: Roles y responsabilidades de las personas del equipo en la implementación del PGS
 
 Cuando se escribe un Plan de Gestión de Software (PGS) (en inglés, _Software Management Plan, SMP_), es importante incluir un plan para los roles y responsabilidades necesarios para compartir y (si corresponde) mantener tu código. Tu comunidad estará formada por personas con diferentes roles: algunos participarán activamente, otras sólo tendrán un interés pasajero. A veces, una sola persona puede desempeñar fácilmente varias funciones (por ejemplo, si sólo estás archivando una pieza de código).
 
@@ -327,13 +325,13 @@ En esta lección, aprendiste los pasos clave para compartir software abierto:
 
 ## Lección 4: Evaluación
 
-Responde las siguientes preguntas para poner a prueba lo que ha aprendido hasta ahora.
+Responde las siguientes preguntas para poner a prueba lo que has aprendido hasta ahora.
 
 _Pregunta_
 
 **01/06**
 
-Lee la siguiente afirmación e indica si es verdadera o falsa:
+Lee la siguiente afirmación y decide si es verdadera o falsa:
 
 _No necesito compartir mi código si no tengo intención de seguir desarrollándolo._
 
@@ -344,7 +342,7 @@ _Pregunta_
 
 **02/06**
 
-Lee la siguiente afirmación e indica si es verdadera o falsa:
+Lee la siguiente afirmación y decide si es verdadera o falsa:
 
 _Añadir el código a un repositorio de GitHub es suficiente para archivar mi código._
 
@@ -355,7 +353,7 @@ _Pregunta_
 
 **03/06**
 
-Lee la siguiente afirmación e indica si es Verdadera o Falsa:
+Lee la siguiente afirmación y decide si es verdadera o falsa:
 
 _Las políticas de uso compartido de software de organizaciones y gobiernos siguen una práctica estándar._
 
@@ -366,9 +364,9 @@ _Pregunta_
 
 **04/06**
 
-Lee la siguiente afirmación e indica si es verdadera o falsa:
+Lee la siguiente afirmación y decide si es verdadera o falsa:
 
-_Publicar tu software en un repositorio de software utilizado por los gestores de paquetes habituales facilita a las personas usuarias la instalación de su software._
+_Publicar tu software en un repositorio de software utilizado por los gestores de paquetes habituales facilita a las personas usuarias la instalación de tu software._
 
 - Verdadero
 - Falso
@@ -377,11 +375,11 @@ _Pregunta_
 
 **05/06**
 
-¿Cuáles de las siguientes, si las hay, son formas en las que puedes ayudar a otras personas a reutilizar tu código? Selecciona todas los que correspondan.
+¿Cuáles de las siguientes, si las hay, son formas en las que puedes ayudar a otras personas a reutilizar tu código? Selecciona todas las que correspondan.
 
 - Asignar una licencia adecuada
-- Añadir un archivo llamado "CONTRIBUCIÓN" con pautas para las personas que colaboran
-- Añadir un archivo "CITACIÓN" con información de citas
+- Añadir un archivo llamado "CONTRIBUTION" (contribución) con pautas para las personas que colaboran
+- Añadir un archivo "CITATION" (cita) con información de citas
 
 _Pregunta_
 
