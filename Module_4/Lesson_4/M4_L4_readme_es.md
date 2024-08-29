@@ -1,10 +1,10 @@
-# Lección 4: Compartir Código abierto
+# Lección 4: Compartir Código Abierto
 
 ## Contenidos
 
 - [Planificar para compartir tu código](#planning-to-share-your-code)
 - [Cuestiones legales y de seguridad](./Lesson_4#legal-and-security-concerns)
-- [Cuando: El cronograma para archivar y compartir código](./Lesson_4#when-the-schedule-for-code-archiving-and-sharing)
+- [Cuándo: El cronograma para archivar y compartir código](./Lesson_4#when-the-schedule-for-code-archiving-and-sharing)
 - [Dónde: Dónde compartir Código Abierto](./Lesson_4#where-to-share-open-code)
 - [Cómo: Cómo habilitar la reusabilidad del código](./Lesson_4#how-to-enable-reuse-of-code)
 - [Quién: Roles y responsabilidades de las personas del equipo en la implementación del PGS](./Lesson_4#who-roles-and-responsibilities-of-the-team-members-in-implementing-the-smp)
@@ -13,7 +13,7 @@
 
 ## Descripción general
 
-En esta lección aprenderás los pasos para compartir el software que desarrollaste. Estos pasos incluyen determinar si el software debe compartirse, cuándo y dónde, qué roles son necesarios y cómo permitir que otras personas utilicen el código.
+En esta lección aprenderás los pasos para compartir el software que desarrollaste. Estos pasos incluyen determinar si el software debe compartirse, cuándo y dónde, qué roles son necesarios para gestionarlo y cómo permitir que otras personas utilicen el código.
 
 ## Objetivos de aprendizaje
 
@@ -21,47 +21,47 @@ Al finalizar esta lección deberías ser capaz de:
 
 - Describir lo que significa compartir código: para archivar o para desarrollar código.
 - Evaluar si se debe compartir el código y enumerar las consideraciones importantes en materia de seguridad.
-- Describir las mejores prácticas para cuándo y dónde compartir código.
-- Recordar las prácticas más habituales para ayudar a otros a reusar tu código.
+- Describir las mejores prácticas sobre cuándo y dónde compartir código.
+- Recordar las prácticas más habituales para ayudar a otras personas a reusar tu código.
 - Enumerar los roles y las responsabilidades para compartir y mantener el código compartido.
 
 ## Planificar para compartir tu código
 
 <img src="../images/media/image540_es.png" style="width:350px;height:auto;" />
 
-Estuve trabajando en un código y ahora un nuevo colaborador quiere utilizarlo. ¡Genial! ¿Cuál es la mejor manera de compartir el código? ¿Por correo electrónico? ¿Cuándo debo compartir el código y qué debo incluir para asegurar que esta persona pueda utilizarlo fácilmente?"
+"Estuve trabajando en el código y ahora un nuevo colaborador quiere usarlo. ¡Genial! ¿Cuál es la mejor manera de compartir el código? ¿Por correo electrónico? ¿Cuándo debo compartir el código y qué debo incluir para asegurar que esta persona pueda utilizarlo fácilmente?"
 
 ### ¿Qué significa "compartir" tu código?
 
-Para compartir, existen dos categorías principales: el compartir para el desarrollo y el proporcionar un registro a largo plazo.
+Para compartir, existen dos categorías principales: compartir para el desarrollo y proporcionar un registro a largo plazo (archivado).
 
 ### Desarrollo de Código Abierto
 
-Escribir código científico suele ser un proceso dinámico y colaborativo en el que contribuyen varias personas y el código evoluciona con el tiempo. En este tipo de proyectos, es beneficioso desarrollar código abierto en una plataforma pública de alojamiento de repositorios como GitHub, Bitbucket, GitLab, etc. desde el principio del proyecto. Esto garantiza que todas las actualizaciones se compartan abiertamente en la web y puedan llegar a colaboradores y usuarios potencialmente interesados casi en tiempo real.
+Escribir código científico suele ser un proceso dinámico y colaborativo en el que contribuyen varias personas y el código evoluciona con el tiempo. En este tipo de proyectos, es beneficioso desarrollar Código Abierto en una plataforma pública de alojamiento de repositorios como GitHub, Bitbucket, GitLab, etc. desde el principio del proyecto. Esto garantiza que todas las actualizaciones se compartan abiertamente en la web y puedan llegar a quienes buscan colaborar y a potenciales personas usarias casi en tiempo real.
 
 ### Archivado de Código Abierto
 
-El archivado garantiza que tu código científico sea accesible a largo plazo y pueda cumplir con los requisitos de archivado de organismos de financiación e instituciones. La accesibilidad a largo plazo ayuda a otros a reproducir tus resultados mucho tiempo después de tu publicación. El archivado por sí solo no fomenta el desarrollo continuo ni la colaboración. Se trata de preservar el software de forma estática y a largo plazo, no de hacerlo evolucionar.
+Archivar el código garantiza que sea accesible a largo plazo y pueda cumplir con los requisitos de archivo de organismos de financiación e instituciones. La accesibilidad a largo plazo ayuda a otras personas a reproducir tus resultados mucho tiempo después de tu publicación. El archivado por sí solo no fomenta el desarrollo continuo ni la colaboración. Se trata de preservar el software de forma estática y a largo plazo, no de hacerlo evolucionar.
 
 ### ¿Deberías compartir tu software?
 
-Hay varias cuestiones legales y de seguridad que hay que tener en cuenta a la hora de crear o usar software abierto.
+Hay varias cuestiones legales y de seguridad que hay que tener en cuenta a la hora de crear o usar Software Abierto.
 
-- Por lo general, cualquier software que crees se considera propiedad intelectual y puede estar controlado por las políticas de tu institución.
-- Tales políticas pueden influir en cuán abiertamente se puede compartir el software y, por lo tanto, su licencia.
-- La descarga y contribución a proyectos de software libre puede estar regulada por las políticas de seguridad informática de tu institución.
+- Por lo general, cualquier software que crees se considera propiedad intelectual y puede estar controlado por las políticas de tu institución u organización.
+- Tales políticas pueden influir en cuán abiertamente se puede compartir el software y, por lo tanto, en su licencia.
+- La descarga y contribución a proyectos de Software Abierto pueden estar reguladas por las políticas de seguridad informática de tu institución.
 
-En cambio, si el software se desarrolló con financiación externa (del gobierno), algunos organismos de financiamiento pueden exigir que el software se comparta abiertamente.
+En cambio, si el software se desarrolló con financiación externa (por ej. gubernamental), algunos organismos de financiamiento pueden exigir que el software se comparta abiertamente.
 
 ### Plan de Gestión de Software (PGS)
 
 ¿Recuerdas las partes del Plan de Gestión de Software? ¿Qué debemos tener en cuenta a la hora de compartir?
 
-- **Qué:** Descripción de la gestión, conservación y distribución de software.
+- **Qué:** Descripción de la gestión, conservación y distribución del software.
 - **Cuándo:** El cronograma para archivar y compartir software.
 - **Dónde:** Ubicación donde se compartirá y archivará el software a largo plazo.
-- **Cómo:** Habilitar la reutilización del software mediante la asignación de un DOI, licencia, directrices de contribución, etc.
-- **Quién:** Roles, funciones y responsabilidades de los miembros del equipo.
+- **Cómo:** Habilitar la reusabilidad del software mediante la asignación de un DOI, licencia, pautas de contribución, etc.
+- **Quién:** Roles, funciones y responsabilidades de las personas que participan del equipo.
 
 ## Cuestiones legales y de seguridad
 
@@ -75,16 +75,16 @@ En cambio, si el software se desarrolló con financiación externa (del gobierno
   <tbody>
     <tr>
         <td colspan="2">
-            <p>Todo aquel que escriba código y software de investigación debe familiarizarse con las políticas de su institución en materia de compartir y publicar software. Las organismos de financiamiento, gubernamentales o privados, pueden tener requisitos estrictos en cuanto a software abierto. En otras ocasiones, la institución puede no permitir que se comparta el software.</p>
+            <p>Todo aquel que escriba código y software de investigación debe familiarizarse con las políticas de su institución en materia de compartir y publicar software. Los organismos de financiamiento, gubernamentales o privados, pueden tener requisitos estrictos en cuanto a Software Abierto. En otras ocasiones, la institución puede no permitir que se comparta el software.</p>
             <p>Las cuestiones legales pueden incluir preguntas como:</p>
             <ul>
-                <li>¿Es un desarrollador o una institución el propietario del software?</li>
-                <li>¿El compartir (o no compartir) el software viola las políticas del organismo de financiamiento?</li>
-                <li>¿Existen leyes o normas en tu zona que regulen compartir la propiedad intelectual?</li>
+                <li>¿El propietario del software es la persona que desarrolla o una institución?</li>
+                <li>Compartir (o no compartir) el software ¿viola las políticas del organismo de financiamiento?</li>
+                <li>¿Existen leyes o normas locales que regulen el acto de compartir propiedad intelectual?</li>
                 <li>¿Qué licencia de software se necesita?</li>
             </ul>
-            <p><strong>Cuando decidas participar o iniciar un nuevo proyecto de software libre, familiarízate con las políticas y prácticas de tu institución.</strong></p>
-            <p>Más información sobre los aspectos legales <a href="https://opensource.guide/legal/">aquí</a>.</p>
+            <p><strong>Cuando decidas participar o iniciar un nuevo proyecto de Software Abierto, familiarízate con las políticas tecnológicas y prácticas de tu institución.</strong></p>
+            <p>Más información sobre los aspectos legales <a href="https://opensource.guide/legal/">aquí</a>, (en inglés).</p>
         </td>
     </tr>
   </tbody>
@@ -100,45 +100,45 @@ En cambio, si el software se desarrolló con financiación externa (del gobierno
   <tbody>
     <tr>
         <td colspan="2">
-            <p>La seguridad es una preocupación a la hora de compartir software. Las personas malintencionadas pueden adjuntar códigos maliciosos a los programas en un intento de infiltrarse en los sistemas informáticos a través de vulnerabilidades de seguridad, exponiendo potencialmente información sensible y privada que puede acarrear grandes pérdidas económicas a los usuarios. Los riesgos de seguridad deben tenerse en cuenta a la hora de compartir software.</p>
+            <p>La seguridad es una preocupación a la hora de compartir software. Las personas malintencionadas pueden adjuntar código malicioso a los programas en un intento de infiltrarse en los sistemas informáticos a través de vulnerabilidades de seguridad, exponiendo potencialmente información sensible y privada que puede acarrear grandes pérdidas económicas a los usuarios. Los riesgos de seguridad deben tenerse en cuenta a la hora de compartir software.</p>
             <p>Las cuestiones de seguridad pueden incluir:</p>
             <ul>
-                <li>¿La política de tecnologías de la información (TI) de tu institución permite que pongas a prueba el código que quieres usar en tu máquina?</li>
-                <li>¿Tiene buena reputación el repositorio al que quieres contribuir?</li>
-                <li>¿Hay algún problema abierto relacionado con la seguridad del código?</li>
+                <li>¿La políticas tecnológicas de tu institución permite que pongas a prueba el código que quieres usar en tu máquina?</li>
+                <li>¿El repositorio al que quieres contribuir es confiable?</li>
+                <li>¿Hay algún problema de seguridad del código reportado?</li>
             </ul>
-            <p><strong>Cuando decidas participar o iniciar un nuevo proyecto de software libre, familiarízate con las políticas informáticas de tu institución.</strong></p>
-            <p>Más información sobre los aspectos legales <a href="https://opensource.guide/legal/">aquí</a>.</p>
+            <p><strong>Cuando decidas participar o iniciar un nuevo proyecto de Software Abierto, familiarízate con las políticas informáticas de tu institución.</strong></p>
+            <p>Más información sobre los aspectos legales <a href="https://opensource.guide/legal/">aquí</a>, (en inglés).</p>
         </td>
     </tr>
   </tbody>
 </table>
 
-### Compartir software creadl con fondos de una agencia de los Estados Unidos
+### Compartir software creado con fondos públicos de los Estados Unidos
 
 Muchas agencias federales ya permiten (si no exigen) compartir el código creado en el marco de sus programas de subsidios. Por ejemplo:
 
-- [NASA](https://www.nasa.gov/open/open-source-development.html) "...estamos llegando activamente a proyectos dentro de la NASA para hacer uso de ...recursos para publicar código abierto."
-- [Departamento de Comercio de los EE.UU.](https://www.commerce.gov/about/policies/source-code) "...requiere que las organismos desarrollen planes para liberar al menos el 20 por ciento del nuevo código fuente desarrollado a medida como Software de Código Abierto (OSS) al encargar un nuevo software hecho a medida."
-- [USGS](https://www.usgs.gov/survey-manual/im-osqi-2019-01-review-and-approval-scientific-software-release) "...las versiones de software se consideran bienes de dominio público y, por lo general, están disponibles sin restricciones."
+- [NASA](https://www.nasa.gov/open/open-source-development.html) (en inglés) "...estamos llegando activamente a proyectos dentro de la NASA para hacer uso de ...recursos para publicar Código Abierto."
+- [Departamento de Comercio de los EE.UU.](https://www.commerce.gov/about/policies/source-code) (en inglés) "...exige que los organismos desarrollen planes para publicar al menos el 20 por ciento del nuevo código fuente desarrollado a medida como software de Código Abierto (en inglés _Open Source Software_ OSS) al encargar un nuevo software hecho a medida."
+- [USGS](https://www.usgs.gov/survey-manual/im-osqi-2019-01-review-and-approval-scientific-software-release) (en inglés) "...las versiones de software se consideran bienes de dominio público y, por lo general, están disponibles sin restricciones."
 
-¿Recibes dinero de un subsidio? Lee la convocatoria original del subsidio para ver si te permite/requiere la publicación del código y comprueba si contiene algún texto sobre la gestión del software y alguna condición para publicar el código. En caso de duda, ponte en contacto con tu institución para obtener información adicional.
+¿Recibes dinero de un subsidio? Lee la convocatoria original del subsidio para ver si permite o requiere la publicación del código y comprueba si contiene algún texto sobre la gestión del software y alguna condición para publicar el código. En caso de duda, ponte en contacto con tu institución para obtener información adicional.
 
 ### Actividad 4.1: Encuentra las políticas de publicación de software de tu institución
 
 <img style="width:350px;height:auto;" src="../images/media/lightbulb_es.png">
 
-Supongamos que desea iniciar un nuevo proyecto de código abierto:
+Supongamos que deseas iniciar un nuevo proyecto de Código Abierto:
 
-- Conoce las políticas de tu institución en materia de publicación de software.
-- ¿Cuál es el proceso para liberar un software?
-- ¿Alguien en su organización tiene que aprobar esta versión?
-- ¿Existen políticas con respecto a los contribuyentes externos?
-- ¿Su organización requiere una atribución o crédito específico?
+- Conoce las políticas de tu institución u organización en materia de publicación de software.
+- ¿Cuál es el proceso para publicar un software?
+- ¿Alguien de la organización tiene que aprobar este lanzamiento?
+- ¿Existen políticas con respecto a las contribuciones externas?
+- ¿Tu organización requiere una atribución o crédito específico?
 
-#### Puntos clave: Conozca las políticas de publicación de software de su organización
+#### Puntos clave: Conoce las políticas de publicación de software de tu organización
 
-Las políticas de liberación de software difieren según la organización y cada pieza de software es diferente. Por lo tanto, es importante que no hagamos suposiciones sobre las políticas de publicación de software basadas en experiencias anteriores.
+Las políticas de publicación de software difieren según la organización y cada pieza de software es diferente. Por lo tanto, es importante que no hagamos suposiciones basadas en experiencias anteriores para pensar estas políticas.
 
 ## Cuándo: El cronograma para archivar y compartir código
 
@@ -150,7 +150,7 @@ Si está escribiendo software científico para un proyecto financiado por el Dir
 
 El software científico necesario para validar las conclusiones científicas de los manuscritos revisados por pares resultantes de las actividades científicas financiadas por el SMD se pondrá a disposición del público a más tardar en la fecha de publicación del correspondiente artículo revisado por pares. Esto incluye software necesario para derivar los hallazgos comunicados en cifras, mapas y tablas, así como software científicamente útil de modelos y simulaciones".
 
-\- [\*\*Guía científica de código abierto (NASA SMD's Open-Source Science Guidance)](https://smd-cms.nasa.gov/wp-content/uploads/2023/07/smd-open-source-science-guidance-v2-20230407.pdf)
+\- [\*\*Guía científica de Código Abierto (NASA SMD's Open-Source Science Guidance)](https://smd-cms.nasa.gov/wp-content/uploads/2023/07/smd-open-source-science-guidance-v2-20230407.pdf)
 
 Otras organizaciones pueden tener orientaciones diferentes, por lo que siempre es mejor comprobar lo que exige la agencia u organización financiadora.
 
@@ -160,24 +160,24 @@ Otras organizaciones pueden tener orientaciones diferentes, por lo que siempre e
 
 <img src="../images/media/image197_es.png" style="width:100%;height:auto;" />
 
-Al igual que los datos, el código puede compartirse de muchas maneras, por ejemplo por correo electrónico o en un sitio web personal, pero estos métodos no son recomendables. Entonces, ¿Dónde debería compartir su código abierto?
+Al igual que los datos, el código puede compartirse de muchas maneras, por ejemplo por correo electrónico o en un sitio web personal, pero estos métodos no son recomendables. Entonces, ¿Dónde debería compartir su Código Abierto?
 
-En primer lugar, considere las políticas de su institución o agencia de financiación, que pueden dictar dónde debe compartir y dónde puede hacerlo. Por ejemplo, algunas agencias de financiación especifican los depósitos a largo plazo donde debe archivarse su código, y pueden restringirle el uso compartido en otras formas de repositorios. Su disciplina científica puede tener un repositorio específico para código abierto.
+En primer lugar, considere las políticas de su institución o agencia de financiación, que pueden dictar dónde debe compartir y dónde puede hacerlo. Por ejemplo, algunas agencias de financiación especifican los depósitos a largo plazo donde debe archivarse su código, y pueden restringirle el uso compartido en otras formas de repositorios. Su disciplina científica puede tener un repositorio específico para Código Abierto.
 
 #### ¿Cuáles son las mejores opciones y prácticas para archivar el código?
 
-- Archivar código abierto con un artículo de revista de acceso abierto.
-- Si el código abierto está en un repositorio de desarrollo en línea activo como GitHub, cree una versión y archive el código en un repositorio a largo plazo con un DOI como Zenodo, que puede integrarse con GitHub (más detalles sobre este proceso más adelante).
+- Archivar Código Abierto con un artículo de revista de acceso abierto.
+- Si el Código Abierto está en un repositorio de desarrollo en línea activo como GitHub, cree una versión y archive el código en un repositorio a largo plazo con un DOI como Zenodo, que puede integrarse con GitHub (más detalles sobre este proceso más adelante).
 - Archive el código en otros repositorios públicos a largo plazo, como Software Heritage.
 
-#### Es tu código un paquete de software importante y de interés para un número signiﬁcativo de usuarios de diversas disciplinas? ¿Dónde más puede compartirse tu código abierto?
+#### Es tu código un paquete de software importante y de interés para un número signiﬁcativo de usuarios de diversas disciplinas? ¿Dónde más puede compartirse tu Código Abierto?
 
 <img src="../images/media/image332_es.png" style="width:350px;height:auto;" />
 
 - Desarrollar tu software en un repositorio público como GitHub.
 - Publicar en un repositorio de software usado por los gestores de paquetes comunes para facilitar la instalación del software (ej. Anaconda, CRAN, PyPI).
 - Presentar el software en conferencias.
-- Publicar el software en un Journal dedicado al software abierto (ej. JOSS).
+- Publicar el software en un Journal dedicado al Software Abierto (ej. JOSS).
 - Consigue que tu software sea revisado por expertos a través de comunidades como PyOpenSci.
 
 #### Para compartir mi código, sólo tengo que añadirlo a GitHub, ¿verdad?
@@ -188,7 +188,7 @@ No necesariamente. Se alienta a compartir en un repositorio, pero la organizaci�
 
 ## Cómo: Cómo habilitar la reusabilidad del código
 
-Ahora que has compartido tu código de la forma adecuada, es importante considerar si has facilitado a otros participantes (o a tu yo del futuro) la reutilización de tu código.
+Ahora que has compartido tu código de la forma adecuada, es importante considerar si has facilitado a otros participantes (o a tu yo del futuro) la reusabilidad de tu código.
 
 ### Asignar una licencia
 
@@ -263,7 +263,7 @@ La información sobre cómo citar el software puede ser añadida a su README (L�
 
 ### ¿Por qué usar archivos CITATION?
 
-Los archivos CITATION son un medio para hacer que la información de citas sea fácilmente accesible en repositorios de software de código abierto. Un [formato de archivo de citas (en inglés, _Citation File Format, CFF_)](https://citation-file-format.github.io/) es un formato estándar legible por humanos y máquinas que se ha desarrollado para los archivos CIATATION.
+Los archivos CITATION son un medio para hacer que la información de citas sea fácilmente accesible en repositorios de software de Código Abierto. Un [formato de archivo de citas (en inglés, _Citation File Format, CFF_)](https://citation-file-format.github.io/) es un formato estándar legible por humanos y máquinas que se ha desarrollado para los archivos CIATATION.
 
 ### Pautas para colaborar
 
@@ -289,7 +289,7 @@ Algunos roles podrían incluir:
 - Escribiendo un archivo LÉEME
 - Añadiendo comentarios explicativos al código
 
-**¿Quién ayudará con la reutilización del código?**
+**¿Quién ayudará con la reusabilidad del código?**
 
 Añadiendo archivos CITACIÓN, COLABORAR, y CÓDIGO DE CONDUCTA
 
@@ -315,12 +315,12 @@ Si el software está pensado para que otras personas lo usen, entonces quien des
 
 ## Lección 4: Resumen
 
-En esta lección, aprendiste los pasos clave para compartir software abierto:
+En esta lección, aprendiste los pasos clave para compartir Software Abierto:
 
 - ¿Deberías compartir? Al compartir software, se deben seguir las políticas de tu institución y agencia de financiamiento. Éstas pueden limitar la apertura del software. Las políticas de intercambio de software también varían según la organización.
 - ¿Cuándo compartir? Sigue las pautas de tu organización, agencia de financiamiento o editorial.
 - ¿Dónde compartir? Depende de si está archivando o compartiendo para recibir comentarios de la comunidad. Utiliza repositorios específicos de dominio cuando corresponda.
-- ¿Cómo permitir la reutilización? Habilita la reutilización mediante la asignación de un DOI e incluye una licencia, información de citas y pautas para las personas que colaboran.
+- ¿Cómo permitir la reusabilidad? Habilita la reusabilidad mediante la asignación de un DOI e incluye una licencia, información de citas y pautas para las personas que colaboran.
 - ¿Quién ayuda a compartir? Planifica los roles y responsabilidades cuando se comparta y (si es aplicable) para mantener el software.
 
 ## Lección 4: Evaluación
@@ -375,7 +375,7 @@ _Pregunta_
 
 **05/06**
 
-¿Cuáles de las siguientes, si las hay, son formas en las que puedes ayudar a otras personas a reutilizar tu código? Selecciona todas las que correspondan.
+¿Cuáles de las siguientes, si las hay, son formas en las que puedes ayudar a otras personas a reusar tu código? Selecciona todas las que correspondan.
 
 - Asignar una licencia adecuada
 - Añadir un archivo llamado "CONTRIBUTION" (contribución) con pautas para las personas que colaboran
