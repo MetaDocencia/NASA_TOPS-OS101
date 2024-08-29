@@ -136,67 +136,67 @@ Supongamos que deseas iniciar un nuevo proyecto de Código Abierto:
 - ¿Existen políticas con respecto a las contribuciones externas?
 - ¿Tu organización requiere una atribución o crédito específico?
 
-#### Puntos clave: Conoce las políticas de publicación de software de tu organización
+#### Conclusiones clave: Conoce las políticas de publicación de software de tu organización
 
 Las políticas de publicación de software difieren según la organización y cada pieza de software es diferente. Por lo tanto, es importante que no hagamos suposiciones basadas en experiencias anteriores para pensar estas políticas.
 
 ## Cuándo: El cronograma para archivar y compartir código
 
-Planear para compartir tu código al comienzo de tu proyecto hace que compartir sea más fácil cuando estés listo. Exactamente cuando en tu flujo de trabajo decides compartir públicamente tu código depende de tu trabajo y de los requisitos de la agencia de financiación, organización, o publicador.
+Planificar compartir tu código al comienzo de tu proyecto hace que compartirlo sea más fácil cuando esté listo. El momento exato de tu flujo de trabajo en el que decidas compartir públicamente tu código depende de los requisitos de la agencia de financiación, la organización, o la editorial.
 
-Como ejemplo, ¿Qué dice la NASA?
+Por ejemplo, ¿qué dice la NASA?
 
-Si está escribiendo software científico para un proyecto financiado por el Directorio de Misión de Ciencia de la NASA (NASA Science Mission Directorate) entonces:
+Si estás escribiendo software científico para un proyecto financiado por el Directorio de Misiones Científicas de la NASA (SMD en inglés, _NASA Science Mission Directorate_) entonces:
 
-El software científico necesario para validar las conclusiones científicas de los manuscritos revisados por pares resultantes de las actividades científicas financiadas por el SMD se pondrá a disposición del público a más tardar en la fecha de publicación del correspondiente artículo revisado por pares. Esto incluye software necesario para derivar los hallazgos comunicados en cifras, mapas y tablas, así como software científicamente útil de modelos y simulaciones".
+"El software científico necesario para validar las conclusiones científicas de los artículos revisados por pares resultantes de las actividades científicas financiadas por el SMD se pondrá a disposición del público a más tardar en la fecha de publicación del artículo. Esto incluye software necesario para derivar los hallazgos comunicados en figuras, mapas y tablas, así como software científicamente útil de modelos y simulaciones".
 
-\- [\*\*Guía científica de Código Abierto (NASA SMD's Open-Source Science Guidance)](https://smd-cms.nasa.gov/wp-content/uploads/2023/07/smd-open-source-science-guidance-v2-20230407.pdf)
+\- [\*\*Guía científica de Código Abierto (NASA SMD's Open-Source Science Guidance)](https://smd-cms.nasa.gov/wp-content/uploads/2023/07/smd-open-source-science-guidance-v2-20230407.pdf) (en inglés).
 
 Otras organizaciones pueden tener orientaciones diferentes, por lo que siempre es mejor comprobar lo que exige la agencia u organización financiadora.
 
-## Donde: Donde compartir Código Abierto
+## Dónde: Dónde compartir Código Abierto
 
 ### Consideraciones generales
 
 <img src="../images/media/image197_es.png" style="width:100%;height:auto;" />
 
-Al igual que los datos, el código puede compartirse de muchas maneras, por ejemplo por correo electrónico o en un sitio web personal, pero estos métodos no son recomendables. Entonces, ¿Dónde debería compartir su Código Abierto?
+Al igual que los datos, el código puede compartirse de muchas maneras; por ejemplo, por correo electrónico o en un sitio web personal, aunque estos métodos no son recomendables. Entonces, ¿dónde deberías compartir tu Código Abierto?
 
-En primer lugar, considere las políticas de su institución o agencia de financiación, que pueden dictar dónde debe compartir y dónde puede hacerlo. Por ejemplo, algunas agencias de financiación especifican los depósitos a largo plazo donde debe archivarse su código, y pueden restringirle el uso compartido en otras formas de repositorios. Su disciplina científica puede tener un repositorio específico para Código Abierto.
+En primer lugar, considera las políticas de tu institución o agencia de financiación, que pueden dictar dónde debes y puedes compartir. Por ejemplo, algunas agencias de financiación especifican los depósitos a largo plazo donde debes archivar el código, y pueden restringir la posiblidad de compartirlo e otras formas de repositorios. Tu disciplina científica, tambien puede tener un repositorio específico para Código Abierto.
 
 #### ¿Cuáles son las mejores opciones y prácticas para archivar el código?
 
-- Archivar Código Abierto con un artículo de revista de acceso abierto.
-- Si el Código Abierto está en un repositorio de desarrollo en línea activo como GitHub, cree una versión y archive el código en un repositorio a largo plazo con un DOI como Zenodo, que puede integrarse con GitHub (más detalles sobre este proceso más adelante).
-- Archive el código en otros repositorios públicos a largo plazo, como Software Heritage.
+- Archiva Código Abierto con un artículo de revista de Acceso Abierto.
+- Si el Código Abierto está en un repositorio de desarrollo en línea activo como GitHub, crea una versión y archiva el código en un repositorio a largo plazo con un DOI como Zenodo, que puede integrarse con GitHub (más detalles sobre este proceso más adelante).
+- Archiva el código en otros repositorios públicos a largo plazo, como Software Heritage.
 
-#### Es tu código un paquete de software importante y de interés para un número signiﬁcativo de usuarios de diversas disciplinas? ¿Dónde más puede compartirse tu Código Abierto?
+#### ¿Tu código es un paquete de software importante y de interés para un número signiﬁcativo de personas de diversas disciplinas? ¿Dónde más puedes compartir tu Código Abierto?
 
 <img src="../images/media/image332_es.png" style="width:350px;height:auto;" />
 
-- Desarrollar tu software en un repositorio público como GitHub.
-- Publicar en un repositorio de software usado por los gestores de paquetes comunes para facilitar la instalación del software (ej. Anaconda, CRAN, PyPI).
-- Presentar el software en conferencias.
-- Publicar el software en un Journal dedicado al Software Abierto (ej. JOSS).
-- Consigue que tu software sea revisado por expertos a través de comunidades como PyOpenSci.
+- Desarrolla tu software en un repositorio público como GitHub.
+- Publica en un repositorio de software usado por los gestores de paquetes comunes para facilitar la instalación del software (por ej. Anaconda, CRAN, PyPI).
+- Presenta el software en conferencias.
+- Publica el software en una revista dedicado al Software Abierto (por ej. JOSS).
+- Consigue que tu software sea revisado por personas expertas a través de comunidades como PyOpenSci.
 
 #### Para compartir mi código, sólo tengo que añadirlo a GitHub, ¿verdad?
 
-No necesariamente. Se alienta a compartir en un repositorio, pero la organización de financiamiento de la persona que investiga puede requerir un DOI de un repositorio de archivo, como Zenodo, para la preservación a largo plazo de su código en el momento de la publicación o lanzamiento de versiones.
+No necesariamente. Se alienta a compartir en un repositorio, pero la organización que financia la investigación puede requerir un DOI de un repositorio de archivo, como Zenodo, para la preservación a largo plazo de su código en el momento de la publicación o lanzamiento de versiones.
 
 <img src="../images/media/image425_es.png" style="width:350px;height:auto;" />
 
 ## Cómo: Cómo habilitar la reusabilidad del código
 
-Ahora que has compartido tu código de la forma adecuada, es importante considerar si has facilitado a otros participantes (o a tu yo del futuro) la reusabilidad de tu código.
+Ahora que has compartido tu código de la forma adecuada, es importante considerar si has facilitado a otras personas (o a tu yo del futuro) la reusabilidad de tu código.
 
 ### Asignar una licencia
 
-Como recordarás de la lección anterior, asignar una licencia adecuada es necesario para que otras personas sepan cómo utilizar tu código.
+Como recordarás de la lección anterior, para que otras personas sepan cómo utilizar tu código es necesario asignar una licencia adecuada.
 
-Por ejemplo, aquí te mostramos cómo asignar una licencia a un repositorio de GitHub:
+A modo de ejemplo, aquí te mostramos cómo asignar una licencia a un repositorio de GitHub:
 
-Elige la licencia de uso compartido de software adecuada que cumpla con los requisitos de tu organización. Para crear una plantilla de licencia en GitHub, añade un nuevo archivo y escribe "LICENCIA" (en inglés, _LICENCE_) en el campo de nombre, entonces aparecerá la opción "Elegir una plantilla de licencia".
+Elige la licencia adecuada para compartir software de manera que cumpla con los requisitos de tu organización. Para crear una plantilla de licencia en GitHub, añade un nuevo archivo y escribe "LICENCE" (LICENCIA) en el campo de nombre, entonces aparecerá la opción "Elegir una plantilla de licencia".
 
 <img src="../images/media/image78_es.jpg" style="width:350px;height:auto;" />
 
@@ -204,11 +204,11 @@ Asegúrate de que tu repositorio de GitHub sea público, para que cualquiera pue
 
 ### Hacer el código citable
 
-No todo el código tiene que ser citable. Cuando se publica de forma independiente, sin embargo, existen algunas prácticas recomendadas sobre cómo hacer que tu código sea citable.
+No todo el código tiene que ser citable. Sin embargo, cuando se publica de forma independiente, existen algunas prácticas recomendadas para hacer que tu código sea citable.
 
-Añadir el código a un repositorio de GitHub no es suficiente para archivar código. Para archivar, debemos asignar un identificador persistente.
+Añadir el código a un repositorio de GitHub no es suficiente para archivar código. Para archivar, se debe asignar un identificador persistente.
 
-Producir un identificador persistente para tu código es la mejor manera de hacerlo citable. Esto podría hacerse mediante una publicación revisada por pares que describa el software o archivando el software en un repositorio a largo plazo que produzca un DOI o un identificador similar. Para el código compartido en GitHub, un [DOI se puede producir fácilmente para cada versión del software de Zenodo.](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content#issuing-a-persistent-identifier-for-your-repository-with-zenodo)
+Generar un identificador persistente para tu código es la mejor manera de hacerlo citable. Esto podría hacerse mediante una publicación revisada por pares que describa el software, o archivando el software en un repositorio a largo plazo que proporcione un DOI o un identificador similar. Para el código compartido en GitHub, un [DOI se puede generar fácilmente para cada versión del software de Zenodo.](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content#issuing-a-persistent-identifier-for-your-repository-with-zenodo) (en innglés).
 
 ### Actividad 4.2: Crear un DOI para un archivo de código de prueba
 
