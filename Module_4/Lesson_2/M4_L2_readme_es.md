@@ -184,7 +184,7 @@ Estos son algunos enlaces a repositorios específicos de la NASA que pueden ser 
 - [Portal para personas desarrolladoras de Earthdata](https://www.earthdata.nasa.gov/engage/open-data-services-and-software/api) 
   [Centro de Modelización y Análisis de Exoplaneta](https://www.earthdata.nasa.gov/engage/open-data-services-and-software/api) (en inglés)
 
-## Evaluar Código y software Abiertos
+## Evaluar Código y Software Abiertos
 
 Así que has descubierto un Código Abierto emocionante que puede ayudarte a resolver tu problema científico. ¿Puedes confiar en este código que descubriste en la red? ¿Será útil? ¿Cuánto tiempo llevará aprenderlo? ¿Podría el código contener un programa maligno? ¿Podrías tener problemas legales por usarlo?
 
