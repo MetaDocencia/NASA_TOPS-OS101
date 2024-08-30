@@ -150,7 +150,7 @@ Si estás escribiendo software científico para un proyecto financiado por el Di
 
 "El software científico necesario para validar las conclusiones científicas de los artículos revisados por pares resultantes de las actividades científicas financiadas por el SMD se pondrá a disposición del público a más tardar en la fecha de publicación del artículo. Esto incluye software necesario para derivar los hallazgos comunicados en figuras, mapas y tablas, así como software científicamente útil de modelos y simulaciones".
 
-**[Guía científica de Código Abierto (NASA SMD's Open-Source Science Guidance)](https://smd-cms.nasa.gov/wp-content/uploads/2023/07/smd-open-source-science-guidance-v2-20230407.pdf)** (en inglés).
+**[Guía científica de Código Abierto (_NASA SMD's Open-Source Science Guidance_)](https://smd-cms.nasa.gov/wp-content/uploads/2023/07/smd-open-source-science-guidance-v2-20230407.pdf)** (en inglés).
 
 Otras organizaciones pueden tener orientaciones diferentes, por lo que siempre es mejor comprobar lo que exige la agencia u organización financiadora.
 
