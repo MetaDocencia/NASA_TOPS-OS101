@@ -59,9 +59,9 @@ Estos términos clave son tópicos importantes para este módulo. Selecciona el 
 -   [Lección 3: Resumen](./Lesson_3#lecci%C3%B3n-3-resumen)
 -   [Lección 3: Evaluación](./Lesson_3#lecci%C3%B3n-3-evaluaci%C3%B3n)
 
-### [Lección 4: Herramientas para Datos Abiertos](./Lesson_4)
+### [Lección 4: Herramientas para Código Abierto](./Lesson_4)
 
--   [Introducción al código abierto](./Lesson_4#introducci%C3%B3n-al-c%C3%B3digo-abierto)
+-   [Introducción al Código Abierto](./Lesson_4#introducci%C3%B3n-al-c%C3%B3digo-abierto)
 -   [Herramientas para el control de versiones](./Lesson_4#herramientas-para-el-control-versiones)
 -   [Herramientas para editar código](./Lesson_4#herramientas-para-editar-c%C3%B3digo)
 -   [Herramientas adicionales](./Lesson_4#herramientas-adicionales)
