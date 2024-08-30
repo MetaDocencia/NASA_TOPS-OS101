@@ -298,13 +298,34 @@ Las personas investigadoras que realizan análisis estadísticos tienden a utili
 
 La mayoría de los ordenadores portátiles o de escritorio que ejecutan sistemas operativos estándar (Windows, MacOS, Linux) tienen múltiples editores de texto plano preinstalados que se pueden utilizar para programar. Es beneficioso saber cómo utilizar al menos uno, porque hace que la edición de programas y archivos sea un proceso rápido.
 
-+---------------------------------------------------------------------+----------------------------------------------------------------------+
-| **VENTAJAS**                                                        | **DESVENTAJAS**                                                      |
-+=====================================================================+======================================================================+
-| -   Ligeros                                                         | -   No hay complementos que ayuden a encontrar fallas, errores, etc. |
-|                                                                     |                                                                      |
-| -   Muchos se distribuyen nativamente con el sistema operativo (SO) | -   Pueden no tener resaltado de sintaxis                            |
-+---------------------------------------------------------------------+----------------------------------------------------------------------+
+<table>
+  <colgroup>
+    <col style="width: 49%" />
+    <col style="width: 50%" />
+  </colgroup>
+  <thead>
+    <tr class="header">
+      <th><strong>VENTAJAS</strong></th>
+      <th><strong>DESVENTAJAS</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="odd">
+      <td>
+        <ul>
+        <li>Ligeros</li>
+        <li>Muchos se distribuyen nativamente con el sistema operativo (SO)</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        <li>No hay complementos que ayuden a encontrar fallas, errores, etc.</li>
+        <li>Pueden no tener resaltado de sintaxis</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Cuadernos computacionales
 
@@ -439,19 +460,47 @@ Por el contrario, un archivo de software es un almacenamiento estático donde se
 
 Git/GitHub y Bitbucket son opciones populares para repositorios de software.
 
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Repositorio ☑ \| Archivo \| ====================================================================================================================================================================================================================================================================================================================================+=========+ - Es una ubicación para compartir código. \| \| \| \| - A menudo utiliza sistemas de control de versiones como Git, Mercurial y Subversion para realizar un seguimiento de los cambios \| \| \| \| - Por lo general, contiene la última versión de desarrollo (a veces denominada "maestra", *master*, o "troncal", *trunk*) de un proyecto de software, en la que quienes desarrollan pueden trabajar activamente. \| \| \| - Se utiliza para el desarrollo colaborativo de software y para compartir código entre un equipo o una comunidad de desarrollo. \| \| \| \| **Nota importante:** Un repositorio no es más que un lugar para alojar código. Hoy en día, un sistema de control de versiones y un repositorio suelen ser la misma cosa. Es importante entender la distinción. Sin embargo, algunos sitios web son puramente buzones (*dropboxes*) para archivos ejecutables o zip de código fuente. \| \| |
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+<table>
+  <thead>
+    <tr>
+        <th>Repositorio &#9745;</th>
+        <th>Archivo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td colspan="2">
+            <ul>
+              <li>Es una ubicación para compartir código.</li>
+              <li>A menudo utiliza sistemas de control de versiones como Git, Mercurial y Subversion para realizar un seguimiento de los cambios.</li>
+              <li>Por lo general, contiene la última versión de desarrollo (a veces denominada "maestra", <i>master</i>, o "troncal", <i>trunk</i>) de un proyecto de software, en la que quienes desarrollan pueden trabajar activamente.</li>
+              <li>Se utiliza para el desarrollo colaborativo de software y para compartir código entre un equipo o una comunidad de desarrollo.</li>
+            </ul>
+            <p><strong>Nota importante:</strong> Un repositorio no es más que un lugar para alojar código. Hoy en día, un sistema de control de versiones y un repositorio suelen ser la misma cosa. Es importante entender la distinción. Sin embargo, algunos sitios web son puramente buzones (<i>dropboxes</i>) para archivos ejecutables o zip de código fuente.</p>
+        </td>
+    </tr>
+  </tbody>
+</table>
 
-+--------------------------------------------------------------------------------------------------------------------------------------------------------+-----------+
-| Repositorio                                                                                                                                            | Archivo ☑ |
-+========================================================================================================================================================+===========+
-| -   A menudo se utiliza para la distribución y conservación a largo plazo de software.                                                                 |           |
-|                                                                                                                                                        |           |
-| -   Un sistema de almacenamiento que contiene versiones estables y específicas de software, paquetes binarios compilados o versiones de código fuente. |           |
-|                                                                                                                                                        |           |
-| -   Los usuarios suelen descargar software de un archivo para instalarlo y utilizarlo en sus sistemas.                                                 |           |
-+--------------------------------------------------------------------------------------------------------------------------------------------------------+-----------+
+<table>
+  <thead>
+    <tr>
+        <th>Repositorio</th>
+        <th>Archivo &#9745;</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td colspan="2">
+            <ul>
+              <li>A menudo se usa para la distribución y conservación a largo plazo de software.</li>
+              <li>Un sistema de almacenamiento que contiene versiones estables y específicas de software, paquetes binarios compilados o versiones de código fuente.</li>
+              <li>Los usuarios suelen descargar software de un archivo para instalarlo y utilizarlo en sus sistemas.</li>
+            </ul>
+        </td>
+    </tr>
+  </tbody>
+</table>
 
 **Contenedores**
 
@@ -461,13 +510,38 @@ Un contenedor (*container*) de software es un paquete independiente y ejecutable
 
 Relaciona cada elemento con su descripción:
 
-+---------------------------------------+--------------------------------------------------------------------------------------------------------------------+
-| Entorno de desarrollo integrado (IDE) | Editor de texto mejorado para código. Ayuda a identificar la sintaxis y las construcciones o desarrollos de código |
-+---------------------------------------+--------------------------------------------------------------------------------------------------------------------+
-| Archivo de software                   | Almacenamiento estático donde se guardan versiones de software estables y completamente probadas.                  |
-+---------------------------------------+--------------------------------------------------------------------------------------------------------------------+
-| Plataforma de control de versiones    | Herramienta que ayuda a quienes desarrollan software a gestionar y realizar un seguimiento de los cambios     |
-+---------------------------------------+--------------------------------------------------------------------------------------------------------------------+
+<table>
+  <colgroup>
+    <col style="width: 50%" />
+    <col style="width: 50%" />
+  </colgroup>
+  <tbody>
+    <tr>
+      <td>
+        Entorno de desarrollo integrado (IDE)
+      </td>
+      <td>
+        Editor de texto mejorado para código. Ayuda a identificar la sintaxis y las construcciones o desarrollos de código.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Archivo de software
+      </td>
+      <td>
+        Almacenamiento estático donde se guardan versiones de software estables y completamente probadas.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Plataforma de control de versiones
+      </td>
+      <td>
+        Herramienta que ayuda a quienes desarrollan software a gestionar y realizar un seguimiento de los cambios.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## Lección 4: Resumen 
 En esta lección has aprendido:
