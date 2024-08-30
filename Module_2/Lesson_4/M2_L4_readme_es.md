@@ -136,19 +136,50 @@ Si volvemos a la idea general de utilizar sistemas de control de versiones, GitH
 
 Vamos a ampliar algunas de las herramientas de colaboración de GitHub. Algunas de estas funcionalidades incluyen:
 
-+------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Términos                           | Descripción/Definición                                                                                                                                                                                                                                                                                                                                  |
-+====================================+=========================================================================================================================================================================================================================================================================================================================================================+
-| Rastreo de problemas (*issues*)    | Realizar un seguimiento de las solicitudes de funciones, errores y otros tipos de actualizaciones a través de *GitHub Issues*. GitHub también permite utilizar etiquetas y asignar personas a las tareas para ayudar a organizarlas.                                                                                                                    |
-+------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Foros de discusión del proyecto    | GitHub permite un foro de discusión en línea donde es posible hacer y responder preguntas y mantener discusiones comunitarias.                                                                                                                                                                                                                          |
-+------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Seguimiento de contribuciones      | GitHub tiene una forma sencilla de llevar un registro de las contribuciones de código sugeridas (llamadas "*Pull Requests*") por diferentes personas.                                                                                                                                                                                                   |
-+------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Herramientas de revisión de código | GitHub dispone de un amplio conjunto de herramientas para revisar y aceptar (o rechazar) las contribuciones de terceros (o las tuyas propias), como los comentarios en línea y los cambios fácilmente visibles en archivos individuales.                                                                                                                   |
-+------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Permisos personalizados            | Elige quién tiene autorización para actualizar el código. Esto ayuda a que tengas la seguridad de que solo quienes tienen permiso pueden actualizar el código que compartiste en GitHub, y también a que otras personas se sientan seguras para sugerir actualizaciones sin preocuparse de que puedan sobrescribir accidentalmente el código existente. |
-+------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+<table>
+  <colgroup>
+    <col style="width: 49%" />
+    <col style="width: 49%" />
+  </colgroup>
+  <thead>
+    <tr class="header">
+      <th>Términos</th>
+      <th>Descripción/Definición</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="odd">
+      <td>Rastreo de problemas (<i>issues</i>)</td>
+      <td>
+        Realizar un seguimiento de las solicitudes de funciones, errores y otros tipos de actualizaciones a través de  <i>GitHub Issues</i>. GitHub también permite utilizar etiquetas y asignar personas a las tareas para ayudar a organizarlas
+      </td>
+    </tr>
+    <tr class="odd">
+      <td>Foros de discusión del proyecto</td>
+      <td>
+        GitHub permite un foro de discusión en línea donde es posible hacer y responder preguntas y mantener discusiones comunitarias.
+      </td>
+    </tr>
+    <tr class="odd">
+      <td>Seguimiento de contribuciones</td>
+      <td>
+        GitHub tiene una forma sencilla de llevar un registro de las contribuciones de código sugeridas (llamadas "<i>Pull Requests</i>") por diferentes personas.
+      </td>
+    </tr>
+    <tr class="odd">
+      <td>Herramientas de revisión de código</td>
+      <td>
+        GitHub dispone de un amplio conjunto de herramientas para revisar y aceptar (o rechazar) las contribuciones de terceros (o las tuyas propias), como los comentarios en línea y los cambios fácilmente visibles en archivos individuales.
+      </td>
+    </tr>
+    <tr class="odd">
+      <td>Permisos personalizados</td>
+      <td>
+        Elige quién tiene autorización para actualizar el código. Esto ayuda a que tengas la seguridad de que solo quienes tienen permiso pueden actualizar el código que compartiste en GitHub, y también a que otras personas se sientan seguras para sugerir actualizaciones sin preocuparse de que puedan sobrescribir accidentalmente el código existente.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 Todas estas funciones son excelentes para permitir la colaboración asíncrona entre equipos. La mayoría de los paquetes de Código Abierto científico utilizan GitHub para el desarrollo de su código principal. Ten en cuenta que hay muchas más funciones de GitHub en las que no profundizamos aquí y que permiten la colaboración, así como flujos de trabajo automatizados y mucho más. Para aprender más sobre GitHub, echa un vistazo a estas referencias:
 
@@ -178,39 +209,56 @@ Si estuvieras en una sala con 10 personas que trabajan en desarrollo de software
 
 Los IDEs pueden aportar muchas herramientas útiles a tus trabajos. Ya no se trata únicamente de editar código. Los IDEs modernos y robustos pueden hacer la mayoría de las cosas que se listan aquí, y aún más. Se puede usar un IDE sin ejecutar en un kernel; se puede usar un kernel sin haber desarrollado código en un IDE. Sin embargo, pueden trabajar de la mano.
 
-+-----------------------------------------+---------------+
-| Entorno de Desarrollo Integrado (IDE) ☑ | Kernel        |
-+=========================================+===============+
-| Edición del código fuente:              |               |
-|                                         |               |
-| -   Resaltado sintáctico                |               |
-|                                         |               |
-| -   Avisos de error/*bugs*              |               |
-|                                         |               |
-| Extensiones                             |               |
-|                                         |               |
-| -   Depuradores (*debuggers*)           |               |
-|                                         |               |
-| -   Gestión de memoria                  |               |
-|                                         |               |
-| -   Control de versiones                |               |
-|                                         |               |
-| -   Creación de automatizaciones        |               |
-+-----------------------------------------+---------------+
+<table>
+  <thead>
+    <tr>
+        <th>Entorno de Desarrollo Integrado (IDE) &#9745;</th>
+        <th>Kernel</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td colspan="2">
+            <p>Edición del código fuente:</p>
+            <ul>
+              <li>Resaltado sintáctico</li>
+              <li>Avisos de error/<i>bugs</i></li>
+            </ul>
+            <p>Extensiones</p>
+            <ul>
+              <li>Depuradores (<i>debuggers</i>)</li>
+              <li>Gestión de memoria</li>
+              <li>Control de versiones</li>
+              <li>Creación de automatizaciones</li>
+            </ul>
+        </td>
+    </tr>
+  </tbody>
+</table>
 
-+----------------------------------------+---------------+
-| Entorno de Desarrollo Integrado (IDEs) | Kernel ☑      |
-+========================================+===============+
-| -   Entorno de ejecución               |               |
-|                                        |               |
-| -   Como una máquina virtual           |               |
-|                                        |               |
-| -   Aísla el área de trabajo           |               |
-|                                        |               |
-|     -   Ajustes a medida               |               |
-|                                        |               |
-|     -   Fácilmente replicable          |               |
-+----------------------------------------+---------------+
+<table>
+  <thead>
+    <tr>
+        <th>Entorno de Desarrollo Integrado (IDEs)</th>
+        <th>Kernel &#9745;</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td colspan="2">
+            <ul>
+              <li>Entorno de ejecución</li>
+              <li>Como una máquina virtual</li>
+              <li>Aísla el área de trabajo</li>
+              <ul>
+                  <li>Ajustes a medida</li>
+                  <li>Fácilmente replicable</li>
+              </ul>
+            </ul>
+        </td>
+    </tr>
+  </tbody>
+</table>
 
 **Ejemplo de IDE: Visual Studio Code**
 
