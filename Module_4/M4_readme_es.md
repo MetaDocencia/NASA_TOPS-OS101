@@ -1,6 +1,6 @@
 # Introducción a la Ciencia Abierta Módulo 4: Código Abierto
 
-Bienvenidos y Bienvenidas a Introducción a la Ciencia Abierta: Código Abierto
+Te damos la bienvenida a Introducción a la Ciencia Abierta:Bienvenidos y Bienvenidas a Introducción a la Ciencia Abierta: Código Abierto
 
 ## Acerca de este módulo
 
@@ -8,41 +8,41 @@ Este módulo se centra en la práctica y aplicación del código abierto como pa
 
 ### Objetivos de Aprendizaje del Módulo
 
-Después de completar este módulo, deberías poder:
+Después de completar este módulo deberías poder:
 
 - Explicar lo que significa el software de código abierto, incluyendo el ciclo de desarrollo de software, los beneficios, algunas limitaciones comunes y cómo se abordan estas limitaciones.
-- Evaluar el software de código abierto para su reutilización mediante el análisis de la documentación proporcionada, incluyendo archivos README y detalles de licencia, y poder, además, citar el software apropiadamente.
-- Crea un plan de gestión para el software de código abierto que incluya la estrategia para seleccionar dependencias de código y repositorios abiertos, así como la incorporación de elementos como metadatos, archivos README y control de versiones, para garantizar la reutilización y la accesibilidad del software.
-- Evaluar si tu software de código abierto puede ser compartido y cuáles son las mejores opciones para compartirlo para aumentar su visibilidad.
-- Enumerar las responsabilidades que tiene el desarrollador de software una vez que el software de código abierto es compartido, incluyendo tanto la gestión de los requisitos legales, como el mantenimiento del software.
+- Evaluar el software de código abierto para su reuso mediante el análisis de la documentación proporcionada, incluyendo archivos README y detalles de licencia, y poder, además, citar el software apropiadamente.
+- Crear un plan de gestión para el software de código abierto que incluya la estrategia para seleccionar dependencias de código y repositorios abiertos, así como la incorporación de elementos como metadatos, archivos README y control de versiones, para garantizar la reusabilidad y la accesibilidad del software.
+- Evaluar si tu software de código abierto puede ser compartido y cuáles son las mejores opciones para hacerlo y aumentar su visibilidad.
+- Enumerar las responsabilidades que tiene quien desarrolla el software una vez que el software de código abierto es compartido, incluyendo tanto la gestión de los requisitos legales, como el mantenimiento del software.
 
 ## Términos Clave
 
-Selecciona el término para ver la descripción.
+Estos términos clave son tópicos importantes para este módulo. Selecciona el término para ver la descripción.
 
-**Código fuente** – Conjunto de sentencias legible por humanos escrito en un lenguaje de programación que juntos componen software. Los programadores escriben software en código fuente, a menudo guardados como un archivo de texto en un ordenador. Los términos código y código fuente se utilizan a menudo de forma intercambiable.
+**Código fuente** – Conjunto de sentencias legible por humanos escrito en un lenguaje de programación que juntos componen software. Quienes programan escriben software en código fuente, a menudo guardado como un archivo de texto en un ordenador. Los términos código y código fuente se utilizan a menudo de forma intercambiable.
 
-**Software** – Este término general se utiliza para programas de computadora y aplicaciones que proporcionan a los usuarios un cierto grado de utilidad o producen un resultado o servicio. El software se puede distribuir en forma ejecutable, como código fuente o como un servicio a través de Internet.
+**Software** – Este término general se utiliza para programas de computadora y aplicaciones que proporcionan a las personas usuarias un cierto grado de utilidad o producen un resultado o servicio. El software se puede distribuir en forma ejecutable, como código fuente o como un servicio a través de Internet.
 
-**Licencia de Software** – Un documento que establece los derechos del desarrollador y del usuario con respecto a un software.
+**Licencia de Software** – Un documento que establece los derechos de la persona que desarrolló el sofware y de las personas que lo usan.
 
-**Licencia de código abierto** – Licencia de software, aprobada por la Iniciativa de Código Abierto (OSI) como compatible con la Definición de Código Abierto, otorgando permisos a cualquiera para inspeccionar, usar, modificar y distribuir el código fuente del software para cualquier propósito. Los estándares similares pueden ser promulgados por otras organizaciones.
+**Licencia de código abierto** – Licencia de software, aprobada por la Iniciativa de Código Abierto (OSI) como compatible con la definición de Código Abierto, otorgando permisos a cualquiera para inspeccionar, usar, modificar y distribuir el código fuente del software para cualquier propósito. Estándares similares pueden ser promulgados por otras organizaciones.
 
 **Software de código abierto** – Software cuyo código fuente está bajo una licencia de código abierto, por el cual el titular de los derechos de autor concede a cualquier persona el derecho de inspeccionar, modificar y distribuir el código fuente. Sinónimo de código abierto.
 
-**Software de código cerrado** – Software propietario con código fuente que no está disponible públicamente. Sólo los autores originales, no los usuarios, tienen derechos para copiar, modificar, actualizar y editar el código fuente. Los usuarios no tienen acceso al código.
+**Software de código cerrado** – Software propietario con código fuente que no está disponible públicamente. Sólo las personas autoras originales, no las usuarias, tienen derechos para copiar, modificar, actualizar y editar el código fuente. Las personas usuarias no tienen acceso al código.
 
-Obra Derivada: Una obra creativa que se deriva o se basa en una obra preexistente que es traducida, alterada, organizada o transformada de una manera que requiere permiso del titular de los derechos de autor de la obra original o proviene de obras de dominio público.
+**Obra Derivada:** - Una obra creativa que se deriva o se basa en una obra preexistente que es traducida, alterada, organizada o transformada de una manera que requiere permiso de la persona titular de los derechos de autor de la obra original o proviene de obras de dominio público.
 
 **Control de versiones** – Un sistema para gestionar automáticamente las diferentes versiones de un archivo de computadora que sufre cambios, en especial uno que contiene código fuente. En el desarrollo de software, el control de versiones preserva un historial completo de los cambios en el código fuente y permite a un desarrollador retroceder a una versión anterior si es necesario.
 
-**Repositorio de código** – Una ubicación central de almacenamiento para el código fuente. Los repositorios de código pueden contener código fuente en uno o más lenguajes de programación. Los repositorios pueden ofrecer herramientas para fusionar entradas de desarrolladores, pruebas automatizadas para verificar el correcto funcionamiento del código fuente, control de versiones para rastrear cambios con el tiempo y funcionalidades de gestión de proyectos. Estos sitios pueden no prometer retención a largo plazo.
+**Repositorio de código** – Una ubicación central de almacenamiento para el código fuente. Los repositorios de código pueden contener código fuente en uno o más lenguajes de programación. Los repositorios pueden ofrecer herramientas para fusionar entradas de las personas que desarrollan, pruebas automatizadas para verificar el correcto funcionamiento del código fuente, control de versiones para rastrear cambios con el tiempo y funcionalidades de gestión de proyectos. Estos sitios pueden no prometer conservación a largo plazo.
 
 **Repositorio de software** – Colecciones de aplicaciones independientes o paquetes de software disponibles en línea. Los repositorios normalmente controlan el acceso y rastrean las implementaciones/descargas de paquetes. Estos pueden incluir código fuente o ejecutables.
 
-**Repositorio a largo plazo** – un servicio para la retención a largo plazo y referencia de software histórico y contemporáneo. Los repositorios facilitan que las citas de código sean sostenibles.
+**Repositorio a largo plazo** – un servicio para la conservación a largo plazo y referencia de software histórico y contemporáneo. Los repositorios facilitan que las citas de código sean sostenibles.
 
-Crédito de estas definiciones: National Academies of Sciences, Engineering, and Medicine. . National Academies of Sciences, Engineering, and Medicine. Washington, DC: The National Academies Press. [https://doi.org/10.17226/25217](https://doi.org/10.17226/25217) y otros recursos.
+Crédito de estas definiciones: _National Academies of Sciences, Engineering, and Medicine. . National Academies of Sciences, Engineering, and Medicine. Washington, DC: The National Academies Press. [https://doi.org/10.17226/25217](https://doi.org/10.17226/25217)_ y otros recursos.
 
 ## Navegación
 
