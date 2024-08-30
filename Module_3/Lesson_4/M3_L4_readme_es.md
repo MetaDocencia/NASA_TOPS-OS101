@@ -108,7 +108,7 @@ Leyes y regulaciones relevantes que pueden evitar la publicación de datos inclu
 
 ### Consideraciones de propiedad intelectual
 
-Los datos pueden estar sujetos a propiedad intelectual, derechos de autoría y licencias. Algunas de las regulaciones y políticas relevantes incluyen leyes de propiedad intelectual o patentes, incluyendo la [Ley Bayh-Dole](https://www.govinfo.gov/content/pkg/USCODE-2011-title35/html/USCODE-2011-title35-partI-chap18.htm), que permite a las universidades, instituciones de investigación sin fines de lucro y pequeñas empresas poseer, patentar y comercializar invenciones desarrolladas bajo programas de investigación con fondos federales.
+Los datos pueden estar sujetos a propiedad intelectual, derechos de autoría y licencias. Algunas de las regulaciones y políticas relevantes incluyen leyes de propiedad intelectual o patentes, incluyendo la [Ley Bayh-Dole](https://www.govinfo.gov/content/pkg/USCODE-2011-title35/html/USCODE-2011-title35-partII-chap18.htm), que permite a las universidades, instituciones de investigación sin fines de lucro y pequeñas empresas poseer, patentar y comercializar invenciones desarrolladas bajo programas de investigación con fondos federales.
 
 **Ejemplo: Suplemento FAR de la NASA 1852.227**
 
