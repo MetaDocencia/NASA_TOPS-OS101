@@ -2,14 +2,14 @@
 
 ## Contenidos
 
-- [Planes de Gestión de Datos y Ciencia Abierta](#planes-de-gestion-de-datos-y-ciencia-abierta)
-- [¿Cómo planificar abrir nuestro código?](#cómo-planeamos-hacer-nuestro-codigo-abierto)
-- [Generar interés y construir comunidades](#generar-interes-y-construir-comunidades)
-- [Contribuir a proyectos de software de Código Abierto](#contribuir-proyectos-software-de-codigo abierto)
+- [Planes de Gestión de Datos y Ciencia Abierta](#planes-de-gesti%C3%B3n-de-datos-y-ciencia-abierta)
+- [¿Cómo planificar abrir nuestro código?](#c%C3%B3mo-planeamos-hacer-nuestro-c%C3%B3digo-abierto)
+- [Generar interés y construir comunidades](#generar-inter%C3%A9s-y-construir-comunidades)
+- [Contribuir a proyectos de software de Código Abierto](#contribuir-a-proyectos-de-software-de-c%C3%B3digo-abierto)
 - [Recursos adicionales](#recursos-adicionales)
-- [Lección 5: Resumen](#leccion-5-resumen)
-- [Lección 5: Evaluación](#leccion-5-evaluacion)
-- [Código abierto: Resumen](#codigo-abierto-resumen)
+- [Lección 5: Resumen](#lecci%C3%B3n-5-resumen)
+- [Lección 5: Evaluación](#lecci%C3%B3n-5-evaluaci%C3%B3n)
+- [Resumen del Módulo 4: Código Abierto](#resumen-del-m%C3%B3dulo-4-c%C3%B3digo-abierto)
 
 ## Descripción general
 
@@ -92,7 +92,7 @@ Por ejemplo: Las [políticas de la NASA](https://science.nasa.gov/spd-41) (en in
 
 ### Políticas de Software Abierto establecidas por sociedades profesionales
 
-Las sociedades profesionales como AAAS, AGU, AAS, etc. influyen en las políticas de las agencias de financiación e influyen directamente en las políticas relativas al software utilizado para generar publicaciones. Es importante interactuar con la comunidad a través de documentos de consenso y sociedades profesionales para guiar las decisiones políticas relacionadas con el software de Código Abierto en la ciencia.
+Las sociedades profesionales como AAAS, AGU, AAS, etc. influyen en las políticas de las agencias de financiación e influyen directamente en las políticas relativas al software usado para generar publicaciones. Es importante interactuar con la comunidad a través de documentos de consenso y sociedades profesionales para guiar las decisiones políticas relacionadas con el software de Código Abierto en la ciencia.
 
 Science/AAAS establece explícitamente que "en general, todo el código informático fundamental para los hallazgos que se informan debe estar disponible para los lectores para garantizar la reproducibilidad".
 
@@ -111,14 +111,14 @@ En esta actividad revisa el PGS y piensa en estas preguntas:
 - ¿Quién será responsable de los diferentes aspectos del software?
 - ¿Cuáles son las limitaciones de algunos programas?
 - ¿Cómo puede afectar en el futuro el hecho de no tener un plan acordado al inicio del desarrollo del código?
-- ¿Los resultados son reproducibles sin el código IDL (lenguaje utilizado para el análisis de datos) original?
+- ¿Los resultados son reproducibles sin el código IDL (lenguaje usado para el análisis de datos) original?
 - ¿Hay cosas que agregarías en el plan del ejemplo o sobre las que serías más específico?
 
 #### Ejemplo de Plan de Gestión de Software (PGS)
 
 **1. Tipos de software esperados**
 
-Utilizaremos modelos de simulación establecidos para realizar simulaciones iniciales para este trabajo. Estos modelos de simulación están escritos en Fortran y fueron desarrollados durante la última década. Si bien no están disponibles para el público, sí lo están para que los utilice el proyecto (comunicación privada). Los modelos de simulación conducirán a la generación de archivos de salida como se describe en el Plan de Gestión de Datos (PGD). Desarrollaremos software de análisis en Python para analizar los archivos de salida del modelo, lo que permitirá el desarrollo de productos de datos derivados, mapas y figuras. El desarrollo del software de análisis en Python se compartirá en un repositorio de GitHub.
+usaremos modelos de simulación establecidos para realizar simulaciones iniciales para este trabajo. Estos modelos de simulación están escritos en Fortran y fueron desarrollados durante la última década. Si bien no están disponibles para el público, sí lo están para que los use el proyecto (comunicación privada). Los modelos de simulación conducirán a la generación de archivos de salida como se describe en el Plan de Gestión de Datos (PGD). Desarrollaremos software de análisis en Python para analizar los archivos de salida del modelo, lo que permitirá el desarrollo de productos de datos derivados, mapas y figuras. El desarrollo del software de análisis en Python se compartirá en un repositorio de GitHub.
 
 **2. Desarrollo de análisis de software**
 
@@ -136,7 +136,7 @@ Este trabajo no respalda el desarrollo posterior de los modelos de simulación d
 
 Los estudiantes de doctorado y postdoctorados completarán el modelado de simulación inicial y el desarrollo del software de análisis Python. Quien dirija este proyecto tiene la responsabilidad general de la ejecución de este plan.
 
-## Interesar, involucrar y construir comunidades
+## Generar interés y construir comunidades
 
 Las comunidades de Software Abierto son espacios de aprendizaje social donde las personas se reúnen para aprender una nueva habilidad, intercambiar conocimientos y experiencias, y luego aplicar lo que han aprendido de la comunidad en su trabajo diario.
 
@@ -164,7 +164,7 @@ Aquí hay algunas comunidades que pueden ayudarte a comenzar (algunas de ellas, 
 - [Pangeo](https://pangeo.io/)
 - [ObsPy](https://discourse.obspy.org/)
 
-Suscríbete y/o participa en foros (por ejemplo, discusiones en GitHub, Stack Overflow, o específicos de tu disciplina/software), talleres presenciales, conferencias, encuentros de hackatón, etc., relacionados con tu disciplina o con el software al que contribuyes o que utilizas. Conéctate en redes sociales. Y por último, pero no menos importante, ¡habla con tus colegas!
+Suscríbete y/o participa en foros (por ejemplo, discusiones en GitHub, Stack Overflow, o específicos de tu disciplina/software), talleres presenciales, conferencias, encuentros de hackatón, etc., relacionados con tu disciplina o con el software al que contribuyes o que usas. Conéctate en redes sociales. Y por último, pero no menos importante, ¡habla con tus colegas!
 
 **Explora: The Turing Way**
 
@@ -184,7 +184,7 @@ Suscríbete y/o participa en foros (por ejemplo, discusiones en GitHub, Stack Ov
 - Hay muchas oportunidades para involucrarse con comunidades que trabajan en Software Abierto.
 - Involucrarse con comunidades de Software Abierto puede enriquecer y mejorar tu software.
 
-## Contribuir al Software de Código Abierto
+## Contribuir a proyectos de software de Código Abierto
 
 Contribuir al software de Código Abierto ofrece muchas ventajas y abre las puertas a una serie de oportunidades muy provechosas. Hay pocas industrias que puedan presumir del enorme número de contribuciones globales como lo hace la comunidad de Código Abierto. Contribuir al software de Código Abierto es una excelente manera de mejorar tus habilidades de programación y documentar tu trabajo mientras haces crecer tu comunidad.
 
@@ -196,7 +196,7 @@ Existen varios tipos de contribuciones al software de Código Abierto. No todas 
 | **Corregir errores**                                                    | También, puedes responder a una incidencia (error) ya abierta corrigiéndola.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | **Reportar un problema y hacer sugerencias que mejoren el código**      | Informar sobre un problema es una contribución valiosa incluso si no sabes cómo solucionarlo. Por ejemplo, es posible que estés usando un navegador diferente en el que el software aún no se ha probado, hayas descubierto un particular mensaje de error poco informativo, seas daltónico o puedas proporcionar una experiencia de uso valiosa que ayude a mejorar la funcionalidad general del software.                                                                                                                          |
 | **Mejorar y contribuir a la documentación**                             | Contribuir a la documentación constituye un gran punto de partida para colaborar con el software de Código Abierto y con frecuencia se ignora su importancia. Escribir documentación te permite familiarizarte con el uso del software, al mismo tiempo que ayuda a que otras personas aprendan.                                                                                                                                                                                                                                                  |
-| **Crear tutoriales, casos y ejemplos de uso o vídeos**                      | Otra forma de contribuir es hacer que tu experiencia y uso del software estén disponibles públicamente. Por ejemplo, podrías crear un tutorial basado en tu uso del software, resumir un caso de uso o proporcionar un resumen de tu experiencia en formato gráfico. Esta parte de la contribución es especialmente atractiva porque no requiere mucho trabajo adicional, simplemente publicar para qué has utilizado el software.                                                                                       |
+| **Crear tutoriales, casos y ejemplos de uso o vídeos**                      | Otra forma de contribuir es hacer que tu experiencia y uso del software estén disponibles públicamente. Por ejemplo, podrías crear un tutorial basado en tu uso del software, resumir un caso de uso o proporcionar un resumen de tu experiencia en formato gráfico. Esta parte de la contribución es especialmente atractiva porque no requiere mucho trabajo adicional, simplemente publicar para qué has usado el software.                                                                                       |
 | **Mejorar el diseño, la automatización y la estructura del código**     | Además de crear nuevo código, una buena forma de contribuir al software de Código Abierto también puede ser mejorar, reestructurar o automatizar el código existente. Esto se llama refactorización y ayuda a hacer que el proyecto de software sea más eficiente, operativo y estable.                                                                                                                                                                                                                                                  |
 | **Organizar y asistir a un encuentro de la comunidad:** | Otra manera de contribuir al software de Código Abierto es a través del desarrollo de comunidades. Muchos productos y herramientas de software tienen una comunidad activa de personas que se reúnen regularmente de forma presencial y/o en línea para discutir y/o mejorar el software y su uso. Participar o incluso organizar una de estas reuniones puede ser una buena manera para mejorar el conocimiento acerca del software, conocer a tu comunidad de personas usuarias y contribuir en proyectos de Código Abierto. |
 | **Revisión de código**                                                  | Las solicitudes para integrar nuevas contribuciones en el código principal generalmente requieren una revisión de la contribución por parte de al menos otra persona usuaria. Similar a una revisión de pares, la revisión de un código implica escribir un breve resumen sobre la calidad del código y hacer sugerencias de mejoras.                                                                                                                                                                                                            |
@@ -271,7 +271,7 @@ Selecciona la o las maneras beneficiosas de contribuir al software de Código Ab
 ¡Felicitaciones! Ahora que has completado el módulo, deberías poder hacer lo siguiente:
 
 - Explicar lo qué significa el software de Código Abierto, incluyendo el ciclo de desarrollo de software, los beneficios del Software Abierto y algunas limitaciones comunes y cómo se abordan.
-- Evaluar el software de Código Abierto para su reutilización mediante el análisis de la documentación proporcionada, incluyendo archivos README y detalles de licencia, y poder, además, citar el software apropiadamente.
+- Evaluar el software de Código Abierto para su reusación mediante el análisis de la documentación proporcionada, incluyendo archivos README y detalles de licencia, y poder, además, citar el software apropiadamente.
 - Crear un Plan de Gestión de Software de Código Abierto que incluyan, por un lado, la estrategia para seleccionar dependencias de Software Abierto y repositorios abiertos como GIT, y también, cómo se incluirán elementos abiertos como metadatos, archivos README y control de versiones para hacer que el software sea reusable y localizable.
 - Evaluar si tu software de Código Abierto puede ser compartido y cuáles son las mejores opciones para compartirlo para aumentar su visibilidad.
 - Enumerar las responsabilidades que tiene una persona que desarrolla software una vez que el software de Código Abierto es compartido, incluyendo la gestión de los requisitos legales y la garantía del mantenimiento del software.

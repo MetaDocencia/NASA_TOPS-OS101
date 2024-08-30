@@ -1,6 +1,6 @@
 # Introducción a la Ciencia Abierta Módulo 4: Código Abierto
 
-Te damos la bienvenida a Introducción a la Ciencia Abierta:Bienvenidos y Bienvenidas a Introducción a la Ciencia Abierta: Código Abierto
+Te damos la bienvenida a Introducción a la Ciencia Abierta: Código Abierto
 
 ## Acerca de este módulo
 
@@ -67,38 +67,32 @@ Crédito de estas definiciones: _National Academies of Sciences, Engineering, an
 
 ### [Lección 3: Creando Código Abierto](./Lesson_3)
 
-- [Resumen](./Lesson_3#overview)
-- [Objetivos de Aprendizaje](./Lesson_3#learning-objectives)
-- [¿Cómo planeamos hacer nuestro Código Abierto?](./Lesson_5#how-do-we-plan-for-making-our-code-open)
-- [Importancia del Control de versiones](./Lesson_3#importance-of-version-control)
-- [Describiendo nuestro código a otros](./Lesson_3#describing-our-code-to-others)
-- [¿Qué licencia debemos elegir para nuestro código?](./Lesson_3#what-license-should-weuld-choose-for-our-code)
-- [Buenas prácticas de programación](./Lesson_3#programación-mejores prácticas)
-- [Lección 3: Resumen](./Lesson_3#lesson-3-summary)
-- [Lección 3: Comprobación del conocimiento](./Lesson_3#lesson-3-knowledge-check)
+- [¿Cómo planificar para crear código?](./Lesson_3#c%C3%B3mo-planificar-para-crear-c%C3%B3digo)
+- [Importancia del control de versiones](./Lesson_3#importancia-del-control-de-versiones)
+- [Describir nuestro código para otras personas](./Lesson_3#describir-nuestro-c%C3%B3digo-para-otras-personas)
+- [¿Qué licencia deberíamos elegir para nuestro código?](./Lesson_3#qu%C3%A9-licencia-deber%C3%ADamos-elegir-para-nuestro-c%C3%B3digo)
+- [Buenas prácticas de programación](./Lesson_3#buenas-pr%C3%A1cticas-de-programaci%C3%B3n)
+- [Lección 3: Resumen](./Lesson_3#lecci%C3%B3n-3-resumen)
+- [Lección 3: Evaluación](./Lesson_3#lecci%C3%B3n-3-evaluaci%C3%B3n)
 
 ### [Lección 4: Compartiendo Datos Abiertos](./Lesson_4)
 
-- [Resumen](./Lesson_4#overview)
-- [Objetivos de Aprendizaje](./Lesson_4#learning-objectives)
-- [Planificación para Compartir tu Código](./Lesson_4#planning-to-share-your-code)
-- [Preocupaciones legales y de seguridad](./Lesson_4#legal-and-security-concerns)
-- [Cuando: El Cronograma para Archivar y Compartir Código.](./Lesson_4#when-the-schedule-for-code-archiving-and-sharing)
-- [Donde: Donde Compartir Código Abierto](./Lesson_4#where-to-share-open-code)
-- [Cómo: Cómo habilitar la reutilización del código](./Lesson_4#how-to-enable-reuse-of-code)
-- [Quién: Roles y Responsibilidades de los Miembros del Equipo en la Implementación del SMP](./Lesson_4#who-roles-and-responsibilities-of-the-team-members-in-implementing-the-smp)
-- [Lección 4: Resumen](./Lesson_4#lesson-4-summary)
-- [Lección 4: Comprobación del conocimiento](./Lesson_4#lesson-4-knowledge-check)
+- [Planificar para compartir tu código](./Lesson_4#planificar-para-compartir-tu-c%C3%B3digo)
+- [Cuestiones legales y de seguridad](./Lesson_4#cuestiones-legales-y-de-seguridad)
+- [Cuándo: El cronograma para archivar y compartir código](./Lesson_4#cu%C3%A1ndo-el-cronograma-para-archivar-y-compartir-c%C3%B3digo)
+- [Dónde: Dónde compartir Código Abierto](./Lesson_4#d%C3%B3nde-d%C3%B3nde-compartir-c%C3%B3digo-abierto)
+- [Cómo: Cómo habilitar la reusabilidad del código](./Lesson_4#c%C3%B3mo-c%C3%B3mo-habilitar-la-reusabilidad-del-c%C3%B3digo)
+- [Quién: Roles y responsabilidades de las personas del equipo en la implementación del PGS](./Lesson_4#qui%C3%A9n-roles-y-responsabilidades-de-las-personas-del-equipo-en-la-implementaci%C3%B3n-del-pgs)
+- [Lección 4: Resumen](./Lesson_4#lecci%C3%B3n-4-resumen)
+- [Lección 4: Evaluación](./Lesson_4#lecci%C3%B3n-4-evaluaci%C3%B3n)
 
 ### [Lección 5: De la Teoría a la Práctica](./Lesson_5)
 
-- [Resumen](./Lesson_5#overview)
-- [Objetivos de Aprendizaje](./Lesson_5#learning-objectives)
-- [Planes de Ciencia Abierta y Gestión de Datos](./Lesson_5#open-science-and-data-management-plans)
-- [¿Cómo planeamos hacer nuestro Código Abierto?](./Lesson_5#how-do-we-plan-for-making-our-code-open)
-- [Involucrarnos y Construir Comunidades](./Lesson_5#engage-and-build-communities)
-- [Contribuir al software de Código Abierto](./Lesson_5#contribute-to-open-source-software)
-- [Recursos Adicionales](./Lesson_5#additional-resources)
-- [Lección 5: Resumen](./Lesson_5#lesson-5-summary)
-- [Lección 5: Comprobación del conocimiento](./Lesson_5#lesson-5-knowledge-check)
-- [Resumen de Datos Abiertos](./Lesson_5#open-code-summary)
+- [Planes de Gestión de Datos y Ciencia Abierta](./Lesson_5#planes-de-gesti%C3%B3n-de-datos-y-ciencia-abierta)
+- [¿Cómo planificar abrir nuestro código?](./Lesson_5#c%C3%B3mo-planeamos-hacer-nuestro-c%C3%B3digo-abierto)
+- [Generar interés y construir comunidades](./Lesson_5#generar-inter%C3%A9s-y-construir-comunidades)
+- [Contribuir a proyectos de software de Código Abierto](./Lesson_5#contribuir-a-proyectos-de-software-de-c%C3%B3digo-abierto)
+- [Recursos adicionales](./Lesson_5#recursos-adicionales)
+- [Lección 5: Resumen](./Lesson_5#lecci%C3%B3n-5-resumen)
+- [Lección 5: Evaluación](./Lesson_5#lecci%C3%B3n-5-evaluaci%C3%B3n)
+- [Resumen del Módulo 4: Código Abierto](./Lesson_5#resumen-del-m%C3%B3dulo-4-c%C3%B3digo-abierto)

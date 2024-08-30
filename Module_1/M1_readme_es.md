@@ -2,7 +2,7 @@
 
 Te damos la bienvenida a Introducción a la Ciencia Abierta:  El Ethos de la Ciencia Abierta
 
-## Acerca de este modulo
+## Acerca de este módulo
 
 Te damos la bienvenida a este módulo introductorio sobre Ciencia Abierta. La Ciencia Abierta es el principio y la práctica que se llevan adelante para que los productos y procesos de investigación estén disponibles para todas las personas, respetando la diversidad cultural, manteniendo la seguridad y la privacidad y fomentando la colaboración, la reproducibilidad y la equidad. En este módulo, analizaremos más en profundidad lo que es la Ciencia Abierta, su panorama actual, así como los beneficios y desafíos que atraviesa. A continuación, comenzaremos a acercarnos a las prácticas de la Ciencia Abierta y conoceremos un caso de estudio. Para comenzar tu recorrido hacia la Ciencia Abierta, te presentamos algunas acciones que puedes comenzar a realizar a partir de hoy, por ejemplo: explorar las comunidades con las que puedes trabajar colaborativamente.
 
@@ -25,9 +25,9 @@ Selecciona el término para ver la descripción.
 
 **Ciencia Abierta** – La Ciencia Abierta es el principio y la práctica que se llevan adelante para que los productos y procesos de investigación estén disponibles para todas las personas, respetando la diversidad cultural, manteniendo la seguridad y la privacidad y fomentando la colaboración, la reproducibilidad y la equidad.
 
-**Datos abiertos** – Datos que pueden ser libremente utilizados, reutilizados y redistribuidos por cualquier persona. Más información [aquí].(https://opendatahandbook.org/guide/es/what-is-open-data/).
+**Datos Abiertos** – Datos que pueden ser libremente utilizados, reutilizados y redistribuidos por cualquier persona. Más información [aquí].(https://opendatahandbook.org/guide/es/what-is-open-data/).
 
-**Código abierto** - Programas informáticos cuyo código fuente está a disposición del público en general para su uso o modificación a partir de su diseño original. Más información [aquí].(https://es.wikipedia.org/wiki/C%C3%B3digo_abierto)
+**Código Abierto** - Programas informáticos cuyo código fuente está a disposición del público en general para su uso o modificación a partir de su diseño original. Más información [aquí].(https://es.wikipedia.org/wiki/C%C3%B3digo_abierto)
 
 **Acceso Abierto** - Acceso gratuito para todas las personas y uso sin restricciones de  la información y de los recursos.  Más información [aquí].(https://www.unesco.org/es/open-access)
 

@@ -2,18 +2,18 @@
 
 ## Contenidos
 
-- [Planificar para compartir tu código](#planning-to-share-your-code)
-- [Cuestiones legales y de seguridad](./Lesson_4#legal-and-security-concerns)
-- [Cuándo: El cronograma para archivar y compartir código](./Lesson_4#when-the-schedule-for-code-archiving-and-sharing)
-- [Dónde: Dónde compartir Código Abierto](./Lesson_4#where-to-share-open-code)
-- [Cómo: Cómo habilitar la reusabilidad del código](./Lesson_4#how-to-enable-reuse-of-code)
-- [Quién: Roles y responsabilidades de las personas del equipo en la implementación del PGS](./Lesson_4#who-roles-and-responsibilities-of-the-team-members-in-implementing-the-smp)
-- [Lección 4: Resumen](#lesson-4-summary)
-- [Lección 4: Evaluación](#leccion-4-evaluacion)
+- [Planificar para compartir tu código](#planificar-para-compartir-tu-c%C3%B3digo)
+- [Cuestiones legales y de seguridad](#cuestiones-legales-y-de-seguridad)
+- [Cuándo: El cronograma para archivar y compartir código](#cu%C3%A1ndo-el-cronograma-para-archivar-y-compartir-c%C3%B3digo)
+- [Dónde: Dónde compartir Código Abierto](#d%C3%B3nde-d%C3%B3nde-compartir-c%C3%B3digo-abierto)
+- [Cómo: Cómo habilitar la reusabilidad del código](#c%C3%B3mo-c%C3%B3mo-habilitar-la-reusabilidad-del-c%C3%B3digo)
+- [Quién: Roles y responsabilidades de las personas del equipo en la implementación del PGS](#qui%C3%A9n-roles-y-responsabilidades-de-las-personas-del-equipo-en-la-implementaci%C3%B3n-del-pgs)
+- [Lección 4: Resumen](#lecci%C3%B3n-4-resumen)
+- [Lección 4: Evaluación](#lecci%C3%B3n-4-evaluaci%C3%B3n)
 
 ## Descripción general
 
-En esta lección aprenderás los pasos para compartir el software que desarrollaste. Estos pasos incluyen determinar si el software debe compartirse, cuándo y dónde, qué roles son necesarios para gestionarlo y cómo permitir que otras personas utilicen el código.
+En esta lección aprenderás los pasos para compartir el software que desarrollaste. Estos pasos incluyen determinar si el software debe compartirse, cuándo y dónde, qué roles son necesarios para gestionarlo y cómo permitir que otras personas usen el código.
 
 ## Objetivos de aprendizaje
 
@@ -29,7 +29,7 @@ Al finalizar esta lección deberías ser capaz de:
 
 <img src="../images/media/image540_es.png" style="width:350px;height:auto;" />
 
-"Estuve trabajando en el código y ahora un nuevo colaborador quiere usarlo. ¡Genial! ¿Cuál es la mejor manera de compartir el código? ¿Por correo electrónico? ¿Cuándo debo compartir el código y qué debo incluir para asegurar que esta persona pueda utilizarlo fácilmente?"
+"Estuve trabajando en el código y ahora un nuevo colaborador quiere usarlo. ¡Genial! ¿Cuál es la mejor manera de compartir el código? ¿Por correo electrónico? ¿Cuándo debo compartir el código y qué debo incluir para asegurar que esta persona pueda usarlo fácilmente?"
 
 ### ¿Qué significa "compartir" tu código?
 
@@ -192,7 +192,7 @@ Ahora que has compartido tu código de la forma adecuada, es importante consider
 
 ### Asignar una licencia
 
-Como recordarás de la lección anterior, para que otras personas sepan cómo utilizar tu código es necesario asignar una licencia adecuada.
+Como recordarás de la lección anterior, para que otras personas sepan cómo usar tu código es necesario asignar una licencia adecuada.
 
 A modo de ejemplo, aquí te mostramos cómo asignar una licencia a un repositorio de GitHub:
 
@@ -308,9 +308,9 @@ Si el software está pensado para que otras personas lo usen, entonces quien des
 
 - Es cortés por parte de quien desarrolla informar a las personas que lo usan si tienen la intención de mantener el software/código o no.
 - Menciona esto en la documentación donde se discuta el estado de desarrollo del proyecto.
-- Esto ayudará a quienes lo utilicen a saber si seguirán recibiendo apoyo en el futuro, y les permitirá tomar decisiones sobre la posibilidad de basar su trabajo en curso en tu proyecto.
+- Esto ayudará a quienes lo usen a saber si seguirán recibiendo apoyo en el futuro, y les permitirá tomar decisiones sobre la posibilidad de basar su trabajo en curso en tu proyecto.
 - En caso de que quien desarrolle/investigue no disponga del tiempo o el financiamiento necesaria para seguir adelante con su proyecto, pero otras personas estén interesadas en mantenerlo, considera la posibilidad de ceder la propiedad del software a quienes investiguen/desarrollen/participen, o la entidad interesada en su uso continuo.
-- Quienes utilicen software que ya no está siendo mantenido pueden considerar contactar a la persona dueña/desarrolladora y ofrecerse voluntariamente para mantenerlo, o para asumir la propiedad del proyecto.
+- Quienes usen software que ya no está siendo mantenido pueden considerar contactar a la persona dueña/desarrolladora y ofrecerse voluntariamente para mantenerlo, o para asumir la propiedad del proyecto.
 - Si decides mantener tu software, deberías responder a las solicitudes de características y correcciones en la medida de tus posibilidades.
 
 ## Lección 4: Resumen
@@ -319,7 +319,7 @@ En esta lección aprendiste los pasos clave para compartir Software Abierto:
 
 - ¿Deberías compartir? Al compartir software, se deben seguir las políticas de tu institución y agencia de financiamiento. Éstas pueden limitar la apertura del software. Las políticas de publicación de software también varían según la organización.
 - ¿Cuándo compartir? Sigue las pautas de tu organización, agencia de financiamiento o editorial.
-- ¿Dónde compartir? Depende de si estás archivando o compartiendo para recibir comentarios de la comunidad. Utiliza repositorios específicos de dominio cuando corresponda.
+- ¿Dónde compartir? Depende de si estás archivando o compartiendo para recibir comentarios de la comunidad. usa repositorios específicos de dominio cuando corresponda.
 - ¿Cómo permitir la reusabilidad? Habilita la reusabilidad mediante la asignación de un DOI e incluye una licencia, información de citas y pautas para las personas que colaboran.
 - ¿Quién ayuda a compartir? Planifica los roles y responsabilidades cuando se comparta y (si es aplicable) para mantener el software.
 
@@ -366,7 +366,7 @@ _Pregunta_
 
 Lee la siguiente afirmación y decide si es verdadera o falsa:
 
-_Publicar tu software en un repositorio de software utilizado por los gestores de paquetes habituales facilita a las personas usuarias la instalación de tu software._
+_Publicar tu software en un repositorio de software usado por los gestores de paquetes habituales facilita a las personas usuarias la instalación de tu software._
 
 - Verdadero
 - Falso

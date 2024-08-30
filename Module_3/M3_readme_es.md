@@ -91,4 +91,4 @@ Estos términos clave son tópicos importantes para este módulo. Selecciona el 
 - [Recursos adicionales](./Lesson_5#recursos-adicionales)
 - [Lección 5: Resumen](./Lesson_5#lecci%C3%B3n-5-resumen)
 - [Lección 5: Evaluación](./Lesson_5#lecci%C3%B3n-5-evaluaci%C3%B3n)
-- [Resumen del Módulo 5: Datos Abiertos](./Lesson_5#resumen-del-m%C3%B3dulo-5-datos-abiertos)
+- [Resumen del Módulo 3: Datos Abiertos](./Lesson_5#resumen-del-m%C3%B3dulo-3-datos-abiertos)
