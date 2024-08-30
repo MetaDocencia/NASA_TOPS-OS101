@@ -220,7 +220,7 @@ _Pregunta_
 - Ofrecerse para hacer trabajo voluntario y participar en conferencias, talleres y sesiones especiales
 - Identificar roles y responsabilidades del equipo a la hora de compartir datos
 
-## Resumen del Módulo 5: Datos Abiertos
+## Resumen del Módulo 3: Datos Abiertos
 
 ¡Felicitaciones! Ahora que has completado el módulo, deberías poder hacer lo siguiente:
 
