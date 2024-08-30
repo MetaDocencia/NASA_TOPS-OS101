@@ -2,16 +2,16 @@
 
 ## Contenidos
 
-- [Descubrir Código y Software Abiertos](#descubrir-codigo-abierto-y-software)
-- [Evaluar Código y Software Abiertos](#evaluar-codigo-abierto-y-software)
-- [Reutilizar Código Abierto](#reutilizar-código-abierto)
-- [Citar y reconocer el uso de Código Abierto](#citar-y-reconocer-el-uso-de-código-abierto)
-- [Lección 2: Resumen](#lección-2-resumen)
-- [Lección 2: Evaluación](#lección-2-evaluación)
+- [Descubrir Código y Software Abiertos](#descubrir-c%C3%B3digo-abierto-y-software)
+- [Evaluar Código y Software Abiertos](#evaluar-c%C3%B3digo-abierto-y-software)
+- [Reusar Código Abierto](#reusar-c%C3%B3digo-abierto)
+- [Citar y reconocer el uso de Código Abierto](#citar-y-reconocer-el-uso-de-c%C3%B3digo-abierto)
+- [Lección 2: Resumen](#lecci%C3%B3n-2-resumen)
+- [Lección 2: Evaluación](#lecci%C3%B3n-2-evaluaci%C3%B3n)
 
 ## Descripción general
 
-En esta lección aprenderás los pasos para utilizar Código Abierto disponible en tu trabajo. Estos pasos incluyen descubrir, evaluar, reusar, citar y reconocer.
+En esta lección aprenderás los pasos para usar Código Abierto disponible en tu trabajo. Estos pasos incluyen descubrir, evaluar, reusar, citar y reconocer.
 
 ## Objetivos de aprendizaje
 
@@ -19,7 +19,7 @@ Al finalizar esta lección deberías ser capaz de:
 
 - Describir el proceso de uso de Código Abierto y enumerar algunos elementos clave para encontrar código.
 - Describir las cuatro consideraciones clave al evaluar el Software Abierto: funcionalidad, interoperabilidad, seguridad y licencias.
-- Enumerar algunos problemas comunes que surgen al reutilizar Código Abierto y las mejores prácticas para resolverlos.
+- Enumerar algunos problemas comunes que surgen al reusar Código Abierto y las mejores prácticas para resolverlos.
 - Describir cómo, dónde y bajo qué circunstancias se debe reconocer (citar) el código.
 
 ## Descubrir Código y Software Abiertos
@@ -197,7 +197,7 @@ Los criterios de evaluación del software son similares, para cualquier nivel de
 - **Funcionalidad:** ¿Será de utilidad para tu problema científico?
 - **Interoperabilidad:** ¿Cuán difícil será de usar?
 - **Seguridad:** ¿Es seguro? ¿El uso del software crearía un riesgo para la seguridad?
-- **Licencias/restricciones:** ¿Puedes utilizarlo? ¿Es legal utilizar el software en tu proyecto?
+- **Licencias/restricciones:** ¿Puedes usarlo? ¿Es legal usar el software en tu proyecto?
 
 ### Funcionalidad: Evaluación de la utilidad científica
 
@@ -263,24 +263,24 @@ Se considera que el Software Abierto tiene más riesgos para la seguridad. Esto 
 
 ### Licencias
 
-Entonces, si quieres reutilizar algún Código Abierto que hayas descubierto, es fundamental comprobar las restricciones legales y los requisitos impuestos a las personas usuarias, cuestiones que generalmente se establecen en la licencia.
+Entonces, si quieres reusar algún Código Abierto que hayas descubierto, es fundamental comprobar las restricciones legales y los requisitos impuestos a las personas usuarias, cuestiones que generalmente se establecen en la licencia.
 
-Aunque el licenciamiento es un tema con matices sobre el que aprenderás más en la lección 3 de este módulo, es útil saber que generalmente hay dos clases de licencia: permisiva y no permisiva. Licencias permisivas (como Apache 2., MIT o BSD), generalmente te permitirán utilizar el código para tu investigación científica con poca restricción, mientras que las licencias no permisivas, como las licencias de copyleft, imponen restricciones sustanciales a la forma en que se utiliza el código y requieren una consideración más cuidadosa.
+Aunque el licenciamiento es un tema con matices sobre el que aprenderás más en la lección 3 de este módulo, es útil saber que generalmente hay dos clases de licencia: permisiva y no permisiva. Licencias permisivas (como Apache 2., MIT o BSD), generalmente te permitirán usar el código para tu investigación científica con poca restricción, mientras que las licencias no permisivas, como las licencias de copyleft, imponen restricciones sustanciales a la forma en que se utiliza el código y requieren una consideración más cuidadosa.
 
-## Reutilizar Código Abierto
+## Reusar Código Abierto
 
-El software se puede reutilizar de varias maneras. Un paquete de software puede ser ejecutado por sí mismo para proporcionar un análisis completo o modelos de acuerdo a los parámetros de entrada. Alternativamente, el paquete podría ser importado como parte de una biblioteca más grande para proporcionar una funcionalidad específica. Además, los fragmentos de código pueden copiarse en el código existente, si se permite, o el código podría reescribirse e incorporarse a un nuevo software.
+El software se puede reusar de varias maneras. Un paquete de software puede ser ejecutado por sí mismo para proporcionar un análisis completo o modelos de acuerdo a los parámetros de entrada. Alternativamente, el paquete podría ser importado como parte de una biblioteca más grande para proporcionar una funcionalidad específica. Además, los fragmentos de código pueden copiarse en el código existente, si se permite, o el código podría reescribirse e incorporarse a un nuevo software.
 
-Si simplemente tienes la intención de reutilizar un fragmento de código, prueba siempre que el código seleccionado funciona como espera. Si estás reusando un código más complejo, existen consideraciones adicionales.
+Si simplemente tienes la intención de reusar un fragmento de código, prueba siempre que el código seleccionado funciona como espera. Si estás reusando un código más complejo, existen consideraciones adicionales.
 
-### Seleccionar la versión adecuada para reutilizar
+### Seleccionar la versión adecuada para reusar
 
 Ten en cuenta lo siguiente cuando selecciones entre múltiples versiones de un software de Código Abierto.
 
 |                                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Utiliza la última versión estable cuando sea posible | Al igual que ocurre con las actualizaciones de software del sistema operativo o las aplicaciones del teléfono o del ordenador, es importante utilizar la última versión estable. Quienes programan suelen publicar versiones del desarrollo que incluyen nuevas funciones o correcciones de errores que no se han probado por completo. Por este motivo, en general, no se recomienda la utilización de versiones que se encuentren aún en desarrollo. |
-| Determina el origen de la versión que deseas utilizar | Determina si la versión que quieres utilizar procede de un proyecto de Código Abierto modificado o de su fuente original. Con esta información determina qué fuente es más apropiada para tu proyecto.                                                                                                                                                                                                                                                                             |
+| Usa la última versión estable cuando sea posible | Al igual que ocurre con las actualizaciones de software del sistema operativo o las aplicaciones del teléfono o del ordenador, es importante usar la última versión estable. Quienes programan suelen publicar versiones del desarrollo que incluyen nuevas funciones o correcciones de errores que no se han probado por completo. Por este motivo, en general, no se recomienda el uso de versiones que se encuentren aún en desarrollo. |
+| Determina el origen de la versión que deseas usar | Determina si la versión que quieres usar procede de un proyecto de Código Abierto modificado o de su fuente original. Con esta información determina qué fuente es más apropiada para tu proyecto.                                                                                                                                                                                                                                                                             |
 | Comprueba problemas y errores (_bugs_)                     | Comprueba si la versión que has seleccionado presenta problemas o errores de programación conocidos. Encuentra información actualizada sobre esto consultando las notas adjuntas de la versión, el sistema de seguimiento de incidentes y los foros de comunidades de desarrollo.                                                                                                                                                                                    |
 
 ### Resolver problemas en la reutilización de software 
@@ -292,11 +292,11 @@ Ten en cuenta lo siguiente cuando selecciones entre múltiples versiones de un s
 
 ### Actividad 2.1: Maneras de obtener ayuda al usar Software Abierto
 
-En esta actividad te pedimos que reconozcas las formas de resolver algunos problemas habituales que surgen al utilizar Software Abierto.
+En esta actividad te pedimos que reconozcas las formas de resolver algunos problemas habituales que surgen al usar Software Abierto.
 
 #### Ejercicio 1
 
-Selecciona cómo podrías resolver este problema que se presenta al utilizar Software Abierto: Dificultad para encontrar Software Abierto que satisfaga tus necesidades.
+Selecciona cómo podrías resolver este problema que se presenta al usar Software Abierto: Dificultad para encontrar Software Abierto que satisfaga tus necesidades.
 
 Selecciona todas las opciones que correspondan.
 
@@ -308,7 +308,7 @@ Selecciona todas las opciones que correspondan.
 
 #### Ejercicio 2
 
-Selecciona cómo podrías resolver este problema que se presenta al utilizar Software Abierto: Dificultades de instalación.
+Selecciona cómo podrías resolver este problema que se presenta al usar Software Abierto: Dificultades de instalación.
 
 Selecciona todas las opciones que correspondan.
 
@@ -320,7 +320,7 @@ Selecciona todas las opciones que correspondan.
 
 #### Ejercicio 3
 
-Selecciona cómo podrías resolver este problema que se presenta al utilizar Software Abierto: El software no funciona como se esperaba.
+Selecciona cómo podrías resolver este problema que se presenta al usar Software Abierto: El software no funciona como se esperaba.
 
 Selecciona todo lo que corresponda.
 
@@ -361,9 +361,9 @@ En algunos casos, los términos y condiciones de la licencia de uso de un softwa
 
 ### ¿Cómo citar?
 
-Lo ideal es utilizar y citar código que esté archivado en un repositorio con políticas de preservación a largo plazo y que se identifique con un DOI. Sigue los lineamientos de las normas de citación que se proporcionan en el repositorio y que pueden aparecer en el archivo README (LEEME) o CITATION (CITA).
+Lo ideal es usar y citar código que esté archivado en un repositorio con políticas de preservación a largo plazo y que se identifique con un DOI. Sigue los lineamientos de las normas de citación que se proporcionan en el repositorio y que pueden aparecer en el archivo README (LEEME) o CITATION (CITA).
 
-Los DOI proporcionan un identificador o enlace persistente para resultados de investigación. Por ello, es preferible citar los códigos que se encuentren depositados en repositorios a largo plazo vinculados a un DOI. Las URL, por ejemplo, en Stack Overflow y de los repositorios activos, por ejemplo, en GitHub, son mutables, es decir, pueden cambiar con el tiempo y dejar de estar activas, aunque pueden utilizarse si no hay alternativa.
+Los DOI proporcionan un identificador o enlace persistente para resultados de investigación. Por ello, es preferible citar los códigos que se encuentren depositados en repositorios a largo plazo vinculados a un DOI. Las URL, por ejemplo, en Stack Overflow y de los repositorios activos, por ejemplo, en GitHub, son mutables, es decir, pueden cambiar con el tiempo y dejar de estar activas, aunque pueden usarse si no hay alternativa.
 
 Los paquetes también pueden ofrecer una manera de citar versiones individuales. Para fines de reproducibilidad, cita tanto el paquete general como la versión que se utilizó en tu trabajo. Dado que la funcionalidad de un paquete puede evolucionar con el lanzamiento de nuevas versiones, esto puede ayudar a proporcionar el contexto específico en el que se realizó tu trabajo.
 
@@ -376,7 +376,7 @@ Conclusiones principales de esta lección:
 - El Código Abierto existe dentro de un ecosistema vasto, orgánico y distribuido. Descubrir Código Abierto depende de definir bien tus necesidades, saber dónde buscar y que las personas que lo desarrollan hayan utilizado los principios FAIR.
 - Los artículos científicos también son un buen lugar para descubrir Código Abierto, ya que ahora muchas revistas científicas exigen que el código utilizado en el artículo se encuentre disponible y esté vinculado mediante un DOI.
 - Antes de usarlo, es importante evaluar el Software Abierto en términos de funcionalidad, calidad, interoperabilidad, seguridad y restricciones de licencia o reutilización. Tu primer paso debería ser buscar un archivo README.
-- Al reutilizar Software Abierto, utiliza la versión más reciente que cuente con soporte y pruébalo para asegurarte de que funciona como esperas. Si surgen problemas, contacta a las personas que lo desarrollaron o a la comunidad usuaria, idealmente a través de un foro público.
+- Al reusar Software Abierto, utiliza la versión más reciente que cuente con soporte y pruébalo para asegurarte de que funciona como esperas. Si surgen problemas, contacta a las personas que lo desarrollaron o a la comunidad usuaria, idealmente a través de un foro público.
 - Es importante citar y reconocer el Software Abierto que contribuye significativamente a tu trabajo, así como compartir tus experiencias de uso, tanto con quienes desarrollan software, como con la comunidad usuaria.
 
 ## Lección 2: Evaluación

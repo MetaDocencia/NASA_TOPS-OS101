@@ -2,13 +2,13 @@
 
 ## Contenidos
 
-- [Historias de éxito](#historias-de-éxito)
-- [Definición y consideraciones sobre los Datos Abiertos](./Lesson_1#definición-y-consideraciones-sobre-los-datos-abiertos)
-- [Principios, beneficios, y desafíos](./Lección_1#principios-beneficios-y-desafíos)
+- [Historias de éxito](#historias-de-%C3%A9xito)
+- [Definiciones y consideraciones del Código Abierto](#definici%C3%B3n-y-consideraciones-del-c%C3%B3digo-abierto)
+- [Principios, beneficios, y desafíos](#principios-beneficios-y-desaf%C3%ADos)
 - [Cuándo no compartir](#cuando-no-compartir)
-- [Planes de Gestión de Software (PGS)](./Lección_1#planes-de-gestión-de-software-pgs)
-- [Lección 1: Resumen](#leccion-1-resumen)
-- [Lección 1: Evaluación](#lesson-1-revisión-de-conocimientos)
+- [Plan de Gestión de Software (PGS)](#plan-de-gesti%C3%B3n-de-software-pgs)
+- [Lección 1: Resumen](#lecci%C3%B3n-1-resumen)
+- [Lección 1: Evaluación](#lecci%C3%B3n-1-evaluaci%C3%B3n)
 
 ## Descripción general
 
