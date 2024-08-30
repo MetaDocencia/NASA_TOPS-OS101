@@ -4,17 +4,17 @@ Te damos la bienvenida a Introducción a la Ciencia Abierta:Bienvenidos y Bienve
 
 ## Acerca de este módulo
 
-Este módulo se centra en la práctica y aplicación del código abierto como parte del flujo de trabajo de ciencia abierta. Proporciona un 'cómo se procede' que sigue el ciclo de vida del desarrollo de código y las premisas "Usar, Crear, Compartir". Algunos de los temas clave discutidos incluyen: beneficios y limitaciones del código abierto, cómo descubrir y evaluar el código, consideraciones y métodos para programar siguiendo principios abiertos, y finalmente cuándo y cómo compartir tu código.
+Este módulo se centra en la práctica y aplicación del Código Abierto como parte del flujo de trabajo de Ciencia Abierta. Proporciona un 'cómo se procede' que sigue el ciclo de vida del desarrollo de código y las premisas "Usar, Crear, Compartir". Algunos de los temas clave discutidos incluyen: beneficios y limitaciones del Código Abierto, cómo descubrir y evaluar el código, consideraciones y métodos para programar siguiendo principios abiertos, y finalmente cuándo y cómo compartir tu código.
 
 ### Objetivos de Aprendizaje del Módulo
 
 Después de completar este módulo deberías poder:
 
-- Explicar lo que significa el software de código abierto, incluyendo el ciclo de desarrollo de software, los beneficios, algunas limitaciones comunes y cómo se abordan estas limitaciones.
-- Evaluar el software de código abierto para su reuso mediante el análisis de la documentación proporcionada, incluyendo archivos README y detalles de licencia, y poder, además, citar el software apropiadamente.
-- Crear un plan de gestión para el software de código abierto que incluya la estrategia para seleccionar dependencias de código y repositorios abiertos, así como la incorporación de elementos como metadatos, archivos README y control de versiones, para garantizar la reusabilidad y la accesibilidad del software.
-- Evaluar si tu software de código abierto puede ser compartido y cuáles son las mejores opciones para hacerlo y aumentar su visibilidad.
-- Enumerar las responsabilidades que tiene quien desarrolla el software una vez que el software de código abierto es compartido, incluyendo tanto la gestión de los requisitos legales, como el mantenimiento del software.
+- Explicar lo que significa el software de Código Abierto, incluyendo el ciclo de desarrollo de software, los beneficios, algunas limitaciones comunes y cómo se abordan estas limitaciones.
+- Evaluar el software de Código Abierto para su reuso mediante el análisis de la documentación proporcionada, incluyendo archivos README y detalles de licencia, y poder, además, citar el software apropiadamente.
+- Crear un plan de gestión para el software de Código Abierto que incluya la estrategia para seleccionar dependencias de código y repositorios abiertos, así como la incorporación de elementos como metadatos, archivos README y control de versiones, para garantizar la reusabilidad y la accesibilidad del software.
+- Evaluar si tu software de Código Abierto puede ser compartido y cuáles son las mejores opciones para hacerlo y aumentar su visibilidad.
+- Enumerar las responsabilidades que tiene quien desarrolla el software una vez que el software de Código Abierto es compartido, incluyendo tanto la gestión de los requisitos legales, como el mantenimiento del software.
 
 ## Términos Clave
 
@@ -26,9 +26,9 @@ Estos términos clave son tópicos importantes para este módulo. Selecciona el 
 
 **Licencia de Software** – Un documento que establece los derechos de la persona que desarrolló el sofware y de las personas que lo usan.
 
-**Licencia de código abierto** – Licencia de software, aprobada por la Iniciativa de Código Abierto (OSI) como compatible con la definición de Código Abierto, otorgando permisos a cualquiera para inspeccionar, usar, modificar y distribuir el código fuente del software para cualquier propósito. Estándares similares pueden ser promulgados por otras organizaciones.
+**Licencia de Código Abierto** – Licencia de software, aprobada por la Iniciativa de Código Abierto (OSI) como compatible con la definición de Código Abierto, otorgando permisos a cualquiera para inspeccionar, usar, modificar y distribuir el código fuente del software para cualquier propósito. Estándares similares pueden ser promulgados por otras organizaciones.
 
-**Software de código abierto** – Software cuyo código fuente está bajo una licencia de código abierto, por el cual el titular de los derechos de autor concede a cualquier persona el derecho de inspeccionar, modificar y distribuir el código fuente. Sinónimo de código abierto.
+**Software de Código Abierto** – Software cuyo código fuente está bajo una licencia de Código Abierto, por el cual el titular de los derechos de autor concede a cualquier persona el derecho de inspeccionar, modificar y distribuir el código fuente. Sinónimo de Código Abierto.
 
 **Software de código cerrado** – Software propietario con código fuente que no está disponible públicamente. Sólo las personas autoras originales, no las usuarias, tienen derechos para copiar, modificar, actualizar y editar el código fuente. Las personas usuarias no tienen acceso al código.
 
@@ -42,7 +42,7 @@ Estos términos clave son tópicos importantes para este módulo. Selecciona el 
 
 **Repositorio a largo plazo** – un servicio para la conservación a largo plazo y referencia de software histórico y contemporáneo. Los repositorios facilitan que las citas de código sean sostenibles.
 
-Crédito de estas definiciones: _National Academies of Sciences, Engineering, and Medicine. . National Academies of Sciences, Engineering, and Medicine. Washington, DC: The National Academies Press. [https://doi.org/10.17226/25217](https://doi.org/10.17226/25217)_ y otros recursos.
+Crédito de estas definiciones: _National Academies of Sciences, Engineering, and Medicine. . National Academies of Sciences, Engineering, and Medicine. Washington, DC: The National Academies Press._ [https://doi.org/10.17226/25217](https://doi.org/10.17226/25217) y otros recursos.
 
 ## Navegación
 
@@ -73,7 +73,7 @@ Crédito de estas definiciones: _National Academies of Sciences, Engineering, an
 
 - [Resumen](./Lesson_3#overview)
 - [Objetivos de Aprendizaje](./Lesson_3#learning-objectives)
-- [¿Cómo planeamos hacer nuestro código abierto?](./Lesson_5#how-do-we-plan-for-making-our-code-open)
+- [¿Cómo planeamos hacer nuestro Código Abierto?](./Lesson_5#how-do-we-plan-for-making-our-code-open)
 - [Importancia del Control de versiones](./Lesson_3#importance-of-version-control)
 - [Describiendo nuestro código a otros](./Lesson_3#describing-our-code-to-others)
 - [¿Qué licencia debemos elegir para nuestro código?](./Lesson_3#what-license-should-weuld-choose-for-our-code)
@@ -99,9 +99,9 @@ Crédito de estas definiciones: _National Academies of Sciences, Engineering, an
 - [Resumen](./Lesson_5#overview)
 - [Objetivos de Aprendizaje](./Lesson_5#learning-objectives)
 - [Planes de Ciencia Abierta y Gestión de Datos](./Lesson_5#open-science-and-data-management-plans)
-- [¿Cómo planeamos hacer nuestro código abierto?](./Lesson_5#how-do-we-plan-for-making-our-code-open)
+- [¿Cómo planeamos hacer nuestro Código Abierto?](./Lesson_5#how-do-we-plan-for-making-our-code-open)
 - [Involucrarnos y Construir Comunidades](./Lesson_5#engage-and-build-communities)
-- [Contribuir al software de código abierto](./Lesson_5#contribute-to-open-source-software)
+- [Contribuir al software de Código Abierto](./Lesson_5#contribute-to-open-source-software)
 - [Recursos Adicionales](./Lesson_5#additional-resources)
 - [Lección 5: Resumen](./Lesson_5#lesson-5-summary)
 - [Lección 5: Comprobación del conocimiento](./Lesson_5#lesson-5-knowledge-check)
