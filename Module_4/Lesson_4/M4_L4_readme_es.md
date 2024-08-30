@@ -37,7 +37,7 @@ Para compartir, existen dos categorías principales: compartir para el desarroll
 
 ### Desarrollo de Código Abierto
 
-Escribir código científico suele ser un proceso dinámico y colaborativo en el que contribuyen varias personas y el código evoluciona con el tiempo. En este tipo de proyectos, es beneficioso desarrollar Código Abierto en una plataforma pública de alojamiento de repositorios como GitHub, Bitbucket, GitLab, etc. desde el principio del proyecto. Esto garantiza que todas las actualizaciones se compartan abiertamente en la web y puedan llegar a quienes buscan colaborar y a potenciales personas usarias casi en tiempo real.
+Escribir código científico suele ser un proceso dinámico y colaborativo en el que contribuyen varias personas y el código evoluciona con el tiempo. En este tipo de proyectos, es beneficioso desarrollar Código Abierto en una plataforma pública de alojamiento de repositorios como GitHub, Bitbucket, GitLab, etc. desde el principio del proyecto. Esto garantiza que todas las actualizaciones se compartan abiertamente en la web y puedan llegar a quienes buscan colaborar y a potenciales personas usuarias casi en tiempo real.
 
 ### Archivado de Código Abierto
 
@@ -142,7 +142,7 @@ Las políticas de publicación de software difieren según la organización y ca
 
 ## Cuándo: El cronograma para archivar y compartir código
 
-Planificar compartir tu código al comienzo de tu proyecto hace que compartirlo sea más fácil cuando esté listo. El momento exato de tu flujo de trabajo en el que decidas compartir públicamente tu código depende de los requisitos de la agencia de financiación, la organización, o la editorial.
+Planificar compartir tu código al comienzo de tu proyecto hace que compartirlo sea más fácil cuando esté listo. El momento exacto de tu flujo de trabajo en el que decidas compartir públicamente tu código depende de los requisitos de la agencia de financiación, la organización, o la editorial.
 
 Por ejemplo, ¿qué dice la NASA?
 
@@ -162,7 +162,7 @@ Otras organizaciones pueden tener orientaciones diferentes, por lo que siempre e
 
 Al igual que los datos, el código puede compartirse de muchas maneras; por ejemplo, por correo electrónico o en un sitio web personal, aunque estos métodos no son recomendables. Entonces, ¿dónde deberías compartir tu Código Abierto?
 
-En primer lugar, considera las políticas de tu institución o agencia de financiación, que pueden dictar dónde debes y puedes compartir. Por ejemplo, algunas agencias de financiación especifican los depósitos a largo plazo donde debes archivar el código, y pueden restringir la posiblidad de compartirlo e otras formas de repositorios. Tu disciplina científica, tambien puede tener un repositorio específico para Código Abierto.
+En primer lugar, considera las políticas de tu institución o agencia de financiación, que pueden dictar dónde debes y puedes compartir. Por ejemplo, algunas agencias de financiación especifican los depósitos a largo plazo donde debes archivar el código, y pueden restringir la posibilidad de compartirlo en otras formas de repositorios. Tu disciplina científica, también puede tener un repositorio específico para Código Abierto.
 
 #### ¿Cuáles son las mejores opciones y prácticas para archivar el código?
 
@@ -177,7 +177,7 @@ En primer lugar, considera las políticas de tu institución o agencia de financ
 - Desarrolla tu software en un repositorio público como GitHub.
 - Publica en un repositorio de software usado por los gestores de paquetes comunes para facilitar la instalación del software (por ej. Anaconda, CRAN, PyPI).
 - Presenta el software en conferencias.
-- Publica el software en una revista dedicado al Software Abierto (por ej. JOSS).
+- Publica el software en una revista dedicada al Software Abierto (por ej. JOSS).
 - Consigue que tu software sea revisado por personas expertas a través de comunidades como PyOpenSci.
 
 #### Para compartir mi código, sólo tengo que añadirlo a GitHub, ¿verdad?
@@ -259,7 +259,7 @@ Zenodo archiva tu repositorio y emite un nuevo DOI cada vez que creas un nuevo [
 
 ### Hacer tu código fácil de citar
 
-La información sobre cómo citar el software puede ser añadida a el README (LÉEME) u otra documentación en tu repositorio. Otro paso útil para hacer accesible la información de citas de tu repositorio es añadir un archivo CITATION (CITACION) al repositorio.
+La información sobre cómo citar el software puede ser añadida a el README (LÉEME) u otra documentación en tu repositorio. Otro paso útil para hacer accesible la información de citas de tu repositorio es añadir un archivo CITATION (CITACIÓN) al repositorio.
 
 ### ¿Por qué usar archivos CITATION?
 
@@ -269,57 +269,57 @@ Los archivos CITATION son un medio para hacer que la información de citas sea f
 
 <img src="../images/media/image419_es.png" style="width:100%;height:auto;" />
 
-Si esperas que la comunidad contribuya con tu software, es una buena práctica incluir archivos CONTRIBUTING (COLABORAR) y CODE_OF_CONDUCT (CÓDIGO DE CONDUCTA) en tu repositorio que describan las expectativas para las interacciones de las personas participantes.
+Si esperas que la comunidad contribuya con tu software, es una buena práctica incluir archivos CONTRIBUTING (CONTRIBUIR) y CODE_OF_CONDUCT (CÓDIGO DE CONDUCTA) en tu repositorio que describan las expectativas para las interacciones de las personas participantes.
 
 No entraremos en detalles aquí, pero puedes consultar el [repositorio GitHub del paquete Xarray](https://github.com/pydata/xarray/tree/main) (en inglés) para ver un buen ejemplo.
 
 ## Quién: Roles y responsabilidades de las personas del equipo en la implementación del PGS
 
-Cuando se escribe un Plan de Gestión de Software (PGS) (en inglés, _Software Management Plan, SMP_), es importante incluir un plan para los roles y responsabilidades necesarios para compartir y (si corresponde) mantener tu código. Tu comunidad estará formada por personas con diferentes roles: algunos participarán activamente, otras sólo tendrán un interés pasajero. A veces, una sola persona puede desempeñar fácilmente varias funciones (por ejemplo, si sólo estás archivando una pieza de código).
+Cuando se escribe un Plan de Gestión de Software (PGS) (en inglés, _Software Management Plan, SMP_), es importante incluir un plan para los roles y responsabilidades necesarios para compartir y (si corresponde) mantener tu código. Tu comunidad estará formada por personas con diferentes roles: algunas participarán activamente, otras sólo tendrán un interés pasajero. A veces, una sola persona puede desempeñar fácilmente varias funciones (por ejemplo, si sólo estás archivando una pieza de código).
 
 Algunos roles podrían incluir:
 
 **¿Quién añadirá el código a un repositorio público?**
 
-- Subiendo el código
-- Asignando una licencia
+- Subir el código
+- Asignar una licencia
 
 **¿Quién se encargará de la documentación del código?**
 
-- Escribiendo un archivo LÉEME
-- Añadiendo comentarios explicativos al código
+- Escribir un archivo README (LÉEME)
+- Añadir comentarios explicativos al código
 
 **¿Quién ayudará con la reusabilidad del código?**
 
-Añadiendo archivos CITACIÓN, COLABORAR, y CÓDIGO DE CONDUCTA
+Añadir archivos CITATION (CITACIÓN), CONTRIBUTING (CONTRIBUIR), y CODE_OF_CONDUCT (CÓDIGO DE CONDUCTA).
 
 **¿Quién mantendrá el software (si corresponde)?**
 
 - ¿Quién responderá a la retroalimentación de la comunidad (por ejemplo, a través de problemas en GitHub)?
-- ¿Quién será responsable de decidir qué código añadir/actualizar de otras personas colaboradoras? (por ejemplo, mediante solicitudes de extracción de GitHub)
+- ¿Quién será responsable de decidir qué código añadir/actualizar de otras personas colaboradoras? (por ejemplo, mediante solicitudes de GitHub)
 
 ---
 
-Todos estos roles pueden o no ser necesarios, dependiendo del tamaño de tu proyecto. Es necesario tener un proceso transparente para asignar cualquier rol a los miembros de la comunidad.
+Todos estos roles pueden o no ser necesarios, según sea el tamaño de tu proyecto. Es necesario contar con un proceso transparente para asignar cualquiera de los roles a quienes participan de la comunidad.
 
-### Responsabilidades después de Compartir
+### Responsabilidades después de compartir
 
 Si el software está pensado para que otras personas lo usen, entonces quien desarrolla debería mantener el software.
 
-- Es cortés por parte de quien desarrolla informar a las personas que hagan uso si tienen la intención de mantener el software/código o no.
-- Haz esto en la documentación donde se discuta el estado de desarrollo del proyecto.
-- Esto ayudará a quienes lo utilicen a saber si seguirán recibiendo apoyo en el futuro, y les permitirá tomar decisiones sobre la posibilidad de basar el trabajo en curso en tu proyecto.
-- En caso de que quien desarrolle/investigue no disponga del tiempo o la financiación necesaria para seguir adelante con su proyecto, pero otras personas estén interesadas en mantenerlo, considera la posibilidad de ceder la propiedad del software a quienes investiguen/desarrollen/participen, o entidad interesada en su uso continuado.
+- Es cortés por parte de quien desarrolla informar a las personas que lo usan si tienen la intención de mantener el software/código o no.
+- Menciona esto en la documentación donde se discuta el estado de desarrollo del proyecto.
+- Esto ayudará a quienes lo utilicen a saber si seguirán recibiendo apoyo en el futuro, y les permitirá tomar decisiones sobre la posibilidad de basar su trabajo en curso en tu proyecto.
+- En caso de que quien desarrolle/investigue no disponga del tiempo o el financiamiento necesaria para seguir adelante con su proyecto, pero otras personas estén interesadas en mantenerlo, considera la posibilidad de ceder la propiedad del software a quienes investiguen/desarrollen/participen, o la entidad interesada en su uso continuo.
 - Quienes utilicen software que ya no está siendo mantenido pueden considerar contactar a la persona dueña/desarrolladora y ofrecerse voluntariamente para mantenerlo, o para asumir la propiedad del proyecto.
 - Si decides mantener tu software, deberías responder a las solicitudes de características y correcciones en la medida de tus posibilidades.
 
 ## Lección 4: Resumen
 
-En esta lección, aprendiste los pasos clave para compartir Software Abierto:
+En esta lección aprendiste los pasos clave para compartir Software Abierto:
 
-- ¿Deberías compartir? Al compartir software, se deben seguir las políticas de tu institución y agencia de financiamiento. Éstas pueden limitar la apertura del software. Las políticas de intercambio de software también varían según la organización.
+- ¿Deberías compartir? Al compartir software, se deben seguir las políticas de tu institución y agencia de financiamiento. Éstas pueden limitar la apertura del software. Las políticas de publicación de software también varían según la organización.
 - ¿Cuándo compartir? Sigue las pautas de tu organización, agencia de financiamiento o editorial.
-- ¿Dónde compartir? Depende de si está archivando o compartiendo para recibir comentarios de la comunidad. Utiliza repositorios específicos de dominio cuando corresponda.
+- ¿Dónde compartir? Depende de si estás archivando o compartiendo para recibir comentarios de la comunidad. Utiliza repositorios específicos de dominio cuando corresponda.
 - ¿Cómo permitir la reusabilidad? Habilita la reusabilidad mediante la asignación de un DOI e incluye una licencia, información de citas y pautas para las personas que colaboran.
 - ¿Quién ayuda a compartir? Planifica los roles y responsabilidades cuando se comparta y (si es aplicable) para mantener el software.
 
@@ -378,8 +378,8 @@ _Pregunta_
 ¿Cuáles de las siguientes, si las hay, son formas en las que puedes ayudar a otras personas a reusar tu código? Selecciona todas las que correspondan.
 
 - Asignar una licencia adecuada
-- Añadir un archivo llamado "CONTRIBUTION" (contribución) con pautas para las personas que colaboran
-- Añadir un archivo "CITATION" (cita) con información de citas
+- Añadir un archivo llamado "CONTRIBUTION" (CONTRIBUIR) con pautas para las personas que colaboran
+- Añadir un archivo llamado "CITATION" (CITACIÓN) con información de citas
 
 _Pregunta_
 
