@@ -56,28 +56,47 @@ Hay muchas otras características de los sistemas de control de versiones, tales
 
 Hay dos estilos principales de sistemas de control de versiones de software:
 
-+-------------------------------------------------+---------------------------+
-| CENTRALIZADO ☑                                  | DISTRIBUIDO (MÁS POPULAR) |
-+=================================================+===========================+
-| -   Copia "principal" única del código base     |                           |
-|                                                 |                           |
-| -   Debe interactuar con el servidor específico |                           |
-|                                                 |                           |
-| -   Ejemplo: Subversion (SVN)                   |                           |
-+-------------------------------------------------+---------------------------+
+<table>
+  <thead>
+    <tr>
+        <th>CENTRALIZADO &#9745;</th>
+        <th>DISTRIBUIDO (MÁS POPULAR)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td colspan="2">
+            <ul>
+              <li>Copia "principal" única del código base</li>
+              <li>Debe interactuar con el servidor específico</li>
+              <li>Ejemplo: Subversion (SVN)</li>
+            </ul>
+        </td>
+    </tr>
+  </tbody>
+</table>
 
-+---------------------------------------------------------------------------------------+-----------------------------+
-| CENTRALIZADO                                                                          | DISTRIBUIDO (MÁS POPULAR) ☑ |
-+=======================================================================================+=============================+
-| Control:                                                                              |                             |
-|                                                                                       |                             |
-| El sistema de cada persona que desarrolla puede conservar una copia del código base.  |                             |
-| Ejemplos:                                                                             |                             |
-|                                                                                       |                             |
-| -   Git                                                                               |                             |
-|                                                                                       |                             |
-| -   Mercurial                                                                         |                             |
-+---------------------------------------------------------------------------------------+-----------------------------+
+<table>
+  <thead>
+    <tr>
+        <th>CENTRALIZADO</th>
+        <th>DISTRIBUIDO (MÁS POPULAR) &#9745;</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td colspan="2">
+            <p>Control:</p>
+            <p>El sistema de cada persona que desarrolla puede conservar una copia del código base.<br>
+            Ejemplos:</p>
+            <ul>
+              <li>Git</li>
+              <li>Mercurial</li>
+            </ul>
+        </td>
+    </tr>
+  </tbody>
+</table>
 
 Utilizar un sistema distribuido de control de versiones como Git te da más flexibilidad.
 
