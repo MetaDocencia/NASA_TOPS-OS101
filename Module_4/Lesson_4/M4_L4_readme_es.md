@@ -108,7 +108,7 @@ En cambio, si el software se desarrolló con financiación externa (por ej. gube
                 <li>¿Hay algún problema de seguridad del código reportado?</li>
             </ul>
             <p><strong>Cuando decidas participar o iniciar un nuevo proyecto de Software Abierto, familiarízate con las políticas informáticas de tu institución.</strong></p>
-            <p>Más información sobre los aspectos legales <a href="https://opensource.guide/legal/">aquí</a>, (en inglés).</p>
+            <p>Más información sobre los aspectos de seguridad <a href="https://opensciency.github.io/sprint-content/open-software/lesson2-pros-cons.html#security-concerns">aquí</a>, (en inglés).</p>
         </td>
     </tr>
   </tbody>
@@ -150,7 +150,7 @@ Si estás escribiendo software científico para un proyecto financiado por el Di
 
 "El software científico necesario para validar las conclusiones científicas de los artículos revisados por pares resultantes de las actividades científicas financiadas por el SMD se pondrá a disposición del público a más tardar en la fecha de publicación del artículo. Esto incluye software necesario para derivar los hallazgos comunicados en figuras, mapas y tablas, así como software científicamente útil de modelos y simulaciones".
 
-\- [\*\*Guía científica de Código Abierto (NASA SMD's Open-Source Science Guidance)](https://smd-cms.nasa.gov/wp-content/uploads/2023/07/smd-open-source-science-guidance-v2-20230407.pdf) (en inglés).
+**[Guía científica de Código Abierto (NASA SMD's Open-Source Science Guidance)](https://smd-cms.nasa.gov/wp-content/uploads/2023/07/smd-open-source-science-guidance-v2-20230407.pdf)** (en inglés).
 
 Otras organizaciones pueden tener orientaciones diferentes, por lo que siempre es mejor comprobar lo que exige la agencia u organización financiadora.
 
@@ -180,7 +180,7 @@ En primer lugar, considera las políticas de tu institución o agencia de financ
 - Publica el software en una revista dedicada al Software Abierto (por ej. JOSS).
 - Consigue que tu software sea revisado por personas expertas a través de comunidades como PyOpenSci.
 
-#### Para compartir mi código, sólo tengo que añadirlo a GitHub, ¿verdad?
+#### Para compartir mi código, sólo tengo que añadirlo a GitHub ¿verdad?
 
 No necesariamente. Se alienta a compartir en un repositorio, pero la organización que financia la investigación puede requerir un DOI de un repositorio de archivo, como Zenodo, para la preservación a largo plazo de su código en el momento de la publicación o lanzamiento de versiones.
 
@@ -196,7 +196,7 @@ Como recordarás de la lección anterior, para que otras personas sepan cómo ut
 
 A modo de ejemplo, aquí te mostramos cómo asignar una licencia a un repositorio de GitHub:
 
-Elige la licencia adecuada para compartir software de manera que cumpla con los requisitos de tu organización. Para crear una plantilla de licencia en GitHub, añade un nuevo archivo y escribe "LICENCE" (LICENCIA) en el campo de nombre, entonces aparecerá la opción "Elegir una plantilla de licencia".
+Elige la licencia adecuada para compartir software de manera que cumpla con los requisitos de tu organización. Para crear una plantilla de licencia en GitHub, añade un nuevo archivo y escribe "LICENSE" (LICENCIA) en el campo de nombre, entonces aparecerá la opción "Elegir una plantilla de licencia" (en inglés _choose a license template_).
 
 <img src="../images/media/image78_es.jpg" style="width:350px;height:auto;" />
 
@@ -246,7 +246,7 @@ Pasos para esta actividad:
 <img src="../images/media/zenododoi6_es.jpg" style="width:100%;height:auto" />
 
 7. Añade una etiqueta 'test'. Es posible que tengas que crear una nueva etiqueta para 'test' si se te solicita.
-8. Desplázate hacia abajo y haz clic en el botón verde 'publicar lanzamiento' (en inglés, _publish release_)
+8. Desplázate hacia abajo y haz clic en el botón verde 'publicar lanzamiento' (en inglés, _publish release_).
 
 <img src="../images/media/zenododoi8_es.jpg" style="width:100%;height:auto" />
 
@@ -255,7 +255,7 @@ Pasos para esta actividad:
 
 <img src="../images/media/zenododoi10_es.jpg" style="width:100%;height:auto" />
 
-Zenodo archiva tu repositorio y emite un nuevo DOI cada vez que creas un nuevo [lanzamiento](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases) GitHub. Sigue los pasos en "[Administrar lanzamientos en un repositorio](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository)" para crear uno nuevo.
+Zenodo archiva tu repositorio y emite un nuevo DOI cada vez que creas un nuevo [lanzamiento](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases) GitHub. Sigue los pasos en "[Administrar lanzamientos en un repositorio](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository)" (en inglés _Managing releases in a repository_) para crear uno nuevo.
 
 ### Hacer tu código fácil de citar
 
