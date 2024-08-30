@@ -393,7 +393,7 @@ Pregunta
 
 Fíjate bien en la siguiente solicitud de envío a una revista. ¿Te parece fiable esta solicitud?
 
-<img src="../images/media/image74_es.jpeg" style="width:100%;height:auto;" />
+<img src="../images/media/image74_es.png" style="width:100%;height:auto;" />
 
 - Sí
 - No
