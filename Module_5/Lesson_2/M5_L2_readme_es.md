@@ -158,7 +158,7 @@ Aquí enomeramos las preguntas en dos categorías: el propio material de los Res
   <thead>
     <tr>
         <th>EL PROPIO MATERIAL </th>
-        <th>EL WEBSITE / SERVIDOR ASOCIADO</th>
+        <th>EL WEBSITE / SERVIDOR ASOCIADO ☑</th>
         <th>INDICADORES DE FIABILIDAD DE LAS FUENTES</th>
     </tr>
   </thead>
@@ -167,7 +167,7 @@ Aquí enomeramos las preguntas en dos categorías: el propio material de los Res
         <td colspan="3">
             <ul>
                 <li>¿La URL del sitio web anfitrión termina en .edu, .gov o (si lo gestiona una organización sin ánimo de lucro) en .org?</li>
-                <li>¿Proporciona el sitio web anfitrión información de contacto del autor y/o la organización?</li>
+                <li>¿Proporciona el sitio web anfitrión información de contacto del equipo y/o la organización?</li>
                 <li>¿Se actualiza con frecuencia el sitio web del anfitrión?</li>
                 <li>¿Está el sitio web anfitrión libre de publicidad y/o contenidos patrocinados, cuya presencia podría indicar parcialidad?</li>
             </ul>
@@ -181,7 +181,7 @@ Aquí enomeramos las preguntas en dos categorías: el propio material de los Res
     <tr>
         <th>EL PROPIO MATERIAL </th>
         <th>EL WEBSITE / SERVIDOR ASOCIADO</th>
-        <th>INDICADORES DE FIABILIDAD DE LAS FUENTES</th>
+        <th>INDICADORES DE FIABILIDAD DE LAS FUENTES ☑</th>
     </tr>
   </thead>
   <tbody>
@@ -189,39 +189,39 @@ Aquí enomeramos las preguntas en dos categorías: el propio material de los Res
         <td colspan="3">
             <ul>
                 <li>¿El resultado es reproducible? ¿Puedes interactuar con los datos y los resultados? ¿Han informado otras personas de que pueden reproducir los resultados?</li>
-                <li>¿Es el autor fiable? ¿Ha visto que publiquen o compartan resultados en otros foros?</li>
-                <li>¿Es el resultado de un solo autor/voz o incluye contribuciones de una comunidad más amplia?</li>
-                <li>¿Tiene el post una cantidad significativa de me gusta/opiniones y comentarios públicos? El valor de una entrada de blog sin comentarios ni respuestas puede ser difícil de evaluar. Por el contrario, un foro de discusión de github exhaustivo con múltiples opiniones compartidas indica una publicación sólida.</li>
-                <li>¿Es el resultado parte de una conversación activa? (¿Es la información todavía relevante y actual?)</li>
+                <li>¿La perona autora es fiable? ¿Has visto que publiquen o compartan resultados en otros foros?</li>
+                <li>¿El resultado es de autoría individual o incluye contribuciones de una comunidad más amplia?</li>
+                <li>¿Tiene el post una cantidad significativa de valoraciones o de opiniones y comentarios públicos? El valor de una entrada de blog sin comentarios ni respuestas puede ser difícil de evaluar. Por el contrario, un foro de discusión de Github exhaustivo con múltiples opiniones compartidas indica una publicación sólida.</li>
+                <li>¿Es el resultado parte de una conversación activa? (¿La información sugue siendo relevante y actual?)</li>
             </ul>
         </td>
     </tr>
   </tbody>
 </table>
 
-Adaptado de [https://www.scribbr.com/working-with-sources/credible-sources/](https://www.scribbr.com/working-with-sources/credible-sources/)
+Adaptado de [https://www.scribbr.com/working-with-sources/credible-sources/](https://www.scribbr.com/working-with-sources/credible-sources/) (en inglés).
 
-Tenga en cuenta que el hecho de no cumplir uno o varios de los criterios no significa automáticamente que los Resultados Abiertos sean de mala calidad, sino más bien que se debe tener más precaución si se incorporan a su propia investigación. También significa que tendrá que invertir más en el examen personal del material para asegurarse de que su calidad es suficiente para sus fines.
+Ten en cuenta que el hecho de no cumplir uno o varios de los criterios no significa automáticamente que los Resultados Abiertos sean de mala calidad, sino que debes tener más precaución si los incorporas a tu propia investigación. También significa que tendrás que invertir más en la revisión del material para asegurarse de que su calidad es suficiente para tus fines.
 
-Ejemplo fiable: Los vídeos de YouTube de Qiusheng Wu (mencionados en la lección anterior). El Profesor Wu es un experto en su campo. Presenta los resultados junto con cuadernos que demuestran la reproducibilidad. Los comentarios en sus vídeos tutoriales de YouTube representan interacciones significativas entre los usuarios que reproducen los resultados y el autor.
+Ejemplo fiable: Los vídeos de YouTube de Qiusheng Wu (mencionado en la lección anterior). El Profesor Wu es un experto en su campo. Presenta los resultados junto con cuadernos que demuestran la reproducibilidad. Los comentarios en sus vídeos tutoriales de YouTube representan interacciones significativas entre los usuarios que reproducen los resultados y quien generó el material.
 
 ## Cómo citar Resultados Abiertos
 
-Aunque los Resultados Abiertos benefician a la ciencia y ya han aportado valiosos beneficios a la sociedad, el uso indebido y el intercambio incauto de materiales abiertos pueden tener efectos perjudiciales de gran alcance. El usuario final de los Resultados Abiertos tiene la responsabilidad de garantizar que los datos a los que hace referencia se utilizan de forma responsable y que se siguen las directrices pertinentes para el uso de los datos.
+Aunque los Resultados Abiertos benefician a la ciencia y ya han aportado valiosas ventajas a la sociedad, el uso indebido y el intercambio imprudente de materiales abiertos pueden tener efectos perjudiciales de gran alcance. Quien hace uso de los Resultados Abiertos tiene la responsabilidad de garantizar que los datos a los que hace referencia se utilizan de forma responsable y que siguen las directrices pertinentes para el uso de los datos.
 
 ### Cómo contribuir y proporcionar comentarios constructivos
 
-Contribuir y aportar comentarios constructivos son componentes vitales para un ecosistema de acceso abierto saludable, que garantice la sostenibilidad a largo plazo de los recursos abiertos al proporcionar mejoras continuas y ampliaciones de capacidad.
+Contribuir y aportar comentarios constructivos es vital para un ecosistema de Acceso Abierto saludable, que garantice la sostenibilidad a largo plazo de los recursos abiertos al proporcionar mejoras continuas y ampliaciones de capacidad.
 
-En nuestro sistema actual, hay personas creadoras y consumidoras de resultados. Este escenario presenta una vía de sentido único sin bucles de respuestas o de devolución, sin comunicación de datos a quienes editan y sin intercambio entre personas intermediarias.
+En nuestro sistema actual, hay personas creadoras y consumidoras de resultados. Este escenario es unidireccional, sin circuito de retroalimentación, sin intercambio de datos con las personas editoras y tampoco entre personas intermediarias.
 
-La práctica de producir Resultados Abiertos pretende fomentar un sistema en el que existan circuitos de comunicación entre quienes usan y crean. Las personas usuarias comparten su trabajo depurado, integrado o mejorado con quien lo creó. Esta comunicación crea un proceso simbiótico y sostenible del que todos y todas se benefician.
+La práctica de producir o crear Resultados Abiertos pretende fomentar un sistema en el que existan circuitos de comunicación entre quienes usan y crean. Las personas usuarias comparten su trabajo depurado, integrado o mejorado con quien lo creó. Esta comunicación genera un proceso simbiótico y sostenible del que todas las personas se benefician.
 
 ### Tus responsabilidades como persona usuaria de Resultados Abiertos
 
-- Las personas usuarias deben familiarizarse con las pautas para colaborar publicadas en los repositorios de Resultados Abiertos, y seguir las políticas asociadas. ¿Y si no hay pautas para colaborar? ¡Contacta a las personas creadoras!
+- Quienes usan resultados deben familiarizarse con las pautas para colaborar publicadas en los repositorios de Resultados Abiertos, y seguir las políticas asociadas. ¿Y si no hay pautas para colaborar? ¡Contacta a las personas creadoras!
 - Proporciona siempre comentarios de forma respetuosa y comprensiva.
-- Si descubres un error en los materiales de Resultados Abiertos, la acción ética a tomar es contactar al autor o autora (o al repositorio, dependiendo de la naturaleza del problema) y darles la oportunidad de corregir el problema, en lugar de ignorar el problema o (¡peor aún!) aprovechar un problema reparable para elevar tu propia investigación.
+- Si descubres un error en los materiales de Resultados Abiertos, la acción ética a tomar es contactar a quien los creó (o al repositorio, dependiendo de la naturaleza del problema) y darle la oportunidad de corregir el problema, en lugar de ignorar el problema o (¡peor aún!) aprovechar un problema reparable para mejorar tu propia investigación.
 
 ### Diferentes Maneras de Comentar
 
