@@ -1,49 +1,49 @@
-# Lección 2: Uso de datos abiertos
+# Lección 2: Usando Resultados Abiertos
 
 ## Contenidos
 
-- [Cómo Descubrir Resultados Abiertos](#how-to-discover-open-results)
-- [Cómo Evaluar Resultados Abiertos](#how-to-assess-open-results)
-- [Cómo Evaluar Resultados Abiertos](#how-to-assess-open-results)
-- [Cómo Citar Resultados Abiertos](#how-to-cite-open-results)
+- [Cómo descubrir Resultados Abiertos](#how-to-discover-open-results)
+- [Cómo evaluar Resultados Abiertos](#how-to-assess-open-results)
+- [Cómo usar Resultados Abiertos](#how-to-assess-open-results)
+- [Cómo citar Resultados Abiertos](#how-to-cite-open-results)
 - [Lección 2: Resumen](#lesson-2-summary)
 - [Lección 2: Evaluación](#lesson-2-knowledge-check)
 
-## Visión general
+## Descripción general
 
-Al final de esta lección, estará familiarizado con los recursos para la utilización de resultados abiertos, cómo y cuándo citar las fuentes de los resultados abiertos que utilice, cómo proporcionar retroalimentación a los proveedores de resultados abiertos y cómo determinar cuándo es apropiado invitar a los autores de los materiales de resultados abiertos a ser colaboradores formales en lugar de simplemente citar esos recursos en su trabajo.
+Al finalizar esta lección podrás reconocer los recursos para el uso de Resultados Abiertos, cómo y cuándo citar las fuentes de los Resultados Abiertos que uses, cómo proporcionar retroalimentación a quienes los proveen y cómo determinar cuándo es apropiado invitar a las personas autoras de los Resultados Abiertos a colaborar formalmente en lugar de simplemente citar esos recursos en tu trabajo.
 
-Los artículos publicados, las entradas de blog y los foros pueden aportarle nuevas ideas para su propia investigación. Una técnica aprendida de las redes sociales puede aplicarse a un caso de uso que está tratando de resolver. Hay muchas formas diferentes de descubrir resultados.
+Los artículos publicados, las entradas de blog y los foros pueden aportarle nuevas ideas para tu propia investigación. Una técnica aprendida de las redes sociales puede aplicarse a un caso de uso que está tratando de resolver. Hay muchas formas diferentes de descubrir resultados.
 
-## Objetivos de Aprendizaje del Módulo
+## Objetivos de aprendizaje 
 
-Después de completar este módulo, deberías ser capaz de:
+Al finalizar esta lección deberías ser capaz de:
 
-- Identificar una variedad de fuentes de resultados abiertos, incluyendo investigaciones científicas publicadas y fuentes no tradicionales.
-- Evaluar la fiabilidad y la calidad de las fuentes de resultados abiertos basándose en características clave.
-- Enumerar las responsabilidades de personas que usan resultados abiertos, incluido el envío de comentarios a los desarrolladores de resultados abiertos.
-- Listar las formas de citar resultados abiertos en su propio proceso de investigación.
+- Identificar una variedad de fuentes de Resultados Abiertos, incluyendo investigaciones científicas publicadas y fuentes no tradicionales.
+- Evaluar la fiabilidad y la calidad de las fuentes de Resultados Abiertos basándote en características clave.
+- Enumerar las responsabilidades de las personas que usan Resultados Abiertos, incluido el envío de comentarios a quienes los desarrollaron.
+- Listar las formas de citar Resultados Abiertos en tu propio proceso de investigación.
 
-## Cómo descubrir resultados abiertos
+## Cómo descubrir Resultados Abiertos
 
-¿Cómo puedo conocer el estado de la investigación en un campo concreto? ¿Cómo participar en la conversación actual? Los investigadores a menudo comienzan con una búsqueda de artículos revisados por pares. Esta revisión le indica cuánta investigación se ha realizado en un campo y qué conclusiones se han alcanzado recientemente. En la mayoría de los campos, el proceso de revisión por pares puede tardar hasta un año. La posibilidad de encontrar preprints puede ayudar a reducir este retraso, ya que ofrecen los últimos hallazgos antes de una fecha de publicación. Sin embargo, los investigadores que deciden compartir sus resultados antes de la publicación suelen hacerlo de las formas indicadas anteriormente como mejores prácticas. Al empezar a investigar sobre un tema, ¿Cómo encontrar todos estos tipos diferentes de resultados y dedicarse a la investigación más pertinente?
+¿Cómo puedo conocer el estado de la investigación en un campo concreto? ¿Cómo participar en la conversación actual? Las personas dedicadas a la investigación a menudo comienzan con una búsqueda de artículos revisados por pares. Esta revisión le indica cuánto se ha investigado en un campo y qué conclusiones se han alcanzado recientemente. En la mayoría de los campos, el proceso de revisión por pares puede tardar hasta un año. La posibilidad de encontrar preprints puede ayudar a reducir este retraso, ya que ofrecen los últimos hallazgos antes de la fecha de publicación. Quienes deciden compartir sus resultados antes de la publicación suelen hacerlo de las formas indicadas anteriormente como mejores prácticas. Al empezar a investigar sobre un tema, ¿cómo encontrar todos estos tipos diferentes de resultados y dedicarse a la investigación más pertinente?
 
 ### Ejemplo: Exoplanetas
 
-Las distintas etapas de la investigación, desde la conceptualización hasta la difusión de los resultados, generan productos que pueden ponerse en el dominio público como «resultados abiertos». Dónde se archivan estos resultados, y en qué grado, depende del autor de la disciplina.  No obstante, algunas directrices generales sobre dónde empezar una búsqueda de resultados abiertos incluyen:
+Las distintas etapas de la investigación, desde la conceptualización hasta la difusión de los resultados, generan productos que pueden ponerse en el dominio público como «Resultados Abiertos». Dónde se archivan estos resultados y en qué grado, depende de la disciplina y de la persona autora. No obstante, algunas directrices generales sobre dónde empezar una búsqueda de Resultados Abiertos incluyen:
 
 1. Portales de búsqueda académica
 2. Búsquedas en Internet
 
 **Portales de búsqueda académica**
 
-Los motores de búsqueda como Google y Bing han cambiado radicalmente la forma en que buscamos información. Para los resultados de la investigación, los buscadores y portales académicos especializados recopilan los resultados científicos de los investigadores por temas y campos. Estos motores son útiles para encontrar artículos revisados por pares.
+Los motores de búsqueda como Google y Bing han cambiado radicalmente la forma en que buscamos información. Para los resultados de la investigación, los buscadores y portales académicos especializados recopilan los resultados científicos de las personas que investigan por temas y campos. Estos motores son útiles para encontrar artículos revisados por pares.
 
 <table>
   <thead>
     <tr>
         <th>GENÉRICO ☑</th>
-        <th>DISCIPLINA ESPECÍFICA</th>
+        <th>ESPECÍFICO DE UNA DISCIPLINA</th>
     </tr>
   </thead>
   <tbody>
@@ -68,15 +68,15 @@ Los motores de búsqueda como Google y Bing han cambiado radicalmente la forma e
   <thead>
     <tr>
         <th>GENÉRICO</th>
-        <th>DISCIPLINA ESPECÍFICA ☑</th>
+        <th>ESPECÍFICO DE UNA DISCIPLINA ☑</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="2">
             <ul>
-                <li><a href="https://europepmc.org/">EuropePMC ciencias de la vida (EuropePMC Life sciences)</a></li>
-                <li><a href="https://pubmed.ncbi.nlm.nih.gov/">Literatura biomédica Pubmed (Pubmed biomedical literature) </a></li>
+                <li><a href="https://europepmc.org/">EuropePMC ciencias de la vida (_EuropePMC Life sciences_)</a></li>
+                <li><a href="https://pubmed.ncbi.nlm.nih.gov/">Literatura biomédica Pubmed (_Pubmed biomedical literature_) </a></li>
                 <li><a href="https://arxiv.org/">arXiv</a> - para preprints académicos en los campos de STEM, economía e informática.</li> 
                 <li><a href="https://www.biorxiv.org/">Biorxiv Preprint</a> - servidor para biología</li>
                 <li><a href="https://eartharxiv.org/">EarthArXiv</a> y <a href="https://essoar.org/">Archivo Abierto de Ciencias de la Tierra y Espacio</a></li>
@@ -88,15 +88,15 @@ Los motores de búsqueda como Google y Bing han cambiado radicalmente la forma e
   </tbody>
 </table>
 
-Las publicaciones que proporcionan algunos niveles de acceso abierto se rastrean en el [Directorio de Revistas de Acceso Abierto (DOAJ).](https://doaj.org/)
+Las publicaciones que proporcionan algunos niveles de Acceso Abierto se rastrean en el [Directorio de Revistas de Acceso Abierto (DOAJ).](https://doaj.org/) (en inglés). 
 
 **Búsquedas en Internet**
 
-Los resultados abiertos incluyen mucho más que publicaciones revisadas por pares de acceso abierto. ¿Cómo se encuentran estos tipos alternativos de objetos de investigación?
+Los Resultados Abiertos incluyen mucho más que publicaciones de Acceso Abierto revisadas por pares. ¿Cómo se encuentran estos tipos alternativos de objetos de investigación?
 
 Las comunidades abiertas y los foros ofrecen la mejor manera de encontrar objetos de investigación que no sean publicaciones completas. ¿Cómo averiguar si existen y dónde están?
 
-Una vez que haya encontrado algunos artículos revisados por pares que son muy relevantes, para encontrar objetos de investigación adicionales, usted puede seguir a los autores de las redes sociales para enlaces a sus mensajes, blogs y actividades. Hay comunidades abiertas en casi todas las áreas de investigación - ¡encuentra la tuya! Aquí están diferentes plataformas para localizar estas conversaciones y recursos:
+Una vez que hayas encontrado algunos artículos revisados por pares que son muy relevantes, para encontrar objetos de investigación adicionales puedes seguir a las personas autoras en las redes sociales para obtener enlaces a sus publicaciones, blogs y actividades. Hay comunidades abiertas en casi todas las áreas de investigación: ¡Encuentra la tuya! Aquí hay diferentes plataformas para localizar estas conversaciones y recursos:
 
 - GitHub
 - LinkedIn
@@ -111,23 +111,23 @@ Una vez que haya encontrado algunos artículos revisados por pares que son muy r
 - Reddit
 - Mastodon
 
-Los diversos objetos de investigación, incluidos los conjuntos de datos y el software, se adjuntan con frecuencia a publicaciones científicas en forma de material suplementario. En otras ocasiones, se hace referencia a la fuente en el documento, que podría ser un repositorio de GitHub, un sitio web personal/institucional u otro sitio de almacenamiento. Este puede ser otro punto de partida, entablando discusiones en el repositorio de GitHub.
+Los diversos objetos de investigación, incluidos los conjuntos de datos y el software, se adjuntan con frecuencia a publicaciones científicas en forma de material suplementario. En otras ocasiones, se hace referencia a la fuente en el documento, que podría estar en un repositorio de GitHub, un sitio web personal/institucional u otro sitio de almacenamiento. Este puede ser otro punto de partida, participar de los debates en el repositorio de GitHub.
 
-**Ejemplo de Kerchunk:** En la lección 1, se presentó una entrada de blog sobre una biblioteca de software «kerchunk». Veamos un [post](https://discourse.pangeo.io/t/trick-for-improving-kerchunk-performance-for-large-numbers-of-chunks-files/3090) en el [Pangeo Discourse Forum](https://discourse.pangeo.io/) de Kerchunk con un gran número de visitas. La ciencia abierta [proyecto Pangeo](https://pangeo.io/) funcionaba completamente abierta. El [sitio web del proyecto](https://pangeo.io/) (gestionado desde GitHub) tiene enlaces a entradas de blog, un foro de debate y un calendario de todas sus reuniones, a las que cualquiera puede unirse. Esto ha dado lugar a una comunidad comprometida y dinámica. Un ejemplo de ello es el post enlazado más arriba, en el que una persona pide ayuda, otras responden y la conversación se documenta abiertamente. Las 636 visitas del post indican que esta pregunta, o una parecida, se les ha ocurrido a otras personas. Imagínese si esto se hubiera hecho por correo electrónico privado? Al trabajar de forma abierta, están mejorando la ciencia y ayudando a todos a ser más rápidos y precisos.
+**Ejemplo de Kerchunk:** En la Lección 1, se presentó una entrada de blog sobre una biblioteca o librería de software llamada «kerchunk». Veamos un [post](https://discourse.pangeo.io/t/trick-for-improving-kerchunk-performance-for-large-numbers-of-chunks-files/3090) (en inglés) en el [Pangeo Discourse Forum](https://discourse.pangeo.io/) de Kerchunk con un gran número de visitas. El [proyecto de Ciencia Abierta Pangeo](https://pangeo.io/) (en inglés) funcionaba de manera completamente abierta. El [sitio web del proyecto](https://pangeo.io/) (gestionado desde GitHub) tiene enlaces a entradas de blog, un foro de debate y un calendario de todas sus reuniones, a las que cualquiera puede unirse. Esto ha dado lugar a una comunidad comprometida y dinámica. Un ejemplo de ello es el post enlazado más arriba, en el que una persona pide ayuda, otras responden y la conversación se documenta abiertamente. Las 1300 visitas del post indican que esta pregunta, o una parecida, se les ha ocurrido a otras personas. Imagínese si esto se hubiera hecho por correo electrónico privado? Al trabajar de forma abierta, están mejorando la ciencia y ayudando a todas las personas a ser más rápidas y precisas.
 
-## Cómo evaluar resultados abiertos
+## Cómo evaluar Resultados Abiertos
 
-«Basura dentro, basura fuera»: sus propios productos de investigación sólo son tan buenos como los datos utilizados en su investigación.
+«Basura que entra, basura que sale»: Tus propios productos de investigación son tan buenos como los datos utilizados en tu investigación.
 
-Si utiliza datos de mala calidad o materiales procedentes de fuentes poco fiables y no verificadas como componentes fundamentales de su investigación, corre el riesgo de producir ciencia defectuosa o de baja calidad que puede dañar su reputación como científico. Por lo tanto, es fundamental evaluar la calidad y fiabilidad de las fuentes de resultados abiertos antes de incluirlas en su propio trabajo.
+Si usas datos de mala calidad o materiales procedentes de fuentes poco fiables y no verificadas como componentes fundamentales de tu investigación, corres el riesgo de producir ciencia defectuosa o de baja calidad que puede dañar tu reputación como parte de la comunidad científica. Por lo tanto, es fundamental evaluar la calidad y fiabilidad de las fuentes de los Resultados Abiertos antes de incluirlos en tu propio trabajo.
 
 ¿Cuáles son las mejores prácticas para evaluar la calidad de fuentes de datos alternativas a los artículos de investigación, como entradas de blog, vídeos de youtube y otros objetos de investigación?
 
-### Atributos de un material reputado
+### Atributos de un material confiable
 
-Echemos un vistazo a las preguntas que deberías plantearte a la hora de determinar la fiabilidad de cualquier tipo de fuente de resultados abierta.
+Echemos un vistazo a las preguntas que deberías plantearte a la hora de determinar la fiabilidad de cualquier tipo de fuente de Resultados Abiertos.
 
-Here, we list questions under two categories: the open results material themselves, and the server they are downloaded from. Cuantas más preguntas puedan responderse afirmativamente, menor será el riesgo de utilizar los materiales de resultados abiertos para su propia investigación.
+Aquí enomeramos las preguntas en dos categorías: el propio material de los Resultados Abiertos, y el servidor de donde se descargan. Cuantas más preguntas puedan responderse afirmativamente, menor será el riesgo de utilizar esos Resultados Abiertos para su propia investigación.
 
 <table>
   <thead>
@@ -142,12 +142,12 @@ Here, we list questions under two categories: the open results material themselv
         <td colspan="3">
             <ul>
                 <li>¿El material está asociado con una publicación revisada por pares?</li>
-                <li>¿Los datos primarios asociados a los resultados también son de código abierto?</li>
-                <li>¿El código utilizado para generar los materiales de Open Results también es de código abierto?</li>
+                <li>¿Los datos primarios asociados a los resultados también son de Código Abierto?</li>
+                <li>¿El código utilizado para generar los materiales de Resultados Abiertos también es de Código Abierto?</li>
                 <li>¿Están definidos claramente todos los campos y parámetros?</li>
                 <li>¿Está claramente descrita la estimación de las incertidumbres de medición?</li>
                 <li>¿Se excluyó algún dato o resultado? En caso afirmativo, ¿se facilitaron los criterios de exclusión?</li>
-                <li>¿Los equipos de autores son también miembros del campo?</li>
+                <li>¿Los equipos que los crearon son también miembros del campo disciplinar?</li>
             </ul>
         </td>
     </tr>
@@ -201,13 +201,13 @@ Here, we list questions under two categories: the open results material themselv
 
 Adaptado de [https://www.scribbr.com/working-with-sources/credible-sources/](https://www.scribbr.com/working-with-sources/credible-sources/)
 
-Tenga en cuenta que el hecho de no cumplir uno o varios de los criterios no significa automáticamente que los resultados abiertos sean de mala calidad, sino más bien que se debe tener más precaución si se incorporan a su propia investigación. También significa que tendrá que invertir más en el examen personal del material para asegurarse de que su calidad es suficiente para sus fines.
+Tenga en cuenta que el hecho de no cumplir uno o varios de los criterios no significa automáticamente que los Resultados Abiertos sean de mala calidad, sino más bien que se debe tener más precaución si se incorporan a su propia investigación. También significa que tendrá que invertir más en el examen personal del material para asegurarse de que su calidad es suficiente para sus fines.
 
 Ejemplo fiable: Los vídeos de YouTube de Qiusheng Wu (mencionados en la lección anterior). El Profesor Wu es un experto en su campo. Presenta los resultados junto con cuadernos que demuestran la reproducibilidad. Los comentarios en sus vídeos tutoriales de YouTube representan interacciones significativas entre los usuarios que reproducen los resultados y el autor.
 
-## Cómo citar resultados abiertos
+## Cómo citar Resultados Abiertos
 
-Aunque los resultados abiertos benefician a la ciencia y ya han aportado valiosos beneficios a la sociedad, el uso indebido y el intercambio incauto de materiales abiertos pueden tener efectos perjudiciales de gran alcance. El usuario final de los resultados abiertos tiene la responsabilidad de garantizar que los datos a los que hace referencia se utilizan de forma responsable y que se siguen las directrices pertinentes para el uso de los datos.
+Aunque los Resultados Abiertos benefician a la ciencia y ya han aportado valiosos beneficios a la sociedad, el uso indebido y el intercambio incauto de materiales abiertos pueden tener efectos perjudiciales de gran alcance. El usuario final de los Resultados Abiertos tiene la responsabilidad de garantizar que los datos a los que hace referencia se utilizan de forma responsable y que se siguen las directrices pertinentes para el uso de los datos.
 
 ### Cómo contribuir y proporcionar comentarios constructivos
 
@@ -215,11 +215,11 @@ Contribuir y aportar comentarios constructivos son componentes vitales para un e
 
 En nuestro sistema actual, hay personas creadoras y consumidoras de resultados. Este escenario presenta una vía de sentido único sin bucles de respuestas o de devolución, sin comunicación de datos a quienes editan y sin intercambio entre personas intermediarias.
 
-La práctica de producir resultados abiertos pretende fomentar un sistema en el que existan circuitos de comunicación entre quienes usan y crean. Las personas usuarias comparten su trabajo depurado, integrado o mejorado con quien lo creó. Esta comunicación crea un proceso simbiótico y sostenible del que todos y todas se benefician.
+La práctica de producir Resultados Abiertos pretende fomentar un sistema en el que existan circuitos de comunicación entre quienes usan y crean. Las personas usuarias comparten su trabajo depurado, integrado o mejorado con quien lo creó. Esta comunicación crea un proceso simbiótico y sostenible del que todos y todas se benefician.
 
-### Tus responsabilidades como persona usuaria de resultados abiertos
+### Tus responsabilidades como persona usuaria de Resultados Abiertos
 
-- Las personas usuarias deben familiarizarse con las pautas para colaborar publicadas en los repositorios de resultados abiertos, y seguir las políticas asociadas. ¿Y si no hay pautas para colaborar? ¡Contacta a las personas creadoras!
+- Las personas usuarias deben familiarizarse con las pautas para colaborar publicadas en los repositorios de Resultados Abiertos, y seguir las políticas asociadas. ¿Y si no hay pautas para colaborar? ¡Contacta a las personas creadoras!
 - Proporciona siempre comentarios de forma respetuosa y comprensiva.
 - Si descubres un error en los materiales de Resultados Abiertos, la acción ética a tomar es contactar al autor o autora (o al repositorio, dependiendo de la naturaleza del problema) y darles la oportunidad de corregir el problema, en lugar de ignorar el problema o (¡peor aún!) aprovechar un problema reparable para elevar tu propia investigación.
 
@@ -286,8 +286,8 @@ Lamentablemente, muchas veces no existen pautas de contribución y no está clar
 ### Responsabilidades de quienes utilizan Resultados Abiertos
 
 - **Cumplimiento de la Seguridad Institucional:** Descarga siempre el código de una fuente autorizada y conoce/sigue las políticas de seguridad informática de tu institución.
-- **Políticas de Licencia:** Comprende y respeta la(s) licencia(s) asociada(s) con los materiales de resultados abiertos que estás utilizando.
-- **Atribución y contribución:** Proporciona una atribución adecuada para los resultados abiertos utilizados y contribuye a la comunidad de resultados abiertos.
+- **Políticas de Licencia:** Comprende y respeta la(s) licencia(s) asociada(s) con los materiales de Resultados Abiertos que estás utilizando.
+- **Atribución y contribución:** Proporciona una atribución adecuada para los Resultados Abiertos utilizados y contribuye a la comunidad de Resultados Abiertos.
 
 Además, da crédito a los repositorios que proporcionan materiales de código abierto en la sección de agradecimientos de tu artículo. Si el repositorio proporciona un modelo de agradecimientos en su enlace "Acerca de", sigue esa sugerencia. De lo contrario, una frase genérica como "Este trabajo ha hecho uso de <inserte el nombre del repositorio>." será suficiente.
 
@@ -308,9 +308,9 @@ Algunos ejemplos de plagio son:
 
 [HAZ CLIC PARA APRENDER MÁS](https://www.elsevier.com/editor/perk/plagiarism-complaints#0-introduction) (en inglés)
 
-## Cómo citar resultados abiertos
+## Cómo citar Resultados Abiertos
 
-Brindar una atribución adecuada a los resultados abiertos es una responsabilidad importante y ética al utilizar materiales de código abierto. El proceso de citación depende de la naturaleza del material.
+Brindar una atribución adecuada a los Resultados Abiertos es una responsabilidad importante y ética al utilizar materiales de código abierto. El proceso de citación depende de la naturaleza del material.
 
 ### Pautas de citación para resultados publicados y no publicados
 
@@ -356,7 +356,7 @@ Jin, H., et al. 2023, "El color óptico de las supernovas de tipo Ib y Ic y sus 
                 <li>Cita publicaciones</li>
                 <li>Cita datos</li>
                 <li>Cita software</li>
-                <li>Cita cualquier otro objeto con un DOI. Teniendo en cuenta que muchas revistas sólo permiten a las personas autoras citar material que tenga un DOI, ¿qué hacer con otros tipos de resultados abiertos?</li>
+                <li>Cita cualquier otro objeto con un DOI. Teniendo en cuenta que muchas revistas sólo permiten a las personas autoras citar material que tenga un DOI, ¿qué hacer con otros tipos de Resultados Abiertos?</li>
             </ul>
         </td>
     </tr>
@@ -415,10 +415,10 @@ En la Lección 1, se presentó el caso de JWST. El [artículo]revisado por pares
 
 En esta lección, has aprendido:
 
-- Los resultados abiertos se pueden encontrar tanto utilizando Portales Académicos de Búsqueda como mediante búsquedas en internet.
+- Los Resultados Abiertos se pueden encontrar tanto utilizando Portales Académicos de Búsqueda como mediante búsquedas en internet.
 - La confiabilidad de una publicación generalmente puede evaluarse por la confiabilidad del sitio web del que proviene, la participación de la comunidad y el rigor científico de su contenido.
-- Quienes utilizan resultados abiertos, en tanto son las personas que inherentemente administran la comunidad de código abierto, tienen informalmente la responsabilidad de contribuir a la sostenibilidad de la comunidad. Esta participación incluye la comunicación de opiniones a quienes proporcionan y desarrollan resultados abiertos.
-- Dar una adecuada referencia a los resultados abiertos es una responsabilidad importante y ética a la hora de utilizar materiales de código abierto. La forma de citar los resultados depende de la especificidad del material.
+- Quienes utilizan Resultados Abiertos, en tanto son las personas que inherentemente administran la comunidad de código abierto, tienen informalmente la responsabilidad de contribuir a la sostenibilidad de la comunidad. Esta participación incluye la comunicación de opiniones a quienes proporcionan y desarrollan Resultados Abiertos.
+- Dar una adecuada referencia a los Resultados Abiertos es una responsabilidad importante y ética a la hora de utilizar materiales de código abierto. La forma de citar los resultados depende de la especificidad del material.
 
 ## Lección 2: Evaluación
 
@@ -428,7 +428,7 @@ _Pregunta_
 
 **01/02**
 
-¿Cuál de las siguientes opciones podría ser una fuente de resultados abiertos? Selecciona todos los que correspondan.
+¿Cuál de las siguientes opciones podría ser una fuente de Resultados Abiertos? Selecciona todos los que correspondan.
 
 - Búsquedas en Internet
 - Artículos a los que se accedió a través de una suscripción pagada
