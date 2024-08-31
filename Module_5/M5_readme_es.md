@@ -1,37 +1,38 @@
-# Módulo 5: Resultados Abiertos
+# Introducción a la Ciencia Abierta Módulo 5: Resultados Abiertos
 
-**Te Damos la Bienvenida al Módulo de Resultados Abiertos**
+Te damos la bienvenida a Introducción a la Ciencia Abierta: Resultados Abiertos
+
 
 ## Acerca de este módulo
 
-¡Te damos la bienvenida a Resultados Abiertos! Este módulo se centra en brindarte las herramientas que necesitas para iniciar una colaboración científica mediante la creación de pautas para los contribuyentes que garanticen una colaboración ética. El módulo comienza con un caso de uso de la ciencia abierta en acción, seguido de una revisión sobre cómo descubrir y evaluar resultados abiertos. A continuación, se centra en cómo publicar resultados, lo que incluye una lista de verificación de tareas. Finalmente, el módulo concluye con una orientación específica para la escritura de la sección de compartir resultados de los Planes de Gestión de Ciencia Abierta y Datos (PGCAD). Además, reflexionaremos sobre cómo nuestra sociedad y nuestra tecnología evolucionan constantemente en la forma en que hacemos ciencia.
+Este módulo se centra en brindarte las herramientas que necesitas para iniciar una colaboración científica mediante la creación de pautas para los contribuyentes que garanticen una colaboración ética. El módulo comienza con un caso de uso de la Ciencia Abierta en acción, seguido de una revisión sobre cómo descubrir y evaluar Resultados Abiertos. A continuación, se enfoca en cómo publicar resultados, lo que incluye una lista de verificación de tareas. Finalmente, el módulo concluye con una orientación específica para la escritura de la sección de compartir resultados de los Planes de Ciencia Abierta y Gestión de Datos. Además, reflexionaremos sobre cómo la sociedad y la tecnología evolucionan constantemente en la forma en que hacemos ciencia.
 
 ### Objetivos de aprendizaje del módulo
 
 Al finalizar esta lección deberías ser capaz de:
 
-- Describir qué constituye un resultado abierto.
-- Explicar qué es la crisis de reproducibilidad y cómo la ciencia abierta puede ayudar a combatirla.
+- Describir en qué consiste un Resultado Abierto.
+- Explicar qué es la crisis de reproducibilidad y cómo la Ciencia Abierta puede ayudar a combatirla.
 - Llevar adelante un proceso para descubrir, evaluar y citar resultados abiertos que permitan su reutilización.
-- Enumerar las responsabilidades de quienes participan en la creación de resultados abiertos: personas usuarias de los resultados abiertos, personas líderes de proyectos, personas colaboradoras y autoras.
+- Enumerar las responsabilidades de quienes participan en la creación de Resultados Abiertos: personas usuarias de los resultados abiertos, personas líderes de proyectos, personas colaboradoras y autoras.
 - Enumerar las tareas para crear resultados reproducibles y los elementos que se deben incluir en un manuscrito para garantizar resultados reproducibles.
-- Definir una estrategia para compartir resultados incluyendo la selección de editores, la interpretación de políticas de revistas y licencias, y determinando con tu documento cuándo compartir tus datos o software.
+- Definir una estrategia para compartir resultados que incluya la selección de editores, la interpretación de políticas de revistas y licencias, y la  determinación de cuando compartir tus datos o software con tu manuscrito.
 
 # Términos clave
 
-Estos términos clave son importantes para el módulo. Seleccione el término para ver la descripción.
+Estos términos clave son importantes para el módulo. Selecciona el término para ver la descripción.
 
 **Objeto de Investigación (OI)** - Un método para la identificación, agregado e intercambio de información científica en la Web. Puede incluir publicaciones en diferentes formatos, softwares, datos y medios.
 
-**Publicación Depredadora** - Editores con fines de lucro que cobran una tarifa por publicación pero ofrecen pocos controles de calidad, como revisión por pares o composición tipográfica.
+**Publicación depredadora** - Editoriales con fines de lucro que cobran una tarifa por publicación pero ofrecen pocos controles de calidad, como revisión por pares o composición tipográfica.
 
 **Preimpresión** - Versión de un artículo previa a su publicación en una revista. Puede tratarse de la versión del documento aceptado después de la revisión por pares, o de una versión anterior a su envío a una revista.
 
 **Prerregistro** - Práctica de quienes investigan en la cual determinan su plan de análisis y procedimiento de recolección de datos antes de que comience un estudio.
 
-**Identificadores Persistentes** - Referencia duradera a un documento, archivo, página web u otro objeto digital. Generalmente se utiliza en el contexto de objetos digitales accesibles a través de Internet. La mayoría de los identificadores persistentes tienen un identificador único que está vinculado a la dirección actual de los metadatos o del contenido.
+**Identificadores persistentes** - Referencia duradera a un documento, archivo, página web u otro objeto digital. Generalmente se utiliza en el contexto de objetos digitales accesibles a través de Internet. La mayoría de los identificadores persistentes tienen un identificador único que está vinculado a la dirección actual de los metadatos o del contenido.
 
-**Crisis de Reproducibilidad** - La 'crisis de reproducibilidad' de la ciencia es una preocupación creciente debido a varios estudios de reproducibilidad en los que resultados positivos previos no fueron reproducidos.
+**Crisis de reproducibilidad** - La 'crisis de reproducibilidad' de la ciencia es una preocupación creciente debido a varios estudios de reproducibilidad en los que resultados positivos previos no fueron reproducidos.
 
 **DOI** - Es un identificador persistente estandarizado por la Organización Internacional para la Estandarización (ISO, en inglés) y utilizado para identificar de forma única varios objetos.
 
