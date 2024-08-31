@@ -1,4 +1,4 @@
-# Lección 4: compartiendo resultados abiertos
+# Lección 4: Compartiendo Resultados Abiertos
 
 ## Navegación
 
