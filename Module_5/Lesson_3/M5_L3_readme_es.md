@@ -2,49 +2,49 @@
 
 ## Contenidos
 
-- [Cómo Hacer Resultados Abiertos](#how-to-make-open-results)
-- [Rol de Contribuyentes en Ciencia Abierta](#role-of-contributors-in-open-science)
-- [Cómo Brindar Reconocimiento Abierto](#how-to-give-open-recognition)
-- [Combinar Resultados Abiertos para Informes Científicos y Publicaciones](#combining-open-results-for-scientific-reporting-and-publications)
+- [Cómo hacer Resultados Abiertos](#how-to-make-open-results)
+- [El rol de las personas colaboradoras en la Ciencia Abierta](#role-of-contributors-in-open-science)
+- [Cómo dar reconocimiento abierto](#how-to-give-open-recognition)
+- [Combinar Resultados Abiertos para informes científicos y publicaciones](#combining-open-results-for-scientific-reporting-and-publications)
 - [Lección 3: Resumen](#lesson-3-summary)
 - [Lección 3: Evaluación](#lesson-3-knowledge-check)
 
-## Resumen
+## Descripción general 
 
-En la Lección 2 aprendiste a usar los resultados de otros. En esta lección, nos centraremos en lograr resultados abiertos. Empezaremos por debatir qué significa conseguir resultados reproducibles. Habiendo comentado anteriormente en el curso las prácticas de reproducibilidad computacional en software abierto, en esta lección, enfatizamos específicamente la importancia de las colaboraciones para que estos resultados sean abiertos y reproducibles. Empezando por reconocer que los resultados científicos no son obtenidos por individuos. Asimismo, te enseñaremos cómo garantizar colaboraciones equitativas, justas y exitosas al generar resultados abiertos que reconozcan todas las contribuciones. Una vez que hayas planificado las reglas de participación, te brindaremos formas de garantizar que tus informes y publicaciones respeten los principios de resultados abiertos y combatan la crisis de reproducibilidad.
+En la Lección 2 aprendiste a usar los resultados de otros. En esta lección nos centraremos en generar Resultados Abiertos. Empezaremos por debatir qué significa conseguir resultados reproducibles. Como ya hemos comentado en el curso las prácticas de reproducibilidad computacional en Software Abierto, en esta lección enfatizamos específicamente la importancia de las colaboraciones para que estos resultados sean abiertos y reproducibles. Empezando por reconocer que los resultados científicos no son obtenidos por individuos. Asimismo, te enseñaremos cómo garantizar colaboraciones equitativas, justas y exitosas al generar Resultados Abiertos que reconozcan todas las contribuciones. Una vez que hayas planificado las reglas de participación, te brindaremos formas de garantizar que tus informes y publicaciones respeten los principios de Resultados Abiertos y combatan la crisis de reproducibilidad.
 
-## Objetivos de Aprendizaje
+## Objetivos de aprendizaje
 
-Después de completar este módulo, deberías poder:
+Al finalizar esta lección deberías ser capaz de:
 
-- Identificar enfoques para hacer diferentes tipos de resultados abiertos.
+- Identificar enfoques para hacer diferentes tipos de Resultados Abiertos.
 - Reconocer la importancia de la colaboración en la obtención de resultados.
-- Desarrollar directrices de contribución para permitir el reconocimiento de los contribuyentes que obtienen resultados.
-- Combinar diferentes resultados abiertos para crear informes científicos y resultados reproducibles.
+- Desarrollar pautas de contribución para permitir el reconocimiento de quienes contribuyen con los resultados.
+- Combinar diferentes Resultados Abiertos para crear informes científicos y resultados reproducibles.
 
-## Cómo Hacer Resultados Abiertos
+## Cómo hacer Resultados Abiertos
 
-### Capturar con Precisión el Proceso de Investigación en la Obtención de Resultados
+### Capturar con precisión el proceso de investigación en la obtención de resultados
 
-> Explicaremos qué es la crisis de reproducibilidad y cómo la ciencia abierta puede ayudarte a combatirla. ¿Qué formas prácticas puedo aplicar a mis resultados de investigación para obtener resultados abiertos? ¿Cómo puedo asegurarme de que los resultados que comparto puedan ser reproducidos por otros? ¿Cómo puedo realizar publicaciones científicas que no aumenten la crisis de reproducibilidad, sino que la combatan?
+> Explicaremos qué es la crisis de reproducibilidad y cómo la Ciencia Abierta puede ayudarte a combatirla. ¿Qué formas prácticas puedo aplicar a mis resultados de investigación para obtener Resultados Abiertos? ¿Cómo puedo asegurarme de que los resultados que comparto puedan ser reproducidos por otras personas? ¿Cómo puedo realizar publicaciones científicas que no aumenten la crisis de reproducibilidad, sino que la combatan?
 
-En el conjunto de valores de la Ciencia Abierta, aprendiste sobre la ética y los principios subyacentes a prácticas científicas abiertas responsables. En Software Abierto, exploraste e identificaste las herramientas y métodos correctos que aseguran la usabilidad y reproducibilidad de su análisis. En Datos Abiertos, desarrollaste un plan de gestión de datos que puede garantizar los principios FAIR de los datos a lo largo del proceso de investigación, y no sólo al final cuando se publica el informe final del proyecto. Estos enfoques científicos abiertos abordan directamente las causas profundas de la crisis de reproducibilidad, que son la falta de apertura durante todo el proceso científico, falta de documentación, descripción deficiente de métodos intermedios o datos faltantes que se utilizaron en etapas intermedias del proceso de investigación. En esta lección, aprenderá a reunir todo esto para asegurarte de estar preparado para que otros puedan reproducir fácilmente los resultados abiertos.
+En el conjunto de valores de la Ciencia Abierta, aprendiste sobre la ética y los principios subyacentes en las prácticas científicas abiertas responsables. En Software Abierto, exploraste e identificaste las herramientas y métodos correctos que aseguran la usabilidad y reproducibilidad de su análisis. En Datos Abiertos, desarrollaste un Plan de Gestión de Datos que puede garantizar los principios FAIR de los datos a lo largo del proceso de investigación, y no sólo al final cuando se publica el informe final del proyecto. Estos enfoques científicos abiertos abordan directamente las causas profundas de la crisis de reproducibilidad, que son la falta de apertura durante todo el proceso científico, la ausencia de documentación, la descripción deficiente de métodos intermedios o los datos faltantes que se utilizaron en etapas intermedias del proceso de investigación. En esta lección, aprenderás a reunir todo esto para asegurarte de que otras personas puedan reproducir fácilmente tus Resultados Abiertos.
 
-En la Lección 1, identificamos diferentes componentes de investigación que pueden considerarse resultados abiertos en varias etapas de la investigación. En esta lección, queremos explicar específicamente qué procesos están involucrados en su elaboración.
+En la Lección 1, identificamos diferentes componentes de investigación que pueden considerarse Resultados Abiertos en varias etapas de la investigación. En esta lección, queremos explicar específicamente qué procesos están involucrados en su elaboración.
 
-### Estudio de Caso: Resultados Abiertos de Colaboración del Telescopio de Eventos Distribuidos por Multi-Equipo (en inglés, EHTC)
+### Estudio de caso: Resultados Abiertos de colaboración distribuida entre varios eqiupos del Telescopio _Event Horizon_ 
 
-**Ejemplo:** Capturando resultados de actividades que van desde la colaboración hasta las observaciones, generación de imágenes hasta interpretación.
+**Ejemplo:** Captura de resultados de actividades que van desde la colaboración hasta las observaciones, pasando por la generación de imágenes y la  interpretación.
 
-En 2017, el telescopio del Horizonte de Sucesos apuntó a agujeros negros supermasivos con los horizontes de sucesos aparentes más grandes: M87 y Sgr A\* en el Centro Galáctico en cuatro días distintos. Esta colaboración distribuida condujo al rendimiento multipetabyte de los datos que permitieron a las personas dedicadas a la astronomía revelar la primera imagen de un agujero negro proporcionando la más fuerte evidencia visual de su existencia. El [sitio web de EHTC](https://eventhorizontelescope.org/) proporciona información sobre proyectos de investigación, métodos científicos, instrumentos, medios de prensa y otros medios (como publicaciones del blog, artículos de noticias y vídeos de YouTube), así como eventos, datos, propuestas y publicaciones. Este proyecto muestra un trabajo a gran escala y de alto impacto que aplica prácticas abiertas para lograr sus resultados. Los diferentes tipos de resultados compartidos en este proyecto se pueden asignar a diferentes etapas del proceso de investigación y a los equipos involucrados en su creación.
+En 2017, el telescopio del _Event Horizon_ (EHTC por sus siglas en inglés) apuntó a agujeros negros supermasivos con los horizontes de sucesos aparentes más grandes: M87 y Sgr A\* en el Centro Galáctico en cuatro días distintos. Esta colaboración distribuida condujo al rendimiento de varios petabytes de los datos que permitieron a las personas dedicadas a la astronomía revelar la primera imagen de un agujero negro proporcionando la más fuerte evidencia visual de su existencia. El [sitio web de EHTC](https://eventhorizontelescope.org/) (en inglés) proporciona información sobre proyectos de investigación, métodos científicos, instrumentos, medios de prensa y otros medios (como publicaciones del blog, artículos de noticias y vídeos de YouTube); así como eventos, datos, propuestas y publicaciones. Este proyecto muestra un trabajo a gran escala y de alto impacto que aplica prácticas abiertas para lograr sus resultados. Los diferentes tipos de resultados compartidos en este proyecto se pueden asignar a diferentes etapas del proceso de investigación y a los equipos involucrados en su creación.
 
-### Capturar Resultados y Acreditar a los Contribuyentes de Manera Justa en Diferentes Etapas de la Investigación
+### Generar resultados y dar crédito a quienes contribuyeron de manera justa en diferentes etapas de la investigación
 
-Los estudios de caso mencionados anteriormente destacan que los resultados asociados con un proyecto son más que una publicación. Entendiendo cómo se crean los resultados abiertos en diferentes proyectos, podemos obtener información profunda sobre los procesos para realizarlos. Con ese objetivo, el resto de esta lección describe el proceso de obtención de resultados en tres partes: 1) obtener todo tipo de resultados de investigación; 2) reconocer a todos los contribuyentes; y 3) combinar resultados para informes y publicaciones científicas.
+Los estudios de caso mencionados anteriormente destacan que los resultados asociados con un proyecto son más que una publicación. Al comprender cómo se crean los Resultados Abiertos en diferentes proyectos, podemos obtener conocimiento profundo sobre los procesos para hacerlo. Con ese objetivo, el resto de esta lección describe el proceso de obtención de resultados en tres partes: 1) generar todo tipo de resultados de investigación; 2) reconocer a todas las personas que constribuyeron; y 3) combinar resultados para informes y publicaciones científicas.
 
-### Obtener Todo Tipo de Resultados de Investigación
+### Generar todo tipo de resultados de investigación
 
-Las nuevas formas de trabajar con enfoques creativos para la colaboración y la comunicación en investigación han abierto oportunidades para comprometerse con las comunidades de investigación más amplias compartiendo los resultados científicos a medida que se desarrollan, en lugar de hacerlo al final a través de artículos resumidos. Se crean una serie de componentes de investigación a lo largo del ciclo de vida de la investigación que pueden compartirse abiertamente. Por ejemplo, los recursos creados en un proyecto científico incluyen, pero no se limitan a lo siguiente:
+Las nuevas formas de trabajar con enfoques creativos para la colaboración y la comunicación en investigación han abierto oportunidades para comprometerse con las comunidades de investigación más amplias al compartir los resultados científicos a medida que se desarrollan, en lugar de hacerlo al final a través de artículos resumidos. A lo largo del ciclo de investigación se crean una serie de componentes de investigación que pueden compartirse abiertamente. Por ejemplo, los recursos creados en un proyecto científico incluyen, entre otros, los siguientes:
 
 <table>
   <thead>
@@ -62,8 +62,8 @@ Las nuevas formas de trabajar con enfoques creativos para la colaboración y la 
             <ul>
                 <li>Propuestas de investigación</li>
                 <li>Personas y organizaciones involucradas</li>
-                <li>Directrices de ética de investigación</li>
-                <li>Plan de gestión de datos</li>
+                <li>Directrices éticas de la investigación</li>
+                <li>Plan de Gestión de Datos</li>
             </ul>
         </td>
     </tr>
@@ -82,13 +82,13 @@ Las nuevas formas de trabajar con enfoques creativos para la colaboración y la 
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Recopilación y exploración de datos - artefactos de investigación creados durante el proceso de investigación activo:</p>
+            <p>Recopilación y exploración de datos, artefactos de investigación creados durante el proceso de investigación activo:</p>
             <ul>
                 <li>Repositorio del proyecto</li>
                 <li>Hoja de ruta e hitos del proyecto</li>
                 <li>Requisitos de recursos</li>
                 <li>Recursos de gestión del proyecto (sin información sensible)</li>
-                <li>Procesos de colaboración como Código de Conducta y pautas de colaboradores</li>
+                <li>Procesos de colaboración como Código de Conducta y Pautas de Colaboración</li>
                 <li>Entorno de investigación virtual</li>
                 <li>Información de datos y metadatos</li>
             </ul>
@@ -109,13 +109,13 @@ Las nuevas formas de trabajar con enfoques creativos para la colaboración y la 
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Compromiso de la comunidad y reproducibilidad – más valioso durante el período del proyecto:</p>
+            <p>Compromiso de la comunidad y reproducibilidad, lo más valioso durante el período del proyecto:</p>
             <ul>
                 <li>Materiales de formación y educación</li>
                 <li>Cuadernos computacionales</li>
                 <li>Flujo de trabajo computacional</li>
-                <li>Repositorio de código (versión controlada)</li>
-                <li>Publicaciones en Blogs</li>
+                <li>Repositorio de código (con control de versiones)</li>
+                <li>Publicaciones en blogs</li>
                 <li>Vídeos de corta duración y podcasts</li>
                 <li>Publicaciones en redes sociales</li>
                 <li>Discusiones del foro (por ejemplo cuando se solicita comentarios o solución de problemas)</li>
@@ -137,11 +137,11 @@ Las nuevas formas de trabajar con enfoques creativos para la colaboración y la 
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Preservación y publicación: se espera que persista a largo plazo:</p>
+            <p>Preservación y publicación, se espera que persista a largo plazo:</p>
             <ul>
                 <li>Pautas de publicación y autoría</li>
-                <li>Libre acceso a artículos revisados para publicaciones</li>
-                <li>Resúmenes y presentaciones de la conferencia</li>
+                <li>Artículos revisados por pares y de Acceso Abierto</li>
+                <li>Resúmenes y presentaciones de congresos</li>
                 <li>Informe final del proyecto</li>
                 <li>Manual de usuario o documentación</li>
                 <li>Eventos y actividades públicas</li>
@@ -157,11 +157,11 @@ Crédito de la imagen: Ilustración del proyecto Turing Way de Scriberia. Zenodo
 
 ---
 
-Ya ta has encontrado con algunos de estos en las lecciones anteriores y, con suerte, podrás identificar cuáles de estos u otros resultados estás generando en tu trabajo. Para hacerlos parte de los resultados abiertos, es importante que sean compartidos abiertamente con la licencia y la documentación apropiadas para que otros puedan leer, investigar y cuando sea posible, reutilizar o construir sobre ellos.
+Ya ta has encontrado con algunos de estos en las lecciones anteriores y, con suerte, podrás identificar cuáles de estos u otros resultados estás generando en tu trabajo. Para que formen parte de los Resultados Abiertos, es importante que sean compartidos abiertamente con la licencia y la documentación apropiadas para que otros puedan leer, investigar y cuando sea posible, reutilizar o construir sobre ellos.
 
 ### Haciendo Resultados Abiertos y Reproducibles
 
-La ciencia abierta, en última instancia, informa de nuestras decisiones como personas dedicadas a la ciencia y guía la selección de enfoques que contribuyen a que nuestros resultados se abran en diferentes etapas. Uno de los objetivos principales de los resultados abiertos es asegurar la reproducibilidad de la investigación, a menudo explicada a través de definiciones como las siguientes por [Stodden (2015)](https://www.annualreviews.org/doi/10.1146/annurev-estadísticas-010814-020127):
+La Ciencia Abierta, en última instancia, informa de nuestras decisiones como personas dedicadas a la ciencia y guía la selección de enfoques que contribuyen a que nuestros resultados se abran en diferentes etapas. Uno de los objetivos principales de los Resultados Abiertos es asegurar la reproducibilidad de la investigación, a menudo explicada a través de definiciones como las siguientes por [Stodden (2015)](https://www.annualreviews.org/doi/10.1146/annurev-estadísticas-010814-020127):
 
 <img src="../images/media/stoddenquote_es.jpg" style="width:100%;height:auto;" />
 
@@ -171,13 +171,13 @@ La ciencia abierta, en última instancia, informa de nuestras decisiones como pe
 
 ---
 
-Utilizando esta definición, los resultados que pueden ser reproducidos computacionalmente por otras personas se denominarían Resultados Reproducibles. Los casos prácticos del EHTC presentan resultados abiertos como colecciones de objetos de investigación creados en distintas fases del proceso de investigación. También proporcionan documentación y recursos que permiten el reanálisis y la reproducción de los resultados originales.
+Utilizando esta definición, los resultados que pueden ser reproducidos computacionalmente por otras personas se denominarían Resultados Reproducibles. Los casos prácticos del EHTC presentan Resultados Abiertos como colecciones de objetos de investigación creados en distintas fases del proceso de investigación. También proporcionan documentación y recursos que permiten el reanálisis y la reproducción de los resultados originales.
 
 Lo ideal es que cualquier persona, en cualquier lugar, pueda leer una publicación y comprender los resultados, identificar fácilmente los métodos aplicados, así como seguir adecuadamente los procedimientos para lograr los mismos resultados que los compartidos en ese estudio. Sin embargo, como ya se sabe, el problema de la reproducibilidad es frecuente en todos los campos científicos (véase este [informe] de Nature (https://www.nature.com/articles/533452a)). Una persona que hace un trabajo científico y es bienintencionada puede compartir todos los objetos de investigación y describir todos los pasos aplicados en su investigación, pero si no facilita el entorno de investigación u otra configuración técnica que haya utilizado para analizar sus datos, puede impedir que otras personas reproduzcan sus resultados. Este problema está aún más agravado por [errores y prejuicios humanos](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4776714/). Por ejemplo, las personas no siempre son capaces de identificar cómo sus intereses y experiencias influyen en las decisiones que toman y en las conclusiones de sus investigaciones. Esto hace que la necesidad de combatir la crisis de reproducibilidad sea aún mayor.
 
-Los enfoques para hacer resultados abiertos deben integrar herramientas y métodos reproducibles, como el control de versiones, la integración continua, la revisión de código, la prueba de código y la documentación. Además, para ampliar la reproducibilidad más allá de los aspectos computacionales de la investigación, los informes y la documentación de los distintos tipos de resultados y decisiones también deben facilitarse de forma transparente.
+Los enfoques para hacer Resultados Abiertos deben integrar herramientas y métodos reproducibles, como el control de versiones, la integración continua, la revisión de código, la prueba de código y la documentación. Además, para ampliar la reproducibilidad más allá de los aspectos computacionales de la investigación, los informes y la documentación de los distintos tipos de resultados y decisiones también deben facilitarse de forma transparente.
 
-### Cómo crear diferentes tipos de resultados abiertos
+### Cómo crear diferentes tipos de Resultados Abiertos
 
 Compartir diferentes tipos de resultados lo antes posible no sólo ayuda a encontrar soluciones más rápidamente, sino que también contribuye a que la ciencia sea más reproducible, ya que esa apertura ayuda a entender cómo comunicar las metodologías y los hallazgos con mayor claridad a las demás personas. Aquí les proponemos algunos lugares fáciles para empezar a crear sus resultados de forma abierta.
 
@@ -259,7 +259,7 @@ Puedes encontrar más formas de comunicar tu trabajo en [guía de comunicación]
 
 ### Manteniendo Estándares Éticos
 
-La ciencia abierta, como vimos en el módulo Ethos de las Ciencias Abiertas, debe mantener los estándares éticos más estrictos. Esto puede lograrse mediante la participación de diversas personas que colaboraron en en el desarrollo de los resultados científicos. Los enfoques participativos permiten integrar múltiples perspectivas y conocimientos en la investigación desde el inicio y garantizan que la revisión por pares se realice para todos los productos de forma iterativa, y no sólo para los artículos finales.
+La Ciencia Abierta, como vimos en el módulo Ethos de las Ciencias Abiertas, debe mantener los estándares éticos más estrictos. Esto puede lograrse mediante la participación de diversas personas que colaboraron en en el desarrollo de los resultados científicos. Los enfoques participativos permiten integrar múltiples perspectivas y conocimientos en la investigación desde el inicio y garantizan que la revisión por pares se realice para todos los productos de forma iterativa, y no sólo para los artículos finales.
 
 En la elaboración y la planificación para compartir los resultados de manera abierta, se puede aplicar el principio de "tan abierto como sea posible, tan cerrado como sea necesario". Esto significa proteger la información confidencial, gestionar las prácticas de protección de datos cuando sea necesario y no compartir datos sensibles o información privada de las personas que pueda ser utilizada indebidamente. Repositorios en línea, como GitHub y GitLab, permiten la interacción en línea además de servir de manera técnica a tener control de versiones y alojar contenido. Por ejemplo, puedes usar [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) y [un tablero de proyecto](https://docs.github.com/en/github-ae%40latest/issues/organizing-your-work-with-project-boards/managing-project-boards/creating-a-project-board) para comunicar lo que está ocurriendo en un proyecto en cualquier punto dado. El uso de [Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) indica una invitación para que los pares revisen el nuevo desarrollo de código u otro contenido. Gracias a una serie de plantillas reutilizables, no es necesario configurar los repositorios desde cero. Por ejemplo, se puede utilizar directamente una [plantilla para proyectos de investigación reproducibles](https://github.com/the-turing-way/reproducible-project-template).
 
@@ -267,7 +267,7 @@ En la elaboración y la planificación para compartir los resultados de manera a
 
 La colaboración es fundamental para todas las investigaciones científicas. El impacto positivo de la colaboración se logra cuando se apoya la diversidad para combinar una gama de habilidades, perspectivas y recursos y trabajar hacia un objetivo compartido. Los proyectos que aplican enfoques abiertos y reproducibles facilitan la participación de diversos colaboradores y el reconocimiento de sus aportes, al mismo tiempo que apoyan el desarrollo de soluciones de las que todos puedan beneficiarse.
 
-Hacer participes y reconocer el papel de todos los colaboradores en la obtención de resultados abiertos es una parte importante de la ciencia abierta, que debatiremos a continuación.
+Hacer participes y reconocer el papel de todos los colaboradores en la obtención de Resultados Abiertos es una parte importante de la Ciencia Abierta, que debatiremos a continuación.
 
 ### Estudio del caso EHTC: Reconociendo a todos los contribuidores
 
@@ -279,9 +279,9 @@ Un mapa de la EHT. Las estaciones activas en 2017 y 2018 se muestran con líneas
 
 El equipo del Event Horizon Telescope (EHT, en español Telescopio Horizonte de Sucesos) involucró a 200 miembros de 59 institutos en 20 países, desde estudiantes de grado hasta altos miembros del campo. Utilizaron una matriz que incluía ocho radiotelescopios en seis lugares geográficos de los Estados Unidos, América Latina, Europa y el Polo Sur. Todos los colaboradores se ubicaron en diferentes puntos geográficos, tuvieron acceso a diferentes instrumentos, recopilaron datos generados a partir de telescopios en diferentes lugares y aplicaron habilidades de diferentes equipos para crear resultados innovadores. Cada colaborador fue reconocido a través de diferentes canales de comunicación y por medio de autorias en las publicaciones. EHTC también apoya el "análisis e interpretación críticos" de sus resultados publicados para facilitar la transparencia, el rigor y la reproducibilidad ([sitio web de EHTC](https://eventhorizontelescope.org/blog/imaging-reanalyses-eht-data)).
 
-### ¡Generar resultados abiertos comienza con los colaboradores!
+### ¡Generar Resultados Abiertos comienza con los colaboradores!
 
-Crear diferentes componentes de investigación y prepararse para compartirlos como resultados abiertos implica una serie de actividades. Detrás de estas actividades se encuentran los contribuidores que asumen variadas responsabilidades que incluyen pero no se limitan a:
+Crear diferentes componentes de investigación y prepararse para compartirlos como Resultados Abiertos implica una serie de actividades. Detrás de estas actividades se encuentran los contribuidores que asumen variadas responsabilidades que incluyen pero no se limitan a:
 
 - Conceptualizar la idea
 - Diseñar el proyecto
@@ -333,7 +333,7 @@ Primero definamos los roles de autores y colaboradores.
   <tbody>
     <tr>
         <td colspan="2">
-            <p>Una persona autora de un resultado abierto es una persona colaboradora que ha contribuido sustancialmente en la concepción o diseño del trabajo, o en la adquisición, análisis o interpretación de los datos para la publicación.</p>
+            <p>Una persona autora de un Resultado Abierto es una persona colaboradora que ha contribuido sustancialmente en la concepción o diseño del trabajo, o en la adquisición, análisis o interpretación de los datos para la publicación.</p>
         </td>
     </tr>
   </tbody>
@@ -487,7 +487,7 @@ Para reconocer abierta y justamente a todos los colaboradores, se deben listar e
 
 Las declaraciones de contribución en la documentación y manuscritos pueden especificar qué hizo cada integrante en los resultados oficiales. Esto es excelente para la transparencia. También es una gran manera de protegerse contra dinámicas injustas del poder. Los detalles sobre el tipo de contribución muestran explícitamente quién trabajó en cada parte de los resultados, y facilitan otorgar una autoría justa. \*"Pierro Asara: revisión y edición (par). Kerys Jones: Conceptualización (líder); escritura – borrador original (líder); análisis formal (líder); escritura – revisión y edición (par). Elisha Roberto: Software (líder); escritura – revisión y edición (par). Hebei Wang: Metodología (líder); escritura – revisión y edición (par). Jinnie Wu: Conceptualización (apoyo); escritura – borrador original (apoyo); escritura – revisión y edición (par)
 
-Si existe un repositorio de GitHub y un sitio web, se debería crear una página dedicada para listar y reconocer a todas las personas colaboradoras. A quienes contribuyeron de manera minoritaria al manuscrito, código o datos, podrías incluirlas como personas autoras o colaboradoras en las versiones de GitHub y Zenodo, respectivamente. Las personas que colaboran y participan, que no estén directamente involucradas en la creación de resultados de investigación, deberían tener la oportunidad de contribuir a otros resultados abiertos tales como presentaciones, posters, charlas, blogs, podcasts, datos, software, así como también artículos.
+Si existe un repositorio de GitHub y un sitio web, se debería crear una página dedicada para listar y reconocer a todas las personas colaboradoras. A quienes contribuyeron de manera minoritaria al manuscrito, código o datos, podrías incluirlas como personas autoras o colaboradoras en las versiones de GitHub y Zenodo, respectivamente. Las personas que colaboran y participan, que no estén directamente involucradas en la creación de resultados de investigación, deberían tener la oportunidad de contribuir a otros Resultados Abiertos tales como presentaciones, posters, charlas, blogs, podcasts, datos, software, así como también artículos.
 
 ### Actividad 3.1: Redacta una guía de pautas
 
@@ -534,23 +534,23 @@ La imagen polarizada de la sombra del agujero negro M87 observada el 11 de abril
 
 ---
 
-A través de [varias preimpresiones](https://arxiv.org/search/astro-ph?searchtype=author\&query=Event%2BHorizon%2BTelescope%2BCollaboration) y [ocho cartas revisadas por pares](https://iopscience.iop.org/journal/2041-8205/page/Focus_on_EHT), la EHTC (por su nombre en inglés, Colaboración del Telescopio Event Horizon) presentó resultados abiertos publicados por diferentes equipos sobre instrumentación, observación, algoritmos, software, modelado y gestión de datos, proporcionando el alcance completo del proyecto y las conclusiones obtenidas hasta la fecha.
+A través de [varias preimpresiones](https://arxiv.org/search/astro-ph?searchtype=author\&query=Event%2BHorizon%2BTelescope%2BCollaboration) y [ocho cartas revisadas por pares](https://iopscience.iop.org/journal/2041-8205/page/Focus_on_EHT), la EHTC (por su nombre en inglés, Colaboración del Telescopio Event Horizon) presentó Resultados Abiertos publicados por diferentes equipos sobre instrumentación, observación, algoritmos, software, modelado y gestión de datos, proporcionando el alcance completo del proyecto y las conclusiones obtenidas hasta la fecha.
 
-Resultados abiertos como informes, publicaciones, código, reportes técnicos, comunicados de prensa, publicaciones en blogs, videos, charlas TED y publicaciones en redes sociales añaden al impacto global de los resultados abiertos de la EHTC. Los recursos están centralizados en el [sitio web de la EHTC](https://eventhorizontelescope.org/), [organización de GitHub](https://github.com/eventhorizontelescope) y [canal de YouTube](https://www.youtube.com/%40ehtelescope) entre otros para facilitar el acceso a todos los resultados abiertos.
+Resultados Abiertos como informes, publicaciones, código, reportes técnicos, comunicados de prensa, publicaciones en blogs, videos, charlas TED y publicaciones en redes sociales añaden al impacto global de los Resultados Abiertos de la EHTC. Los recursos están centralizados en el [sitio web de la EHTC](https://eventhorizontelescope.org/), [organización de GitHub](https://github.com/eventhorizontelescope) y [canal de YouTube](https://www.youtube.com/%40ehtelescope) entre otros para facilitar el acceso a todos los Resultados Abiertos.
 
 Es importante destacar que sus esfuerzos han llevado a un reanálisis independiente y a la regeneración de las imágenes del agujero negro. Específicamente, [Patel et. al. (2022)](https://arxiv.org/abs/2205.10267) no sólo reprodujo el descubrimiento original, sino que también contribuyó con documentación adicional, código, y un entorno computacional como paquete de software libre en un contenedor para asegurar pruebas futuras. Algunos de los autores originales revisaron este trabajo y [también hicieron disponibles sus comentarios en línea](https://quarxiv.authorea.com/users/557984/articles/607408-review-reproducibility-of-the-first-image-of-a-black-hole-in-the-galaxy-m87-from-the-event-horizon-telescope-eht-collaboration) (Authorea).
 
 ### Cómo Puedo Conectar Resultados Abiertos para Hacer Publicaciones Reproducibles
 
-Si no se lo considera desde el principio, puede ser difícil asegurar la reproducibilidad de los resultados en la etapa de publicación. Suponiendo que has mantenido los resultados abiertos considerando su reproducibilidad, puedes empezar a ensamblarlos para conectarse con el informe final y la publicación con las referencias apropiadas a estudios anteriores.
+Si no se lo considera desde el principio, puede ser difícil asegurar la reproducibilidad de los resultados en la etapa de publicación. Suponiendo que has mantenido los Resultados Abiertos considerando su reproducibilidad, puedes empezar a ensamblarlos para conectarse con el informe final y la publicación con las referencias apropiadas a estudios anteriores.
 
 - Antes de escribir tu manuscrito, evalúa cada resultado para asegurarte de que has adjuntado la licencia apropiada para su reutilización, de que se ha proporcionado la documentación y los colaboradores están listados claramente. Puedes decidir crear una versión del registro y vincularlo a un identificador permanente a través de Zenodo para que el enlace no se rompa al compartirlo en un repositorio público (como GitLab/GitHub) o manuscritos con una lista visible de personas colaboradoras.
 - Tus publicaciones pueden crearse individualmente (como las del caso de estudio de la EHTC) o combinando varios resultados o fuentes de información en manuscritos. Estos incluirán requerimientos de recursos, dependencias, software, datos, repositorio donde el código se comparte con la documentación y la información de las personas que colaboraron, entre otros artefactos de investigación.
 - El manuscrito en sí mismo describirá preguntas de investigación, métodos, figuras y tablas que expliquen los resultados. Al escribir un manuscrito, puedes comenzar con figuras que representen los datos empaquetados, el código y los parámetros usados, asegurándote de que la información representada pueda reproducirse. Puedes encontrar una lista detallada en la publicación de [Gil et al.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015EA000136) (2016).
 
-Como se ha demostrado en el caso de estudio de la EHTC, un último paso para generar resultados abiertos podría ser crear un meta-artículo y/o página web/git simple que centralice todos tus resultados de investigación. Se puede acceder de forma centralizada a distintas partes de la investigación (resultados individuales abiertos) con detalles, incluyendo el reconocimiento abierto para todas las personas que colaboraron.
+Como se ha demostrado en el caso de estudio de la EHTC, un último paso para generar Resultados Abiertos podría ser crear un meta-artículo y/o página web/git simple que centralice todos tus resultados de investigación. Se puede acceder de forma centralizada a distintas partes de la investigación (resultados individuales abiertos) con detalles, incluyendo el reconocimiento abierto para todas las personas que colaboraron.
 
-Si estás buscando acciones concretas que puedas tomar para generar resultados abiertos, elige uno de estos cuatro elementos:
+Si estás buscando acciones concretas que puedas tomar para generar Resultados Abiertos, elige uno de estos cuatro elementos:
 
 - Mejora la forma en la que defines las contribuciones en tu proyecto y cómo se asigna la autoría.
 - Asegúrate de que los datos o software de tu publicación se encuentren en Zenodo con licencia y documentación, incluyendo metadatos y que el DOI esté publicado en tu informe científico y publicación.
@@ -559,12 +559,12 @@ Si estás buscando acciones concretas que puedas tomar para generar resultados a
 
 ## Lección 3: Resumen
 
-Los pasos que destacamos para lograr resultados abiertos no son particularmente complicados. De hecho, los pasos que hemos enumerado son cosas que podemos hacer regularmente para garantizar que todos los artefactos de investigación puedan ser compartidos más adelante como resultados abiertos y reproducibles. En esta lección aprendimos:
+Los pasos que destacamos para lograr Resultados Abiertos no son particularmente complicados. De hecho, los pasos que hemos enumerado son cosas que podemos hacer regularmente para garantizar que todos los artefactos de investigación puedan ser compartidos más adelante como Resultados Abiertos y reproducibles. En esta lección aprendimos:
 
-- Métodos para generar resultados abiertos.
+- Métodos para generar Resultados Abiertos.
 - La importancia de la colaboración al crear resultados.
 - Cómo reconocer y dar crédito a todas las personas que han contribuido en la creación de los resultados.
-- Cómo combinar distintos resultados abiertos para crear reportes científicos simples y resultados reproducibles.
+- Cómo combinar distintos Resultados Abiertos para crear reportes científicos simples y resultados reproducibles.
 
 ## Lección 3: Evaluación
 
@@ -586,7 +586,7 @@ _Pregunta_
 
 **02/02**
 
-¿Cuál de estos no es un ejemplo de resultados abiertos de investigación?
+¿Cuál de estos no es un ejemplo de Resultados Abiertos de investigación?
 
 - Publicaciones de acceso abierto
 - Presentación en una conferencia
