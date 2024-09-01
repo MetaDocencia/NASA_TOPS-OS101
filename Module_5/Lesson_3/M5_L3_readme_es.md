@@ -512,7 +512,7 @@ Una vez que hayas identificado diferentes tipos de contribuciones, aclara cómo 
 
 **Información Adicional**
 
-Para obtener consejos adicionales sobre cómo dar reconocimiento a diferentes tipos de contribuciones en el desarrollo de un recurso incluyendo la autoría, consulta [Dando Reconocimiento a Quienes Contribuyen en The Turing Way](https://the-turing-way.netlify.app/community-handbook/acknowledgement.html) (en inglés).
+Para obtener consejos adicionales sobre cómo dar reconocimiento a diferentes tipos de contribuciones en el desarrollo de un recurso incluyendo la autoría, consulta [Dando reconocimiento a quienes contribuyen en The Turing Way](https://the-turing-way.netlify.app/community-handbook/acknowledgement.html) (en inglés).
 
 Si trabajas con repositorios en línea como GitHub, una aplicación como el bot de '[all-contributors](https://allcontributors.org/)' es una excelente manera de automatizar el registro de todo tipo de contribuciones, desde la solución de errores hasta la organización de eventos o mejora de la accesibilidad del proyecto.
 
