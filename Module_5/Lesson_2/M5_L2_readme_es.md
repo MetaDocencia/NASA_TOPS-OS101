@@ -75,8 +75,8 @@ Los motores de búsqueda como Google y Bing han cambiado radicalmente la forma e
     <tr>
         <td colspan="2">
             <ul>
-                <li><a href="https://europepmc.org/">EuropePMC ciencias de la vida (_EuropePMC Life sciences_)</a></li>
-                <li><a href="https://pubmed.ncbi.nlm.nih.gov/">Literatura biomédica Pubmed (_Pubmed biomedical literature_) </a></li>
+                <li><a href="https://europepmc.org/">EuropePMC ciencias de la vida (EuropePMC Life sciences)</a></li>
+                <li><a href="https://pubmed.ncbi.nlm.nih.gov/">Literatura biomédica Pubmed (Pubmed biomedical literature) </a></li>
                 <li><a href="https://arxiv.org/">arXiv</a> - para preprints académicos en los campos de STEM, economía e informática.</li> 
                 <li><a href="https://www.biorxiv.org/">Biorxiv Preprint</a> - servidor para biología</li>
                 <li><a href="https://eartharxiv.org/">EarthArXiv</a> y <a href="https://essoar.org/">Archivo Abierto de Ciencias de la Tierra y Espacio</a></li>
@@ -127,7 +127,7 @@ Si usas datos de mala calidad o materiales procedentes de fuentes poco fiables y
 
 Echemos un vistazo a las preguntas que deberías plantearte a la hora de determinar la fiabilidad de cualquier tipo de fuente de Resultados Abiertos.
 
-Aquí enomeramos las preguntas en dos categorías: el propio material de los Resultados Abiertos, y el servidor de donde se descargan. Cuantas más preguntas puedan responderse afirmativamente, menor será el riesgo de utilizar esos Resultados Abiertos para su propia investigación.
+Aquí clasificamos las preguntas en dos categorías: el propio material de los Resultados Abiertos, y el servidor de donde se descargan. Cuantas más preguntas puedan responderse afirmativamente, menor será el riesgo de utilizar esos Resultados Abiertos para su propia investigación.
 
 <table>
   <thead>
@@ -189,10 +189,10 @@ Aquí enomeramos las preguntas en dos categorías: el propio material de los Res
         <td colspan="3">
             <ul>
                 <li>¿El resultado es reproducible? ¿Puedes interactuar con los datos y los resultados? ¿Han informado otras personas de que pueden reproducir los resultados?</li>
-                <li>¿La perona autora es fiable? ¿Has visto que publiquen o compartan resultados en otros foros?</li>
+                <li>¿La persona autora es fiable? ¿Has visto que publiquen o compartan resultados en otros foros?</li>
                 <li>¿El resultado es de autoría individual o incluye contribuciones de una comunidad más amplia?</li>
                 <li>¿Tiene el post una cantidad significativa de valoraciones o de opiniones y comentarios públicos? El valor de una entrada de blog sin comentarios ni respuestas puede ser difícil de evaluar. Por el contrario, un foro de discusión de GitHub exhaustivo con múltiples opiniones compartidas indica una publicación sólida.</li>
-                <li>¿Es el resultado parte de una conversación activa? (¿La información sugue siendo relevante y actual?)</li>
+                <li>¿Es el resultado parte de una conversación activa? (¿La información sigue siendo relevante y actual?)</li>
             </ul>
         </td>
     </tr>
@@ -291,7 +291,7 @@ Lamentablemente, muchas veces no existen pautas de contribución y no está clar
 
 Además, da crédito a los repositorios que proporcionan materiales de Código Abierto en la sección de agradecimientos de tu artículo. Si el repositorio proporciona un modelo de agradecimientos en su enlace "Acerca de", sigue esa sugerencia. De lo contrario, una frase genérica como "Esta investigación ha hecho uso de <inserte el nombre del repositorio>." será suficiente.
 
-### Evitar el Plagio al Utilizar Resultados Abiertos
+### Evitar el plagio al utilizar Resultados Abiertos
 
 Las pautas estándar que has estado usando todo el tiempo en tu investigación para proporcionar la atribución y las citas apropiadas de las publicaciones de acceso cerrado, también se aplican a los trabajos publicados en Acceso Abierto.
 
@@ -314,19 +314,19 @@ Brindar una atribución adecuada a los Resultados Abiertos es una responsabilida
 
 ### Pautas de citación para resultados publicados y no publicados
 
-Si un artículo se ha publicado formalmente en una revista, la cita debe remitir a la versión publicada en lugar de un servidor de borradores o artículos aún no publicados (pre impresiones o , en inlgés, _preprints_).
+Si un artículo se ha publicado formalmente en una revista, la cita debe remitir a la versión publicada en lugar de un servidor de borradores o artículos aún no publicados (preimpresiones o , en inglés, _preprints_).
 
 Tómate el tiempo necesario para localizar la revista de origen y proporcionar una cita más precisa.
 
 <img src="../images/media/image31_es.png" style="width:100%;height:auto;" />
 
-Servidor de manuscritos aún no publicados (citar solo si no está disponible la publicación en una revista)
+Servidor de manuscritos aún no publicados (citar solo si no está disponible la publicación en una revista).
 
 ---
 
 <img src="../images/media/image32_es.png" style="width:100%;height:auto;" />
 
-Fuente de la publicación (citar siempre)
+Fuente de la publicación (citar siempre).
 
 ---
 
@@ -450,4 +450,4 @@ _Pregunta_
 - La página de internet anuncia puestos de trabajo vacantes y quien los financia
 - La persona autora es experta en el campo
 - La URL de la página de internet termina en '.com'
-- La documentación complemantaria afirma que "al inspeccionar las distribuciones de los datos, se excluyeron del análisis los datos que eran valores atípicos"
+- La documentación complementaria afirma que "al inspeccionar las distribuciones de los datos, se excluyeron del análisis los datos que eran valores atípicos"
