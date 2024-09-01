@@ -215,17 +215,17 @@ Contribuir y aportar comentarios constructivos es vital para un ecosistema de Ac
 
 En nuestro sistema actual, hay personas creadoras y consumidoras de resultados. Este escenario es unidireccional, sin circuito de retroalimentación, sin intercambio de datos con las personas editoras y tampoco entre personas intermediarias.
 
-La práctica de producir o crear Resultados Abiertos pretende fomentar un sistema en el que existan circuitos de comunicación entre quienes usan y crean. Las personas usuarias comparten su trabajo depurado, integrado o mejorado con quien lo creó. Esta comunicación genera un proceso simbiótico y sostenible del que todas las personas se benefician.
+La práctica de producir o crear Resultados Abiertos busca fomentar un sistema en el que existan circuitos de comunicación entre quienes usan y crean. Las personas usuarias comparten su trabajo depurado, integrado o mejorado con quien lo creó. Esta comunicación genera un proceso simbiótico y sostenible del que todas las personas se benefician.
 
 ### Tus responsabilidades como persona usuaria de Resultados Abiertos
 
-- Quienes usan resultados deben familiarizarse con las pautas para colaborar publicadas en los repositorios de Resultados Abiertos, y seguir las políticas asociadas. ¿Y si no hay pautas para colaborar? ¡Contacta a las personas creadoras!
+- Quienes usan resultados deben familiarizarse con las pautas para colaborar publicadas en los repositorios de Resultados Abiertos, y seguir las políticas asociadas. ¿Y si no hay pautas para colaborar o contribuir? ¡Contacta a las personas creadoras!
 - Proporciona siempre comentarios de forma respetuosa y comprensiva.
-- Si descubres un error en los materiales de Resultados Abiertos, la acción ética a tomar es contactar a quien los creó (o al repositorio, dependiendo de la naturaleza del problema) y darle la oportunidad de corregir el problema, en lugar de ignorar el problema o (¡peor aún!) aprovechar un problema reparable para mejorar tu propia investigación.
+- Si descubres un error en los materiales de Resultados Abiertos, la acción ética a tomar es contactar a quien los creó (o al repositorio, según sea la naturaleza del problema) y darle la oportunidad de corregir el problema, en lugar de ignorar el problema o (¡peor aún!) aprovechar un problema reparable para mejorar tu propia investigación.
 
-### Diferentes Maneras de Comentar
+### Diferentes maneras de comentar
 
-#### Usar Problemas de GitHub
+#### Usar problemas (_issues_) de GitHub
 
 <table>
 <colgroup>
@@ -243,18 +243,18 @@ La práctica de producir o crear Resultados Abiertos pretende fomentar un sistem
         <td>
             <img src="../images/media/image29_es.png" style="width:100%;height:auto;"/>
         </td>
-        <td>La contribución se archiva y registra en GitHub.</td>
+        <td>Ventaja: La contribución se archiva y registra en GitHub.</td>
     </tr>
 </tbody>
 </table>
 
-**Trabajar con Problemas de GitHub**
+**Trabajar con problemas (_issues_) de GitHub**
 
-Consulta este blog para conocer la etiqueta general de problemas
+Consulta este blog para conocer la etiqueta general de problemas (_issues_).
 
-[ABRIR](https://www.w3.org/International/i18n-activity/guidelines/issues.html)
+[ABRIR](https://www.w3.org/International/i18n-activity/guidelines/issues.html) (en inglés) 
 
-#### Enviar un correo electrónico al autor o autora
+#### Enviar un correo electrónico a las personas autoras
 
 <table>
 <colgroup>
@@ -266,30 +266,30 @@ Consulta este blog para conocer la etiqueta general de problemas
         <td>
             <img src="../images/media/image29_es.png" style="width:100%;height:auto;"/>
         </td>
-        <td>Contras: la comunicación es privada. La información generalmente no se comparte con la comunidad a menos que quien la creó desarrolle una nueva versión.</td>
+        <td>Desventaja: la comunicación es privada. La información generalmente no se comparte con la comunidad a menos que quien la creó desarrolle una nueva versión.</td>
     </tr>
     <tr>
         <td>
             <img src="../images/media/image29_es.png" style="width:100%;height:auto;"/>
         </td>
-        <td>Contras: no hay forma de hacer un seguimiento de los créditos.</td>
+        <td>Desventaja: no hay forma de hacer un seguimiento de los créditos.</td>
     </tr>
 </tbody>
 </table>
 
-### Obtener crédito por las aportaciones
+### Obtener crédito por los aportes 
 
-Si tus aportes resultan en una contribución intelectual sustancial al trabajo, es razonable esperar la oportunidad de coautoría en una futura versión del resultado abierto. Las pautas de contribución asociadas deberían contemplar esta posibilidad y gestionar las expectativas antes de que se realicen aportaciones.
+Si tus aportes resultan en una contribución intelectual sustancial al trabajo, es razonable esperar una oportunidad de coautoría en la futura versión del resultado abierto. Las pautas para contribuir asociadas deberían contemplar esta posibilidad y gestionar las expectativas antes de que se realicen los aportes.
 
 Lamentablemente, muchas veces no existen pautas de contribución y no está claro qué es "sustancial".
 
-### Responsabilidades de quienes utilizan Resultados Abiertos
+### Responsabilidades de quienes usan Resultados Abiertos
 
-- **Cumplimiento de la Seguridad Institucional:** Descarga siempre el código de una fuente autorizada y conoce/sigue las políticas de seguridad informática de tu institución.
-- **Políticas de Licencia:** Comprende y respeta la(s) licencia(s) asociada(s) con los materiales de Resultados Abiertos que estás utilizando.
-- **Atribución y contribución:** Proporciona una atribución adecuada para los Resultados Abiertos utilizados y contribuye a la comunidad de Resultados Abiertos.
+- **Cumplimiento de la seguridad institucional:** Descarga siempre el código de una fuente autorizada y sigue las políticas de seguridad informática de tu institución.
+- **Políticas de Licencia:** Comprende y respeta las licencias asociadas con los materiales de Resultados Abiertos que estás usando.
+- **Atribución y contribución:** Proporciona la atribución adecuada para los Resultados Abiertos utilizados y contribuye a la comunidad de Resultados Abiertos.
 
-Además, da crédito a los repositorios que proporcionan materiales de código abierto en la sección de agradecimientos de tu artículo. Si el repositorio proporciona un modelo de agradecimientos en su enlace "Acerca de", sigue esa sugerencia. De lo contrario, una frase genérica como "Este trabajo ha hecho uso de <inserte el nombre del repositorio>." será suficiente.
+Además, da crédito a los repositorios que proporcionan materiales de Código Abierto en la sección de agradecimientos de tu artículo. Si el repositorio proporciona un modelo de agradecimientos en su enlace "Acerca de", sigue esa sugerencia. De lo contrario, una frase genérica como "Esta investigación ha hecho uso de <inserte el nombre del repositorio>." será suficiente.
 
 ### Evitar el Plagio al Utilizar Resultados Abiertos
 
