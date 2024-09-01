@@ -1,16 +1,16 @@
-# Lección 5: De la Teoría a la Práctica
+# Lección 5: De la teoría a la práctica
 
 ## Contenidos
 
-- [Escribiendo un Plan de Gestión de Datos de Ciencia Abierta: Qué incluir en un OSDMP para compartir resultados abiertos](#writing-an-osdmp-what-to-include-in-the-osdmp-for-sharing-results-openly)
-- [Ejemplo de pasos hacia resultados más abiertos](#ejemplo-pasos-hacia-resultados-mas-abiertos)
+- [Escribir un Plan de de Ciencia Abierta y Gestión de Datos: Qué incluir en un PCAGD para compartir Resultados Abiertos](#writing-an-osdmp-what-to-include-in-the-osdmp-for-sharing-results-openly)
+- [Ejemplos de pasos hacia resultados más abiertos](#ejemplo-pasos-hacia-resultados-mas-abiertos)
 - [Cómo una tecnología emergente como la IA está cambiando nuestra forma de hacer ciencia](#cómo-tecnología-emergente-como-ia-está-cambiando-cómo-hacemos-ciencia)
 - [Lección 5: Resumen](#lesson-5-summary)
 - [Lección 5: Evaluación](#leccion-5-Evaluación)
-- [Resumen de resultados abiertos](#open-results-resumy)
+- [Resumen del Módulo 4: Resultados Abiertos](#open-results-resumy)
 - [Resumen de Introducción a la Ciencia Abierta](#open-science-101-summary)
 
-## Descripción General
+## Descripción general
 
 En las lecciones anteriores hemos aprendido varias formas de compartir nuestra ciencia y los pasos que debemos tener en cuenta a la hora de hacerlo. En esta lección, unimos los conceptos de las lecciones anteriores con algunas orientaciones específicas para redactar la sección Compartir Resultados de un Plan de Ciencia Abierta y Gestión de Datos (en inglés, _Open Science Data Management Plan, OSDMP_). También reflexionaremos sobre cómo nuestra sociedad y la tecnología evolucionan constantemente, al igual que nuestra forma de hacer ciencia. Una nueva tecnología con el potencial de alterar radicalmente la forma en que hacemos y compartimos la ciencia es la inteligencia artificial (IA), sobre todo cuando se trata de modelos de aprendizaje de idiomas. Estas herramientas de IA ya están cambiando la forma en que interactuamos con el texto escrito. En esta lección analizaremos algunas de las formas en que la IA afecta y afectará a la forma en que hacemos y compartimos nuestra ciencia.
 
