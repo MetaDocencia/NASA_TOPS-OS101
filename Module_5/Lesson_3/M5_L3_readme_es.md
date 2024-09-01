@@ -255,7 +255,7 @@ Compartir diferentes tipos de resultados lo antes posible no sólo ayuda a encon
 
 Todas estas diferentes formas de compartir información ayudarán a mejorar nuestro informe o artículo publicado. Y a medida que empiezas a trabajar más abiertamente con otras personas, piensa en cómo funcionarán las colaboraciones y cómo darás crédito. Todos los recursos pueden centralizarse mediante informes y documentación en un repositorio o sitio web para que cualquiera, incluido "tu yo a futuro", pueda encontrarlos en el día de mañana.
 
-Puedes encontrar más formas de comunicar tu trabajo en la [guía de comunicación](https://the-turing-way.netlify.app/communication/communication/communication) (en inglés) de The Turing Way.
+Puedes encontrar más formas de comunicar tu trabajo en la [guía de comunicación](https://book.the-turing-way.org/communication/communication.html) (en inglés) de The Turing Way.
 
 ### Mantener estándares éticos
 
