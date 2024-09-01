@@ -157,11 +157,11 @@ Crédito de la imagen: Ilustración del proyecto Turing Way de Scriberia. Zenodo
 
 ---
 
-Ya ta has encontrado con algunos de estos en las lecciones anteriores y, con suerte, podrás identificar cuáles de estos u otros resultados estás generando en tu trabajo. Para que formen parte de los Resultados Abiertos, es importante que sean compartidos abiertamente con la licencia y la documentación apropiadas para que otros puedan leer, investigar y cuando sea posible, reutilizar o construir sobre ellos.
+Ya ta has encontrado con algunos de estos en las lecciones anteriores y, con suerte, podrás identificar cuáles de estos u otros resultados estás generando en tu trabajo. Para que formen parte de los Resultados Abiertos, es importante que sean compartidos abiertamente con la licencia y la documentación apropiadas para que otras personas puedan leer, investigar y cuando sea posible, reusar o construir sobre ellos.
 
-### Haciendo Resultados Abiertos y Reproducibles
+### Hacer Resultados Abiertos y reproducibles
 
-La Ciencia Abierta, en última instancia, informa de nuestras decisiones como personas dedicadas a la ciencia y guía la selección de enfoques que contribuyen a que nuestros resultados se abran en diferentes etapas. Uno de los objetivos principales de los Resultados Abiertos es asegurar la reproducibilidad de la investigación, a menudo explicada a través de definiciones como las siguientes por [Stodden (2015)](https://www.annualreviews.org/doi/10.1146/annurev-estadísticas-010814-020127):
+La Ciencia Abierta, en última instancia, informa de nuestras decisiones como personas dedicadas a la ciencia y guía la selección de enfoques que contribuyen a que nuestros resultados se abran en diferentes etapas. Uno de los objetivos principales de los Resultados Abiertos es asegurar la reproducibilidad de la investigación, a menudo explicada a través de definiciones como la de [Stodden (2015)](https://www.annualreviews.org/doi/10.1146/annurev-estadísticas-010814-020127) (en inglés):
 
 <img src="../images/media/stoddenquote_es.jpg" style="width:100%;height:auto;" />
 
@@ -171,29 +171,29 @@ La Ciencia Abierta, en última instancia, informa de nuestras decisiones como pe
 
 ---
 
-Utilizando esta definición, los resultados que pueden ser reproducidos computacionalmente por otras personas se denominarían Resultados Reproducibles. Los casos prácticos del EHTC presentan Resultados Abiertos como colecciones de objetos de investigación creados en distintas fases del proceso de investigación. También proporcionan documentación y recursos que permiten el reanálisis y la reproducción de los resultados originales.
+Usando esta definición, los resultados que pueden ser reproducidos computacionalmente por otras personas pueden llamarse Resultados Reproducibles. Los casos prácticos del EHTC presentan Resultados Abiertos como colecciones de objetos de investigación creados en distintas fases del proceso de investigación. También proporcionan documentación y recursos que permiten el reanálisis y la reproducción de los resultados originales.
 
-Lo ideal es que cualquier persona, en cualquier lugar, pueda leer una publicación y comprender los resultados, identificar fácilmente los métodos aplicados, así como seguir adecuadamente los procedimientos para lograr los mismos resultados que los compartidos en ese estudio. Sin embargo, como ya se sabe, el problema de la reproducibilidad es frecuente en todos los campos científicos (véase este [informe] de Nature (https://www.nature.com/articles/533452a)). Una persona que hace un trabajo científico y es bienintencionada puede compartir todos los objetos de investigación y describir todos los pasos aplicados en su investigación, pero si no facilita el entorno de investigación u otra configuración técnica que haya utilizado para analizar sus datos, puede impedir que otras personas reproduzcan sus resultados. Este problema está aún más agravado por [errores y prejuicios humanos](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4776714/). Por ejemplo, las personas no siempre son capaces de identificar cómo sus intereses y experiencias influyen en las decisiones que toman y en las conclusiones de sus investigaciones. Esto hace que la necesidad de combatir la crisis de reproducibilidad sea aún mayor.
+Lo ideal es que cualquier persona, en cualquier lugar, pueda leer una publicación y comprender los resultados, identificar fácilmente los métodos aplicados, así como seguir adecuadamente los procedimientos para lograr los mismos resultados que los compartidos en ese estudio. Sin embargo, como ya se sabe, el problema de la reproducibilidad es frecuente en todos los campos científicos (véase este [informe](https://www.nature.com/articles/533452a) de Nature, en inglés). Una persona que hace un trabajo científico y es bienintencionada puede compartir todos los objetos de investigación y describir todos los pasos aplicados en su investigación pero, si no facilita el entorno de investigación u otra configuración técnica que haya utilizado para analizar sus datos, puede impedir que otras personas reproduzcan sus resultados. Este problema es aún más agravado por [errores y prejuicios humanos](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4776714/) (en inglés). Por ejemplo, las personas no siempre son capaces de identificar cómo sus intereses y experiencias influyen en las decisiones que toman y en las conclusiones de sus investigaciones. Esto hace que la necesidad de combatir la crisis de reproducibilidad sea aún mayor.
 
-Los enfoques para hacer Resultados Abiertos deben integrar herramientas y métodos reproducibles, como el control de versiones, la integración continua, la revisión de código, la prueba de código y la documentación. Además, para ampliar la reproducibilidad más allá de los aspectos computacionales de la investigación, los informes y la documentación de los distintos tipos de resultados y decisiones también deben facilitarse de forma transparente.
+Los enfoques para hacer Resultados Abiertos deben integrar herramientas y métodos reproducibles, como el control de versiones, la integración continua, la revisión de código, las pruebas de código y la documentación. Además, para ampliar la reproducibilidad más allá de los aspectos computacionales de la investigación, los informes y la documentación de los distintos tipos de resultados y decisiones también deben facilitarse de forma transparente.
 
 ### Cómo crear diferentes tipos de Resultados Abiertos
 
-Compartir diferentes tipos de resultados lo antes posible no sólo ayuda a encontrar soluciones más rápidamente, sino que también contribuye a que la ciencia sea más reproducible, ya que esa apertura ayuda a entender cómo comunicar las metodologías y los hallazgos con mayor claridad a las demás personas. Aquí les proponemos algunos lugares fáciles para empezar a crear sus resultados de forma abierta.
+Compartir diferentes tipos de resultados lo antes posible no sólo ayuda a encontrar soluciones más rápidamente, sino que también contribuye a que la ciencia sea más reproducible, ya que esa apertura ayuda a entender cómo comunicar las metodologías y los hallazgos con mayor claridad a las demás personas. Aquí te proponemos algunos lugares fáciles para empezar a crear tus resultados de forma abierta.
 
 <table>
   <thead>
     <tr>
-        <th>Escribiendo un POST DE FORO ☑</th>
-        <th>ESCRIBIENDO UNA BUENA ENTRADA DE BLOG</th>
-        <th>HACIENDO UN BUEN VIDEO</th>
-        <th>ESCRIBIENDO UN POSTEO EN UNA RED SOCIAL</th>
+        <th>ESCRIBIR UN POST DE FORO ☑</th>
+        <th>ESCRIBIR UNA BUENA ENTRADA DE BLOG</th>
+        <th>HACER UN BUEN VIDEO</th>
+        <th>ESCRIBIR UN POSTEO EN UNA RED SOCIAL</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="4">
-            <p>A menudo, al comenzar la investigación, los foros públicos son un gran lugar para comenzar a entender y colaborar con las comunidades. La mayoría de los foros de discusión tienen un código de conducta y directrices sobre las mejores prácticas para la participación. Algunas pautas comunes que pueden ser útiles son las directrices de <a href="https://stackoverflow.com/help/discussions-guidelines">StackOverflow</a>, y <a href="https://github.com/pydata/xarray/discussions/5404">Xarray</a>, pero la mayoría de los foros tienen alguna guía específica. En los foros, se incrementa la confianza interactuando con la comunidad, por lo que cuanto más interactúes, más gente responderá! A menudo, las mejores prácticas incluyen asegurarse que estamos publicando en el área correcta, usando etiquetas (cuando esté disponible), e incluyendo ejemplos que documentan la pregunta o problema que presentamos. Si revisas el <a href="https://discourse.pangeo.io/t/trick-for-improving-kerchunk-performance-for-large-numbers-of-chunks-files/3090">post</a> en el <a href="https://discourse.pangeo.io/">Foro del Discurso de Pangeo</a> con un gran número de revisiones puedes ver que exponen claramente el problema que intentan resolver, hacen referencia a otros posts sobre temas similares, enlazan a un cuaderno informático que tiene un ejemplo de su código, y dan un ejemplo del código que están intentando ejecutar.</p>
+            <p>A menudo, al comenzar la investigación, los foros públicos son un gran lugar para comenzar a entender y colaborar con las comunidades. La mayoría de los foros de discusión tienen un Código de Conducta y directrices sobre las mejores prácticas para la participación. Algunas pautas comunes que pueden ser útiles son las directrices de <a href="https://stackoverflow.com/help/discussions-guidelines">StackOverflow</a> (en inglés), y <a href="https://github.com/pydata/xarray/discussions/5404">Xarray</a> (en inglés), pero la mayoría de los foros tienen alguna guía específica. En los foros, se incrementa la confianza al interactuar con la comunidad, por lo que cuanto más interactúes, ¡más gente responderá! A menudo, las mejores prácticas incluyen asegurarse que estamos publicando en el área correcta, que usamos etiquetas (cuando estén disponibles), y que incluimos ejemplos que documentan la pregunta o problema que presentamos. Si revisas el <a href="https://discourse.pangeo.io/t/trick-for-improving-kerchunk-performance-for-large-numbers-of-chunks-files/3090">post</a> (en inglés) en el <a href="https://discourse.pangeo.io/">Foro del Discurso de Pangeo</a> con un gran número de revisiones puedes ver que exponen claramente el problema que intentan resolver, hacen referencia a otros posts sobre temas similares, enlazan a un cuaderno computacional que tiene un ejemplo de su código, y dan un ejemplo del código que están intentando ejecutar.</p>
         </td>
     </tr>
   </tbody>
@@ -202,16 +202,16 @@ Compartir diferentes tipos de resultados lo antes posible no sólo ayuda a encon
 <table>
   <thead>
     <tr>
-        <th>Escribiendo un POST DE FORO</th>
-        <th>ESCRIBIENDO UNA BUENA ENTRADA DE BLOG☑</th>
-        <th>HACIENDO UN BUEN VIDEO</th>
-        <th>ESCRIBIENDO UN POSTEO EN UNA RED SOCIAL</th>
+        <th>ESCRIBIR UN POST DE FORO</th>
+        <th>ESCRIBIR UNA BUENA ENTRADA DE BLOG ☑</th>
+        <th>HACER UN BUEN VIDEO</th>
+        <th>ESCRIBIR UN POSTEO EN UNA RED SOCIAL</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Los blogs son artículos largos que no se revisan por pares. Los blogs pueden ser una excelente forma de compartir el proceso de investigación y los hallazgos antes de su publicación, pero también después, para ofrecer otra presentación más accesible del material. Por ejemplo, podemos escribir un artículo científico sobre nuestra investigación que sea muy técnico, pero luego, desglosarlo en un lenguaje más accesible en una entrada de blog. Muchas personas que realizan una investigación utilizan los blogs para desarrollar y poner a prueba ideas y enfoques, dado que son más interactivos. Hay blogs científicos en todo el Internet. Algunos de los más populares son <a href="https://medium.com/tag/science">Media</a>, <a href="https://sciencebites.org/sciencebites-sites-galaxy/">Science Bites</a>y <a href="https://blogs.scientificamerican.com/">Scientific American</a>. Una buena forma de empezar es buscar una entrada de blog que nos haya gustado o inspirado y utilizarla como guía para escribir nuestra propia entrada.</p>
+            <p>Los blogs son artículos extensos que no son revisados por pares. Los blogs pueden ser una excelente forma de compartir el proceso de investigación y los hallazgos antes de su publicación, pero también después, para ofrecer otra presentación más accesible del material. Por ejemplo, podemos escribir un artículo científico sobre nuestra investigación que sea muy técnico, pero luego desglosarlo en un lenguaje más accesible en una entrada de blog. Muchas personas que realizan una investigación utilizan los blogs para desarrollar y poner a prueba ideas y enfoques, dado que son más interactivos. Hay blogs científicos en todo internet. Algunos de los más populares son <a href="https://medium.com/tag/science">Media</a>, <a href="https://sciencebites.org/sciencebites-sites-galaxy/">Science Bites</a> (en inglés) y <a href="https://blogs.scientificamerican.com/">Scientific American</a> (en inglés). Una buena forma de empezar es buscar una entrada de blog que nos haya gustado o inspirado y utilizarla como guía para escribir nuestra propia entrada.</p>
         </td>
     </tr>
   </tbody>
@@ -220,16 +220,16 @@ Compartir diferentes tipos de resultados lo antes posible no sólo ayuda a encon
 <table>
   <thead>
     <tr>
-        <th>Escribiendo un POST DE FORO</th>
-        <th>ESCRIBIENDO UNA BUENA ENTRADA DE BLOG</th>
-        <th>HACIENDO UN BUEN VIDEO☑</th>
-        <th>ESCRIBIENDO UN POSTEO EN UNA RED SOCIAL</th>
+        <th>ESCRIBIR UN POST DE FORO</th>
+        <th>ESCRIBIR UNA BUENA ENTRADA DE BLOG</th>
+        <th>HACER UN BUEN VIDEO ☑</th>
+        <th>ESCRIBIR UN POSTEO EN UNA RED SOCIAL</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="4">
-            <p>¡Comienza a pequeña escala! Graba un breve vídeo en el que muestres cómo hacer algo que te ha costado mucho trabajo o una nueva habilidad o herramienta que hayas aprendido a utilizar y publícalo en YouTube u otras plataformas de vídeo populares. Los grandes vídeos suelen explicar conceptos, ideas o experimentos científicos a un público determinado. Los videos pueden inspirar a otras personas a trabajar en la ciencia, así que puedes contar cómo entraste en la ciencia y mostrar algunas de tus investigaciones. Hay muchos recursos en línea para ayudarte aquí también!</p>
+            <p>¡Comienza con algo pequeño! Graba un breve vídeo en el que muestres cómo hacer algo que te costó mucho trabajo o una nueva habilidad o herramienta que hayas aprendido a utilizar y publícalo en YouTube o en otras plataformas de vídeo populares. Los grandes vídeos suelen explicar conceptos, ideas o experimentos científicos a un público determinado. Los videos pueden inspirar a otras personas a trabajar en ciencia, así que puedes contar cómo te iniciaste en la ciencia y mostrar algunas de tus investigaciones. ¡Hay muchos recursos en línea para ayudarte aquí también!</p>
         </td>
     </tr>
   </tbody>
@@ -238,16 +238,16 @@ Compartir diferentes tipos de resultados lo antes posible no sólo ayuda a encon
 <table>
   <thead>
     <tr>
-        <th>Escribiendo un POST DE FORO</th>
-        <th>ESCRIBIENDO UNA BUENA ENTRADA DE BLOG</th>
-        <th>HACIENDO UN BUEN VIDEO</th>
-        <th>ESCRIBIENDO UN POSTEO EN UNA RED SOCIAL☑</th>
+        <th>ESCRIBIR UN POST DE FORO</th>
+        <th>ESCRIBIR UNA BUENA ENTRADA DE BLOG</th>
+        <th>HACER UN BUEN VIDEO</th>
+        <th>ESCRIBIR UN POSTEO EN UNA RED SOCIAL ☑</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Las redes sociales también son un buen lugar para hacer preguntas cuando se está empezando en un tema de investigación y también como lugar para compartir todo tipo de resultados. Proporcionar un enlace a un vídeo, una entrada de blog o un cuaderno computacional y/o compartir una imagen de un resultado científico es una buena forma de iniciar interacciones. Puedes llamar la atención sobre tu publicación usando hashtags y etiquetando a otros colaboradores. Hay un montón de guías en Internet para aprender cómo escribir posts en redes sociales y siempre es bueno mirar lo que hacen otros en tu área. Responder a los comentarios y comprometerse con otras personas puede ayudarte a mejorar tu investigación y aprender sobre nuevas herramientas o métodos.</p>
+            <p>Las redes sociales también son un buen lugar para hacer preguntas cuando se está empezando en un tema de investigación y también como lugar para compartir todo tipo de resultados. Proporcionar un enlace a un vídeo, una entrada de blog o un cuaderno computacional y/o compartir una imagen de un resultado científico es una buena forma de iniciar interacciones. Puedes llamar la atención sobre tu publicación usando hashtags y etiquetando a otros colaboradores. Hay un montón de guías en Internet para aprender cómo escribir posts en redes sociales y siempre es bueno mirar lo que hacen otras personas en tu área. Responder a los comentarios y comprometerse con otras personas puede ayudarte a mejorar tu investigación y aprender sobre nuevas herramientas o métodos.</p>
         </td>
     </tr>
   </tbody>
@@ -255,29 +255,29 @@ Compartir diferentes tipos de resultados lo antes posible no sólo ayuda a encon
 
 Todas estas diferentes formas de compartir información ayudarán a mejorar nuestro informe o artículo publicado. Y a medida que empiezas a trabajar más abiertamente con otras personas, piensa en cómo funcionarán las colaboraciones y cómo darás crédito. Todos los recursos pueden centralizarse mediante informes y documentación en un repositorio o sitio web para que cualquiera, incluido "tu yo a futuro", pueda encontrarlos en el día de mañana.
 
-Puedes encontrar más formas de comunicar tu trabajo en [guía de comunicación](https://the-turing-way.netlify.app/communication/communication/communication) en The Turing Way.
+Puedes encontrar más formas de comunicar tu trabajo en la [guía de comunicación](https://the-turing-way.netlify.app/communication/communication/communication) (en inglés) de The Turing Way.
 
-### Manteniendo Estándares Éticos
+### Mantener estándares éticos
 
-La Ciencia Abierta, como vimos en el módulo Ethos de las Ciencias Abiertas, debe mantener los estándares éticos más estrictos. Esto puede lograrse mediante la participación de diversas personas que colaboraron en en el desarrollo de los resultados científicos. Los enfoques participativos permiten integrar múltiples perspectivas y conocimientos en la investigación desde el inicio y garantizan que la revisión por pares se realice para todos los productos de forma iterativa, y no sólo para los artículos finales.
+La Ciencia Abierta, como vimos en el Módulo 1 Ethos de las Ciencia Abierta, debe mantener los estándares éticos más estrictos. Esto se logra mediante la participación de diversas personas colaboradoras en el desarrollo de los resultados científicos. Los enfoques participativos permiten integrar múltiples perspectivas y conocimientos en la investigación desde el inicio y garantizan que la revisión por pares se realice para todos los productos de forma iterativa, y no sólo para los artículos finales.
 
-En la elaboración y la planificación para compartir los resultados de manera abierta, se puede aplicar el principio de "tan abierto como sea posible, tan cerrado como sea necesario". Esto significa proteger la información confidencial, gestionar las prácticas de protección de datos cuando sea necesario y no compartir datos sensibles o información privada de las personas que pueda ser utilizada indebidamente. Repositorios en línea, como GitHub y GitLab, permiten la interacción en línea además de servir de manera técnica a tener control de versiones y alojar contenido. Por ejemplo, puedes usar [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) y [un tablero de proyecto](https://docs.github.com/en/github-ae%40latest/issues/organizing-your-work-with-project-boards/managing-project-boards/creating-a-project-board) para comunicar lo que está ocurriendo en un proyecto en cualquier punto dado. El uso de [Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) indica una invitación para que los pares revisen el nuevo desarrollo de código u otro contenido. Gracias a una serie de plantillas reutilizables, no es necesario configurar los repositorios desde cero. Por ejemplo, se puede utilizar directamente una [plantilla para proyectos de investigación reproducibles](https://github.com/the-turing-way/reproducible-project-template).
+En la elaboración y la planificación para compartir los resultados de manera abierta, se puede aplicar el principio de "tan abierto como sea posible, tan cerrado como sea necesario". Esto significa proteger la información confidencial, gestionar las prácticas de protección de datos cuando sea necesario y no compartir datos sensibles o información privada de las personas que pueda ser utilizada indebidamente. Repositorios en línea, como GitHub y GitLab, permiten la interacción en línea además de servir técnicamente al control de versiones y al alojamiento del contenido. Por ejemplo, puedes usar [_issues_](https://docs.github.com/en/issues/tracking-your-w-ork-with-issues/about-issues) (en inglés) y [un tablero de proyecto](https://docs.github.com/en/github-ae%40latest/issues/organizing-your-work-with-project-boards/managing-project-boards/creating-a-project-board) (en inglés) para comunicar lo que está ocurriendo en un proyecto en cualquier momento. El uso de [_pull requests_](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) (en inglés) indica una invitación para que los pares revisen el nuevo desarrollo de código u otro contenido. Gracias a una serie de plantillas reutilizables, no es necesario configurar los repositorios desde cero. Por ejemplo, se puede utilizar directamente una [plantilla para proyectos de investigación reproducibles](https://github.com/the-turing-way/reproducible-project-template) (en inglés).
 
-## Función de los colaboradores en Ciencia Abierta
+## El rol de las personas colaboradoras en la Ciencia Abierta
 
-La colaboración es fundamental para todas las investigaciones científicas. El impacto positivo de la colaboración se logra cuando se apoya la diversidad para combinar una gama de habilidades, perspectivas y recursos y trabajar hacia un objetivo compartido. Los proyectos que aplican enfoques abiertos y reproducibles facilitan la participación de diversos colaboradores y el reconocimiento de sus aportes, al mismo tiempo que apoyan el desarrollo de soluciones de las que todos puedan beneficiarse.
+La colaboración es fundamental para todas las investigaciones científicas. El impacto positivo de la colaboración se logra cuando se apoya la diversidad para combinar una gama de habilidades, perspectivas y recursos y trabajar hacia un objetivo compartido. Los proyectos que aplican enfoques abiertos y reproducibles facilitan la participación de diversas personas colaboradoras y el reconocimiento de sus aportes, al mismo tiempo que apoyan el desarrollo de soluciones de las que puedan beneficiarse todas las personas.
 
-Hacer participes y reconocer el papel de todos los colaboradores en la obtención de Resultados Abiertos es una parte importante de la Ciencia Abierta, que debatiremos a continuación.
+Hacer participes y reconocer el papel de todas las personas que colaboran en la obtención de Resultados Abiertos es una parte importante de la Ciencia Abierta, que debatiremos a continuación.
 
-### Estudio del caso EHTC: Reconociendo a todos los contribuidores
+### Estudio del caso EHTC: Reconocer todas las contribuciones
 
 <img src="../images/media/image52_es.jpeg" style="width:100%;height:auto;" />
 
-Un mapa de la EHT. Las estaciones activas en 2017 y 2018 se muestran con líneas de conexión y etiquetadas en amarillo, los sitios en comisión se encuentran etiquetados en verde y los sitios heredados etiquetados en rojo. Del articulo II (Figura 1). IOPscience. https://iopscience.iop.org/journal/2041-8205/page/Focus_on_EHT
+Mapa de la EHT. Las estaciones activas en 2017 y 2018 se muestran con líneas de conexión y etiquetadas en amarillo, los sitios en servicio se encuentran etiquetados en verde y los sitios antiguos etiquetados en rojo. Del articulo II (Figura 1). [IOPscience.](https://iopscience.iop.org/journal/2041-8205/page/Focus_on_EHT) en inglés. 
 
 ---
 
-El equipo del Event Horizon Telescope (EHT, en español Telescopio Horizonte de Sucesos) involucró a 200 miembros de 59 institutos en 20 países, desde estudiantes de grado hasta altos miembros del campo. Utilizaron una matriz que incluía ocho radiotelescopios en seis lugares geográficos de los Estados Unidos, América Latina, Europa y el Polo Sur. Todos los colaboradores se ubicaron en diferentes puntos geográficos, tuvieron acceso a diferentes instrumentos, recopilaron datos generados a partir de telescopios en diferentes lugares y aplicaron habilidades de diferentes equipos para crear resultados innovadores. Cada colaborador fue reconocido a través de diferentes canales de comunicación y por medio de autorias en las publicaciones. EHTC también apoya el "análisis e interpretación críticos" de sus resultados publicados para facilitar la transparencia, el rigor y la reproducibilidad ([sitio web de EHTC](https://eventhorizontelescope.org/blog/imaging-reanalyses-eht-data)).
+El equipo del _Event Horizon Telescope_ (EHT, en español Telescopio Horizonte de Sucesos) involucró a 200 personas de 59 institutos en 20 países, desde estudiantes de grado hasta altos miembros del campo. Utilizaron una matriz que incluía ocho radiotelescopios en seis lugares geográficos de los Estados Unidos, América Latina, Europa y el Polo Sur. Todos los colaboradores se ubicaron en diferentes puntos geográficos, tuvieron acceso a diferentes instrumentos, recopilaron datos generados a partir de telescopios en diferentes lugares y aplicaron habilidades de diferentes equipos para crear resultados innovadores. Cada colaborador fue reconocido a través de diferentes canales de comunicación y por medio de autorias en las publicaciones. EHTC también apoya el "análisis e interpretación críticos" de sus resultados publicados para facilitar la transparencia, el rigor y la reproducibilidad ([sitio web de EHTC](https://eventhorizontelescope.org/blog/imaging-reanalyses-eht-data)).
 
 ### ¡Generar Resultados Abiertos comienza con los colaboradores!
 
