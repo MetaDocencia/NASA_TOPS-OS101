@@ -534,34 +534,34 @@ La imagen polarizada de la sombra del agujero negro M87 observada el 11 de abril
 
 ---
 
-A través de [varias preimpresiones](https://arxiv.org/search/astro-ph?searchtype=author\&query=Event%2BHorizon%2BTelescope%2BCollaboration) y [ocho cartas revisadas por pares](https://iopscience.iop.org/journal/2041-8205/page/Focus_on_EHT), la EHTC (por su nombre en inglés, Colaboración del Telescopio Event Horizon) presentó Resultados Abiertos publicados por diferentes equipos sobre instrumentación, observación, algoritmos, software, modelado y gestión de datos, proporcionando el alcance completo del proyecto y las conclusiones obtenidas hasta la fecha.
+A través de [varias preimpresiones](https://arxiv.org/search/astro-ph?searchtype=author\&query=Event%2BHorizon%2BTelescope%2BCollaboration) y [ocho cartas revisadas por pares](https://iopscience.iop.org/journal/2041-8205/page/Focus_on_EHT), el proyecto de Colaboración del Telescopio Event Horizon (EHTC) presentó Resultados Abiertos publicados por diferentes equipos sobre instrumentación, observación, algoritmos, software, modelado y gestión de datos, proporcionando el alcance completo del proyecto y las conclusiones obtenidas hasta la fecha.
 
-Resultados Abiertos como informes, publicaciones, código, reportes técnicos, comunicados de prensa, publicaciones en blogs, videos, charlas TED y publicaciones en redes sociales añaden al impacto global de los Resultados Abiertos de la EHTC. Los recursos están centralizados en el [sitio web de la EHTC](https://eventhorizontelescope.org/), [organización de GitHub](https://github.com/eventhorizontelescope) y [canal de YouTube](https://www.youtube.com/%40ehtelescope) entre otros para facilitar el acceso a todos los Resultados Abiertos.
+Resultados Abiertos como informes, publicaciones, código, reportes técnicos, comunicados de prensa, publicaciones en blogs, videos, charlas TED y publicaciones en redes sociales añaden al impacto global de los Resultados Abiertos del proyecto EHTC. Los recursos (en inglés) están centralizados en el [sitio web de EHTC](https://eventhorizontelescope.org/), [organización de GitHub](https://github.com/eventhorizontelescope) y el [canal de YouTube](https://www.youtube.com/%40ehtelescope) entre otros para facilitar el acceso a todos los Resultados Abiertos.
 
-Es importante destacar que sus esfuerzos han llevado a un reanálisis independiente y a la regeneración de las imágenes del agujero negro. Específicamente, [Patel et. al. (2022)](https://arxiv.org/abs/2205.10267) no sólo reprodujo el descubrimiento original, sino que también contribuyó con documentación adicional, código, y un entorno computacional como paquete de software libre en un contenedor para asegurar pruebas futuras. Algunos de los autores originales revisaron este trabajo y [también hicieron disponibles sus comentarios en línea](https://quarxiv.authorea.com/users/557984/articles/607408-review-reproducibility-of-the-first-image-of-a-black-hole-in-the-galaxy-m87-from-the-event-horizon-telescope-eht-collaboration) (Authorea).
+Es importante destacar que sus esfuerzos han llevado a un reanálisis independiente y a la regeneración de las imágenes del agujero negro. Específicamente, [Patel et. al. (2022)](https://arxiv.org/abs/2205.10267) (en inglés) no sólo reprodujo el descubrimiento original, sino que también contribuyó con documentación adicional, código y un entorno computacional como paquete de software abierto en un contenedor para asegurar pruebas futuras. Algunas de las personas autoras originales revisaron este trabajo y [también hicieron disponibles sus comentarios en línea](https://quarxiv.authorea.com/users/557984/articles/607408-review-reproducibility-of-the-first-image-of-a-black-hole-in-the-galaxy-m87-from-the-event-horizon-telescope-eht-collaboration) (Authorea) (en inglés).
 
-### Cómo Puedo Conectar Resultados Abiertos para Hacer Publicaciones Reproducibles
+### Cómo vincular Resultados Abiertos para hacer publicaciones reproducibles
 
-Si no se lo considera desde el principio, puede ser difícil asegurar la reproducibilidad de los resultados en la etapa de publicación. Suponiendo que has mantenido los Resultados Abiertos considerando su reproducibilidad, puedes empezar a ensamblarlos para conectarse con el informe final y la publicación con las referencias apropiadas a estudios anteriores.
+Si no se lo considera desde el principio, puede ser difícil asegurar la reproducibilidad de los resultados en la etapa de publicación. Suponiendo que has mantenido abiertos los resultados considerando su reproducibilidad, puedes empezar a ensamblarlos para conectarñps con el informe y la publicación fineles con las referencias apropiadas a los estudios anteriores.
 
-- Antes de escribir tu manuscrito, evalúa cada resultado para asegurarte de que has adjuntado la licencia apropiada para su reutilización, de que se ha proporcionado la documentación y los colaboradores están listados claramente. Puedes decidir crear una versión del registro y vincularlo a un identificador permanente a través de Zenodo para que el enlace no se rompa al compartirlo en un repositorio público (como GitLab/GitHub) o manuscritos con una lista visible de personas colaboradoras.
-- Tus publicaciones pueden crearse individualmente (como las del caso de estudio de la EHTC) o combinando varios resultados o fuentes de información en manuscritos. Estos incluirán requerimientos de recursos, dependencias, software, datos, repositorio donde el código se comparte con la documentación y la información de las personas que colaboraron, entre otros artefactos de investigación.
-- El manuscrito en sí mismo describirá preguntas de investigación, métodos, figuras y tablas que expliquen los resultados. Al escribir un manuscrito, puedes comenzar con figuras que representen los datos empaquetados, el código y los parámetros usados, asegurándote de que la información representada pueda reproducirse. Puedes encontrar una lista detallada en la publicación de [Gil et al.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015EA000136) (2016).
+- Antes de escribir tu manuscrito, evalúa cada resultado para asegurarte de que has adjuntado la licencia apropiada para su reutilización, de que has proporcionado la documentación y que las personas colaboradoras están listadas claramente. Puedes decidir crear una versión del registro y vincularlo a un identificador permanente a través de Zenodo para que el enlace no se rompa al compartirlo en un repositorio público (como GitLab/GitHub) o manuscritos con una lista visible de personas colaboradoras.
+- Tus publicaciones pueden crearse individualmente (como las del caso de estudio de la EHTC) o combinando varios resultados o fuentes de información en manuscritos. Estos incluirán requerimientos de recursos, dependencias, software, datos, repositorio donde el código se comparte con la documentación, y la información de las personas que colaboraron, entre otros artefactos de investigación.
+- El manuscrito en sí mismo describirá preguntas de investigación, métodos, figuras y tablas que expliquen los resultados. Al escribir un manuscrito, puedes comenzar con figuras que representen los datos empaquetados, el código y los parámetros usados, asegurándote de que la información representada pueda reproducirse. Puedes encontrar una lista de verificación detallada en la publicación de [Gil et al.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015EA000136) (2016) (en iglés).
 
-Como se ha demostrado en el caso de estudio de la EHTC, un último paso para generar Resultados Abiertos podría ser crear un meta-artículo y/o página web/git simple que centralice todos tus resultados de investigación. Se puede acceder de forma centralizada a distintas partes de la investigación (resultados individuales abiertos) con detalles, incluyendo el reconocimiento abierto para todas las personas que colaboraron.
+Como demostramos en el caso de estudio de la EHTC, un último paso para generar Resultados Abiertos podría ser crear un meta-artículo y/o un sitio web o página git simple que centralice todos tus resultados de investigación. Así, se puede acceder de forma centralizada a distintas partes de la investigación (Resultados Abiertos individuales) con detalles que incluyen el reconocimiento abierto para todas las personas que colaboraron.
 
 Si estás buscando acciones concretas que puedas tomar para generar Resultados Abiertos, elige uno de estos cuatro elementos:
 
 - Mejora la forma en la que defines las contribuciones en tu proyecto y cómo se asigna la autoría.
 - Asegúrate de que los datos o software de tu publicación se encuentren en Zenodo con licencia y documentación, incluyendo metadatos y que el DOI esté publicado en tu informe científico y publicación.
 - Asegúrate de que el proceso que utilizas para recopilar y analizar datos, incluyendo todas las dependencias y métodos utilizados en tu pipeline de análisis de datos, se encuentren claramente descritos para permitir que otras personas reproduzcan tus resultados.
-- Cree un repositorio centralizado o una página simple de git para centralizar todas las salidas de investigación con la lista de personas que han colaborado.
+- Crea un repositorio centralizado o una página simple de git para centralizar todos los productos de investigación con la lista de personas que han colaborado.
 
 ## Lección 3: Resumen
 
-Los pasos que destacamos para lograr Resultados Abiertos no son particularmente complicados. De hecho, los pasos que hemos enumerado son cosas que podemos hacer regularmente para garantizar que todos los artefactos de investigación puedan ser compartidos más adelante como Resultados Abiertos y reproducibles. En esta lección aprendimos:
+Los pasos que destacamos para lograr Resultados Abiertos no son particularmente complicados. De hecho, son cosas que podemos hacer regularmente para garantizar que todos los elementos de la investigación puedan ser compartidos más adelante como Resultados Abiertos y reproducibles. En esta lección aprendimos:
 
-- Métodos para generar Resultados Abiertos.
+- Enfoques para generar Resultados Abiertos.
 - La importancia de la colaboración al crear resultados.
 - Cómo reconocer y dar crédito a todas las personas que han contribuido en la creación de los resultados.
 - Cómo combinar distintos Resultados Abiertos para crear reportes científicos simples y resultados reproducibles.
@@ -574,7 +574,7 @@ _Pregunta_
 
 **01/02**
 
-1. ¿A cuál de las siguientes funciones se le atribuiría más apropiadamente la condición de colaborador? Selecciona todos los que correspondan.
+1. ¿A cuál de las siguientes funciones se le atribuiría más apropiadamente la condición de colaborador? Selecciona todas los que correspondan.
 
 - Idea original, planificación y aportes
 - Supervisión del proyecto
@@ -588,7 +588,7 @@ _Pregunta_
 
 ¿Cuál de estos no es un ejemplo de Resultados Abiertos de investigación?
 
-- Publicaciones de acceso abierto
+- Publicaciones de Acceso Abierto
 - Presentación en una conferencia
 - Notas internas de una reunión de equipo
 - Reportes regulares compartidos en internet
