@@ -33,7 +33,7 @@ Al finalizar esta lección deberías ser capaz de:
 Las distintas etapas de la investigación, desde la conceptualización hasta la difusión de los resultados, generan productos que pueden ponerse en el dominio público como «Resultados Abiertos». Dónde se archivan estos resultados y en qué grado, depende de la disciplina y de la persona autora. No obstante, algunas directrices generales sobre dónde empezar una búsqueda de Resultados Abiertos incluyen:
 
 1. Portales de búsqueda académica
-2. Búsquedas en Internet
+2. Búsquedas en internet
 
 **Portales de búsqueda académica**
 
@@ -90,7 +90,7 @@ Los motores de búsqueda como Google y Bing han cambiado radicalmente la forma e
 
 Las publicaciones que proporcionan algunos niveles de Acceso Abierto se rastrean en el [Directorio de Revistas de Acceso Abierto (DOAJ).](https://doaj.org/) (en inglés). 
 
-**Búsquedas en Internet**
+**Búsquedas en internet**
 
 Los Resultados Abiertos incluyen mucho más que publicaciones de Acceso Abierto revisadas por pares. ¿Cómo se encuentran estos tipos alternativos de objetos de investigación?
 
@@ -191,7 +191,7 @@ Aquí enomeramos las preguntas en dos categorías: el propio material de los Res
                 <li>¿El resultado es reproducible? ¿Puedes interactuar con los datos y los resultados? ¿Han informado otras personas de que pueden reproducir los resultados?</li>
                 <li>¿La perona autora es fiable? ¿Has visto que publiquen o compartan resultados en otros foros?</li>
                 <li>¿El resultado es de autoría individual o incluye contribuciones de una comunidad más amplia?</li>
-                <li>¿Tiene el post una cantidad significativa de valoraciones o de opiniones y comentarios públicos? El valor de una entrada de blog sin comentarios ni respuestas puede ser difícil de evaluar. Por el contrario, un foro de discusión de Github exhaustivo con múltiples opiniones compartidas indica una publicación sólida.</li>
+                <li>¿Tiene el post una cantidad significativa de valoraciones o de opiniones y comentarios públicos? El valor de una entrada de blog sin comentarios ni respuestas puede ser difícil de evaluar. Por el contrario, un foro de discusión de GitHub exhaustivo con múltiples opiniones compartidas indica una publicación sólida.</li>
                 <li>¿Es el resultado parte de una conversación activa? (¿La información sugue siendo relevante y actual?)</li>
             </ul>
         </td>
@@ -293,16 +293,16 @@ Además, da crédito a los repositorios que proporcionan materiales de Código A
 
 ### Evitar el Plagio al Utilizar Resultados Abiertos
 
-Las pautas habituales que ha estado utilizando en su investigación todo el tiempo para proporcionar la atribución y las citas apropiadas de las publicaciones de acceso cerrado también se aplican a los trabajos publicados en acceso abierto.
+Las pautas estándar que has estado usando todo el tiempo en tu investigación para proporcionar la atribución y las citas apropiadas de las publicaciones de acceso cerrado, también se aplican a los trabajos publicados en Acceso Abierto.
 
 Algunos ejemplos de plagio son:
 
 - Copiar palabra por palabra sin permiso y sin reconocimiento de la fuente.
 - Copiar componentes (tablas, procesos, equipos) sin citar la fuente.
 - Parafrasear una idea sin citar correctamente la fuente.
-- Reciclar el propio trabajo anterior y presentarlo como un nuevo documento.
+- Reciclar un trabajo anterior propio y presentarlo como un nuevo artículo.
 
-#### HOJA INFORMATIVA: Plagio
+#### Ficha técnica: Plagio
 
 **Aquí hay una guía útil sobre las diferentes formas de plagio**
 
@@ -314,23 +314,23 @@ Brindar una atribución adecuada a los Resultados Abiertos es una responsabilida
 
 ### Pautas de citación para resultados publicados y no publicados
 
-Si un artículo se ha publicado formalmente en una revista, la cita debe remitir a la versión publicada en lugar de un servidor de borradores o artículos aún no publicados.
+Si un artículo se ha publicado formalmente en una revista, la cita debe remitir a la versión publicada en lugar de un servidor de borradores o artículos aún no publicados (pre impresiones o , en inlgés, _preprints_).
 
 Tómate el tiempo necesario para localizar la revista de origen y proporcionar una cita más precisa.
 
 <img src="../images/media/image31_es.png" style="width:100%;height:auto;" />
 
-Servidor de borradores o de manuscritos aún no publicados (Citar solo si no está disponible la publicación en una revista)
+Servidor de manuscritos aún no publicados (citar solo si no está disponible la publicación en una revista)
 
 ---
 
 <img src="../images/media/image32_es.png" style="width:100%;height:auto;" />
 
-Fuente de la publicación (Citar siempre)
+Fuente de la publicación (citar siempre)
 
 ---
 
-Si un artículo que desea citar aún no ha sido aceptado para su publicación, debe seguir las pautas de la revista al cual está enviando tu artículo. Una cita de referencia de un manuscrito que aún no está publicado o de un borrador típicamente incluye el nombre de la o las persona(s) autora(s), la fecha de la versión más reciente publicada, el título del artículo, el nombre del servidor en donde se encuentra el borrador del artículo, el tipo de objeto ("manuscrito no publicado") y el DOI.
+Si un artículo que deseas citar aún no ha sido aceptado para su publicación, debe seguir las pautas de la revista al cual estás enviando tu artículo. Una cita de referencia de un manuscrito que aún no está publicado o de un borrador típicamente incluye el nombre de las personas autoras, la fecha de la versión publicada más recientemente, el título del artículo, el nombre del servidor en donde se encuentra la preimpresión del artículo, el tipo de objeto ("manuscrito no publicado" o _preprint_) y el DOI.
 
 <img src="../images/media/image33_es.png" style="width:100%;height:auto;" />
 
@@ -343,7 +343,7 @@ Jin, H., et al. 2023, "El color óptico de las supernovas de tipo Ib y Ic y sus 
 <table>
   <thead>
     <tr>
-        <th>PARA UN MATERIAL CON UN DOI ☑</th>
+        <th>PARA UN MATERIAL QUE TIENE UN DOI ☑</th>
         <th>PARA UN MATERIAL QUE NO TIENE UN DOI</th>
         <th>PARA OTROS MATERIALES O INTERACCIONES QUE FUERON ÚTILES PARA LA INVESTIGACIÓN</th>
     </tr>
@@ -366,7 +366,7 @@ Jin, H., et al. 2023, "El color óptico de las supernovas de tipo Ib y Ic y sus 
 <table>
   <thead>
     <tr>
-        <th>PARA UN MATERIAL CON UN DOI</th>
+        <th>PARA UN MATERIAL QUE TIENE UN DOI</th>
         <th>PARA UN MATERIAL QUE NO TIENE UN DOI ☑</th>
         <th>PARA OTROS MATERIALES O INTERACCIONES QUE FUERON ÚTILES PARA LA INVESTIGACIÓN</th>
     </tr>
@@ -376,8 +376,8 @@ Jin, H., et al. 2023, "El color óptico de las supernovas de tipo Ib y Ic y sus 
         <td colspan="3">
             <p>Algunos ejemplos son publicaciones en blogs, vídeos y cuadernos.</p>
             <ul>
-                <li>También podrías ponerte en contacto con lo creó y pedirle que obtenga un DOI.</li>
-                <li>Deja un comentario en la sección de comentarios o en el foro comunicando la persona autora tu publicación.</li>
+                <li>También podrías ponerte en contacto con quien lo creó y pedirle que obtenga un DOI.</li>
+                <li>Deja un comentario en la sección de comentarios o en el foro comunicando a la persona autora sobre tu publicación.</li>
             </ul>
         </td>
     </tr>
@@ -387,7 +387,7 @@ Jin, H., et al. 2023, "El color óptico de las supernovas de tipo Ib y Ic y sus 
 <table>
   <thead>
     <tr>
-        <th>PARA UN MATERIAL CON UN DOI</th>
+        <th>PARA UN MATERIAL QUE TIENE UN DOI</th>
         <th>PARA UN MATERIAL QUE NO TIENE UN DOI</th>
         <th>PARA OTROS MATERIALES O INTERACCIONES QUE FUERON ÚTILES PARA LA INVESTIGACIÓN ☑</th>
     </tr>
@@ -397,7 +397,7 @@ Jin, H., et al. 2023, "El color óptico de las supernovas de tipo Ib y Ic y sus 
         <td colspan="3">
             <ul>
                 <li>Reconoce a las comunidades y a los foros que te han ayudado a avanzar en tu investigación en la sección de agradecimientos. Esto no sólo les da un reconocimiento, sino que ayuda a otras personas a encontrar a estas comunidades.</li>
-                <li>Citar los resultados de investigaciones abiertas hace que avance la ciencia al dar el reconocimiento adecuado a todas las partes del proceso de investigación. Esto es algo fundamental para lograr un cambio cultural en favor de la ciencia abierta; hay que reconocer el mérito de todo tipo de contribuciones y esperar reciprocidad. La ciencia colaborativa permite que más personas, de más lugares, con voces y experiencias diferentes participen en ciencia.</li>
+                <li>Citar los resultados de investigaciones abiertas hace avanzar la ciencia al dar el reconocimiento adecuado a todas las partes del proceso de investigación. Esto es algo fundamental para lograr un cambio cultural en favor de la Ciencia Abierta; debemos dar crédito a todo tipo de contribuciones y esperar reciprocidad. La ciencia colaborativa permite que más personas, de más lugares, con voces y experiencias diferentes participen en la ciencia.</li>
                 <li>Contribuir y colaborar de este modo disminuye las barreras (como el costo de un congreso) para participar en ciencia y amplía el número de personas que pueden involucrarse.</li>
             </ul>
         </td>
@@ -405,20 +405,20 @@ Jin, H., et al. 2023, "El color óptico de las supernovas de tipo Ib y Ic y sus 
   </tbody>
 </table>
 
-### Ejemplos de Agradecimiento
+### Ejemplos de cómo dar crédito
 
-En el ejemplo del blog de la Lección 1 [example](https://medium.com/pangeo/fake-it-until-you-make-it-reading-goes-netcdf4-data-on-aws-s3-as-zarr-for-rapid-data-access-61e33f8fe685), quienes investigan agradecieron a las personas con las que trabajaron en un artículo que escribieron y que les resultó de ayuda, y a dos comunidades diferentes, así como al entorno computacional en el que trabajaron. Este es un buen ejemplo de cómo agradecer: "Me gustaría agradecer a Rich Signell (USGS) y Martin Durant (Anaconda) por su ayuda en el estudio de este proceso. Si te interesa ver con más detalle cómo funciona, te recomiendo el artículo de Rich del 2020 sobre el tema. También me gustaría reconocer [Pangeo](https://pangeo.io/) y [Pangeo-forge](https://pangeo-forge.org/) quienes trabajan con mucho esfuerzo para facilitar el trabajo con grandes conjuntos de datos en geociencia. El trabajo en este proyecto se realizó en la implementación de AWS de Pangeo
+En el ejemplo del blog de la Lección 1 [example](https://medium.com/pangeo/fake-it-until-you-make-it-reading-goes-netcdf4-data-on-aws-s3-as-zarr-for-rapid-data-access-61e33f8fe685) (en inglés), quienes investigan agradecieron a las personas con las que trabajaron en un artículo que escribieron y que les resultó de ayuda, y a dos comunidades diferentes, así como al entorno computacional en el que trabajaron. Este es un buen ejemplo de cómo agradecer: "Me gustaría agradecer a Rich Signell (USGS) y Martin Durant (Anaconda) por su ayuda en el estudio de este proceso. Si te interesa ver con más detalle cómo funciona, te recomiendo el artículo de Rich del 2020 sobre el tema. También me gustaría reconocer [Pangeo](https://pangeo.io/) y [Pangeo-forge](https://pangeo-forge.org/) quienes trabajan con mucho esfuerzo para facilitar el trabajo con grandes conjuntos de datos en geociencia. El trabajo en este proyecto se realizó en la implementación de AWS de Pangeo".
 
-En la Lección 1, se presentó el caso de JWST. El [artículo]revisado por pares (https://www.nature.com/articles/s41586-022-05269-w#Ack1) que informaba del primer descubrimiento de CO2 en otro planeta ha sido consultada más de 18.000 veces. Cabe señalar que la autoría se atribuye a todo el equipo. La sección de Agradecimientos detalla debidamente las contribuciones de quienes colaboraron, "Los resultados informados aquí se beneficiaron durante la fase de diseño de colaboraciones e intercambios dentro de la red de coordinación de investigación Nexus for Exoplanet System Science (NExSS) de la NASA, patrocinada por la Dirección de Misiones Científicas de la NASA". Todos los datos y modelos presentados en esta publicación pueden consultarse en [https://doi.org/10.5281/zenodo.6959427](https://doi.org/10.5281/zenodo.6959427). Y por último, ¡citan todo el software! "Los códigos utilizados en esta publicación para extraer, reducir y analizar los datos son los siguientes.."
+En la Lección 1, se presentó el caso de JWST. El [artículo](https://www.nature.com/articles/s41586-022-05269-w#Ack1) (en inglés) revisado por pares  que informaba del primer descubrimiento de CO2 en otro planeta ha sido consultada más de 23.000 veces. Cabe señalar que la autoría se atribuye a todo el equipo. La sección de Agradecimientos detalla debidamente las contribuciones de quienes colaboraron, "Los resultados informados aquí se beneficiaron durante la fase de diseño de colaboraciones e intercambios dentro de la red de coordinación de investigación Nexus for Exoplanet System Science (NExSS) de la NASA, patrocinada por la Dirección de Misiones Científicas de la NASA". Todos los datos y modelos presentados en esta publicación pueden consultarse en [https://doi.org/10.5281/zenodo.6959427](https://doi.org/10.5281/zenodo.6959427). Y por último, ¡citan todo el software! "Los códigos utilizados en esta publicación para extraer, reducir y analizar los datos son los siguientes.."
 
 ## Lección 2: Resumen
 
-En esta lección, has aprendido:
+Conclusiones principales de esta lección:
 
-- Los Resultados Abiertos se pueden encontrar tanto utilizando Portales Académicos de Búsqueda como mediante búsquedas en internet.
+- Los Resultados Abiertos se pueden encontrar tanto utilizando portales académicos de búsqueda como mediante búsquedas en internet.
 - La confiabilidad de una publicación generalmente puede evaluarse por la confiabilidad del sitio web del que proviene, la participación de la comunidad y el rigor científico de su contenido.
-- Quienes utilizan Resultados Abiertos, en tanto son las personas que inherentemente administran la comunidad de código abierto, tienen informalmente la responsabilidad de contribuir a la sostenibilidad de la comunidad. Esta participación incluye la comunicación de opiniones a quienes proporcionan y desarrollan Resultados Abiertos.
-- Dar una adecuada referencia a los Resultados Abiertos es una responsabilidad importante y ética a la hora de utilizar materiales de código abierto. La forma de citar los resultados depende de la especificidad del material.
+- Quienes utilizan Resultados Abiertos, en tanto guardianes o defensores de la comunidad de Código Abierto, tienen informalmente la responsabilidad de contribuir a la sostenibilidad de la comunidad. Esta participación incluye la comunicación de opiniones a quienes proporcionan y desarrollan Resultados Abiertos.
+- Dar una adecuada referencia a los Resultados Abiertos es una responsabilidad importante y ética a la hora de utilizar materiales de Código Abierto. La forma de citar los resultados depende de la especificidad del material.
 
 ## Lección 2: Evaluación
 
@@ -428,13 +428,13 @@ _Pregunta_
 
 **01/02**
 
-¿Cuál de las siguientes opciones podría ser una fuente de Resultados Abiertos? Selecciona todos los que correspondan.
+¿Cuál de las siguientes opciones podría ser una fuente de Resultados Abiertos? Selecciona todas los que correspondan.
 
-- Búsquedas en Internet
+- Búsquedas en internet
 - Artículos a los que se accedió a través de una suscripción pagada
 - Materiales hechos públicos después de un período exclusivo de 1 año de uso/suscripción pagado
 - Repositorios
-- Publicaciones de acceso abierto
+- Publicaciones de Acceso Abierto
 
 _Pregunta_
 
@@ -447,7 +447,7 @@ _Pregunta_
 - El artículo se acompaña de datos, incluyendo campos definidos y parámetros
 - Se proporciona la información de contacto de la organización
 - La página de internet fue actualizada por última vez en 2015
-- La página de internet anuncia posiciones de trabajo abiertas con quien financia
+- La página de internet anuncia puestos de trabajo vacantes y quien los financia
 - La persona autora es experta en el campo
 - La URL de la página de internet termina en '.com'
-- La documentación acompañante afirma que "al inspeccionar las distribuciones de los datos, se excluyeron del análisis los datos que eran valores atípicos"
+- La documentación complemantaria afirma que "al inspeccionar las distribuciones de los datos, se excluyeron del análisis los datos que eran valores atípicos"
