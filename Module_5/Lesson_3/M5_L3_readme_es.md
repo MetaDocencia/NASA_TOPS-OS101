@@ -277,16 +277,16 @@ Mapa de la EHT. Las estaciones activas en 2017 y 2018 se muestran con líneas de
 
 ---
 
-El equipo del _Event Horizon Telescope_ (EHT, en español Telescopio Horizonte de Sucesos) involucró a 200 personas de 59 institutos en 20 países, desde estudiantes de grado hasta altos miembros del campo. Utilizaron una matriz que incluía ocho radiotelescopios en seis lugares geográficos de los Estados Unidos, América Latina, Europa y el Polo Sur. Todos los colaboradores se ubicaron en diferentes puntos geográficos, tuvieron acceso a diferentes instrumentos, recopilaron datos generados a partir de telescopios en diferentes lugares y aplicaron habilidades de diferentes equipos para crear resultados innovadores. Cada colaborador fue reconocido a través de diferentes canales de comunicación y por medio de autorias en las publicaciones. EHTC también apoya el "análisis e interpretación críticos" de sus resultados publicados para facilitar la transparencia, el rigor y la reproducibilidad ([sitio web de EHTC](https://eventhorizontelescope.org/blog/imaging-reanalyses-eht-data)).
+El equipo del _Event Horizon Telescope_ (EHT, en español Telescopio Horizonte de Sucesos) involucró a 200 personas de 59 institutos en 20 países, desde estudiantes de grado hasta referentes del campo de alto nivel. Utilizaron una matriz que incluía ocho radiotelescopios en seis lugares geográficos de los Estados Unidos, América Latina, Europa y el Polo Sur. Todas las personas colaboradoras se ubicaron en diferentes puntos geográficos, tuvieron acceso a diferentes instrumentos, recopilaron datos generados a partir de telescopios en diferentes lugares y aplicaron habilidades de diferentes equipos para crear resultados innovadores. Cada persona que colaboró fue reconocida a través de diferentes canales de comunicación y por medio de autorias en las publicaciones. EHTC también apoya el "análisis e interpretación críticos" de sus resultados publicados para facilitar la transparencia, el rigor y la reproducibilidad ([sitio web de EHTC](https://eventhorizontelescope.org/blog/imaging-reanalyses-eht-data)).
 
-### ¡Generar Resultados Abiertos comienza con los colaboradores!
+### ¡Generar Resultados Abiertos comienza con la colaboracíon!
 
-Crear diferentes componentes de investigación y prepararse para compartirlos como Resultados Abiertos implica una serie de actividades. Detrás de estas actividades se encuentran los contribuidores que asumen variadas responsabilidades que incluyen pero no se limitan a:
+Crear diferentes componentes de investigación y prepararse para compartirlos como Resultados Abiertos implica una serie de actividades. Detrás de estas actividades se encuentran las personas que contribuyen, quienes asumen variadas responsabilidades que incluyen, entre otras:
 
 - Conceptualizar la idea
 - Diseñar el proyecto
-- Participar como asesor o mentor
-- Realizar experimentos como estudiante, investigador o asistente de investigación
+- Asesorar o mentorear
+- Realizar experimentos como estudiante, persona investigadora o asistente de investigación
 - Crear herramientas esenciales para llevar a cabo la investigación
 - Proveer experiencia en datos
 - Desarrollar software
@@ -295,23 +295,23 @@ Crear diferentes componentes de investigación y prepararse para compartirlos co
 - Proporcionar comentarios a los resultados
 - Diseñar experimentos e interpretar resultados
 - Escribir y revisar manuscritos
-- ¡Y [mas](https://the-turing-way.netlify.app/collaboration/shared-ownership/shared-ownership-projects.html)!
+- ¡Y [más](https://the-turing-way.netlify.app/collaboration/shared-ownership/shared-ownership-projects.html)! (en inglés).
 
 Frecuentemente las conversaciones sobre la contribución y la autoría tienen lugar hacia el final de un proyecto o cuando se prepara el borrador de una publicación científica. Sin embargo, como se ha aprendido en las lecciones anteriores, los resultados de la investigación se generan a lo largo de toda la vida de un proyecto de investigación. Por lo tanto, es importante construir un acuerdo al principio del proyecto sobre cómo se gestionarán las contribuciones en el mismo.
 
-Desarrollar pautas de contribución y acuerdos entre colaboradores requiere definir de manera colaborativa qué se considera contribuciones en el proyecto, quiénes entre los colaboradores actuales obtendrán autoría, quiénes serán reconocidos como colaboradores, cuál es la importancia del orden en el que se enumeran los autores en una publicación científica y quién toma estas decisiones. Garantizar que todos los colaboradores entiendan y acepten estas pautas antes de comenzar el proyecto también es importante.
+Desarrollar pautas de contribución y acuerdos entre personas colaboradoras requiere definir de manera colectiva qué se considera contribuciones en el proyecto, quiénes obtendrán autoría, quiénes serán reconocidos como colaboradores, cuál es la importancia del orden en el que se enumeran las personas autoras en una publicación científica y quién toma estas decisiones. Garantizar que todas las peronas que colaboran entiendan y acepten estas pautas antes de comenzar el proyecto también es importante.
 
-### Colaboradores y Autoría
+### Colaboraciones y autoría
 
-En primer lugar y sobre todo, se debe asegurar que se reconozcan sus contribuciones a cualquier persona que haya contribuido al proyecto de investigación. Con esta idea en mente, en esta lección, se explorará cómo se representarán esos reconocimientos a los colaboradores o autores de tu proyecto de investigación.
+En primer lugar y sobre todo, debes asegurarte de que se reconozcan las contribuciones de cualquier persona que haya aportado al proyecto de investigación. Con esta idea en mente, en esta lección, se explorará cómo hacer efectivos esos reconocimientos a las personas colaboradoras o autoras de tu proyecto de investigación.
 
-Primero definamos los roles de autores y colaboradores.
+Primero definamos los roles de personas autoras y colaboradoras.
 
 <table>
   <thead>
     <tr>
-        <th>"COLABORADORES" ☑</th>
-        <th>PERSONA "AUTORA"</th>
+        <th>PERSONA COLABORADORA ☑</th>
+        <th>PERSONA AUTORA</th>
     </tr>
   </thead>
   <tbody>
@@ -326,8 +326,8 @@ Primero definamos los roles de autores y colaboradores.
 <table>
   <thead>
     <tr>
-        <th>PERSONA "COLABORADORA"</th>
-        <th>PERSONA "AUTORA" ☑</th>
+        <th>PERSONA COLABORADORA</th>
+        <th>PERSONA AUTORA ☑</th>
     </tr>
   </thead>
   <tbody>
@@ -341,23 +341,23 @@ Primero definamos los roles de autores y colaboradores.
 
 ### ¿Todas las personas autoras son colaboradoras y viceversa?
 
-Una autoría corresponde a una persona que realiza activamente una o varias de las tareas mencionadas anteriormente ([National Institute of Health - NIH](https://oir.nih.gov/sourcebook/ethical-conduct/authorship-guidelines-resources/authorship-resources) y [ICMJE](https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html)). Todas las personas autoras son colaboradoras, pero es posible que no todas las personas colaboradoras sean autoras, por ejemplo, alguien que contribuye mediante mentoría, capacitación o mantenimiento de infraestructura. Idealmente, todas las personas colaboradoras tienen la oportunidad de tener autoría sobre los resultados de la investigación.
+Una autoría corresponde a una persona que realiza activamente una o varias de las tareas mencionadas anteriormente (ver también [National Institute of Health - NIH](https://oir.nih.gov/sourcebook/ethical-conduct/authorship-guidelines-resources/authorship-resources) y [ICMJE](https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html)). Todas las personas autoras son colaboradoras, pero es posible que no todas las personas colaboradoras sean autoras, por ejemplo, alguien que contribuye mediante mentoría, capacitación o mantenimiento de infraestructura. Lo ideal es que a todas las personas colaboradoras se les ofrezca la oportunidad de tener autoría sobre los resultados de la investigación.
 
 Dada la importancia que tradicionalmente se le atribuye a la autoría en la publicación científica y la ambigüedad de las definiciones (que a menudo contienen términos relativos, como "sustancial" o "extensivo", que dejan demasiado margen para interpretaciones subjetivas), no es de extrañar que determinar quién merece una autoría pueda conducir a decisiones sesgadas o injustas, disputas entre personas colaboradoras, o como mínimo, dejar a alguna persona resentida y con el sentimiento de ser menospreciada.
 
-No hay un único enfoque para reconocer a las personas contribuyentes como autoras, pero esto es lo que se debería considerar:
+No hay un único enfoque para reconocer a las personas contribuyentes como autoras, pero esto es lo que debes tener en cuenta:
 
 <table>
   <thead>
     <tr>
-        <th>DINAMICAS DE PODER EN GRUPO &amp; EQUIDAD (Por ejemplo, jerarquía, sistemas de opresión) ☑</th>
+        <th>DINAMICAS DE PODER Y EQUIDAD EN EL GRUPO (ej. experiencia, sistemas opresivos) ☑</th>
         <th>EL TIPO DE CONTRIBUCIÓN</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="2">
-            <p>Considera este escenario hipotético: Eres estudiante postdoctoral y autor principal de un proyecto de investigación. Una persona estudiante rotativa pasa 4 meses en el laboratorio ayudando a establecer y perfeccionar el protocolo experimental que se utilizará para realizar los experimentos necesarios para responder a la pregunta de la investigación. Incluso pueden ayudar en la obtención de datos preliminares, pero luego se van y deciden unirse a otro laboratorio. ¿Proporcionarías autoría a esa persona estudiante?</p>
+            <p>Considera este escenario hipotético: Eres estudiante postdoctoral y tienes la autoría principal de un proyecto de investigación. Una persona estudiante rotativa pasa 4 meses en el laboratorio ayudando a establecer y perfeccionar el protocolo experimental que se utilizará para realizar los experimentos necesarios para responder a la pregunta de la investigación. Incluso puede ayudar en la obtención de datos preliminares, pero luego se va y decide unirse a otro laboratorio. ¿Proporcionarías autoría a esa persona?</p>
             <p>Sería poco ético no dar autoría o crédito a alguna persona que ha prestado una ayuda significativa y ha contribuido al éxito de una investigación incluso cuando ya no esté implicada. Un camino justo en este escenario podría ser ponerse en contacto con quienes han colaborado anteriormente e implicarles en la escritura de una sección relevante del manuscrito.</p>
         </td>
     </tr>
@@ -367,7 +367,7 @@ No hay un único enfoque para reconocer a las personas contribuyentes como autor
 <table>
   <thead>
     <tr>
-        <th>DINAMICAS DE PODER EN GRUPO &amp; EQUIDAD (Por ejemplo, jerarquía, sistemas de opresión) ☑</th>
+        <th>DINAMICAS DE PODER Y EQUIDAD EN EL GRUPO (ej. experiencia, sistemas opresivos) ☑</th>
         <th>EL TIPO DE CONTRIBUCIÓN ☑</th>
     </tr>
   </thead>
@@ -382,7 +382,7 @@ No hay un único enfoque para reconocer a las personas contribuyentes como autor
 
 Una comunicación clara sobre roles y responsabilidades al inicio del proyecto y pautas sobre cómo se determinarán las autorías, puede ayudar a mitigar algunos de estos problemas.
 
-### Diversidad de roles de los colaboradores
+### Diversidad de roles de las personas colaboradoras 
 
 Es importante establecer una referencia para cada equipo de investigación/proyecto sobre los diferentes tipos de responsabilidades y oportunidades disponibles para quienes colaboran, así como el reconocimiento que recibirá cada persona. [CRediT Taxonomy](https://credit.niso.org/) representa los roles típicamente desempeñados por las personas colaboradoras de una investigación en la creación de una producción científica. A continuación, proporcionamos una tabla con roles de investigación que amplían la taxonomía de CRediT para incluir otras contribuciones ([Sharan, 2022](https://zenodo.org/record/8403386)). Utilizando esto como punto de partida, se puede facilitar la discusión mediante un diálogo abierto entre quienes integran el equipo para establecer un entendimiento compartido y un acuerdo sobre los diversos roles de colaboración, incluida la autoría de publicaciones. La distinción entre tipos de contribución puede ayudar a establecer expectativas claras sobre las responsabilidades y cómo pueden ser reconocidas en un proyecto.
 
