@@ -382,9 +382,9 @@ No hay un único enfoque para reconocer a las personas contribuyentes como autor
 
 Una comunicación clara sobre roles y responsabilidades al inicio del proyecto y pautas sobre cómo se determinarán las autorías, puede ayudar a mitigar algunos de estos problemas.
 
-### Diversidad de roles de las personas colaboradoras 
+### Diversidad de roles entre quienes colaboran 
 
-Es importante establecer una referencia para cada equipo de investigación/proyecto sobre los diferentes tipos de responsabilidades y oportunidades disponibles para quienes colaboran, así como el reconocimiento que recibirá cada persona. [CRediT Taxonomy](https://credit.niso.org/) representa los roles típicamente desempeñados por las personas colaboradoras de una investigación en la creación de una producción científica. A continuación, proporcionamos una tabla con roles de investigación que amplían la taxonomía de CRediT para incluir otras contribuciones ([Sharan, 2022](https://zenodo.org/record/8403386)). Utilizando esto como punto de partida, se puede facilitar la discusión mediante un diálogo abierto entre quienes integran el equipo para establecer un entendimiento compartido y un acuerdo sobre los diversos roles de colaboración, incluida la autoría de publicaciones. La distinción entre tipos de contribución puede ayudar a establecer expectativas claras sobre las responsabilidades y cómo pueden ser reconocidas en un proyecto.
+Es importante establecer una referencia para cada equipo de investigación o proyecto sobre los diferentes tipos de responsabilidades y oportunidades disponibles para quienes colaboran, así como el reconocimiento que recibirá cada persona. [CRediT Taxonomy](https://credit.niso.org/) (en inglés) representa los roles típicamente desempeñados por las personas colaboradoras de una investigación en la creación de una producción científica. A continuación, proporcionamos una tabla con roles de investigación que amplían la taxonomía de CRediT para incluir otras contribuciones ([Sharan, 2022](https://zenodo.org/record/8403386), en inglés). Utilizando esto como punto de partida, se puede facilitar la discusión mediante un diálogo abierto entre quienes integran el equipo para establecer un entendimiento compartido y un acuerdo sobre los diversos roles de colaboración, incluida la autoría de publicaciones. La distinción entre tipos de contribución puede ayudar a establecer expectativas claras sobre las responsabilidades y cómo pueden ser reconocidas en un proyecto.
 
 <table>
 <colgroup>
@@ -408,27 +408,27 @@ Es importante establecer una referencia para cada equipo de investigación/proye
     </tr>
     <tr>
         <td>Participación comunitaria</td>
-        <td>Conectar con los interesados en el proyecto, habilitar la colaboración, identificar recursos y administrar las interacciones de los colaboradores</td>
+        <td>Conectar con personas interesadas en el proyecto, habilitar la colaboración, identificar recursos y administrar las interacciones para la colaboración</td>
     </tr>
     <tr>
         <td>Equidad, Diversidad, Inclusión y Accesibilidad (EDIA)</td>
-        <td>Enfoques inclusivos para la colaboración e investigación, involucrar contribuciones diversas, accesibilidad de recursos, consideración de discapacidades, neurodiversidades y otras consideraciones para una participación equitativa</td>
+        <td>Enfoques inclusivos para la colaboración e investigación, involucramiento de contribuciones diversas, accesibilidad de recursos, consideración de discapacidades, la neurodiversidad y otras consideraciones para una participación equitativa</td>
     </tr>
     <tr>
         <td>Revisión ética</td>
-        <td>Asegurar que el proyecto de investigación se someta a un proceso de revisión ética, si es necesario</td>
+        <td>Sometimietno del proyecto de investigación a un proceso de revisión ética, si es necesario</td>
     </tr>
     <tr>
         <td>Comunicaciones y compromiso</td>
         <td>Comunicaciones sobre el proyecto y compromisos con las partes interesadas más allá del proyecto y la institución</td>
     </tr>
     <tr>
-        <td>Interacción con personas expertas y responsables de las políticas de la organización</td>
-        <td>Revisión previa a la publicación, reuniones con la junta asesora externa, informes regulares, reportes posteriores a la publicación y contactar activamente a las personas responsables de políticas pertinentes</td>
+        <td>Interacción con personas expertas y responsables de las políticas</td>
+        <td>Revisión previa a la publicación, reuniones con la junta asesora externa, informes regulares, reportes posteriores a la publicación y contacto activo con las personas responsables de políticas pertinentes</td>
     </tr>
     <tr>
         <td>Reconocimiento y autoría</td>
-        <td>Evaluar incentivos, estableciendo un sistema de valor justo, reconociendo equitativamente a quienes colaboran</td>
+        <td>Evaluación de incentivos, establecimiento de un sistema de valor justo, reconocimiento equitativamente a quienes colaboran</td>
     </tr>
     <tr>
         <td>Diseño del proyecto</td>
@@ -440,35 +440,35 @@ Es importante establecer una referencia para cada equipo de investigación/proye
     </tr>
     <tr>
         <td>Metodología</td>
-        <td>Desarrollo o diseño de la metodología; creación de modelos</td>
+        <td>Desarrollo o diseño de la metodología, creación de modelos</td>
     </tr>
     <tr>
         <td>Software</td>
-        <td>Programación, desarrollo de software; diseño de programas informáticos; implementación del código informático y soporte de algoritmos; prueba de componentes de código existentes</td>
+        <td>Programación, desarrollo de software, diseño de programas informáticos, implementación del código informático y soporte de algoritmos, prueba de componentes de código existentes</td>
     </tr>
     <tr>
         <td>Validación</td>
-        <td>Verificación, ya sea como parte de la actividad o de manera independiente, de la replicación/reproducibilidad general de resultados/experimentos y otros resultados de investigación generalizables</td>
+        <td>Verificación, ya sea como parte de la actividad o de manera independiente, de la replicación/reproducibilidad general de resultados/experimentos y otros productos de investigación generalizables</td>
     </tr>
     <tr>
         <td>Investigación</td>
-        <td>Realizar un proceso de investigación e indagación, específicamente llevando a cabo los experimentos, o la recolección de datos/evidencia</td>
+        <td>Realización del proceso de investigación e indagación, específicamente de los experimentos, o de la recolección de datos/evidencia</td>
     </tr>
     <tr>
         <td>Recursos</td>
-        <td>Proveer de materiales de estudio, reactivos, materiales, pacientes, muestras de laboratorio, animales, instrumentación, recursos informáticos u otras herramientas de análisis</td>
+        <td>Provisión de materiales de estudio, reactivos, materiales, pacientes, muestras de laboratorio, animales, instrumentación, recursos informáticos u otras herramientas de análisis</td>
     </tr>
     <tr>
         <td>Curaduría de datos</td>
-        <td>Actividades de gestión de registro (producir metadatos), depuración y mantenimiento de los datos de investigación (incluido el código de software, cuando sea necesario para interpretar los mismos) para su uso inicial y reutilización posterior (incluida la licencia)</td>
+        <td>Actividades de gestión de registro (producir metadatos), depuración y mantenimiento de los datos de investigación (incluido el código de software, cuando sea necesario para interpretar los mismos) para su uso inicial y reusabilidad posterior (incluida la licencia)</td>
     </tr>
     <tr>
-        <td>Escritura - Borrador Original</td>
+        <td>Redacción - Borrador Original</td>
         <td>Preparación, creación y/o presentación del trabajo publicado, específicamente la redacción del primer borrador (incluidas traducciones sustanciales)</td>
     </tr>
     <tr>
-        <td>Escritura - Revisión y Edición</td>
-        <td>Preparación, creación y/o presentación del trabajo por parte del equipo de investigación, abarcando las revisiones críticas, comentarios o correcciones, incluyendo las etapas de pre y post publicación</td>
+        <td>Redacción - Revisión y Edición</td>
+        <td>Preparación, creación y/o presentación del trabajo por parte del equipo de investigación, en particular las revisiones críticas, comentarios o correcciones, incluyendo las etapas de pre y post publicación</td>
     </tr>
     <tr>
         <td>Visualización</td>
