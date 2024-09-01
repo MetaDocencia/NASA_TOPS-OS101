@@ -11,7 +11,7 @@
 
 ## Descripción general 
 
-En la Lección 2 aprendiste a usar los resultados de otros. En esta lección nos centraremos en generar Resultados Abiertos. Empezaremos por debatir qué significa conseguir resultados reproducibles. Como ya hemos comentado en el curso las prácticas de reproducibilidad computacional en Software Abierto, en esta lección enfatizamos específicamente la importancia de las colaboraciones para que estos resultados sean abiertos y reproducibles. Empezando por reconocer que los resultados científicos no son obtenidos por individuos. Asimismo, te enseñaremos cómo garantizar colaboraciones equitativas, justas y exitosas al generar Resultados Abiertos que reconozcan todas las contribuciones. Una vez que hayas planificado las reglas de participación, te brindaremos formas de garantizar que tus informes y publicaciones respeten los principios de Resultados Abiertos y combatan la crisis de reproducibilidad.
+En la Lección 2 aprendiste a usar los resultados de otras personas. En esta lección nos centraremos en generar Resultados Abiertos. Empezaremos por debatir qué significa conseguir resultados reproducibles. Como ya hemos comentado en el curso las prácticas de reproducibilidad computacional en Software Abierto, en esta lección enfatizamos específicamente la importancia de las colaboraciones para que estos resultados sean abiertos y reproducibles. Empezando por reconocer que los resultados científicos no son obtenidos por individuos. Asimismo, te enseñaremos cómo garantizar colaboraciones equitativas, justas y exitosas al generar Resultados Abiertos que reconozcan todas las contribuciones. Una vez que hayas planificado las reglas de participación, te brindaremos formas de garantizar que tus informes y publicaciones respeten los principios de Resultados Abiertos y combatan la crisis de reproducibilidad.
 
 ## Objetivos de aprendizaje
 
@@ -40,7 +40,7 @@ En 2017, el telescopio del _Event Horizon_ (EHTC por sus siglas en inglés) apun
 
 ### Generar resultados y dar crédito a quienes contribuyeron de manera justa en diferentes etapas de la investigación
 
-Los estudios de caso mencionados anteriormente destacan que los resultados asociados con un proyecto son más que una publicación. Al comprender cómo se crean los Resultados Abiertos en diferentes proyectos, podemos obtener conocimiento profundo sobre los procesos para hacerlo. Con ese objetivo, el resto de esta lección describe el proceso de obtención de resultados en tres partes: 1) generar todo tipo de resultados de investigación; 2) reconocer a todas las personas que constribuyeron; y 3) combinar resultados para informes y publicaciones científicas.
+Los estudios de caso mencionados anteriormente destacan que los resultados asociados con un proyecto son más que una publicación. Al comprender cómo se crean los Resultados Abiertos en diferentes proyectos, podemos obtener conocimiento profundo sobre los procesos para hacerlo. Con ese objetivo, el resto de esta lección describe el proceso de obtención de resultados en tres partes: 1) generar todo tipo de resultados de investigación; 2) reconocer a todas las personas que contribuyeron; y 3) combinar resultados para informes y publicaciones científicas.
 
 ### Generar todo tipo de resultados de investigación
 
@@ -247,7 +247,7 @@ Compartir diferentes tipos de resultados lo antes posible no sólo ayuda a encon
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Las redes sociales también son un buen lugar para hacer preguntas cuando se está empezando en un tema de investigación y también como lugar para compartir todo tipo de resultados. Proporcionar un enlace a un vídeo, una entrada de blog o un cuaderno computacional y/o compartir una imagen de un resultado científico es una buena forma de iniciar interacciones. Puedes llamar la atención sobre tu publicación usando hashtags y etiquetando a otros colaboradores. Hay un montón de guías en Internet para aprender cómo escribir posts en redes sociales y siempre es bueno mirar lo que hacen otras personas en tu área. Responder a los comentarios y comprometerse con otras personas puede ayudarte a mejorar tu investigación y aprender sobre nuevas herramientas o métodos.</p>
+            <p>Las redes sociales también son un buen lugar para hacer preguntas cuando se está empezando en un tema de investigación y también como lugar para compartir todo tipo de resultados. Proporcionar un enlace a un vídeo, una entrada de blog o un cuaderno computacional y/o compartir una imagen de un resultado científico es una buena forma de iniciar interacciones. Puedes llamar la atención sobre tu publicación usando hashtags y etiquetando a otras personas que colaboraron. Hay un montón de guías en Internet para aprender cómo escribir posts en redes sociales y siempre es bueno mirar lo que hacen otras personas en tu área. Responder a los comentarios y comprometerse con otras personas puede ayudarte a mejorar tu investigación y aprender sobre nuevas herramientas o métodos.</p>
         </td>
     </tr>
   </tbody>
@@ -277,9 +277,9 @@ Mapa de la EHT. Las estaciones activas en 2017 y 2018 se muestran con líneas de
 
 ---
 
-El equipo del _Event Horizon Telescope_ (EHT, en español Telescopio Horizonte de Sucesos) involucró a 200 personas de 59 institutos en 20 países, desde estudiantes de grado hasta referentes del campo de alto nivel. Utilizaron una matriz que incluía ocho radiotelescopios en seis lugares geográficos de los Estados Unidos, América Latina, Europa y el Polo Sur. Todas las personas colaboradoras se ubicaron en diferentes puntos geográficos, tuvieron acceso a diferentes instrumentos, recopilaron datos generados a partir de telescopios en diferentes lugares y aplicaron habilidades de diferentes equipos para crear resultados innovadores. Cada persona que colaboró fue reconocida a través de diferentes canales de comunicación y por medio de autorias en las publicaciones. EHTC también apoya el "análisis e interpretación críticos" de sus resultados publicados para facilitar la transparencia, el rigor y la reproducibilidad ([sitio web de EHTC](https://eventhorizontelescope.org/blog/imaging-reanalyses-eht-data)).
+El equipo del _Event Horizon Telescope_ (EHT, en español Telescopio Horizonte de Sucesos) involucró a 200 personas de 59 institutos en 20 países, desde estudiantes de grado hasta referentes del campo de alto nivel. Utilizaron una matriz que incluía ocho radiotelescopios en seis lugares geográficos de los Estados Unidos, América Latina, Europa y el Polo Sur. Todas las personas colaboradoras se ubicaron en diferentes puntos geográficos, tuvieron acceso a diferentes instrumentos, recopilaron datos generados a partir de telescopios en diferentes lugares y aplicaron habilidades de diferentes equipos para crear resultados innovadores. Cada persona que colaboró fue reconocida a través de diferentes canales de comunicación y por medio de autorías en las publicaciones. EHTC también apoya el "análisis e interpretación críticos" de sus resultados publicados para facilitar la transparencia, el rigor y la reproducibilidad ([sitio web de EHTC](https://eventhorizontelescope.org/blog/imaging-reanalyses-eht-data)).
 
-### ¡Generar Resultados Abiertos comienza con la colaboracíon!
+### ¡Generar Resultados Abiertos comienza con la colaboración!
 
 Crear diferentes componentes de investigación y prepararse para compartirlos como Resultados Abiertos implica una serie de actividades. Detrás de estas actividades se encuentran las personas que contribuyen, quienes asumen variadas responsabilidades que incluyen, entre otras:
 
@@ -299,7 +299,7 @@ Crear diferentes componentes de investigación y prepararse para compartirlos co
 
 Frecuentemente las conversaciones sobre la contribución y la autoría tienen lugar hacia el final de un proyecto o cuando se prepara el borrador de una publicación científica. Sin embargo, como se ha aprendido en las lecciones anteriores, los resultados de la investigación se generan a lo largo de toda la vida de un proyecto de investigación. Por lo tanto, es importante construir un acuerdo al principio del proyecto sobre cómo se gestionarán las contribuciones en el mismo.
 
-Desarrollar pautas de contribución y acuerdos entre personas colaboradoras requiere definir de manera colectiva qué se considera contribuciones en el proyecto, quiénes obtendrán autoría, quiénes serán reconocidos como colaboradores, cuál es la importancia del orden en el que se enumeran las personas autoras en una publicación científica y quién toma estas decisiones. Garantizar que todas las peronas que colaboran entiendan y acepten estas pautas antes de comenzar el proyecto también es importante.
+Desarrollar pautas de contribución y acuerdos entre personas colaboradoras requiere definir de manera colectiva qué se considera contribuciones en el proyecto, quiénes obtendrán autoría, quiénes serán reconocidos como colaboradores, cuál es la importancia del orden en el que se enumeran las personas autoras en una publicación científica y quién toma estas decisiones. Garantizar que todas las personas que colaboran entiendan y acepten estas pautas antes de comenzar el proyecto también es importante.
 
 ### Colaboraciones y autoría
 
@@ -350,7 +350,7 @@ No hay un único enfoque para reconocer a las personas contribuyentes como autor
 <table>
   <thead>
     <tr>
-        <th>DINAMICAS DE PODER Y EQUIDAD EN EL GRUPO (ej. experiencia, sistemas opresivos) ☑</th>
+        <th>DINÁMICAS DE PODER Y EQUIDAD EN EL GRUPO (ej. experiencia, sistemas opresivos) ☑</th>
         <th>EL TIPO DE CONTRIBUCIÓN</th>
     </tr>
   </thead>
@@ -367,7 +367,7 @@ No hay un único enfoque para reconocer a las personas contribuyentes como autor
 <table>
   <thead>
     <tr>
-        <th>DINAMICAS DE PODER Y EQUIDAD EN EL GRUPO (ej. experiencia, sistemas opresivos) ☑</th>
+        <th>DINÁMICAS DE PODER Y EQUIDAD EN EL GRUPO (ej. experiencia, sistemas opresivos) ☑</th>
         <th>EL TIPO DE CONTRIBUCIÓN ☑</th>
     </tr>
   </thead>
@@ -416,7 +416,7 @@ Es importante establecer una referencia para cada equipo de investigación o pro
     </tr>
     <tr>
         <td>Revisión ética</td>
-        <td>Sometimietno del proyecto de investigación a un proceso de revisión ética, si es necesario</td>
+        <td>Sometimiento del proyecto de investigación a un proceso de revisión ética, si es necesario</td>
     </tr>
     <tr>
         <td>Comunicaciones y compromiso</td>
@@ -542,10 +542,10 @@ Es importante destacar que sus esfuerzos han llevado a un reanálisis independie
 
 ### Cómo vincular Resultados Abiertos para hacer publicaciones reproducibles
 
-Si no se lo considera desde el principio, puede ser difícil asegurar la reproducibilidad de los resultados en la etapa de publicación. Suponiendo que has mantenido abiertos los resultados considerando su reproducibilidad, puedes empezar a ensamblarlos para conectarñps con el informe y la publicación fineles con las referencias apropiadas a los estudios anteriores.
+Si no se lo considera desde el principio, puede ser difícil asegurar la reproducibilidad de los resultados en la etapa de publicación. Suponiendo que has mantenido abiertos los resultados considerando su reproducibilidad, puedes empezar a ensamblarlos para conectarnos con el informe y la publicación finales con las referencias apropiadas a los estudios anteriores.
 
 - Antes de escribir tu manuscrito, evalúa cada resultado para asegurarte de que has adjuntado la licencia apropiada para su reutilización, de que has proporcionado la documentación y que las personas colaboradoras están listadas claramente. Puedes decidir crear una versión del registro y vincularlo a un identificador permanente a través de Zenodo para que el enlace no se rompa al compartirlo en un repositorio público (como GitLab/GitHub) o manuscritos con una lista visible de personas colaboradoras.
-- Tus publicaciones pueden crearse individualmente (como las del caso de estudio de la EHTC) o combinando varios resultados o fuentes de información en manuscritos. Estos incluirán requerimientos de recursos, dependencias, software, datos, repositorio donde el código se comparte con la documentación, y la información de las personas que colaboraron, entre otros artefactos de investigación.
+- Tus publicaciones pueden crearse individualmente (como las del caso de estudio de la EHTC) o combinando varios resultados o fuentes de información en manuscritos. Estos incluirán requerimientos de recursos, dependencias, software, datos, repositorio donde el código se comparte con la documentación, y la información de las personas que colaboraron, entre otros elementos de investigación.
 - El manuscrito en sí mismo describirá preguntas de investigación, métodos, figuras y tablas que expliquen los resultados. Al escribir un manuscrito, puedes comenzar con figuras que representen los datos empaquetados, el código y los parámetros usados, asegurándote de que la información representada pueda reproducirse. Puedes encontrar una lista de verificación detallada en la publicación de [Gil et al.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015EA000136) (2016) (en iglés).
 
 Como demostramos en el caso de estudio de la EHTC, un último paso para generar Resultados Abiertos podría ser crear un meta-artículo y/o un sitio web o página git simple que centralice todos tus resultados de investigación. Así, se puede acceder de forma centralizada a distintas partes de la investigación (Resultados Abiertos individuales) con detalles que incluyen el reconocimiento abierto para todas las personas que colaboraron.
@@ -574,7 +574,7 @@ _Pregunta_
 
 **01/02**
 
-1. ¿A cuál de las siguientes funciones se le atribuiría más apropiadamente la condición de colaborador? Selecciona todas los que correspondan.
+1. ¿A cuál de las siguientes funciones se le atribuiría más apropiadamente la condición de colaborador? Selecciona todas las que correspondan.
 
 - Idea original, planificación y aportes
 - Supervisión del proyecto
