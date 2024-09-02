@@ -1,6 +1,6 @@
 # Lección 4: Compartiendo Resultados Abiertos
 
-## Navegación
+## Contenidos
 
 - [¿Cuándo compartir?](#cuándo-compartir)
 - [¿Cómo compartir?](#cómo-compartir)
