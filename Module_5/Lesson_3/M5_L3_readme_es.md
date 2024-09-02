@@ -2,12 +2,12 @@
 
 ## Contenidos
 
-- [Cómo hacer Resultados Abiertos](#how-to-make-open-results)
-- [El rol de las personas colaboradoras en la Ciencia Abierta](#role-of-contributors-in-open-science)
-- [Cómo dar reconocimiento abierto](#how-to-give-open-recognition)
-- [Combinar Resultados Abiertos para informes científicos y publicaciones](#combining-open-results-for-scientific-reporting-and-publications)
-- [Lección 3: Resumen](#lesson-3-summary)
-- [Lección 3: Evaluación](#lesson-3-knowledge-check)
+- [Cómo hacer Resultados Abiertos](#c%C3%B3mo-hacer-resultados-abiertos)
+- [El rol de las personas colaboradoras en la Ciencia Abierta](#el-rol-de-las-personas-colaboradoras-en-la-ciencia-abierta)
+- [Cómo dar reconocimiento abierto](#c%C3%B3mo-dar-reconocimiento-abierto)
+- [Combinar Resultados Abiertos para informes científicos y publicaciones](#combinar-resultados-abiertos-para-informes-cient%C3%ADficos-y-publicaciones)
+- [Lección 3: Resumen](#lecci%C3%B3n-3-resumen)
+- [Lección 3: Evaluación](#lecci%C3%B3n-3-evaluaci%C3%B3n)
 
 ## Descripción general 
 
@@ -229,7 +229,7 @@ Compartir diferentes tipos de resultados lo antes posible no sólo ayuda a encon
   <tbody>
     <tr>
         <td colspan="4">
-            <p>¡Comienza con algo pequeño! Graba un breve vídeo en el que muestres cómo hacer algo que te costó mucho trabajo o una nueva habilidad o herramienta que hayas aprendido a utilizar y publícalo en YouTube o en otras plataformas de vídeo populares. Los grandes vídeos suelen explicar conceptos, ideas o experimentos científicos a un público determinado. Los videos pueden inspirar a otras personas a trabajar en ciencia, así que puedes contar cómo te iniciaste en la ciencia y mostrar algunas de tus investigaciones. ¡Hay muchos recursos en línea para ayudarte aquí también!</p>
+            <p>¡Comienza con algo pequeño! Graba un breve vídeo en el que muestres cómo hacer algo que te costó mucho trabajo o una nueva habilidad o herramienta que hayas aprendido a usar y publícalo en YouTube o en otras plataformas de vídeo populares. Los grandes vídeos suelen explicar conceptos, ideas o experimentos científicos a un público determinado. Los videos pueden inspirar a otras personas a trabajar en ciencia, así que puedes contar cómo te iniciaste en la ciencia y mostrar algunas de tus investigaciones. ¡Hay muchos recursos en línea para ayudarte aquí también!</p>
         </td>
     </tr>
   </tbody>
@@ -261,7 +261,7 @@ Puedes encontrar más formas de comunicar tu trabajo en la [guía de comunicaci�
 
 La Ciencia Abierta, como vimos en el Módulo 1 Ethos de las Ciencia Abierta, debe mantener los estándares éticos más estrictos. Esto se logra mediante la participación de diversas personas colaboradoras en el desarrollo de los resultados científicos. Los enfoques participativos permiten integrar múltiples perspectivas y conocimientos en la investigación desde el inicio y garantizan que la revisión por pares se realice para todos los productos de forma iterativa, y no sólo para los artículos finales.
 
-En la elaboración y la planificación para compartir los resultados de manera abierta, se puede aplicar el principio de "tan abierto como sea posible, tan cerrado como sea necesario". Esto significa proteger la información confidencial, gestionar las prácticas de protección de datos cuando sea necesario y no compartir datos sensibles o información privada de las personas que pueda ser utilizada indebidamente. Repositorios en línea, como GitHub y GitLab, permiten la interacción en línea además de servir técnicamente al control de versiones y al alojamiento del contenido. Por ejemplo, puedes usar [_issues_](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) (en inglés) y [un tablero de proyecto](https://docs.github.com/en/enterprise-cloud@latest/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards) (en inglés) para comunicar lo que está ocurriendo en un proyecto en cualquier momento. El uso de [_pull requests_](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) (en inglés) indica una invitación para que los pares revisen el nuevo desarrollo de código u otro contenido. Gracias a una serie de plantillas reutilizables, no es necesario configurar los repositorios desde cero. Por ejemplo, se puede utilizar directamente una [plantilla para proyectos de investigación reproducibles](https://github.com/the-turing-way/reproducible-project-template) (en inglés).
+En la elaboración y la planificación para compartir los resultados de manera abierta, se puede aplicar el principio de "tan abierto como sea posible, tan cerrado como sea necesario". Esto significa proteger la información confidencial, gestionar las prácticas de protección de datos cuando sea necesario y no compartir datos sensibles o información privada de las personas que pueda ser utilizada indebidamente. Repositorios en línea, como GitHub y GitLab, permiten la interacción en línea además de servir técnicamente al control de versiones y al alojamiento del contenido. Por ejemplo, puedes usar [_issues_](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) (en inglés) y [un tablero de proyecto](https://docs.github.com/en/enterprise-cloud@latest/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards) (en inglés) para comunicar lo que está ocurriendo en un proyecto en cualquier momento. El uso de [_pull requests_](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) (en inglés) indica una invitación para que los pares revisen el nuevo desarrollo de código u otro contenido. Gracias a una serie de plantillas reutilizables, no es necesario configurar los repositorios desde cero. Por ejemplo, se puede usar directamente una [plantilla para proyectos de investigación reproducibles](https://github.com/the-turing-way/reproducible-project-template) (en inglés).
 
 ## El rol de las personas colaboradoras en la Ciencia Abierta
 
@@ -544,9 +544,9 @@ Es importante destacar que sus esfuerzos han llevado a un reanálisis independie
 
 Si no se lo considera desde el principio, puede ser difícil asegurar la reproducibilidad de los resultados en la etapa de publicación. Suponiendo que has mantenido abiertos los resultados considerando su reproducibilidad, puedes empezar a ensamblarlos para conectarnos con el informe y la publicación finales con las referencias apropiadas a los estudios anteriores.
 
-- Antes de escribir tu manuscrito, evalúa cada resultado para asegurarte de que has adjuntado la licencia apropiada para su reutilización, de que has proporcionado la documentación y que las personas colaboradoras están listadas claramente. Puedes decidir crear una versión del registro y vincularlo a un identificador permanente a través de Zenodo para que el enlace no se rompa al compartirlo en un repositorio público (como GitLab/GitHub) o manuscritos con una lista visible de personas colaboradoras.
+- Antes de escribir tu manuscrito, evalúa cada resultado para asegurarte de que has adjuntado la licencia apropiada para su reúso, de que has proporcionado la documentación y que las personas colaboradoras están listadas claramente. Puedes decidir crear una versión del registro y vincularlo a un identificador permanente a través de Zenodo para que el enlace no se rompa al compartirlo en un repositorio público (como GitLab/GitHub) o manuscritos con una lista visible de personas colaboradoras.
 - Tus publicaciones pueden crearse individualmente (como las del caso de estudio de la EHTC) o combinando varios resultados o fuentes de información en manuscritos. Estos incluirán requerimientos de recursos, dependencias, software, datos, repositorio donde el código se comparte con la documentación, y la información de las personas que colaboraron, entre otros elementos de investigación.
-- El manuscrito en sí mismo describirá preguntas de investigación, métodos, figuras y tablas que expliquen los resultados. Al escribir un manuscrito, puedes comenzar con figuras que representen los datos empaquetados, el código y los parámetros usados, asegurándote de que la información representada pueda reproducirse. Puedes encontrar una lista de verificación detallada en la publicación de [Gil et al.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015EA000136) (2016) (en iglés).
+- El manuscrito en sí mismo describirá preguntas de investigación, métodos, figuras y tablas que expliquen los resultados. Al escribir un manuscrito, puedes comenzar con figuras que representen los datos empaquetados, el código y los parámetros usados, asegurándote de que la información representada pueda reproducirse. Puedes encontrar una lista de verificación detallada en la publicación de [Gil et al.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015EA000136) (2016) (en inglés).
 
 Como demostramos en el caso de estudio de la EHTC, un último paso para generar Resultados Abiertos podría ser crear un meta-artículo y/o un sitio web o página git simple que centralice todos tus resultados de investigación. Así, se puede acceder de forma centralizada a distintas partes de la investigación (Resultados Abiertos individuales) con detalles que incluyen el reconocimiento abierto para todas las personas que colaboraron.
 
@@ -555,7 +555,7 @@ Si estás buscando acciones concretas que puedas tomar para generar Resultados A
 - Mejora la forma en la que defines las contribuciones en tu proyecto y cómo se asigna la autoría.
 - Asegúrate de que los datos o software de tu publicación se encuentren en Zenodo con licencia y documentación, incluyendo metadatos y que el DOI esté publicado en tu informe científico y publicación.
 - Asegúrate de que el proceso que utilizas para recopilar y analizar datos, incluyendo todas las dependencias y métodos utilizados en tu pipeline de análisis de datos, se encuentren claramente descritos para permitir que otras personas reproduzcan tus resultados.
-- Crea un repositorio centralizado o una página simple de git para centralizar todos los productos de investigación con la lista de personas que han colaborado.
+- Crea un repositorio centralizado o una página simple de Git para centralizar todos los productos de investigación con la lista de personas que han colaborado.
 
 ## Lección 3: Resumen
 

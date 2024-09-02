@@ -2,13 +2,13 @@
 
 ## Contenidos
 
-- [Escribir un Plan de de Ciencia Abierta y Gestión de Datos: Qué incluir para compartir Resultados Abiertos](#writing-an-osdmp-what-to-include-in-the-osdmp-for-sharing-results-openly)
-- [Ejemplos de pasos hacia resultados más abiertos](#ejemplo-pasos-hacia-resultados-mas-abiertos)
-- [Cómo una tecnología emergente como la IA está cambiando nuestra forma de hacer ciencia](#cómo-tecnología-emergente-como-ia-está-cambiando-cómo-hacemos-ciencia)
-- [Lección 5: Resumen](#lesson-5-summary)
-- [Lección 5: Evaluación](#leccion-5-Evaluación)
-- [Resumen del Módulo 4: Resultados Abiertos](#open-results-resumy)
-- [Resumen de Introducción a la Ciencia Abierta](#open-science-101-summary)
+- [Escribir un Plan de Ciencia Abierta y Gestión de Datos: Qué incluir para compartir Resultados Abiertos](#escribir-un-plan-de-ciencia-abierta-y-gesti%C3%B3n-de-datos-qu%C3%A9-incluir-para-compartir-resultados-abiertos)
+- [Ejemplos de pasos hacia resultados más abiertos](#ejemplos-de-pasos-hacia-resultados-m%C3%ADs-abiertos)
+- [Cómo una tecnología emergente como la IA está cambiando nuestra forma de hacer ciencia](#c%C3%B3mo-una-tecnolog%C3%ADa-emergente-como-la-ia-est%C3%A1-cambiando-nuestra-forma-de-hacer-ciencia)
+- [Lección 5: Resumen](#lecci%C3%B3n-4-resumen)
+- [Lección 5: Evaluación](#lecci%C3%B3n-4-evaluaci%C3%B3n)
+- [Resumen del Módulo 5: Resultados Abiertos](#resumen-del-m%C3%B3dulo-5-resultados-abiertos)
+- [Resumen de Introducción a la Ciencia Abierta](#resumen-de-introducci%C3%B3n-a-la-ciencia-abierta)
 
 ## Descripción general
 
@@ -38,7 +38,7 @@ Escribe una sección de resultados de muestra de un PCAGD que detalle cómo plan
 
 **Ejemplo 2:** Esta actividad dará lugar a la creación de cuadernos computacionales, 4 resúmenes y pósteres para congresos, 2 manuscritos revisados por pares y 2 artículos en línea en lenguaje sencillo, que resumirán nuestros resultados. Las publicaciones revisadas por pares se publicarán en Acceso Abierto y las preimpresiones se archivarán en PubSpace o en el servidor de preimpresión de las revistas de Acceso Abierto. Todos los demás materiales se archivarán en Zenodo, se les asignará un DOI y se les asignará una licencia CC-BY o una licencia de software permisiva.
 
-Para estos ejemplos, ¿Qué otra información o detalles podrían añadirse? Si estuvieras planeando escribir un tutorial sobre tu ciencia, ¿qué incluirías?
+Para estos ejemplos, ¿Qué otra información o detalles podrían añadirse? Si estuvieras planeando escribir un tutorial sobre tu ciencia, ¿Qué incluirías?
 
 ## Ejemplos de pasos hacia resultados más abiertos
 
@@ -77,9 +77,9 @@ Hay muchas maneras en que la Ciencia Abierta puede ampliar la duración o el alc
 
 ## Cómo una tecnología emergente como la IA está cambiando nuestra forma de hacer ciencia
 
-A lo largo de estos módulos, Internet ha sido identificada como una tecnología disruptiva fundamental que cambió la forma en que se realiza casi toda la ciencia. La comunidad científica rara vez va a las bibliotecas para leer los últimos artículos de una revista. Los datos ya no se envían por correo a todo el mundo en unidades de cinta. El software ya no se comparte a través de disquetes flexibles. Internet ayudó a crear el flujo de trabajo científico moderno y ha hecho la ciencia más interactiva y accesible. Ahora las herramientas de IA están empezando a alterar la ciencia de una manera similar. La IA no sólo está revolucionando muchos aspectos de nuestras vidas, sino que también está cambiando nuestra forma de hacer ciencia. A medida que las empresas compiten por crear e integrar nuevas herramientas de IA generativa en cada aspecto de nuestras vidas, muchas personas que investigan y editan revistas, instituciones, y agencias buscan cómo utilizar estas herramientas de forma eficaz, comprender su fiabilidad, precisión y sesgos, y cómo utilizarlas de forma ética. Otro motivo de preocupación es cómo la información compartida con las herramientas de IA puede utilizarse para revelar datos confidenciales de forma intencionada o no, lo que plantea problemas de privacidad.
+A lo largo de estos módulos, Internet ha sido identificada como una tecnología disruptiva fundamental que cambió la forma en que se realiza casi toda la ciencia. La comunidad científica rara vez va a las bibliotecas para leer los últimos artículos de una revista. Los datos ya no se envían por correo a todo el mundo en unidades de cinta. El software ya no se comparte a través de disquetes flexibles. Internet ayudó a crear el flujo de trabajo científico moderno y ha hecho la ciencia más interactiva y accesible. Ahora las herramientas de IA están empezando a alterar la ciencia de una manera similar. La IA no sólo está revolucionando muchos aspectos de nuestras vidas, sino que también está cambiando nuestra forma de hacer ciencia. A medida que las empresas compiten por crear e integrar nuevas herramientas de IA generativa en cada aspecto de nuestras vidas, muchas personas que investigan y editan revistas, instituciones, y agencias buscan cómo usar estas herramientas de forma eficaz, comprender su fiabilidad, precisión y sesgos, y cómo utilizarlas de forma ética. Otro motivo de preocupación es cómo la información compartida con las herramientas de IA puede utilizarse para revelar datos confidenciales de forma intencionada o no, lo que plantea problemas de privacidad.
 
-La IA puede ayudarnos a usar y compartir la investigación. Puede actuar como un acelerador, ocupándose de las tareas tediosas y dejando libres a las personas que investigan para pensamientos más creativos. Estas herramientas son mejores que los humanos para procesar grandes cantidades de datos, pero los seres humanos son mejores para el pensamiento creativo y matizado. Es importante tener esto en cuenta a la hora de determinar si usar o no la IA. Por ejemplo, muchas personas ya utilizan herramientas de IA para ayudarles a gestionar su bandeja de entrada y a redactar correos electrónicos con contenido sugerido generado por IA. En el ámbito científico, hay muchas tareas que podrían agilizarse utilizando la IA, según tres estudios publicados en Nature:
+La IA puede ayudarnos a usar y compartir la investigación. Puede actuar como un acelerador, ocupándose de las tareas tediosas y dejando libres a las personas que investigan para pensamientos más creativos. Estas herramientas son mejores que los humanos para procesar grandes cantidades de datos, pero los seres humanos son mejores para el pensamiento creativo y matizado. Es importante tener esto en cuenta a la hora de determinar si usar o no la IA. Por ejemplo, muchas personas ya utilizan herramientas de IA para ayudarles a gestionar su bandeja de entrada y a redactar correos electrónicos con contenido sugerido generado por IA. En el ámbito científico, hay muchas tareas que podrían agilizarse usando la IA, según tres estudios publicados en Nature:
 
 - [Los motores de búsqueda de ciencias de la IA están creciendo en número — ¿son buenos?](https://www.nature.com/articles/d41586-023-01273-w) (en inglés).
 - [Cómo la tecnología de IA puede dominar la literatura científica](https://www.nature.com/articles/d41586-018-06617-5) (en inglés).
@@ -98,7 +98,7 @@ La IA puede ayudarnos a usar y compartir la investigación. Puede actuar como un
   <tbody>
     <tr>
         <td colspan="3">
-            <p>El volumen cada vez mayor de literatura científica ha dificultado que quienes investigan se mantengan al día de los artículos más recientes y encuentren los más antiguos. Las herramientas de IA se pueden utilizar para crear recomendaciones personalizadas para artículos relevantes, así como para crear resúmenes de los mismos en diversos formatos. Algunos ejemplos de estas herramientas incluyen <a href="https://scisummary.com/dashboard">SciSummary</a>, <a href="https://www.summarizebot.com/">SummarizeBot</a>, <a href="https://www.scholarcy.com/">Académica</a>, <a href="https://www.paperdigest.org/">Paper Digest</a>, <a href="https://www.scilynk.com/">Lynx AI</a>, <a href="https://www.tldrthis.com/">TLDR This.</a></p>
+            <p>El volumen cada vez mayor de literatura científica ha dificultado que quienes investigan se mantengan al día de los artículos más recientes y encuentren los más antiguos. Las herramientas de IA se pueden usar para crear recomendaciones personalizadas para artículos relevantes, así como para crear resúmenes de los mismos en diversos formatos. Algunos ejemplos de estas herramientas incluyen <a href="https://scisummary.com/dashboard">SciSummary</a>, <a href="https://www.summarizebot.com/">SummarizeBot</a>, <a href="https://www.scholarcy.com/">Académica</a>, <a href="https://www.paperdigest.org/">Paper Digest</a>, <a href="https://www.scilynk.com/">Lynx AI</a>, <a href="https://www.tldrthis.com/">TLDR This.</a></p>
             <p>Los posibles inconvenientes al usar estas herramientas incluyen:</p>
             <ul>
                 <li>Introducción potencial de sesgos</li>
@@ -174,7 +174,7 @@ La IA puede ayudarnos a usar y compartir la investigación. Puede actuar como un
   <tbody>
     <tr>
         <td colspan="2">
-            <p>Las herramientas de IA se pueden utilizar para generar texto, resumir materiales de fondo, desarrollar puntos clave, desarrollar imágenes y figuras, y conclusiones. Usar estas herramientas puede ayudar a las personas no nativas a comunicar ciencia en diferentes idiomas de manera más clara. Además, podrían ser útiles para desarrollar resúmenes en lenguaje sencillo, publicaciones en blogs y publicaciones en redes sociales.</p>
+            <p>Las herramientas de IA se pueden usar para generar texto, resumir materiales de fondo, desarrollar puntos clave, desarrollar imágenes y figuras, y conclusiones. Usar estas herramientas puede ayudar a las personas no nativas a comunicar ciencia en diferentes idiomas de manera más clara. Además, podrían ser útiles para desarrollar resúmenes en lenguaje sencillo, publicaciones en blogs y publicaciones en redes sociales.</p>
             <p>Los posibles inconvenientes al usar estas herramientas incluyen:</p>
             <ul>
             <li>Consulta la lista anterior para una revisión de la literatura.</li>
@@ -201,7 +201,7 @@ En este momento, y por estas razones, las herramientas de IA generalmente no est
 
 El Instituto Nacional de Salud (NIH, por sus siglas en inglés) ha prohibido "a los revisores científicos por pares usar procesadores de lenguaje natural, grandes modelos de lenguaje, u otras tecnologías generativas de Inteligencia Artificial (IA) para analizar y formular críticas de revisión por pares para solicitudes de subvenciones y propuestas de contratos de Investigación y Desarrollo." Utilizar IA en el proceso de revisión por pares es una violación de la confidencialidad porque estas herramientas "no tienen garantía de dónde se enviarán, guardarán, verán o utilizarán los datos en el futuro." El uso de herramientas de IA para ayudar a redactar una crítica, o para ayudar a mejorar la gramática y la sintaxis de un borrador crítico, se consideran violaciones de la confidencialidad. Lee [política de IA de NIH](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-23-149.html), (en inglés).
 
-Las herramientas de IA para la ciencia se están desarrollando rápidamente. La comprensión de la comunidad científica de cómo usar IA de forma ética y segura está avanzando a medida que su uso en la investigación se expande rápidamente. Las pautas anteriores ofrecen una instantánea en el tiempo y probablemente seguirán evolucionando. Si eliges utilizar estas herramientas para la investigación científica, considera cuidadosamente cuánto confiar en ellas y cómo sus sesgos pueden impactar los resultados, como se advierte en [este artículo de la Nature](https://www.nature.com/articles/d41586-023-02980-0), (en inglés). Internet ha transformado el mundo y es probable que las herramientas de IA hagan lo mismo. Como con cualquier herramienta, es importante que se utilicen con el fin apropiado y de forma ética.
+Las herramientas de IA para la ciencia se están desarrollando rápidamente. La comprensión de la comunidad científica de cómo usar IA de forma ética y segura está avanzando a medida que su uso en la investigación se expande rápidamente. Las pautas anteriores ofrecen una instantánea en el tiempo y probablemente seguirán evolucionando. Si eliges usar estas herramientas para la investigación científica, considera cuidadosamente cuánto confiar en ellas y cómo sus sesgos pueden impactar los resultados, como se advierte en [este artículo de la Nature](https://www.nature.com/articles/d41586-023-02980-0), (en inglés). Internet ha transformado el mundo y es probable que las herramientas de IA hagan lo mismo. Como con cualquier herramienta, es importante que se usen con el fin apropiado y de forma ética.
 
 ## Lección 5: Resumen
 
@@ -211,7 +211,7 @@ En esta lección has aprendido:
 
 - Cómo incluir Resultados Abiertos en el Plan de Ciencia Abierta y Gestión de Datos (PCAGD).
 - Un ejemplo de cómo se pueden compartir los resultados abiertamente.
-- Que las herramientas de IA en desarrollo se están utilizando en todas las partes del flujo de trabajo científico, están cambiando rápidamente, y todavía quedan muchas preguntas abiertas sobre cómo y cuándo utilizarlas.
+- Que las herramientas de IA en desarrollo se están usando en todas las partes del flujo de trabajo científico, están cambiando rápidamente, y todavía quedan muchas preguntas abiertas sobre cómo y cuándo utilizarlas.
 
 ## Lección 5: Evaluación
 

@@ -2,11 +2,11 @@
 
 ## Contenidos
 
-- [¿Qué objetos de investigación se crean a lo largo del ciclo de investigación?](#what-research-objects-are-created-throughout-the-research-cycle)
-- [Ejemplos de Resultados Abiertos](#examples-of-open-results)
-- [¿Qué es la crisis de reproducibilidad?](#what-is-the-reproducibility-crisis)
-- [Lección 1: Resumen](#lesson-1-summary)
-- [Lección 1: Evaluación](#lesson-1-knowledge-check)
+- [¿Qué objetos de investigación se crean a lo largo del ciclo de investigación?](#qu%C3%A9-objetos-de-investigaci%C3%B3n-se-crean-a-lo-largo-del-ciclo-de-investigaci%C3%B3n)
+- [Ejemplos de Resultados Abiertos](#ejemplos-de-resultados-abiertos)
+- [¿Qué es la crisis de reproducibilidad?](#qu%C3%A9-es-la-crisis-de-reproducibilidad)
+- [Lección 1: Resumen](#lecci%C3%B3n-1-resumen)
+- [Lección 1: Evaluación](#lecci%C3%B3n-1-evaluaci%C3%B3n)
 
 ## Descripción general
 
@@ -104,7 +104,7 @@ Fuente: [https://medium.com/pangeo/fake-it-until-you-make-it-reading-goes-netcdf
 
 ---
 
-Además de la publicación del blog, también creó un tutorial en forma de Jupyter Notebook (cuaderno computacional): tanto estos recursos como el código asociado son de libre acceso para el público, lo que permite una adopción e iteración rápidas por parte de otras personas desarrolladoras y científicas. Publicó el blog en Medium y lo compartió en Twitter. El blog atrajo mucha atención sobre una tecnología reciente, ¡a medida que se desarrollaba! Esto es marcadamente diferente al lento y complicado mundo de las publicaciones académicas, donde este resultado no se habría compartido durante aproximadamente un año (por el proceso de redacción, revisión, y publicación). Dijo: "Trabajar en Kerchunk y compartirlo ampliamente utilizando los principios de la Ciencia Abierta expandió mis conexiones profesionales y me introdujo en el campo de la ingeniería de software de investigación. Las conexiones que hice a partir de esto me llevaron directamente a mi cargo actual como desarrollador de software científico en NASA".
+Además de la publicación del blog, también creó un tutorial en forma de Jupyter Notebook (cuaderno computacional): tanto estos recursos como el código asociado son de libre acceso para el público, lo que permite una adopción e iteración rápidas por parte de otras personas desarrolladoras y científicas. Publicó el blog en Medium y lo compartió en Twitter. El blog atrajo mucha atención sobre una tecnología reciente, ¡a medida que se desarrollaba! Esto es marcadamente diferente al lento y complicado mundo de las publicaciones académicas, donde este resultado no se habría compartido durante aproximadamente un año (por el proceso de redacción, revisión, y publicación). Dijo: "Trabajar en Kerchunk y compartirlo ampliamente usando los principios de la Ciencia Abierta expandió mis conexiones profesionales y me introdujo en el campo de la ingeniería de software de investigación. Las conexiones que hice a partir de esto me llevaron directamente a mi cargo actual como desarrollador de software científico en NASA".
 
 ### Nuevos productos para aumentar el impacto
 
@@ -114,7 +114,7 @@ Créditos de la imagen: OpenStreetMap 2011, Ken Vermette. CC BY-SA 3.0
 
 ---
 
-Vamos a mapear el Reino Unido desde 2003 hasta 2023: más de 1,5 millones de personas colaboradoras, más de 100 millones de ediciones, utilizando los datos para mapear el mundo con aplicaciones que van desde Uber hasta el mapeo de los Objetivos de Desarrollo Sostenible de la ONU" [OpenStreetMaps está siendo usado para análisis GIS](https://welcome.openstreetmap.org/about-osm-community/consumers/) (en inglés), tales como planificación o logística para grupos humanitarios, servicios públicos, gobiernos y más. Esto sólo fue posible porque fue creado, compartido abiertamente, y construido por una comunidad dedicada a mejorarlo. ¡Nunca se sabe hasta dónde podría llegar tu proyecto personal o quién podría tener interés en colaborar!
+Vamos a mapear el Reino Unido desde 2003 hasta 2023: más de 1,5 millones de personas colaboradoras, más de 100 millones de ediciones, usando los datos para mapear el mundo con aplicaciones que van desde Uber hasta el mapeo de los Objetivos de Desarrollo Sostenible de la ONU" [OpenStreetMaps está siendo usado para análisis GIS](https://welcome.openstreetmap.org/about-osm-community/consumers/) (en inglés), tales como planificación o logística para grupos humanitarios, servicios públicos, gobiernos y más. Esto sólo fue posible porque fue creado, compartido abiertamente, y construido por una comunidad dedicada a mejorarlo. ¡Nunca se sabe hasta dónde podría llegar tu proyecto personal o quién podría tener interés en colaborar!
 
 ### Nuevas visualizaciones para compartir resultados
 
@@ -126,9 +126,9 @@ Fuente: [https://medium.com/dataseries/mastering-matplotlib-part-1-a480109171e3]
 
 ---
 
-Matplotlib es actualmente la librería o biblioteca de gráficas más utilizada en el lenguaje de programación Python y un componente principal del conjunto de librerías científicas de Python, junto con NumPy, SciPy e IPython. Matplotlib se utilizó para la visualización de datos durante el aterrizaje de la nave Phoenix en Marte en 2008 y para la creación de la primera imagen de un agujero negro.
+Matplotlib es actualmente la librería o biblioteca de gráficas más utilizada en el lenguaje de programación Python y un componente principal del conjunto de librerías científicas de Python, junto con NumPy, SciPy e IPython. Matplotlib se usó para la visualización de datos durante el aterrizaje de la nave Phoenix en Marte en 2008 y para la creación de la primera imagen de un agujero negro.
 
-### Estudio de caso del pryecto JWST: Informes y publicación
+### Estudio de caso del proyecto JWST: Informes y publicación
 
 Y por último, pero no por ello menos importante, tenemos el ejemplo del equipo científico del JWST del que ya vimos en el Módulo 1 cómo informaron sus resultados. Esto se hizo de varias formas, desde la publicación de un artículo de revisión por pares, preimpresiones (_preprints_), publicaciones en blogs y redes sociales. Su publicación revisada por pares se publicó en formato de libre acceso (Acceso Abierto) en Nature junto con una preimpresión (_preprint_) a través de arXiv.
 
@@ -156,7 +156,7 @@ YouTube: https://www.youtube.com/watch?v=cI-kM_wPbbQ
 
 ---
 
-## ¿Qué es la crisis de la reproductibilidad?
+## ¿Qué es la crisis de la reproducibilidad?
 
 En 2016 una [encuesta de Nature](https://www.nature.com/articles/533452a) (en inglés) sobre reproducibilidad encontró que, de 1.576 investigadores, «Más del 70% de las personas que investigan han intentado y fracasado en reproducir los experimentos de otro equipo científico, y más de la mitad han fracasado en reproducir sus propios experimentos». La “crisis de la reproducibilidad” en la ciencia es una preocupación creciente por varios estudios de reproducibilidad en los que no se reprodujeron los resultados positivos anteriores.
 
@@ -218,7 +218,7 @@ El equipo de OpenSciency creó una gran tabla que describe todos los diferentes 
 
 [CLICK PARA MAS INFORMACION](https://opensciency.github.io/sprint-content/open-results/lesson1-research-process-and-results.html#research-stages-and-open-result-table) (en inglés).
 
-Pensar en compartir todo a la vez puede resultar agotador cuando estás empezando. Para avanzar, concéntrate en cómo puedes elegir el elemento más importante. Aquí hemos reducido la lista a un par de elementos por categoría. Además, puedes pensar en acortar aún más la lista al inicio. Por ejemplo, puede que compartir el código utilizado para procesar los datos sea el elemento más importante para la reproducibilidad de tu trabajo. Por lo tanto, compartir código sería un buen punto de partida para iniciar la experiencia en Ciencia Abierta. Los pequeños pasos que damos son los que nos hacen avanzar hacia una Ciencia Abierta sostenible.
+Pensar en compartir todo a la vez puede resultar agotador cuando estás empezando. Para avanzar, concéntrate en cómo puedes elegir el elemento más importante. Aquí hemos reducido la lista a un par de elementos por categoría. Además, puedes pensar en acortar aún más la lista al inicio. Por ejemplo, puede que compartir el código usado para procesar los datos sea el elemento más importante para la reproducibilidad de tu trabajo. Por lo tanto, compartir código sería un buen punto de partida para iniciar la experiencia en Ciencia Abierta. Los pequeños pasos que damos son los que nos hacen avanzar hacia una Ciencia Abierta sostenible.
 
 - **Propuesta:** Las propuestas pueden compartirse en Zenodo y en plataformas de subvención abiertas como [ogrants.org](https://www.ogrants.org/) (en inglés).
 - **Planificación:** Los proyectos pueden prerregistrarse antes de comenzar.

@@ -2,11 +2,11 @@
 
 ## Contenidos
 
-- [¿Cuándo compartir?](#cuándo-compartir)
-- [¿Cómo compartir?](#cómo-compartir)
-- [Otras consideraciones a la hora de compartir](#otras-consideraciones-al-compartir)
-- [Lección 4: Resumen](#lección-4-resumen)
-- [Lección 4: Evaluación](#lección-4-evaluación-de-conocimientos)
+- [¿Cuándo compartir?](#cu%C3%A1ndo-compartir)
+- [¿Cómo compartir?](#c%C3%B3mo-compartir)
+- [Otras consideraciones a la hora de compartir](#otras-consideraciones-a-la-hora-de-compartir)
+- [Lección 4: Resumen](#lecci%C3%B3n-4-resumen)
+- [Lección 4: Evaluación](#lecci%C3%B3n-4-evaluaci%C3%B3n)
 
 ## Descripción general
 
@@ -67,7 +67,7 @@ Aquí hay algunos ejemplos específicos de cómo se llevan a cabo estas interacc
 
 ### Publicar investigaciones e informes reproducibles
 
-Un informe y un artículo de Acceso Abierto pueden considerarse como reproducibles cuando sus datos, software y contenido subyacente se encuentran disponibles para los lectores siguiendo algunas prácticas recomendadas. Existe una lista creciente de recursos que documentan cómo hacer que los Resultados Abiertos sean reproducibles (como [The Turing Way](https://the-turing-way.netlify.app/reproducible-research/reproducible-research) y [FORRT](https://forrt.org/), ambos en inlglés).
+Un informe y un artículo de Acceso Abierto pueden considerarse como reproducibles cuando sus datos, software y contenido subyacente se encuentran disponibles para los lectores siguiendo algunas prácticas recomendadas. Existe una lista creciente de recursos que documentan cómo hacer que los Resultados Abiertos sean reproducibles (como [The Turing Way](https://the-turing-way.netlify.app/reproducible-research/reproducible-research) y [FORRT](https://forrt.org/), ambos en inglés).
 
 Hay varios ejemplos (discutidos en estas lecciones) que demuestran cómo podemos integrar soluciones técnicas y colaborativas para hacer posible esta reproducibilidad. Por ejemplo, los cuadernos computacionales permiten la interactividad y realización de pruebas, los talleres de formación invitan a la retroalimentación para la mejora y GitHub/GitLab habilitan la revisión abierta por parte de la comunidad.
 
@@ -96,9 +96,9 @@ En esta actividad aprenderás cómo acceder a la información sobre las polític
 
 - Cartas de Ciencias Atmosféricas y Oceánicas (_Atmospheric and Oceanic Science Letters_, en inglés) 
 - Revista Suiza de Geociencias (_Swiss Journal of Geosciences_, en inglés) 
-- Historia de las ciencias geológicas y espaciales (_History of Geo-and Space Sciences_, en inglés). <br><br>Nota: Puedes introducir cualquier revista que desees, pero para este ejercicio utiliza una de las listadas para ver el enlace Sherpa/Romeo que aparece en el Paso 5.
+- Historia de las ciencias geológicas y espaciales (_History of Geo-and Space Sciences_, en inglés). <br><br>Nota: Puedes introducir cualquier revista que desees, pero para este ejercicio usa una de las listadas para ver el enlace Sherpa/Romeo que aparece en el Paso 5.
 
-3. Los resultados de la búsqueda pueden mostrar más de una coincidencia. Selecciona la revista deseada dentro de los resultados de la búsqueda haciendo clic en el nombre de la misma. <br><br>Aparecerá un panel de control con información relativa a las tarifas de publicación, las políticas de exención, el tipo de licencia abierta utilizada y otra información sobre los múltiples títulos mostrados.
+3. Los resultados de la búsqueda pueden mostrar más de una coincidencia. Selecciona la revista deseada dentro de los resultados de la búsqueda haciendo clic en el nombre de la misma. <br><br>Aparecerá un panel de control con información relativa a las tarifas de publicación, las políticas de exención, el tipo de licencia abierta usada y otra información sobre los múltiples títulos mostrados.
    
 4. Haz clic en el enlace «política de archivo» (_archiving policy_, en inglés) que aparece en una de las casillas presentadas. Puedes hacer una búsqueda del término _archiving policy_ para llegar al recuadro. Al hacer clic, proporcionará los enlaces a una gran cantidad de información sobre las políticas de Acceso Abierto de la revista para el propio manuscrito: <br><img src="../images/media/image59_es.png" style="width:300px;height:auto;" /><br>Se presentará una gran cantidad de información, incluidos detalles sobre las políticas de publicación específicas de la revista seleccionada.
    
@@ -107,15 +107,15 @@ En esta actividad aprenderás cómo acceder a la información sobre las polític
 
 7. Cuando veas la página, notarás que resume y consolida las políticas de Acceso Abierto para esa revista y los materiales asociados. Es probable que la versión publicada sea la más relevante.<br><img src="../images/media/image64_es.jpeg" style="width:100%;height:auto;"/>
 
-8. Revisa la página para determinar qué licencia ha definido la revista seleccionada para el reuso de manuscritos.
+8. Revisa la página para determinar qué licencia ha definido la revista seleccionada para el reúso de manuscritos.
 
 #### Conclusiones de la actividad: Lee las políticas de Acceso Abierto de las editoriales que utilizas
 
-Este es un ejemplo de un sitio que puedes utilizar para saber si la política de una revista es coherente con la forma en que deseas publicar tus Resultados Abiertos. Las políticas de las revistas siempre deben revisarse y tenerse en cuenta durante la fase inicial de planificación del proyecto y mucho antes de enviar el manuscrito para su publicación.
+Este es un ejemplo de un sitio que puedes usar para saber si la política de una revista es coherente con la forma en que deseas publicar tus Resultados Abiertos. Las políticas de las revistas siempre deben revisarse y tenerse en cuenta durante la fase inicial de planificación del proyecto y mucho antes de enviar el manuscrito para su publicación.
 
-## Cómo compartir
+## ¿Cómo compartir?
 
-Quizás el paso más importante para que tus resultados sean abiertos sea asignarles un identificador global único y persistente. Esto te brindará un código único, URL o número que podrás utilizar para referirte de forma exclusiva a un objeto de investigación. Cualquier objeto de investigación derivado puede utilizar este identificador para enlazar con él y crear un historial rastreable de uso y desarrollo. Además, el identificador puede ser utilizado por otras personas para citar y acreditar tu trabajo ([fuente](https://opensciency.github.io/sprint-content/open-results/lesson3-apply-open-results.html)) (en inglés).
+Quizás el paso más importante para que tus resultados sean abiertos sea asignarles un identificador global único y persistente. Esto te brindará un código único, URL o número que podrás usar para referirte de forma exclusiva a un objeto de investigación. Cualquier objeto de investigación derivado puede usar este identificador para enlazar con él y crear un historial rastreable de uso y desarrollo. Además, el identificador puede ser usado por otras personas para citar y acreditar tu trabajo ([fuente](https://opensciency.github.io/sprint-content/open-results/lesson3-apply-open-results.html)) (en inglés).
 
 El identificador también debe ser persistente. Esto garantiza que conduzca al mismo objeto de investigación durante un largo periodo de tiempo. Lo que cuenta como «persistente» es, por supuesto, una apreciación, ya que incluso el identificador más estable probablemente no sobrevivirá a que el Sol engulla la Tierra dentro de unos miles de millones de años. En este contexto, «persistente» implica que está registrado en una base de datos gestionada por una organización o sistema que se compromete a mantenerlo estable y compatible con versiones anteriores en un futuro previsible.
 
@@ -180,13 +180,13 @@ Existen ejemplos de identificadores globalmente únicos y persistentes:
 
 <img src="../images/media/image67_es.png" style="width:350px;height:auto;" />
 
-Al aplicar una licencia a tu trabajo, dejas claro qué pueden hacer los demás con las cosas que compartes, así como las condiciones para hacerlo (como el requisito de citarte). Otro elemento muy importante que debes incluir con tus objetos de investigación son normas claras para su reuso (tal cual y para la creación de obras derivadas), que a menudo se codifican más fácilmente mediante el uso de una licencia.
+Al aplicar una licencia a tu trabajo, dejas claro qué pueden hacer los demás con las cosas que compartes, así como las condiciones para hacerlo (como el requisito de citarte). Otro elemento muy importante que debes incluir con tus objetos de investigación son normas claras para su reúso (tal cual y para la creación de obras derivadas), que a menudo se codifican más fácilmente mediante el uso de una licencia.
 
-Sin licencia, todos los derechos corresponden a la persona autora del resultado de la investigación. Eso significa que nadie más puede utilizar, copiar, distribuir o modificar la obra sin consentimiento. Una licencia otorga este consentimiento. Si no dispones de una licencia para cada uno de los objetos de investigación que constituyen el resultado de tu investigación, ésta no podrá ser utilizada por toda la comunidad de investigación.
+Sin licencia, todos los derechos corresponden a la persona autora del resultado de la investigación. Eso significa que nadie más puede usar, copiar, distribuir o modificar la obra sin consentimiento. Una licencia otorga este consentimiento. Si no dispones de una licencia para cada uno de los objetos de investigación que constituyen el resultado de tu investigación, ésta no podrá ser usada por toda la comunidad de investigación.
 
-Las licencias Creative Commons suelen utilizarse para contenidos escritos (véase la Lección 3 para una descripción completa). La ventaja de una licencia, a diferencia del dominio público, es que la mayoría exige la atribución a las personas creadoras originales. La Licencia de Atribución de Creative Commons, [CC-BY](https://wellcome.org/grant-funding/guidance/open-access-guidance/creative-commons-attribution-licence-cc) (en inglés), es la licencia de Acceso Abierto más común para compartir publicaciones, ya que solo requiere atribución. Existen otras licencias Creative Commons utilizadas que pueden tener diferentes limitaciones en cuanto a si pueden o no utilizarse comercialmente, si pueden o no modificarse y copiarse, y si las licencias pueden o no modificarse en posteriores adaptaciones del código.
+Las licencias Creative Commons suelen utilizarse para contenidos escritos (véase la Lección 3 para una descripción completa). La ventaja de una licencia, a diferencia del dominio público, es que la mayoría exige la atribución a las personas creadoras originales. La Licencia de Atribución de Creative Commons, [CC-BY](https://wellcome.org/grant-funding/guidance/open-access-guidance/creative-commons-attribution-licence-cc) (en inglés), es la licencia de Acceso Abierto más común para compartir publicaciones, ya que solo requiere atribución. Existen otras licencias Creative Commons usadas que pueden tener diferentes limitaciones en cuanto a si pueden o no utilizarse comercialmente, si pueden o no modificarse y copiarse, y si las licencias pueden o no modificarse en posteriores adaptaciones del código.
 
-Las instituciones, agencias de financiación o propuestas de investigación pueden requerir el uso de una licencia específica en función del tipo de material que se produzca a partir de tu investigación. En el caso de los organismos públicos, se suele recomendar (o exigir) CC-0 o CC-BY para maximizar el rendimiento de la inversión y garantizar la reutilización más amplia posible. Elegir una licencia CC que tenga restricciones adicionales (por ejemplo, -ND, -SA, -NC) puede dar lugar a un menor reuso de los datos. Cuando compartas resultados en distintas plataformas, ¡fíjate bien cuál es la licencia que se está aplicando!
+Las instituciones, agencias de financiación o propuestas de investigación pueden requerir el uso de una licencia específica en función del tipo de material que se produzca a partir de tu investigación. En el caso de los organismos públicos, se suele recomendar (o exigir) CC-0 o CC-BY para maximizar el rendimiento de la inversión y garantizar su reúso más amplia posible. Elegir una licencia CC que tenga restricciones adicionales (por ejemplo, -ND, -SA, -NC) puede dar lugar a un menor reúso de los datos. Cuando compartas resultados en distintas plataformas, ¡fíjate bien cuál es la licencia que se está aplicando!
 
 ### Vías para publicar en Acceso Abierto
 
@@ -373,7 +373,7 @@ _Pregunta_
 
 **01/03**
 
-¿Cuál de las siguientes licencias Creative Commons es la más utilizada para las publicaciones de Acceso Abierto?
+¿Cuál de las siguientes licencias Creative Commons es la más usada para las publicaciones de Acceso Abierto?
 
 - CC BY-NC-SA
 - Derechos de autor (Copyrights)

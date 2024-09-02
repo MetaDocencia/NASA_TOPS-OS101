@@ -2,12 +2,12 @@
 
 ## Contenidos
 
-- [Cómo descubrir Resultados Abiertos](#how-to-discover-open-results)
-- [Cómo evaluar Resultados Abiertos](#how-to-assess-open-results)
-- [Cómo usar Resultados Abiertos](#how-to-assess-open-results)
-- [Cómo citar Resultados Abiertos](#how-to-cite-open-results)
-- [Lección 2: Resumen](#lesson-2-summary)
-- [Lección 2: Evaluación](#lesson-2-knowledge-check)
+- [Cómo descubrir Resultados Abiertos](#c%C3%B3mo-descubrir-resultados-abiertos)
+- [Cómo evaluar Resultados Abiertos](#c%C3%B3mo-evaluar-resultados-abiertos)
+- [Cómo usar Resultados Abiertos](#c%C3%B3mo-usar-resultados-abiertos)
+- [Cómo citar Resultados Abiertos](#c%C3%B3mo-citar-resultados-abiertos)
+- [Lección 2: Resumen](#lecci%C3%B3n-2-resumen)
+- [Lección 2: Evaluación](#lecci%C3%B3n-2-evaluaci%C3%B3n)
 
 ## Descripción general
 
@@ -26,7 +26,7 @@ Al finalizar esta lección deberías ser capaz de:
 
 ## Cómo descubrir Resultados Abiertos
 
-¿Cómo puedo conocer el estado de la investigación en un campo concreto? ¿Cómo participar en la conversación actual? Las personas dedicadas a la investigación a menudo comienzan con una búsqueda de artículos revisados por pares. Esta revisión le indica cuánto se ha investigado en un campo y qué conclusiones se han alcanzado recientemente. En la mayoría de los campos, el proceso de revisión por pares puede tardar hasta un año. La posibilidad de encontrar preprints puede ayudar a reducir este retraso, ya que ofrecen los últimos hallazgos antes de la fecha de publicación. Quienes deciden compartir sus resultados antes de la publicación suelen hacerlo de las formas indicadas anteriormente como mejores prácticas. Al empezar a investigar sobre un tema, ¿cómo encontrar todos estos tipos diferentes de resultados y dedicarse a la investigación más pertinente?
+¿Cómo puedo conocer el estado de la investigación en un campo concreto? ¿Cómo participar en la conversación actual? Las personas dedicadas a la investigación a menudo comienzan con una búsqueda de artículos revisados por pares. Esta revisión le indica cuánto se ha investigado en un campo y qué conclusiones se han alcanzado recientemente. En la mayoría de los campos, el proceso de revisión por pares puede tardar hasta un año. La posibilidad de encontrar preprints puede ayudar a reducir este retraso, ya que ofrecen los últimos hallazgos antes de la fecha de publicación. Quienes deciden compartir sus resultados antes de la publicación suelen hacerlo de las formas indicadas anteriormente como mejores prácticas. Al empezar a investigar sobre un tema, ¿Cómo encontrar todos estos tipos diferentes de resultados y dedicarse a la investigación más pertinente?
 
 ### Ejemplo: Exoplanetas
 
@@ -121,13 +121,13 @@ Los diversos objetos de investigación, incluidos los conjuntos de datos y el so
 
 Si usas datos de mala calidad o materiales procedentes de fuentes poco fiables y no verificadas como componentes fundamentales de tu investigación, corres el riesgo de producir ciencia defectuosa o de baja calidad que puede dañar tu reputación como parte de la comunidad científica. Por lo tanto, es fundamental evaluar la calidad y fiabilidad de las fuentes de los Resultados Abiertos antes de incluirlos en tu propio trabajo.
 
-¿Cuáles son las mejores prácticas para evaluar la calidad de fuentes de datos alternativas a los artículos de investigación, como entradas de blog, vídeos de youtube y otros objetos de investigación?
+¿Cuáles son las mejores prácticas para evaluar la calidad de fuentes de datos alternativas a los artículos de investigación, como entradas de blog, vídeos de YouTube y otros objetos de investigación?
 
 ### Atributos de un material confiable
 
 Echemos un vistazo a las preguntas que deberías plantearte a la hora de determinar la fiabilidad de cualquier tipo de fuente de Resultados Abiertos.
 
-Aquí clasificamos las preguntas en dos categorías: el propio material de los Resultados Abiertos, y el servidor de donde se descargan. Cuantas más preguntas puedan responderse afirmativamente, menor será el riesgo de utilizar esos Resultados Abiertos para su propia investigación.
+Aquí clasificamos las preguntas en dos categorías: el propio material de los Resultados Abiertos, y el servidor de donde se descargan. Cuantas más preguntas puedan responderse afirmativamente, menor será el riesgo de usar esos Resultados Abiertos para su propia investigación.
 
 <table>
   <thead>
@@ -291,7 +291,7 @@ Lamentablemente, muchas veces no existen pautas de contribución y no está clar
 
 Además, da crédito a los repositorios que proporcionan materiales de Código Abierto en la sección de agradecimientos de tu artículo. Si el repositorio proporciona un modelo de agradecimientos en su enlace "Acerca de", sigue esa sugerencia. De lo contrario, una frase genérica como "Esta investigación ha hecho uso de <inserte el nombre del repositorio>." será suficiente.
 
-### Evitar el plagio al utilizar Resultados Abiertos
+### Evitar el plagio al usar Resultados Abiertos
 
 Las pautas estándar que has estado usando todo el tiempo en tu investigación para proporcionar la atribución y las citas apropiadas de las publicaciones de acceso cerrado, también se aplican a los trabajos publicados en Acceso Abierto.
 
@@ -310,7 +310,7 @@ Algunos ejemplos de plagio son:
 
 ## Cómo citar Resultados Abiertos
 
-Brindar una atribución adecuada a los Resultados Abiertos es una responsabilidad importante y ética al utilizar materiales de código abierto. El proceso de citación depende de la naturaleza del material.
+Brindar una atribución adecuada a los Resultados Abiertos es una responsabilidad importante y ética al usar materiales de código abierto. El proceso de citación depende de la naturaleza del material.
 
 ### Pautas de citación para resultados publicados y no publicados
 
@@ -356,7 +356,7 @@ Jin, H., et al. 2023, "El color óptico de las supernovas de tipo Ib y Ic y sus 
                 <li>Cita publicaciones</li>
                 <li>Cita datos</li>
                 <li>Cita software</li>
-                <li>Cita cualquier otro objeto con un DOI. Teniendo en cuenta que muchas revistas sólo permiten a las personas autoras citar material que tenga un DOI, ¿qué hacer con otros tipos de Resultados Abiertos?</li>
+                <li>Cita cualquier otro objeto con un DOI. Teniendo en cuenta que muchas revistas sólo permiten a las personas autoras citar material que tenga un DOI, ¿Qué hacer con otros tipos de Resultados Abiertos?</li>
             </ul>
         </td>
     </tr>
@@ -418,7 +418,7 @@ Conclusiones principales de esta lección:
 - Los Resultados Abiertos se pueden encontrar tanto utilizando portales académicos de búsqueda como mediante búsquedas en internet.
 - La confiabilidad de una publicación generalmente puede evaluarse por la confiabilidad del sitio web del que proviene, la participación de la comunidad y el rigor científico de su contenido.
 - Quienes utilizan Resultados Abiertos, en tanto guardianes o defensores de la comunidad de Código Abierto, tienen informalmente la responsabilidad de contribuir a la sostenibilidad de la comunidad. Esta participación incluye la comunicación de opiniones a quienes proporcionan y desarrollan Resultados Abiertos.
-- Dar una adecuada referencia a los Resultados Abiertos es una responsabilidad importante y ética a la hora de utilizar materiales de Código Abierto. La forma de citar los resultados depende de la especificidad del material.
+- Dar una adecuada referencia a los Resultados Abiertos es una responsabilidad importante y ética a la hora de usar materiales de Código Abierto. La forma de citar los resultados depende de la especificidad del material.
 
 ## Lección 2: Evaluación
 
