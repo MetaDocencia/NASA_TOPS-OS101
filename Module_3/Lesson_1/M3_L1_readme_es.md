@@ -169,7 +169,7 @@ Tómate un momento para reflexionar sobre lo que significa para tí compartir da
 
 Fuente de la imagen: CC-by [openaire](https://www.openaire.eu/blogs/open-research-data-the-fairest-data-is-the-future-of-science-estonia-national-openaire-event-1) 
 
-La nube de palabras (en inglés) muestra mayor presencia de términos como FAIR (principios FAIR), Datos Abiertos de investigación (_Open Research Data_), Ciencia Abierta (_Open Science_), Datos Abiertos (_Open Data_),  Planes de Gestión de Datos (_Data Management Plans_), DOI (identificador de objeto digital), almacenamiento (_storage_) y reuso (_reuse_). También, con menor presencia, personas investigadoras (researchers), repositorio (_repository_), archivo (_archiving_), publicación (_publishing_), DataCite y OpenAire, entre otras. 
+La imagen muestra una nube de palabras (en inglés) con mayor presencia de términos como FAIR (principios FAIR), Datos Abiertos de investigación (_Open Research Data_), Ciencia Abierta (_Open Science_), Datos Abiertos (_Open Data_),  Planes de Gestión de Datos (_Data Management Plans_), DOI (identificador de objeto digital), almacenamiento (_storage_) y reuso (_reuse_). También, con menor presencia, personas investigadoras (researchers), repositorio (_repository_), archivo (_archiving_), publicación (_publishing_), DataCite y OpenAire, entre otras. 
 
 ---
 

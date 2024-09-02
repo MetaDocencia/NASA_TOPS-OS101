@@ -202,7 +202,7 @@ Herramientas recomendadas para comenzar:
 **CSV, XML, JSON** - Los archivos con estos formatos se pueden abrir con los editores de texto más comunes. Hay algunas herramientas que pueden crear vistas de los archivos que son más fáciles de usar, como:
 
 -   csv: Hojas de cálculo de Microsoft Excel y Google.
--   xml: La mayoría de los navegadores de Internet y cualquier editor de texto como el Bloc de notas o Microsoft Word o LibreOffice o Google Docs.
+-   xml: La mayoría de los navegadores de Internet y cualquier editor de texto como el Bloc de notas, Microsoft Word, LibreOffice o Google Docs.
 -   json: <http://json.parser.online.fr/> y <https://jsonformatter.org/json-pretty-print>.
 
 **NetCDF, HDF, FITS** - Estos archivos requieren herramientas de software especiales para ver sus contenidos. Muchas de estas herramientas también visualizan los datos.

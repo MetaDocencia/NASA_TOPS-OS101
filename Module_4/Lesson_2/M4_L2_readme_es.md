@@ -103,11 +103,11 @@ GitHub permite a las personas usuarias colaborar en un proyecto compartido y seg
 
 **Instrucciones**
 
-Comienza visitando el sitio web de GitHub para buscar paquetes de software disponibles abiertamente. Deberás crear una cuenta gratuita para esta acción. Ahora  puedes ingresar de forma simple tus términos en la barra de búsqueda mientras estás en tu página de perfil. Luego, en la barra de búsqueda, ingresa las palabras clave relacionadas. Busca "Lomb Scargle" y aparecerán varios repositorios con código relevante en varios lenguajes de programación (Python, Julia, R entre otros), junto con miles de partes de código relacionados. ¡Felicitaciones! Has comenzado tu viaje hacia el software de Acceso Abierto y ahora puedes ver el trabajo de miles de personas que alguna vez estuvieron donde tú estás ahora. ¡Adelante!
+Comienza visitando el sitio web de GitHub para buscar paquetes de software disponibles abiertamente. Deberás crear una cuenta gratuita para esta acción. Puedes ingresar de forma simple tus términos en la barra de búsqueda mientras estás en tu página de perfil. En la barra de búsqueda, ingresa las palabras clave relacionadas. Busca "Lomb Scargle" y aparecerán varios repositorios con código relevante en varios lenguajes de programación (Python, Julia, R entre otros), junto con miles de partes de código relacionados. ¡Felicitaciones! Has comenzado tu viaje hacia el software de Acceso Abierto y ahora puedes ver el trabajo de miles de personas que alguna vez estuvieron donde tú estás ahora. ¡Adelante!
 
 <img src="../images/media/image335_es.png" style="width:100%;height:auto;" />
 
-Captura de pantalla de los repositorios devueltos por nuestra búsqueda.
+Captura de pantalla (en inglés) de los repositorios devueltos por nuestra búsqueda.
 
 <img src="../images/media/image496_es.jpg" style="width:100%;height:auto;" />
 

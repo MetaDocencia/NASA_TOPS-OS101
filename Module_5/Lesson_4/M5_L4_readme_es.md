@@ -92,20 +92,20 @@ Las revistas de Acceso Abierto son revistas revisadas por pares que son más acc
 En esta actividad aprenderás cómo acceder a la información sobre las políticas de archivo de datos de una revista. El Directorio de Revistas de Acceso Abierto (DOAJ, por sus siglas en inglés) proporciona un índice extenso de revistas de Acceso Abierto de todo el mundo. El DOAJ se puede usar para buscar información, incluidas las políticas de archivo de datos de las revistas que publican investigaciones. Vamos a explorar su sitio web y buscar las políticas específicas de las revistas que más utilizas.
 
 1. Primero, navega al sitio [web del DOAJ](https://doaj.org/).
-2. Escribe el nombre de una de las siguientes revistas en el cuadro de búsqueda y, a continuación, pulsa el botón amarillo «BUSCAR» (SEARCH, en inglés).
+2. Escribe el nombre de una de las siguientes revistas en el cuadro de búsqueda y, a continuación, selecciona «BUSCAR» (SEARCH, en inglés).
 
 - Cartas de Ciencias Atmosféricas y Oceánicas (_Atmospheric and Oceanic Science Letters_, en inglés) 
 - Revista Suiza de Geociencias (_Swiss Journal of Geosciences_, en inglés) 
 - Historia de las ciencias geológicas y espaciales (_History of Geo-and Space Sciences_, en inglés). <br><br>Nota: Puedes introducir cualquier revista que desees, pero para este ejercicio usa una de las listadas para ver el enlace Sherpa/Romeo que aparece en el Paso 5.
 
-3. Los resultados de la búsqueda pueden mostrar más de una coincidencia. Selecciona la revista deseada dentro de los resultados de la búsqueda haciendo clic en el nombre de la misma. <br><br>Aparecerá un panel de control con información relativa a las tarifas de publicación, las políticas de exención, el tipo de licencia abierta usada y otra información sobre los múltiples títulos mostrados.
+3. Los resultados de la búsqueda pueden mostrar más de una coincidencia. Selecciona la revista deseada dentro de los resultados de la búsqueda. <br><br>Aparecerá un panel de control con información relativa a las tarifas de publicación, las políticas de exención, el tipo de licencia abierta usada y otra información sobre los múltiples títulos mostrados.
    
-4. Haz clic en el enlace «política de archivo» (_archiving policy_, en inglés) que aparece en una de las casillas presentadas. Puedes hacer una búsqueda del término _archiving policy_ para llegar al recuadro. Al hacer clic, proporcionará los enlaces a una gran cantidad de información sobre las políticas de Acceso Abierto de la revista para el propio manuscrito: <br><img src="../images/media/image59_es.png" style="width:300px;height:auto;" /><br>Se presentará una gran cantidad de información, incluidos detalles sobre las políticas de publicación específicas de la revista seleccionada.
+4. Selecciona el enlace «política de archivo» (_archiving policy_, en inglés) que aparece en una de las casillas presentadas. Puedes hacer una búsqueda del término _archiving policy_ para llegar al recuadro. Al seleccionarlo, proporcionará los enlaces a una gran cantidad de información sobre las políticas de Acceso Abierto de la revista para el propio manuscrito: <br><img src="../images/media/image59_es.png" style="width:300px;height:auto;" /><br>Se presentará una gran cantidad de información, incluidos detalles sobre las políticas de publicación específicas de la revista seleccionada.
    
-5. Alternativamente, para obtener una visión más condensada de las políticas de la revista, vuelve al tablero de DOAJ en la página "Acerca de" (_about_, en inglés) en la que aparecen los múltiples cuadros desplegados, y haz clic en el enlace «Sherpa/Romeo» (puedes hacer una búsqueda para identificarlo más fácilmente). <br><img src="../images/media/image60_es.jpeg" style="width:300px;height:auto;" />
-6. En la página Sherpa Romeo, cliquea en el nombre de la revista que aparece en la lista (la única revista que aparecerá).<br><img src="../images/media/image63_es.jpeg" style="width:100%;height:auto;" />
+5. Alternativamente, para obtener una visión más condensada de las políticas de la revista, vuelve al tablero de DOAJ en la página "Acerca de" (_about_, en inglés) en la que aparecen los múltiples cuadros desplegados, y selecciona el enlace «Sherpa/Romeo» (puedes hacer una búsqueda para identificarlo más fácilmente). <br><img src="../images/media/image60_es.jpeg" style="width:300px;height:auto;" />
+6. En la página Sherpa Romeo, selecciona el nombre de la revista que aparece en la lista (la única revista que aparecerá).<br><img src="../images/media/image63_es.jpeg" style="width:100%;height:auto;" />
 
-7. Cuando veas la página, notarás que resume y consolida las políticas de Acceso Abierto para esa revista y los materiales asociados. Es probable que la versión publicada sea la más relevante.<br><img src="../images/media/image64_es.jpeg" style="width:100%;height:auto;"/>
+7. En la página, notarás que resume y consolida las políticas de Acceso Abierto para esa revista y los materiales asociados. Es probable que la versión publicada sea la más relevante.<br><img src="../images/media/image64_es.jpeg" style="width:100%;height:auto;"/>
 
 8. Revisa la página para determinar qué licencia ha definido la revista seleccionada para el reúso de manuscritos.
 

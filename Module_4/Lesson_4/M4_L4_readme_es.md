@@ -218,35 +218,35 @@ Pasos para esta actividad:
 
 **Parte 1: Crear un repositorio GitHub público de prueba.**
 
-1. Ve a la página de inicio de sesión para [GitHub](https://github.com/) e inicia sesión. Si aún no lo has hecho, crea una cuenta de usuario gratuita.
+1. Inicia sesión en [GitHub](https://github.com/). Si aún no lo has hecho, crea una cuenta de usuario gratuita.
 2. Crea un nuevo repositorio con este [enlace](https://github.com/new).
 3. Escribe un nombre breve y que puedas recordar para tu repositorio. Por ejemplo, "os-test".
-4. Establece como 'Pública' la visibilidad del repositorio seleccionando esta opción debajo de la descripción del repositorio.
-5. En la siguiente sección 'Inicializar este repositorio con:' selecciona 'Añadir un archivo README'.
+4. Establece como 'Pública' la visibilidad del repositorio seleccionando esta opción durante la creación del repositorio.
+5. En 'Inicializar este repositorio con:' selecciona 'Añadir un archivo README'.
 6. Selecciona cualquier licencia.
 7. Haz clic en 'Crear repositorio'.
-8. Serás redirigido automáticamente a tu nueva página web del repositorio.
+8. Se te redirigirá automáticamente a la página de tu nuevo repositorio.
 9. Ahora obtendremos un DOI de la aplicación Zenodo. Ten en cuenta que vamos a usar [https://sandbox.zenodo.org/](https://sandbox.zenodo.org/) para hacer esto. ¡Esto ofrece todas las mismas posibilidades que [https://zenodo.org](https://zenodo.org/) pero es un sitio de pruebas! Crea una cuenta gratuita si aún no lo has hecho.
 
 **Parte 2: Crear un repositorio archivado y DOI afiliados.**
 
-1. Ve a la [página de Zenodo GitHub](https://sandbox.zenodo.org/account/settings/github/). Haz clic en el botón 'Conectar' para permitir que Zenodo acceda a sus repositorios de GitHub.
+1. Ve a la [página de Zenodo GitHub](https://sandbox.zenodo.org/account/settings/github/). Selecciona el botón 'Conectar' para permitir que Zenodo acceda a sus repositorios de GitHub.
 
 <img src="../images/media/zenododoi1_es.png" style="width:100%;height:auto" />
 
-2. Revisa la información sobre los permisos de acceso y haz clic en 'Autorizar Zenodo'.
-3. Sincroniza tu GitHub con Zenodo haciendo clic en 'Sincronizar ahora' en la esquina superior derecha.
+2. Revisa la información sobre los permisos de acceso y selecciona 'Autorizar Zenodo'.
+3. Sincroniza tu GitHub con Zenodo seleccionando la opción 'Sincronizar ahora'.
 
 <img src="../images/media/zenododoi3_es.png" style="width:100%;height:auto" />
 
-4. A la derecha del nombre del repositorio que deseas archivar ('os-test'), cambia el botón a 'Encendido' (en inglés, _On_).
-5. Haz clic en el nombre del repositorio.
-6. Haz clic en el botón verde grande que tiene 'username/os-test'
+4. Localiza el interruptor (en inglés, _switch_) del repositorio que deseas archivar ('os-test'), cambia el estado a 'Encendido' (en inglés, _On_) para activar la conservación automática del software.
+5. Selecciona el nombre del repositorio.
+6. Localiza y selecciona el botón que contiene 'usuario/os-test'
 
 <img src="../images/media/zenododoi6_es.jpg" style="width:100%;height:auto" />
 
 7. Añade una etiqueta 'test'. Es posible que tengas que crear una nueva etiqueta para 'test' si se te solicita.
-8. Desplázate hacia abajo y haz clic en el botón verde 'publicar lanzamiento' (en inglés, _publish release_).
+8. Localiza y selecciona el botón 'publicar lanzamiento' (en inglés, _publish release_).
 
 <img src="../images/media/zenododoi8_es.jpg" style="width:100%;height:auto" />
 
