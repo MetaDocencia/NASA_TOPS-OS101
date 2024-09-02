@@ -32,7 +32,7 @@ En el conjunto de valores de la Ciencia Abierta, aprendiste sobre la ética y lo
 
 En la Lección 1, identificamos diferentes componentes de investigación que pueden considerarse Resultados Abiertos en varias etapas de la investigación. En esta lección, queremos explicar específicamente qué procesos están involucrados en su elaboración.
 
-### Estudio de caso: Resultados Abiertos de colaboración distribuida entre varios eqiupos del Telescopio _Event Horizon_ 
+### Estudio de caso: Resultados Abiertos de colaboración distribuida entre varios equipos del Telescopio _Event Horizon_ 
 
 **Ejemplo:** Captura de resultados de actividades que van desde la colaboración hasta las observaciones, pasando por la generación de imágenes y la  interpretación.
 
