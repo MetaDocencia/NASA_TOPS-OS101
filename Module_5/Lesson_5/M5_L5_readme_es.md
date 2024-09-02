@@ -42,7 +42,7 @@ Para estos ejemplos, ¿Qué otra información o detalles podrían añadirse? Si 
 
 ## Ejemplos de pasos hacia resultados más abiertos
 
-[**La NASA anuncia que el verano de 2023 será el más caluroso jamás registrado**](https://www.nasa.gov/news-release/nasa-Chances-Summer-2023-hottest-on-record/)
+[**La NASA anuncia que el verano de 2023 será el más caluroso jamás registrado**](https://www.nasa.gov/news-release/nasa-announces-summer-2023-hottest-on-record/)
 
 <img src="../images/media/image75_es.jpeg" style="width:350px;height:auto;" />
 
@@ -193,7 +193,7 @@ La IA puede ayudarnos a usar y compartir la investigación. Puede actuar como un
 
 ### Precauciones sobre el uso de herramientas de IA
 
-Las revistas están implementando cada vez más pautas y requisitos relacionados al uso de herramientas de IA durante el proceso de escritura. Muchas exigen que se divulgue el uso de herramientas de IA para escribir, crear imágenes u otros elementos y se identifique su método de uso. Como sucede con todo otro material dentro de un artículo, las personas responsables de la autoría deben garantizar que el contenido sea correcto. Ejemplos de esta política pueden ser leídos en las pautas de IA de [Nature](https://www.nature.com/nature-Firstio/editorial-policies/ai) y [NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10318315/) (ambas en inglés).
+Las revistas están implementando cada vez más pautas y requisitos relacionados al uso de herramientas de IA durante el proceso de escritura. Muchas exigen que se divulgue el uso de herramientas de IA para escribir, crear imágenes u otros elementos y se identifique su método de uso. Como sucede con todo otro material dentro de un artículo, las personas responsables de la autoría deben garantizar que el contenido sea correcto. Ejemplos de esta política pueden ser leídos en las pautas de IA de [Nature](https://www.nature.com/nature-portfolio/editorial-policies/ai) y [NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10318315/) (ambas en inglés).
 
 Además, existen numerosos ejemplos de IA generativa (tanto para código como para contenido) que proporciona información plagiada en violación de las licencias, así como también falsificación de material, inclluidas las citas. El uso de estas herramientas de IA puede dar lugar a hallazgos de mala conducta académica y de investigación en caso de que los materiales generados por IA contengan falsificación o plagio. Así que ten cuidado. Obtén más información sobre posibles problemas con la IA en un [ejemplo de Nature](https://www.nature.com/nature-index/news/artificial-intelligence-writing-tools-promise-faster-manuscripts-for-researchers), (en inglés).
 
@@ -271,7 +271,7 @@ A lo largo de este plan de estudios, nos hemos centrado en las habilidades neces
 
 **Aprende más sobre la iniciativa TOPS (Transfórmate a la Ciencia Abierta) de la NASA y únete a las conversaciones siguiendo el enlace.**
 
-[CLICK PARA MAS INFORMACIÓN](https://nasa.github.io/Transform-to-Open-Science/)
+[CLICK PARA MAS INFORMACIÓN](https://nasa.github.io/Transform-to-Open-Science/) (en inglés)
 
 ## Resumen de Introducción a la Ciencia Abierta
 
@@ -283,40 +283,40 @@ A lo largo de este plan de estudios, nos hemos centrado en las habilidades neces
 
 **Sitio web TOPS**
 
-[CLICK PARA MAS INFORMACIÓN](https://nasa.github.io/Transform-to-Open-Science/)
+[CLICK PARA MAS INFORMACIÓN](https://nasa.github.io/Transform-to-Open-Science/) (en inglés)
 
-\*\*Foro de discusión de GitHub TOPS \*\*
+**Foro de discusión de GitHub TOPS**
 
-[CLICK PARA MAS INFORMACIÓN](https://github.com/nasa/Transform-to-Open-Science/discussions)
+[CLICK PARA MAS INFORMACIÓN](https://github.com/nasa/Transform-to-Open-Science/discussions) (en inglés)
 
 ### Aprende más a través de cursos en línea:
 
 **OpenSciency**
 
-[CLICK PARA MAS INFORMACIÓN](https://opensciency.github.io/sprint-content/)
+[CLICK PARA MAS INFORMACIÓN](https://opensciency.github.io/sprint-content/) (en inglés)
 
 **Curso online, masivo y abierto (MOOC, por sus siglas en inglés) de Ciencia Abierta**
 
-[CLICK PARA MAS INFORMACIÓN](https://opensciencemooc.eu/)
+[CLICK PARA MAS INFORMACIÓN](https://opensciencemooc.eu/) (en inglés)
 
 ### ¡Lleva tus habilidades en programación y ciencias de datos al siguiente nivel!
 
 **Carpentries**
 
-[CLICK PARA MAS INFORMACIÓN](https://carpentries.org/)
+[CLICK PARA MAS INFORMACIÓN](https://carpentries.org/) (en inglés)
 
 ### Lee guías en línea y aprende sobre las iniciativas en curso de la comunidad científica abierta:
 
 **The Turing Way**
 
-[CLICK PARA MAS INFORMACIÓN](https://the-turing-way.netlify.app/index.html)
+[CLICK PARA MAS INFORMACIÓN](https://the-turing-way.netlify.app/index.html) (en inglés)
 
 **Centro de Ciencia Abierta**
 
-[CLICK PARA MAS INFORMACIÓN](https://www.cos.io/)
+[CLICK PARA MAS INFORMACIÓN](https://www.cos.io/) (en inglés)
 
 **Open Science NL**
 
-[CLICK PARA MAS INFORMACIÓN](https://www.openscience.nl/en)
+[CLICK PARA MAS INFORMACIÓN](https://www.openscience.nl/en) (en inglés)
 
 Estos sitios son solo un comienzo: ¡hay muchos más recursos fantásticos de Ciencia Abierta en línea! ¡Sigue de cerca el contenido de aprendizaje de disciplinas específicas que están desarrollando actualmente los beneficiarios de la subvención ScienceCore de la NASA, y que se aparecerá aquí una vez que esté disponible!
