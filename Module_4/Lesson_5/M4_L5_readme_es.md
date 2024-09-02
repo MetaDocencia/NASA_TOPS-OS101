@@ -208,8 +208,8 @@ Existen varios tipos de contribuciones al software de Código Abierto. No todas 
 Además de los recursos mencionados en otras partes de este curso, los siguientes recursos comunitarios son excelentes fuentes de información sobre software de Código Abierto.
 
 - [OpenSciency](https://zenodo.org/record/7662732) (en inglés).
-- [Dirección de Misiones Científicas de la NASA: Guía científica de Código Abierto (NASA SMD's Open-Source Science Guidance)](https://science.nasa.gov/science-red/s3fs-public/atoms/files/SMD%20Open-Source%20Science%20Guidance%20v1%2020221208.pdf) (en inglés).
-- [Guía práctica para la gestión de software (_Practical Guide to Software Management:)](https://zenodo.org/record/7589725) (en inglés).
+- [Dirección de Misiones Científicas de la NASA: Guía científica de Código Abierto (NASA SMD's Open-Source Science Guidance)](https://smd-cms.nasa.gov/wp-content/uploads/2023/12/smd-open-source-science-guidance-v2.1-20231211-2.pdf) (en inglés).
+- [Guía práctica para la gestión de software (Practical Guide to Software Management:)](https://zenodo.org/record/7589725) (en inglés).
 - [Principios FAIR para el Software de Investigación (Principios FAIR - _FAIR Principles for Research Software_)](https://zenodo.org/record/6623556) (en inglés).
 - [Opciones de Política de Software de Código Abierto para Ciencias de la Tierra y del Espacio de la NASA (_Open Source Software Policy Options for NASA Earth and Space Sciences_)](https://doi.org/10.17226/25217) (en inglés).
 - [Manual de Turing Way para la ciencia de datos reproducible, ética y colaborativa](https://the-turing-way.netlify.app/index.html) (en inglés).
