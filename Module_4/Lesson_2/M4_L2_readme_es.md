@@ -119,7 +119,7 @@ Con el Software Abierto, saber dónde buscar y qué buscar puede ser un problema
 
 Revisa el diagrama de flujo que ilustra cómo la búsqueda sigue la definición de la necesidad.
 
-<img src="../images/media/image128_es.png" style="width:6.23514in;height:3.24979in" />
+<img src="../images/media/image128_es.jpg" style="width:6.23514in;height:3.24979in" />
 
 ### El Software Abierto se agrega y se puede buscar en repositorios
 
