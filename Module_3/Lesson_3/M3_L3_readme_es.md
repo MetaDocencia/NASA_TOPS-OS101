@@ -1,4 +1,4 @@
-# Lección 3: Hacer que los datos sea abiertos
+# Lección 3: Hacer que los datos sean abiertos
 
 ## Contenidos
 
