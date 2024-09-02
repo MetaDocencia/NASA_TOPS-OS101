@@ -1,4 +1,4 @@
-# Lección 3: Hacer Datos Abiertos
+# Lección 3: Creando Datos Abiertos
 
 ## Contenidos
 
