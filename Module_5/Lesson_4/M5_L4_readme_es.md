@@ -255,7 +255,7 @@ Los tipos más comunes de vías de publicación en Acceso Abierto son Verde (_gr
 
 Al publicar en una revista revisada por pares, puedes decidir compartir una preimpresión. Una preimpresión es una versión de un artículo antes de su publicación en una revista\*. Puede tratarse de la versión del manuscrito aceptada tras la revisión por pares o de una versión anterior a su presentación a una revista.
 
-<img src="../images/media/image57_es.png" style="width:20px;height:auto;" /> **El manuscrito admitido es la versión final, revisada por pares, del artículo que ha sido aceptado para su publicación por una persona responsable de la edición.<0/>. El manuscrito aceptado incluye todos los cambios realizados durante el proceso de revisión por pares y tiene el mismo contenido que el artículo final publicado, pero no incluye las correcciones de edición, estilo o de formato de edición que aparecerán en la publicación final de la revista (es decir, la versión registrada)**
+<img src="../images/media/image57_es.png" style="width:20px;height:auto;" /> **El manuscrito admitido es la versión final, revisada por pares, del artículo que ha sido aceptado para su publicación por una persona responsable de la edición. El manuscrito aceptado incluye todos los cambios realizados durante el proceso de revisión por pares y tiene el mismo contenido que el artículo final publicado, pero no incluye las correcciones de edición, estilo o de formato de edición que aparecerán en la publicación final de la revista (es decir, la versión registrada)**
 
 Fuente: https://science.nasa.gov/researchers/sara/faqs/osdmp
 
