@@ -4,7 +4,7 @@
 
 - [¿Cuándo compartir?](#cuándo-compartir)
 - [¿Cómo compartir?](#cómo-compartir)
-- [Otras consideraciones al compartir](#otras-consideraciones-al-compartir)
+- [Otras consideraciones a la hora de compartir](#otras-consideraciones-al-compartir)
 - [Lección 4: Resumen](#lección-4-resumen)
 - [Lección 4: Evaluación](#lección-4-evaluación-de-conocimientos)
 
@@ -16,7 +16,7 @@ En la lección 3 aprendiste cómo lograr que tus resultados fueran reproducibles
 
 Al finalizar esta lección deberías ser capaz de:
 
-- Enumerar maneras en las que puedes compartir Resultados Abiertos para convertirte en un persona científica más colaborativa y efectiva.
+- Enumerar maneras en las que puedes compartir Resultados Abiertos para convertirte en una persona científica más colaborativa y efectiva.
 - Enumerar diferentes tipos de publicaciones en Acceso Abierto y las consideraciones a tener en cuenta al momento de compartirlas, tal como las licencias.
 - Enumerar algunas de las preocupaciones en torno a la publicación en Acceso Abierto, incluyendo responsabilidades de las personas autoras, la amenaza de revistas o editoriales depredadoras y/o el temor a equivocarse.
 
@@ -30,7 +30,7 @@ Si planificas compartir tus resultados intermedios al inicio de tu proyecto, ser
 
 Haz preguntas. Comparte en qué estás trabajando. Descubrirás que muchas personas de la comunidad científica están dispuestas a ayudar. Cuanto más te involucres, mayor será la audiencia y mayor impacto tendrás cuando se publique la versión 'final' de tu trabajo.
 
-En décadas pasadas, quienes se dedicaban a hacer ciencia establecían nuevas conexiones al buscar colaboración a través de cartas y en conferencias. Sin embargo, esta manera de hacer ciencia tendía a restringir quién podía participar. Hoy, la mayoría de estas discusiones tienen lugar en internet, lo que ha habilitado nuevas vías de comunicación para la ciencia colaborativa en la que todas las personas pueden participar.
+En décadas pasadas, quienes se dedicaban a hacer ciencia generaban nuevas conexiones al buscar colaboración a través de cartas y en conferencias. Sin embargo, esta manera de hacer ciencia tendía a restringir quién podía participar. Hoy, la mayoría de estas discusiones tienen lugar en internet, lo que ha habilitado nuevas vías de comunicación para la ciencia colaborativa en la que todas las personas pueden participar.
 
 Las plataformas en las que compartes tu investigación depende de lo que quieras compartir. Consulta la figura anterior y piensa en dónde podrías compartir los diferentes objetos o tipos de información ahí presentados. ¿Cómo influirá esto en la forma en la que interactúes con alguien?
 
@@ -180,7 +180,7 @@ Existen ejemplos de identificadores globalmente únicos y persistentes:
 
 <img src="../images/media/image67_es.png" style="width:350px;height:auto;" />
 
-Al aplicar una licencia a tu trabajo, dejas claro qué pueden hacer los demás con las cosas que compartes, así como las condiciones en las que las proporcionas (como el requisito de citarte). Otro elemento muy importante que debes incluir con tus objetos de investigación son normas claras para su reuso (tal cual y para la creación de obras derivadas), que a menudo se codifican más fácilmente mediante el uso de una licencia.
+Al aplicar una licencia a tu trabajo, dejas claro qué pueden hacer los demás con las cosas que compartes, así como las condiciones para hacerlo (como el requisito de citarte). Otro elemento muy importante que debes incluir con tus objetos de investigación son normas claras para su reuso (tal cual y para la creación de obras derivadas), que a menudo se codifican más fácilmente mediante el uso de una licencia.
 
 Sin licencia, todos los derechos corresponden a la persona autora del resultado de la investigación. Eso significa que nadie más puede utilizar, copiar, distribuir o modificar la obra sin consentimiento. Una licencia otorga este consentimiento. Si no dispone de una licencia para cada uno de los objetos de investigación que constituyen el resultado de su investigación, ésta no podrá ser utilizada por toda la comunidad de investigación.
 
@@ -353,7 +353,7 @@ Compartir de diferentes maneras, especialmente sin revisión por pares, puede se
 - **Ya he publicado mis resultados científicos de forma abierta, ¿tengo que responder siempre a los comentarios de la comunidad?**<br>Mientras hayas hecho todo lo posible para que tu trabajo sea reproducible, no tienes por qué preocuparte. La Ciencia Abierta no puede ser llevada a cabo únicamente por una persona. Las comunidades de Ciencia Abierta pueden seguir actualizando, perfeccionando y desarrollando tus resultados si tu trabajo ha sido compartido con licencia abierta.<br><br>
   Si eres capaz de responder a una pregunta o a una inquietud sobre tu investigación anterior, eso es estupendo. También es una respuesta ética reconocer que se trata de una investigación en la que ya no participas activamente, pero permites que otros continúen el trabajo que comenzaste.
 
-- **¿Y si no puedo hacerlo todo? ¿Practico mal la Ciencia Abierta?**<br>¡La respuesta corta es no! Sólo tienes una cantidad de tiempo limitada. Incluso con l colaboración de otras personas no puedes hacer todo.<br><br><img src="../images/media/image69_es.png" style="width:150px;height:auto;" /> <img src="../images/media/image70_es.png" style="width:150px;height:auto;" />
+- **¿Y si no puedo hacerlo todo? ¿Practico mal la Ciencia Abierta?**<br>¡La respuesta corta es no! Sólo tienes una cantidad de tiempo limitada. Incluso con la colaboración de otras personas no puedes hacer todo.<br><br><img src="../images/media/image69_es.png" style="width:150px;height:auto;" /> <img src="../images/media/image70_es.png" style="width:150px;height:auto;" />
 
 Compartir Resultados Abiertos mejora la ciencia: es más rápida, más accesible y más colaborativa. En esta lección has aprendido todas las formas de compartir Resultados Abiertos. ¡Piensa cómo podrías compartir algo en lo que esté trabajando ahora!
 
