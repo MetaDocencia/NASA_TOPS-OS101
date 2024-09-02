@@ -2,12 +2,12 @@
 
 ## Contenidos
 
-- [Cómo Descubrir Resultados Abiertos](#how-to-discover-open-results)
-- [Cómo Evaluar Resultados Abiertos](#how-to-assess-open-results)
-- [Cómo Evaluar Resultados Abiertos](#how-to-assess-open-results)
-- [Cómo Citar Resultados Abiertos](#how-to-cite-open-results)
-- [Lección 2: Resumen](#lesson-2-summary)
-- [Lección 2: Evaluación](#lesson-2-knowledge-check)
+- [Cómo Descubrir Resultados Abiertos](#cómo-descubrir-resultados-abiertos)
+- [Cómo Evaluar Resultados Abiertos](#cómo-evaluar-resultados-abiertos)
+- [Cómo Utilizar Resultados Abiertos](#cómo-utilizar-resultados-abiertos)
+- [Cómo Citar Resultados Abiertos](#cómo-citar-resultados-abiertos)
+- [Lección 2: Resumen](#lección-2-resumen)
+- [Lección 2: Evaluación](#lección-2-evaluación)
 
 ## Visión general
 
@@ -127,7 +127,7 @@ Si utiliza datos de mala calidad o materiales procedentes de fuentes poco fiable
 
 Echemos un vistazo a las preguntas que deberías plantearte a la hora de determinar la fiabilidad de cualquier tipo de fuente de resultados abierta.
 
-Here, we list questions under two categories: the open results material themselves, and the server they are downloaded from. Cuantas más preguntas puedan responderse afirmativamente, menor será el riesgo de utilizar los materiales de resultados abiertos para su propia investigación.
+Aquí enumeramos las preguntas en dos categorías: el material de resultados abiertos en sí y el servidor desde el que se descargan. Cuantas más preguntas puedan responderse afirmativamente, menor será el riesgo de utilizar los materiales de resultados abiertos para su propia investigación.
 
 <table>
   <thead>
@@ -205,7 +205,7 @@ Tenga en cuenta que el hecho de no cumplir uno o varios de los criterios no sign
 
 Ejemplo fiable: Los vídeos de YouTube de Qiusheng Wu (mencionados en la lección anterior). El Profesor Wu es un experto en su campo. Presenta los resultados junto con cuadernos que demuestran la reproducibilidad. Los comentarios en sus vídeos tutoriales de YouTube representan interacciones significativas entre los usuarios que reproducen los resultados y el autor.
 
-## Cómo citar resultados abiertos
+## Cómo utilizar resultados abiertos
 
 Aunque los resultados abiertos benefician a la ciencia y ya han aportado valiosos beneficios a la sociedad, el uso indebido y el intercambio incauto de materiales abiertos pueden tener efectos perjudiciales de gran alcance. El usuario final de los resultados abiertos tiene la responsabilidad de garantizar que los datos a los que hace referencia se utilizan de forma responsable y que se siguen las directrices pertinentes para el uso de los datos.
 
