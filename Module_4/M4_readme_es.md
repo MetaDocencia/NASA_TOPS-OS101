@@ -32,7 +32,7 @@ Estos términos clave son tópicos importantes para este módulo. Selecciona el 
 
 **Software de código cerrado** – Software propietario con código fuente que no está disponible públicamente. Sólo las personas autoras originales, no las usuarias, tienen derechos para copiar, modificar, actualizar y editar el código fuente. Las personas usuarias no tienen acceso al código.
 
-**Obra Derivada:** - Una obra creativa que se deriva o se basa en una obra preexistente que es traducida, alterada, organizada o transformada de una manera que requiere permiso de la persona titular de los derechos de autor de la obra original o proviene de obras de dominio público.
+**Obra Derivada** – Una obra creativa que se deriva o se basa en una obra preexistente que es traducida, alterada, organizada o transformada de una manera que requiere permiso de la persona titular de los derechos de autor de la obra original o proviene de obras de dominio público.
 
 **Control de versiones** – Un sistema para gestionar automáticamente las diferentes versiones de un archivo de computadora que sufre cambios, en especial uno que contiene código fuente. En el desarrollo de software, el control de versiones preserva un historial completo de los cambios en el código fuente y permite a un desarrollador retroceder a una versión anterior si es necesario.
 
@@ -42,7 +42,7 @@ Estos términos clave son tópicos importantes para este módulo. Selecciona el 
 
 **Repositorio a largo plazo** – un servicio para la conservación a largo plazo y referencia de software histórico y contemporáneo. Los repositorios facilitan que las citas de código sean sostenibles.
 
-Crédito de estas definiciones: _National Academies of Sciences, Engineering, and Medicine. . National Academies of Sciences, Engineering, and Medicine. Washington, DC: The National Academies Press._ [https://doi.org/10.17226/25217](https://doi.org/10.17226/25217) y otros recursos.
+Crédito de estas definiciones: _National Academies of Sciences, Engineering, and Medicine. Open-source Software Policy Options for NASA Earth and Space Sciences. Washington, DC: The National Academies Press._ [https://doi.org/10.17226/25217](https://doi.org/10.17226/25217) y otros recursos.
 
 ## Navegación
 
@@ -50,7 +50,7 @@ Crédito de estas definiciones: _National Academies of Sciences, Engineering, an
 
 - [Historias de éxito](./Lesson_1#historias-de-%C3%A9xito)
 - [Definiciones y consideraciones del Código Abierto](./Lesson_1#definici%C3%B3n-y-consideraciones-del-c%C3%B3digo-abierto)
-- [Principios, beneficios, y desafíos](./Lesson_1#principios-beneficios-y-desaf%C3%ADos)
+- [Principios, beneficios y desafíos](./Lesson_1#principios-beneficios-y-desaf%C3%ADos)
 - [Cuándo no compartir](./Lesson_1#cuando-no-compartir)
 - [Plan de Gestión de Software (PGS)](./Lesson_1#plan-de-gesti%C3%B3n-de-software-pgs)
 - [Lección 1: Resumen](./Lesson_1#lecci%C3%B3n-1-resumen)
