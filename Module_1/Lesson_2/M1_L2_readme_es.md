@@ -2,7 +2,7 @@
 
 ## Contenidos
 
-- [La Ciencia Abierta rompe barreras e impulsa la innovación](#la-ciencia-abierta-rompe-barreras-e-impulsa-la-innovaci%C3%B3n)
+- [La Ciencia Abierta rompe barreras y promueve la innovación](#la-ciencia-abierta-rompe-barreras-y-promueve-la-innovaci%C3%B3n)
 - [Beneficios para ti](#beneficios-para-ti)
 - [Beneficios para la ciencia](#beneficios-para-la-ciencia)
 - [Beneficios para la sociedad](#beneficios-para-la-sociedad)
@@ -21,7 +21,7 @@ Al finalizar esta lección deberías ser capaz de:
 - Describir las formas en que la Ciencia Abierta puede promover la ciencia.
 - Listar los beneficios que la sociedad obtiene cuando se adoptan los principios de la Ciencia Abierta.
 
-## La Ciencia Abierta rompe barreras e impulsa la innovación
+## La Ciencia Abierta rompe barreras y promueve la innovación
 
 "Necesitamos más ciencia colectiva que ciencia individual".
 
@@ -101,8 +101,7 @@ Hay muchos resultados de investigación diferentes que se pueden compartir abier
 
 ### Más colaboraciones
 
-Las prácticas de Ciencia Abierta también pueden hacer posibles colaboraciones más fuertes, tanto dentro como entre disciplinas, como lo demuestra un [estudio]
-(https://liberquarterly.eu/article/view/10819) de 2016. La facilidad de acceso a los datos abiertos suma nuevos agentes al paisaje que permiten una participación más amplia y diversa. A través de prácticas de Ciencia Abierta, como el pre-registro en el que las personas investigadoras documentan su plan de investigación al comienzo de un estudio, se permite un diseño de investigación más fuerte porque es posible solicitar la retroalimentación de distintos colaboradores y partes interesadas antes de que comience la recolección de datos. De igual forma, las preimpresiones permiten una retroalimentación más rápida sobre las conclusiones extraídas de los datos una vez que son recopilados.
+Las prácticas de Ciencia Abierta también pueden hacer posibles colaboraciones más fuertes, tanto dentro como entre disciplinas, como lo demuestra un [estudio](https://liberquarterly.eu/article/view/10819) de 2016. La facilidad de acceso a los datos abiertos suma nuevos agentes al paisaje que permiten una participación más amplia y diversa. A través de prácticas de Ciencia Abierta, como el pre-registro en el que las personas investigadoras documentan su plan de investigación al comienzo de un estudio, se permite un diseño de investigación más fuerte porque es posible solicitar la retroalimentación de distintos colaboradores y partes interesadas antes de que comience la recolección de datos. De igual forma, las preimpresiones permiten una retroalimentación más rápida sobre las conclusiones extraídas de los datos una vez que son recopilados.
 
 ### Actividad 2.1: Beneficios para ti
 
@@ -154,7 +153,7 @@ Sin embargo, en 2022, la NASA decidió financiar un desafío abierto al público
 
 ### Calidad y diversidad de las comunicaciones académicas
 
-Además, la Ciencia Abierta mejora la situación de la literatura científica. Según un [estudio](https://pubmed.ncbi.nlm.nih.gov/30523135/) de 2018, las revistas científicas han enfrentado el grave problema del sesgo de publicación, donde los artículos en las revistas presentan una cantidad abrumadora de resultados novedosos y positivos. Sumado a ello según un estudio de 2011 y 2016, esto lleva a que los resultados científicos publicados en ciertas disciplinas pueden reportar efectos exagerados, o incluso ser “falsos positivos” (afirmar de forma errónea que existe un efecto) dificultando la evaluación de la fiabilidad de los mismos. Las prácticas de la Ciencia Abierta, tales como registrar informes, mitigan el sesgo de la publicación y mejoran la fiabilidad de la literatura científica. Los informes registrados son formatos de publicación en los que la revisión y aceptación de los artículos toma lugar antes de que se lleve a cabo la recopilación de datos, de esta manera se elimina la presión para distorsionar los resultados de acuerdo a un [estudio](https://www.nature.com/articles/s41562-021-01193-7) publicado en 2022. Otras prácticas de Ciencia Abierta, como el pre-registro, permiten una vista parcial a proyectos que por diversas razones (como la falta de financiación, problemas logísticos o cambios en las prioridades organizacionales) no han sido completados o difundidos, según reporta un estudio de 2023 (https://pubmed.ncbi.nlm.nih.gov/34396837/), dando a estos proyectos una manera de publicar resultados disponibles que puede ayudar a informar sobre el estado actual de la investigación.
+Además, la Ciencia Abierta mejora la situación de la literatura científica. Según un [estudio](https://pubmed.ncbi.nlm.nih.gov/30523135/) de 2018, las revistas científicas han enfrentado el grave problema del sesgo de publicación, donde los artículos en las revistas presentan una cantidad abrumadora de resultados novedosos y positivos. Sumado a ello según un estudio de 2011 y 2016, esto lleva a que los resultados científicos publicados en ciertas disciplinas pueden reportar efectos exagerados, o incluso ser “falsos positivos” (afirmar de forma errónea que existe un efecto) dificultando la evaluación de la fiabilidad de los mismos. Las prácticas de la Ciencia Abierta, tales como registrar informes, mitigan el sesgo de la publicación y mejoran la fiabilidad de la literatura científica. Los informes registrados son formatos de publicación en los que la revisión y aceptación de los artículos toma lugar antes de que se lleve a cabo la recopilación de datos, de esta manera se elimina la presión para distorsionar los resultados de acuerdo a un [estudio](https://www.nature.com/articles/s41562-021-01193-7) publicado en 2022. Otras prácticas de Ciencia Abierta, como el pre-registro, permiten una vista parcial a proyectos que por diversas razones (como la falta de financiación, problemas logísticos o cambios en las prioridades organizacionales) no han sido completados o difundidos, según reporta un [estudio](https://pubmed.ncbi.nlm.nih.gov/34396837/) de 2023, dando a estos proyectos una manera de publicar resultados disponibles que puede ayudar a informar sobre el estado actual de la investigación.
 
 <img src="../images/media/image254_es.png" style="width: 350px; height: auto;" />
 
