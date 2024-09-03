@@ -4,7 +4,7 @@
 
 - [Mantener la seguridad y proteger la privacidad](#mantener-la-seguridad-y-proteger-la-privacidad)
 - [La propiedad intelectual](#la-propiedad-intelectual)
-- [Políticas y Prácticas en torno a la Ciencia Abierta](#pol%C3%ADticas-y-pr%C3%A1cticas-en-torno-a-la-ciencia-abierta)
+- [Políticas y prácticas en torno a la Ciencia Abierta](#pol%C3%ADticas-y-pr%C3%A1cticas-en-torno-a-la-ciencia-abierta)
 - [Lección 3: Resumen](#lecci%C3%B3n-3-resumen)
 - [Lección 3: Evaluación](#Lecci%C3%B3n-3-evaluaci%C3%B3n)
 
