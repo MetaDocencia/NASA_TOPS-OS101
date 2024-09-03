@@ -19,7 +19,7 @@ Después de completar esta lección deberías poder:
 - Explicar cuáles son los motivos y los objetivos para hacer Ciencia Abierta.
 - Definir qué es la Ciencia Abierta.
 - Enumerar diferentes grupos que practican Ciencia Abierta.
-``
+
 ## Motivación por la Ciencia Abierta
 
 ¡Te damos la bienvenida al primer módulo del programa Introducción a la Ciencia Abierta de TOPS! El Módulo 1 tiene cinco lecciones que presentan información sobre el Ethos de la Ciencia Abierta. Esto se refiere a las motivaciones y a las mejores prácticas para hacer a la ciencia más abierta. ¡Este curso ha sido posible gracias al trabajo del equipo de Transfórmate a la Ciencia Abierta (TOPS) de la NASA, a los expertos en Ciencia Abierta y a toda la comunidad de TOPS (más de 3100 personas)! Por favor, ten en cuenta que todas las imágenes se citan al final de cada módulo.
@@ -91,7 +91,7 @@ Fuente: [https://www.pnas.org/doi/full/10.1073/pnas.1708290115](https://www.pnas
 
 <img src="../images/media/image242_es.png" style="width: 350px; height: auto;" />
 
-<img src="../images/media/image218_es.png" style="width:0.16667in;height:0.16667in" /> **No <img src="../images/media/image270.png" style="width:0.16667in;height:0.16667in" /> Si**
+<img src="../images/media/image218_es.png" style="width:0.16667in;height:0.16667in" /> **No <img src="../images/media/image270_es.png" style="width:0.16667in;height:0.16667in" /> Si**
 
 **Los resultados abiertos permiten la iteración y mejoran la detección de errores**
 
@@ -155,6 +155,8 @@ El objetivo de TOPS es impulsar a la comunidad en su conjunto hacia la Ciencia A
 | Consenso comunitario sobre el comportamiento "apropiado". | Conjunto personal de estándares sobre la "buena" conducta. |
 
 <img src="../images/media/image258_es.jpg" style="width: 100%; height: auto;" />
+
+La nube de palabras muestra mayor presencia de términos como Acceso (_Access_), Reproducible (_Reproducible_), Transparencia (_Transparency_), Compartido (_Shared_), Herramientas (_Tools_), Libre (_Free_), Colaborativo (_Colaborative_) y FAIR (principios FAIR). También, con menor presencia, Equidad (_Equity_), Datos (_Data_) y Equitativo (_Equitable_), entre otras.
 
 Puede que hayas oído hablar, o nó, del término «Ciencia Abierta» antes de este curso. Si lo has hecho, es probable que tengas alguna idea preconcebida de la Ciencia Abierta y de cómo es en la práctica. Analicemos de forma conjunta esas distintas concepciones.
 
@@ -251,7 +253,7 @@ Selecciona todas las opciones que correspondan.
             <p>Créditos:</p>
             <p>Datos de la imagen: NASA/JPL-Caltech/SwRI/MSSS</p>
             <p>Procesamiento de imágenes: Navaneeth Krishnan S ©️ CC BY</p>
-            <p><img src="../images/media/image243.jpg" style="width: 100%; height: auto;"/></p>
+            <p><img src="../images/media/image243_es.jpg" style="width: 100%; height: auto;"/></p>
         </td>
     </tr>
   </tbody>
@@ -424,8 +426,7 @@ _Pregunta_
 ¿Qué problemas sociales puede ayudar a encarar la Ciencia Abierta? Selecciona todos los que correspondan.
 
 - Crisis de reproducibilidad científica.
-- Difusión de desinformación.![image](https://github.com/user-attachments/assets/bac4792f-f4b1-41a7-a580-ebb64c27d8c4)
-
+- Difusión de desinformación.
 - Aumento del uso de papel debido a la impresión de revistas y artículos científicos.
 - La superpoblación de determinadas especies animales usadas en ensayos de laboratorio.
 - La cuestión del interés decreciente en los estudios artísticos y culturales debido al énfasis en la investigación científica.
