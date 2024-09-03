@@ -222,6 +222,7 @@ Veamos qué resultados abiertos fueron producidos y, mientras lo hacemos, echemo
             <td>
                 <p>En la página web del equipo y GitHub.</p>
                 <p><img src="../images/media/image219_es.jpg" style="width: 100%; height: auto;" /></p>
+                <p>La imagen muestra la política de publicación del Programa en su versión 1.0 de marzo de 2018. Se indica que todas las personas que integran el Programa están sujetas a esta política. A su vez la política aplica a las actividades núcleo del Programa, que detallan más abajo pero no forman parte de la imagen</p>
             </td>
         </tr>
     </tbody>
@@ -269,6 +270,7 @@ El equipo creció hasta casi 400 personas, todas trabajando juntas, todas sabien
             <td>
                 <p>Código en <i>GitHub</i>, lanzamiento en <i>Zenodo</i>, documentos publicados en <i>Journal of Open Source Software</i> (una revista de acceso abierto)</p>
                 <p><img src="../images/media/image221_es.jpg" style="width: 100%; height: auto;" /></p>
+                <p>La imagen muestra la portada del artículo donde se muestran la revista, el título ("Eureka! Un flujo de procesamiento de punta a punta para las series temporales de las observaciones de JWST") y las autorías.</p>
             </td>
         </tr>
     </tbody>
