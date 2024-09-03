@@ -24,7 +24,7 @@ Al finalizar la lección deberías ser capaz de:
 
 ## Preocupaciones comunes alrededor de la Ciencia Abierta
 
-### Actividad 4.1: Reflexión personal sobre las preocupaciones de la ciencias abierta
+### Actividad 4.1: Reflexión personal sobre las preocupaciones de la Ciencia Abierta
 
 <img style="width:350px;height:auto;" src="../images/media/lightbulb_es.png">
 
@@ -34,7 +34,7 @@ Tómate un momento para pensar en las preocupaciones que genera adoptar la Cienc
 
 Ahora que has reflexionado sobre algunas preocupaciones en torno a la Ciencia Abierta, a continuación enumeramos algunas preocupaciones comunes a la hora de hacer Ciencia Abierta y algunas posibles estrategias de mitigación. Aunque no se trate de una preocupación que tengas, puede ser útil pensar en las que pueden tener otras personas para comprenderlas mejor e incluso ayudar a abordarlas.
 
-**Mesa:** preocupaciones Comunes Sobre la Ciencia Abierta
+**Tabla:** preocupaciones comunes sobre la Ciencia Abierta
 
 <table>
 <colgroup>
@@ -60,7 +60,7 @@ Ahora que has reflexionado sobre algunas preocupaciones en torno a la Ciencia Ab
             <p>Sí, esto puede ocurrir.</p>
             <p>Depositar un trabajo de manera temprana y hacerlo citable son formas de establecer que ese trabajo es tuyo.</p>
             <p>Esto sirve como evidencia de cuándo comenzaste a trabajar en él y facilita que otras personas te citen. Los detalles de cómo hacerlo se proporcionan en los siguientes módulos.</p>
-            <p>Sin embargo, en muchos campos, si está claro que alguien está trabajando activamente en un tópico, la decisión de parte de otra personas de <apropiarlo puede significar una ganancia a corto pero una pérdida a largo plazo. En ciencia, la reputación es muy importante y la colaboración generalmente conduce a éxitos profesionales mayores. Lea más sobre la apropiación <a href="https://datascience.codata.org/articles/10.5334/dsj-2017-029">aquí</a>.</p>
+            <p>Sin embargo, en muchos campos, si está claro que alguien está trabajando activamente en un tópico, la decisión de parte de otra personas de apropiarlo puede significar una ganancia a corto pero una pérdida a largo plazo. En ciencia, la reputación es muy importante y la colaboración generalmente conduce a éxitos profesionales mayores. Lee más sobre la apropiación <a href="https://datascience.codata.org/articles/10.5334/dsj-2017-029">aquí</a>.</p>
         </td>
     </tr>
     <tr>
@@ -97,7 +97,7 @@ Ahora que has reflexionado sobre algunas preocupaciones en torno a la Ciencia Ab
 </tbody>
 </table>
 
-Parcialmente extraído de [las "Diez Lecciones contra la Ciencia Abierta que puedes ganar"](https://www.software.ac.uk/blog/2020-12-17-diez argumentos-against-open-science-you-can-win)
+Parcialmente extraído de las ["Diez argumentos contra la Ciencia Abierta que puedes ganar" de Malvika Sharan](https://www.software.ac.uk/blog/2020-12-17-ten-arguments-against-open-science-you-can-win)
 
 Algunas de las preocupaciones mencionadas anteriormente no son exclusivas de la Ciencia Abierta y pueden ocurrir en sistemas científicos cerrados. Por ejemplo, la apropiación y la reutilización sin citaciones son dos ejemplos de mala conducta científica que pueden ocurrir en escenarios científicos cerrados. Las prácticas de la Ciencia Abierta pueden ofrecer más recursos, como poner a disposición un artículo preimpreso o dar a sus datos o código un DOI y una licencia. El hecho de que más trabajos tuyos se compartan de forma citable te da más poder para demostrar cuándo se ha producido una conducta indebida.
 
