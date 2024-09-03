@@ -83,7 +83,7 @@ Más información [aquí](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3792863/)
 
 - [Mantener la seguridad y proteger la privacidad](./Lesson_3#mantener-la-seguridad-y-proteger-la-privacidad)
 - [La propiedad intelectual](./Lesson_3#la-propiedad-intelectual)
-- [Políticas y Prácticas en torno a la Ciencia Abierta](./Lesson_3#pol%C3%ADticas-y-pr%C3%A1cticas-en-torno-a-la-ciencia-abierta)
+- [Políticas y prácticas en torno a la Ciencia Abierta](./Lesson_3#pol%C3%ADticas-y-pr%C3%A1cticas-en-torno-a-la-ciencia-abierta)
 - [Lección 3: Resumen](./Lesson_3#lecci%C3%B3n-3-resumen)
 - [Lección 3: Evaluación](./Lesson_3#Lecci%C3%B3n-3-evaluaci%C3%B3n)
 
