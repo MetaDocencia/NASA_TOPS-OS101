@@ -471,12 +471,12 @@ El principal objetivo de las pruebas de código es evaluar si un código hace lo
   </tbody>
 </table>
 
-### Minimizar el Riesgo de Vulnerabilidades de Seguridad
+### Minimizar el riesgo de vulnerabilidades de seguridad
 
 Ya sea que se use software de código abierto, de código cerrado o comercial, es importante considerar los riesgos de seguridad inherentes al desarrollo de software.
 
 - Asegúrate de que haya un código mínimo y DRY (no lo repita) (más fácil de mantener y reparar).
-- Usa variables globales o administradores de claves para las credenciales. Nunca incluyas credenciales en su código.
+- Usa variables globales o administradores de claves para las credenciales. Nunca incluyas credenciales en tu código.
 - Usa dependencias bien probadas y mantenidas. En los paquetes que mantiene, mantén actualizada la lista de dependencias.
 - Crea software con herramientas que proporcionen escaneo y auditoría automatizados.
 - Si hay dependencias no compatibles en las que confías, evalúalas para determinar cómo podrían introducir riesgos de seguridad y si sería apropiado cambiar a un paquete diferente.
