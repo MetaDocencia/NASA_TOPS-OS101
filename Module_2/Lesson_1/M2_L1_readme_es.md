@@ -57,11 +57,11 @@ Muchas personas que hacen ciencia escriben código fuente para producir software
 
 **Software Operativo y de Infraestructura** - Software utilizado por centros de datos y grandes instalaciones de tecnología de la información para proporcionar servicios de datos.
 
-**Librería**  también llamada biblioteca.  Una colección de códigos y rutinas, previamente realizadas por quienes desarrollan y reutilizables para facilitar procesos comunes en la producción de software y así ahorrar tiempo y esfuerzo.
+**Librería** - También llamada biblioteca. Una colección de códigos y rutinas, previamente realizadas por quienes desarrollan y reutilizables para facilitar procesos comunes en la producción de software y así ahorrar tiempo y esfuerzo.
 
-**Software de modelación y simulación** -- Software que implementa soluciones a ecuaciones matemáticas a partir de datos de entrada y condiciones límite, o bien infiere modelos a partir de datos.
+**Software de modelación y simulación** - Software que implementa soluciones a ecuaciones matemáticas a partir de datos de entrada y condiciones límite, o bien infiere modelos a partir de datos.
 
-**Software de análisis** -- Software desarrollado para manipular mediciones o resultados de modelos, para visualizarlos o comprenderlos.
+**Software de análisis** - Software desarrollado para manipular mediciones o resultados de modelos, para visualizarlos o comprenderlos.
 
 **Software de un solo uso** - Software escrito para usarse en casos únicos, como por ejemplo hacer un gráfico para un artículo o manipular datos de una manera específica.
 
@@ -79,7 +79,7 @@ Los resultados capturan los distintos productos de investigación del proceso ci
 -   Resúmenes y presentaciones en congresos
 -   Foros de debate
 
-Puede que estemos familiarizados con el ciclo de vida de la investigación, pero aún desconozcamos los tipos de resultados que pueden compartirse abiertamente a lo largo de este proceso. Al compartir resultados, es importante ser lo más abiertos posible, con el objetivo de aumentar la reproducibilidad, la accesibilidad y la inclusión de nuestra ciencia. A lo largo del ciclo de vida de la investigación existen múltiples oportunidades para compartir abiertamente diferentes resultados, y estos pueden dar lugar a nuevas colaboraciones y líneas de investigación. En el Módulo 5 - Resultados Abiertos, se ofrecen más detalles sobre el alcance de los resultados abiertos.
+Puede que nos sea familiar el ciclo de vida de la investigación, pero aún desconozcamos los tipos de resultados que pueden compartirse abiertamente a lo largo de este proceso. Al compartir resultados, es importante intentar proveer la mayor apertura posible, con el objetivo de aumentar la reproducibilidad, la accesibilidad y la inclusión de nuestra ciencia. A lo largo del ciclo de vida de la investigación existen múltiples oportunidades para compartir abiertamente diferentes resultados, y estos pueden dar lugar a nuevas colaboraciones y líneas de investigación. En el Módulo 5 - Resultados Abiertos, se ofrecen más detalles sobre el alcance de los resultados abiertos.
 
 ## Utilizar herramientas para la Ciencia Abierta en la práctica 
 
@@ -97,7 +97,7 @@ La práctica de compartir estos componentes puede darse en distintos grados de e
 
 ### Compartir los Datos Abiertos
 
-Los datos pueden compartirse fácilmente a través de muchos servicios diferentes. La mejor forma de compartirlos suele ser a través de un repositorio de datos a largo plazo que los preserve y los haga accesibles. La imagen ofrece algunas consideraciones a la hora de compartir datos a través de [Zenodo](https://zenodo.org/), un repositorio de datos generalista. Estas consideraciones serían similares para otros repositorios de datos. Ver el Módulo 3 - Datos Abiertos, para obtener más detalles sobre cómo compartir datos abiertos.
+Los datos pueden compartirse fácilmente a través de muchos servicios diferentes. La mejor forma de compartirlos suele ser a través de un repositorio de datos a largo plazo que los preserve y los haga accesibles. La siguiente imagen ofrece algunas consideraciones a la hora de compartir datos a través de [Zenodo](https://zenodo.org/), un repositorio de datos generalista. Estas consideraciones serían similares para otros repositorios de datos. Ver el Módulo 3 - Datos Abiertos, para obtener más detalles sobre cómo compartir datos abiertos.
 
 <img src="../images/media/image8_es.png" style="width:100%;height:auto;"/>
 
@@ -117,7 +117,7 @@ Cuando compartimos resultados es conveniente incluir la metodología utilizada p
 
 ### Un ejemplo de proyecto científico abierto
 
-A continuación veremos un ejemplo de cómo un grupo de investigación compartió abiertamente sus datos, resultados y software tanto como el artículo resultante; todo esto con sus propios identificadores únicos. Hay que tener en cuenta que los datos y el software pueden tener varios identificadores, lo que permite que estos sean citados en todas las versiones o una única versión.
+A continuación veremos un ejemplo de cómo un grupo de investigación compartió abiertamente sus datos, resultados y software; todo esto con sus propios identificadores únicos. Hay que tener en cuenta que los datos y el software pueden tener varios identificadores, lo que permite que estos sean citados en todas las versiones o una única versión.
 
 <img src="../images/media/image10_es.png" style="width:100%;height:auto;"/>
 
