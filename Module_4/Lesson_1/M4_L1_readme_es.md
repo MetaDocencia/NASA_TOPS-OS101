@@ -82,7 +82,7 @@ Entender cómo encontrar y utilizar el código de otras personas, crear el propi
 
 <img src="../images/media/image247_es.png" style="width:100%;height:auto;" />
 
-Ejemplo de código de [https://github.com/UCB-stat-159-s23/site/blob/main/lectures/climate-data.ipynb](https://github.com/UCB-stat-159-s23/site/blob/main/lectures/climate-data.ipynb)
+Ejemplo de código adaptado de [https://github.com/UCB-stat-159-s23/site/blob/main/lectures/climate-data.ipynb](https://github.com/UCB-stat-159-s23/site/blob/main/lectures/climate-data.ipynb)
 
 ### ¿Qué es el código versus el software?
 
@@ -128,8 +128,8 @@ Las personas que investigan utilizan y producen una gran variedad de programas i
 **Bibliotecas (o librerías)** - Las bibliotecas son herramientas genéricas para implementar algoritmos conocidos, proporcionar análisis estadísticos o visualización de datos que se incorporan a otras categorías de software. Por ejemplo: 
 
 - [NumPy](https://github.com/numpy) – Informática científica con python
-- [scikit-image](https://github.com/scikit-image/) - Algoritmos de procesamiento de imágenes en python
-- [deal.II](https://github.com/dealii/dealii) - Biblioteca de algoritmos para resolver ecuaciones diferenciales parciales con elementos finitos
+- [scikit-image](https://github.com/scikit-image/) – Algoritmos de procesamiento de imágenes en python
+- [deal.II](https://github.com/dealii/dealii) – Biblioteca de algoritmos para resolver ecuaciones diferenciales parciales con elementos finitos
 
 **Software de modelización y simulación** - El software de modelización y simulación implementa soluciones a ecuaciones matemáticas a partir de datos de entrada y condiciones límite, o infiere modelos a partir de datos. A menudo usan bibliotecas.
 Por ejemplo: modelos de primeros principios, herramientas de asimilación de datos, modelos empíricos, aprendizaje de máquinas, planificación de misiones y herramientas de ingeniería, entre otros.
@@ -278,7 +278,7 @@ Los Planes de Gestión de Software abarcan tanto el código como el software.
 |          |                                                                                                                           |
 | -------- | ------------------------------------------------------------------------------------------------------------------------- |
 | ¿Qué?    | Descripción de la gestión, conservación y distribución de software.              |
-| ¿Cuando? | El cronograma para archivar y compartir software.                             |
+| ¿Cuándo? | El cronograma para archivar y compartir software.                             |
 | ¿Dónde?  | Ubicación donde se compartirá y archivará el software a largo plazo.           |
 | ¿Cómo?   | Habilitar reusar el software mediante la asignación de un DOI, licencia, normas de contribución, etc. |
 | ¿Quién?  | Roles, funciones y responsabilidades de quienes forman parte del equipo.               |
