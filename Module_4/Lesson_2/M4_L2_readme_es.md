@@ -32,7 +32,7 @@ Mucha gente descubre el código a través de conversaciones con sus colegas o le
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Ejemplo    | Soy estudiante de posgrado y recién comienzo a trabajar en el modelado de turbulencias en el Océano Austral para comprender mejor la temperatura de la superficie del mar (o la absorción de calor del océano) y el cambio climático. ¿Existe algún software disponible para modelar cómo los remolinos en el océano afectan la temperatura de la superficie del mar? |
 | Ejercicio  | Búsqueda general sobre el término "Software para modelado de turbulencias oceánicas"                                                                                                                                                                                                                                                                                                                         |
-| Resultados | Modelo General de Turbulencia Oceánica (en inglés,_General Ocean Turbulence Model_ GOTM)                                                                                                                                                                                                                                                                                                                                  |
+| Resultados | Modelo General de Turbulencia Oceánica (en inglés, _General Ocean Turbulence Model_ GOTM)                                                                                                                                                                                                                                                                                                                                  |
 
 El éxito de esta búsqueda se debe a que quienes desarrollaron el modelo GOTM hicieron público su código.
 
@@ -44,8 +44,7 @@ Descubrir Software Abierto depende de que las personas que lo desarrollen hagan 
 - El software debe ser descrito con metadatos enriquecidos, accesibles e indexables.
 - El software debe poder encontrarse desde todos los puntos de búsqueda relevantes.
 
-Fuente: "[Principios Rectores FAIR para la gestión y custodia de datos científicos](https://www.nature.com/articles/sdata201618)" (en inglés).
-Wilkinson, M. D. et al. The FAIR Guiding Principles for scientific data management and stewardship. Sci Data 3, 160018 (2016). Véase también el Módulo 1.
+Fuente: Wilkinson, M. D. et al. The FAIR Guiding Principles for scientific data management and stewardship [Los principios guía FAIR para gestión y administración de datos científicos](https://www.nature.com/articles/sdata201618). Sci.Data 3:160018, doi: 10.1038/sdata.2016.18 (2016). Revisa también el Módulo 1.
 
 Sin embargo, puedes tener necesidades más específicas. En las siguientes secciones se describen otras formas de descubrir software que satisfaga las necesidades específicas de la investigación.
 
