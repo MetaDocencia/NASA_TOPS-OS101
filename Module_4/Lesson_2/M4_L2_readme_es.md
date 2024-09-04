@@ -106,11 +106,11 @@ Comienza visitando el sitio web de GitHub para buscar paquetes de software dispo
 
 <img src="../images/media/image335_es.png" style="width:100%;height:auto;" />
 
-Captura de pantalla (en inglés) de los repositorios devueltos por nuestra búsqueda.
+Captura de pantalla (en inglés) de los repositorios devueltos por nuestra búsqueda. 
 
-<img src="../images/media/image496_es.jpg" style="width:100%;height:auto;" />
+<img src="../images/media/image496_es.png" style="width:100%;height:auto;" />
 
-Captura de pantalla (en inglés) de los fragmentos de código devueltos por nuestra búsqueda. La imagen muestra los primeros tres resultados presentados al seleccionar Código (en inglés _code_) de la columna izquierda. 
+Captura de pantalla (en inglés) de los fragmentos de código devueltos por nuestra búsqueda. La imagen muestra los primeros tres resultados presentados al seleccionar Código (en inglés _code_) de la columna de filtros disponibles (en inglés, _Filter by_). 
 
 ---
 
@@ -231,9 +231,9 @@ Es una buena señal si puedes encontrar evidencia de que el código ha sido util
 
 Para evaluar rápidamente el uso y la calidad del repositorio de software de parte de la comunidad, utiliza las herramientas del repositorio donde lo encontraste. GitHub, por ejemplo, permite un rápido escaneo de la actividad de desarrollo como lo demuestra el número de veces que el código ha sido descargado o “bifurcado” (en la jerga de GitHub). También puedes ver la cantidad de actividad de una comunidad. GitHub, además, proporciona información sobre la calidad del software.
 
-<img src="../images/media/image291_es.jpg" style="width:100%;height:auto;" />
+<img src="../images/media/image291_es.png" style="width:100%;height:auto;" />
 
-En esta captura puedes ver la cantidad de solicitudes de revisión (_pull requests_) que se le hicieron al proyecto, de copias del respositorio (_forks_), de versiones paralelas (_branches_), los gráficos que muestran el movimiento del proyecto (_insights_), la calificación de parte de la comunidad medida en estrellas (_stars_) y la cantidad de lanzamientos (_releases_). 
+En esta captura se muestran la cantidad de solicitudes de revisión (_pull requests_) que se le hicieron al proyecto, de copias del respositorio (_forks_), de versiones paralelas (_branches_), los gráficos que muestran el movimiento del proyecto (_insights_), la calificación de parte de la comunidad medida en estrellas (_stars_) y la cantidad de lanzamientos (_releases_). 
 
 ### La importancia del Archivo README (LEEME)
 
