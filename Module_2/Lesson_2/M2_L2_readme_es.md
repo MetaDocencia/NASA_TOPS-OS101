@@ -2,7 +2,7 @@
 
 ## Contenidos
 
-- [Introducción a las herramientas para la Ciencia Abierta](#introducci%C3%B3n-a-las-herramientas-ciencia-abierta)
+- [Introducción a las herramientas para la Ciencia Abierta](#introducci%C3%B3n-a-las-herramientas-para-la-ciencia-abierta)
 - [Identificadores persistentes](#identificadores-persistentes)
 - [Herramientas útiles para la Ciencia Abierta](#herramientas-%C3%BAtiles-para-la-ciencia-abierta)
 - [Planes de Ciencia Abierta y Gestión de Datos](#planes-de-ciencia-abierta-y-gesti%C3%B3n-de-datos)

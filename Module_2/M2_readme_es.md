@@ -43,7 +43,7 @@ Estos términos clave son tópicos importantes para este módulo. Selecciona el 
 
 ### [Lección 2: Herramientas generales para la Ciencia Abierta](./Lesson_2)
 
--   [Introducción a las herramientas de Ciencia Abierta](./Lesson_2#introducci%C3%B3n-a-las-herramientas-ciencia-abierta)
+-   [Introducción a las herramientas para la Ciencia Abierta](./Lesson_2#introducci%C3%B3n-a-las-herramientas-para-la-ciencia-abierta)
 -   [Identificadores persistentes](./Lesson_2#identificadores-persistentes)
 -   [Herramientas útiles de Ciencia Abierta](./Lesson_2#herramientas-%C3%BAtiles-para-la-ciencia-abierta)
 -   [Planes de Ciencia Abierta y Gestión de Datos](./Lesson_2#planes-de-ciencia-abierta-y-gesti%C3%B3n-de-datos)
