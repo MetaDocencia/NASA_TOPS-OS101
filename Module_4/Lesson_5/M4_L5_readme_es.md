@@ -2,7 +2,7 @@
 
 ## Contenidos
 
-- [Planes de Gestión de Datos y Ciencia Abierta](#planes-de-gesti%C3%B3n-de-datos-y-ciencia-abierta)
+- [Planes de Ciencia Abierta y Gestión de Datos](#planes-de-ciencia-abierta-y-gesti%C3%B3n-de-datos)
 - [¿Cómo planificar abrir nuestro código?](#c%C3%B3mo-planeamos-hacer-nuestro-c%C3%B3digo-abierto)
 - [Generar interés y construir comunidades](#generar-inter%C3%A9s-y-construir-comunidades)
 - [Contribuir a proyectos de software de Código Abierto](#contribuir-a-proyectos-de-software-de-c%C3%B3digo-abierto)
@@ -19,20 +19,20 @@ Esta lección relaciona los conceptos de desarrollo de software de Acceso o de C
 
 Al finalizar esta lección deberías ser capaz de:
 
-- Recordar la definición de un Plan de Gestión de Software, potencialmente como parte de un Plan de Gestión de Datos y de Ciencia Abierta, y dónde encontrar recursos útiles.
+- Recordar la definición de un Plan de Gestión de Software, potencialmente como parte de un Plan de Ciencia Abierta y Gestión de Datos, dónde encontrar recursos útiles.
 - Enumerar formas de interactuar y contribuir en las comunidades de software de Código Abierto.
 
-## Planes de Gestión de Datos y Ciencia Abierta
+## Planes de Ciencia Abierta y Gestión de Datos 
 
 <img style="width: 100%; height: auto;" src="../images/media/codebg_es.jpg">
 
-"Un Plan de Gestión de Datos y Ciencia Abierta de la NASA (PGDCA) describe cómo se gestionará y se pondrá a disposición abiertamente la información científica producida a partir de actividades científicas financiadas por la NASA. El PGDCA debe incluir secciones sobre gestión de datos, gestión de software y uso compartido de publicaciones".
+"Un Plan de Ciencia Abierta y Gestión de Datos de la NASA (PCAGD) describe cómo se gestionará y se pondrá a disposición abiertamente la información científica producida a partir de actividades científicas financiadas por la NASA. El PCAGD debe incluir secciones sobre gestión de datos, gestión de software y uso compartido de publicaciones".
 
 Fuente: **[https://science.nasa.gov/researchers/sara/faqs/](https://science.nasa.gov/researchers/sara/faqs/)** (en inglés).
 
 ---
 
-Secciones de ejemplo para incluir en un PGDCA:
+Secciones de ejemplo para incluir en un PCAGD:
 
 - Plan de Gestión de Datos (PGD)
 - Plan de Gestión de Software (PGS)
@@ -40,7 +40,7 @@ Secciones de ejemplo para incluir en un PGDCA:
 - Otras actividades de Ciencia Abierta
 - Roles y responsabilidades
 
-#### Recuerde los pasos para un PGS de las lecciones anteriores
+#### Recuerda los pasos para un PGS de las lecciones anteriores
 
 - **Qué:** Descripción de la gestión, conservación y distribución del software.
 - **Cuándo:** El cronograma para archivar y compartir software.
@@ -54,7 +54,7 @@ Secciones de ejemplo para incluir en un PGDCA:
 
 ### ¿Debería redactarse un Plan de Gestión de Datos o Software?
 
-Si está planificando un proyecto que requiere un Plan de Gestión de Datos, redactar ese plan es un buen primer paso. Existe un umbral por encima del cual se debe redactar un Plan de Gestión de Datos/Software. "Software" aquí significa programas informáticos científica o técnicamente relevantes, tanto como código fuente como software ejecutable.
+Si estás planificando un proyecto que requiere un Plan de Gestión de Datos, redactar ese plan es un buen primer paso. Existe un umbral por encima del cual se debe redactar un Plan de Gestión de Datos/Software. "Software" aquí significa programas informáticos científica o técnicamente relevantes, tanto como código fuente como software ejecutable.
 
 |                                      |                                                                                                                                                                                                                                                                                                                |
 | ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -63,7 +63,7 @@ Si está planificando un proyecto que requiere un Plan de Gestión de Datos, red
 
 Quizás tu proyecto no encaje en estas categorías. Por ejemplo, si tu objetivo es que otras personas reproduzcan tus resultados, entonces redactar un PGS queda a tu decisión.
 
-El siguiente material supone que has alcanzado el umbral/nivel y estás escribiendo un Plan de Gestión de Datos/Software.
+El siguiente material supone que has alcanzado el punto en el que ya estás escribiendo un Plan de Gestión de Datos/Software.
 
 ### Lápiz y papel: cómo empezar a escribir un plan
 
@@ -176,7 +176,7 @@ Suscríbete y/o participa en foros (por ejemplo, discusiones en GitHub, Stack Ov
 
 <img style="width:350px;height:auto;" src="../images/media/lightbulb_es.png">
 
-- Encuentra y navega por los sitios web asociados con dos comunidades de práctica enumeradas en la sección anterior "Conectando con Comunidades".
+- Encuentra y navega por los sitios web asociados con dos comunidades de práctica enumeradas en la sección anterior "Conectarse con las comunidades".
 - Identifica al menos dos puntos de entrada para participar, por ejemplo, un evento próximo (virtual o presencial), formas en las que podrías contribuir, foros, etc.
 
 #### Conclusiones clave: Navega por algunas de las comunidades de práctica
@@ -209,7 +209,7 @@ Además de los recursos mencionados en otras partes de este curso, los siguiente
 
 - [OpenSciency](https://zenodo.org/record/7662732) (en inglés).
 - [Dirección de Misiones Científicas de la NASA: Guía científica de Código Abierto (NASA SMD's Open-Source Science Guidance)](https://smd-cms.nasa.gov/wp-content/uploads/2023/12/smd-open-source-science-guidance-v2.1-20231211-2.pdf) (en inglés).
-- [Guía práctica para la gestión de software (Practical Guide to Software Management:)](https://zenodo.org/record/7589725) (en inglés).
+- [Guía práctica para la gestión de software (Practical Guide to Software Management)](https://zenodo.org/record/7589725) (en inglés).
 - [Principios FAIR para el Software de Investigación (Principios FAIR - _FAIR Principles for Research Software_)](https://zenodo.org/record/6623556) (en inglés).
 - [Opciones de Política de Software de Código Abierto para Ciencias de la Tierra y del Espacio de la NASA (_Open Source Software Policy Options for NASA Earth and Space Sciences_)](https://doi.org/10.17226/25217) (en inglés).
 - [Manual de Turing Way para la ciencia de datos reproducible, ética y colaborativa](https://the-turing-way.netlify.app/index.html) (en inglés).
@@ -229,7 +229,7 @@ Además de los recursos mencionados en otras partes de esta capacitación, los s
 
 - Es una "revista" de Código Abierto revisada por pares que cubre softwares de investigación de Código Abierto publicado a través de GitHub.
 - Tiene su énfasis puesto en el software.
-- Ha publicado una gran cantidad de proyectos de software de investigación de Código Abierto, varios de ellos muy citados. JOSS es una de varias revistas. Haz clic [aquí](https://www.software.ac.uk/which-journals-should-i-publish-my-software) (en inglés) para ver una lista de muchas más revistas que publican software.
+- Ha publicado una gran cantidad de proyectos de software de investigación de Código Abierto, varios de ellos muy citados. JOSS es una de varias revistas. Haz clic [aquí](https://www.software.ac.uk/which-journals-should-i-publish-my-software) para ver una lista de muchas más revistas que publican software (en inglés).
 
 ## Lección 5: Resumen
 
