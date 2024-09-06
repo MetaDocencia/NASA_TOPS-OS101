@@ -1,12 +1,12 @@
-# Módulo 5: Resultados Abiertos
+# Introducción a la Ciencia Abierta Módulo 5: Resultados Abiertos
 
-**Te Damos la Bienvenida al Módulo de Resultados Abiertos**
+**Te damos la bienvenida a Introducción a la Ciencia Abierta: Resultados Abiertos**
 
 ## Acerca de este módulo
 
 ¡Te damos la bienvenida a Resultados Abiertos! Este módulo se centra en brindarte las herramientas que necesitas para iniciar una colaboración científica mediante la creación de pautas para los contribuyentes que garanticen una colaboración ética. El módulo comienza con un caso de uso de la ciencia abierta en acción, seguido de una revisión sobre cómo descubrir y evaluar resultados abiertos. A continuación, se centra en cómo publicar resultados, lo que incluye una lista de verificación de tareas. Finalmente, el módulo concluye con una orientación específica para la escritura de la sección de compartir resultados de los Planes de Gestión de Ciencia Abierta y Datos (PGCAD). Además, reflexionaremos sobre cómo nuestra sociedad y nuestra tecnología evolucionan constantemente en la forma en que hacemos ciencia.
 
-### Objetivos de aprendizaje del módulo
+### Objetivos de aprendizaje
 
 Al finalizar esta lección deberías ser capaz de:
 
@@ -19,7 +19,7 @@ Al finalizar esta lección deberías ser capaz de:
 
 # Términos clave
 
-Estos términos clave son importantes para el módulo. Seleccione el término para ver la descripción.
+Estos términos clave son importantes para el módulo. Selecciona el término para ver la descripción.
 
 **Objeto de Investigación (OI)** - Un método para la identificación, agregado e intercambio de información científica en la Web. Puede incluir publicaciones en diferentes formatos, softwares, datos y medios.
 
@@ -56,7 +56,7 @@ Estos términos clave son importantes para el módulo. Seleccione el término pa
 - [Lección 2: Resumen](./Lesson_2#lecci%C3%B3n-2-resumen)
 - [Lección 2: Evaluación](./Lesson_2#lecci%C3%B3n-2-evaluaci%C3%B3n)
 
-### [Lección 3: Haciendo Resultados Abiertos](./Lesson_3)
+### [Lección 3: Creando Resultados Abiertos](./Lesson_3)
 
 - [Cómo hacer Resultados Abiertos](./Lesson_3#c%C3%B3mo-hacer-resultados-abiertos)
 - [El rol de las personas colaboradoras en la Ciencia Abierta](./Lesson_3#el-rol-de-las-personas-colaboradoras-en-la-ciencia-abierta)
@@ -73,7 +73,7 @@ Estos términos clave son importantes para el módulo. Seleccione el término pa
 - [Lección 4: Resumen](#lecci%C3%B3n-4-resumen)
 - [Lección 4: Evaluación](#lecci%C3%B3n-4-evaluaci%C3%B3n)
 
-### [Lección 5: De la Teoría a la Práctica](./Lesson_5)
+### [Lección 5: De la teoría a la práctica](./Lesson_5)
 
 - [Escribir un Plan de Ciencia Abierta y Gestión de Datos: Qué incluir para compartir Resultados Abiertos](./Lesson_5#escribir-un-plan-de-ciencia-abierta-y-gesti%C3%B3n-de-datos-qu%C3%A9-incluir-para-compartir-resultados-abiertos)
 - [Ejemplos de pasos hacia resultados más abiertos](./Lesson_5#ejemplos-de-pasos-hacia-resultados-m%C3%ADs-abiertos)
