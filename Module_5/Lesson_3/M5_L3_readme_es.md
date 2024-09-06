@@ -50,7 +50,7 @@ Las nuevas formas de trabajar con enfoques creativos para la colaboración y la 
   <thead>
     <tr>
         <th>IDEACIÓN Y PLANIFICACIÓN ☑</th>
-        <th>COLECCIÓN Y EXPLORACIÓN DE DATOS</th>
+        <th>RECOPILACIÓN Y EXPLORACIÓN DE DATOS</th>
         <th>PARTICIPACIÓN COMUNITARIA Y REPRODUCIBILIDAD</th>
         <th>PRESERVACIÓN Y PUBLICACIÓN</th>
     </tr>
@@ -101,7 +101,7 @@ Las nuevas formas de trabajar con enfoques creativos para la colaboración y la 
   <thead>
     <tr>
         <th>IDEACIÓN Y PLANIFICACIÓN</th>
-        <th>COLECCIÓN Y EXPLORACIÓN DE DATOS</th>
+        <th>RECOPILACIÓN Y EXPLORACIÓN DE DATOS</th>
         <th>PARTICIPACIÓN COMUNITARIA Y REPRODUCIBILIDAD ☑</th>
         <th>PRESERVACIÓN Y PUBLICACIÓN</th>
     </tr>
@@ -129,7 +129,7 @@ Las nuevas formas de trabajar con enfoques creativos para la colaboración y la 
   <thead>
     <tr>
         <th>IDEACIÓN Y PLANIFICACIÓN</th>
-        <th>COLECCIÓN Y EXPLORACIÓN DE DATOS</th>
+        <th>RECOPILACIÓN Y EXPLORACIÓN DE DATOS</th>
         <th>PARTICIPACIÓN COMUNITARIA Y REPRODUCIBILIDAD</th>
         <th>PRESERVACIÓN Y PUBLICACIÓN ☑</th>
     </tr>
@@ -259,7 +259,7 @@ Puedes encontrar más formas de comunicar tu trabajo en la [guía de comunicaci�
 
 ### Mantener estándares éticos
 
-La Ciencia Abierta, como vimos en el Módulo 1 Ethos de las Ciencia Abierta, debe mantener los estándares éticos más estrictos. Esto se logra mediante la participación de diversas personas colaboradoras en el desarrollo de los resultados científicos. Los enfoques participativos permiten integrar múltiples perspectivas y conocimientos en la investigación desde el inicio y garantizan que la revisión por pares se realice para todos los productos de forma iterativa, y no sólo para los artículos finales.
+La Ciencia Abierta, como vimos en el Módulo 1 El Ethos de la Ciencia Abierta, debe mantener los estándares éticos más estrictos. Esto se logra mediante la participación de diversas personas colaboradoras en el desarrollo de los resultados científicos. Los enfoques participativos permiten integrar múltiples perspectivas y conocimientos en la investigación desde el inicio y garantizan que la revisión por pares se realice para todos los productos de forma iterativa, y no sólo para los artículos finales.
 
 En la elaboración y la planificación para compartir los resultados de manera abierta, se puede aplicar el principio de "tan abierto como sea posible, tan cerrado como sea necesario". Esto significa proteger la información confidencial, gestionar las prácticas de protección de datos cuando sea necesario y no compartir datos sensibles o información privada de las personas que pueda ser utilizada indebidamente. Repositorios en línea, como GitHub y GitLab, permiten la interacción en línea además de servir técnicamente al control de versiones y al alojamiento del contenido. Por ejemplo, puedes usar [_issues_](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) (en inglés) y [un tablero de proyecto](https://docs.github.com/en/enterprise-cloud@latest/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards) (en inglés) para comunicar lo que está ocurriendo en un proyecto en cualquier momento. El uso de [_pull requests_](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) (en inglés) indica una invitación para que los pares revisen el nuevo desarrollo de código u otro contenido. Gracias a una serie de plantillas reutilizables, no es necesario configurar los repositorios desde cero. Por ejemplo, se puede usar directamente una [plantilla para proyectos de investigación reproducibles](https://github.com/the-turing-way/reproducible-project-template) (en inglés).
 
@@ -463,7 +463,7 @@ Es importante establecer una referencia para cada equipo de investigación o pro
         <td>Actividades de gestión de registro (producir metadatos), depuración y mantenimiento de los datos de investigación (incluido el código de software, cuando sea necesario para interpretar los mismos) para su uso inicial y reusabilidad posterior (incluida la licencia)</td>
     </tr>
     <tr>
-        <td>Redacción - Borrador Original</td>
+        <td>Redacción - Borrador original</td>
         <td>Preparación, creación y/o presentación del trabajo publicado, específicamente la redacción del primer borrador (incluidas traducciones sustanciales)</td>
     </tr>
     <tr>
@@ -483,9 +483,9 @@ Es importante establecer una referencia para cada equipo de investigación o pro
 
 ## Cómo dar reconocimiento abierto
 
-Para reconocer abierta y justamente a todas las personas colaboradoras, se deben listar en la documentación del proyecto sus nombres junto con los tipos de contribuciones que realizaron. En los manuscritos, es una práctica común mencionar los roles de quienes han colaborado en la sección de "agradecimientos", utilizando el sistema CRedIT u otro similar, como se proporciona en la tabla anterior. Todas las personas colaboradoras deben ser alentadas a proporcionar ORCiDs asociados con sus nombres para que sean identificables.
+Para reconocer abierta y justamente a todas las personas colaboradoras, se deben listar en la documentación del proyecto sus nombres junto con los tipos de contribuciones que realizaron. En los manuscritos, es una práctica común mencionar los roles de quienes han colaborado en la sección de "agradecimientos", utilizando el sistema CRedIT u otro similar, como se proporciona en la tabla anterior. Todas las personas colaboradoras deben ser alentadas a proporcionar ORCIDs asociados con sus nombres para que sean identificables.
 
-Las declaraciones de contribución en la documentación y manuscritos pueden especificar qué hizo cada integrante en los resultados oficiales. Esto es excelente para la transparencia. También es una gran manera de protegerse contra dinámicas de poder injustas. Los detalles sobre el tipo de contribución muestran explícitamente quién trabajó en cada parte de los resultados y facilitan otorgar una autoría justa. Por ejemplo:  \*"Pierro Asara: revisión y edición (par). Kerys Jones: Conceptualización (líder); escritura – borrador original (líder); análisis formal (líder); escritura – revisión y edición (par). Elisha Roberto: Software (líder); escritura – revisión y edición (par). Hebei Wang: Metodología (líder); escritura – revisión y edición (par). Jinnie Wu: Conceptualización (apoyo); escritura – borrador original (apoyo); escritura – revisión y edición (par).
+Las declaraciones de contribución en la documentación y manuscritos pueden especificar qué hizo cada integrante en los resultados oficiales. Esto es excelente para la transparencia. También es una gran manera de protegerse contra dinámicas de poder injustas. Los detalles sobre el tipo de contribución muestran explícitamente quién trabajó en cada parte de los resultados y facilitan otorgar una autoría justa. Por ejemplo:  _"Pierro Asara: revisión y edición (par). Kerys Jones: Conceptualización (líder); escritura – borrador original (líder); análisis formal (líder); escritura – revisión y edición (par). Elisha Roberto: Software (líder); escritura – revisión y edición (par). Hebei Wang: Metodología (líder); escritura – revisión y edición (par). Jinnie Wu: Conceptualización (apoyo); escritura – borrador original (apoyo); escritura – revisión y edición (par)_.
 
 Si existe un repositorio de GitHub y un sitio web, se debería crear una página dedicada para listar y reconocer a todas las personas colaboradoras. A quienes contribuyeron de manera minoritaria al manuscrito, código o datos, podrías incluirlas como personas autoras o colaboradoras en las versiones de GitHub y Zenodo, respectivamente. Las personas que colaboran y participan, que no estén directamente involucradas en la creación de resultados de investigación, deberían tener la oportunidad de contribuir a otros Resultados Abiertos tales como presentaciones, posters, charlas, blogs, podcasts, datos, software, así como también artículos.
 
@@ -568,13 +568,13 @@ Los pasos que destacamos para lograr Resultados Abiertos no son particularmente 
 
 ## Lección 3: Evaluación
 
-Responde las siguientes preguntas para poner a prueba lo que ha aprendido hasta ahora.
+Responde las siguientes preguntas para poner a prueba lo que has aprendido hasta ahora.
 
 _Pregunta_
 
 **01/02**
 
-1. ¿A cuál de las siguientes funciones se le atribuiría más apropiadamente la condición de colaborador? Selecciona todas las que correspondan.
+¿A cuál de las siguientes funciones se le atribuiría más apropiadamente la condición de colaborador? Selecciona todas las que correspondan.
 
 - Idea original, planificación y aportes
 - Supervisión del proyecto
