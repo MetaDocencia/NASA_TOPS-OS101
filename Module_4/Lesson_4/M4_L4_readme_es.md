@@ -198,7 +198,7 @@ A modo de ejemplo, aquí te mostramos cómo asignar una licencia a un repositori
 
 Elige la licencia adecuada para compartir software de manera que cumpla con los requisitos de tu organización. Para crear una plantilla de licencia en GitHub, añade un nuevo archivo y escribe "LICENSE" (LICENCIA) en el campo de nombre, entonces aparecerá la opción "Elegir una plantilla de licencia" (en inglés _choose a license template_).
 
-<img src="../images/media/image78_es.jpg" style="width:350px;height:auto;" />
+<img src="../images/media/image78_es.png" style="width:350px;height:auto;" />
 
 Asegúrate de que tu repositorio de GitHub sea público, para que cualquiera pueda realizar búsquedas en él.
 
@@ -221,10 +221,10 @@ Pasos para esta actividad:
 1. Inicia sesión en [GitHub](https://github.com/). Si aún no lo has hecho, crea una cuenta de usuario gratuita.
 2. Crea un nuevo repositorio con este [enlace](https://github.com/new).
 3. Escribe un nombre breve y que puedas recordar para tu repositorio. Por ejemplo, "os-test".
-4. Establece como 'Pública' la visibilidad del repositorio seleccionando esta opción durante la creación del repositorio.
-5. En 'Inicializar este repositorio con:' selecciona 'Añadir un archivo README'.
-6. Selecciona cualquier licencia.
-7. Haz clic en 'Crear repositorio'.
+4. Establece como 'Pública' la visibilidad del repositorio seleccionando esta opción durante su creación.
+5. En 'Inicializar este repositorio con:' (_Initialize this repository with:_ en inglés) selecciona 'Añadir un archivo README'.
+6. Selecciona cualquier licencia con el botón (_Choose a license_ en inglés).
+7. Haz clic en 'Crear repositorio' (_Create repository_ en inglés).
 8. Se te redirigirá automáticamente a la página de tu nuevo repositorio.
 9. Ahora obtendremos un DOI de la aplicación Zenodo. Ten en cuenta que vamos a usar [https://sandbox.zenodo.org/](https://sandbox.zenodo.org/) para hacer esto. ¡Esto ofrece todas las mismas posibilidades que [https://zenodo.org](https://zenodo.org/) pero es un sitio de pruebas! Crea una cuenta gratuita si aún no lo has hecho.
 
@@ -243,12 +243,12 @@ Pasos para esta actividad:
 5. Selecciona el nombre del repositorio.
 6. Localiza y selecciona el botón que contiene 'usuario/os-test'
 
-<img src="../images/media/zenododoi6_es.jpg" style="width:100%;height:auto" />
+<img src="../images/media/zenododoi6_es.png" style="width:100%;height:auto" />
 
 7. Añade una etiqueta 'test'. Es posible que tengas que crear una nueva etiqueta para 'test' si se te solicita.
 8. Localiza y selecciona el botón 'publicar lanzamiento' (en inglés, _publish release_).
 
-<img src="../images/media/zenododoi8_es.jpg" style="width:100%;height:auto" />
+<img src="../images/media/zenododoi8_es.png" style="width:100%;height:auto" />
 
 9. Navega la página [Zenodo GitHub](https://sandbox.zenodo.org/account/settings/github/) y verifica el DOI para 'os-test'.
 10. A continuación, comparte tu DOI.
