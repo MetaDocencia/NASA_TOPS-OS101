@@ -6,7 +6,7 @@ Te damos la bienvenida a Introducción a la Ciencia Abierta: Datos Abiertos
 
 Este módulo se centra en la práctica y la aplicación de la Ciencia Abierta para los datos. Proporciona el proceso a seguir para encontrar y evaluar Datos Abiertos para su uso, para la creación de Datos Abiertos y para compartir Datos Abiertos. Los protocolos paso a paso son fáciles de seguir y pueden usarse como listas de verificación después de que completes el módulo. Algunos de los temas clave que discutimos incluyen: Planes de Gestión de Datos (PGD), el proceso de evaluación de datos para su reuso, la creación de un plan para crear datos que incluya la elección de formatos abiertos y el agregado de documentación; y las consideraciones para compartir datos y hacer a tus datos citables.
 
-### Objetivos de aprendizaje del módulo
+### Objetivos de aprendizaje
 
 Después de completar este módulo deberías ser capaz de:
 
