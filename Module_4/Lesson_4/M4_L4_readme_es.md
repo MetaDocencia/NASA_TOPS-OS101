@@ -222,7 +222,7 @@ Pasos para esta actividad:
 2. Crea un nuevo repositorio con este [enlace](https://github.com/new).
 3. Escribe un nombre breve y que puedas recordar para tu repositorio. Por ejemplo, "os-test".
 4. Establece como 'Pública' la visibilidad del repositorio seleccionando esta opción durante su creación.
-5. En 'Inicializar este repositorio con:' (_Initialize this repository with:_ en inglés) selecciona 'Añadir un archivo README'.
+5. En 'Inicializar este repositorio con:' (_Initialize this repository with:_ en inglés) selecciona 'Añadir un archivo README' (_Add a README file_ en inglés).
 6. Selecciona cualquier licencia con el botón (_Choose a license_ en inglés).
 7. Haz clic en 'Crear repositorio' (_Create repository_ en inglés).
 8. Se te redirigirá automáticamente a la página de tu nuevo repositorio.
@@ -259,7 +259,7 @@ Zenodo archiva tu repositorio y emite un nuevo DOI cada vez que creas un nuevo [
 
 ### Hacer tu código fácil de citar
 
-La información sobre cómo citar el software puede ser añadida a el README (LÉEME) u otra documentación en tu repositorio. Otro paso útil para hacer accesible la información de citas de tu repositorio es añadir un archivo CITATION (CITACIÓN) al repositorio.
+La información sobre cómo citar el software puede ser añadida a el README (LEEME) u otra documentación en tu repositorio. Otro paso útil para hacer accesible la información de citas de tu repositorio es añadir un archivo CITATION (CITACIÓN) al repositorio.
 
 ### ¿Por qué usar archivos CITATION?
 
@@ -286,7 +286,7 @@ Algunos roles podrían incluir:
 
 **¿Quién se encargará de la documentación del código?**
 
-- Escribir un archivo README (LÉEME)
+- Escribir un archivo README (LEEME)
 - Añadir comentarios explicativos al código
 
 **¿Quién ayudará con la reusabilidad del código?**
