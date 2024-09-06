@@ -88,7 +88,7 @@ Los motores de búsqueda como Google y Bing han cambiado radicalmente la forma e
   </tbody>
 </table>
 
-Las publicaciones que proporcionan algunos niveles de Acceso Abierto se rastrean en el [Directorio de Revistas de Acceso Abierto (DOAJ).](https://doaj.org/) (en inglés). 
+Las publicaciones que proporcionan algunos niveles de Acceso Abierto se rastrean en el [Directorio de Revistas de Acceso Abierto (DOAJ)](https://doaj.org/) (por sus siglas en inglés). 
 
 **Búsquedas en internet**
 
@@ -103,7 +103,7 @@ Una vez que hayas encontrado algunos artículos revisados por pares que son muy 
 - YouTube
 - Google/Bing
 - Sitios web de las conferencias (Conference websites)
-- X, conocido formalmente como Twitter
+- X, conocido como Twitter
 - Facebook
 - Medium
 - Substack
@@ -407,9 +407,9 @@ Jin, H., et al. 2023, "El color óptico de las supernovas de tipo Ib y Ic y sus 
 
 ### Ejemplos de cómo dar crédito
 
-En el ejemplo del blog de la Lección 1 [example](https://medium.com/pangeo/fake-it-until-you-make-it-reading-goes-netcdf4-data-on-aws-s3-as-zarr-for-rapid-data-access-61e33f8fe685) (en inglés), quienes investigan agradecieron a las personas con las que trabajaron en un artículo que escribieron y que les resultó de ayuda, y a dos comunidades diferentes, así como al entorno computacional en el que trabajaron. Este es un buen ejemplo de cómo agradecer: "Me gustaría agradecer a Rich Signell (USGS) y Martin Durant (Anaconda) por su ayuda en el estudio de este proceso. Si te interesa ver con más detalle cómo funciona, te recomiendo el artículo de Rich del 2020 sobre el tema. También me gustaría reconocer [Pangeo](https://pangeo.io/) y [Pangeo-forge](https://pangeo-forge.org/) quienes trabajan con mucho esfuerzo para facilitar el trabajo con grandes conjuntos de datos en geociencia. El trabajo en este proyecto se realizó en la implementación de AWS de Pangeo".
+En el [ejemplo](https://medium.com/pangeo/fake-it-until-you-make-it-reading-goes-netcdf4-data-on-aws-s3-as-zarr-for-rapid-data-access-61e33f8fe685) del blog de la Lección 1 (en inglés), quienes investigan agradecieron a las personas con las que trabajaron en un artículo que escribieron y que les resultó de ayuda, y a dos comunidades diferentes, así como al entorno computacional en el que trabajaron. Este es un buen ejemplo de cómo agradecer: "Me gustaría agradecer a Rich Signell (USGS) y Martin Durant (Anaconda) por su ayuda en el estudio de este proceso. Si te interesa ver con más detalle cómo funciona, te recomiendo el artículo de Rich del 2020 sobre el tema. También me gustaría reconocer [Pangeo](https://pangeo.io/) y [Pangeo-forge](https://pangeo-forge.org/) quienes trabajan con mucho esfuerzo para facilitar el trabajo con grandes conjuntos de datos en geociencia. El trabajo en este proyecto se realizó en la implementación de AWS de Pangeo".
 
-En la Lección 1, se presentó el caso de JWST. El [artículo](https://www.nature.com/articles/s41586-022-05269-w#Ack1) (en inglés) revisado por pares  que informaba del primer descubrimiento de CO2 en otro planeta ha sido consultada más de 23.000 veces. Cabe señalar que la autoría se atribuye a todo el equipo. La sección de Agradecimientos detalla debidamente las contribuciones de quienes colaboraron, "Los resultados informados aquí se beneficiaron durante la fase de diseño de colaboraciones e intercambios dentro de la red de coordinación de investigación Nexus for Exoplanet System Science (NExSS) de la NASA, patrocinada por la Dirección de Misiones Científicas de la NASA". Todos los datos y modelos presentados en esta publicación pueden consultarse en [https://doi.org/10.5281/zenodo.6959427](https://doi.org/10.5281/zenodo.6959427). Y por último, ¡citan todo el software! "Los códigos utilizados en esta publicación para extraer, reducir y analizar los datos son los siguientes.."
+En la Lección 1, se presentó el caso de JWST. El [artículo](https://www.nature.com/articles/s41586-022-05269-w#Ack1) (en inglés) revisado por pares que informaba del primer descubrimiento de CO2 en otro planeta ha sido consultada más de 23.000 veces. Cabe señalar que la autoría se atribuye a todo el equipo. La sección de Agradecimientos detalla debidamente las contribuciones de quienes colaboraron, "Los resultados informados aquí se beneficiaron durante la fase de diseño de colaboraciones e intercambios dentro de la red de coordinación de investigación Nexus for Exoplanet System Science (NExSS) de la NASA, patrocinada por la Dirección de Misiones Científicas de la NASA". Todos los datos y modelos presentados en esta publicación pueden consultarse en [https://doi.org/10.5281/zenodo.6959427](https://doi.org/10.5281/zenodo.6959427). Y por último, ¡citan todo el software! "Los códigos utilizados en esta publicación para extraer, reducir y analizar los datos son los siguientes.."
 
 ## Lección 2: Resumen
 
