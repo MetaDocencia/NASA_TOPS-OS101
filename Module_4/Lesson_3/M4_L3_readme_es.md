@@ -20,7 +20,7 @@ Al completar la lección, deberías ser capaz de:
 
 - Describir las consideraciones clave al planificar un nuevo proyecto de software abierto.
 - Enumerar tres razones por las que los proyectos deberían usar control de versiones.
-- Explicar el propósito y recordar información general típicamente incluida en un archivo LEEME.
+- Explicar el propósito y recordar información general típicamente incluida en un archivo README (LEEME).
 - Ser capaz de seleccionar una licencia para tu código y listar las diferencias entre licencias de software de Código Abierto permisivas y protectoras.
 - Explicar las buenas prácticas en el desarrollo de software que apoyan la transparencia, la inclusión y la reproducibilidad.
 
@@ -126,7 +126,7 @@ El control de versiones es una buena práctica para programar, incluso si no se 
 
 La primera parada para un usuario cuando se acerque a un nuevo proyecto debería ser el archivo LEEME. Acertadamente llamado así, este archivo contiene información orientativa que ayudará al usuario a comprender el propósito de un proyecto, ofrece ejemplos de cómo puede usarse y enumera otra información importante que el creador considere pertinente.
 
-Como mínimo, un archivo LEEME debería contener el nombre del proyecto y un párrafo muy corto de lo que es el software. Dos o tres frases en un estilo sencillo que no presuponga quién lo lee. Es el discurso de ascenso para el proyecto.
+Como mínimo, un archivo README (LEEME) debería contener el nombre del proyecto y un párrafo muy corto de lo que es el software. Dos o tres frases en un estilo sencillo que no presuponga quién lo lee. Es el discurso de ascenso para el proyecto.
 
 |                                         |                                                                                                                                                                                                                                                                                                                |
 | --------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -236,7 +236,7 @@ _Haz clic en '+' para ver más información._
 
 Cualquier persona puede usarlo libremente.
 
-**"Licencia Pública General Reducida**
+**Licencia Pública General Reducida**
 
 Puede vincularse a bibliotecas de Código Abierto, y el código puede ser licenciado bajo cualquier tipo de licencia.
 
@@ -258,7 +258,7 @@ No se puede copiar, modificar ni distribuir.
 
 ---
 
-Antes de elegir una licencia, consulta primero con tu organización o quien te emplea. Pueden tener pautas específicas acerca de qué licencia de software es la que puedes usar. Tu subsidio de investigación también puede estipular los tipos de licencia permitidos. El plan de gestión de software debe especificar qué licencia planeas usar.
+Antes de elegir una licencia, consulta primero con tu organización o quien te emplea. Pueden tener pautas específicas acerca de qué licencia de software es la que puedes usar. Tu subsidio de investigación también puede estipular los tipos de licencia permitidos. El Plan de Gestión de Software debe especificar qué licencia planeas usar.
 
 Si una licencia no es compartida con un código, se asume por defecto que está protegido por derechos de autoría en los Estados Unidos (https://www.copyright.gov/help/faq/faq-general.html). No necesita ser registrado, y se asume que está automáticamente protegido por derechos de autoría en el momento en que se crea.
 
@@ -465,7 +465,7 @@ El principal objetivo de las pruebas de código es evaluar si un código hace lo
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Las pruebas integradas generalmente se pueden ejecutar tanto de forma manual como automática. La mayoría de las plataformas de control de versiones ofrecen servicios para ejecutar pruebas automáticamente. Cuando se ejecuta de esta manera, se puede verificar el código para ver si los cambios generan algún problema. Este proceso de verificar el código automáticamente a medida que se desarrolla se llama desarrollo continuo o integración continua (CI/CD). Si un pequeño cambio realizado en una parte del código da como resultado un cambio inesperado en otra parte, la ejecución de las pruebas lo descubrirá inmediatamente.</p>
+            <p>Las pruebas integradas generalmente se pueden ejecutar tanto de forma manual como automática. La mayoría de las plataformas de control de versiones ofrecen servicios para ejecutar pruebas automáticamente. Cuando se ejecuta de esta manera, se puede verificar el código para ver si los cambios generan algún problema. Este proceso de verificar el código automáticamente a medida que se desarrolla se llama desarrollo continuo o integración continua (CI/CD, por sus siglas en inglés). Si un pequeño cambio realizado en una parte del código da como resultado un cambio inesperado en otra parte, la ejecución de las pruebas lo descubrirá inmediatamente.</p>
         </td>
     </tr>
   </tbody>
@@ -475,7 +475,7 @@ El principal objetivo de las pruebas de código es evaluar si un código hace lo
 
 Ya sea que se use software de código abierto, de código cerrado o comercial, es importante considerar los riesgos de seguridad inherentes al desarrollo de software.
 
-- Asegúrate de que haya un código mínimo y DRY (no lo repita) (más fácil de mantener y reparar).
+- Asegúrate de que el código sea mínimo, sin partes repetidas (más fácil de mantener y reparar).
 - Usa variables globales o administradores de claves para las credenciales. Nunca incluyas credenciales en tu código.
 - Usa dependencias bien probadas y mantenidas. En los paquetes que mantiene, mantén actualizada la lista de dependencias.
 - Crea software con herramientas que proporcionen escaneo y auditoría automatizados.
@@ -607,9 +607,9 @@ Aquí hay algunas sugerencias adicionales sobre cómo hacer que tu código sea m
 
 En esta lección has aprendido:
 
-- La planificación de un nuevo proyecto requiere que los programadores tengan un propósito claramente definido, reconozcan cualquier limitación de recursos y prevean un plan de gestión de datos.
+- La planificación de un nuevo proyecto requiere que los programadores tengan un propósito claramente definido, reconozcan cualquier limitación de recursos y prevean un Plan de Gestión de Datos.
 - El uso de un repositorio con control de versiones permite a los desarrolladores hacer un seguimiento de los cambios a lo largo del tiempo y de los múltiples colaboradores, lo que puede ayudar a solucionar errores y a gestionar un equipo de programadores.
-- Un archivo LEEME debe incluir el nombre del proyecto y una descripción breve pero clara del software.
+- Un archivo README (LEEME) debe incluir el nombre del proyecto y una descripción breve pero clara del software.
 - Las licencias aseguran que las personas que desarrollan el software reciben crédito y control sobre cómo se usa su trabajo. Sin licencia, se supone que el software tiene derechos de autor y no tiene permisos
 - La realización de pruebas, etiquetar y aplicar medidas de seguridad son ejemplos de buenas prácticas de programación que favorecen la Ciencia Abierta.
 
@@ -645,7 +645,7 @@ _Pregunta_
 
 **03/05**
 
-Selecciona de la siguiente lista dos elementos que serían buenos incluir en un archivo LEEME:
+Selecciona de la siguiente lista dos elementos que serían buenos incluir en un archivo README (LEEME):
 
 - Instrucciones de instalación/compilación
 - Historial de desarrollo de código
