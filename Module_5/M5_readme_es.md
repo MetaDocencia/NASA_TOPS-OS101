@@ -56,7 +56,7 @@ Estos términos clave son importantes para el módulo. Selecciona el término pa
 - [Lección 2: Resumen](./Lesson_2#lecci%C3%B3n-2-resumen)
 - [Lección 2: Evaluación](./Lesson_2#lecci%C3%B3n-2-evaluaci%C3%B3n)
 
-### [Lección 3: Creando Resultados Abiertos](./Lesson_3)
+### [Lección 3: Haciendo Resultados Abiertos](./Lesson_3)
 
 - [Cómo hacer Resultados Abiertos](./Lesson_3#c%C3%B3mo-hacer-resultados-abiertos)
 - [El rol de las personas colaboradoras en la Ciencia Abierta](./Lesson_3#el-rol-de-las-personas-colaboradoras-en-la-ciencia-abierta)
