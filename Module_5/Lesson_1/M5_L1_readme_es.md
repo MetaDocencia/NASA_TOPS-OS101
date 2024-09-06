@@ -251,7 +251,7 @@ Empecemos a pensar en lo que podemos hacer inmediatamente, para avanzar hacia un
 
 ## Lección 1: Evaluación
 
-Responde a las siguientes preguntas poner a prueba lo que has aprendido hasta ahora.
+Responde las siguientes preguntas para poner a prueba lo que has aprendido hasta ahora.
 
 _Pregunta_
 
