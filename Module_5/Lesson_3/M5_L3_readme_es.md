@@ -1,4 +1,4 @@
-# Lección 3: Creando Resultados Abiertos
+# Lección 3: Haciendo Resultados Abiertos
 
 ## Contenidos
 
