@@ -23,14 +23,14 @@ Al finalizar esta lección deberías ser capaz de:
 
 ## Escribir un Plan de Gestión de Datos y de Ciencia Abierta
 
-El proceso, las responsabilidades y los factores a considerar al crear un Plan de Gestión de Datos y de Ciencia Abierta se han presentado a lo largo de este módulo. Los elementos comunes a todos los Planes de Gestión de Datos (PGD) relevantes para Datos Abiertos incluyen una descripción teniendo en cuenta lo siguiente:
+El proceso, las responsabilidades y los factores a considerar al crear un Plan de Ciencia Abierta y Gestión de Datos se han presentado a lo largo de este módulo. Los elementos comunes a todos los Planes de Gestión de Datos (PGD) relevantes para Datos Abiertos incluyen una descripción teniendo en cuenta lo siguiente:
 
 |          |                                                                                                    |
 | -------- | -------------------------------------------------------------------------------------------------- |
 | ¿Qué?    | Formato y (si es relevante) estándares de datos                                 |
 | ¿Cuándo? | Cuándo compartir datos y si hacerlo                                                                    |
 | ¿Dónde?  | Los repositorios destinados a datos archivados                                                     |
-| ¿Cómo?   | Cómo permite el plan el reuso de los datos                                                 |
+| ¿Cómo?   | Cómo permite el plan el reúso de los datos                                                 |
 | ¿Quién?  | Roles y responsabilidades de las personas que forman parte del equipo en la implementación del PGD |
 
 Dos excelentes sitios para comenzar son [https://dmptool.org/](https://dmptool.org/) y [https://dmponline.dcc.ac.uk/](https://dmponline.dcc.ac.uk/). Deberás crearte una cuenta gratuita para usar estas herramientas, pero ambos sitios guían a quienes investigan a través de los pasos para escribir un PGD. Existen algunas plantillas de PGD almacenadas dentro de las herramientas, como la [plantilla de PGD de la NASA](https://science.nasa.gov/researchers/templates-planetary-science-division-appendix-c-roses-proposals/).
@@ -48,7 +48,7 @@ Responde a las siguientes preguntas en el PGD:
 1. ¿Cuál es el formato de los datos y (si es relevante) sus estándares?
 2. ¿Cuándo se pueden compartir los datos?
 3. ¿Dónde se van a almacenar los datos o qué repositorios se van a utilizar para ello?
-4. ¿Cómo facilita el plan el reuso de los datos?
+4. ¿Cómo facilita el plan el reúso de los datos?
 5. Quién: Roles y responsabilidades de quienes forman parte del equipo para la implementación del PGD.
 
 ## Las comunidades de Datos Abiertos y tú
@@ -205,7 +205,7 @@ _Pregunta_
 - Por qué: ¿Por qué se ha utilizado un modelo de Plan de Gestión de Datos en línea?
 - Dónde: ¿Dónde se van a almacenar los datos o qué repositorios se van a utilizar para ello?
 - Cuáles: ¿En qué comunidades de datos participas?
-- Cómo: ¿Cómo el plan facilita el reuso de los datos?
+- Cómo: ¿Cómo el plan facilita el reúso de los datos?
 - Quién: ¿Cuáles son los roles y las responsabilidades de las personas que participan del equipo en la implementación del PGD?
 
 _Pregunta_
@@ -224,7 +224,7 @@ _Pregunta_
 
 ¡Felicitaciones! Ahora que has completado el módulo, deberías poder hacer lo siguiente:
 
-- Explicar qué significan los Datos Abiertos, sus ventajas y cómo se utilizan los principios FAIR.
-- Descubrir Datos Abiertos, evaluar los datos para su reutilización mediante la evaluación de la documentación proporcionada y citar los datos según las instrucciones.
-- Implementar un Plan de Gestión de Datos Abiertos, seleccionar formatos de Datos Abiertos, agregar la documentación necesaria, incluyendo metadatos, archivos README y control de versiones, para hacer a los datos reutilizables y fáciles de encontrar.
-- Evaluar si tus datos deben y pueden ser compartidos, y utilizar el proceso de accesibilidad de datos, incluida la incorporación de un DOI e instrucciones de citación para que puedan encontrarse y citarse.
+- Explicar qué significan los Datos Abiertos, sus ventajas y cómo se usan los principios FAIR.
+- Descubrir Datos Abiertos, evaluar los datos para su reúso mediante la evaluación de la documentación proporcionada y citar los datos según las instrucciones.
+- Implementar un Plan de Gestión de Datos Abiertos, seleccionar formatos de Datos Abiertos, agregar la documentación necesaria, incluyendo metadatos, archivos README (LEEME) y control de versiones, para hacer a los datos reusables y fáciles de encontrar.
+- Evaluar si tus datos deben y pueden ser compartidos, y usar el proceso de accesibilidad de datos, incluida la incorporación de un DOI e instrucciones de citación para que puedan encontrarse y citarse.

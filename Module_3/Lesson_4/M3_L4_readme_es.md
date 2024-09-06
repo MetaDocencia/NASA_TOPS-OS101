@@ -4,14 +4,14 @@
 
 - [Cuándo compartir los datos y si hacerlo](#cu%C3%A1ndo-compartir-los-datos-y-si-hacerlo)
 - [Dónde compartir datos](#d%C3%B3nde-compartir-datos)
-- [Cómo habilitar el reuso de datos](#%C3%B3-habilitar-el-reuso-de-datos)
+- [Cómo habilitar el reúso de datos](#%C3%B3-habilitar-el-re%C3%BAso-de-datos)
 - [Quién es responsable de compartir Datos](#qui%C3%A9n-es-responsable-de-compartir-datos)
 - [Lección 4: Resumen](#lecci%C3%B3n-4-resumen)
 - [Lección 4: Evaluación](#lecci%C3%B3n-4-evaluaci%C3%B3n)
 
 ## Descripción general 
 
-En esta lección aprenderás cómo compartir tus datos. La discusión comienza con una revisión del proceso de compartir y evaluar si tus datos pueden compartirse. Luego, se analizará como garantizar que tus datos sean accesibles viendo más de cerca los repositorios y el ciclo de vida de la accesibilidad de los datos, desde la selección de un repositorio hasta el mantenimiento y archivo de tus datos. La lección luego aborda algunos pasos para hacer los datos lo más reusables posible y concluye con una sección sobre la definición de quién ayudará con el proceso de compartir los datos.
+En esta lección aprenderás cómo compartir tus datos. La discusión comienza con una revisión del proceso de compartir y evaluar si tus datos pueden compartirse. Luego, se analizará cómo garantizar que tus datos sean accesibles viendo más de cerca los repositorios y el ciclo de vida de la accesibilidad de los datos, desde la selección de un repositorio hasta el mantenimiento y archivo de tus datos. La lección luego aborda algunos pasos para hacer los datos lo más reusables posible y concluye con una sección sobre la definición de quién ayudará con el proceso de compartir los datos.
 
 ## Objetivos de aprendizaje
 
@@ -23,7 +23,7 @@ Al finalizar esta lección deberías ser capaz de:
 
 ## Descripción general del proceso de compartir datos
 
-Compartir datos es una parte crítica de mejorar la reproducibilidad de los resultados. Tanto si se trata de datos nuevos que recolectamos por nuestra parte como datos que procesamos para hacer nuestro análisis, terminamos compartiendo algún tipo de dato. Tenemos que pensar qué datos vamos a compartir y cuál es la mejor manera de asegurar que será de forma abierta y utilizable por otras personas.
+Compartir datos es una parte crítica de mejorar la reproducibilidad de los resultados. Tanto si se trata de datos nuevos que recolectamos por nuestra parte como datos que procesamos para hacer nuestro análisis, terminamos compartiendo algún tipo de dato. Tenemos que pensar qué datos vamos a compartir y cuál es la mejor manera de asegurar que será de forma abierta y usable por otras personas.
 
 Generalmente, el intercambio de datos debe hacerse a través de un centro de datos estable o un repositorio que será responsable de ingestar, curar y distribuir/publicar tus Datos Abiertos. Tú eres responsable de proporcionar información/metadatos para ayudar a que tus datos sean fáciles de encontrar, acceder y citar. También debes considerar el costo de archivar y publicar los datos.
 
@@ -36,7 +36,7 @@ Una vez que hayas decidido compartir tus datos, hay una serie de preguntas que t
 | ¿Qué?    | Formato y (si es relevante) estándares de datos                                 |
 | ¿Cuándo? | Cuándo compartir datos y si hacerlo                                                                    |
 | ¿Dónde?  | Los repositorios destinados a datos archivados                                                     |
-| ¿Cómo?   | Cómo permite el plan el reuso de los datos                                                 |
+| ¿Cómo?   | Cómo permite el plan el reúso de los datos                                                 |
 | ¿Quién?  | Roles y responsabilidades de las personas que forman parte del equipo en la implementación del PGD |
 
 En esta lección, explicaremos algunos pasos hacia la obtención de datos. Específicamente, nos enfocaremos en las secciones "cuándo", "dónde", "cómo" y "quién" de un PGD.
@@ -60,7 +60,7 @@ A veces, puede que trabajes con un repositorio bien preparado que maneje muchos 
 
 La decisión de cuándo compartir datos debería discutirse con todas las personas del equipo y documentarse en el Plan de Gestión de Datos. Las agencias de financiamiento y organizaciones pueden tener requerimientos específicos de cuándo deben compartirse los datos, pero aquí te animamos a pensar si es posible compartir tus datos antes de que te lo exija tu espónsor. Hay distintos momentos en que los datos pueden ser compartidos:
 
-- Compartir de forma anticipada: Compartir al momento de la recolección o poco después. Algunas agencias de financiamiento requieren que así sea o permiten un pequeño período de "embargo", pero normalmente se requiere una razón (control de calidad, calibración, etc). Esto maximiza la reutilización de los datos y el impacto, y puede resultar en un aumento de colaboraciones.
+- Compartir de forma anticipada: Compartir al momento de la recolección o poco después. Algunas agencias de financiamiento requieren que así sea o permiten un pequeño período de "embargo", pero normalmente se requiere una razón (control de calidad, calibración, etc). Esto maximiza el reúso de los datos y el impacto, y puede resultar en un aumento de colaboraciones.
 - Compartir de forma intermedia: Al tiempo de la publicación. Muchas revistas (y algunas agencias de financiamiento) requieren compartir los datos necesarios para replicar los resultados al momento de la publicación.
 - Compartir de forma mínima: Fin del subsidio. Todos los datos científicamente relevantes deben ser compartidos para el final del subsidio de investigación.
 - No compartir: Hay muchos motivos por los que los datos pueden ser restringidos o no compartidos en absoluto.
@@ -146,9 +146,9 @@ La Casa Blanca presenta una buena descripción general de las características d
 Los buenos repositorios compartirán (u ofrecerán) los Datos Abiertos a través de protocolos estándar, como HTTPS o SFTP. Las formas más habituales de hacerlo son:
 
 - Permitir a las personas usuarias la posibilidad de ver una lista de archivos en los que pueden hacer clic y descargar a través de una interfaz intuitiva.
-- Crear una Interfaz de Programación de Aplicaciones (en inglés, _Application Programming Interface, API_) documentada para que quienes utilizan la herramienta generen una lista de enlaces de archivos que cumplan con los criterios de búsqueda y que se puedan descargar de forma automatizada (es decir, acceso a datos de máquina a máquina).
+- Crear una Interfaz de Programación de Aplicaciones (en inglés, _Application Programming Interface, API_) documentada para que quienes usan la herramienta generen una lista de enlaces de archivos que cumplan con los criterios de búsqueda y que se puedan descargar de forma automatizada (es decir, acceso a datos de máquina a máquina).
 
-Adicionalmente, los repositorios pueden requerir autorización y autentificación (por ejemplo, iniciar sesión con nombre de usuario/contraseñas) para acceder a los datos. Si bien esto está permitido según los principios FAIR (Fácil de encontrar, Accesible, Interoperable y Reutilizable), puede violar los principios de la Ciencia Abierta si no todas las personas pueden registrarse.
+Adicionalmente, los repositorios pueden requerir autorización y autentificación (por ejemplo, iniciar sesión con nombre de usuario/contraseñas) para acceder a los datos. Si bien esto está permitido según los principios FAIR (Fácil de encontrar, Accesible, Interoperable y Reusable), puede violar los principios de la Ciencia Abierta si no todas las personas pueden registrarse.
 
 ### Trabajar con un repositorio
 
@@ -164,10 +164,10 @@ Adicionalmente, los repositorios pueden requerir autorización y autentificació
     <tr>
         <td colspan="3">
             <p>Los requisitos del repositorio pueden variar ampliamente. Revisa siempre los requisitos del repositorio para ver qué acciones necesitas llevar a cabo una vez que consideres empezar a trabajar con ellos. También ten en cuenta que algunos repositorios cuentan con personal que ayuda con el proceso de compartir datos, mientras que otros dependen de que sepas cómo compartir tus propios datos.</p>
-            <p>Si utilizas un repositorio que tiene personal para ayudarte con el proceso, podrían solicitar revisar y comentar tu Plan de Gestión de Datos.</p>
+            <p>Si usas un repositorio que tiene personal para ayudarte con el proceso, podrían solicitar revisar y comentar tu Plan de Gestión de Datos.</p>
             <p>El repositorio puede solicitar que realices algunas pruebas de tu muestra de datos para evaluar:</p>
             <ul>
-            <li>Que el formato de datos que pretendes utilizar sea compatible.</li>
+            <li>Que el formato de datos que pretendes usar sea compatible.</li>
             <li>Que las variables del conjunto de datos estén nombradas como se espera.</li>
             <li>Que el vocabulario de metadatos sea correcto.</li>
             <li>Que se cumplan los requisitos específicos del repositorio.</li>
@@ -189,8 +189,8 @@ Adicionalmente, los repositorios pueden requerir autorización y autentificació
   <tbody>
     <tr>
         <td colspan="3">
-            <p>A medida que avanzas en el ciclo de vida de tu proyecto, utiliza los procesos de actualización, revisión y reenvío de tu repositorio para mantener actualizados los productos de datos archivados. Cualquier nueva versión de los datos que desees compartir a través del repositorio tendrá que pasar por un proceso similar al del conjunto de datos inicial.</p>
-            <p>Todas las nuevas versiones del conjunto de datos que quieras compartir a través del repositorio deben someterse al mismo proceso de revisión del Plan de Gestión de Datos (PGD), verificación de cumplimiento y procedimiento de carga que el conjunto de datos inicial.</p>
+            <p>A medida que avanzas en el ciclo de vida de tu proyecto, usa los procesos de actualización, revisión y reenvío de tu repositorio para mantener actualizados los productos de datos archivados. Cualquier nueva versión de los datos que desees compartir a través del repositorio tendrá que pasar por un proceso similar al del conjunto de datos inicial.</p>
+            <p>Todas las nuevas versiones del conjunto de datos que quieras compartir a través del repositorio deben someterse al mismo proceso de revisión del PGD, verificación de cumplimiento y procedimiento de carga que el conjunto de datos inicial.</p>
         </td>
     </tr>
   </tbody>
@@ -215,7 +215,7 @@ Adicionalmente, los repositorios pueden requerir autorización y autentificació
   </tbody>
 </table>
 
-## Cómo habilitar el reuso de datos
+## Cómo habilitar el reúso de datos
 
 ### Obtener un DOI
 
@@ -225,7 +225,7 @@ Por lo general, las personas no pueden solicitar un identificador de objeto digi
 - Tu organización
 - Quien realiza la edición (si el conjunto de datos es parte de una publicación)
 
-Las personas responsables de los datos deberán facilitar información resumida para la página de inicio de DOI, si es necesario. Quiénes comparten datos deben tener en cuenta las sugerencias de quienes se responsabilizan por los datos, cumplir las reglas de DOI y así crear las páginas de destino. Si es posible, debes reservar una DOI antes de generar tus datos.
+Las personas responsables de los datos deberán facilitar información resumida para la página de inicio de DOI, si es necesario. Quiénes comparten datos deben tener en cuenta las sugerencias de quienes se responsabilizan por los datos, cumplir las reglas de DOI y así crear las páginas de destino. Si es posible, debes reservar un DOI antes de generar tus datos.
 
 ### Garantizar la facilidad de búsqueda
 
@@ -252,7 +252,7 @@ Ahora que tus datos están en un repositorio y tienen una referencia de cita y u
 
 Compartir datos abiertamente es un esfuerzo en equipo. Una parte importante de la planificación de los Datos Abiertos es planear y acordar las funciones y responsabilidades de quien garantizará la implementación del plan.
 
-Entonces, ¿qué hay que hacer? ¡Documentar estos roles y responsabilidades en tu Plan de Gestión de Datos ayudará al equipo a a mantenerse organizado y hacer ciencia más rápido! Un plan detallado y bien redactado debiera incluir:
+Entonces, ¿Qué hay que hacer? ¡Documentar estos roles y responsabilidades en tu Plan de Gestión de Datos ayudará al equipo a a mantenerse organizado y hacer ciencia más rápido! Un plan detallado y bien redactado debiera incluir:
 
 ### ¿Quién se encargará de almacenar los datos en un repositorio?
 
@@ -265,16 +265,16 @@ Una vez que estés en condiciones de enviar tus datos al repositorio, busca las 
 
 ### ¿Quién desarrollará la documentación de los datos y los metadatos?
 
-Determina quién trabajará con el repositorio, haga un inventario de los datos transferidos, los metadatos y la documentación. Esta función podría incluir la tarea de completar los metadatos requeridos en las bases de datos para que los archivos sean fáciles de encontrar.
+Determina quién trabajará con el repositorio, haz un inventario de los datos transferidos, los metadatos y la documentación. Esta función podría incluir la tarea de completar los metadatos requeridos en las bases de datos para que los archivos sean fáciles de encontrar.
 
 Es posible que algunas de estas tareas se puedan realizar a través de la interfaz del repositorio. Sin embargo, algunos tipos de repositorios pueden requerir que se interactúe con sus equipos de administración. Para este rol, el equipo debe determinar quién:
 
 - Proporcionará sugerencias para organizar el contenido de datos y logística.
 - Desarrollará los metadatos.
-- Desarrollará la documentación (por ejemplo, el archivo README o el reporte)
+- Desarrollará la documentación (por ejemplo, el archivo README (LEEME) o el reporte)
 - Extraerá metadatos de los archivos de datos, archivos de metadatos (si corresponde) y documentación para completar la base de datos de metadatos, y solicitará metadatos adicionales según sea necesario.
 
-### ¿Quién ayudará con el reuso de los datos?
+### ¿Quién ayudará con el reúso de los datos?
 
 Una vez que el repositorio haya puesto tus datos a disposición, alguien de tu equipo debe probar el acceso a los datos (su accesibilidad) y los métodos de distribución (su disponibilidad). Si es posible, se debe identificar quién trabajará con el repositorio para optimizar o modificar herramientas para un acceso humano intuitivo y estandarizar el acceso de máquinas. Este rol requiere alguien que:
 
@@ -297,7 +297,7 @@ Conclusiones principales de esta lección:
 
 - ¿Cuándo se pueden compartir los datos? Determinar en qué punto de un proyecto tiene más sentido compartir nuestros datos. Recordar que no todos los datos pueden o deben compartirse.
 - ¿Dónde compartir los datos? Se recomienda compartirlos en un repositorio de datos público, hay muchos tipos de repositorios para elegir.
-- ¿Cómo permitir la reutilización de los datos? Asegúrate de que los metadatos sean apropiados y aceptados por la comunidad, asigna un DOI y elabora una referencia de citación para garantizar que se pueda encontrar y citar fácilmente.
+- ¿Cómo permitir el reúso de los datos? Asegúrate de que los metadatos sean apropiados y aceptados por la comunidad, asigna un DOI y elabora una referencia de citación para garantizar que se pueda encontrar y citar fácilmente.
 - ¿Quién ayuda a compartir los datos? Hay muchos pasos en la creación y publicación de datos, es importante pensar en quién será responsable de cada paso.
 
 ## Lección 4: Evaluación
@@ -310,7 +310,7 @@ _Pregunta_
 
 Los datos no se pueden compartir si son:
 
-- Controlados por ITAR (Reculación Internacional de Tráfico de Armas).
+- Controlados por ITAR (Regulación Internacional de Tráfico de Armas).
 - Información no clasificada controlada.
 - Sujeto a cuestiones de propiedad intelectual, derechos de autoría y licencias.
 - Todas las anteriores.
@@ -319,7 +319,7 @@ _Pregunta_
 
 **02/04**
 
-Selecciona la opción que considera correcta para completar la oración.
+Selecciona la opción que consideras correcta para completar la oración.
 
 Es una buena práctica empezar a trabajar con un repositorio _____.
 

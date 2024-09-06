@@ -17,7 +17,7 @@ En esta lección aprenderás a descubrir, evaluar y citar un conjunto de Datos A
 
 Al finalizar esta lección deberías ser capaz de:
 
-- Seleccionar fuentes de datos y utilizar técnicas de búsqueda para descubrir Datos Abiertos.
+- Seleccionar fuentes de datos y usar técnicas de búsqueda para descubrir Datos Abiertos.
 - Evaluar si un conjunto de datos incorpora elementos de Acceso Abierto que garantizan que sean fácilmente reusados.
 - Explicar la importancia de citar Datos Abiertos, y encontrar y seguir las instrucciones de citación.
 
@@ -25,17 +25,17 @@ Al finalizar esta lección deberías ser capaz de:
 
 Los Datos Abiertos no siempre son fáciles de usar en tu investigación. A veces hay varias versiones del mismo conjunto de datos, así que aprender a descubrir y evaluar y luego usar los Datos Abiertos te ayudará a ahorrar tiempo.
 
-Como ejemplo, veamos los datos mensuales promedio de dióxido de carbono del Observatorio "Mauna Loa" en Hawaii. Se trata de un conjunto de datos fundacionales para el cambio climático. No sólo es uno de los primeros conjuntos de datos de observación que claramente mostraron impactos antropogénicos en la atmósfera de la Tierra, sino que también constituye el registro más largo de mediciones directas de dióxido de carbono en la atmósfera. Estas observaciones fueron iniciadas por el trabajo de C. David Keeling de la Institución de Oceanografía "Scripps" en marzo de 1958 en una instalación de la Administración Nacional Oceanica y Atmosférica \[Keeling, 1976\].
+Como ejemplo, veamos los datos mensuales promedio de dióxido de carbono del Observatorio "Mauna Loa" en Hawaii. Se trata de un conjunto de datos fundacionales para el cambio climático. No sólo es uno de los primeros conjuntos de datos de observación que claramente mostraron impactos antropogénicos en la atmósfera de la Tierra, sino que también constituye el registro más largo de mediciones directas de dióxido de carbono en la atmósfera. Estas observaciones fueron iniciadas por el trabajo de C. David Keeling de la Institución de Oceanografía "Scripps" en marzo de 1958 en una instalación de la Administración Nacional Oceánica y Atmosférica \[Keeling, 1976\].
 
 <img src="../images/media/image19_es.jpg" style="width:100%;height:auto;" />
 
-Si deseas hacer este gráfico tú mismo, o utilizar los datos para algún otro fin, primero deberás encontrar los datos. Si buscas este conjunto de datos, o cualquier dato, es posible que encuentres varias fuentes diferentes. ¿Cómo decides qué datos usar?
+Si deseas hacer este gráfico tú mismo, o usar los datos para algún otro fin, primero deberás encontrar los datos. Si buscas este conjunto de datos, o cualquier dato, es posible que encuentres varias fuentes diferentes. ¿Cómo decides qué datos usar?
 
 Si comienzas con Google y buscas "datos de dióxido de carbono de Mauna Loa", encontrarás muchos resultados. Aquí se presentan algunos de ellos:
 
 <img src="../images/media/image20_es.png" style="width:100%;height:auto;" />
 
-¿Cómo decidirás cuál utilizar? En esta lección cubriremos cómo encontrar, evaluar la relevancia y utilizar Datos Abiertos.
+¿Cómo decidirás cuál usar? En esta lección cubriremos cómo encontrar, evaluar la relevancia y usar Datos Abiertos.
 
 ---
 
@@ -65,9 +65,9 @@ Los conjuntos de datos a menudo se adjuntan a publicaciones especializadas en fo
 
 ### Portales de búsqueda de datos
 
-Los datos también se pueden encontrar utilizando una amplia variedad de portales de búsqueda, incluyendo:
+Los datos también se pueden encontrar usando una amplia variedad de portales de búsqueda, incluyendo:
 
-_Seleccione cualquier pestaña para obtener más información._
+_Selecciona cada pestaña para obtener más información._
 
 <table>
   <thead>
@@ -156,7 +156,7 @@ Una forma común de compartir y encontrar Datos Abiertos es a través de reposit
 
 Ten en cuenta que algunos de nuestros portales de búsqueda de ejemplo también son repositorios, pero no siempre. Algunos de los portales de búsqueda son simplemente catálogos de información sobre los datos, en lugar de ubicaciones de almacenamiento de los datos.
 
-_Seleccione cada pestaña para obtener más información._
+_Selecciona cada pestaña para obtener más información._
 
 <table>
   <thead>
@@ -273,7 +273,7 @@ Unir el tipo de repositorio con la definición correcta.
 
 <img src="../images/media/image24_es.png" style="width:100%;height:auto;" />
 
-El uso de Datos Abiertos para un proyecto depende de una serie de factores, como la calidad de los datos, las condiciones de acceso y reutilización, la facilidad para encontrar los datos, etc. Algunos elementos esenciales para evaluar la pertinencia y utilidad de los conjuntos de datos son (adaptado del [curso GODAN Action Open Data (en inglés)](https://aims.gitbook.io/open-data-mooc/unit-3-using-open-data/lesson-2.2-quality-and-provenance)):
+El uso de Datos Abiertos para un proyecto depende de una serie de factores, como la calidad de los datos, las condiciones de acceso y reúso, la facilidad para encontrar los datos, etc. Algunos elementos esenciales para evaluar la pertinencia y utilidad de los conjuntos de datos son (adaptado del [curso GODAN Action Open Data (en inglés)](https://aims.gitbook.io/open-data-mooc/unit-3-using-open-data/lesson-2.2-quality-and-provenance)):
 
 **Preguntas prácticas**
 
@@ -292,9 +292,9 @@ El uso de Datos Abiertos para un proyecto depende de una serie de factores, como
 - ¿Se dispone de los datos desde una ubicación consistente?
 - ¿Están los datos bien estructurados y pueden ser leídos de manera automatizada?
 - ¿Se describen los términos y acrónimos complejos que aparecen en los datos?
-- ¿Utilizan los datos un esquema o estándar de datos?
+- ¿Usan los datos un esquema o estándar de datos?
 - ¿Hay alguna API disponible para acceder a los datos?
-- ¿Qué herramientas o programas informáticos se necesitan para utilizar estos datos?
+- ¿Qué herramientas o programas informáticos se necesitan para usar estos datos?
 
 **Preguntas Sociales**
 
@@ -312,15 +312,15 @@ Muchas de estas preguntas pueden responderse consultando la documentación y los
 
 ### La importancia citar
 
-Los agradecimientos y las citas contribuyen a fomentar una cultura de intercambio de datos sin temor a que se roben ideas o reconocimientos. Si una persona investigadora puede confiar en que su trabajo será citado y utilizado para impulsar el desarrollo de la ciencia, la idea de abrir los datos resulta más atractiva y beneficiosa para ambas partes. Se recomienda el uso de prácticas de citación estándar para garantizar el debido reconocimiento.
+Los agradecimientos y las citas contribuyen a fomentar una cultura de intercambio de datos sin temor a que se roben ideas o reconocimientos. Si una persona investigadora puede confiar en que su trabajo será citado y usado para impulsar el desarrollo de la ciencia, la idea de abrir los datos resulta más atractiva y beneficiosa para ambas partes. Se recomienda el uso de prácticas de citación estándar para garantizar el debido reconocimiento.
 
-Citar los datos también contribuye a la transparencia del uso que se hace de ellos. Al citar los datos, las personas autoras originales y los nuevos equipos de investigación pueden seguir fácilmente cómo se utilizan los datos para responder a diferentes preguntas.
+Citar los datos también contribuye a la transparencia del uso que se hace de ellos. Al citar los datos, las personas autoras originales y los nuevos equipos de investigación pueden seguir fácilmente cómo se usan los datos para responder a diferentes preguntas.
 
 ### Revisar las pautas de citación
 
 Muchos conjuntos de datos y repositorios especifican cómo deben ser citados. La cita suele incluir:
 
-- Los autores y sus instituciones
+- Las personas autoras y sus instituciones
 - Título
 - ORCID
 - DOI
@@ -354,7 +354,7 @@ RDR OPS V1.0 [Conjunto de datos]. Sistema de datos planetarios de la NASA. [http
 Conclusiones principales de esta lección:
 
 - Los datos relevantes pueden encontrarse en diversos lugares y puede ser necesario recurrir al método de ensayo y error para encontrarlos.
-- Es necesario evaluar cuidadosamente los datos antes de utilizarlos.
+- Es necesario evaluar cuidadosamente los datos antes de usarlos.
 - Citar los datos es importante cuando son usados.
 
 ## Lección 2: Evaluación
@@ -365,7 +365,7 @@ _Pregunta_
 
 **01/03**
 
-¿Cuál de los siguientes métodos pueden utilizarse para encontrar datos?
+¿Cuál o cuáles de los siguientes métodos pueden usarse para encontrar datos?
 
 - Uso de términos de búsqueda apropiados
 - Investigar datos identificados por DOI en publicaciones
@@ -376,12 +376,12 @@ _Pregunta_
 
 **02/03**
 
-¿Cuál de los siguientes son puntos a considerar al evaluar si se puede utilizar un conjunto de datos?
+¿Cuál o cuáles de los siguientes son puntos a considerar al evaluar si se puede usar un conjunto de datos?
 
 - ¿Están bien descritos los datos?
 - ¿Están los datos bien estructurados y pueden ser leídos de manera automatizada?
 - ¿Existe una comunidad de personas usuarias de los datos?
-- ¿Qué herramientas o programas informáticos se necesitan para utilizar estos datos?
+- ¿Qué herramientas o programas informáticos se necesitan para usar estos datos?
 - ¿Se actualizarán los datos periódicamente?
 - ¿Es claro el uso que hace el editor de los datos?
 - Todas las anteriores

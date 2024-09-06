@@ -128,7 +128,7 @@ GitHub es una de las plataformas más populares, por lo que en el resto de esta 
 
 GitHub es un repositorio de software en línea basado en la nube que se integra con Git y ofrece muchas otras características que ayudan en el desarrollo de código en colaboración, su evaluación y publicación. Antes de avanzar en algunas de estas características, es importante entender cómo GitHub actúa como un repositorio remoto cuando utiliza sistemas de control de versiones como Git.
 
-Si volvemos a la idea general de utilizar sistemas de control de versiones, GitHub puede incorporarse como un repositorio remoto que aloja código. Después de crear un "punto de control" (*checkpoint*) en Git, es posible cargar a GitHub una copia de la fotografía actual del código. Hay varias razones para hacerlo:
+Si volvemos a la idea general de utilizar sistemas de control de versiones, GitHub puede incorporarse como un repositorio remoto que aloja código. Después de crear un "punto de control" (eninglés, _checkpoint_) en Git, es posible cargar a GitHub una copia de la fotografía actual del código. Hay varias razones para hacerlo:
 
 -   Para que funcione como copia de seguridad de tu trabajo (ahora se almacena en un servidor remoto al que puedes acceder incluso si tu computadora muere).
 -   Para compartir tu código con otra personas (más sobre esto más adelante en este curso).

@@ -167,7 +167,7 @@ Las herramientas de Ciencia Abierta, como los repositorios de datos, deben imple
 
 Los servicios de datos y los recursos de apoyo a la investigación requieren una infraestructura sólida basada en la colaboración. Un ejemplo de iniciativa sobre infraestructuras de servicios de datos procede de la [EUDAT infraestructura de datos colaborativa (Collaborative Data Infrastructure)](https://www.eudat.eu/), una red sostenida de más de 20 organizaciones europeas de investigación.
 
-Las empresas privadas también alojan y mantienen herramientas en línea para compartir datos y archivos de investigación. Por ejemplo, [Figshare](https://figshare.com/) es un ejemplo de un servicio de acceso libre y abierto operado por empresas privadas. Proporciona DOI para todo tipo de archivos y recientemente desarrolló un modelo de publicación restringido para adaptarse a los requisitos de derechos de propiedad intelectual. Permite compartir los productos sólo dentro de un grupo Figshare personalizado (podría ser tu equipo de investigación) o con usuarios en un rango de IP específico. Los avances adicionales incluyen la integración con repositorios de código, como GitHub, GitLab, y Bitbucket.
+Las empresas privadas también alojan y mantienen herramientas en línea para compartir datos y archivos de investigación. Por ejemplo, [Figshare](https://figshare.com/) es un ejemplo de un servicio de acceso libre y abierto operado por empresas privadas. Proporciona DOI para todo tipo de archivos y recientemente desarrolló un modelo de publicación restringido para adaptarse a los requisitos de derechos de propiedad intelectual. Permite compartir los productos sólo dentro de un grupo Figshare personalizado (podría ser tu equipo de investigación) o con personas usuarias en un rango de IP específico. Los avances adicionales incluyen la integración con repositorios de código, como GitHub, GitLab, y Bitbucket.
 
 Puede encontrar más repositorios de datos de investigación en el [Registro de Repositorios de Datos de Investigación (*Registry of Research Data Repositories*)](https://www.re3data.org/) de acceso público. [OpenAire](https://explore.openaire.eu/search/find/dataproviders), es un motor de búsqueda alojado que también ofrece una potente función de búsqueda de datos y repositorios. Dispone de un filtro por país, tipo y área temática, además de permitir la descarga de datos.
 
@@ -201,20 +201,20 @@ Herramientas recomendadas para comenzar:
 
 **CSV, XML, JSON** - Los archivos con estos formatos se pueden abrir con los editores de texto más comunes. Hay algunas herramientas que pueden crear vistas de los archivos que son más fáciles de usar, como:
 
--   csv: Hojas de cálculo de Microsoft Excel y Google.
--   xml: La mayoría de los navegadores de Internet y cualquier editor de texto como el Bloc de notas, Microsoft Word, LibreOffice o Google Docs.
--   json: <http://json.parser.online.fr/> y <https://jsonformatter.org/json-pretty-print>.
+-   CSV: Hojas de cálculo de Microsoft Excel y Google.
+-   XML: La mayoría de los navegadores de Internet y cualquier editor de texto como el Bloc de notas, Microsoft Word, LibreOffice o Google Docs.
+-   JSON: <http://json.parser.online.fr/> y <https://jsonformatter.org/json-pretty-print>.
 
 **NetCDF, HDF, FITS** - Estos archivos requieren herramientas de software especiales para ver sus contenidos. Muchas de estas herramientas también visualizan los datos.
 
--   NetCDF y HDF: la mayoría de los archivos se visualizan fácilmente usando software de Código Abierto, como la biblioteca [Xarray](https://docs.xarray.dev/en/stable/) en Python o [ncdf4](https://cran.r-project.org/web/packages/ncdf4/index.html) en R.
+-   NetCDF y HDF: la mayoría de los archivos se visualizan fácilmente usando software de Código Abierto, como la librería [Xarray](https://docs.xarray.dev/en/stable/) en Python o [ncdf4](https://cran.r-project.org/web/packages/ncdf4/index.html) en R.
 -   FITS: hay muchas opciones de software que permiten visualizar y trabajar con este formato de archivo. En <https://fits.gsfc.nasa.gov/fits_viewer.html> se ofrece una lista exhaustiva (en inglés).
 
 **ZARR, COG, PARQUET** - Estos archivos requieren herramientas de software especiales para ver su contenido. Muchas de estas herramientas permiten también visualizar los datos.
 
--   Zarr: los archivos se visualizan fácilmente utilizando software de Código Abierto, como las bibliotecas [Xarray](https://docs.xarray.dev/en/stable/) de Python o [Pizzar](https://github.com/keller-mark/pizzarr) en R.
--   COG: los archivos se visualizan utilizando la biblioteca [rioXarray](https://corteva.github.io/rioxarray/html/index.html) en Python o la biblioteca [terra](https://cran.r-project.org/web/packages/terra/index.html) en R.
--   Parquet: los archivos se visualizan utilizando software de Código Abierto, como las bibliotecas [Pandas](https://pandas.pydata.org/) en Python o [Arrow](https://arrow.apache.org/docs/r/reference/read_parquet.html) en R.
+-   Zarr: los archivos se visualizan fácilmente utilizando software de Código Abierto, como las librerías [Xarray](https://docs.xarray.dev/en/stable/) de Python o [Pizzar](https://github.com/keller-mark/pizzarr) en R.
+-   COG: los archivos se visualizan utilizando la librería [rioXarray](https://corteva.github.io/rioxarray/html/index.html) en Python o la librería [terra](https://cran.r-project.org/web/packages/terra/index.html) en R.
+-   Parquet: los archivos se visualizan utilizando software de Código Abierto, como las librerías [Pandas](https://pandas.pydata.org/) en Python o [Arrow](https://arrow.apache.org/docs/r/reference/read_parquet.html) en R.
 
 ### Evaluación FAIR
 

@@ -11,7 +11,7 @@
 
 ## Descripción general
 
-Esta lección presenta las herramientas de mayor uso en Ciencia Abierta. Comienza con una breve introducción a las herramientas de Ciencia Abierta y describe identificadores persistentes, una de las herramientas de Ciencia Abierta más comunes que garantiza la reproducibilidad, la accesibilidad y el reconocimiento de los productos científicos. A continuación, se describen otras herramientas comunes de Ciencia Abierta que son aplicables independientemente del campo de estudio. La lección concluye con una descripción de planes de Ciencia Abierta y Gestión de Datos, los cuáles son un componente clave para compartir la ciencia durante todo el proceso de investigación.
+Esta lección presenta las herramientas de mayor uso en Ciencia Abierta. Comienza con una breve introducción a las herramientas de Ciencia Abierta y describe identificadores persistentes, una de las herramientas de Ciencia Abierta más comunes que garantiza la reproducibilidad, la accesibilidad y el reconocimiento de los productos científicos. A continuación, se describen otras herramientas comunes de Ciencia Abierta que son aplicables independientemente del campo de estudio. La lección concluye con una descripción de Planes de Ciencia Abierta y Gestión de Datos, un componente clave para compartir la ciencia durante todo el proceso de investigación.
 
 ## Objetivos de aprendizaje
 
@@ -50,7 +50,7 @@ El identificador único conocido como ORCID (en inglés, _Open Researcher and Co
 
 Un código numérico gratuito no propietario que:
 
-- Identifica de manera única y persistente a autores y colaboradores que participan en la producción de comunicaciones académicas.
+- Identifica de manera única y persistente a personas autoras y a quienes colaboran en la producción de comunicaciones académicas.
 - Es similar a los números de identificación fiscal para propósitos tributarios (dependiendo del país de residencia).
 
 Los ORCID se utilizan para vincular a las personas con sus investigaciones y productos relacionados con la investigación. Es un número de 16 dígitos que identifica individualmente a las personas que investigan y que se integra con diferentes organizaciones, incluyendo editoriales, para vincular productos de investigación, como artículos publicados, al perfil ORCID de la persona investigadora. Los ORCID están diseñados para preservarse a lo largo de la carrera profesional de una persona, y ayudan a evitar confusiones cuando la información sobre la persona investigadora se actualiza con el tiempo (por ejemplo, cambio de carrera o de nombre). (Fuente: [https://orcid.org/](https://orcid.org/)).
@@ -84,8 +84,8 @@ Los repositorios de datos normalmente te ilustrarán sobre la manera exacta de c
 En esta actividad debes buscar el DOI para un conjunto de datos o un software que utilices y luego usar el sitio web de DOI para “resolver” el nombre del DOI. Por "resolver" se entiende que serás dirigido a la información sobre el producto identificado por ese DOI específico.
 
 1. Encuentra el DOI para un conjunto de datos o software que uses frecuentemente.
-   i. Esto debería de localizarse ya sea en el archivo de citación o en el sitio web donde se publica ese conjunto de datos o software.
-   ii. Si no puedes encontrar un DOI, en su lugar puedes localizar el DOI listado en esta página: https://asdc.larc.nasa.gov/project/CERES/CERES_EBAF-TOA_Edition4.1
+   1. Esto debería de localizarse ya sea en el archivo de citación o en el sitio web donde se publica ese conjunto de datos o software.
+   2. Si no puedes encontrar un DOI, en su lugar puedes localizar el DOI listado en esta página: https://asdc.larc.nasa.gov/project/CERES/CERES_EBAF-TOA_Edition4.1
 2. Ve a https://www.doi.org/ y desplázate hacia abajo en la página hasta "TRY RESOLVING A DOI NAME" (INTENTE RESOLVER UN NOMBRE DOI).
 3. Copia y pega el DOI que encontraste en el campo debajo de "TRY RESOLVING A DOI NAME".
 4. Haz clic en enviar.
@@ -244,7 +244,7 @@ Hay diferentes tipos/categorías de metadatos que abordan diferentes propósitos
 
 ### Documentación
 
-Documentar la producción y gestión de tu ciencia beneficia tanto a ti como a aquellos que puedan usar tus datos, código o resultados en el futuro. Tú eres tu mejor colaborador. La documentación puede salvarte de un dolor de cabeza si necesitas hacer referencia o reutilizar tu trabajo en seis meses o intentar recordar detalles meticulosos sobre el proceso más adelante. Los productos de investigación debidamente documentados incrementan su usabilidad.
+Documentar la producción y gestión de tu ciencia beneficia tanto a ti como a aquellos que puedan usar tus datos, código o resultados en el futuro. Tú eres tu mejor ayudante. La documentación puede salvarte de un dolor de cabeza si necesitas hacer referencia o reutilizar tu trabajo en seis meses o intentar recordar detalles meticulosos sobre el proceso más adelante. Los productos de investigación debidamente documentados incrementan su usabilidad.
 
 Los tipos de documentación incluyen (muchos de los cuales serán ampliados más adelante en este plan de estudios):
 
@@ -259,13 +259,13 @@ Los tipos de documentación incluyen (muchos de los cuales serán ampliados más
   <tbody>
     <tr>
         <td colspan="3">
-        <p>Resumen de los datos (por ejemplo, como un archivo LEEME o una guía de usuario) que responde preguntas como:</p>
+        <p>Resumen de los datos (por ejemplo, como un archivo README (en español, _LEEME_) o una guía de usuario) que responde preguntas como:</p>
         <ul>
             <li>¿Cuáles son los errores conocidos para estos datos?</li>
             <li>¿Cómo se pueden utilizar estos datos?</li>
             <li>¿Cómo se recolectaron los datos?</li>
         </ul>
-        <p>Publicaciones asociadas – ¿cómo utilizaron otros equipos estos datos?</p>
+        <p>Publicaciones asociadas – ¿Cómo utilizaron otros equipos estos datos?</p>
         </td>
     </tr>
   </tbody>
@@ -282,7 +282,7 @@ Los tipos de documentación incluyen (muchos de los cuales serán ampliados más
   <tbody>
     <tr>
         <td colspan="3">
-            <p>Archivos LEEME: Instrucciones básicas de instalación y uso.</p>
+            <p>Archivos README (en español, _LEEME_): Instrucciones básicas de instalación y uso.</p>
             <p>Comentarios en el código: Anotaciones sobre componentes de código (o código comentado).</p>
             <p>Notas de la versión: ¿Qué hay de nuevo en esta versión?</p>
             <p>Publicaciones asociadas: ¿Cómo utilizaron otras personas este software?</p>
@@ -320,7 +320,7 @@ Diferentes tipos de repositorios:
 - Repositorios institucionales
 - Repositorios nacionales
 
-Los usuarios deben seleccionar los repositorios basados en sus necesidades. Mira las lecciones del resto de este módulo y los módulos 3-5 para más detalles.
+Las personas usuarias deben seleccionar los repositorios basados en sus necesidades. Mira las lecciones del resto de este módulo y los módulos 3-5 para más detalles.
 
 ### Prerregistro
 
@@ -421,7 +421,7 @@ Una [encuesta de la revista *Nature* de 2023](https://www.nature.com/articles/s4
 
 ## Planes de Ciencia Abierta y Gestión de Datos
 
-Para usar, hacer y compartir con éxito la Ciencia Abiertamente, necesitamos un Plan de Ciencia Abierta y Gestión de Datos (PCAGD).
+Para usar, hacer y compartir con éxito la ciencia abiertamente, necesitamos un Plan de Ciencia Abierta y Gestión de Datos (PCAGD).
 
 - Desde el día 1, establece un plan para la gestión, conservación y publicación de datos, software y resultados.
 - Este plan es tu guía para la Ciencia Abierta: consulta tu plan a menudo para asegurarte de tener éxito en tu objetivo de apertura.
@@ -432,7 +432,7 @@ Discutiremos cada componente (datos, software y resultados) cuando cubramos cada
 
 ### Diseña tu ciencia para que sea abierta
 
-Organizaciones y agencias de financiamiento alrededor del mundo están empezando a exigir Planes de Ciencia Abierta. En este plan de estudios, nos centraremos en el Plan de Ciencia Abierta y Gestión de Datos de la NASA (PCAGD) (en inglés, _Open Science and Data Management Plan_, OSDMP). Los planes de Ciencia Abierta no son exclusivos de la NASA. Sin embargo, saber cómo escribir uno para esta agencia debería prepararte para casi cualquier oportunidad de financiamiento.
+Organizaciones y agencias de financiamiento alrededor del mundo están empezando a exigir Plan de Ciencia Abierta y Gestión de Datos. En este plan de estudios, nos centraremos en el Plan de Ciencia Abierta y Gestión de Datos de la NASA (PCAGD) (en inglés, _Open Science and Data Management Plan_, OSDMP). Los PCAGD no son exclusivos de la NASA. Sin embargo, saber cómo escribir uno para esta agencia debería prepararte para casi cualquier oportunidad de financiamiento.
 
 El PCAGD describe cómo se gestiona y se pone a disposición del público la información que se produce a partir de la actividad científica. Específicamente, un plan de estas características debe incluir secciones sobre gestión de datos, gestión de software y difusión de publicaciones. Si tu estudio tiene otros tipos de resultados, tales como muestras físicas, hardware o cualquier otra cosa, debes incluirlos en el plan. Un PCAGD ayuda a las personas investigadoras a pensar en los detalles sobre la forma en que planean compartir los resultados.
 
@@ -452,12 +452,12 @@ Los pasos para cada una de estas secciones deben incluir:
 
 - ¿Qué?
   - Descripción de los tipos de materiales que se producirán
-- ¿Cuando?
+- ¿Cuándo?
   - El cronograma para archivar y compartir
 - ¿Dónde?
   - Los repositorios y archivos que se utilizarán para compartir los materiales
 - ¿Cómo?
-  - Los detalles sobre cómo se permite el reuso de materiales (por ejemplo, licencias, documentación, metadatos)
+  - Los detalles sobre cómo se permite el reúso de materiales (por ejemplo, licencias, documentación, metadatos)
 - ¿Quién?
   - Roles y responsabilidades de los miembros del equipo
 
@@ -478,7 +478,7 @@ Los Planes de Gestión de Datos suelen incluir lo siguiente:
 
 ### Plan de Gestión de Software
 
-Los planes de gestión de software describen cómo se gestionará, publicará y preservará el software como parte del proceso científico. Esto ayuda a garantizar la transparencia y la reproducibilidad en el proceso científico. El Módulo 4 sobre Código Abierto incluye más detalles sobre la importancia de compartir código como parte del proceso científico.
+Los Planes de Gestión de Software describen cómo se gestionará, publicará y preservará el software como parte del proceso científico. Esto ayuda a garantizar la transparencia y la reproducibilidad en el proceso científico. El Módulo 4 sobre Código Abierto incluye más detalles sobre la importancia de compartir código como parte del proceso científico.
 
 Componentes generales de un Plan de Gestión de Software:
 

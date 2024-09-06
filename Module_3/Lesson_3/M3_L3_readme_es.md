@@ -1,4 +1,4 @@
-# Lección 3: Creando Datos Abiertos
+# Lección 3: Crear Datos Abiertos
 
 ## Contenidos
 
@@ -11,15 +11,15 @@
 
 ## Descripción general
 
-En esta lección, aprenderás los criterios y las tareas necesarias para asegurar que los conjuntos de datos que creas sean abiertos y reusables. La lección comienza con una discusión sobre la creación de un plan de gestión de datos, continúa con temas sobre la selección de formatos de Datos Abiertos y cómo incluir metadatos, archivos README (léeme) y control de versiones para tus datos. Se completa con una discusión sobre licencias abiertas para los datos.
+En esta lección, aprenderás los criterios y las tareas necesarias para asegurar que los conjuntos de datos que creas sean abiertos y reusables. La lección comienza con una discusión sobre la creación de un Plan de Gestión de Datos (PGD), continúa con temas sobre la selección de formatos de Datos Abiertos y cómo incluir metadatos, archivos README (LEEME) y control de versiones para tus datos. Se completa con una discusión sobre licencias abiertas para los datos.
 
 ## Objetivos de aprendizaje
 
 Al finalizar esta lección deberías ser capaz de:
 
 - Evaluar y seleccionar formatos de Datos Abiertos.
-- Añadir documentación que permita a otras personas que investigan evaluar la relevancia de los datos. Esto incluye metadatos, archivos README y control de versiones.
-- Listar dos licencias abiertas comunes utilizadas para conjuntos de datos.
+- Añadir documentación que permita a otras personas que investigan evaluar la relevancia de los datos. Esto incluye metadatos, archivos README (LEEME) y control de versiones.
+- Listar dos licencias abiertas comunes usas para conjuntos de datos.
 
 ## Planificar para Datos Abiertos
 
@@ -30,7 +30,7 @@ La mejor práctica al comenzar su viaje de Datos Abiertos es crear un Plan de Ge
 | ¿Qué?    | Formato y (si es relevante) estándares de datos                |
 | ¿Cuándo? | Cuándo compartir los datos y si hacerlo                                   |
 | ¿Dónde?  | Los repositorios destinados a datos archivados                                    |
-| ¿Cómo?   | Cómo permite el plan el reuso de los datos                                        |
+| ¿Cómo?   | Cómo permite el plan el reúso de los datos                                        |
 | ¿Quién?  | Roles y responsabilidades de las personas que forman parte del equipo en la implementación del PGD |
 
 En esta lección, abordaremos algunos pasos comunes para generar datos. Específicamente, nos centraremos en el "qué" de hacer datos. Esto incluye, qué formatos de datos deben utilizarse y los estándares a seguir para que los datos sean tan abiertos y tan fáciles de usar como sea posible.
@@ -98,11 +98,11 @@ Para comprender mejor la documentación y los metadatos, tomemos un ejemplo de u
 - Los ingredientes y las instrucciones son como los metadatos. Se pueden indexar y buscar a través de Google y otros motores de búsqueda.
 - El texto descriptivo que incluye el fondo y el contexto de la receta equivalen a la documentación. Son más flexibles y no están estandarizados.
 
-Ya hablamos de los metadatos antes en este módulo, pero son tan importantes que vamos a insistir un poco más. También hablaremos de otros tipos de documentación, como los archivos README.
+Ya hablamos de los metadatos antes en este módulo, pero son tan importantes que vamos a insistir un poco más. También hablaremos de otros tipos de documentación, como los archivos README (LEEME).
 
 ### Metadatos: para humanos y máquinas
 
-Los metadatos pueden ayudar en la evaluación de la calidad del conjunto de datos y al intercambio de datos respondiendo a preguntas clave. Son también la principal forma en que los usuarios van a encontrar la información sobre un conjunto de datos. Incluye información clave sobre temas, como:
+Los metadatos pueden ayudar en la evaluación de la calidad del conjunto de datos y al intercambio de datos respondiendo a preguntas clave. Son también la principal forma en que las personas usuarias van a encontrar la información sobre un conjunto de datos. Incluye información clave sobre temas, como:
 
 - Cómo se recolectaron y procesaron los datos
 - Qué variables/parámetros se incluyen en el conjunto de datos
@@ -117,26 +117,26 @@ Los metadatos pueden ayudar en la evaluación de la calidad del conjunto de dato
 
 Los metadatos mejoran la búsqueda y la accesibilidad de los datos permitiendo potencialmente tanto a los humanos como a las computadoras leer e interpretar los conjuntos de datos. Los beneficios de crear metadatos sobre tus datos incluyen:
 
-- Ayuda a los usuarios a entender qué son los datos y, en caso en que puedan ser utilizados, como hacerlo y citarlos. 
-- Ayuda a los usuarios a ubicar los datos, especialmente cuando los metadatos son legibles y están estandarizados para ser interpretados por aplicaciones.
+- Ayuda a entender qué son los datos y, en caso en que puedan ser utilizados, como hacerlo y citarlos. 
+- Ayuda a ubicar los datos, especialmente cuando los metadatos son legibles y están estandarizados para ser interpretados por aplicaciones.
 - Puede facilitar el análisis con herramientas informáticas que interpreten metadatos estandarizados (por ejemplo, Xarray).
 
 Para ser legibles por las computadoras los metadatos deben haber sido estandarizados. Mira un ejemplo de un estándar aceptado por la comunidad para etiquetar conjuntos de datos climáticos con las [Convenciones de CF](http://cfconventions.org/) (en inglés).
 
-También hay paquetes de software que pueden leer metadatos y, como resultado, mejorar significativamente la experiencia de la persona usuaria. Por ejemplo, [Xarray](https://docs.xarray.dev/en/stable/index.html) es un paquete de software de Código Abierto desarrollado por la comunidad que se utiliza ampliamente en los campos climático y biomédico, entre muchos otros. Según su sitio web, "¡Xarray hace que trabajar con matrices multidimensionales con etiquetas en Python sea simple, eficiente y divertido!". ¡Es en la parte "etiquetada" donde entran los metadatos estandarizados! Xarray puede interpretar los nombres de las variables y las dimensiones sin el aporte de la persona usuaria, haciendo el flujo de trabajo más fácil y menos propenso a cometer errores. Por ejemplo, quienes lo utilizan no tienen que recordar qué eje corresponde al "tiempo", sólo tienen que llamar al eje con la etiqueta "tiempo".
+También hay paquetes de software que pueden leer metadatos y, como resultado, mejorar significativamente la experiencia de la persona usuaria. Por ejemplo, [Xarray](https://docs.xarray.dev/en/stable/index.html) es un paquete de software de Código Abierto desarrollado por la comunidad que se usa ampliamente en los campos climático y biomédico, entre muchos otros. Según su sitio web, "¡Xarray hace que trabajar con matrices multidimensionales con etiquetas en Python sea simple, eficiente y divertido!". ¡Es en la parte "etiquetada" donde entran los metadatos estandarizados! Xarray puede interpretar los nombres de las variables y las dimensiones sin el aporte de la persona usuaria, haciendo el flujo de trabajo más fácil y menos propenso a cometer errores. Por ejemplo, quienes lo usan no tienen que recordar qué eje corresponde al "tiempo", sólo tienen que llamar al eje con la etiqueta "tiempo".
 
-Existen muchas normas sobre los campos de metadatos y la estructura para describir la información general de los datos. Utiliza un estándar de su dominio cuando corresponda, o uno que sea solicitado por tu repositorio de datos.
+Existen muchas normas sobre los campos de metadatos y la estructura para describir la información general de los datos. Usa un estándar de su dominio cuando corresponda, o uno que sea solicitado por tu repositorio de datos.
 
 ### Mejores prácticas de etiquetado de los metadatos
 
 Metadatos útiles e informativos:
 
-- Utiliza estándares que se usan comúnmente en tu campo.
-- Cumple con los principios FAIR (Fácil de encontrar, Accesible, Interoperable y Reusable).
-- Son lo más descriptivos posible.
+- Usar estándares que se usan comúnmente en tu campo.
+- Cumplen con los principios FAIR (Fácil de encontrar, Accesible, Interoperable y Reusable).
+- Hacerlos lo más descriptivos posible.
 - Se autodescriben.
 
-Recuerda que cuantos más metadatos añadas, más fácil será para las personas usuarias de tus datos utilizarlos de manera eficaz. Cuando tengas dudas:
+Recuerda que cuantos más metadatos añadas, más fácil será para las personas usuarias de tus datos usarlos de manera eficaz. Cuando tengas dudas:
 
 - Busca y cumple con los estándares de tu repositorio o comunidad.
 - Investiga recursos de Ciencia Abierta en línea para los metadatos, por ejemplo, [The Turing Way](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-metadata.html).
@@ -152,9 +152,9 @@ SPD-41a requiere campos de los metadatos que validen las conclusiones científic
 
 ### Documentación complementaria
 
-Al crear tus datos, además de añadir metadatos, es una buena práctica crear un documento al que las personas usuarias puedan hacer referencia. El documento puede hacerse como un archivo README, una guía de usuario o incluso una guía de inicio rápido (o bien los tres).
+Al crear tus datos, además de añadir metadatos, es una buena práctica crear un documento al que las personas usuarias puedan hacer referencia. El documento puede hacerse como un archivo README (LEEME), una guía de usuario o incluso una guía de inicio rápido (o bien los tres).
 
-Los archivos README y otros archivos de documentación pueden incluir información como:
+Los archivos README (LEEME) y otros archivos de documentación pueden incluir información como:
 
 - Datos de contacto
 - Información acerca de las variables
@@ -164,7 +164,7 @@ Los archivos README y otros archivos de documentación pueden incluir informaci�
 - Información sobre la estructura y el nombre de archivo de los datos
 - Referencias a publicaciones que describen el conjunto de datos y/o su procesamiento
 
-La intención es ayudar a las personas usuarias a entender rápidamente cómo pueden usar los datos y responder a preguntas comunes que se hagan sobre tus datos. Puedes leer más información y ver una plantilla de README junto con un ejemplo (particularmente relevante para las ciencias médicas) en [este sitio web de la Escuela Médica de Harvard.](https://datamanagement.hms.harvard.edu/collect-analyze/documentation-metadata/readme-files) (en inglés).
+La intención es ayudar a las personas usuarias a entender rápidamente cómo pueden usar los datos y responder a preguntas comunes que se hagan sobre tus datos. Puedes leer más información y ver una plantilla de README (LEEME) junto con un ejemplo (particularmente relevante para las ciencias médicas) en [este sitio web de la Escuela Médica de Harvard.](https://datamanagement.hms.harvard.edu/collect-analyze/documentation-metadata/readme-files) (en inglés).
 
 ### Pautas para el versionado de datos
 
@@ -197,7 +197,7 @@ Los datos son propiedad intelectual de quienes investigan, o posiblemente de qui
 
 ---
 
-Si no licencias tu trabajo, otras personas no pueden -o no deberían- volver a usarlo aunque quisieras. Como se mencionó previamente en este módulo, una licencia es un documento legal que le dice a las personas usuarias cómo pueden utilizar el conjunto de datos. Es importante entender las condiciones de la licencia de un conjunto de datos antes de su reutilización, para evitar cualquier infracción de derechos de autoría u otras cuestiones de propiedad intelectual.
+Si no licencias tu trabajo, otras personas no pueden -o no deberían- volver a usarlo aunque quisieras. Como se mencionó previamente en este módulo, una licencia es un documento legal que le dice a las personas usuarias cómo pueden usar el conjunto de datos. Es importante entender las condiciones de la licencia de un conjunto de datos antes de reusarlos, para evitar cualquier infracción de derechos de autoría u otras cuestiones de propiedad intelectual.
 
 Un conjunto de datos sin licencia no significa que los datos estén abiertos; el uso de un conjunto de datos sin licencia no es algo ético. Contactar con quien haya creado los datos y obtener los permisos explícitos, suponiendo que aplican una licencia, es el mejor camino a seguir.
 
@@ -205,7 +205,7 @@ Es crucial entender cuándo y dónde se aplica la licencia. Por ejemplo, los dat
 
 <img src="../images/media/image34_es.png" style="width:100%;height:auto;" />
 
-Existen varios tipos diferentes de licencias que se construyen entre sí. Las licencias Creative Commons (CC) son utilizadas a menudo para conjuntos de datos. CC0 (también conocido como "dominio público") es la licencia que permite la mayor reutilización porque tiene las menores restricciones sobre lo que las personas usuarias pueden hacer. Aunque la licencia CC0 no requiere explícitamente de citas, debes seguir las mejores prácticas de la comunidad y citar la fuente de los datos. CC-BY es otra licencia común utilizada para datos científicos que requiere citación. A partir de ahí, puedes añadir restricciones sobre el uso comercial, la capacidad de adaptar o modificar los datos o requisitos para compartir con la misma licencia. Estas decisiones reducen la usabilidad al añadir restricciones, por lo que otras personas que hacen ciencia no podrán utilizar los datos debido a impedimentos institucionales o legales. Las agencias de financiación pueden requerir el uso de una licencia en específico. Para las agencias públicas, a menudo es CC-0 o CC-BY, para maximizar su rentabilidad de la inversión y asegurar la reutilización más amplia posible.
+Existen varios tipos diferentes de licencias que se construyen entre sí. Las licencias Creative Commons (CC) son utilizadas a menudo para conjuntos de datos. CC0 (también conocido como "dominio público") es la licencia que permite el mayor reúso porque tiene las menores restricciones sobre lo que las personas usuarias pueden hacer. Aunque la licencia CC0 no requiere explícitamente de citas, debes seguir las mejores prácticas de la comunidad y citar la fuente de los datos. CC-BY es otra licencia común utilizada para datos científicos que requiere citación. A partir de ahí, puedes añadir restricciones sobre el uso comercial, la capacidad de adaptar o modificar los datos o requisitos para compartir con la misma licencia. Estas decisiones reducen la usabilidad al añadir restricciones, por lo que otras personas que hacen ciencia no podrán usar los datos debido a impedimentos institucionales o legales. Las agencias de financiación pueden requerir el uso de una licencia en específico. Para las agencias públicas, a menudo es CC-0 o CC-BY, para maximizar su rentabilidad de la inversión y asegurar la reutilización más amplia posible.
 
 ### Ejemplo de licencias de datos y su reuso
 
@@ -217,16 +217,16 @@ Fuente: [Framing and Context in: Global warming of 1.5°C. An IPCC Special Repor
 
 ---
 
-Esto significó que cualquier uso comercial estaba restringido. Empresas de seguro, corporaciones globales, y cualquier tipo de organización que quisiera utilizarlos para fines comerciales estaban teniendo que hacer su propio modelado o, simplemente, decidiendo no desarrollar recursos relacionados con proyecciones climáticas (como riesgo de incendios, riesgo de inundaciones, y cómo eso puede afectar al transporte, al comercio y al lugar donde vivimos). Esto afectó directamente a la reutilización de estos datos y creó trabajo adicional. [La última versión de los datos CMIP](https://pcmdi.llnl.gov/CMIP6/TermsOfUse/TermsOfUse6-2.html) (en inglés) se está moviendo a CC-BY debido a los impactos negativos de las restricciones: NC-SA (no comercial y compartir igual).
+Esto significó que cualquier uso comercial estaba restringido. Empresas de seguro, corporaciones globales, y cualquier tipo de organización que quisiera usarlos para fines comerciales estaban teniendo que hacer su propio modelado o, simplemente, decidiendo no desarrollar recursos relacionados con proyecciones climáticas (como riesgo de incendios, riesgo de inundaciones, y cómo eso puede afectar al transporte, al comercio y al lugar donde vivimos). Esto afectó directamente al reúso de estos datos y creó trabajo adicional. [La última versión de los datos CMIP](https://pcmdi.llnl.gov/CMIP6/TermsOfUse/TermsOfUse6-2.html) (en inglés) se está moviendo a CC-BY debido a los impactos negativos de las restricciones: NC-SA (no comercial y compartir igual).
 
 ## Lección 3: Resumen
 
 Conclusiones principales de esta lección:
 
-- Es una buena práctica crear un plan abierto de gestión de datos que incluya temas relacionados con la apertura.
+- Es una buena práctica crear un Plan de Gestión de Datos que incluya temas relacionados con la apertura.
 - Un paso crítico para hacer Datos Abiertos es la evaluación y la selección de formatos de Datos Abiertos.
-- Siempre añadir documentación que permita a otras personas que investigan evaluar la relevancia y la reutilización de tu producto. Esto incluye a los metadatos, archivos README y los detalles del control de versiones.
-- Es importante asignar una licencia abierta a tus datos para permitir su reutilización.
+- Siempre añadir documentación que permita a otras personas que investigan evaluar la relevancia y reúso de tu producto. Esto incluye a los metadatos, archivos README (LEEME) y los detalles del control de versiones.
+- Es importante asignar una licencia abierta a tus datos para permitir su reúso.
 
 ## Lección 3: Evaluación
 
@@ -236,7 +236,7 @@ _Pregunta_
 
 **01/04**
 
-¿Cuáles de los siguientes son los pasos que debes tomar al crear un plan de gestión de datos?
+¿Cuáles de los siguientes son los pasos que debes tomar al crear un Plan de Gestión de Datos?
 
 - Evaluar diferentes formatos de datos
 - Comprobar la conformidad de los metadatos
@@ -250,7 +250,7 @@ _Pregunta_
 
 - El formato tiene soporte adecuado para los metadatos
 - Las herramientas están disponibles para leer el formato de datos
-- El formato de datos es ampliamente utilizado en tu comunidad
+- El formato de datos es ampliamente usado en tu comunidad
 - Todas las anteriores
 
 _Pregunta_
