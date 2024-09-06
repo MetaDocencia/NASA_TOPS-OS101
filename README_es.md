@@ -48,7 +48,7 @@ Completando los cinco módulos y aprobando la evaluación al final de cada uno d
 
 ### [Módulo 5 - Resultados Abiertos](./Module_5)
 
-- [Lección 1: Introducción a los Resultados Abiertos](./Module_5/Lesson_1)
+- [Lección 1: Introducción a Resultados Abiertos](./Module_5/Lesson_1)
 - [Lección 2: Usando Resultados Abiertos](./Module_5/Lesson_2)
 - [Lección 3: Creando Resultados Abiertos](./Module_5/Lesson_3)
 - [Lección 4: Compartiendo Resultados Abiertos](./Module_5/Lesson_4)
