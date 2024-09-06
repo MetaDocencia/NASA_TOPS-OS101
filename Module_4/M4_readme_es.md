@@ -6,7 +6,7 @@ Te damos la bienvenida a Introducción a la Ciencia Abierta: Código Abierto
 
 Este módulo se centra en la práctica y aplicación del Código Abierto como parte del flujo de trabajo de Ciencia Abierta. Proporciona un 'cómo se procede' que sigue el ciclo de vida del desarrollo de código y las premisas "Usar, Crear, Compartir". Algunos de los temas clave discutidos incluyen: beneficios y limitaciones del Código Abierto, cómo descubrir y evaluar el código, consideraciones y métodos para programar siguiendo principios abiertos, y finalmente cuándo y cómo compartir tu código.
 
-### Objetivos de Aprendizaje del Módulo
+### Objetivos de aprendizaje
 
 Después de completar este módulo deberías poder:
 
@@ -16,7 +16,7 @@ Después de completar este módulo deberías poder:
 - Evaluar si tu software de Código Abierto puede ser compartido y cuáles son las mejores opciones para hacerlo y aumentar su visibilidad.
 - Enumerar las responsabilidades que tiene quien desarrolla el software una vez que el software de Código Abierto es compartido, incluyendo tanto la gestión de los requisitos legales, como el mantenimiento del software.
 
-## Términos Clave
+## Términos clave
 
 Estos términos clave son tópicos importantes para este módulo. Selecciona el término para ver la descripción.
 
@@ -44,7 +44,7 @@ Estos términos clave son tópicos importantes para este módulo. Selecciona el 
 
 Crédito de estas definiciones: _National Academies of Sciences, Engineering, and Medicine. Open-source Software Policy Options for NASA Earth and Space Sciences. Washington, DC: The National Academies Press._ [https://doi.org/10.17226/25217](https://doi.org/10.17226/25217) y otros recursos.
 
-## Navegación
+## Contenidos
 
 ### [Lección 1: Introducción a Datos Abiertos](./Lesson_1)
 
@@ -86,9 +86,9 @@ Crédito de estas definiciones: _National Academies of Sciences, Engineering, an
 - [Lección 4: Resumen](./Lesson_4#lecci%C3%B3n-4-resumen)
 - [Lección 4: Evaluación](./Lesson_4#lecci%C3%B3n-4-evaluaci%C3%B3n)
 
-### [Lección 5: De la Teoría a la Práctica](./Lesson_5)
+### [Lección 5: De la teoría a la práctica](./Lesson_5)
 
-- [Planes de Gestión de Datos y Ciencia Abierta](./Lesson_5#planes-de-gesti%C3%B3n-de-datos-y-ciencia-abierta)
+- [Planes de Ciencia Abierta y Gestión de Datos](./Lesson_5#planes-de-ciencia-abierta-y-gesti%C3%B3n-de-datos)
 - [¿Cómo planificar abrir nuestro código?](./Lesson_5#c%C3%B3mo-planeamos-hacer-nuestro-c%C3%B3digo-abierto)
 - [Generar interés y construir comunidades](./Lesson_5#generar-inter%C3%A9s-y-construir-comunidades)
 - [Contribuir a proyectos de software de Código Abierto](./Lesson_5#contribuir-a-proyectos-de-software-de-c%C3%B3digo-abierto)
