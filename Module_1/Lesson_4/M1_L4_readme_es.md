@@ -200,7 +200,7 @@ Conclusiones principales de esta lección:
 - También existen barreras institucionales e infraestructurales para adoptar prácticas abiertas, pero podemos minimizar algunos de estos desafíos utilizando herramientas e infraestructuras generales.
 
 ## Lección 4: Evaluación
-Responde las siguientes preguntas para poner a prueba lo que ha aprendido hasta ahora.
+Responde las siguientes preguntas para poner a prueba lo que has aprendido hasta ahora.
 
 _Pregunta_
 
