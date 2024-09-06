@@ -72,7 +72,7 @@ Los artículos revisados por pares y de Acceso Abierto se archivan para su conse
 
 Las personas científicas pueden compartir su progreso incremental a lo largo del proceso de investigación e invitar a la comunidad a dejar sus comentarios. Compartir más partes del proceso de investigación crea más interacciones entre quienes investigan y puede mejorar el resultado final (que puede ser un artículo revisado por pares).
 
-A lo largo de este módulo te mostraremos cómo usar, crear y compartir Resultados Abiertos.
+A lo largo de este módulo te mostraremos cómo usar, hacer y compartir Resultados Abiertos.
 
 ### La práctica de lo 'Abierto'
 
