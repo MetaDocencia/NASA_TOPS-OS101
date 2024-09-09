@@ -3,8 +3,8 @@
 ## Contenidos
 
 -   [Introducción al Código Abierto](#introducci%C3%B3n-al-c%C3%B3digo-abierto)
--   [Herramientas para el control de versiones](#herramientas-para-el-control-versiones)
--   [Herramientas para editar código](#herramientas-editar-c%C3%B3digo)
+-   [Herramientas para el control de versiones](#herramientas-para-el-control-de-versiones)
+-   [Herramientas para editar código](#herramientas-para-editar-c%C3%B3digo)
 -   [Herramientas adicionales](#herramientas-adicionales)
 -   [Lección 4: Resumen](#lecci%C3%B3n-4-resumen)
 -   [Lección 4: Evaluación](#lecci%C3%B3n-4-evaluaci%C3%B3n)
@@ -290,7 +290,7 @@ Desde el VS Code puedes:
 
 Mientras que VS Code es un entorno de desarrollo integrado (en inglés, *Integrated Development Environment, IDE*) más genérico donde puedes utilizar complementos para especializarlo, también existen IDEs, como RStudio, que tienen características especializadas para lenguajes específicos desde el principio.
 
-Las personas investigadoras que realizan análisis estadísticos tienden a utilizar los lenguajes de programación de R y Python. RStudio tiene herramientas integradas para ese mismo propósito, incluyendo la visualización de datos.
+Las personas investigadoras que realizan análisis estadísticos tienden a utilizar los lenguajes de programación de R y Python. RStudio tiene herramientas integradas para ese mismo propósito, incluyendo la visualización de datos. La siguiente captura de pantalla muestra un ejemplo de visualización de la plataforma RStudio.
 
 <img src="../images/media/image36_es.png" style="width:100%;height:auto;"/>
 
@@ -359,7 +359,7 @@ Dado que Jupyter Notebook permite integrar código con visualizaciones y texto, 
 
 #### Para más información sobre los productos de Jupyter y su comunidad, consulta su sitio web.
 
-[HAZ CLIC PARA APRENDER MÁS (*en inglés*)](https://jupyter.org/)
+[INGRESA AL PORTAL DE JUPYTER PARA APRENDER MÁS (*en inglés*)](https://jupyter.org/)
 
 Si quieres sumergirte en el tema, consulta la lección "Primeros pasos con Jupyter" del Proyecto Pythia, orientada a personas sin conocimientos previos de programación.
 
@@ -378,17 +378,17 @@ Fuente: Adaptado de <https://climatedataguide.ucar.edu/climate-data/nino-sst-ind
 Sigue estos pasos:
 
 1.  Navega a la lección "[Calculating ENSO with Xarray (Calculando ENOS con Xarray)](https://foundations.projectpythia.org/core/xarray/enso-xarray.html)"
-2.  En la esquina superior derecha, pasa el ratón sobre el icono del cohete y haz clic en "Binder". Esto abrirá la lección como un Jupyter Notebook ejecutable que corre en la Nube. Ten en cuenta que el Cuaderno Computacional puede tardar varios minutos en configurarse. ![](../images/media/calculatingenso_es.png)
-3.  Después de cargar el Cuaderno Computacional, deberías ver algo como lo siguiente. Nota -- ¡Esto realmente utiliza la vista de JupyterLab! ![](../images/media/calculatingenso2.jpg)
-4.  Puedes tomarte un poco de tiempo para repasar el texto y el código del cuaderno computacional, pero ten en cuenta que esta lección presupone muchos conocimientos previos, por lo que está bien si no lo entiendes todo. ¡Aún puedes apreciar los bonitos gráficos que estás a punto de hacer!
-5.  ¡Ahora ya puedes ejecutar el Cuaderno Computacional! Para hacer eso, puedes ir al menú "Run" (*Ejecutar*) en la parte superior izquierda de la ventana de JupyterLab y elegir "Run All Cells" (*Ejecutar todas las celdas*): ![](../images/media/calculatingenso3.jpg)
-6.  Esto solo debería tomar unos pocos segundos, y si te desplazas hacia abajo, puedes ver un par de visualizaciones bonitas que acabas de crear:<br>*Usa los botones "\<" y "\>" para navegar entre las imágenes.*
+2.  Localiza y selecciona la opción "Binder" que se encuentra dentro del desplegable del icono del cohete (en inglés, _Rocket_). Esto abrirá la lección como un Jupyter Notebook ejecutable que corre en la Nube. Ten en cuenta que el Cuaderno Computacional puede tardar varios minutos en configurarse. ![](../images/media/calculatingenso_es.png)
+3.  Después de cargar el Cuaderno Computacional, deberías encontrarte ahora en una interfaz de edición con un arbol de archivos y una sección de edición de los archivos del árbol.Nota -- ¡Esto realmente utiliza la vista de JupyterLab! ![](../images/media/calculatingenso2.jpg)
+4.  Puedes tomarte un poco de tiempo para repasar el texto y el código del Cuaderno Computacional, pero ten en cuenta que esta lección presupone muchos conocimientos previos. Está bien si no lo entiendes todo. ¡Aún puedes apreciar los bonitos gráficos que estás a punto de hacer!
+5.  ¡Ahora ya puedes ejecutar el Cuaderno Computacional! Para hacer eso, puedes ir al menú "Run" (*Ejecutar*) y elegir "Run All Cells" (*Ejecutar todas las celdas*) ![](../images/media/calculatingenso3.jpg)
+6.  Esto sólo debería tomar unos pocos segundos, y aparecerán unas visualizaciones bonitas que acabas de crear:<br>*Usa los botones "\<" y "\>" para navegar entre las imágenes.*
 
 ![](../images/media/calculatingenso4_es.png)
 
 ![](../images/media/image44_es.png)
 
-7.  Tómate algo de tiempo para mirar un poco más de cerca el Cuaderno Computacional. Verás que hay texto (incluyendo encabezados, enlaces ¡e incluso una tabla justo al principio!), código y figuras integradas de manera conjunta. Este es sólo un ejemplo de cómo quienes hacen ciencia utilizan cuadernos computacionales para su investigación.
+7.  Tómate algo de tiempo para explorar un poco más de cerca el Cuaderno Computacional. Verás que hay texto (incluyendo encabezados, enlaces ¡e incluso una tabla justo al principio!), código y figuras integradas de manera conjunta. Este es sólo un ejemplo de cómo quienes hacen ciencia utilizan Cuadernos Computacionales para su investigación.
 
 Puedes examinar más recursos de aprendizaje del Proyecto Pythia Python a través de su [Libro de Fundamentos](https://foundations.projectpythia.org/landing-page.html), y puedes ver ejemplos más avanzados de flujos de trabajo de investigación en geociencias que utilizan Cuadernos Computacionales (que ellos llaman "[CookBooks o Guías Rapidas](https://cookbooks.projectpythia.org/)") para ver más ejemplos de cómo se utilizan los Jupyter Notebooks en la ciencia. Si te interesan las geociencias, ¡puedes contribuir con tu propio Jupyter Notebook, en el caso de que tengas uno que quieras compartir!
 
@@ -417,7 +417,7 @@ Ventajas:
 
 Desventajas:
 
--   Por lo general, es propiedad de una institución en particular y está administrada por ella; es posible que debas estar afiliado a esa institución para obtener acceso a su HPC.
+-   Por lo general, es propiedad de una institución en particular y está administrada por ella; es posible que debas contar con una afiliación a esa institución para obtener acceso a su HPC.
 -   Es posible que tengas que esperar mucho tiempo para ejecutar el código, ya que normalmente se comparte entre muchas personas y grupos.
 -   Se necesitan fondos considerables para construir una HPC.
 
