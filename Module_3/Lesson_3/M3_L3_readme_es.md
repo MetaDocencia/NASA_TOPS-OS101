@@ -180,7 +180,7 @@ La versión adecuada preserva la calidad y la procedencia de los datos (el orige
 
 ## Hacer que los datos sean reusables mediante las licencias
 
-<img src="../images/media/image32_es.jpeg" style="width:100%;height:auto;" />
+<img src="../images/media/image32_es.png" style="width:100%;height:auto;" />
 
 Fuente de la imagen: [xkcd.com](https://www.explainxkcd.com/wiki/index.php/File:copyright.jpg).
 El personaje de la viñeta reflexiona: "A veces simplemente no puedo indignarme por la ley de derechos de autor."

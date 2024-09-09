@@ -4,7 +4,7 @@ Te damos la bienvenida a Introducción a la Ciencia Abierta: Datos Abiertos
 
 ## Acerca de este módulo
 
-Este módulo se centra en la práctica y la aplicación de la Ciencia Abierta para los datos. Proporciona el proceso a seguir para encontrar y evaluar Datos Abiertos para su uso, para la creación de Datos Abiertos y para compartir Datos Abiertos. Los protocolos paso a paso son fáciles de seguir y pueden usarse como listas de verificación después de que completes el módulo. Algunos de los temas clave que discutimos incluyen: Planes de Gestión de Datos (PGD), el proceso de evaluación de datos para su reuso, la creación de un plan para crear datos que incluya la elección de formatos abiertos y el agregado de documentación; y las consideraciones para compartir datos y hacer a tus datos citables.
+Este módulo se centra en la práctica y la aplicación de la Ciencia Abierta para los datos. Proporciona el proceso a seguir para encontrar y evaluar Datos Abiertos para su uso, también para crear y compartir Datos Abiertos. Los protocolos paso a paso son fáciles de seguir y pueden usarse como listas de verificación después de que completes el módulo. Algunos de los temas clave que discutimos incluyen: Planes de Gestión de Datos (PGD), el proceso de evaluación de datos para su reuso, la creación de un plan para crear datos que incluya la elección de formatos abiertos y el agregado de documentación; y las consideraciones para compartir datos y hacer a tus datos citables.
 
 ### Objetivos de aprendizaje
 
@@ -12,7 +12,7 @@ Después de completar este módulo deberías ser capaz de:
 
 - Describir el significado y el propósito de los Datos Abiertos, sus beneficios, y cómo se usan los principios FAIR.
 - Recordar métodos para evaluar la reusabilidad de los datos sobre la base de su documentación, y citar los datos según se indica.
-- Implementar un Plan de Gestión de Datos Abiertos, seleccionar formatos de Datos Abiertos, agregar la documentación necesaria, incluyendo metadatos, archivos README y control de versiones, para hacer a los datos reutilizables y fáciles de encontrar.
+- Implementar un Plan de Gestión de Datos, seleccionar formatos de Datos Abiertos, agregar la documentación necesaria, incluyendo metadatos, archivos README (LEEME) y control de versiones, para hacer a los datos reutilizables y fáciles de encontrar.
 - Evaluar si tus datos deben y pueden ser compartidos.
 - Recordar prácticas para hacer los datos más accesibles, como el registro de un DOI afiliado y la inclusión de instrucciones sobre cómo citarlos en la documentación.
 
@@ -24,13 +24,13 @@ Estos términos clave son tópicos importantes para este módulo. Selecciona el 
 
 **Datos** – Cualquier tipo de información, elementos registrables o hechos observables. En la actualidad lo más común es que los datos se almacenen en forma electrónica.
 
-**Licencia de datos** – Las licencias de datos dan a cualquier persona que crea datos una forma de conceder el permiso público para usar sus productos bajo la ley de derechos de autor. Del mismo modo, las licencias de datos dan a quien use los datos una guía clara sobre cómo pueden reutilizar el material.
+**Licencia de datos** – Las licencias de datos dan a cualquier persona que crea datos una forma de conceder el permiso público para usar sus productos bajo la ley de derechos de autoría. Del mismo modo, las licencias de datos dan a quien use los datos una guía clara sobre cómo pueden reutilizar el material.
 
 **Licencia CC-BY y CC0** – CC-BY y CC0 son licencias de datos de Creative Commons. CC-BY permite a las personas que reutilizan cierto material la distribución, remezcla, adaptación y construcción a partir de ese material, en cualquier medio o formato, en tanto den atribución a la persona que lo creó. La licencia permite el uso comercial. CC0 permite a las personas autoras que renuncien a sus derechos de autoría y pongan sus obras en el dominio público mundial. CC0 permite a las personas que reutilizan cierto material la distribución, remezcla, adaptación y construcción a partir de ese material, en cualquier medio o formato, sin condiciones.
 
-**Plan de Gestión de Datos** – Un plan de gestión de datos (PGD) (en inglés, _Data Management Plan, DMP_) describe el qué, dónde, cuándo y quién para los datos que se crearán durante un proyecto de investigación. Los componentes comunes de los planes de gestión de datos incluyen una descripción del tipo, volumen y formato de los datos; dónde y cuándo estarán disponibles los datos, y quién los compartirá. El plan también puede describir variables de datos, fuentes, exactitud y precisión, si esa información está disponible.
+**Plan de Gestión de Datos** – Un Plan de Gestión de Datos (PGD) (en inglés, _Data Management Plan, DMP_) describe el qué, dónde, cuándo y quién para los datos que se crearán durante un proyecto de investigación. Los componentes comunes de los Planes de Gestión de Datos incluyen una descripción del tipo, volumen y formato de los datos; dónde y cuándo estarán disponibles los datos, y quién los compartirá. El plan también puede describir variables de datos, fuentes, exactitud y precisión, si esa información está disponible.
 
-**Metadatos** – Datos que describen los datos. Puede ser global (al escribir el contenido general de un único archivo o de una colección de archivos)  o local (al describir una variable individual dentro del archivo). Por lo general, los metadatos globales ofrecen información sobre quién creó el archivo, información sobre el conjunto de datos, qué satélite/instrumento/laboratorio/etc. creó los datos, el DOI y la información sobre el formato de archivo, entre otros campos de metadatos. Los metadatos locales sobre variables contienen información como el nombre completo de la variable, cualquier factor de escala o información de incertidumbre, y unidades de medición.
+**Metadatos** – Datos que describen los datos. Puede ser global (al escribir el contenido general de un único archivo o de una colección de archivos) o local (al describir una variable individual dentro del archivo). Por lo general, los metadatos globales ofrecen información sobre quién creó el archivo, información sobre el conjunto de datos, qué satélite/instrumento/laboratorio/etc. creó los datos, el DOI y la información sobre el formato de archivo, entre otros campos de metadatos. Los metadatos locales sobre variables contienen información como el nombre completo de la variable, cualquier factor de escala o información de incertidumbre, y unidades de medición.
 
 **Identificadores persistentes de lectura automática (PID)** – Un identificador persistente (PID, por las siglas en inglés de _Persistent Identifier_) es una cadena única que identifica a un objeto, como por ejemplo a un conjunto de datos. Aunque la ubicación en línea del objeto podría cambiar, el PID no lo hará y seguirá conduciendo a los datos, asegurando que las citas que hacen referencia al PID siempre sean válidas.
 
@@ -79,7 +79,7 @@ Estos términos clave son tópicos importantes para este módulo. Selecciona el 
 
 - [Cuándo compartir los datos y si hacerlo](./Lesson_4#cu%C3%A1ndo-compartir-los-datos-y-si-hacerlo)
 - [Dónde compartir datos](./Lesson_4#d%C3%B3nde-compartir-datos)
-- [Cómo habilitar el reuso de datos](./Lesson_4#%C3%B3-habilitar-el-reuso-de-datos)
+- [Cómo habilitar el reuso de datos](./Lesson_4c#%C3%B3mo-habilitar-el-reuso-de-datos)
 - [Quién es responsable de compartir datos](./Lesson_4#qui%C3%A9n-es-responsable-de-compartir-datos)
 - [Lección 4: Resumen](./Lesson_4#lecci%C3%B3n-4-resumen)
 - [Lección 4: Evaluación](./Lesson_4#lecci%C3%B3n-4-evaluaci%C3%B3n)

@@ -4,7 +4,7 @@
 
 - [Cuándo compartir los datos y si hacerlo](#cu%C3%A1ndo-compartir-los-datos-y-si-hacerlo)
 - [Dónde compartir datos](#d%C3%B3nde-compartir-datos)
-- [Cómo habilitar el reúso de datos](#%C3%B3-habilitar-el-re%C3%BAso-de-datos)
+- [Cómo habilitar el reúso de datos](#c%C3%B3mo-habilitar-el-re%C3%BAso-de-datos)
 - [Quién es responsable de compartir Datos](#qui%C3%A9n-es-responsable-de-compartir-datos)
 - [Lección 4: Resumen](#lecci%C3%B3n-4-resumen)
 - [Lección 4: Evaluación](#lecci%C3%B3n-4-evaluaci%C3%B3n)
