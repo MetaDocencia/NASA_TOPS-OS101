@@ -41,7 +41,7 @@ Esta lección presenta una perspectiva sobre el desarrollo de la ciencia centrad
 
 Además, destaca los beneficios de la Ciencia Abierta en una amplia gama de grupos de interesados, junto con ejemplos que invitan a los lectores a investigar más. La lección explora también los desafíos más usuales a la hora de adoptar prácticas en Ciencia Abierta.
 
-<img src="../images/media/image377_es.png" style="width: 100%; height: auto;" />
+<img src="../images/media/image377_es.jpg" style="width: 100%; height: auto;" />
 
 Imagen: Existen muchos beneficios en la Ciencia Abierta. Adaptación de [CC-BY Danny Kingsley y Sarah Brown](https://blogs.uef.fi/ueflibrary-bors/benefits-and-challenges-of-open-science/).
 
