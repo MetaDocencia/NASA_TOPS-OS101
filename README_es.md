@@ -32,10 +32,10 @@ Completando los cinco módulos y aprobando la evaluación al final de cada uno d
 
 ### [Módulo 3 - Datos Abiertos](./Module_3)
 
-- [Lección 1: Introducción a Datos Abiertos](./Module_3/Lesson_1)
-- [Lección 2: Usando Datos Abiertos](./Module_3/Lesson_2)
-- [Lección 3: Haciendo Datos Abiertos](./Module_3/Lesson_3)
-- [Lección 4: Compartiendo Datos Abiertos](./Module_3/Lesson_4)
+- [Lección 1: Introducción a los Datos Abiertos](./Module_3/Lesson_1)
+- [Lección 2: Usar Datos Abiertos](./Module_3/Lesson_2)
+- [Lección 3: Hacer Datos Abiertos](./Module_3/Lesson_3)
+- [Lección 4: Compartir Datos Abiertos](./Module_3/Lesson_4)
 - [Lección 5: De la teoría a la práctica](./Module_3/Lesson_5)
 
 ### [Módulo 4 - Código Abierto](./Module_4)
