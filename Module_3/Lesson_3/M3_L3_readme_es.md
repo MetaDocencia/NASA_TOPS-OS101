@@ -1,9 +1,9 @@
-# Lección 3: Haciendo Datos Abiertos
+# Lección 3: Hacer Datos Abiertos
 
 ## Contenidos
 
 - [Planificar para Datos Abiertos](#planificar-para-datos-abiertos)
-- [Seleccionar formatos de datos y herramientas para la interoperabilidad](#seleccionar-formatos-de-datos-y-herramientas-para-interoperabilidad)
+- [Seleccionar formatos de datos y herramientas para la interoperabilidad](#seleccionar-formatos-de-datos-y-herramientas-para-la-interoperabilidad)
 - [Hacer que los datos sean reusables mediante la documentación](#hacer-que-los-datos-sean-reusables-mediante-la-documentaci%C3%B3n)
 - [Hacer que los datos sean reusables mediante las licencias](#hacer-que-los-datos-sean-reusables-mediante-las-licencias)
 - [Lección 3: Resumen](#lecci%C3%B3n-3-resumen)
