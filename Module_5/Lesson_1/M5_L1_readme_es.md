@@ -240,7 +240,7 @@ Pensar en compartir todo a la vez puede resultar agotador cuando estás empezand
 
 ## Lección 1: Resumen
 
-Conclusiones principales de esta lección:
+En esta lección has aprendido:
 
 - El flujo de trabajo científico contemporáneo implica ser abierto en cuanto a procesos y productos. Los productos de la investigación (resultados) incluyen mucho más que el informe final, lo que supone un cambio drástico respecto a la noción histórica de resultado científico.
 - En cada etapa del proceso de desarrollo de la investigación se producen objetos de investigación que podemos considerar resultados.
