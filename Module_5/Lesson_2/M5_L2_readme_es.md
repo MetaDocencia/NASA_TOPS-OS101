@@ -205,7 +205,7 @@ Ten en cuenta que el hecho de no cumplir uno o varios de los criterios no signif
 
 Ejemplo fiable: Los vídeos de YouTube de Qiusheng Wu (mencionado en la lección anterior). El Profesor Wu es un experto en su campo. Presenta los resultados junto con cuadernos que demuestran la reproducibilidad. Los comentarios en sus vídeos tutoriales de YouTube representan interacciones significativas entre los usuarios que reproducen los resultados y quien generó el material.
 
-## Cómo citar Resultados Abiertos
+## Cómo usar Resultados Abiertos
 
 Aunque los Resultados Abiertos benefician a la ciencia y ya han aportado valiosas ventajas a la sociedad, el uso indebido y el intercambio imprudente de materiales abiertos pueden tener efectos perjudiciales de gran alcance. Quien hace uso de los Resultados Abiertos tiene la responsabilidad de garantizar que los datos a los que hace referencia se utilizan de forma responsable y que siguen las directrices pertinentes para el uso de los datos.
 
