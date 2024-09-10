@@ -1,4 +1,4 @@
-# Lección 3: ¿Cómo hacer Ciencia Abierta?
+# Lección 3: Cómo hacer Ciencia Abierta
 
 ## Contenidos
 
