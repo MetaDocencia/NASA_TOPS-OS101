@@ -1,4 +1,4 @@
-# Lección 4: Cuándo no se debe abrir
+# Lección 4: Cuando no se debe abrir
 
 ## Contenidos
 
