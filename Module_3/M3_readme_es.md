@@ -66,7 +66,7 @@ Estos términos clave son tópicos importantes para este módulo. Selecciona el 
 - [Lección 2: Resumen](./Lesson_2#lecci%C3%B3n-2-resumen)
 - [Lección 2: Evaluación](./Lesson_2#lecci%C3%B3n-2-evaluaci%C3%B3n)
 
-### [Lección 3: Creando Datos Abiertos](./Lesson_3)
+### [Lección 3: Haciendo Datos Abiertos](./Lesson_3)
 
 - [Planificar para Datos Abiertos](./Lesson_3#planificar-para-datos-abiertos)
 - [Seleccionar formatos de datos y herramientas para la interoperabilidad](./Lesson_3#seleccionar-formatos-de-datos-y-herramientas-para-interoperabilidad)
