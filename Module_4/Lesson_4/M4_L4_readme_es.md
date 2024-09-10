@@ -319,7 +319,7 @@ En esta lección aprendiste los pasos clave para compartir Software Abierto:
 
 - ¿Deberías compartir? Al compartir software, se deben seguir las políticas de tu institución y agencia de financiamiento. Éstas pueden limitar la apertura del software. Las políticas de publicación de software también varían según la organización.
 - ¿Cuándo compartir? Sigue las pautas de tu organización, agencia de financiamiento o editorial.
-- ¿Dónde compartir? Depende de si estás archivando o compartiendo para recibir comentarios de la comunidad. usa repositorios específicos de dominio cuando corresponda.
+- ¿Dónde compartir? Depende de si estás archivando o compartiendo para recibir comentarios de la comunidad. Usa repositorios específicos de dominio cuando corresponda.
 - ¿Cómo permitir la reusabilidad? Habilita la reusabilidad mediante la asignación de un DOI e incluye una licencia, información de citas y pautas para las personas que colaboran.
 - ¿Quién ayuda a compartir? Planifica los roles y responsabilidades cuando se comparta y (si es aplicable) para mantener el software.
 
