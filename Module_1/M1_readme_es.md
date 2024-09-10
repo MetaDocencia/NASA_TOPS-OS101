@@ -79,7 +79,7 @@ Más información [aquí](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3792863/)
 - [Lección 2: Resumen](./Lesson_2#lecci%C3%B3n-2-resumen)
 - [Lección 2: Evaluación](./Lesson_2#lecci%C3%B3n-2-evaluaci%C3%B3n)
 
-### [Lección 3: Cómo hacer Ciencia Abierta](./Lesson_3)
+### [Lección 3: ¿Cómo hacer Ciencia Abierta?](./Lesson_3)
 
 - [Mantener la seguridad y proteger la privacidad](./Lesson_3#mantener-la-seguridad-y-proteger-la-privacidad)
 - [La propiedad intelectual](./Lesson_3#la-propiedad-intelectual)
@@ -87,7 +87,7 @@ Más información [aquí](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3792863/)
 - [Lección 3: Resumen](./Lesson_3#lecci%C3%B3n-3-resumen)
 - [Lección 3: Evaluación](./Lesson_3#Lecci%C3%B3n-3-evaluaci%C3%B3n)
 
-### [Lección 4: Cuándo no se debe abrir](./Lesson_4)
+### [Lección 4: ¿Cuándo no se debe abrir?](./Lesson_4)
 
 - [Preocupaciones comunes alrededor de la Ciencia Abierta](./Lesson_4#preocupaciones-comunes-alrededor-de-la-ciencia-abierta)
 - [Incentivos mal alineados](./Lesson_4#incentivos-mal-alineados)
