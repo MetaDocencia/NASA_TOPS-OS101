@@ -36,7 +36,7 @@ Las herramientas de Ciencia Abierta se pueden utilizar para:
 - **Publicaciones** - Herramientas para compartir y/o conservar investigaciones.
 - **Divulgación** - Herramientas para promocionar tu investigación.
 
-En esta lección, te presentamos algunas de las herramientas más generales de la Ciencia Abierta como los identificadores persistentes, metadatos, documentación y Planes de Gestión de Datos Abiertos. Sin importar el campo de estudio, estas herramientas y prácticas son algunas de las cosas que encontrarás al usar, crear o compartir tu investigación. Lee más sobre las herramientas de Ciencia Abierta en [OpenSciency](https://opensciency.github.io/sprint-content/open-tools-resources/lesson1-intro-open-science-tools.html).
+En esta lección, te presentamos algunas de las herramientas más generales de la Ciencia Abierta como los identificadores persistentes, metadatos, documentación y Planes de Gestión de Datos Abiertos. Sin importar el campo de estudio, estas herramientas y prácticas son algunas de las cosas que encontrarás al usar, hacer o compartir tu investigación. Lee más sobre las herramientas de Ciencia Abierta en [OpenSciency](https://opensciency.github.io/sprint-content/open-tools-resources/lesson1-intro-open-science-tools.html).
 
 ## Identificadores persistentes
 
