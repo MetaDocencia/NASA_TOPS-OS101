@@ -70,7 +70,7 @@ Más información [aquí](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3792863/)
 - [Lección 1: Resumen](./Lesson_1#lecci%C3%B3n-1-resumen)
 - [Lección 1: Evaluación](./Lesson_1#lecci%C3%B3n-1-evaluaci%C3%B3n)
 
-### [Lección 2: ¿Por qué es Importante la Ciencia Abierta?](./Lesson_2)
+### [Lección 2: ¿Por qué es importante la Ciencia Abierta?](./Lesson_2)
 
 - [La Ciencia Abierta rompe barreras y promueve la innovación](./Lesson_2#la-ciencia-abierta-rompe-barreras-y-promueve-la-innovaci%C3%B3n)
 - [Beneficios para ti](./Lesson_2#beneficios-para-ti)
@@ -87,7 +87,7 @@ Más información [aquí](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3792863/)
 - [Lección 3: Resumen](./Lesson_3#lecci%C3%B3n-3-resumen)
 - [Lección 3: Evaluación](./Lesson_3#Lecci%C3%B3n-3-evaluaci%C3%B3n)
 
-### [Lección 4: Cuando no debe ser "Abierta"](./Lesson_4)
+### [Lección 4: Cuándo no se debe abrir](./Lesson_4)
 
 - [Preocupaciones comunes alrededor de la Ciencia Abierta](./Lesson_4#preocupaciones-comunes-alrededor-de-la-ciencia-abierta)
 - [Incentivos mal alineados](./Lesson_4#incentivos-mal-alineados)
@@ -96,7 +96,7 @@ Más información [aquí](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3792863/)
 - [Lección 4: Resumen](./Lesson_4#lecci%C3%B3n-4-resumen)
 - [Lección 4: Evaluación](./Lesson_4#lecci%C3%B3n-4-Evaluaci%C3%B3n)
 
-### [Lección 5: Planificando para la Ciencia Abierta: De la teoría a la práctica](./Lesson_5)
+### [Lección 5: Planificar para la Ciencia Abierta: De la teoría a la práctica](./Lesson_5)
 
 - [Planificar para la Ciencia Abierta](./Lesson_5#planificar-para-la-ciencia-abierta)
 - [Diseñar para la apertura](./Lesson_5#dise%C3%B1ar-para-la-apertura)
