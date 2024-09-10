@@ -79,7 +79,7 @@ Estos términos clave son tópicos importantes para este módulo. Selecciona el 
 
 - [Cuándo compartir los datos y si hacerlo](./Lesson_4#cu%C3%A1ndo-compartir-los-datos-y-si-hacerlo)
 - [Dónde compartir datos](./Lesson_4#d%C3%B3nde-compartir-datos)
-- [Cómo habilitar el reúso de datos](./Lesson_4c#%C3%B3mo-habilitar-el-reuso-de-datos)
+- [Cómo habilitar el reúso de datos](./Lesson_4c#%C3%B3mo-habilitar-el-re%C3%A1so-de-datos)
 - [Quién es responsable de compartir datos](./Lesson_4#qui%C3%A9n-es-responsable-de-compartir-datos)
 - [Lección 4: Resumen](./Lesson_4#lecci%C3%B3n-4-resumen)
 - [Lección 4: Evaluación](./Lesson_4#lecci%C3%B3n-4-evaluaci%C3%B3n)
