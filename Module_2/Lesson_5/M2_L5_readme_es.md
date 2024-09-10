@@ -4,10 +4,10 @@
 
 - [Herramientas para las publicaciones abiertas](#herramientas-para-las-publicaciones-abiertas)
 - [Herramientas para la reproducibilidad](#herramientas-para-la-reproducibilidad)
-- [Herramientas adicionales para resultados abiertos](#herramientas-adicionales-para-resultados-abiertos)
+- [Herramientas adicionales para Resultados Abiertos](#herramientas-adicionales-para-resultados-abiertos)
 - [Lección 5: Resumen](#lecci%C3%B3n-5-resumen)
 - [Lección 5: Evaluación](#lecci%C3%B3n-5-evaluaci%C3%B3n)
-- [Resumen del Módulo 2: Herramientas y recursos abiertos](#resumen-del-m%C3%B3dulo-2-herramientas-y-recursos-abiertos)
+- [Resumen del Módulo 2: Herramientas y Recursos Abiertos](#resumen-del-m%C3%B3dulo-2-herramientas-y-recursos-abiertos)
 
 ## Descripción General
 
@@ -90,7 +90,7 @@ Herramientas para apoyar la reproducibilidad en los resultados de investigación
 
 **Nota:** Como habrás observado, muchas herramientas de Ciencia Abierta demandan conocimientos intermedios o avanzados en materia de datos e información y programación, especialmente si se trata de proyectos de investigación que requieren una programación intensiva. Una de las mejores maneras de aprender estas habilidades es a través del contacto con las comunidades respectivas, que a menudo proporcionan capacitación y tutoría.
 
-## Herramientas adicionales para resultados abiertos 
+## Herramientas adicionales para Resultados Abiertos 
 
 ### Herramientas para la gestión de proyectos abiertos
 
@@ -203,7 +203,7 @@ _Pregunta_
 - Rastrear conjuntos de datos y versiones de software y DOIs
 - Crear resúmenes de artículos de investigación
 
-## Resumen del Módulo 2: Herramientas y recursos abiertos
+## Resumen del Módulo 2: Herramientas y Recursos Abiertos
 
 A lo largo de este módulo, has aprendido algunos de los conceptos y herramientas que apoyan el descubrimiento y el uso de la investigación abierta, que se pueden utilizar para hacer datos y software, y que sirven para compartir sus resultados. Entre ellos se incluyen:
 
