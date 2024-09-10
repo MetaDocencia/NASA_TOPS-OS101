@@ -248,7 +248,7 @@ Ofrece a las personas usuarias del software una libertad amplia, pero no complet
 
 Permite a las personas usuarias reusar, pero también otorga la responsabilidad de compartir sus cambios con la comunidad.
 
-Copyleft
+**Copyleft**
 
 Puede ser distribuido o modificado si todo el código involucrado está bajo la misma licencia.
 
