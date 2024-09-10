@@ -19,7 +19,7 @@ Al finalizar esta lección deberías ser capaz de:
 
 - Evaluar y seleccionar formatos de Datos Abiertos.
 - Añadir documentación que permita a otras personas que investigan evaluar la relevancia de los datos. Esto incluye metadatos, archivos README (LEEME) y control de versiones.
-- Listar dos licencias abiertas comunes usas para conjuntos de datos.
+- Listar dos licencias abiertas comunes usadas para conjuntos de datos.
 
 ## Planificar para Datos Abiertos
 
