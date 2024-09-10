@@ -66,7 +66,7 @@ Más información [aquí](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3792863/)
 
 - [Motivación por la Ciencia Abierta](./Lesson_1#motivaci%C3%B3n-por-la-ciencia-abierta)
 - [¿Qué es la Ciencia Abierta?](./Lesson_1#qu%C3%A9-es-la-ciencia-abierta)
-- [¿Quién hace ciencia abierta?](./Lesson_1#qui%C3%A9n-hace-ciencia-abierta)
+- [¿Quién hace Ciencia Abierta?](./Lesson_1#qui%C3%A9n-hace-ciencia-abierta)
 - [Lección 1: Resumen](./Lesson_1#lecci%C3%B3n-1-resumen)
 - [Lección 1: Evaluación](./Lesson_1#lecci%C3%B3n-1-evaluaci%C3%B3n)
 
