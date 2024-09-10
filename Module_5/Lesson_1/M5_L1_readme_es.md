@@ -4,7 +4,7 @@
 
 - [¿Qué objetos de investigación se crean a lo largo del ciclo de investigación?](#qu%C3%A9-objetos-de-investigaci%C3%B3n-se-crean-a-lo-largo-del-ciclo-de-investigaci%C3%B3n)
 - [Ejemplos de Resultados Abiertos](#ejemplos-de-resultados-abiertos)
-- [¿Qué es la crisis de reproducibilidad?](#qu%C3%A9-es-la-crisis-de-reproducibilidad)
+- [¿Qué es la crisis de la reproducibilidad?](#qu%C3%A9-es-la-crisis-de-la-reproducibilidad)
 - [Lección 1: Resumen](#lecci%C3%B3n-1-resumen)
 - [Lección 1: Evaluación](#lecci%C3%B3n-1-evaluaci%C3%B3n)
 
@@ -18,7 +18,7 @@ Al finalizar esta lección deberías ser capaz de:
 
 - Describir en que consisten los Resultados Abiertos y enumerar los objetos de investigación que pueden ser creados a lo largo de un ciclo de investigación.
 - Describir cómo compartir Resultados Abiertos puede hacer progresar la ciencia y tu carrera.
-- Explicar qué es la crisis de reproducibilidad y cómo la Ciencia Abierta puede ayudar a combatirla.
+- Explicar qué es la crisis de la reproducibilidad y cómo la Ciencia Abierta puede ayudar a combatirla.
 
 ## ¿Qué objetos de investigación se crean a lo largo del ciclo de investigación?
 
@@ -160,19 +160,19 @@ YouTube: https://www.youtube.com/watch?v=cI-kM_wPbbQ
 
 En 2016 una [encuesta de Nature](https://www.nature.com/articles/533452a) (en inglés) sobre reproducibilidad encontró que, de 1.576 investigadores, «Más del 70% de las personas que investigan han intentado y fracasado en reproducir los experimentos de otro equipo científico, y más de la mitad han fracasado en reproducir sus propios experimentos». La “crisis de la reproducibilidad” en la ciencia es una preocupación creciente por varios estudios de reproducibilidad en los que no se reprodujeron los resultados positivos anteriores.
 
-Si queremos resolver la crisis de reproducibilidad debemos tener en cuenta todo el flujo de trabajo de la investigación. El hecho que el 70% de las personas que investigan no pudieran reproducir los resultados de otros equipos científicos resulta alarmante, sobre todo si se tiene en cuenta que la reproducibilidad de la ciencia es la piedra angular del método científico.
+Si queremos resolver la crisis de la reproducibilidad debemos tener en cuenta todo el flujo de trabajo de la investigación. El hecho que el 70% de las personas que investigan no pudieran reproducir los resultados de otros equipos científicos resulta alarmante, sobre todo si se tiene en cuenta que la reproducibilidad de la ciencia es la piedra angular del método científico.
 
 <img src="../images/media/image15_es.png" style="width:350px;height:auto;" />
 
 A estas alturas, debería ser obvio que existen muchos incentivos personales para aplicar los principios de la Ciencia Abierta a lo largo de todas las etapas del proceso de investigación. Al hacer que los resultados sean abiertos en todo momento, aumenta la posibilidad de reproducir tus propios resultados.
 
-Aunque la reproducibilidad de los resultados propios pueda parecer un logro trivial, un [estudio de Nature de 2016](https://www.nature.com/articles/533452a) (en inglés) descubrió que el 50% de las personas que investigan son incapaces de reproducir sus propios experimentos. Esta situación pone de relieve el aspecto crítico de la crisis de reproducibilidad. Esto también tiene implicaciones para la investigación, más allá de la capacidad de mejorarla. 
+Aunque la reproducibilidad de los resultados propios pueda parecer un logro trivial, un [estudio de Nature de 2016](https://www.nature.com/articles/533452a) (en inglés) descubrió que el 50% de las personas que investigan son incapaces de reproducir sus propios experimentos. Esta situación pone de relieve el aspecto crítico de la crisis de la reproducibilidad. Esto también tiene implicaciones para la investigación, más allá de la capacidad de mejorarla. 
 
-### ¿Cuál es la causa de esta crisis de reproducibilidad?
+### ¿Cuál es la causa de esta crisis de la reproducibilidad?
 
 <img src="../images/media/image16_es.png" style="width:100%;height:auto;" />
 
-Las tres causas principales de la crisis de reproducibilidad son:
+Las tres causas principales de la crisis de la reproducibilidad son:
 
 1. Los métodos intermedios de investigación suelen describirse de manera poco formal o no se describen en absoluto.
 2. A menudo se omiten por completo los datos intermedios.
@@ -184,7 +184,7 @@ Los artículos muchas veces no contienen la información suficiente para que otr
 
 Según otros dos estudios publicados en [Sesiones Informáticas en Bioinformatics](https://academic.oup.com/bib/article/12/3/288/258098) (en inglés) y [Física en Nature](https://www.nature.com/articles/nphys3313) (en inglés), sin acceso al código fuente de los artículos, la reproducibilidad resulta complicada.
 
-### Lucha contra la crisis de reproducibilidad
+### Lucha contra la crisis de la reproducibilidad
 
 Si tu flujo de trabajo de investigación utiliza los principios de los Resultados Abiertos, como se muestra en el ejemplo, esto te ayudará a combatir la crisis de la reproducibilidad.
 
@@ -194,7 +194,7 @@ Podemos crear procesos de trabajo reproducibles y combatir esta crisis, teniendo
 
 <img src="../images/media/image21_es.png" style="width:350px;height:auto" />
 
-Repensemos tu flujo de trabajo de investigación. Identifica los objetos de investigación que podrían compartirse (o podrían haber sido compartidos) como Resultados Abiertos de un proyecto en el que estás o estuviste participando. ¿Cuáles son los puntos de mayor prioridad para superar la crisis de reproducibilidad en cada área del proceso del trabajo de investigación?
+Repensemos tu flujo de trabajo de investigación. Identifica los objetos de investigación que podrían compartirse (o podrían haber sido compartidos) como Resultados Abiertos de un proyecto en el que estás o estuviste participando. ¿Cuáles son los puntos de mayor prioridad para superar la crisis de la reproducibilidad en cada área del proceso del trabajo de investigación?
 
 - Ideación
 - Planificación
@@ -244,7 +244,7 @@ En esta lección has aprendido:
 
 - El flujo de trabajo científico contemporáneo implica ser abierto en cuanto a procesos y productos. Los productos de la investigación (resultados) incluyen mucho más que el informe final, lo que supone un cambio drástico respecto a la noción histórica de resultado científico.
 - En cada etapa del proceso de desarrollo de la investigación se producen objetos de investigación que podemos considerar resultados.
-- Podemos combatir la crisis de reproducibilidad compartiendo estos objetos de investigación en cada etapa de nuestro flujo de trabajo en la investigación.
+- Podemos combatir la crisis de la reproducibilidad compartiendo estos objetos de investigación en cada etapa de nuestro flujo de trabajo en la investigación.
 - ¡Existen ejemplos asombrosos de grupos de investigación que comparten distintos tipos de resultados de Acceso Abierto!
 
 Empecemos a pensar en lo que podemos hacer inmediatamente, para avanzar hacia un proceso de trabajo de investigación abierta.
@@ -269,7 +269,7 @@ _Pregunta_
 
 **02/02**
 
-¿Cuáles son algunas de las principales causas de la crisis de reproducibilidad?
+¿Cuáles son algunas de las principales causas de la crisis de la reproducibilidad?
 
 - Los métodos intermedios de investigación suelen describirse de manera poco formal o no se describen en absoluto.
 - Muchas veces se omiten por completo los datos intermedios.
