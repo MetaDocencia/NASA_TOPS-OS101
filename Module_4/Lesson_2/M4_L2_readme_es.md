@@ -370,7 +370,7 @@ Si estás escribiendo un software, también puedes citar en los comentarios y en
 
 ## Lección 2: Resumen
 
-Conclusiones principales de esta lección: 
+En esta lección has aprendido: 
 
 - El Código Abierto existe dentro de un ecosistema vasto, orgánico y distribuido. Descubrir Código Abierto depende de definir bien tus necesidades, saber dónde buscar y que las personas que lo desarrollan hayan utilizado los principios FAIR.
 - Los artículos científicos también son un buen lugar para descubrir Código Abierto, ya que ahora muchas revistas científicas exigen que el código utilizado en el artículo se encuentre disponible y esté vinculado mediante un DOI.
