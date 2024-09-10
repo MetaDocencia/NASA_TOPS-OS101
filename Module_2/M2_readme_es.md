@@ -1,4 +1,4 @@
-# Introducción a la Ciencia Abierta Módulo 2: Herramientas y recursos abiertos
+# Introducción a la Ciencia Abierta Módulo 2: Herramientas y Recursos Abiertos
 
 Te damos la bienvenida a Introducción a la Ciencia Abierta: Herramientas y recursos abiertos
 
@@ -45,17 +45,17 @@ Estos términos clave son tópicos importantes para este módulo. Selecciona el 
 
 -   [Introducción a las herramientas para la Ciencia Abierta](./Lesson_2#introducci%C3%B3n-a-las-herramientas-para-la-ciencia-abierta)
 -   [Identificadores persistentes](./Lesson_2#identificadores-persistentes)
--   [Herramientas útiles de Ciencia Abierta](./Lesson_2#herramientas-%C3%BAtiles-para-la-ciencia-abierta)
+-   [Herramientas útiles para la Ciencia Abierta](./Lesson_2#herramientas-%C3%BAtiles-para-la-ciencia-abierta)
 -   [Planes de Ciencia Abierta y Gestión de Datos](./Lesson_2#planes-de-ciencia-abierta-y-gesti%C3%B3n-de-datos)
 -   [Lección 2: Resumen](./Lesson_2#lecci%C3%B3n-2-resumen)
 -   [Lección 2: Evaluación](./Lesson_2#lecci%C3%B3n-2-evaluaci%C3%B3n)
 
 ### [Lección 3: Herramientas para Datos Abiertos](./Lesson_3)
 
--   [Introducción a Datos Abiertos](./Lesson_3#introducci%C3%B3n-a-los-datos-abiertos)
+-   [Introducción a los Datos Abiertos](./Lesson_3#introducci%C3%B3n-a-los-datos-abiertos)
 -   [Principios FAIR](./Lesson_3#principios-FAIR)
--   [Herramientas para ayudar con la planificación de la creación de datos abiertos](./Lesson_3#herramientas-para-ayudar-con-la-planificaci%C3%B3n-de-la-creaci%C3%B3n-de-datos-abiertos)
--   [Herramientas para ayudar con el uso y manejo de datos abiertos](./Lesson_3#herramientas-para-ayudar-con-el-uso-y-manejo-de-datos-abiertos)
+-   [Herramientas para ayudar con la planificación de la creación de Datos Abiertos](./Lesson_3#herramientas-para-ayudar-con-la-planificaci%C3%B3n-de-la-creaci%C3%B3n-de-datos-abiertos)
+-   [Herramientas para ayudar con el uso y manejo de Datos Abiertos](./Lesson_3#herramientas-para-ayudar-con-el-uso-y-manejo-de-datos-abiertos)
 -   [Lección 3: Resumen](./Lesson_3#lecci%C3%B3n-3-resumen)
 -   [Lección 3: Evaluación](./Lesson_3#lecci%C3%B3n-3-evaluaci%C3%B3n)
 
@@ -70,9 +70,9 @@ Estos términos clave son tópicos importantes para este módulo. Selecciona el 
 
 ### [Lección 5: Herramientas para Resultados Abiertos](./Lesson_5)
 
--   [Herramientas para publicaciones abiertas](./Lesson_5#herramientas-para-las-publicaciones-abiertas)
+-   [Herramientas para las publicaciones abiertas](./Lesson_5#herramientas-para-las-publicaciones-abiertas)
 -   [Herramientas para la reproducibilidad](./Lesson_5#herramientas-para-la-reproducibilidad)
--   [Herramientas adicionales para resultados abiertos](./Lesson_5#herramientas-adicionales-para-resultados-abiertos)
+-   [Herramientas adicionales para Resultados Abiertos](./Lesson_5#herramientas-adicionales-para-resultados-abiertos)
 -   [Lección 5: Resumen](./Lesson_5#lecci%C3%B3n-5-resumen)
 -   [Lección 5: Evaluación](./Lesson_5#lecci%C3%B3n-5-evaluaci%C3%B3n)
 -   [Resumen del Módulo 2: Herramientas y recursos abiertos](./Lesson_5#resumen-del-m%C3%B3dulo-2-herramientas-y-recursos-abiertos)
