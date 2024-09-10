@@ -477,7 +477,7 @@ Selecciona todas las opciones que correspondan.
 - Crea una nueva revista que requiera una costosa suscripción para su lectura.
 - Continúa buscando las mejores prácticas para Ciencia Abierta y desarrolla planes para una mayor apertura de tu ciencia o investigación.
 
-## Resumen del Módulo 1: Ethos de la Ciencia Abierta
+## Resumen del Módulo 1: El Ethos de la Ciencia Abierta
 
 ¡Felicitaciones! Ahora, deberías ser capaz de:
 
