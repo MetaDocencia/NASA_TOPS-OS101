@@ -377,7 +377,7 @@ Aquí, nos gustaría que consideraras las limitaciones generadas por el software
 
 ## Lección 1: Resumen
 
- Conclusiones principales de esta lección:
+En esta lección has aprendido:
 
 - La motivación para la Ciencia Abierta, así como sus metas y resultados.
 - Por qué deberíamos hacer Ciencia Abierta ahora y cómo la tecnología la ha hecho más factible.
