@@ -2,7 +2,7 @@
 
 ## Contenidos
 
-- [Escribir un Plan de Ciencia Abierta y Gestión de Datos: Qué incluir para compartir Resultados Abiertos](#escribir-un-plan-de-ciencia-abierta-y-gesti%C3%B3n-de-datos:-qu%C3%A9-incluir-para-compartir-resultados-abiertos)
+- [Escribir un Plan de Ciencia Abierta y Gestión de Datos: Qué incluir para compartir Resultados Abiertos](#escribir-un-plan-de-ciencia-abierta-y-gesti%C3%B3n-de-datos-qu%C3%A9-incluir-para-compartir-resultados-abiertos)
 - [Ejemplos de pasos hacia resultados más abiertos](#ejemplos-de-pasos-hacia-resultados-m%C3%ADs-abiertos)
 - [Cómo una tecnología emergente como la IA está cambiando nuestra forma de hacer ciencia](#c%C3%B3mo-una-tecnolog%C3%ADa-emergente-como-la-ia-est%C3%A1-cambiando-nuestra-forma-de-hacer-ciencia)
 - [Lección 5: Resumen](#lecci%C3%B3n-5-resumen)
@@ -22,7 +22,7 @@ Al finalizar esta lección deberías ser capaz de:
 - Listar algunos pasos concretos para compartir resultados abiertamente.
 - Describir cómo la tecnología emergente, como la IA, está influyendo actualmente en la forma en que utilizamos, hacemos y compartimos nuestra ciencia.
 
-## Escribir un Plan de de Ciencia Abierta y Gestión de Datos: Qué incluir para compartir Resultados Abiertos
+## Escribir un Plan de Ciencia Abierta y Gestión de Datos: Qué incluir para compartir Resultados Abiertos
 
 El proceso para compartir datos y software en el marco de un Plan de Ciencia Abierta y Gestión de Datos (PCAGD) se trató en otros módulos, por lo que aquí hablaremos de cómo compartir el otro tipo de resultados de la investigación. La mayoría de las propuestas exigen que se incluyan planes para publicaciones como manuscritos revisados por pares, informes técnicos, libros y material de conferencias.
 
