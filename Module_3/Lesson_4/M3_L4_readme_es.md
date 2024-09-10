@@ -1,4 +1,4 @@
-# Lección 4: Compartiendo Datos Abiertos
+# Lección 4: Compartir Datos Abiertos
 
 ## Contenidos
 
