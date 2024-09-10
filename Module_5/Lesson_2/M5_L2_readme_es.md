@@ -413,7 +413,7 @@ En la Lección 1, se presentó el caso de JWST. El [artículo](https://www.natur
 
 ## Lección 2: Resumen
 
-Conclusiones principales de esta lección:
+En esta lección has aprendido:
 
 - Los Resultados Abiertos se pueden encontrar tanto utilizando portales académicos de búsqueda como mediante búsquedas en internet.
 - La confiabilidad de una publicación generalmente puede evaluarse por la confiabilidad del sitio web del que proviene, la participación de la comunidad y el rigor científico de su contenido.
