@@ -192,10 +192,10 @@ Si bien hay muchos desafíos para la adopción de la Ciencia Abierta, creemos qu
 
 ## Lección 4: Resumen
 
-En esta lección has aprendido:
+Conclusiones principales de esta lección:
 
-- Preocupaciones válidas en torno a la apertura de nuestra ciencia, para las cuales a menudo hay prácticas de Ciencia Abierta específicas que pueden ayudar a mitigarlas.
-- Que el desajuste de los incentivos crea desafíos del mundo real que actúan como obstáculos para adoptar prácticas de Ciencia Abierta. Hay formas en que los individuos pueden minimizar o trabajar con estas barreras, así como organizaciones y grupos que están trabajando activamente para actualizar la estructura de incentivos.
+- Existen preocupaciones válidas en torno a la apertura de nuestra ciencia, para las cuales a menudo hay prácticas de Ciencia Abierta específicas que pueden ayudar a mitigarlas.
+- El desajuste de los incentivos crea desafíos del mundo real que actúan como obstáculos para adoptar prácticas de Ciencia Abierta. Hay formas en que los individuos pueden minimizar o trabajar con estas barreras, así como organizaciones y grupos que están trabajando activamente para actualizar la estructura de incentivos.
 - Trabajar abierta y colaborativamente tiene sus retos, pero existen algunas estrategias para comunicarse respetando las diferencias.
 - También existen barreras institucionales e infraestructurales para adoptar prácticas abiertas, pero podemos minimizar algunos de estos desafíos utilizando herramientas e infraestructuras generales.
 
