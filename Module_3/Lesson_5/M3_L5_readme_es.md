@@ -21,7 +21,7 @@ Al finalizar esta lección deberías ser capaz de:
 - Enumerar oportunidades para participar en las comunidades de Datos Abiertos.
 - Identificar recursos adicionales de Ciencia Abierta y listar formas de continuar entrenándote.
 
-## Escribir un Plan de Gestión de Datos y de Ciencia Abierta
+## Escribir un Plan de Ciencia Abierta y Gestión de Datos 
 
 El proceso, las responsabilidades y los factores a considerar al crear un Plan de Ciencia Abierta y Gestión de Datos se han presentado a lo largo de este módulo. Los elementos comunes a todos los Planes de Gestión de Datos (PGD) relevantes para Datos Abiertos incluyen una descripción teniendo en cuenta lo siguiente:
 
