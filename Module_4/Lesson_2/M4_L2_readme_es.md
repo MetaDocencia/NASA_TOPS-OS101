@@ -2,8 +2,8 @@
 
 ## Contenidos
 
-- [Descubrir Código y Software Abiertos](#descubrir-c%C3%B3digo-abierto-y-software)
-- [Evaluar Código y Software Abiertos](#evaluar-c%C3%B3digo-abierto-y-software)
+- [Descubrir Código y Software Abiertos](#descubrir-c%C3%B3digo-y-software-abiertos)
+- [Evaluar Código y Software Abiertos](#evaluar-c%C3%B3digo-y-software-abiertos)
 - [Reusar Código Abierto](#reusar-c%C3%B3digo-abierto)
 - [Citar y reconocer el uso de Código Abierto](#citar-y-reconocer-el-uso-de-c%C3%B3digo-abierto)
 - [Lección 2: Resumen](#lecci%C3%B3n-2-resumen)
