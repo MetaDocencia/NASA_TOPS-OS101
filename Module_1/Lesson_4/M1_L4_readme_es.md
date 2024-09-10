@@ -1,11 +1,11 @@
-# Lección 4: Cuando no se debe ser "Abierta"
+# Lección 4: Cuándo no se debe abrir
 
 ## Contenidos
 
 - [Preocupaciones comunes alrededor de la Ciencia Abierta](#preocupaciones-comunes-alrededor-de-la-ciencia-abierta)
 - [Incentivos mal alineados](#incentivos-mal-alineados)
 - [Barreras sociales](#barreras-sociales)
-- [Barreras institucionales y de infraestructuras](#barreras-institucionales-y-de-infraestructura)
+- [Barreras institucionales y de infraestructura](#barreras-institucionales-y-de-infraestructura)
 - [Lección 4: Resumen](#lecci%C3%B3n-4-resumen)
 - [Lección 4: Evaluación](#lecci%C3%B3n-4-Evaluaci%C3%B3n)
 
