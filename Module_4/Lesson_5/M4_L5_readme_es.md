@@ -3,7 +3,7 @@
 ## Contenidos
 
 - [Planes de Ciencia Abierta y Gestión de Datos](#planes-de-ciencia-abierta-y-gesti%C3%B3n-de-datos)
-- [¿Cómo planificar abrir nuestro código?](#c%C3%B3mo-planeamos-hacer-nuestro-c%C3%B3digo-abierto)
+- [¿Cómo planificar abrir nuestro código?](#c%C3%B3mo-planificar-abrir-nuestro-c%C3%B3digo)
 - [Generar interés y construir comunidades](#generar-inter%C3%A9s-y-construir-comunidades)
 - [Contribuir a proyectos de software de Código Abierto](#contribuir-a-proyectos-de-software-de-c%C3%B3digo-abierto)
 - [Recursos adicionales](#recursos-adicionales)
