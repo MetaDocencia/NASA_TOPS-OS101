@@ -40,7 +40,7 @@ Entender cómo trabajar con código científico es esencial en el panorama moder
 -   Casi inmediatamente liberado para ser examinado.
 -   Muchos ojos → Muchos errores encontrados → Muchas correcciones.
 
-## Herramientas para control de versiones
+## Herramientas para el control de versiones
 
 ### Control de versiones 
 
