@@ -156,7 +156,7 @@ El lugar que elijas para compartir tus materiales y tus resultados de investigac
 
 En el caso del software, ya que a menudo se actualiza y modifica, quienes investigan lo comparten primero en una plataforma con control de versiones como GitHub o GitLab, pero luego archivan una versión de la misma en un repositorio que tiene capacidades de preservación a largo plazo. ¡Aprende más sobre esto en el Módulo 4!
 
-En el caso de los resultados, las publicaciones de Acceso Abierto y los servidores de prepublicación (_preprint_, en inglés) son lugares comunes para compartirlos. El Módulo 5 aborda todas estas opciones.
+En el caso de los resultados, las publicaciones de Acceso Abierto y los servidores de _preprints_ son lugares comunes para compartirlos. El Módulo 5 aborda todas estas opciones.
 
 ### Actividad 5.1: Usar, Hacer, Compartir
 
