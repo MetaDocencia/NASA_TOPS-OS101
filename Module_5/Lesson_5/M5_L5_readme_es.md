@@ -56,15 +56,15 @@ Aquí hay un [repositorio](https://github.com/jmunroe/OpenScienceExample_GISTEMP
 
 Hay muchas maneras en que la Ciencia Abierta puede ampliar la duración o el alcance de los proyectos. Estos son algunos pasos que puedes tomar para compartir tus Resultados Abiertos de forma que tu trabajo sea más utilizable, reproducible e inclusivo:
 
-- Añade un Código de Conducta a través del archivo CÓDIGO_DE_CONDUCTA (_CODE_OF_CONDUCT_, en inglés) y enlaza a otras políticas que se aplican a tu trabajo.
-- Añade guías de personas colaboradoras y autoría a través de un archivo CONTRIBUCION (_CONTRIBUTION_, en inglés).
-- Añade a tu equipo con su permiso y a las personas colaboradoras.
+- Añade un Código de Conducta a través del archivo CODIGO_DE_CONDUCTA (_CODE_OF_CONDUCT_, en inglés) y enlaza a otras políticas que se aplican a tu trabajo.
+- Añade guías de personas colaboradoras y autoría a través de un archivo CONTRIBUCION (_CCONTRIBUTING_, en inglés).
+- Añade, con su permiso, a tu equipo y a las personas colaboradoras.
 - Añade tu propuesta pero elimina cualquier información sensible.
 - Elabora una hoja de ruta preliminar y determina qué objetivos pretendes alcanzar con el proyecto.
 - Crea una carpeta de gestión del proyecto, otra de código y otra de datos, en las que podrás cargar la información adecuada a medida que se desarrolle el proyecto.
 - Elabora una lista de los recursos necesarios para tu proyecto.
 - Proporciona enlaces a materiales de capacitación de los que puedan beneficiarse las personas que colaboren.
-- Utiliza tableros de proyecto e incidencias para comunicar lo que está ocurriendo en el proyecto.
+- Utiliza tableros de proyecto e incidencias (_issues_) para comunicar lo que está ocurriendo en el proyecto.
 - Utiliza _Pull Request_ para invitar a revisiones a nuevos desarrollos de código y contenido (en Git).
 - Añade manuales de usuario y cuadernos ejecutables para permitir pruebas de código.
 - Crea y comparte cuadernos computacionales que documenten cómo se procesan los datos y el resultado obtenido.
@@ -73,11 +73,11 @@ Hay muchas maneras en que la Ciencia Abierta puede ampliar la duración o el alc
 - Contribuye a la documentación para mejorar las herramientas de Código Abierto basándote en tu propia experiencia.
 - Conecta tu repositorio a Binder para permitir pruebas en línea de tu código y cuadernos ejecutables.
 - Enlaza todas las salidas generadas fuera de este repositorio (como blogs, videos, publicaciones en foros y podcasts, entre otros, como se discutió anteriormente).
-- Algunos pasos avanzados que deberían aplicarse a medida que se desarrolla el proyecto son la integración continua, la contenedorización, el archivo CITACION (_CITATION_, en inglés) CFF y la creación de una página web sencilla para enlazar toda la información.
+- Algunos pasos avanzados que deberían aplicarse a medida que se desarrolla el proyecto son la integración continua, el uso de contenedores (_containers_ en inglés), el archivo CITACION (_CITATION CFF_, en inglés) y la creación de una página web sencilla para enlazar toda la información.
 
 ## Cómo una tecnología emergente como la IA está cambiando nuestra forma de hacer ciencia
 
-A lo largo de estos módulos, Internet ha sido identificada como una tecnología disruptiva fundamental que cambió la forma en que se realiza casi toda la ciencia. La comunidad científica rara vez va a las bibliotecas para leer los últimos artículos de una revista. Los datos ya no se envían por correo a todo el mundo en unidades de cinta. El software ya no se comparte a través de disquetes flexibles. Internet ayudó a crear el flujo de trabajo científico moderno y ha hecho la ciencia más interactiva y accesible. Ahora las herramientas de IA están empezando a alterar la ciencia de una manera similar. La IA no sólo está revolucionando muchos aspectos de nuestras vidas, sino que también está cambiando nuestra forma de hacer ciencia. A medida que las empresas compiten por crear e integrar nuevas herramientas de IA generativa en cada aspecto de nuestras vidas, muchas personas que investigan y editan revistas, instituciones, y agencias buscan cómo usar estas herramientas de forma eficaz, comprender su fiabilidad, precisión y sesgos, y cómo utilizarlas de forma ética. Otro motivo de preocupación es cómo la información compartida con las herramientas de IA puede utilizarse para revelar datos confidenciales de forma intencionada o no, lo que plantea problemas de privacidad.
+A lo largo de estos módulos, Internet ha sido identificada como una tecnología disruptiva fundamental que cambió la forma en que se realiza casi toda la ciencia. La comunidad científica rara vez va a las bibliotecas para leer los últimos artículos de una revista. Los datos ya no se envían por correo a todo el mundo en unidades de cinta. El software ya no se comparte a través de disquetes flexibles. Internet ayudó a crear el flujo de trabajo científico moderno y ha hecho a la ciencia más interactiva y accesible. Ahora las herramientas de IA están empezando a alterar la ciencia de una manera similar. La IA no sólo está revolucionando muchos aspectos de nuestras vidas, sino que también está cambiando nuestra forma de hacer ciencia. A medida que las empresas compiten por crear e integrar nuevas herramientas de IA generativa en cada aspecto de nuestras vidas, muchas personas que investigan y editan revistas, instituciones, y agencias buscan cómo usar estas herramientas de forma eficaz, comprender su fiabilidad, precisión y sesgos, y cómo utilizarlas de forma ética. Otro motivo de preocupación es cómo la información compartida con las herramientas de IA puede utilizarse para revelar datos confidenciales de forma intencionada o no, lo que plantea problemas de privacidad.
 
 La IA puede ayudarnos a usar y compartir la investigación. Puede actuar como un acelerador, ocupándose de las tareas tediosas y dejando libres a las personas que investigan para pensamientos más creativos. Estas herramientas son mejores que los humanos para procesar grandes cantidades de datos, pero los seres humanos son mejores para el pensamiento creativo y matizado. Es importante tener esto en cuenta a la hora de determinar si usar o no la IA. Por ejemplo, muchas personas ya utilizan herramientas de IA para ayudarles a gestionar su bandeja de entrada y a redactar correos electrónicos con contenido sugerido generado por IA. En el ámbito científico, hay muchas tareas que podrían agilizarse usando la IA, según tres estudios publicados en Nature:
 
@@ -158,7 +158,7 @@ La IA puede ayudarnos a usar y compartir la investigación. Puede actuar como un
     <tr>
         <td colspan="2">
             <p>Las herramientas de IA pueden utilizarse para generar código para realizar tareas de análisis y traducir entre lenguajes de programación. Algunos ejemplos de estas herramientas incluyen <a href="https://github.com/features/copilot">Co-Pilot</a>, <a href="https://openai.com/blog/openai-codex">Codex</a>, <a href="https://chat.openai.com/auth/login">ChatGPT</a>y <a href="https://alphacode.deepmind.com/">AlphaCode</a>.</p>
-            <p><strong>Consejo de uso:</strong> Modelos grandes de lenguaje populares pueden ser usados para generar código, pero muchas personas han notado que la ruptura de tareas y el uso de indicaciones cuidadosas ayudan a generar mejores resultados.</p>
+            <p><strong>Consejo de uso:</strong> Modelos grandes de lenguaje populares pueden ser usados para generar código, pero muchas personas han notado que la fragmentación de tareas y el uso de indicaciones cuidadosas ayudan a generar mejores resultados.</p>
         </td>
     </tr>
   </tbody>
