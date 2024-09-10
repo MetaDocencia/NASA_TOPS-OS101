@@ -3,7 +3,7 @@
 ## Contenidos
 
 - [Introducción](#introducci%C3%B3n)
-- [Definiciones y Consideraciones de los Datos Abiertos](#definiciones-y-consideraciones-de-los-datos-abiertos)
+- [Definiciones y consideraciones de los Datos Abiertos](#definiciones-y-consideraciones-de-los-datos-abiertos)
 - [Beneficios de los Datos Abiertos](#beneficios-de-los-datos-abiertos)
 - [Desafíos de los Datos Abiertos](#desaf%C3%ADos-de-los-datos-abiertos)
 - [Aplicación de los principios FAIR](#aplicaci%C3%B3n-de-los-principios-fair)
