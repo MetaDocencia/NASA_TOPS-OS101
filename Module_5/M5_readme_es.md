@@ -31,7 +31,7 @@ Estos términos clave son importantes para el módulo. Selecciona el término pa
 
 **Identificadores Persistentes** - Referencia duradera a un documento, archivo, página web u otro objeto digital. Generalmente se utiliza en el contexto de objetos digitales accesibles a través de Internet. La mayoría de los identificadores persistentes tienen un identificador único que está vinculado a la dirección actual de los metadatos o del contenido.
 
-**Crisis de Reproducibilidad** - La 'crisis de reproducibilidad' de la ciencia es una preocupación creciente debido a varios estudios de reproducibilidad en los que resultados positivos previos no fueron reproducidos.
+**Crisis de la Reproducibilidad** - La 'crisis de la reproducibilidad' de la ciencia es una preocupación creciente debido a varios estudios de reproducibilidad en los que resultados positivos previos no fueron reproducidos.
 
 **DOI** - Es un identificador persistente estandarizado por la Organización Internacional para la Estandarización (ISO, en inglés) y utilizado para identificar de forma única varios objetos.
 
@@ -43,11 +43,11 @@ Estos términos clave son importantes para el módulo. Selecciona el término pa
 
 - [¿Qué objetos de investigación se crean a lo largo del ciclo de investigación?](./Lesson_1#qu%C3%A9-objetos-de-investigaci%C3%B3n-se-crean-a-lo-largo-del-ciclo-de-investigaci%C3%B3n)
 - [Ejemplos de Resultados Abiertos](./Lesson_1#ejemplos-de-resultados-abiertos)
-- [¿Qué es la crisis de reproducibilidad?](./Lesson_1#qu%C3%A9-es-la-crisis-de-reproducibilidad)
+- [¿Qué es la crisis de la reproducibilidad?](./Lesson_1#qu%C3%A9-es-la-crisis-de-la-reproducibilidad)
 - [Lección 1: Resumen](./Lesson_1#lecci%C3%B3n-1-resumen)
 - [Lección 1: Evaluación](./Lesson_1#lecci%C3%B3n-1-evaluaci%C3%B3n)
 
-### [Lección 2: Usando Resultados Abiertos](./Lesson_2)
+### [Lección 2: Usar Resultados Abiertos](./Lesson_2)
 
 - [Cómo descubrir Resultados Abiertos](./Lesson_2#c%C3%B3mo-descubrir-resultados-abiertos)
 - [Cómo evaluar Resultados Abiertos](./Lesson_2#c%C3%B3mo-evaluar-resultados-abiertos)
@@ -56,7 +56,7 @@ Estos términos clave son importantes para el módulo. Selecciona el término pa
 - [Lección 2: Resumen](./Lesson_2#lecci%C3%B3n-2-resumen)
 - [Lección 2: Evaluación](./Lesson_2#lecci%C3%B3n-2-evaluaci%C3%B3n)
 
-### [Lección 3: Haciendo Resultados Abiertos](./Lesson_3)
+### [Lección 3: Hacer Resultados Abiertos](./Lesson_3)
 
 - [Cómo hacer Resultados Abiertos](./Lesson_3#c%C3%B3mo-hacer-resultados-abiertos)
 - [El rol de las personas colaboradoras en la Ciencia Abierta](./Lesson_3#el-rol-de-las-personas-colaboradoras-en-la-ciencia-abierta)
@@ -65,7 +65,7 @@ Estos términos clave son importantes para el módulo. Selecciona el término pa
 - [Lección 3: Resumen](./Lesson_3#lecci%C3%B3n-3-resumen)
 - [Lección 3: Evaluación](./Lesson_3#lecci%C3%B3n-3-evaluaci%C3%B3n)
 
-### [Lección 4: Compartiendo Resultados Abiertos](./Lesson_4)
+### [Lección 4: Compartir Resultados Abiertos](./Lesson_4)
 
 - [¿Cuándo compartir?](#cu%C3%A1ndo-compartir)
 - [¿Cómo compartir?](#c%C3%B3mo-compartir)
