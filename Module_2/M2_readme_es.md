@@ -75,4 +75,4 @@ Estos términos clave son tópicos importantes para este módulo. Selecciona el 
 -   [Herramientas adicionales para Resultados Abiertos](./Lesson_5#herramientas-adicionales-para-resultados-abiertos)
 -   [Lección 5: Resumen](./Lesson_5#lecci%C3%B3n-5-resumen)
 -   [Lección 5: Evaluación](./Lesson_5#lecci%C3%B3n-5-evaluaci%C3%B3n)
--   [Resumen del Módulo 2: Herramientas y recursos abiertos](./Lesson_5#resumen-del-m%C3%B3dulo-2-herramientas-y-recursos-abiertos)
+-   [Resumen del Módulo 2: Herramientas y Recursos Abiertos](./Lesson_5#resumen-del-m%C3%B3dulo-2-herramientas-y-recursos-abiertos)
