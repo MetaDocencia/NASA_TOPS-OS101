@@ -1,4 +1,4 @@
-# Lección 2: Usando Resultados Abiertos
+# Lección 2: Usar Resultados Abiertos
 
 ## Contenidos
 
