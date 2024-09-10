@@ -18,9 +18,9 @@ Completando los cinco módulos y aprobando la evaluación al final de cada uno d
 
 - [Lección 1: ¿Qué es la Ciencia Abierta?](./Module_1/Lesson_1)
 - [Lección 2: ¿Por qué es importante la Ciencia Abierta?](./Module_1/Lesson_2)
-- [Lección 3: Cómo hacer Ciencia Abierta](./Module_1/Lección_3)
-- [Lección 4: Cuando no debe ser "Abierta"](./Module_1/Lesson_4)
-- [Lección 5: Planificando para la Ciencia Abierta: De la teoría a la práctica](./Module_1/Lesson_5)
+- [Lección 3: ¿Cómo hacer Ciencia Abierta?](./Module_1/Lección_3)
+- [Lección 4: ¿Cuándo no se debe abrir?](./Module_1/Lesson_4)
+- [Lección 5: Planificar para la Ciencia Abierta: De la teoría a la práctica](./Module_1/Lesson_5)
 
 ### [Módulo 2 - Herramientas y Recursos Abiertos](./Module_2)
 
