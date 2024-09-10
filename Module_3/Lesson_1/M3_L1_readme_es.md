@@ -375,7 +375,7 @@ Si tu proyecto ya está en curso, es una buena idea actualizar futuras publicaci
 
 <img src="../images/media/image10_es.png" style="width:100%;height:auto;" />
 
-En este plan de estudios, el contenido se organiza según cómo podrías usarlo, crearlo y compartirlo. Una parte de la Ciencia Abierta consiste en construir sobre los materiales de otros (usar), crear materiales tú mismo (hacer) y compartirlos para que otros puedan usar esos resultados (compartir). Las lecciones se organizan en torno a estos pasos del flujo de trabajo científico.
+En este plan de estudios, el contenido se organiza según cómo podrías usarlo, hacerlo y compartirlo. Una parte de la Ciencia Abierta consiste en construir sobre los materiales de otros (usar), crear materiales tú mismo (hacer) y compartirlos para que otros puedan usar esos resultados (compartir). Las lecciones se organizan en torno a estos pasos del flujo de trabajo científico.
 
 El sistema "Usar, Hacer, Compartir" clasifica las tareas más habituales en la práctica de la Ciencia Abierta.
 
@@ -391,7 +391,7 @@ _Seleccione cada pestaña para obtener más información_
   <thead>
     <tr>
         <th> QUIENES USAN DATOS ☑</th>
-        <th> QUIENES CREAN DATOS (PROVEEN DATOS)</th>
+        <th> QUIENES HACEN DATOS (PROVEEN DATOS)</th>
         <th> QUIENES SON RESPONSABLES DE COMPARTIR LOS DATOS (EDITAR DATOS)</th>
     </tr>
   </thead>
@@ -408,8 +408,8 @@ _Seleccione cada pestaña para obtener más información_
   <thead>
     <tr>
         <th> QUIENES USAN DATOS</th>
-        <th> QUIENES CREAN DATOS (PROVEEN DATOS) ☑</th>
-        <th> QUIENES SON RESPONSABLES DE COMPARTIR LOS DATOS (EDITAR DATOS)</th>
+        <th> QUIENES HACEN DATOS (PROVEEN DATOS) ☑</th>
+        <th> QUIENES COMPARTEN LOS DATOS (PUBLICAN DATOS)</th>
     </tr>
   </thead>
   <tbody>
@@ -425,8 +425,8 @@ _Seleccione cada pestaña para obtener más información_
   <thead>
     <tr>
         <th> QUIENES USAN DATOS</th>
-        <th> QUIENES CREAN DATOS (PROVEEN DATOS)</th>
-        <th> QUIENES SON RESPONSABLES DE COMPARTIR LOS DATOS (EDITAR DATOS) ☑</th>
+        <th> QUIENES HACEN DATOS (PROVEEN DATOS)</th>
+        <th> QUIENES COMPARTEN LOS DATOS (PUBLICAN DATOS) ☑</th>
     </tr>
   </thead>
   <tbody>
