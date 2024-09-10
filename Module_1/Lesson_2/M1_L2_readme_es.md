@@ -213,7 +213,7 @@ La mejor manera de incluir a un grupo diverso de profesionales y partes interesa
 
 ## Lección 2: Resumen
 
-En esta lección has aprendido:
+Conclusiones principales de esta lección:
 
 - Citar el trabajo de otras personas científicas en el que basamos nuestro trabajo o que reutilizamos apoya la práctica de la Ciencia Abierta basada en comunidad y orientada a usar, hacer y compartir.
 - Hacer ciencia de forma abierta puede aumentar la visibilidad de la investigación y dar lugar a colaboraciones más significativas.
