@@ -46,7 +46,7 @@ Crédito de estas definiciones: _National Academies of Sciences, Engineering, an
 
 ## Contenidos
 
-### [Lección 1: Introducción a Datos Abiertos](./Lesson_1)
+### [Lección 1: Introducción al Código Abierto](./Lesson_1)
 
 - [Historias de éxito](./Lesson_1#historias-de-%C3%A9xito)
 - [Definiciones y consideraciones del Código Abierto](./Lesson_1#definici%C3%B3n-y-consideraciones-del-c%C3%B3digo-abierto)
@@ -56,16 +56,16 @@ Crédito de estas definiciones: _National Academies of Sciences, Engineering, an
 - [Lección 1: Resumen](./Lesson_1#lecci%C3%B3n-1-resumen)
 - [Lección 1: Evaluación](./Lesson_1#lecci%C3%B3n-1-evaluaci%C3%B3n)
 
-### [Lección 2: Usando Datos Abiertos](./Lesson_2)
+### [Lección 2: Usar Código Abierto](./Lesson_2)
 
-- [Descubrir Código y Software Abiertos](./Lesson_2#descubrir-c%C3%B3digo-abierto-y-software)
-- [Evaluar Código y Software Abiertos](./Lesson_2#evaluar-c%C3%B3digo-abierto-y-software)
+- [Descubrir Código y Software Abiertos](./Lesson_2#descubrir-c%C3%B3digo-y-software-abiertos)
+- [Evaluar Código y Software Abiertos](./Lesson_2#evaluar-c%C3%B3digo-y-software-abiertos)
 - [Reusar Código Abierto](./Lesson_2#reusar-c%C3%B3digo-abierto)
 - [Citar y reconocer el uso de Código Abierto](./Lesson_2#citar-y-reconocer-el-uso-de-c%C3%B3digo-abierto)
 - [Lección 2: Resumen](./Lesson_2#lecci%C3%B3n-2-resumen)
 - [Lección 2: Evaluación](./Lesson_2#lecci%C3%B3n-2-evaluaci%C3%B3n)
 
-### [Lección 3: Creando Código Abierto](./Lesson_3)
+### [Lección 3: Hacer Código Abierto](./Lesson_3)
 
 - [¿Cómo planificar para crear código?](./Lesson_3#c%C3%B3mo-planificar-para-crear-c%C3%B3digo)
 - [Importancia del control de versiones](./Lesson_3#importancia-del-control-de-versiones)
@@ -75,7 +75,7 @@ Crédito de estas definiciones: _National Academies of Sciences, Engineering, an
 - [Lección 3: Resumen](./Lesson_3#lecci%C3%B3n-3-resumen)
 - [Lección 3: Evaluación](./Lesson_3#lecci%C3%B3n-3-evaluaci%C3%B3n)
 
-### [Lección 4: Compartiendo Datos Abiertos](./Lesson_4)
+### [Lección 4: Compartir Código Abierto](./Lesson_4)
 
 - [Planificar para compartir tu código](./Lesson_4#planificar-para-compartir-tu-c%C3%B3digo)
 - [Cuestiones legales y de seguridad](./Lesson_4#cuestiones-legales-y-de-seguridad)
@@ -89,7 +89,7 @@ Crédito de estas definiciones: _National Academies of Sciences, Engineering, an
 ### [Lección 5: De la teoría a la práctica](./Lesson_5)
 
 - [Planes de Ciencia Abierta y Gestión de Datos](./Lesson_5#planes-de-ciencia-abierta-y-gesti%C3%B3n-de-datos)
-- [¿Cómo planificar abrir nuestro código?](./Lesson_5#c%C3%B3mo-planeamos-hacer-nuestro-c%C3%B3digo-abierto)
+- [¿Cómo planificar abrir nuestro código?](./Lesson_5#c%C3%B3mo-planificar-abrir-nuestro-c%C3%B3digo)
 - [Generar interés y construir comunidades](./Lesson_5#generar-inter%C3%A9s-y-construir-comunidades)
 - [Contribuir a proyectos de software de Código Abierto](./Lesson_5#contribuir-a-proyectos-de-software-de-c%C3%B3digo-abierto)
 - [Recursos adicionales](./Lesson_5#recursos-adicionales)
