@@ -1,4 +1,4 @@
-# Lección 3: Crear Datos Abiertos
+# Lección 3: Haciendo Datos Abiertos
 
 ## Contenidos
 
@@ -37,7 +37,7 @@ En esta lección, abordaremos algunos pasos comunes para generar datos. Específ
 
 Como primer paso, comprueba si tu institución o organismo de financiamiento tiene guías, normas o plantillas para PGDs.
 
-## Seleccionar formatos de datos y herramientas para interoperabilidad
+## Seleccionar formatos de datos y herramientas para la interoperabilidad
 
 ### Consideraciones del formato de los datos
 
