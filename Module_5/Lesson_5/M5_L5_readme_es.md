@@ -145,7 +145,7 @@ La IA puede ayudarnos a usar y compartir la investigación. Puede actuar como un
   </tbody>
 </table>
 
-### Creando con IA:
+### Haciendo con IA:
 
 <table>
   <thead>
@@ -178,7 +178,7 @@ La IA puede ayudarnos a usar y compartir la investigación. Puede actuar como un
             <p>Los posibles inconvenientes al usar estas herramientas incluyen:</p>
             <ul>
             <li>Consulta la lista anterior para una revisión de la literatura.</li>
-            <li>Los errores de razonamiento fáctico y de sentido común porque no tienen (en este momento) el tipo de reconocimiento o percepción necesaria para entender el lenguaje y su relación con el mundo físico externo, biológico y social (fuente: <a href="https://www.tandfonline.com/doi/full/10.1080/08989621.2023.2168535">https://www.tandfonline.com/doi/full/10.1080/08989621.2023.2168535)</a>.</li>
+            <li>Los errores de razonamiento fáctico y de sentido común porque no tienen (en este momento) el tipo de reconocimiento o percepción necesaria para entender el lenguaje y su relación con el mundo físico externo, biológico y social (fuente: <a href="https://www.tandfonline.com/doi/full/10.1080/08989621.2023.2168535">https://www.tandfonline.com/doi/full/10.1080/08989621.2023.2168535</a>).</li>
             </ul>
         </td>
     </tr>
@@ -187,21 +187,21 @@ La IA puede ayudarnos a usar y compartir la investigación. Puede actuar como un
 
 ### Compartiendo con IA:
 
-- Resultados: Los modelos IA/AA (aprendizaje automático) se utilizan cada vez más en investigación. Al compartir resultados, sigue las mejores prácticas descritas en el artículo [Uso ético y responsable de IA/AA en la Tierra, el Espacio y las Ciencias Ambientales](https://essopenarchive.org/users/536571/articles/635008-ethical-and-responsible-use-of-ai-ml-in-the-earth-space-and-environmental-sciences), (en inglés).
-- Las indicaciones incrementales pueden ayudar a crear un esquema para tu artículo de investigación. Se puede encontrar un ejemplo en [X](https://twitter.com/MushtaqBilalPhD/status/1640243808851075072?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1640243808851075072%7Ctwgr%5E86f4269a3a6f05f7927bdb57e4f45654f827dc44%7Ctwcon%5Es1_\&ref_url=https%3A%2F%2Fwww.euronews.com%2Fnext%2F2023%2F08%2F07%2Fbest-ai-tools-academic-research-chatgpt-consensus-chatpdf-elicit-research-rabbit-scite) (en inglés).
+- Resultados: Los modelos IA/AA (aprendizaje automático) se utilizan cada vez más en investigación. Al compartir resultados, sigue las mejores prácticas descritas en el artículo [Uso ético y responsable de IA/AA en la Tierra, el Espacio y las Ciencias Ambientales](https://essopenarchive.org/users/536571/articles/635008-ethical-and-responsible-use-of-ai-ml-in-the-earth-space-and-environmental-sciences) (en inglés).
+- Las indicaciones incrementales pueden ayudar a crear un esquema para tu artículo de investigación. Se puede encontrar un ejemplo en [Twitter](https://twitter.com/MushtaqBilalPhD/status/1640243808851075072?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1640243808851075072%7Ctwgr%5E86f4269a3a6f05f7927bdb57e4f45654f827dc44%7Ctwcon%5Es1_\&ref_url=https%3A%2F%2Fwww.euronews.com%2Fnext%2F2023%2F08%2F07%2Fbest-ai-tools-academic-research-chatgpt-consensus-chatpdf-elicit-research-rabbit-scite) (en inglés).
 - Las herramientas de IA pueden ayudar a identificar dónde compartir resultados y ayudar a escribir publicaciones breves en las redes sociales u otras publicaciones basadas en tu artículo.
 
 ### Precauciones sobre el uso de herramientas de IA
 
 Las revistas están implementando cada vez más pautas y requisitos relacionados al uso de herramientas de IA durante el proceso de escritura. Muchas exigen que se divulgue el uso de herramientas de IA para escribir, crear imágenes u otros elementos y se identifique su método de uso. Como sucede con todo otro material dentro de un artículo, las personas responsables de la autoría deben garantizar que el contenido sea correcto. Ejemplos de esta política pueden ser leídos en las pautas de IA de [Nature](https://www.nature.com/nature-portfolio/editorial-policies/ai) y [NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10318315/) (ambas en inglés).
 
-Además, existen numerosos ejemplos de IA generativa (tanto para código como para contenido) que proporciona información plagiada en violación de las licencias, así como también falsificación de material, inclluidas las citas. El uso de estas herramientas de IA puede dar lugar a hallazgos de mala conducta académica y de investigación en caso de que los materiales generados por IA contengan falsificación o plagio. Así que ten cuidado. Obtén más información sobre posibles problemas con la IA en un [ejemplo de Nature](https://www.nature.com/nature-index/news/artificial-intelligence-writing-tools-promise-faster-manuscripts-for-researchers), (en inglés).
+Además, existen numerosos ejemplos de IA generativa (tanto para código como para contenido) que proporciona información plagiada en violación de las licencias, así como también falsificación de material, incluidas las citas. El uso de estas herramientas de IA puede dar lugar a hallazgos de mala conducta académica y de investigación en caso de que los materiales generados por IA contengan falsificación o plagio. Así que ten cuidado. Obtén más información sobre posibles problemas con la IA en un [ejemplo de Nature](https://www.nature.com/nature-index/news/artificial-intelligence-writing-tools-promise-faster-manuscripts-for-researchers) (en inglés).
 
 En este momento, y por estas razones, las herramientas de IA generalmente no están permitidas en las solicitudes de subvenciones o en la revisión por pares y actividades de revisión de propuestas.
 
-El Instituto Nacional de Salud (NIH, por sus siglas en inglés) ha prohibido "a los revisores científicos por pares usar procesadores de lenguaje natural, grandes modelos de lenguaje, u otras tecnologías generativas de Inteligencia Artificial (IA) para analizar y formular críticas de revisión por pares para solicitudes de subvenciones y propuestas de contratos de Investigación y Desarrollo." Utilizar IA en el proceso de revisión por pares es una violación de la confidencialidad porque estas herramientas "no tienen garantía de dónde se enviarán, guardarán, verán o utilizarán los datos en el futuro." El uso de herramientas de IA para ayudar a redactar una crítica, o para ayudar a mejorar la gramática y la sintaxis de un borrador crítico, se consideran violaciones de la confidencialidad. Lee [política de IA de NIH](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-23-149.html), (en inglés).
+El Instituto Nacional de Salud (NIH, por sus siglas en inglés) ha prohibido "a los revisores científicos por pares usar procesadores de lenguaje natural, grandes modelos de lenguaje, u otras tecnologías generativas de Inteligencia Artificial (IA) para analizar y formular críticas de revisión por pares para solicitudes de subvenciones y propuestas de contratos de Investigación y Desarrollo." Utilizar IA en el proceso de revisión por pares es una violación de la confidencialidad porque estas herramientas "no tienen garantía de dónde se enviarán, guardarán, verán o utilizarán los datos en el futuro." El uso de herramientas de IA para ayudar a redactar una crítica, o para ayudar a mejorar la gramática y la sintaxis de un borrador crítico, se consideran violaciones de la confidencialidad. Lee [política de IA de NIH](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-23-149.html) (en inglés).
 
-Las herramientas de IA para la ciencia se están desarrollando rápidamente. La comprensión de la comunidad científica de cómo usar IA de forma ética y segura está avanzando a medida que su uso en la investigación se expande rápidamente. Las pautas anteriores ofrecen una instantánea en el tiempo y probablemente seguirán evolucionando. Si eliges usar estas herramientas para la investigación científica, considera cuidadosamente cuánto confiar en ellas y cómo sus sesgos pueden impactar los resultados, como se advierte en [este artículo de la Nature](https://www.nature.com/articles/d41586-023-02980-0), (en inglés). Internet ha transformado el mundo y es probable que las herramientas de IA hagan lo mismo. Como con cualquier herramienta, es importante que se usen con el fin apropiado y de forma ética.
+Las herramientas de IA para la ciencia se están desarrollando rápidamente. La comprensión de la comunidad científica de cómo usar IA de forma ética y segura está avanzando a medida que su uso en la investigación se expande rápidamente. Las pautas anteriores ofrecen una instantánea en el tiempo y probablemente seguirán evolucionando. Si eliges usar estas herramientas para la investigación científica, considera cuidadosamente cuánto confiar en ellas y cómo sus sesgos pueden impactar los resultados, como se advierte en [este artículo de la revista Nature](https://www.nature.com/articles/d41586-023-02980-0) (en inglés). Internet ha transformado el mundo y es probable que las herramientas de IA hagan lo mismo. Como con cualquier herramienta, es importante que se usen con el fin apropiado y de forma ética.
 
 ## Lección 5: Resumen
 
@@ -223,7 +223,7 @@ _Pregunta_
 
 Lee la siguiente afirmación y decide si es verdadera o falsa.
 
-Es una buena idea incluir planes en tu Plan de Ciencia Abierta y Gestión de Datos para que tus resultados estén disponibles de formas distintas a la de  publicación tradicional, por ejemplo publicaciones de blogs o tutoriales en línea.
+_Es una buena idea incluir planes en tu Plan de Ciencia Abierta y Gestión de Datos para que tus resultados estén disponibles de formas distintas a la de  publicación tradicional, por ejemplo publicaciones de blogs o tutoriales en línea._
 
 - Verdadero
 - Falso
@@ -257,7 +257,7 @@ _Pregunta_
 
 ### Avanzar hacia un futuro científico, abierto, colaborativo e inclusivo
 
-La ciencia tiene como objetivo beneficiar a la sociedad. Compartir nuestra ciencia ayuda a garantizar que beneficie a la sociedad y brinde información para  las decisiones del público y de los responsables de la formulación de políticas, especialmente cuando está financiada por agencias públicas o gobiernos. Volviendo al Módulo 1 'Ethos de la Ciencia Abierta':
+La ciencia tiene como objetivo beneficiar a la sociedad. Compartir nuestra ciencia ayuda a garantizar que beneficie a la sociedad y brinde información para  las decisiones del público y de los responsables de la formulación de políticas, especialmente cuando está financiada por agencias públicas o gobiernos. Volviendo al Módulo 1 'El Ethos de la Ciencia Abierta':
 
 <img src="../images/media/opensciencequote_es.jpg" style="width:100%;height:auto;" />
 
@@ -275,7 +275,7 @@ A lo largo de este plan de estudios, nos hemos centrado en las habilidades neces
 
 ## Resumen de Introducción a la Ciencia Abierta
 
-¡Felicitaciones! ¡Has completado con éxito el programa Introducción a la Ciencia Abierta! Gracias por tomarse el tiempo para aprender sobre la Ciencia Abierta ¡tu eres parte de un movimiento más amplio para mejorar la ciencia y hacer nuestro mundo mejor!
+¡Felicitaciones! ¡Has completado con éxito el programa Introducción a la Ciencia Abierta! Gracias por tomarte el tiempo para aprender sobre la Ciencia Abierta ¡tú eres parte de un movimiento más amplio para mejorar la ciencia y hacer nuestro mundo mejor!
 
 ¿Quieres aprender más? Aquí hay algunos excelentes próximos pasos:
 
@@ -319,4 +319,4 @@ A lo largo de este plan de estudios, nos hemos centrado en las habilidades neces
 
 [CLICK PARA MAS INFORMACIÓN](https://www.openscience.nl/en) (en inglés)
 
-Estos sitios son solo un comienzo: ¡hay muchos más recursos fantásticos de Ciencia Abierta en línea! ¡Sigue de cerca el contenido de aprendizaje de disciplinas específicas que están desarrollando actualmente los beneficiarios de la subvención ScienceCore de la NASA, y que se aparecerá aquí una vez que esté disponible!
+Estos sitios son solo un comienzo: ¡hay muchos más recursos fantásticos de Ciencia Abierta en línea! ¡Sigue de cerca el contenido de aprendizaje de disciplinas específicas que están desarrollando actualmente los beneficiarios de la subvención ScienceCore de la NASA, y que aparecerá aquí una vez que esté disponible!
