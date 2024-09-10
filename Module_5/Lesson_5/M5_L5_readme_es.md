@@ -5,8 +5,8 @@
 - [Escribir un Plan de Ciencia Abierta y Gestión de Datos: Qué incluir para compartir Resultados Abiertos](#escribir-un-plan-de-ciencia-abierta-y-gesti%C3%B3n-de-datos-qu%C3%A9-incluir-para-compartir-resultados-abiertos)
 - [Ejemplos de pasos hacia resultados más abiertos](#ejemplos-de-pasos-hacia-resultados-m%C3%ADs-abiertos)
 - [Cómo una tecnología emergente como la IA está cambiando nuestra forma de hacer ciencia](#c%C3%B3mo-una-tecnolog%C3%ADa-emergente-como-la-ia-est%C3%A1-cambiando-nuestra-forma-de-hacer-ciencia)
-- [Lección 5: Resumen](#lecci%C3%B3n-4-resumen)
-- [Lección 5: Evaluación](#lecci%C3%B3n-4-evaluaci%C3%B3n)
+- [Lección 5: Resumen](#lecci%C3%B3n-5-resumen)
+- [Lección 5: Evaluación](#lecci%C3%B3n-5-evaluaci%C3%B3n)
 - [Resumen del Módulo 5: Resultados Abiertos](#resumen-del-m%C3%B3dulo-5-resultados-abiertos)
 - [Resumen de Introducción a la Ciencia Abierta](#resumen-de-introducci%C3%B3n-a-la-ciencia-abierta)
 
