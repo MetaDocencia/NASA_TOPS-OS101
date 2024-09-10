@@ -196,7 +196,7 @@ Los criterios de evaluación del software son similares, para cualquier nivel de
 - **Funcionalidad:** ¿Será de utilidad para tu problema científico?
 - **Interoperabilidad:** ¿Cuán difícil será de usar?
 - **Seguridad:** ¿Es seguro? ¿El uso del software crearía un riesgo para la seguridad?
-- **Licencias/restricciones:** ¿Puedes usarlo? ¿Es legal usar el software en tu proyecto?
+- **Licencias/restricciones:** ¿Puedes usarlo?¿Es legal usar el software en tu proyecto?
 
 ### Funcionalidad: Evaluación de la utilidad científica
 
