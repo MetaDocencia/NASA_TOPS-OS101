@@ -330,7 +330,7 @@ Reflexiona sobre las siguientes preguntas:
 
 ## Lección 1: Resumen
 
-Conclusiones principales de esta lección:
+En esta lección has aprendido:
 
 - En el software de Código Abierto, cualquiera puede ver el código fuente.
 - Los principios del Código Abierto promueven la transparencia, la colaboración, el intercambio, la inclusión y las comunidades.
