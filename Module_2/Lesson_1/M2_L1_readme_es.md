@@ -150,7 +150,7 @@ Todas las versiones: <https://doi.org/10.5281/zenod>
 
 ## Lección 1: Resumen
 
-Conclusiones principales de esta lección:
+En esta lección has aprendido:
 
 -   El conocimiento científico o los productos de la investigación adoptan la forma de: datos, software y resultados.
 -   En general, los datos son partes de información acerca de un tema, incluidas verdades teóricas, mediciones en bruto (información sin ningún procesamiento) o valores altamente procesados.
