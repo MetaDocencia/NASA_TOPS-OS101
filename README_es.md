@@ -41,9 +41,9 @@ Completando los cinco módulos y aprobando la evaluación al final de cada uno d
 ### [Módulo 4 - Código Abierto](./Module_4)
 
 - [Lección 1: Introducción al Código Abierto](./Module_4/Lesson_1)
-- [Lección 2: Usando Código Abierto](./Module_4/Lesson_2)
-- [Lección 3: Haciendo Código Abierto](./Module_4/Lesson_3)
-- [Lección 4: Compartiendo Código Abierto](./Module_4/Lesson_4)
+- [Lección 2: Usar Código Abierto](./Module_4/Lesson_2)
+- [Lección 3: Hacer Código Abierto](./Module_4/Lesson_3)
+- [Lección 4: Compartir Código Abierto](./Module_4/Lesson_4)
 - [Lección 5: De la teoría a la práctica](./Module_4/Lesson_5)
 
 ### [Módulo 5 - Resultados Abiertos](./Module_5)
