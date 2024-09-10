@@ -118,7 +118,7 @@ En esta actividad revisa el PGS y piensa en estas preguntas:
 
 **1. Tipos de software esperados**
 
-usaremos modelos de simulación establecidos para realizar simulaciones iniciales para este trabajo. Estos modelos de simulación están escritos en Fortran y fueron desarrollados durante la última década. Si bien no están disponibles para el público, sí lo están para que los use el proyecto (comunicación privada). Los modelos de simulación conducirán a la generación de archivos de salida como se describe en el Plan de Gestión de Datos (PGD). Desarrollaremos software de análisis en Python para analizar los archivos de salida del modelo, lo que permitirá el desarrollo de productos de datos derivados, mapas y figuras. El desarrollo del software de análisis en Python se compartirá en un repositorio de GitHub.
+Usaremos modelos de simulación establecidos para realizar simulaciones iniciales para este trabajo. Estos modelos de simulación están escritos en Fortran y fueron desarrollados durante la última década. Si bien no están disponibles para el público, sí lo están para que los use el proyecto (comunicación privada). Los modelos de simulación conducirán a la generación de archivos de salida como se describe en el Plan de Gestión de Datos (PGD). Desarrollaremos software de análisis en Python para analizar los archivos de salida del modelo, lo que permitirá el desarrollo de productos de datos derivados, mapas y figuras. El desarrollo del software de análisis en Python se compartirá en un repositorio de GitHub.
 
 **2. Desarrollo de análisis de software**
 
