@@ -34,7 +34,7 @@ Completando los cinco módulos y aprobando la evaluación al final de cada uno d
 
 - [Lección 1: Introducción a Datos Abiertos](./Module_3/Lesson_1)
 - [Lección 2: Usando Datos Abiertos](./Module_3/Lesson_2)
-- [Lección 3: Creando Datos Abiertos](./Module_3/Lesson_3)
+- [Lección 3: Haciendo Datos Abiertos](./Module_3/Lesson_3)
 - [Lección 4: Compartiendo Datos Abiertos](./Module_3/Lesson_4)
 - [Lección 5: De la teoría a la práctica](./Module_3/Lesson_5)
 
@@ -42,7 +42,7 @@ Completando los cinco módulos y aprobando la evaluación al final de cada uno d
 
 - [Lección 1: Introducción al Código Abierto](./Module_4/Lesson_1)
 - [Lección 2: Usando Código Abierto](./Module_4/Lesson_2)
-- [Lección 3: Creando Código Abierto](./Module_4/Lesson_3)
+- [Lección 3: Haciendo Código Abierto](./Module_4/Lesson_3)
 - [Lección 4: Compartiendo Código Abierto](./Module_4/Lesson_4)
 - [Lección 5: De la teoría a la práctica](./Module_4/Lesson_5)
 
@@ -50,7 +50,7 @@ Completando los cinco módulos y aprobando la evaluación al final de cada uno d
 
 - [Lección 1: Introducción a Resultados Abiertos](./Module_5/Lesson_1)
 - [Lección 2: Usando Resultados Abiertos](./Module_5/Lesson_2)
-- [Lección 3: Creando Resultados Abiertos](./Module_5/Lesson_3)
+- [Lección 3: Haciendo Resultados Abiertos](./Module_5/Lesson_3)
 - [Lección 4: Compartiendo Resultados Abiertos](./Module_5/Lesson_4)
 - [Lección 5: De la teoría a la práctica](./Module_5/Lesson_5)
 
