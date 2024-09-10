@@ -79,14 +79,14 @@ Estos términos clave son tópicos importantes para este módulo. Selecciona el 
 
 - [Cuándo compartir los datos y si hacerlo](./Lesson_4#cu%C3%A1ndo-compartir-los-datos-y-si-hacerlo)
 - [Dónde compartir datos](./Lesson_4#d%C3%B3nde-compartir-datos)
-- [Cómo habilitar el reuso de datos](./Lesson_4c#%C3%B3mo-habilitar-el-reuso-de-datos)
+- [Cómo habilitar el reúso de datos](./Lesson_4c#%C3%B3mo-habilitar-el-reuso-de-datos)
 - [Quién es responsable de compartir datos](./Lesson_4#qui%C3%A9n-es-responsable-de-compartir-datos)
 - [Lección 4: Resumen](./Lesson_4#lecci%C3%B3n-4-resumen)
 - [Lección 4: Evaluación](./Lesson_4#lecci%C3%B3n-4-evaluaci%C3%B3n)
 
-### [Lección 5: De la Teoría a la Práctica](./Lesson_5)
+### [Lección 5: De la teoría a la práctica](./Lesson_5)
 
-- [Escribir un Plan de Gestión de Datos y de Ciencia Abierta](./Lesson_5#escribir-un-plan-de-gesti%C3%B3n-de-datos-y-de-ciencia-abierta)
+- [Escribir un Plan de Ciencia Abierta y Gestión de Datos](./Lesson_5#escribir-un-plan-de-ciencia-abierta-y-gesti%C3%B3n-de-datos)
 - [Las comunidades de Datos Abiertos y tú](./Lesson_5#las-comunidades-de-datos-abiertos-y-t%C3%BA)
 - [Recursos adicionales](./Lesson_5#recursos-adicionales)
 - [Lección 5: Resumen](./Lesson_5#lecci%C3%B3n-5-resumen)
