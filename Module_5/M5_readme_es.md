@@ -67,11 +67,11 @@ Estos términos clave son importantes para el módulo. Selecciona el término pa
 
 ### [Lección 4: Compartir Resultados Abiertos](./Lesson_4)
 
-- [¿Cuándo compartir?](#cu%C3%A1ndo-compartir)
-- [¿Cómo compartir?](#c%C3%B3mo-compartir)
-- [Otras consideraciones a la hora de compartir](#otras-consideraciones-a-la-hora-de-compartir)
-- [Lección 4: Resumen](#lecci%C3%B3n-4-resumen)
-- [Lección 4: Evaluación](#lecci%C3%B3n-4-evaluaci%C3%B3n)
+- [¿Cuándo compartir?](./Lesson_5#cu%C3%A1ndo-compartir)
+- [¿Cómo compartir?](./Lesson_5#c%C3%B3mo-compartir)
+- [Otras consideraciones a la hora de compartir](./Lesson_5#otras-consideraciones-a-la-hora-de-compartir)
+- [Lección 4: Resumen](./Lesson_5#lecci%C3%B3n-4-resumen)
+- [Lección 4: Evaluación](./Lesson_5#lecci%C3%B3n-4-evaluaci%C3%B3n)
 
 ### [Lección 5: De la teoría a la práctica](./Lesson_5)
 
