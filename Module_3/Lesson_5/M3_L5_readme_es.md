@@ -172,7 +172,7 @@ Además de los recursos ya mencionados los recursos comunitarios listados a cont
 
 Entrenamiento adicional:
 
-**GODAN MOOC sobre cómo usar, crear y compartir Datos Abiertos**
+**GODAN MOOC sobre cómo usar, hacer y compartir Datos Abiertos**
 
 [HAZ CLIC PARA APRENDER MÁS](https://aims.gitbook.io/open-data-mooc/) (en inglés)
 
