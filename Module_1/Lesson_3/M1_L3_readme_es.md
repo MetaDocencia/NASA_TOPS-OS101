@@ -428,7 +428,7 @@ En esta actividad reflexiona sobre tus respuestas a las siguientes preguntas:
 
 ## Lección 3: Resumen
 
-En esta lección aprendiste:
+En esta lección has aprendido:
 
 - Situaciones cuando puede ser inapropiado o perjudicial compartir tus datos o investigación. Estas incluyen el mantenimiento de la seguridad, la protección de la intimidad y el respeto de comunidades diversas.
 - Qué es la propiedad intelectual, quién la posee, y cómo se protege a través de licencias.
