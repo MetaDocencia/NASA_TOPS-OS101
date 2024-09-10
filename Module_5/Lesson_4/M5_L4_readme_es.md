@@ -44,11 +44,11 @@ Es importante tener en mente el tipo de audiencia a la que potencialmente llegar
 
 ### Otras formas de retroalimentación interactiva
 
-Existen otras formas de compartir que pueden servir para distribuir y documentar sus resultados y/o paquetes de software, además de permitir una mayor flexibilidad y apertura. Estas opciones pueden ser:
+Existen otras formas de compartir que pueden servir para distribuir y documentar tus resultados y/o paquetes de software, además de permitir una mayor flexibilidad y apertura. Estas opciones pueden ser:
 
 - Publicar en blogs y/o artículos de difusión en línea
 - Elaborar videos cortos y podcasts
-- Utilizar cuadernos computacionales o 'interfaz notebook'
+- Utilizar cuadernos computacionales o 'interfaz notebooks'
 - Publicar en redes sociales
 - Participar de discusiones en foros
 
@@ -56,12 +56,12 @@ Estos diferentes medios permiten la diseminación de resultados nulos, actualiza
 
 Aquí hay algunos ejemplos específicos de cómo se llevan a cabo estas interacciones a través de plataformas de colaboración científica:
 
-- Publicaciones en blogs, como en [Pangeo](https://medium.com/pangeo) (en inglés): ¡puedes observar ejemplos de cómo usar diferentes herramientas de software para distintas preguntas científicas!
-- Cuadernos computacionales como una forma de demostrar técnicas de programación (por ejemplo, la [Galería del Libro de Cocina del Proyecto Pythia](https://cookbooks.projectpythia.org/),en inglés, que muestra flujos de trabajo de ciencias computacionales en las ciencias de la Tierra).
+- Publicaciones en blogs, como en [Pangeo](https://medium.com/pangeo) (en inglés) ¡puedes observar ejemplos de cómo usar diferentes herramientas de software para distintas preguntas científicas!
+- Cuadernos computacionales como una forma de demostrar técnicas de programación (por ejemplo, la [Galería del Libro de Recetas del Proyecto Pythia](https://cookbooks.projectpythia.org/), en inglés, que muestra flujos de trabajo de ciencias computacionales en las Ciencias de la Tierra).
 - Publicaciones que aún no fueron revisadas por pares, como las [Notas de Investigación de la AAS](https://journals.aas.org/research-notes/) (en inglés).
 - Páginas de equipos y/o misiones científicas, como la [página del equipo LUVOIR](https://asd.gsfc.nasa.gov/luvoir/) o la página de la [misión Juno](https://www.missionjuno.swri.edu/) (ambas en inglés).
 - Actas de conferencias, como las de la [Sociedad de Ingenieros de Instrumentación Óptica y Fotónica](https://spie.org/publications/conference-proceedings) (en inglés).
-- Publicaciones en redes sociales: [Tweet del @MartianColonist](https://twitter.com/MartianColonist/status/1706824699349488036) (en inglés)
+- Publicaciones en redes sociales: [Tweet de @MartianColonist](https://twitter.com/MartianColonist/status/1706824699349488036) (en inglés)
 
 <img src="../images/media/image57_es.png" style="width:20px;height:auto;" /> **En el transcurso de un estudio de 3 años, el _Journal of Medical Internet Research_ descubrió que los artículos más tuiteados tenían 11 veces más probabilidades de ser altamente citados que los artículos menos tuiteados.**
 
@@ -75,7 +75,7 @@ Hay varios ejemplos (discutidos en estas lecciones) que demuestran cómo podemos
 
 Publicar trabajos en una revista revisada por pares constituye un fundamento básico de cómo se comparte la ciencia. Al mismo tiempo, se considera una vía importante para comunicar resultados que cuenten con rigor científico entre colegas. Las revistas académicas también actúan como un archivo de preservación a largo plazo de artículos de investigación científica. Para muchas personas, publicar en revistas revisadas por pares y ser citadas son factores clave para ser evaluadas en el avance de su carrera científica, para recibir nombramientos, obtener reconocimiento o aspirar a formar parte de comités.
 
-En este sentido, de manera recurrente las personas autoras pueden llegar a pagar un Cargo por Procesamiento de Artículos (APC, por sus siglas en inglés) que puede variar entre $200 y $12,000 USD. Las revistas de mayor prestigio a menudo son las que cobran las tarifas más altas. El acceso a los artículos ha estado tradicionalmente restringido por muros de pago que requieren una suscripción o un cargo de consulta por artículo. Las revistas pueden contar con diferentes opciones para hacer que tu trabajo publicado sea accesible para todas las personas.
+En este sentido, de manera recurrente las personas autoras pueden llegar a pagar un Cargo por Procesamiento de Artículos (APC, por sus siglas en inglés) que puede variar entre $200 y $12.000 USD. Las revistas de mayor prestigio a menudo son las que cobran las tarifas más altas. El acceso a los artículos ha estado tradicionalmente restringido por muros de pago que requieren una suscripción o un cargo de consulta por artículo. Las revistas pueden contar con diferentes opciones para hacer que tu trabajo publicado sea accesible para todas las personas.
 
 **¿Quién tiene acceso a las suscripciones de revistas?**
 
@@ -98,14 +98,14 @@ En esta actividad aprenderás cómo acceder a la información sobre las polític
 - Revista Suiza de Geociencias (_Swiss Journal of Geosciences_, en inglés) 
 - Historia de las ciencias geológicas y espaciales (_History of Geo-and Space Sciences_, en inglés). <br><br>Nota: Puedes introducir cualquier revista que desees, pero para este ejercicio usa una de las listadas para ver el enlace Sherpa/Romeo que aparece en el Paso 5.
 
-3. Los resultados de la búsqueda pueden mostrar más de una coincidencia. Selecciona la revista deseada dentro de los resultados de la búsqueda. <br><br>Aparecerá un panel de control con información relativa a las tarifas de publicación, las políticas de exención, el tipo de licencia abierta usada y otra información sobre los múltiples títulos mostrados.
+3. Los resultados de la búsqueda pueden mostrar más de una coincidencia. Selecciona la revista deseada. <br><br>Aparecerá un tablero con información relativa a las tarifas de publicación, las políticas de exención, el tipo de licencia abierta usada y otra información sobre los múltiples títulos mostrados.
    
 4. Selecciona el enlace «política de archivo» (_archiving policy_, en inglés) que aparece en una de las casillas presentadas. Puedes hacer una búsqueda del término _archiving policy_ para llegar al recuadro. Al seleccionarlo, proporcionará los enlaces a una gran cantidad de información sobre las políticas de Acceso Abierto de la revista para el propio manuscrito: <br><img src="../images/media/image59_es.png" style="width:300px;height:auto;" /><br>Se presentará una gran cantidad de información, incluidos detalles sobre las políticas de publicación específicas de la revista seleccionada.
    
-5. Alternativamente, para obtener una visión más condensada de las políticas de la revista, vuelve al tablero de DOAJ en la página "Acerca de" (_about_, en inglés) en la que aparecen los múltiples cuadros desplegados, y selecciona el enlace «Sherpa/Romeo» (puedes hacer una búsqueda para identificarlo más fácilmente). <br><img src="../images/media/image60_es.jpeg" style="width:300px;height:auto;" />
+5. Alternativamente, para obtener una representación más condensada de las políticas de la revista, vuelve al tablero de DOAJ en la página "Acerca de" (_about_, en inglés) en la que aparecen los múltiples cuadros desplegados, y selecciona el enlace «Sherpa/Romeo» (puedes hacer una búsqueda para identificarlo más fácilmente). <br><img src="../images/media/image60_es.jpeg" style="width:300px;height:auto;" />
 6. En la página Sherpa Romeo, selecciona el nombre de la revista que aparece en la lista (la única revista que aparecerá).<br><img src="../images/media/image63_es.jpeg" style="width:100%;height:auto;" />
 
-7. En la página, notarás que resume y consolida las políticas de Acceso Abierto para esa revista y los materiales asociados. Es probable que la versión publicada sea la más relevante.<br><img src="../images/media/image64_es.jpeg" style="width:100%;height:auto;"/>
+7. En la página se resumen consolidan las políticas de Acceso Abierto para esa revista y los materiales asociados. Es probable que la versión publicada sea la más relevante.<br><img src="../images/media/image64_es.jpeg" style="width:100%;height:auto;"/>
 
 8. Revisa la página para determinar qué licencia ha definido la revista seleccionada para el reúso de manuscritos.
 
@@ -115,13 +115,13 @@ Este es un ejemplo de un sitio que puedes usar para saber si la política de una
 
 ## ¿Cómo compartir?
 
-Quizás el paso más importante para que tus resultados sean abiertos sea asignarles un identificador global único y persistente. Esto te brindará un código único, URL o número que podrás usar para referirte de forma exclusiva a un objeto de investigación. Cualquier objeto de investigación derivado puede usar este identificador para enlazar con él y crear un historial rastreable de uso y desarrollo. Además, el identificador puede ser usado por otras personas para citar y acreditar tu trabajo ([fuente](https://opensciency.github.io/sprint-content/open-results/lesson3-apply-open-results.html)) (en inglés).
+Quizás el paso más importante para que tus resultados sean abiertos sea asignarles un identificador global único y persistente. Esto te brindará un código único, URL o número que podrás usar para referirte de forma exclusiva a un objeto de investigación. Cualquier objeto de investigación derivado puede usar este identificador para enlazar con él y crear un historial rastreable de uso y desarrollo. Además, el identificador puede ser usado por otras personas para citar y acreditar tu trabajo ([fuente](https://opensciency.github.io/sprint-content/open-results/lesson3-apply-open-results.html), en inglés).
 
 El identificador también debe ser persistente. Esto garantiza que conduzca al mismo objeto de investigación durante un largo periodo de tiempo. Lo que cuenta como «persistente» es, por supuesto, una apreciación, ya que incluso el identificador más estable probablemente no sobrevivirá a que el Sol engulla la Tierra dentro de unos miles de millones de años. En este contexto, «persistente» implica que está registrado en una base de datos gestionada por una organización o sistema que se compromete a mantenerlo estable y compatible con versiones anteriores en un futuro previsible.
 
 Por ejemplo, las URL (un sitio web personal, un repositorio de GitHub o un almacenamiento en la nube) son notoriamente poco persistentes, ya que pueden cambiar su contenido con frecuencia o dejar de ser válidas si no reciben mantenimiento. Por su parte, las publicaciones de revistas científicas tienen un Identificador de Objeto Digital (DOI por sus siglas en inglés) cuya persistencia está garantizada por la Fundación Internacional del DOI.
 
-Además de identificar unívocamente cada objeto de investigación, es importante poder identificar y citar unívocamente a todas las personas autoras y colaboradoras. Para ello, se recomienda obtener el identificador digital permanente de cada uno de ellos. El identificador abierto de persona investigadora y colaboradora ([ORCID](https://orcid.org/) por sus siglas en inglés) es un servicio en línea que permite obtener un identificador digital permanente.
+Además de identificar unívocamente cada objeto de investigación, es importante poder identificar y citar unívocamente a todas las personas autoras y colaboradoras. Para ello, se recomienda obtener el identificador digital permanente de cada uno de ellas. El identificador abierto de persona investigadora y colaboradora ([ORCID](https://orcid.org/) por sus siglas en inglés) es un servicio en línea que permite obtener un identificador digital permanente.
 
 Existen ejemplos de identificadores globalmente únicos y persistentes:
 
@@ -170,7 +170,7 @@ Existen ejemplos de identificadores globalmente únicos y persistentes:
   <tbody>
     <tr>
         <td colspan="3">
-            <p><a href="https://web.archive.org/web/20220121051903/https://www.go-fair.org/">El Archivo de Internet</a> (*The Internet Archive*) captura instantáneas de sitios web y sus enlaces son realmente estables. Aunque no sea ideal, es una herramienta práctica para crear identificadores de sitios web fácilmente.</p>
+            <p><a href="https://web.archive.org/web/20220121051903/https://www.go-fair.org/">El Archivo de Internet</a> (<i>The Internet Archive</i>) captura instantáneas de sitios web y sus enlaces son realmente estables. Aunque no sea ideal, es una herramienta práctica para crear identificadores de sitios web fácilmente.</p>
         </td>
     </tr>
   </tbody>
@@ -180,13 +180,13 @@ Existen ejemplos de identificadores globalmente únicos y persistentes:
 
 <img src="../images/media/image67_es.png" style="width:350px;height:auto;" />
 
-Al aplicar una licencia a tu trabajo, dejas claro qué pueden hacer los demás con las cosas que compartes, así como las condiciones para hacerlo (como el requisito de citarte). Otro elemento muy importante que debes incluir con tus objetos de investigación son normas claras para su reúso (tal cual y para la creación de obras derivadas), que a menudo se codifican más fácilmente mediante el uso de una licencia.
+Al aplicar una licencia a tu trabajo, dejas claro qué pueden hacer los demás con las cosas que compartes, así como las condiciones para hacerlo (como el requisito de citarte). Otro elemento muy importante que debes incluir con tus objetos de investigación son normas claras para su reúso (tal como es y para la creación de obras derivadas), que a menudo se codifican más fácilmente mediante el uso de una licencia.
 
 Sin licencia, todos los derechos corresponden a la persona autora del resultado de la investigación. Eso significa que nadie más puede usar, copiar, distribuir o modificar la obra sin consentimiento. Una licencia otorga este consentimiento. Si no dispones de una licencia para cada uno de los objetos de investigación que constituyen el resultado de tu investigación, ésta no podrá ser usada por toda la comunidad de investigación.
 
 Las licencias Creative Commons suelen utilizarse para contenidos escritos (véase la Lección 3 para una descripción completa). La ventaja de una licencia, a diferencia del dominio público, es que la mayoría exige la atribución a las personas creadoras originales. La Licencia de Atribución de Creative Commons, [CC-BY](https://wellcome.org/grant-funding/guidance/open-access-guidance/creative-commons-attribution-licence-cc) (en inglés), es la licencia de Acceso Abierto más común para compartir publicaciones, ya que solo requiere atribución. Existen otras licencias Creative Commons usadas que pueden tener diferentes limitaciones en cuanto a si pueden o no utilizarse comercialmente, si pueden o no modificarse y copiarse, y si las licencias pueden o no modificarse en posteriores adaptaciones del código.
 
-Las instituciones, agencias de financiación o propuestas de investigación pueden requerir el uso de una licencia específica en función del tipo de material que se produzca a partir de tu investigación. En el caso de los organismos públicos, se suele recomendar (o exigir) CC-0 o CC-BY para maximizar el rendimiento de la inversión y garantizar su reúso más amplia posible. Elegir una licencia CC que tenga restricciones adicionales (por ejemplo, -ND, -SA, -NC) puede dar lugar a un menor reúso de los datos. Cuando compartas resultados en distintas plataformas, ¡fíjate bien cuál es la licencia que se está aplicando!
+Las instituciones, agencias de financiación o propuestas de investigación pueden requerir el uso de una licencia específica en función del tipo de material que se produzca a partir de tu investigación. En el caso de los organismos públicos, se suele recomendar (o exigir) CC-0 o CC-BY para maximizar su reúso y, por lo tanto, el rendimiento de la inversión. Elegir una licencia CC que tenga restricciones adicionales (por ejemplo, -ND, -SA, -NC) puede dar lugar a un menor reúso de los datos. Cuando compartas resultados en distintas plataformas, ¡fíjate bien cuál es la licencia que se está aplicando!
 
 ### Vías para publicar en Acceso Abierto
 
@@ -209,8 +209,8 @@ Los tipos más comunes de vías de publicación en Acceso Abierto son Verde (_gr
   <tbody>
     <tr>
         <td colspan="3">
-            <p>En el Acceso Abierto Dorado, las personas autoras pagan una tasa de procesamiento de artículos, APC (*Article Processing Charge*), a una revista para que ésta publique la versión final de su artículo bajo una licencia de Acceso Abierto, que luego queda disponible en línea de forma permanente y gratuita para cualquiera. Las personas autoras conservarán los derechos de autoría, normalmente a través de una licencia Creative Commons de su elección, que dicta lo que los demás pueden hacer con el artículo. Una crítica en torno a la publicación dorada en Acceso Abierto es el costo.</p>
-            <p>Por lo general, los APC pueden rondar los 2000 USD o, en algunos casos, más, lo que puede resultar prohibitivo para las personas que hacen ciencia en muchas partes del mundo. Algunas editoriales ofrecen descuentos o exenciones a los autores de países clasificados por el Banco Mundial como economías de renta baja, o es posible que su financiador cubra los costos de APC como parte de su subvención.</p>
+            <p>En el Acceso Abierto Dorado, las personas autoras pagan una tasa de procesamiento de artículos, APC (<i>Article Processing Charge</i>), a una revista para que ésta publique la versión final de su artículo bajo una licencia de Acceso Abierto, que luego queda disponible en línea de forma permanente y gratuita para cualquiera. Las personas autoras conservarán los derechos de autoría, normalmente a través de una licencia Creative Commons de su elección, que dicta lo que los demás pueden hacer con el artículo. Una crítica en torno a la publicación dorada en Acceso Abierto es el costo.</p>
+            <p>Por lo general, los APC pueden rondar los 2.000 USD o, en algunos casos, más, lo que puede resultar prohibitivo para las personas que hacen ciencia en muchas partes del mundo. Algunas editoriales ofrecen descuentos o exenciones a los autores de países clasificados por el Banco Mundial como economías de renta baja, o es posible que su financiador cubra los costos de APC como parte de su subvención.</p>
         </td>
     </tr>
   </tbody>
@@ -237,9 +237,9 @@ Los tipos más comunes de vías de publicación en Acceso Abierto son Verde (_gr
 <table style="width:100%;">
   <thead>
     <tr>
-        <th>PUBLICACIÓN EN Acceso Abierto ORO</th>
-        <th>PUBLICACIÓN EN Acceso Abierto VERDE</th>
-        <th>PUBLICACIÓN EN Acceso Abierto DIAMANTE ☑</th>
+        <th>Acceso Abierto DORADO</th>
+        <th>Acceso Abierto VERDE</th>
+        <th>Acceso Abierto DIAMANTE ☑</th>
     </tr>
   </thead>
   <tbody>
@@ -295,7 +295,7 @@ Las preimpresiones presentan muchas ventajas, así como desventajas percibidas o
         <td colspan="2">
             <ul>
             <li>El trabajo puede compartirse con errores críticos que pueden haberse detectado en la revisión por pares.</li>
-            <li>En algunos campos, existe la percepción de una menor fiabilidad o calidad de la investigación publicada como impresión por pares.</li>
+            <li>En algunos campos, existe la percepción de una menor fiabilidad o calidad de la investigación publicada como preimpresión.</li>
             <li>Algunas revistas no permiten o no aceptan artículos si han sido enviados a un servidor de preimpresión.</li>
             </ul>
         </td>
@@ -340,30 +340,30 @@ Hay muchas señales de alarma en estas solicitudes de editoriales depredadoras:
 - Su nombre se parece al de una revista prestigiosa.
 - Tienen un alto índice de autocitación, superior al 20%.
 - Tienen una tasa muy alta de aceptación de los trabajos enviados.
-- Envían con frecuencia solicitudes para presentar trabajos o servir de editor.
+- Envían con frecuencia solicitudes para presentar trabajos o servir de editor/a.
 
-A continuación encontráis algunas reflexiones finales sobre lo que debes o no debes tener en cuenta a la hora de decidir dónde publicar. Como ocurre con muchas de las consideraciones que se plantean en el mundo académico, a veces la decisión sobre el mejor lugar para publicar vendrá determinada por las conversaciones de boca a boca con colegas. Lee más sobre la [guía de NOA sobre la publicación depredadora](https://libguides.library.noaa.gov/predatorypublishing).
+A continuación se presentan algunas reflexiones finales sobre lo que debes o no debes tener en cuenta a la hora de decidir dónde publicar. Como ocurre con muchas de las consideraciones que se plantean en el mundo académico, a veces la decisión sobre el mejor lugar para publicar vendrá determinada por las conversaciones de boca a boca con colegas. Lee más sobre la [guía de NOAA sobre la publicación depredadora](https://libguides.library.noaa.gov/predatorypublishing).
 
 ### Preguntas frecuentes sobre la divulgación de resultados
 
 Compartir de diferentes maneras, especialmente sin revisión por pares, puede ser intimidante. Tal vez te hayan preocupado las siguientes preguntas:
 
-- **¿Qué pasa si un resultado abierto es erróneo?**<br>Un tuit, un post o un vídeo no es más que una instantánea en el tiempo de un resultado de investigación. Quienes hacemos ciencia de manera profesional sabemos que estamos constantemente aprendiendo y descubriendo cosas nuevas. La elaboración de resultados reproducibles incluirá necesariamente diferentes versiones y revisiones de una idea a medida que se desarrolla.
+- **¿Qué pasa si un resultado abierto es erróneo?**<br>Un tuit, un post o un video no es más que una instantánea en el tiempo de un resultado de investigación. Quienes hacemos ciencia de manera profesional sabemos que estamos constantemente aprendiendo y descubriendo cosas nuevas. La elaboración de resultados reproducibles incluirá necesariamente diferentes versiones y revisiones de una idea a medida que se desarrolla.
 
 - **Ya he publicado mis resultados científicos de forma abierta, ¿tengo que responder siempre a los comentarios de la comunidad?**<br>Mientras hayas hecho todo lo posible para que tu trabajo sea reproducible, no tienes por qué preocuparte. La Ciencia Abierta no puede ser llevada a cabo únicamente por una persona. Las comunidades de Ciencia Abierta pueden seguir actualizando, perfeccionando y desarrollando tus resultados si tu trabajo ha sido compartido con licencia abierta.<br><br>
   Si eres capaz de responder a una pregunta o a una inquietud sobre tu investigación anterior, eso es estupendo. También es una respuesta ética reconocer que se trata de una investigación en la que ya no participas activamente, pero permites que otras personas continúen el trabajo que comenzaste.
 
 - **¿Y si no puedo hacerlo todo? ¿Practico mal la Ciencia Abierta?**<br>¡La respuesta corta es no! Sólo tienes una cantidad de tiempo limitada. Incluso con la colaboración de otras personas no puedes hacer todo.<br><br><img src="../images/media/image69_es.png" style="width:150px;height:auto;" /> <img src="../images/media/image70_es.png" style="width:150px;height:auto;" />
 
-Compartir Resultados Abiertos mejora la ciencia: es más rápida, más accesible y más colaborativa. En esta lección has aprendido todas las formas de compartir Resultados Abiertos. ¡Piensa cómo podrías compartir algo en lo que esté trabajando ahora!
+Compartir Resultados Abiertos mejora la ciencia: es más rápida, más accesible y más colaborativa. En esta lección has aprendido todas las formas de compartir Resultados Abiertos. ¡Piensa cómo podrías compartir algo en lo que estés trabajando ahora!
 
 ## Lección 4: Resumen
 
 En esta lección has aprendido:
 
-- Cuándo compartir Resultados Abiertos y las diferentes formas en que se pueden compartir. Esto incluye: publicaciones revisadas por pares, resúmenes de congresos, entradas de blog, vídeos, anotaciones y redes sociales.
+- Cuándo compartir Resultados Abiertos y las diferentes formas en que se pueden compartir. Esto incluye: publicaciones revisadas por pares, resúmenes de congresos, entradas de blog, videos, anotaciones y redes sociales.
 - Cómo compartir Resultados Abiertos, incluyendo consideraciones sobre la licencia de la publicación, vías para publicaciones de Acceso Abierto (Verde, Dorada, Diamante) y preimpresiones como parte del proceso de publicación.
-- Consideraciones en torno al uso compartido, incluyendo consideraciones en torno a las editoriales depredadoras y preocupaciones comunes en torno al intercambio abierto de resultados.
+- Consideraciones en torno al uso compartido, incluyendo consideraciones sobre las editoriales depredadoras y preocupaciones comunes en relación al intercambio abierto de resultados.
 
 ## Lección 4: Evaluación
 
@@ -376,7 +376,7 @@ _Pregunta_
 ¿Cuál de las siguientes licencias Creative Commons es la más usada para las publicaciones de Acceso Abierto?
 
 - CC BY-NC-SA
-- Derechos de autor (Copyrights)
+- Derechos de autor (Copyright)
 - CC-BY
 - Apache 2.0
 
@@ -386,7 +386,7 @@ _Pregunta_
 
 Lee la siguiente afirmación y decide si es verdadera o falsa.
 
-El Acceso Abierto Diamante es gratuito tanto para publicar como para leer artículos científicos
+_El Acceso Abierto Diamante es gratuito tanto para publicar como para leer artículos científicos_
 
 - Verdadero
 - Falso
