@@ -24,7 +24,7 @@ Completando los cinco módulos y aprobando la evaluación al final de cada uno d
 
 ### [Módulo 2 - Herramientas y Recursos Abiertos](./Module_2)
 
-- [Lección 1: Introducción al proceso de Ciencia Abierta](./Module_2/Lesson_1)
+- [Lección 1: Introducción al proceso de la Ciencia Abierta](./Module_2/Lesson_1)
 - [Lección 2: Herramientas generales para la Ciencia Abierta](./Module_2/Lesson_2)
 - [Lección 3: Herramientas para Datos Abiertos](./Module_2/Lesson_3)
 - [Lección 4: Herramientas para Código Abierto](./Module_2/Lesson_4)
