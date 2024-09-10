@@ -1,4 +1,4 @@
-# Lección 3: Crear Código Abierto
+# Lección 3: Hacer Código Abierto
 
 ## Contenidos
 
