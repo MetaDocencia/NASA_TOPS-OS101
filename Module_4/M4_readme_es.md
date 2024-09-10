@@ -51,7 +51,7 @@ Crédito de estas definiciones: _National Academies of Sciences, Engineering, an
 - [Historias de éxito](./Lesson_1#historias-de-%C3%A9xito)
 - [Definiciones y consideraciones del Código Abierto](./Lesson_1#definici%C3%B3n-y-consideraciones-del-c%C3%B3digo-abierto)
 - [Principios, beneficios y desafíos](./Lesson_1#principios-beneficios-y-desaf%C3%ADos)
-- [Cuándo no compartir](./Lesson_1#cuando-no-compartir)
+- [Cuándo no compartir](./Lesson_1#cu%C3%A1ndo-no-compartir)
 - [Plan de Gestión de Software (PGS)](./Lesson_1#plan-de-gesti%C3%B3n-de-software-pgs)
 - [Lección 1: Resumen](./Lesson_1#lecci%C3%B3n-1-resumen)
 - [Lección 1: Evaluación](./Lesson_1#lecci%C3%B3n-1-evaluaci%C3%B3n)
