@@ -3,7 +3,7 @@
 ## Contenidos
 
 - [Historias de éxito](#historias-de-%C3%A9xito)
-- [Definiciones y consideraciones del Código Abierto](#definici%C3%B3n-y-consideraciones-del-c%C3%B3digo-abierto)
+- [Definiciones y consideraciones del Código Abierto](#definici%C3%B3nes-y-consideraciones-del-c%C3%B3digo-abierto)
 - [Principios, beneficios y desafíos](#principios-beneficios-y-desaf%C3%ADos)
 - [Cuándo no compartir](#cuando-no-compartir)
 - [Plan de Gestión de Software (PGS)](#plan-de-gesti%C3%B3n-de-software-pgs)
