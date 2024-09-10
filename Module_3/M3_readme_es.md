@@ -46,10 +46,10 @@ Estos términos clave son tópicos importantes para este módulo. Selecciona el 
 
 ## Contenidos
 
-### [Lección 1: Introducción a Datos Abiertos](./Lesson_1)
+### [Lección 1: Introducción a los Datos Abiertos](./Lesson_1)
 
 - [Introducción](./Lesson_1#introducci%C3%B3n)
-- [Definiciones y Consideraciones de los Datos Abiertos](./Lesson_1#definiciones-y-consideraciones-de-los-datos-abiertos)
+- [Definiciones y consideraciones de los Datos Abiertos](./Lesson_1#definiciones-y-consideraciones-de-los-datos-abiertos)
 - [Beneficios de los Datos Abiertos](./Lesson_1#beneficios-de-los-datos-abiertos)
 - [Desafíos de los Datos Abiertos](./Lesson_1#desaf%C3%ADos-de-los-datos-abiertos)
 - [Aplicación de los principios FAIR](./Lesson_1#aplicaci%C3%B3n-de-los-principios-fair)
@@ -57,7 +57,7 @@ Estos términos clave son tópicos importantes para este módulo. Selecciona el 
 - [Lección 1: Resumen](./Lesson_1#lecci%C3%B3n-1-resumen)
 - [Lección 1: Evaluación](./Lesson_1#lecci%C3%B3n-1-evaluaci%C3%B3n)
 
-### [Lección 2: Usando Datos Abiertos](./Lesson_2)
+### [Lección 2: Usar Datos Abiertos](./Lesson_2)
 
 - [Introducción](./Lesson_2#introducci%C3%B3n)
 - [Descubrir Datos Abiertos](./Lesson_2#descubrir-datos-abiertos)
@@ -66,16 +66,16 @@ Estos términos clave son tópicos importantes para este módulo. Selecciona el 
 - [Lección 2: Resumen](./Lesson_2#lecci%C3%B3n-2-resumen)
 - [Lección 2: Evaluación](./Lesson_2#lecci%C3%B3n-2-evaluaci%C3%B3n)
 
-### [Lección 3: Haciendo Datos Abiertos](./Lesson_3)
+### [Lección 3: Hacer Datos Abiertos](./Lesson_3)
 
 - [Planificar para Datos Abiertos](./Lesson_3#planificar-para-datos-abiertos)
 - [Seleccionar formatos de datos y herramientas para la interoperabilidad](./Lesson_3#seleccionar-formatos-de-datos-y-herramientas-para-interoperabilidad)
 - [Hacer que los datos sean reusables mediante la documentación](./Lesson_3#hacer-que-los-datos-sean-reusables-mediante-la-documentaci%C3%B3n)
 - [Hacer que los datos sean reusables mediante las licencias](./Lesson_3#hacer-que-los-datos-sean-reusables-mediante-las-licencias)
-- [Lección 3: Resumen](./Lesson_3#lecci%C3%B3n-2-resumen)
+- [Lección 3: Resumen](./Lesson_3#lecci%C3%B3n-3-resumen)
 - [Lección 3: Evaluación](./Lesson_3#lecci%C3%B3n-3-evaluaci%C3%B3n)
 
-### [Lección 4: Compartiendo Datos Abiertos](./Lesson_4)
+### [Lección 4: Compartir Datos Abiertos](./Lesson_4)
 
 - [Cuándo compartir los datos y si hacerlo](./Lesson_4#cu%C3%A1ndo-compartir-los-datos-y-si-hacerlo)
 - [Dónde compartir datos](./Lesson_4#d%C3%B3nde-compartir-datos)
