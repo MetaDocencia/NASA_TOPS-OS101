@@ -8,7 +8,7 @@
 - [Pasos para continuar tu viaje hacia la Ciencia Abierta](#pasos-para-continuar-tu-viaje-hacia-la-ciencia-abierta)
 - [Lección 5: Resumen](#lecci%C3%B3n-5-resumen)
 - [Lección 5: Evaluación](#lecci%C3%B3n-5-evaluaci%C3%B3n)
-- [Resumen del Módulo 1: Ethos de la Ciencia Abierta](#resumen-del-m%C3%B3dulo-1-ethos-de-la-ciencia-abierta)
+- [Resumen del Módulo 1: El Ethos de la Ciencia Abierta](#resumen-del-m%C3%B3dulo-1-ethos-de-la-ciencia-abierta)
 
 ## Descripción general
 
