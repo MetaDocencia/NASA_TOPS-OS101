@@ -253,15 +253,15 @@ Los tipos más comunes de vías de publicación en Acceso Abierto son Verde (_gr
 
 ### Ventajas y desventajas de las preimpresiones (_preprints_)
 
-Al publicar en una revista revisada por pares, puedes decidir compartir una preimpresión. Una preimpresión es una versión de un artículo antes de su publicación en una revista\*. Puede tratarse de la versión del manuscrito aceptada tras la revisión por pares o de una versión anterior a su presentación a una revista.
+Al publicar en una revista revisada por pares, puedes decidir compartir una preimpresión (_preprint_). Una preimpresión (_preprint_) es una versión de un artículo antes de su publicación en una revista\*. Puede tratarse de la versión del manuscrito aceptada tras la revisión por pares o de una versión anterior a su presentación a una revista.
 
 <img src="../images/media/image57_es.png" style="width:20px;height:auto;" /> **El manuscrito admitido es la versión final, revisada por pares, del artículo que ha sido aceptado para su publicación por una persona responsable de la edición. El manuscrito aceptado incluye todos los cambios realizados durante el proceso de revisión por pares y tiene el mismo contenido que el artículo final publicado, pero no incluye las correcciones de edición, estilo o de formato de edición que aparecerán en la publicación final de la revista (es decir, la versión registrada)**
 
 Fuente: https://science.nasa.gov/researchers/sara/faqs/osdmp
 
-Muchas revistas ofrecen servicios de preimpresión. Si no lo hacen, hay muchos servidores públicos de preimpresión disponibles. A menudo, la agencia de financiación tiene un servidor público de preimpresiones preferido.
+Muchas revistas ofrecen servicios de preimpresión (_preprint_). Si no lo hacen, hay muchos servidores públicos de preimpresión (_preprints_) disponibles. A menudo, la agencia de financiación tiene un servidor público de preimpresiones (_preprints_) preferido.
 
-Las preimpresiones presentan muchas ventajas, así como desventajas percibidas o potenciales.
+Las preimpresiones (_preprints_) presentan muchas ventajas, así como desventajas percibidas o potenciales.
 
 <table style="width:100%;">
   <thead>
@@ -275,7 +275,7 @@ Las preimpresiones presentan muchas ventajas, así como desventajas percibidas o
         <td colspan="2">
             <ul>
             <li>Difundir rápidamente los hallazgos a las comunidades en el plazo debido.</li>
-            <li>Muchos servidores de preimpresos de campos específicos (p. ej., arxiv.org, biorxiv.org, essoar.org) permiten la carga y la lectura de escritos de forma gratuita.</li>
+            <li>Muchos servidores de preimpresos (_preprints_) de campos específicos (p. ej., arxiv.org, biorxiv.org, essoar.org) permiten la carga y la lectura de escritos de forma gratuita.</li>
             <li>Comentarios de la comunidad sobre tu trabajo a medida que se realiza.</li>
             </ul>
         </td>
@@ -295,17 +295,17 @@ Las preimpresiones presentan muchas ventajas, así como desventajas percibidas o
         <td colspan="2">
             <ul>
             <li>El trabajo puede compartirse con errores críticos que pueden haberse detectado en la revisión por pares.</li>
-            <li>En algunos campos, existe la percepción de una menor fiabilidad o calidad de la investigación publicada como preimpresión.</li>
-            <li>Algunas revistas no permiten o no aceptan artículos si han sido enviados a un servidor de preimpresión.</li>
+            <li>En algunos campos, existe la percepción de una menor fiabilidad o calidad de la investigación publicada como preimpresión (_preprint_).</li>
+            <li>Algunas revistas no permiten o no aceptan artículos si han sido enviados a un servidor de preimpresión (_preprint_).</li>
             </ul>
         </td>
     </tr>
   </tbody>
 </table>
 
-### Qué tener en cuenta al hacer preimpresiones
+### Qué tener en cuenta al hacer preimpresiones (_preprints_)
 
-Cuando decidas publicar tu trabajo como preimpresión, debes comprobar:
+Cuando decidas publicar tu trabajo como preimpresión (_preprint_), debes comprobar:
 
 1. La política de derechos de autoría (copyright) de la revista en la que deseas publicar.
 2. La versión del trabajo que puede depositarse.
@@ -313,7 +313,7 @@ Cuando decidas publicar tu trabajo como preimpresión, debes comprobar:
 
 #### Lecturas adicionales:
 
-Lee la [historia](https://pubs.aip.org/physicstoday/Online/29310/Joanne-Cohn-and-the-email-list-that-led-to-arXiv) (en inglés) sobre cómo la lista de correo electrónico de Joanne Cohn para preimpresiones llevó a Paul Ginsparg al desarrollo de [arXiv](https://arxiv.org/).
+Lee la [historia](https://pubs.aip.org/physicstoday/Online/29310/Joanne-Cohn-and-the-email-list-that-led-to-arXiv) (en inglés) sobre cómo la lista de correo electrónico de Joanne Cohn para preimpresiones (_preprints_) llevó a Paul Ginsparg al desarrollo de [arXiv](https://arxiv.org/).
 
 ## Otras consideraciones a la hora de compartir
 
@@ -342,7 +342,7 @@ Hay muchas señales de alarma en estas solicitudes de editoriales depredadoras:
 - Tienen una tasa muy alta de aceptación de los trabajos enviados.
 - Envían con frecuencia solicitudes para presentar trabajos o servir de editor/a.
 
-A continuación se presentan algunas reflexiones finales sobre lo que debes o no debes tener en cuenta a la hora de decidir dónde publicar. Como ocurre con muchas de las consideraciones que se plantean en el mundo académico, a veces la decisión sobre el mejor lugar para publicar vendrá determinada por las conversaciones de boca a boca con colegas. Lee más sobre la [guía de NOAA sobre la publicación depredadora](https://libguides.library.noaa.gov/predatorypublishing).
+A continuación se presentan algunas reflexiones finales sobre lo que debes tener en cuenta a la hora de decidir dónde publicar. Como ocurre con muchas de las consideraciones que se plantean en el mundo académico, a veces la decisión sobre el mejor lugar para publicar vendrá determinada por las conversaciones de boca a boca con colegas. Lee más sobre la [guía de NOAA sobre la publicación depredadora](https://libguides.library.noaa.gov/predatorypublishing).
 
 ### Preguntas frecuentes sobre la divulgación de resultados
 
@@ -362,7 +362,7 @@ Compartir Resultados Abiertos mejora la ciencia: es más rápida, más accesible
 En esta lección has aprendido:
 
 - Cuándo compartir Resultados Abiertos y las diferentes formas en que se pueden compartir. Esto incluye: publicaciones revisadas por pares, resúmenes de congresos, entradas de blog, videos, anotaciones y redes sociales.
-- Cómo compartir Resultados Abiertos, incluyendo consideraciones sobre la licencia de la publicación, vías para publicaciones de Acceso Abierto (Verde, Dorada, Diamante) y preimpresiones como parte del proceso de publicación.
+- Cómo compartir Resultados Abiertos, incluyendo consideraciones sobre la licencia de la publicación, vías para publicaciones de Acceso Abierto (Verde, Dorada, Diamante) y preimpresiones (_preprints_) como parte del proceso de publicación.
 - Consideraciones en torno al uso compartido, incluyendo consideraciones sobre las editoriales depredadoras y preocupaciones comunes en relación al intercambio abierto de resultados.
 
 ## Lección 4: Evaluación

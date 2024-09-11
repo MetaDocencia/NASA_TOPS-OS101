@@ -84,7 +84,7 @@ Publicar como Acceso Abierto incrementa el número de citas en un 18%, según un
 
 Los artículos que hacen que sus datos sean abiertamente accesibles a través de un enlace directo a un repositorio consiguen aproximadamente 25% más de impacto en la cita, de acuerdo con un estudio de 2020.
 
-Publicar como Acceso Abierto puede tener costos prohibitivos para quienes investigan dependiendo del lugar. A menudo hay otras opciones que permiten a los autores y autoras compartir su trabajo libre y abiertamente. En el Módulo 5 sobre Resultados Abiertos, discutimos algunas de estas otras opciones incluyendo preimpresiones y Acceso Abierto diamante.
+Publicar como Acceso Abierto puede tener costos prohibitivos para quienes investigan dependiendo del lugar. A menudo hay otras opciones que permiten a los autores y autoras compartir su trabajo libre y abiertamente. En el Módulo 5 sobre Resultados Abiertos, discutimos algunas de estas otras opciones incluyendo preimpresiones (_preprints_) y Acceso Abierto diamante.
 
 Hay muchos resultados de investigación diferentes que se pueden compartir abiertamente y hacer citables:
 
@@ -101,7 +101,7 @@ Hay muchos resultados de investigación diferentes que se pueden compartir abier
 
 ### Más colaboraciones
 
-Las prácticas de Ciencia Abierta también pueden hacer posibles colaboraciones más fuertes, tanto dentro como entre disciplinas, como lo demuestra un [estudio](https://liberquarterly.eu/article/view/10819) de 2016. La facilidad de acceso a los datos abiertos suma nuevos agentes al paisaje que permiten una participación más amplia y diversa. A través de prácticas de Ciencia Abierta, como el pre-registro en el que las personas investigadoras documentan su plan de investigación al comienzo de un estudio, se permite un diseño de investigación más fuerte porque es posible solicitar la retroalimentación de distintos colaboradores y partes interesadas antes de que comience la recolección de datos. De igual forma, las preimpresiones permiten una retroalimentación más rápida sobre las conclusiones extraídas de los datos una vez que son recopilados.
+Las prácticas de Ciencia Abierta también pueden hacer posibles colaboraciones más fuertes, tanto dentro como entre disciplinas, como lo demuestra un [estudio](https://liberquarterly.eu/article/view/10819) de 2016. La facilidad de acceso a los datos abiertos suma nuevos agentes al paisaje que permiten una participación más amplia y diversa. A través de prácticas de Ciencia Abierta, como el pre-registro en el que las personas investigadoras documentan su plan de investigación al comienzo de un estudio, se permite un diseño de investigación más fuerte porque es posible solicitar la retroalimentación de distintos colaboradores y partes interesadas antes de que comience la recolección de datos. De igual forma, las preimpresiones (_preprints_) permiten una retroalimentación más rápida sobre las conclusiones extraídas de los datos una vez que son recopilados.
 
 ### Actividad 2.1: Beneficios para ti
 
@@ -109,7 +109,7 @@ En esta actividad, reflexiona sobre tus respuestas a las preguntas y luego compa
 
 <img style="width:350px;height:auto;" src="../images/media/lightbulb_es.png">
 
-- ¿Puedes encontrar tu propio trabajo previo, post publicación y/o prepublicación? ¿Puedes llevar tus materiales de investigación (datos, código, resultados) contigo si cambias de institución?
+- ¿Puedes encontrar tu propio trabajo previo, post publicación y/o preimpresión? ¿Puedes llevar tus materiales de investigación (datos, código, resultados) contigo si cambias de institución?
 - ¿Puedes encontrar el trabajo de tus colaboradores? ¿De colegas de otros campos que encuentras interesante? ¿Te has acercado a otras personas para colaborar con ellas después de encontrar resultados interesantes?
 - ¿Las personas de tu campo están dando y obteniendo crédito por el trabajo realizado?
 

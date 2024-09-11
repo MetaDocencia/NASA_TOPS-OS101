@@ -32,7 +32,7 @@ Las herramientas de Ciencia Abierta se pueden utilizar para:
 
 - **Descubrimiento** - Herramientas de descubrimiento de información para utilizar en tu investigación.
 - **Análisis** - Herramientas para procesar los resultados de tu investigación, por ejemplo, herramientas para el análisis de datos y su visualización.
-- **Redacción** - Herramientas para producir contenidos, como Planes de Gestión de Datos, presentaciones y preprints.
+- **Redacción** - Herramientas para producir contenidos, como Planes de Gestión de Datos, presentaciones y preimpresiones (_preprints_).
 - **Publicaciones** - Herramientas para compartir y/o conservar investigaciones.
 - **Divulgación** - Herramientas para promocionar tu investigación.
 

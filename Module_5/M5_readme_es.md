@@ -25,7 +25,7 @@ Estos términos clave son importantes para el módulo. Selecciona el término pa
 
 **Publicación Depredadora** - Editores con fines de lucro que cobran una tarifa por publicación pero ofrecen pocos controles de calidad, como revisión por pares o composición tipográfica.
 
-**Preimpresión** - Versión de un artículo previa a su publicación en una revista. Puede tratarse de la versión del documento aceptado después de la revisión por pares, o de una versión anterior a su envío a una revista.
+**Preimpresión** - (_preprint_) Versión de un artículo previa a su publicación en una revista. Puede tratarse de la versión del documento aceptado después de la revisión por pares, o de una versión anterior a su envío a una revista.
 
 **Prerregistro** - Práctica de quienes investigan en la cual determinan su plan de análisis y procedimiento de recolección de datos antes de que comience un estudio.
 

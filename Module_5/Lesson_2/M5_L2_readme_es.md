@@ -26,7 +26,7 @@ Al finalizar esta lección deberías ser capaz de:
 
 ## Cómo descubrir Resultados Abiertos
 
-¿Cómo puedo conocer el estado de la investigación en un campo concreto? ¿Cómo participar en la conversación actual? Las personas dedicadas a la investigación a menudo comienzan con una búsqueda de artículos revisados por pares. Esta revisión le indica cuánto se ha investigado en un campo y qué conclusiones se han alcanzado recientemente. En la mayoría de los campos, el proceso de revisión por pares puede tardar hasta un año. La posibilidad de encontrar preprints puede ayudar a reducir este retraso, ya que ofrecen los últimos hallazgos antes de la fecha de publicación. Quienes deciden compartir sus resultados antes de la publicación suelen hacerlo de las formas indicadas anteriormente como mejores prácticas. Al empezar a investigar sobre un tema, ¿Cómo encontrar todos estos tipos diferentes de resultados y dedicarse a la investigación más pertinente?
+¿Cómo puedo conocer el estado de la investigación en un campo concreto? ¿Cómo participar en la conversación actual? Las personas dedicadas a la investigación a menudo comienzan con una búsqueda de artículos revisados por pares. Esta revisión le indica cuánto se ha investigado en un campo y qué conclusiones se han alcanzado recientemente. En la mayoría de los campos, el proceso de revisión por pares puede tardar hasta un año. La posibilidad de encontrar preimpresiones (_preprints_) puede ayudar a reducir este retraso, ya que ofrecen los últimos hallazgos antes de la fecha de publicación. Quienes deciden compartir sus resultados antes de la publicación suelen hacerlo de las formas indicadas anteriormente como mejores prácticas. Al empezar a investigar sobre un tema, ¿Cómo encontrar todos estos tipos diferentes de resultados y dedicarse a la investigación más pertinente?
 
 ### Ejemplo: Exoplanetas
 
@@ -77,10 +77,10 @@ Los motores de búsqueda como Google y Bing han cambiado radicalmente la forma e
             <ul>
                 <li><a href="https://europepmc.org/">EuropePMC ciencias de la vida (EuropePMC Life sciences)</a></li>
                 <li><a href="https://pubmed.ncbi.nlm.nih.gov/">Literatura biomédica Pubmed (Pubmed biomedical literature) </a></li>
-                <li><a href="https://arxiv.org/">arXiv</a> - para preprints académicos en los campos de STEM, economía e informática.</li> 
+                <li><a href="https://arxiv.org/">arXiv</a> - para preimpresiones (_preprints_) académicos en los campos de STEM, economía e informática.</li> 
                 <li><a href="https://www.biorxiv.org/">Biorxiv Preprint</a> - servidor para biología</li>
                 <li><a href="https://eartharxiv.org/">EarthArXiv</a> y <a href="https://essoar.org/">Archivo Abierto de Ciencias de la Tierra y Espacio</a></li>
-                <li><a href="https://asapbio.org/preprint-servers">ASAPbio</a> - catálogos de servidores de preprint</li>
+                <li><a href="https://asapbio.org/preprint-servers">ASAPbio</a> - catálogos de servidores de preimpresiones (_preprints_)</li>
                 <li>y otros...</li>
             </ul>
         </td>
@@ -314,13 +314,13 @@ Brindar una atribución adecuada a los Resultados Abiertos es una responsabilida
 
 ### Pautas de citación para resultados publicados y no publicados
 
-Si un artículo se ha publicado formalmente en una revista, la cita debe remitir a la versión publicada en lugar de un servidor de borradores o artículos aún no publicados (preimpresiones o _preprints_ en inglés).
+Si un artículo se ha publicado formalmente en una revista, la cita debe remitir a la versión publicada en lugar de un servidor de borradores o artículos aún no publicados (preimpresiones o preprints).
 
 Tómate el tiempo necesario para localizar la revista de origen y proporcionar una cita más precisa.
 
 <img src="../images/media/image31_es.png" style="width:100%;height:auto;" />
 
-Servidor de manuscritos aún no publicados (citar solo si no está disponible la publicación en una revista).
+Servidor de preimpresiones (_preprints_) (citar solo si no está disponible la publicación en una revista).
 
 ---
 
@@ -330,7 +330,7 @@ Fuente de la publicación (citar siempre).
 
 ---
 
-Si un artículo que deseas citar aún no ha sido aceptado para su publicación, debe seguir las pautas de la revista al cual estás enviando tu artículo. Una cita de referencia de un manuscrito que aún no está publicado o de un borrador típicamente incluye el nombre de las personas autoras, la fecha de la versión publicada más recientemente, el título del artículo, el nombre del servidor en donde se encuentra la preimpresión del artículo, el tipo de objeto ("manuscrito no publicado" o _preprint_) y el DOI.
+Si un artículo que deseas citar aún no ha sido aceptado para su publicación, debe seguir las pautas de la revista al cual estás enviando tu artículo. Una cita de referencia de una preimpresión (_preprint_) típicamente incluye el nombre de las personas autoras, la fecha de la versión publicada más recientemente, el título del artículo, el nombre del servidor en donde se encuentra la preimpresión del artículo, el tipo de objeto ("manuscrito no publicado" o "preprint") y el DOI.
 
 <img src="../images/media/image33_es.png" style="width:100%;height:auto;" />
 

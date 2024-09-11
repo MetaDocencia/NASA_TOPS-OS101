@@ -156,7 +156,7 @@ El lugar que elijas para compartir tus materiales y tus resultados de investigac
 
 En el caso del software, ya que a menudo se actualiza y modifica, quienes investigan lo comparten primero en una plataforma con control de versiones como GitHub o GitLab, pero luego archivan una versión de la misma en un repositorio que tiene capacidades de preservación a largo plazo. ¡Aprende más sobre esto en el Módulo 4!
 
-En el caso de los resultados, las publicaciones de Acceso Abierto y los servidores de _preprints_ son lugares comunes para compartirlos. El Módulo 5 aborda todas estas opciones.
+En el caso de los resultados, las publicaciones de Acceso Abierto y los servidores de preimpresiones (_preprints_) son lugares comunes para compartirlos. El Módulo 5 aborda todas estas opciones.
 
 ### Actividad 5.1: Usar, Hacer, Compartir
 
@@ -316,7 +316,7 @@ con [documentación](https://eurekadocs.readthedocs.io/en/latest/) y publicado c
     </tbody>
 </table>
 
-Durante la fase de lanzamiento, el equipo etiquetó de forma adecuada productos de investigación para su reutilización y reproducibilidad, también se publicaron en foros y repositorios públicos. Los beneficios y resultados incluyeron que quienes colaboraron recibieran crédito por los datos, software y otros productos de investigación digital que benefician a la comunidad científica. Los datos y el software fueron archivados abiertamente en el repositorio general de datos [Zenodo](https://zenodo.org/communities/ers-transit) y la publicación quedó disponible como [preprint](https://arxiv.org/abs/2208.11692) y en una [publicación de Acceso Abierto](https://www.nature.com/articles/s41586-022-05269-w).
+Durante la fase de lanzamiento, el equipo etiquetó de forma adecuada productos de investigación para su reutilización y reproducibilidad, también se publicaron en foros y repositorios públicos. Los beneficios y resultados incluyeron que quienes colaboraron recibieran crédito por los datos, software y otros productos de investigación digital que benefician a la comunidad científica. Los datos y el software fueron archivados abiertamente en el repositorio general de datos [Zenodo](https://zenodo.org/communities/ers-transit) y la publicación quedó disponible como [preimpresión (_preprint_)](https://arxiv.org/abs/2208.11692) y en una [publicación de Acceso Abierto](https://www.nature.com/articles/s41586-022-05269-w).
 
 Al hacer que tus resultados estén disponibles de forma abierta, también accedes a formas más claras de obtener reconocimiento y puedes reducir el riesgo de apropiación (ya que cada resultado puede ser referenciado individualmente tan pronto como esté disponible). Aplicar prácticas de reproducibilidad por separado en diferentes partes del proyecto como documentos de preparación, conjuntos de datos, software, y reportes permite a otras personas investigadoras probar y reutilizar tu trabajo en su investigación. De esta forma se citarán más a menudo tus investigaciones, aportando así un reconocimiento justo a tu trabajo. Las personas que colaboran pueden estar más motivados para contribuir porque pueden obtener fácilmente reconocimiento en términos de autoría por sus contribuciones hechas para cada uno de los resultados obtenidos en la investigación.
 

@@ -12,7 +12,7 @@ Este módulo está diseñado para ayudarte a comenzar tu camino hacia la prácti
 -   Listar y explicar el propósito de los recursos utilizados para descubrir y evaluar los productos de investigación para reutilización incluyendo repositorios, portales de búsqueda, publicaciones, documentación como archivos README (LEEME), metadatos y licencia.
 -   Desarrollar una estrategia de alto nivel para crear y compartir datos a partir de los principios FAIR, incorporando un plan de gestión de datos, rastreo de datos y autores con identificadores y citas persistentes, y utilizar los formatos y herramientas de datos apropiados para generar datos y compartir los resultados.
 -   Describir el ciclo de vida del software y diseñar una estrategia de alto nivel para crear y compartir software que considere el uso de un plan de gestión de software, las herramientas necesarias para el desarrollo incluyendo código fuente, núcleos o Kernels, lenguajes de programación, software de terceros, control de versiones, y las herramientas y documentación utilizadas para publicar y curar Software Abierto.
--   Listar los recursos para compartir productos de investigación incluyendo preprints, publicaciones de Acceso Abierto, sistemas de administración de referencias y recursos para apoyar la reproducibilidad.
+-   Listar los recursos para compartir productos de investigación incluyendo preimpresiones (_preprints_), publicaciones de Acceso Abierto, sistemas de administración de referencias y recursos para apoyar la reproducibilidad.
 
 ## Términos clave
 
