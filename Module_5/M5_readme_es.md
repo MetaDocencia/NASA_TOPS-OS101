@@ -1,6 +1,6 @@
 # Introducción a la Ciencia Abierta Módulo 5: Resultados Abiertos
 
-**Te damos la bienvenida a Introducción a la Ciencia Abierta: Resultados Abiertos**
+Te damos la bienvenida a Introducción a la Ciencia Abierta: Resultados Abiertos
 
 ## Acerca de este módulo
 
