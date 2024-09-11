@@ -25,7 +25,7 @@ Al finalizar esta lección deberías ser capaz de:
 
 ### *Preprints*
 
-Las herramientas de Ciencia Abierta pueden ser utilizadas como herramientas para escribir y producir contenido, como Planes de Gestión de Datos, presentaciones y *preprints* (prepublicaciones). Los *preprints* son versiones preliminares de los documentos de investigación que se comparten públicamente antes de su publicación en revistas científicas. En algunas disciplinas, se comparten antes de la revisión por pares mientras que en otras disciplinas, puede ser sólo después de la revisión por pares y antes de la publicación. Son un componente vital de la creación de contenidos científicos abiertos, ya que promueven la transparencia, la rápida difusión del conocimiento y la colaboración entre las personas que investigan.
+Las herramientas de Ciencia Abierta pueden ser utilizadas como herramientas para escribir y producir contenido, como Planes de Gestión de Datos, presentaciones y *preprints* (preimpresiones). Los *preprints* son versiones preliminares de los documentos de investigación que se comparten públicamente antes de su publicación en revistas científicas. En algunas disciplinas, se comparten antes de la revisión por pares mientras que en otras disciplinas, puede ser sólo después de la revisión por pares y antes de la publicación. Son un componente vital de la creación de contenidos científicos abiertos, ya que promueven la transparencia, la rápida difusión del conocimiento y la colaboración entre las personas que investigan.
 
 Al compartir *preprints*, el equipo investigador puede recibir retroalimentación de la comunidad de investigación global, perfeccionar su trabajo y comunicar rápidamente sus hallazgos. Esto acelera el ritmo del descubrimiento científico y garantiza que la investigación valiosa sea accesible a un público más amplio, lo que se ajusta a los principios de la Ciencia Abierta.
 
@@ -147,7 +147,7 @@ Algunos ejemplos de software de gestión de referencias son:
 - EndNote
 - Zotero
 
-### Destacado abierto: _Zotero_
+### Herramienta destacada: _Zotero_
 
 Zotero ayuda a gestionar metadatos y citas de software, datos y publicaciones a través de una interfaz de arrastrar y soltar. El equipo investigador puede utilizar esta herramienta para generar automáticamente archivos de citas (por ejemplo, en formato BibTeX).
 
