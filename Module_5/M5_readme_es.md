@@ -1,12 +1,12 @@
-# Módulo 5: Resultados Abiertos
+# Introducción a la Ciencia Abierta Módulo 5: Resultados Abiertos
 
-**Te Damos la Bienvenida al Módulo de Resultados Abiertos**
+**Te damos la bienvenida a Introducción a la Ciencia Abierta: Resultados Abiertos**
 
 ## Acerca de este módulo
 
 ¡Te damos la bienvenida a Resultados Abiertos! Este módulo se centra en brindarte las herramientas que necesitas para iniciar una colaboración científica mediante la creación de pautas para los contribuyentes que garanticen una colaboración ética. El módulo comienza con un caso de uso de la ciencia abierta en acción, seguido de una revisión sobre cómo descubrir y evaluar resultados abiertos. A continuación, se centra en cómo publicar resultados, lo que incluye una lista de verificación de tareas. Finalmente, el módulo concluye con una orientación específica para la escritura de la sección de compartir resultados de los Planes de Gestión de Ciencia Abierta y Datos (PGCAD). Además, reflexionaremos sobre cómo nuestra sociedad y nuestra tecnología evolucionan constantemente en la forma en que hacemos ciencia.
 
-### Objetivos de aprendizaje del módulo
+### Objetivos de aprendizaje
 
 Al finalizar esta lección deberías ser capaz de:
 
@@ -19,19 +19,19 @@ Al finalizar esta lección deberías ser capaz de:
 
 # Términos clave
 
-Estos términos clave son importantes para el módulo. Seleccione el término para ver la descripción.
+Estos términos clave son importantes para el módulo. Selecciona el término para ver la descripción.
 
 **Objeto de Investigación (OI)** - Un método para la identificación, agregado e intercambio de información científica en la Web. Puede incluir publicaciones en diferentes formatos, softwares, datos y medios.
 
 **Publicación Depredadora** - Editores con fines de lucro que cobran una tarifa por publicación pero ofrecen pocos controles de calidad, como revisión por pares o composición tipográfica.
 
-**Preimpresión** - Versión de un artículo previa a su publicación en una revista. Puede tratarse de la versión del documento aceptado después de la revisión por pares, o de una versión anterior a su envío a una revista.
+**Preimpresión** - (_preprint_) Versión de un artículo previa a su publicación en una revista. Puede tratarse de la versión del documento aceptado después de la revisión por pares, o de una versión anterior a su envío a una revista.
 
 **Prerregistro** - Práctica de quienes investigan en la cual determinan su plan de análisis y procedimiento de recolección de datos antes de que comience un estudio.
 
 **Identificadores Persistentes** - Referencia duradera a un documento, archivo, página web u otro objeto digital. Generalmente se utiliza en el contexto de objetos digitales accesibles a través de Internet. La mayoría de los identificadores persistentes tienen un identificador único que está vinculado a la dirección actual de los metadatos o del contenido.
 
-**Crisis de Reproducibilidad** - La 'crisis de reproducibilidad' de la ciencia es una preocupación creciente debido a varios estudios de reproducibilidad en los que resultados positivos previos no fueron reproducidos.
+**Crisis de la Reproducibilidad** - La 'crisis de la reproducibilidad' de la ciencia es una preocupación creciente debido a varios estudios de reproducibilidad en los que resultados positivos previos no fueron reproducidos.
 
 **DOI** - Es un identificador persistente estandarizado por la Organización Internacional para la Estandarización (ISO, en inglés) y utilizado para identificar de forma única varios objetos.
 
@@ -39,46 +39,46 @@ Estos términos clave son importantes para el módulo. Seleccione el término pa
 
 ## Contenidos
 
-### [Lección 1: Introducción a Resultados Abiertos](./Lección_1)
+### [Lección 1: Introducción a Resultados Abiertos](./Lesson_1)
 
-- [¿Qué objetos de investigación se crean a lo largo del ciclo de investigación?](./Lesson_1#what-research-objects-are-created-throughhout-the-research-cycle)
-- [Ejemplos de resultados abiertos](./Lesson_1#ejemplos-de-resultados)
-- [¿Qué es la crisis de reproducibilidad?](./Lesson_1#what-is-the-reproducibility-crisis)
-- [Lección 1: Resumen](./Lesson_1#lesson-1-summary)
-- [Lección 1: Evaluación](./Lesson_1#lesson-1-knowledge-check)
+- [¿Qué objetos de investigación se crean a lo largo del ciclo de investigación?](./Lesson_1#qu%C3%A9-objetos-de-investigaci%C3%B3n-se-crean-a-lo-largo-del-ciclo-de-investigaci%C3%B3n)
+- [Ejemplos de Resultados Abiertos](./Lesson_1#ejemplos-de-resultados-abiertos)
+- [¿Qué es la crisis de la reproducibilidad?](./Lesson_1#qu%C3%A9-es-la-crisis-de-la-reproducibilidad)
+- [Lección 1: Resumen](./Lesson_1#lecci%C3%B3n-1-resumen)
+- [Lección 1: Evaluación](./Lesson_1#lecci%C3%B3n-1-evaluaci%C3%B3n)
 
-### [Lección 2: Usando Resultados Abiertos](./Lesson_2)
+### [Lección 2: Usar Resultados Abiertos](./Lesson_2)
 
-- [Cómo Descubrir Resultados Abiertos](./Lesson_2#how-to-discover-open-results)
-- [Cómo Evaluar Resultados Abiertos](./Lesson_2#how-to-assess-open-results)
-- [Cómo Usar Resultados Abiertos](./Lesson_2#how-to-use-open-results)
-- [Cómo Citar Resultados Abiertos](./Lesson_2#how-to-cite-open-results)
-- [Lección 2: Resumen](./Lesson_2#lesson-2-summary)
-- [Lección 2: Evaluación](./Lesson_2#lesson-2-knowledge-check)
+- [Cómo descubrir Resultados Abiertos](./Lesson_2#c%C3%B3mo-descubrir-resultados-abiertos)
+- [Cómo evaluar Resultados Abiertos](./Lesson_2#c%C3%B3mo-evaluar-resultados-abiertos)
+- [Cómo usar Resultados Abiertos](./Lesson_2#c%C3%B3mo-usar-resultados-abiertos)
+- [Cómo citar Resultados Abiertos](./Lesson_2#c%C3%B3mo-citar-resultados-abiertos)
+- [Lección 2: Resumen](./Lesson_2#lecci%C3%B3n-2-resumen)
+- [Lección 2: Evaluación](./Lesson_2#lecci%C3%B3n-2-evaluaci%C3%B3n)
 
-### [Lección 3: Haciendo Resultados Abiertos](./Lección_3)
+### [Lección 3: Hacer Resultados Abiertos](./Lesson_3)
 
-- [Cómo Hacer Resultados Abiertos](./Lesson_3#how-to-make-open-results)
-- [Rol de Contribuyentes en Ciencia Abierta](./Lesson_3#role-of-contributors-in-open-science)
-- [Cómo Reconocer Contribuciones en Ciencia Abierta](./Lesson_3#how-to-give-open-recognition)
-- [Combinar Resultados Abiertos para Informes y Publicaciones Científicas](./Lesson_3#combining-open-results-for-scientific-reporting-and-publications)
-- [Lección 3: Resumen](./Lesson_3#lesson-3-summary)
-- [Lección 3: Evaluación](./Lesson_3#lesson-3-knowledge-check)
+- [Cómo hacer Resultados Abiertos](./Lesson_3#c%C3%B3mo-hacer-resultados-abiertos)
+- [El rol de las personas colaboradoras en la Ciencia Abierta](./Lesson_3#el-rol-de-las-personas-colaboradoras-en-la-ciencia-abierta)
+- [Cómo dar reconocimiento abierto](./Lesson_3#c%C3%B3mo-dar-reconocimiento-abierto)
+- [Combinar Resultados Abiertos para informes científicos y publicaciones](./Lesson_3#combinar-resultados-abiertos-para-informes-cient%C3%ADficos-y-publicaciones)
+- [Lección 3: Resumen](./Lesson_3#lecci%C3%B3n-3-resumen)
+- [Lección 3: Evaluación](./Lesson_3#lecci%C3%B3n-3-evaluaci%C3%B3n)
 
-### [Lección 4: Compartiendo Resultados Abiertos](./Lesson_4)
+### [Lección 4: Compartir Resultados Abiertos](./Lesson_4)
 
-- [Cuando Compartir](./Lesson_4#when-to-share)
-- [Cómo Compartir](./Lesson_4#how-to-share)
-- [Otras Consideraciones Cuando Compartimos](./Lesson_4#other-considerations-when-sharing)
-- [Lección 4: Resumen](./Lesson_4#lesson-4-summary)
-- [Lección 4: Evaluación](./Lesson_4#lesson-4-knowledge-check)
+- [¿Cuándo compartir?](./Lesson_4#cu%C3%A1ndo-compartir)
+- [¿Cómo compartir?](./Lesson_4#c%C3%B3mo-compartir)
+- [Otras consideraciones a la hora de compartir](./Lesson_4#otras-consideraciones-a-la-hora-de-compartir)
+- [Lección 4: Resumen](./Lesson_4#lecci%C3%B3n-4-resumen)
+- [Lección 4: Evaluación](./Lesson_4#lecci%C3%B3n-4-evaluaci%C3%B3n)
 
-### [Lección 5: De la Teoría a la Práctica](./Lesson_5)
+### [Lección 5: De la teoría a la práctica](./Lesson_5)
 
-- [Escribiendo un OSDMP: Qué Incluir en un OSDMP para Compartir Resultados Abiertos](./Lesson_5#writing-an-osdmp-what-to-include-in-the-osdmp-for-sharing-results-openly)
-- [Ejemplo de Pasos Hacia Resultados Más Abiertos ](./Lesson_5#example-steps-toward-more-open-results)
-- [De Cómo Tecnologías Emergentes como la IA Están Cambiando la Forma en que Hacemos Ciencia](./Lesson_5#how-emerging-technology-like-ai-is-changing-how-we-do-science)
-- [Lección 5: Resumen](./Lesson_5#lesson-5-summary)
-- [Lección 5: Evaluación](./Lesson_5#lesson-5-knowledge-check)
-- [Resumen de Resultados Abiertos](./Lesson_5#open-results-summary)
-- [Resumen de Introducción a la Ciencia Abierta](./Lesson_5#open-science-101-summary)
+- [Escribir un Plan de Ciencia Abierta y Gestión de Datos: Qué incluir para compartir Resultados Abiertos](./Lesson_5#escribir-un-plan-de-ciencia-abierta-y-gesti%C3%B3n-de-datos-qu%C3%A9-incluir-para-compartir-resultados-abiertos)
+- [Ejemplos de pasos hacia resultados más abiertos](./Lesson_5#ejemplos-de-pasos-hacia-resultados-m%C3%ADs-abiertos)
+- [Cómo una tecnología emergente como la IA está cambiando nuestra forma de hacer ciencia](./Lesson_5#c%C3%B3mo-una-tecnolog%C3%ADa-emergente-como-la-ia-est%C3%A1-cambiando-nuestra-forma-de-hacer-ciencia)
+- [Lección 5: Resumen](./Lesson_5#lecci%C3%B3n-4-resumen)
+- [Lección 5: Evaluación](./Lesson_5#lecci%C3%B3n-4-evaluaci%C3%B3n)
+- [Resumen del Módulo 5: Resultados Abiertos](./Lesson_5#resumen-del-m%C3%B3dulo-5-resultados-abiertos)
+- [Resumen de Introducción a la Ciencia Abierta](./Lesson_5#resumen-de-introducci%C3%B3n-a-la-ciencia-abierta)
