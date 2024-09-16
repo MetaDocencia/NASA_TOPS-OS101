@@ -177,7 +177,7 @@ La cantidad de datos, repositorios y políticas diferentes puede resultar abruma
 
 Explora los repositorios abiertos para familiarizarte con su estructura y la información disponible sobre sus productos. El repositorio más popular actualmente es Zenodo. Ve el siguiente vídeo de 4,5 minutos para obtener una visión general de Zenodo y, a continuación, regístrate para obtener una cuenta. Puedes utilizar tu ORCID para inscribirte si tienes uno o lo has creado en la lección anterior.
 
-[Mira el video](https://www.youtube.com/watch?v=BPVSErzNtME&embeds_referring_euri=https%3A%2F%2Fopenscience101.org%2F&feature=emb_imp_woyt).
+[Mira el video](https://www.youtube.com/watch?v=gEnq_RpVdAM).
 
 ## Herramientas para ayudar con el uso y manejo de Datos Abiertos 
 
