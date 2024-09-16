@@ -18,7 +18,7 @@ Este módulo está diseñado para ayudarte a comenzar tu camino hacia la prácti
 
 Estos términos clave son tópicos importantes para este módulo. Selecciona el término para ver la descripción.
 
-**Máquina Virtual** -- Un entorno informático que replica la funcionalidad de una máquina física pero a un nivel superior de abstracción en una computadora. Esto permite que los recursos de la máquina virtual sean más flexibles y compartimentados.
+**Máquina virtual** -- Un entorno informático que replica la funcionalidad de una máquina física pero a un nivel superior de abstracción en una computadora. Esto permite que los recursos de la máquina virtual sean más flexibles y compartimentados.
 
 **Metadata** -- Información sobre los datos que proporciona detalles adicionales y contexto.
 
