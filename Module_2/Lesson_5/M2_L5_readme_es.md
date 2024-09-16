@@ -17,7 +17,7 @@ Esta lección se centra en las herramientas disponibles para compartir productos
 
 Al finalizar esta lección deberías ser capaz de:
 
-- Describir algunos de los beneficios de los *preprints* e identificar recursos para revistas de Acceso Abierto.
+- Describir algunos de los beneficios de las preimpresiones (_preprints_) e identificar recursos para revistas de Acceso Abierto.
 - Listar herramientas usadas comúnmente que incrementan la reproducibilidad de un resultado.
 - Enumerar aplicaciones para gestión de proyectos y gestión de referencias.
 
@@ -25,27 +25,27 @@ Al finalizar esta lección deberías ser capaz de:
 
 ### *Preprints*
 
-Las herramientas de Ciencia Abierta pueden ser utilizadas como herramientas para escribir y producir contenido, como Planes de Gestión de Datos, presentaciones y *preprints* (preimpresiones). Los *preprints* son versiones preliminares de los documentos de investigación que se comparten públicamente antes de su publicación en revistas científicas. En algunas disciplinas, se comparten antes de la revisión por pares mientras que en otras disciplinas, puede ser sólo después de la revisión por pares y antes de la publicación. Son un componente vital de la creación de contenidos científicos abiertos, ya que promueven la transparencia, la rápida difusión del conocimiento y la colaboración entre las personas que investigan.
+Las herramientas de Ciencia Abierta pueden ser utilizadas como herramientas para escribir y producir contenido, como Planes de Gestión de Datos, presentaciones y preimpresiones (_preprints_). Las preimpresiones (_preprints_) son versiones preliminares de los documentos de investigación que se comparten públicamente antes de su publicación en revistas científicas. En algunas disciplinas, se comparten antes de la revisión por pares mientras que en otras disciplinas, puede ser sólo después de la revisión por pares y antes de la publicación. Son un componente vital de la creación de contenidos científicos abiertos, ya que promueven la transparencia, la rápida difusión del conocimiento y la colaboración entre las personas que investigan.
 
-Al compartir *preprints*, el equipo investigador puede recibir retroalimentación de la comunidad de investigación global, perfeccionar su trabajo y comunicar rápidamente sus hallazgos. Esto acelera el ritmo del descubrimiento científico y garantiza que la investigación valiosa sea accesible a un público más amplio, lo que se ajusta a los principios de la Ciencia Abierta.
+Al compartir preimpresiones (_preprints_), el equipo investigador puede recibir retroalimentación de la comunidad de investigación global, perfeccionar su trabajo y comunicar rápidamente sus hallazgos. Esto acelera el ritmo del descubrimiento científico y garantiza que la investigación valiosa sea accesible a un público más amplio, lo que se ajusta a los principios de la Ciencia Abierta.
 
-Los *preprints* han adquirido especial relevancia durante la pandemia de COVID-19, donde desempeñaron un papel crucial en el rápido intercambio de información sobre el virus y sus efectos, enfatizando su importancia en el avance de la ciencia y la salud pública. Fundamentalmente, los *preprints* son importantes para la Ciencia Abierta. Considera los siguientes aspectos destacados:
+Las preimpresiones (_preprints_) han adquirido especial relevancia durante la pandemia de COVID-19, donde desempeñaron un papel crucial en el rápido intercambio de información sobre el virus y sus efectos, enfatizando su importancia en el avance de la ciencia y la salud pública. Fundamentalmente, las preimpresiones (_preprints_) son importantes para la Ciencia Abierta. Considera los siguientes aspectos destacados:
 
-1. **Difusión rápida:** Los *preprints* permiten a las personas que investigan compartir rápidamente sus hallazgos con la comunidad científica y el público, a veces a los pocos días de completar su investigación. Esta difusión rápida es especialmente beneficiosa cuando se trata de temas urgentes o que evolucionan con rapidez.
+1. **Difusión rápida:** Las preimpresiones (_preprints_) permiten a las personas que investigan compartir rápidamente sus hallazgos con la comunidad científica y el público, a veces a los pocos días de completar su investigación. Esta difusión rápida es especialmente beneficiosa cuando se trata de temas urgentes o que evolucionan con rapidez.
 
-2. **Revisión por pares:** Aunque los _preprints_ no son revisados por pares, a menudo se someten a una forma de revisión comunitaria. Las personas que investigan y las expertas pueden proporcionar retroalimentación y críticas constructivas, ayudando al equipo responsable de la autoría a mejorar su trabajo antes de la publicación formal de la revista.
+2. **Revisión por pares:** Aunque las preimpresiones (_preprints_) no son revisados por pares, a menudo se someten a una forma de revisión comunitaria. Las personas que investigan y las expertas pueden proporcionar retroalimentación y críticas constructivas, ayudando al equipo responsable de la autoría a mejorar su trabajo antes de la publicación formal de la revista.
 
-3. **Variedad de las disciplinas:** Los _preprints_ no se limitan a ninguna disciplina científica específica. Se utilizan en disciplinas que van desde la medicina y la biología hasta la física y las ciencias sociales, convirtiéndolos en una herramienta versátil para difundir la investigación.
+3. **Variedad de las disciplinas:** Las preimpresiones (_preprints_) no se limitan a ninguna disciplina científica específica. Se utilizan en disciplinas que van desde la medicina y la biología hasta la física y las ciencias sociales, convirtiéndolos en una herramienta versátil para difundir la investigación.
 
-4. **Versiones y citaciones:** Los _preprints_ pueden tener diferentes versiones y el documento revisado por pares puede diferir. Se fomenta que las personas que investigan citen los _preprints_ cuando debaten investigaciones en curso, permitiendo la transparencia en el discurso académico.
+4. **Versiones y citaciones:** Las preimpresiones (_preprints_) pueden tener diferentes versiones y el documento revisado por pares puede diferir. Se fomenta que las personas que investigan citen las preimpresiones (_preprints_) cuando debaten investigaciones en curso, permitiendo la transparencia en el discurso académico.
 
-5. **Acceso gratuito:** Los _preprints_ suelen ser de libre acceso para cualquier persona con conexión a Internet. Este Acceso Abierto fomenta la igualdad y la inclusión en la ciencia, y permite a personas de diversas procedencias e instituciones participar en las investigaciones más recientes.
+5. **Acceso gratuito:** Las preimpresiones (_preprints_) suelen ser de libre acceso para cualquier persona con conexión a Internet. Este Acceso Abierto fomenta la igualdad y la inclusión en la ciencia, y permite a personas de diversas procedencias e instituciones participar en las investigaciones más recientes.
 
-6. **No se trata de un reemplazo de la revisión por pares:** Aunque los _preprints_ son herramientas valiosas para el intercambio y la colaboración temprana, no son un sustituto de una publicación formal revisada por pares. Quienes investigan y quienes leen deben examinar los _preprints_ sabiendo que no han sido sometidos al riguroso proceso de revisión por pares que ofrecen las revistas.
+6. **No se trata de un reemplazo de la revisión por pares:** Aunque las preimpresiones (_preprints_) son herramientas valiosas para el intercambio y la colaboración temprana, no son un sustituto de una publicación formal revisada por pares. Quienes investigan y quienes leen deben examinar las preimpresiones (_preprints_) sabiendo que no han sido sometidos al riguroso proceso de revisión por pares que ofrecen las revistas.
 
-Los _preprints_ son típicamente alojados en servidores dedicados a diferentes campos científicos. Los ejemplos incluyen: [arXiv](https://arxiv.org/) (física, matemática), [bioRxiv](https://www.biorxiv.org/) (biología), [medRxiv](https://www.medrxiv.org/) (medicina), y [muchos otros](https://en.wikipedia.org/wiki/List_of_preprint_repositories). Estas plataformas ayudan a organizar y facilitar el intercambio de _preprints_. El [Marco de Ciencia Abierta (_Open Science Framework_, OSF)](https://osf.io/preprints/#!) proporciona un servicio, en inglés, para buscar en múltiples servidores de preimpresión.
+Las preimpresiones (_preprints_) son típicamente alojados en servidores dedicados a diferentes campos científicos. Los ejemplos incluyen: [arXiv](https://arxiv.org/) (física, matemática), [bioRxiv](https://www.biorxiv.org/) (biología), [medRxiv](https://www.medrxiv.org/) (medicina), y [muchos otros](https://en.wikipedia.org/wiki/List_of_preprint_repositories). Estas plataformas ayudan a organizar y facilitar el intercambio de preimpresiones (_preprints_). El [Marco de Ciencia Abierta (_Open Science Framework_, OSF)](https://osf.io/preprints/#!) proporciona un servicio, en inglés, para buscar en múltiples servidores de preimpresión.
 
-Recuerda que los _preprints_ desempeñan un papel importante en la Ciencia Abierta, al promover un intercambio rápido y transparente de los resultados de la investigación en diversos ámbitos científicos. Ofrecen una valiosa oportunidad para que las personas que investigan difundan su trabajo y recopilen retroalimentación, lo que en última instancia hace avanzar el conocimiento científico.
+Recuerda que las preimpresiones (_preprints_) desempeñan un papel importante en la Ciencia Abierta, al promover un intercambio rápido y transparente de los resultados de la investigación en diversos ámbitos científicos. Ofrecen una valiosa oportunidad para que las personas que investigan difundan su trabajo y recopilen retroalimentación, lo que en última instancia hace avanzar el conocimiento científico.
 
 ### Descubre una revista de Acceso Abierto para compartir tus resultados
 
@@ -162,7 +162,7 @@ Zotero ayuda a gestionar metadatos y citas de software, datos y publicaciones a 
 
 En esta lección has aprendido:
 
-- Beneficios de los _preprints_ y recursos para las revistas de Acceso Abierto.
+- Beneficios de las preimpresiones (_preprints_) y recursos para las revistas de Acceso Abierto.
 - Herramientas para la reproducibilidad y replicabilidad de tus estudios.
 - Herramientas adicionales que están disponibles para ayudar a gestionar los resultados abiertos, incluyendo la gestión de proyectos y la gestión de referencias.
 
@@ -212,4 +212,4 @@ A lo largo de este módulo, has aprendido algunos de los conceptos y herramienta
 - La elaboración y puesta en común de datos que emplean los principios FAIR mediante la incorporación de un Plan de Gestión de Datos, el uso de identificadores y citas persistentes, y la utilización de los formatos de datos y herramientas adecuados para la elaboración de datos y la puesta en común de resultados.
 - El uso de las herramientas necesarias para el desarrollo de software, incluidos el código fuente, los kernels, los lenguajes de programación, el software de terceros y el control de versiones.
 - Las herramientas y tipos de documentación usados para publicar y gestionar Software Abierto.
-- Los recursos para compartir los productos de la investigación, incluidos los _preprints_, las publicaciones de Acceso Abierto, los sistemas de gestión de referencias y los recursos de apoyo a la reproducibilidad.
+- Los recursos para compartir los productos de la investigación, incluidas las preimpresiones (_preprints_), las publicaciones de Acceso Abierto, los sistemas de gestión de referencias y los recursos de apoyo a la reproducibilidad.
