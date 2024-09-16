@@ -111,7 +111,7 @@ Anteriormente, debatimos algunas preocupaciones de adoptar la Ciencia Abierta. E
 
 Distinguimos entre preocupaciones y temores; por un lado, aquellos asociados a cambiar la cultura de cómo hacemos ciencia y, por otro, aquellos vinculados a las barreras estructurales que bloquean la capacidad de los investigadores para adoptar prácticas de Ciencia Abierta. Reconocemos que estas categorías se solapan, pero el encuadre puede ser útil para entender qué es lo que controlamos como individuos, y en qué aspectos debemos fomentar cambios más estructurales en nuestro ecosistema científico.
 
-### Descripción General: Alineamiento erróneo de incentivos
+### Descripción general: Alineamiento erróneo de incentivos
 
 Los incentivos pueden presentarse de muchas formas, pero -en el ámbito científico- la mayoría implican financiación de propuestas y promoción profesional. En ambos casos, se utilizan métricas para medir el éxito científico (por ejemplo, número de publicaciones y citas, como se ha comentado anteriormente en este curso). Estas mediciones actuales no reflejan todo el impacto de las actividades que llevan adelante quienes hacen ciencia. A continuación, presentamos algunos ejemplos de incentivos mal alineados. Aunque todavía no hay respuestas perfectas para superar el problema, agencias como la NASA e iniciativas como [DORA](https://sfdora.org/) y [COARA](https://coara.eu/) están trabajando activamente para actualizar estas métricas que definen lo que significa el éxito en la ciencia y, para esto, será necesaria la acción de la comunidad para garantizar que las prácticas abiertas e inclusivas reciban el mérito que merecen.
 
