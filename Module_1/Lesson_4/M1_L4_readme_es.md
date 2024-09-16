@@ -145,7 +145,7 @@ La mayoría de las veces las conferencias son lugares abiertos. Piensa en quién
 
 Las publicaciones pueden tener elementos abiertos y cerrados. ¿De qué manera están abiertas?
 
-## Barreras Sociales
+## Barreras sociales
 
 ### Desafío: Colaboración y Comunidad - Los miembros de la comunidad abierta no siempre están de acuerdo entre sí
 
