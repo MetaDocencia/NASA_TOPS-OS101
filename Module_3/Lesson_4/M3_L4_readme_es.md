@@ -56,7 +56,7 @@ A veces, puede que trabajes con un repositorio bien preparado que maneje muchos 
 
 ## Cuándo compartir los datos y consideraciones sobre si se debe hacerlo
 
-### ¿Cuándo Compartir Datos?
+### ¿Cuándo compartir datos?
 
 La decisión de cuándo compartir datos debería discutirse con todas las personas del equipo y documentarse en el Plan de Gestión de Datos. Las agencias de financiamiento y organizaciones pueden tener requerimientos específicos de cuándo deben compartirse los datos, pero aquí te animamos a pensar si es posible compartir tus datos antes de que te lo exija tu espónsor. Hay distintos momentos en que los datos pueden ser compartidos:
 
@@ -118,7 +118,7 @@ Los datos pueden estar sujetos a propiedad intelectual, derechos de autoría y l
 
 Muchas instituciones de investigación tienen personas residentes expertas en propiedad intelectual, derechos de autoría y derecho de patentes. Pueden ser un gran recurso si tienes alguna pregunta o preocupación.
 
-## Dónde Compartir Datos
+## Dónde compartir datos
 
 Los datos pueden compartirse en una enorme variedad de lugares. Si bien es común compartir datos a través de correos electrónicos o sitios web, estos no son medios recomendados ya que no cumplen con los requisitos de que sean fáciles de encontrar o archivados a largo plazo. Compartir datos como parte del material complementario de una publicación revisada por pares, especialmente para conjuntos pequeños de datos, es aceptable en algunos campos. Un repositorio a largo plazo que proporcione un identificador permanente es la mejor opción para compartir datos.
 
