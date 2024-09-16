@@ -24,7 +24,7 @@ Estos términos clave son tópicos importantes para este módulo. Selecciona el 
 
 **Software** – Este término general se utiliza para programas de computadora y aplicaciones que proporcionan a las personas usuarias un cierto grado de utilidad o producen un resultado o servicio. El software se puede distribuir en forma ejecutable, como código fuente o como un servicio a través de Internet.
 
-**Licencia de Software** – Un documento que establece los derechos de la persona que desarrolló el sofware y de las personas que lo usan.
+**Licencia de software** – Un documento que establece los derechos de la persona que desarrolló el sofware y de las personas que lo usan.
 
 **Licencia de Código Abierto** – Licencia de software, aprobada por la Iniciativa de Código Abierto (OSI) como compatible con la definición de Código Abierto, otorgando permisos a cualquiera para inspeccionar, usar, modificar y distribuir el código fuente del software para cualquier propósito. Estándares similares pueden ser promulgados por otras organizaciones.
 
@@ -32,7 +32,7 @@ Estos términos clave son tópicos importantes para este módulo. Selecciona el 
 
 **Software de código cerrado** – Software propietario con código fuente que no está disponible públicamente. Sólo las personas autoras originales, no las usuarias, tienen derechos para copiar, modificar, actualizar y editar el código fuente. Las personas usuarias no tienen acceso al código.
 
-**Obra Derivada** – Una obra creativa que se deriva o se basa en una obra preexistente que es traducida, alterada, organizada o transformada de una manera que requiere permiso de la persona titular de los derechos de autor de la obra original o proviene de obras de dominio público.
+**Obra derivada** – Una obra creativa que se deriva o se basa en una obra preexistente que es traducida, alterada, organizada o transformada de una manera que requiere permiso de la persona titular de los derechos de autor de la obra original o proviene de obras de dominio público.
 
 **Control de versiones** – Un sistema para gestionar automáticamente las diferentes versiones de un archivo de computadora que sufre cambios, en especial uno que contiene código fuente. En el desarrollo de software, el control de versiones preserva un historial completo de los cambios en el código fuente y permite a un desarrollador retroceder a una versión anterior si es necesario.
 
