@@ -47,7 +47,7 @@ Imagen: Existen muchos beneficios en la Ciencia Abierta. Adaptación de [CC-BY D
 
 ## Beneficios para ti
 
-### ¡Eres tu mejor colaborador futuro!
+### ¡Eres tu mejor colega en el futuro!
 
 Hacer Ciencia Abierta no sólo permite que otras personas entiendan y reproduzcan tus resultados, sino que también te permite hacerlo a tí! Implementar principios de Ciencia Abierta, tales como buena documentación y control de versiones, ayuda a colaboradores potenciales y a cualquier otra persona que se interese en entender tus resultados.
 
