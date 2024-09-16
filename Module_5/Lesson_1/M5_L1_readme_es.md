@@ -150,9 +150,9 @@ Twitter, ahora X \#1: https://twitter.com/cornerof_thesky/status/159508667127558
 
 Twitter, ahora X \#2: https://twitter.com/V_Parmentier/status/1595127493199302656?s=20 (en inglés)
 
-TikTok: https://www.tiktok.com/@astrojaket/video/7168878696906886405
+TikTok: https://www.tiktok.com/@astrojaket/video/7168878696906886405 (en inglés)
 
-YouTube: https://www.youtube.com/watch?v=cI-kM_wPbbQ
+YouTube: https://www.youtube.com/watch?v=cI-kM_wPbbQ (en inglés)
 
 ---
 
