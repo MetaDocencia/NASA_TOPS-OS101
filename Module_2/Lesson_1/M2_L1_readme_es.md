@@ -55,7 +55,7 @@ Muchas personas que hacen ciencia escriben código fuente para producir software
 
 **Software de propósito general** - Software producido para un uso generalizado, no para fines científicos especializados. Esta clasificación alcanza  tanto al software comercial tradicional como al de Código Abierto.
 
-**Software Operativo y de Infraestructura** - Software utilizado por centros de datos y grandes instalaciones de tecnología de la información para proporcionar servicios de datos.
+**Software operativo y de infraestructura** - Software utilizado por centros de datos y grandes instalaciones de tecnología de la información para proporcionar servicios de datos.
 
 **Librería** - También llamada biblioteca. Una colección de códigos y rutinas, previamente realizadas por quienes desarrollan y reutilizables para facilitar procesos comunes en la producción de software y así ahorrar tiempo y esfuerzo.
 
