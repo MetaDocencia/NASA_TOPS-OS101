@@ -137,13 +137,15 @@ _Selecciona cada pestaña para obtener más información._
             <p>Los portales de búsqueda de datos nacionales e internacionales permiten el descubrimiento de datos producidos o financiados por organizaciones nacionales e internacionales.</p>
             <p>Los ejemplos incluyen:</p>
             <ul>
-            <li><a href="https://data.gov/">Los datos federales de EE.UU</a></li>
+            <li><a href="https://datos.bancomundial.org/">El Banco Mundial</a></li>
+            <li><a href="https://www.ine.gov.py/microdatos">Datos Abiertos de Paraguay</a></li>
             <li><a href="https://data.europa.eu/es">Portal de datos de la UE</a></li>
-            <li><a href="https://apps.who.int/gho/data/node.home">OMS</a></li>
-            <li><a href="https://data.worldbank.org/">El Banco Mundial</a></li>
-            <li><a href="https://www.data.gov.uk/">data.gov.uk</a></li>
-            <li><a href="https://data.unicef.org/">UNICEF</a></li>
-            <li><a href="https://www.data.gouv.fr/en/">data.gouv.fr</a> - Plataforma abierta para datos públicos franceses</li>
+            <li><a href="https://dados.gov.br/">Portal de Datos Abiertos de Brasil (en portugués)</a></li>
+            <li><a href="https://data.gov/">Datos federales de EE.UU (en inglés)</a></li>
+            <li><a href="https://apps.who.int/gho/data/node.home">OMS (en inglés)</a></li>
+            <li><a href="https://www.data.gov.uk/">data.gov.uk (en inglés)</a></li>
+            <li><a href="https://data.unicef.org/">UNICEF (en inglés)</a></li>
+            <li><a href="https://www.data.gouv.fr/">Plataforma abierta para datos públicos franceses (en francés)</a></li>
             </ul>
         </td>
     </tr>
@@ -242,9 +244,9 @@ _Selecciona cada pestaña para obtener más información._
             <p>Los datos almacenados en estos repositorios generalmente son producidos por el gobierno.</p>
             <p>Los ejemplos incluyen:</p>
             <ul>
-              <li><a href="https://data.gov/">https://dados.gov.br/</a></li>  
-              <li><a href="https://data.gov/">https://data.gov/</a></li>
               <li><a href="https://data.europa.eu/es">https://data.europa.eu/es</a></li>
+              <li><a href="https://dados.gov.br/">https://dados.gov.br/</a> (en portugués) </li>  
+              <li><a href="https://data.gov/">https://data.gov/</a> (en inglés) </li>
             </ul>
         </td>
     </tr>
@@ -273,7 +275,7 @@ Unir el tipo de repositorio con la definición correcta.
 
 <img src="../images/media/image24_es.png" style="width:100%;height:auto;" />
 
-El uso de Datos Abiertos para un proyecto depende de una serie de factores, como la calidad de los datos, las condiciones de acceso y reúso, la facilidad para encontrar los datos, etc. Algunos elementos esenciales para evaluar la pertinencia y utilidad de los conjuntos de datos son (adaptado del [curso GODAN Action Open Data (en inglés)](https://aims.gitbook.io/open-data-mooc/unit-3-using-open-data/lesson-2.2-quality-and-provenance)):
+El uso de Datos Abiertos para un proyecto depende de una serie de factores, como la calidad de los datos, las condiciones de acceso y reúso, la facilidad para encontrar los datos, etc. Algunos elementos esenciales para evaluar la pertinencia y utilidad de los conjuntos de datos son (adaptado del [curso GODAN Action Open Data, en inglés](https://aims.gitbook.io/open-data-mooc/unit-3-using-open-data/lesson-2.2-quality-and-provenance)):
 
 **Preguntas prácticas**
 
