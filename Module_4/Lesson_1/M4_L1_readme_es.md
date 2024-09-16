@@ -114,7 +114,7 @@ Las personas que investigan utilizan y producen una gran variedad de programas i
 - Sistema operativo Android, entre otros
   - Puedes mirar el código fuente de Android, pero no puedes modificarlo e instalarlo en un dispositivo. Y, aunque pudieras, no podrías utilizar ninguno de los servicios estándar (por ejemplo, Google Store) con él. Así que es "abierto" en el mismo sentido que los números de la lotería de anoche son "abiertos".
 
-**Software Operativo** - El software operativo es utilizado por centros de datos y grandes instalaciones de tecnología de la información para proporcionar servicios de datos. Por ejemplo:
+**Software operativo** - El software operativo es utilizado por centros de datos y grandes instalaciones de tecnología de la información para proporcionar servicios de datos. Por ejemplo:
 
 - [Fprime](https://nasa.github.io/fprime/) – Software de vuelo para misiones espaciales
 
