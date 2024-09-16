@@ -87,7 +87,7 @@ Estos términos clave son tópicos importantes para este módulo. Selecciona el 
 ### [Lección 5: De la teoría a la práctica](./Lesson_5)
 
 - [Escribir un Plan de Ciencia Abierta y Gestión de Datos](./Lesson_5#escribir-un-plan-de-ciencia-abierta-y-gesti%C3%B3n-de-datos)
-- [Las comunidades de Datos Abiertos y tú](./Lesson_5#las-comunidades-de-datos-abiertos-y-t%C3%BA)
+- [Las comunidades de Datos Abiertos y tu](./Lesson_5#las-comunidades-de-datos-abiertos-y-tu)
 - [Recursos adicionales](./Lesson_5#recursos-adicionales)
 - [Lección 5: Resumen](./Lesson_5#lecci%C3%B3n-5-resumen)
 - [Lección 5: Evaluación](./Lesson_5#lecci%C3%B3n-5-evaluaci%C3%B3n)
