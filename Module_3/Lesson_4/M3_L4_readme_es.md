@@ -54,7 +54,7 @@ En general, compartir tus Datos Abiertos requiere de los siguientes pasos:
 
 A veces, puede que trabajes con un repositorio bien preparado que maneje muchos de estos pasos (por ejemplo, si está trabajando con los datos de la misión de la NASA). De lo contrario, es tu responsabilidad seguir los pasos anteriores para compartir tus datos abiertamente.
 
-## Cuándo compartir los datos y si hacerlo
+## Cuándo compartir los datos y consideraciones sobre si se debe hacerlo
 
 ### ¿Cuándo Compartir Datos?
 
