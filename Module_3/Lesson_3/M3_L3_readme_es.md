@@ -70,7 +70,7 @@ Algunos desafíos del uso de datos en formatos no abiertos incluyen:
 - La conversión de los datos a un formato universal puede llevar a un formato con características únicas que no se traducen bien, y hace que los datos pierdan parte de su valor.
 - Las nuevas políticas de Datos Abiertos pueden limitar el intercambio de datos privados, ya que a menudo no es compatible con el concepto de  distribución fácil.
 
-### Ejemplos de Formatos de Datos Abiertos
+### Ejemplos de formatos de Datos Abiertos
 
 Algunos ejemplos de formatos de Datos Abiertos son:
 
