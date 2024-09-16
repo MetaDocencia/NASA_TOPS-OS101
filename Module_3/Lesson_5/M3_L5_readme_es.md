@@ -3,7 +3,7 @@
 ## Contenidos
 
 - [Escribir un Plan de Ciencia Abierta y Gestión de Datos](#escribir-un-plan-de-ciencia-abierta-y-gesti%C3%B3n-de-datos)
-- [Las comunidades de Datos Abiertos y tú](#las-comunidades-de-datos-abiertos-y-t%C3%BA)
+- [Las comunidades de Datos Abiertos y tu](#las-comunidades-de-datos-abiertos-y-tu)
 - [Recursos adicionales](#recursos-adicionales)
 - [Lección 5: Resumen](#lecci%C3%B3n-5-resumen)
 - [Lección 5: Evaluación](#lecci%C3%B3n-5-evaluaci%C3%B3n)
@@ -51,7 +51,7 @@ Responde a las siguientes preguntas en el PGD:
 4. ¿Cómo facilita el plan el reúso de los datos?
 5. Quién: Roles y responsabilidades de quienes forman parte del equipo para la implementación del PGD.
 
-## Las comunidades de Datos Abiertos y tú
+## Las comunidades de Datos Abiertos y tu
 
 ### Involucrarse con comunidades de Datos Abiertos
 
