@@ -120,7 +120,7 @@ Comprender estas cuestiones es importante para practicar la Ciencia Abierta y ga
 
 Al principio, preocuparse por la propiedad intelectual y los derechos de autoría puede parecer un detalle innecesario. Sin embargo, anticiparse a los cambios en tu situación asegurando la propiedad permanente de tu trabajo en la fase de planificación de tu investigación, te puede ayudar a evitar problemas legales e institucionales más adelante.
 
-Si envías tu manuscrito a una editorial que exige ser la dueña de los derechos de la obra, ¿Podrás acceder a esa publicación cuando cambies de trabajo y ya no tengas una suscripción a esa obra? ¿Puedes cumplir los mandatos de tu organismo de financiación para compartir abiertamente tu trabajo? ¿Puedes reutilizar las figuras que has hecho en obras derivadas? ¿Podrán otras personas acceder a tu trabajo? Aunque parezcan cuestiones por las que no deberías preocuparte, pueden resultar muy difíciles de afrontar luego.
+Si envías tu manuscrito a una editorial que exige ser la dueña de los derechos de la obra, ¿Podrás acceder a esa publicación cuando cambies de trabajo y ya no tengas una suscripción a esa obra? ¿Puedes cumplir los mandatos de tu organismo de financiación para compartir abiertamente tu trabajo? ¿Puedes reusar las figuras que has hecho en obras derivadas? ¿Podrán otras personas acceder a tu trabajo? Aunque parezcan cuestiones por las que no deberías preocuparte, pueden resultar muy difíciles de afrontar luego.
 
 Ejemplo: En los escenarios en los que se solicita el consentimiento antes de compartir (o se modifican las condiciones para compartir), puede resultar complejo aplicar los cambios. Biopython, un conjunto de herramientas de biología de Código Abierto, comenzó a licenciar su código de nuevo en 2016, y [siguen trabajando en él en 2023, colaborador individual por colaborador individual](https://github.com/biopython/biopython/issues/898).
 
@@ -128,7 +128,7 @@ Ejemplo: En los escenarios en los que se solicita el consentimiento antes de com
 
 ### Licenciar
 
-El licenciamiento es una forma de ayudar a los demás a reutilizar tu trabajo legalmente. Es una forma de especificar en qué condiciones, si las hay, otras personas pueden utilizar, desarrollar o distribuir tu trabajo. También es un método para garantizar que tu trabajo reciba el crédito adecuado. Por lo general, reutilizar contenidos sin licencia es ilegal y puede constituir una falta de ética académica, aunque éstos puedan encontrarse en Internet. Esta ley protege a las personas que crean contenido al igual que protege tu trabajo de ser utilizado sin un permiso explícito. Afortunadamente, es fácil permitir que otras personas reutilicen tu trabajo.
+El licenciamiento es una forma de ayudar a los demás a reusar tu trabajo legalmente. Es una forma de especificar en qué condiciones, si las hay, otras personas pueden utilizar, desarrollar o distribuir tu trabajo. También es un método para garantizar que tu trabajo reciba el crédito adecuado. Por lo general, reusar contenidos sin licencia es ilegal y puede constituir una falta de ética académica, aunque éstos puedan encontrarse en Internet. Esta ley protege a las personas que crean contenido al igual que protege tu trabajo de ser utilizado sin un permiso explícito. Afortunadamente, es fácil permitir que otras personas reusen tu trabajo.
 
 <img style="width:100%;height:auto;" src="../images/media/knowledgebasequote_es.jpg">
 
@@ -195,7 +195,7 @@ Las licencias pueden aplicarse a datos, código e informes, o publicaciones y a 
   <tbody>
     <tr>
         <td colspan="3">
-            <p>El dominio público no es una licencia, pero es una indicación de que no hay restricciones de reutilización en la obra. <a href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Common Zero</a> es una marca de dominio público mundial que indica que el material es libre de ser usado sin restricciones.</p>
+            <p>El dominio público no es una licencia, pero es una indicación de que no hay restricciones de reuso en la obra. <a href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Common Zero</a> es una marca de dominio público mundial que indica que el material es libre de ser usado sin restricciones.</p>
         </td>
     </tr>
   </tbody>
@@ -205,7 +205,7 @@ Las licencias pueden aplicarse a datos, código e informes, o publicaciones y a 
 
 En módulos posteriores encontrarás más detalles sobre la concesión de licencias para cada uno de estos tipos de productos, incluidos los distintos tipos de licencias, cuándo aplicar una licencia y las herramientas para aplicar licencias. _Creative Commons_ y la _Open Source Initiative_ son dos recursos con más información sobre licencias abiertas.
 
-### Actividad 3.1: Compartir o No Compartir
+### Actividad 3.1: Compartir o no compartir
 
 Coloca las siguientes actividades en las casillas Compartir o No compartir:
 
@@ -395,7 +395,7 @@ Esto también ayuda a estructurar tu investigación, datos y métodos de manera 
 
 Como mencionamos anteriormente, las licencias ayudan a facilitar el compartir tu trabajo, pero también garantiza que conserves el crédito. Siempre es importante citar la fuente correctamente de cualquier contenido que uses y recordar compartir solo contenido con licencias adecuadas. Aunque una licencia no exija atribución, proporcionar la fuente ayuda a aumentar la reproducibilidad al señalar la procedencia de tu trabajo. Esta es la norma en la comunidad científica.
 
-Al reutilizar la ciencia recuerda:
+Al reusar ciencia recuerda:
 
 - La Ciencia Abierta es una colaboración y dar reconocimiento es fundamental para que funcione.
 - Considera citar todos los recursos utilizados: conjuntos de datos, software, infraestructura, etc.
