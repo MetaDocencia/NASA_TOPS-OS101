@@ -77,10 +77,10 @@ Los motores de búsqueda como Google y Bing han cambiado radicalmente la forma e
             <ul>
                 <li><a href="https://europepmc.org/">EuropePMC ciencias de la vida (EuropePMC Life sciences)</a></li>
                 <li><a href="https://pubmed.ncbi.nlm.nih.gov/">Literatura biomédica Pubmed (Pubmed biomedical literature) </a></li>
-                <li><a href="https://arxiv.org/">arXiv</a> - para preimpresiones (_preprints_) académicos en los campos de STEM, economía e informática.</li> 
+                <li><a href="https://arxiv.org/">arXiv</a> - para preimpresiones <I>preprints</I> académicos en los campos de STEM, economía e informática.</li> 
                 <li><a href="https://www.biorxiv.org/">Biorxiv Preprint</a> - servidor para biología</li>
                 <li><a href="https://eartharxiv.org/">EarthArXiv</a> y <a href="https://essoar.org/">Archivo Abierto de Ciencias de la Tierra y Espacio</a></li>
-                <li><a href="https://asapbio.org/preprint-servers">ASAPbio</a> - catálogos de servidores de preimpresiones (_preprints_)</li>
+                <li><a href="https://asapbio.org/preprint-servers">ASAPbio</a> - catálogos de servidores de preimpresiones <I>preprints</I></li>
                 <li>y otros...</li>
             </ul>
         </td>
