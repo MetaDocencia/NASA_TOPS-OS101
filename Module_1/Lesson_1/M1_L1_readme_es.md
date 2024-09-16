@@ -20,7 +20,7 @@ Después de completar esta lección deberías poder:
 - Definir qué es la Ciencia Abierta.
 - Enumerar diferentes grupos que practican Ciencia Abierta.
 
-## Motivación por la Ciencia Abierta
+## Motivación para la Ciencia Abierta
 
 ¡Te damos la bienvenida al primer módulo del programa Introducción a la Ciencia Abierta de TOPS! El Módulo 1 tiene cinco lecciones que presentan información sobre el Ethos de la Ciencia Abierta. Esto se refiere a las motivaciones y a las mejores prácticas para hacer a la ciencia más abierta. ¡Este curso ha sido posible gracias al trabajo del equipo de Transfórmate a la Ciencia Abierta (TOPS) de la NASA, a los expertos en Ciencia Abierta y a toda la comunidad de TOPS (más de 3100 personas)! Por favor, ten en cuenta que todas las imágenes se citan al final de cada módulo.
 
