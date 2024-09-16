@@ -9,7 +9,7 @@
 - [Lección 5: Evaluación](#lecci%C3%B3n-5-evaluaci%C3%B3n)
 - [Resumen del Módulo 2: Herramientas y Recursos Abiertos](#resumen-del-m%C3%B3dulo-2-herramientas-y-recursos-abiertos)
 
-## Descripción General
+## Descripción general
 
 Esta lección se centra en las herramientas disponibles para compartir productos de investigación. Comienza con un análisis de las herramientas para la gestión de proyectos de investigación. Luego introduce las herramientas para publicaciones abiertas y cómo encontrarlas. A continuación, discute las herramientas para los resultados abiertos. Por último, esta lección analiza el concepto de reproducibilidad. Las revistas son una herramienta para compartir tus resultados y estos son discutidos con más detalle en el Módulo 5 - Resultados Abiertos.
 
