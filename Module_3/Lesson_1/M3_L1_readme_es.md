@@ -37,7 +37,7 @@ Pérdida de tejido óseo, vértigo, anemia, atrofia muscular, mayor riesgo de c�
 
 **Ejemplo:** Usando datos biológicos de astronautas de GeneLab, [la comunidad científica recientemente encontró](https://www.nature.com/articles/s41576-020-00322-8) cuál puede ser el motivo de muchos de los efectos secundarios del viaje al espacio: el estrés mitocondrial.
 
-[Mira el Video](https://www.youtube.com/watch?v=BPVSErzNtME\&embeds_referring_euri=https%3A%2F%2Fopenscience101.org%2F\&feature=emb_imp_woyt)
+[Mira el Video](https://www.youtube.com/watch?v=c9moR-KQpDQ)
 
 Las mitocondrias son componentes de nuestras células que afectan a la función respiratoria y energética. Este descubrimiento podría ser crucial para superar los problemas relacionados a la salud humana en el espacio. Comprender el origen de este problema podría ayudar a la comunidad científica a desarrollar soluciones y terapias para mantener a las personas sanas en el espacio durante períodos de tiempo más largos.
 
