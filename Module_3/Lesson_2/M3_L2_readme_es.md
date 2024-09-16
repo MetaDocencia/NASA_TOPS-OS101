@@ -13,7 +13,7 @@
 
 En esta lección aprenderás a descubrir, evaluar y citar un conjunto de Datos Abiertos. Empieza explorando los repositorios y aprendiendo sobre los problemas y consideraciones para buscar conjuntos de datos. Después, aprenderás a determinar si el conjunto de datos es adecuado para su uso y aprenderás qué revisar en la documentación, las licencias y los formatos de archivo. La lección concluye con una discusión sobre la importancia de citar los conjuntos de datos y cómo leer y seguir las instrucciones de citación.
 
-## Objetivos de Aprendizaje
+## Objetivos de aprendizaje
 
 Al finalizar esta lección deberías ser capaz de:
 
@@ -244,7 +244,7 @@ _Selecciona cada pestaña para obtener más información._
             <ul>
               <li><a href="https://data.gov/">https://dados.gov.br/</a></li>  
               <li><a href="https://data.gov/">https://data.gov/</a></li>
-              <li><a href="https://data.europa.eu/en">https://data.europa.eu/en</a></li>
+              <li><a href="https://data.europa.eu/es">https://data.europa.eu/es</a></li>
             </ul>
         </td>
     </tr>
