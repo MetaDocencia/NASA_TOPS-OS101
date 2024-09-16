@@ -21,21 +21,21 @@ Al finalizar esta lección deberías ser capaz de:
 
 Estos términos clave son importantes para el módulo. Selecciona el término para ver la descripción.
 
-**Objeto de Investigación (OI)** - Un método para la identificación, agregado e intercambio de información científica en la Web. Puede incluir publicaciones en diferentes formatos, softwares, datos y medios.
+**Objeto de investigación (OI)** - Un método para la identificación, agregado e intercambio de información científica en la Web. Puede incluir publicaciones en diferentes formatos, softwares, datos y medios.
 
-**Publicación Depredadora** - Editores con fines de lucro que cobran una tarifa por publicación pero ofrecen pocos controles de calidad, como revisión por pares o composición tipográfica.
+**Publicación depredadora** - Editores con fines de lucro que cobran una tarifa por publicación pero ofrecen pocos controles de calidad, como revisión por pares o composición tipográfica.
 
 **Preimpresión** - (_preprint_) Versión de un artículo previa a su publicación en una revista. Puede tratarse de la versión del documento aceptado después de la revisión por pares, o de una versión anterior a su envío a una revista.
 
 **Prerregistro** - Práctica de quienes investigan en la cual determinan su plan de análisis y procedimiento de recolección de datos antes de que comience un estudio.
 
-**Identificadores Persistentes** - Referencia duradera a un documento, archivo, página web u otro objeto digital. Generalmente se utiliza en el contexto de objetos digitales accesibles a través de Internet. La mayoría de los identificadores persistentes tienen un identificador único que está vinculado a la dirección actual de los metadatos o del contenido.
+**Identificadores persistentes** - Referencia duradera a un documento, archivo, página web u otro objeto digital. Generalmente se utiliza en el contexto de objetos digitales accesibles a través de Internet. La mayoría de los identificadores persistentes tienen un identificador único que está vinculado a la dirección actual de los metadatos o del contenido.
 
-**Crisis de la Reproducibilidad** - La 'crisis de la reproducibilidad' de la ciencia es una preocupación creciente debido a varios estudios de reproducibilidad en los que resultados positivos previos no fueron reproducidos.
+**Crisis de la reproducibilidad** - La 'crisis de la reproducibilidad' de la ciencia es una preocupación creciente debido a varios estudios de reproducibilidad en los que resultados positivos previos no fueron reproducidos.
 
 **DOI** - Es un identificador persistente estandarizado por la Organización Internacional para la Estandarización (ISO, en inglés) y utilizado para identificar de forma única varios objetos.
 
-**Código de Conducta** - Un conjunto de reglas y políticas que describen las normas, principios, expectativas y valores de un grupo u organización en particular. Se considera obligatorio para cualquier persona que sea miembro de ese grupo u organización. Puede ayudar a miembros a alinear su conducta con los valores de la comunidad, apoyar la toma de decisiones y fomentar la retención y compromiso.
+**Código de conducta** - Un conjunto de reglas y políticas que describen las normas, principios, expectativas y valores de un grupo u organización en particular. Se considera obligatorio para cualquier persona que sea miembro de ese grupo u organización. Puede ayudar a miembros a alinear su conducta con los valores de la comunidad, apoyar la toma de decisiones y fomentar la retención y compromiso.
 
 ## Contenidos
 
