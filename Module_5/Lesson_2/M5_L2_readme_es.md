@@ -314,7 +314,7 @@ Brindar una atribución adecuada a los Resultados Abiertos es una responsabilida
 
 ### Pautas de citación para resultados publicados y no publicados
 
-Si un artículo se ha publicado formalmente en una revista, la cita debe remitir a la versión publicada en lugar de un servidor de borradores o artículos aún no publicados (preimpresiones o preprints).
+Si un artículo se ha publicado formalmente en una revista, la cita debe remitir a la versión publicada en lugar de un servidor de borradores o artículos aún no publicados (preimpresiones o _preprints_).
 
 Tómate el tiempo necesario para localizar la revista de origen y proporcionar una cita más precisa.
 
