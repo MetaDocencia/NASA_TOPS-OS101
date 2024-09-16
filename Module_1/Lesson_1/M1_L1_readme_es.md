@@ -158,7 +158,7 @@ El objetivo de TOPS es impulsar a la comunidad en su conjunto hacia la Ciencia A
 
 La nube de palabras muestra mayor presencia de términos como Acceso (_Access_), Reproducible (_Reproducible_), Transparencia (_Transparency_), Compartido (_Shared_), Herramientas (_Tools_), Libre (_Free_), Colaborativo (_Colaborative_) y FAIR (principios FAIR). También, con menor presencia, Equidad (_Equity_), Datos (_Data_) y Equitativo (_Equitable_), entre otras.
 
-Puede que hayas oído hablar, o nó, del término «Ciencia Abierta» antes de este curso. Si lo has hecho, es probable que tengas alguna idea preconcebida de la Ciencia Abierta y de cómo es en la práctica. Analicemos de forma conjunta esas distintas concepciones.
+Puede que hayas oído hablar del término «Ciencia Abierta» antes de este curso. Si lo has hecho, es probable que tengas alguna idea preconcebida de la Ciencia Abierta y de cómo es en la práctica. Analicemos de forma conjunta esas distintas concepciones.
 
 ### Actividad 1.1: Piensa sobre el Qué y el Cómo de la Ciencia Abierta
 
