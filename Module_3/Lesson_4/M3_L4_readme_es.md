@@ -27,7 +27,7 @@ Compartir datos es una parte crítica de mejorar la reproducibilidad de los resu
 
 Generalmente, el intercambio de datos debe hacerse a través de un centro de datos estable o un repositorio que será responsable de ingestar, curar y distribuir/publicar tus Datos Abiertos. Tú eres responsable de proporcionar información/metadatos para ayudar a que tus datos sean fáciles de encontrar, acceder y citar. También debes considerar el costo de archivar y publicar los datos.
 
-### Entonces: quieres compartir tus datos
+### La conclusión es que quieres compartir tus datos
 
 Una vez que hayas decidido compartir tus datos, hay una serie de preguntas que tendrás que responder para ayudarte a planificar y que deben incluirse en tu Plan de Gestión de Datos (PGD):
 
