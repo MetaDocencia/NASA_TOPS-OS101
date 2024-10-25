@@ -1,6 +1,6 @@
 # Plan de estudios del curso "Introducción a la Ciencia Abierta"
 
-## Descripción del plan de estudios
+## Descripción del plan de estudios de ciencia abierta
 
 Transfórmate de la Ciencia Abierta (del inglés Transform to Open Science - TOPS) es una iniciativa de la NASA diseñada para transformar rápidamente agencias, organizaciones y comunidades a una cultura inclusiva de la Ciencia Abierta. Desarrollado por la iniciativa TOPS la guía proporcionada por el plan de estudios del curso "Introducción a la Ciencia Abierta" promoverá la transformación del panorama de investigación y el avance simultáneo del descubrimiento científico. El plan de estudios de "Introducción a la Ciencia Abierta" tiene como objetivo introducir una comprensión matizada de la Ciencia Abierta, que permita a las personas participantes comprender mejor el flujo de trabajo de Ciencia Abierta de principio a fin. El enfoque será proporcionar una comprensión básica de la Ciencia Abierta, su espíritu y beneficios, y cómo participar activamente en comunidades relacionadas a la Ciencia Abierta. El plan de estudios de TOPS también se utilizará para apoyar a quienes investigan y buscan comprometerse con la NASA a medida que ésta adopta requisitos científicos de Ciencia Abierta. Quienes investigan deberán adquirir las nuevas habilidades destacadas en el plan de estudios para participar eficazmente en la Ciencia Abierta y demostrar esas habilidades al aplicar a oportunidades de financiación de la NASA.
 
