@@ -131,10 +131,10 @@ Pero, ¿qué es exactamente la Ciencia Abierta? Para ilustrar, primero presentar
 
 Esta definición fue desarrollada por un equipo de agencias federales de los Estados Unidos. Revisaron muchas definiciones diferentes de Ciencia Abierta, tanto de Estados Unidos como del resto del mundo. Estas definiciones han cambiado con el tiempo a medida que la comprensión de la Ciencia Abierta fue madurando y enriqueciéndose. Vamos a desglosar la definición un poco más:
 
-- Los resultados y procesos de investigación deben estar al alcance de todas las personas, no sólo de un pequeño grupo de personas expertas, sobre todo si se financian con fondos públicos.
-- Los resultados y procesos de investigación deben "respetar las diversas culturas", fomentando un diálogo abierto entre personas investigadoras, pueblos originarios y comunidades locales. Esto también significa que la investigación debe respetar la diversidad de leyes y costumbres de los distintos países y/o su aplicación a los distintos tipos de investigación.
-- Mientras que la Ciencia Abierta es nuestro objetivo, la seguridad y la privacidad siguen siendo preocupaciones importantes. Por lo tanto, debe protegerse la información sensible seleccionada.
-- De los principios enunciados, "Incentivo a las colaboraciones, reproducibilidad y equidad", los dos primeros son normas de investigación, mientras que el último se refiere a la inclusión de personas que de otro modo podrían quedar al margen.
+- Los resultados y procesos de investigación deben estar al alcance de todas las personas, no solo de un pequeño grupo de de personas expertas,  sobre todo si se financian con fondos públicos.
+- La colaboración es el corazón de la Ciencia Abierta. Las personas que investigan, con distintas áreas de experiencia y trayectorias, pueden aportar nuevas perspectivas y estrategias a los proyectos.
+- El avance tecnológico ha transformado la manera en que compartimos resultados. Estos avances pueden aprovecharse para fomentar una mayor colaboración, ampliar la distribución y la visibilidad de los productos de investigación y acelerar el ritmo de nuevos descubrimientos.
+- Mientras que la Ciencia Abierta es nuestro objetivo, la seguridad y la privacidad siguen siendo aspectos fundamentales. Por lo tanto, debe protegerse la información sensible seleccionada.
 
 La Ciencia Abierta es una cultura que pretende promover la ciencia y su impacto social. La Ciencia Abierta crea nuevas oportunidades para distintas partes interesadas, como personas que investigan, responsables de las políticas y público en general. La Ciencia Abierta aumenta la transparencia, repetibilidad, reproducibilidad y confirmación de los resultados de los estudios. A lo largo de este módulo y más adelante en los módulos Open Science 101, explicaremos qué significan estos términos y por qué son importantes.
 
