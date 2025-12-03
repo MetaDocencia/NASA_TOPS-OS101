@@ -133,9 +133,9 @@ But what is open science exactly? To illustrate, first we’ll present a definit
 This definition was developed by a team of U.S. federal agencies. They reviewed many different definitions of open science from both within the U.S. and around the world. These definitions have changed over time as the understanding of open science has matured and become more nuanced. Let’s break down the definition a bit more:
 
 - Research products and processes should be available to all, not just a small subset of experts, particularly if funded with public funds.
-- Collaboration is the heart of open science. Researchers with different areas of expertise and backgrounds can bring new perspectives and strategies to the project.
-- Advancing technology has changed the way we share results. These advances can be harnessed to enable greater collaboration, increase distribution and exposure for the research products, and accelerate the pace of new discoveries.
+- Research products and processes should be 'respecting diverse cultures' – fostering an open dialogue between researchers, indigenous people, and local communities. This also means that research must respect the diversity of laws and customs in different countries and/or as they apply to different kinds of research.
 - While open science is our aim, security and privacy remain important concerns. Therefore, select sensitive information should be protected.
+- Of the stated principles, "Fostering collaborations, reproducibility, and equity", the first two are research standards, while the latter refers to the inclusion of people who might otherwise get left out.
 
 Open science is a culture intended to promote science and its social impact. Open science creates new opportunities for different stakeholders including researchers, political decision makers, and public participants. Open science increases study transparency, repeatability, reproducibility, and confirmation. We expand what these terms mean and why they matter throughout this module and later in Open Science 101 modules.
 
